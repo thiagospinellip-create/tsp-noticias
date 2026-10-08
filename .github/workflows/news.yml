@@ -1,9 +1,9 @@
 name: Atualizar notícias
 
 on:
-  # Roda a cada 6 horas (UTC) — não depende do seu computador.
+  # Roda a cada 8 horas (00h, 08h e 16h UTC) — não depende do seu computador.
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0,8,16 * * *'
   # Permite rodar manualmente pela aba "Actions".
   workflow_dispatch: {}
   # Roda também quando o código do bot muda (não entra em loop:
