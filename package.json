@@ -1,0 +1,16 @@
+{
+  "name": "tsp-noticias",
+  "version": "1.0.0",
+  "description": "Automatizador de notícias para tspmmiii.com — busca notícias via RSS, ranqueia por relevância e gera um feed JSON hospedado no GitHub Pages.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node src/generate.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

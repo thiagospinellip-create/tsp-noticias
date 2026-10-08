@@ -1,0 +1,52 @@
+name: Atualizar notícias
+
+on:
+  # Roda a cada 6 horas (UTC) — não depende do seu computador.
+  schedule:
+    - cron: '0 */6 * * *'
+  # Permite rodar manualmente pela aba "Actions".
+  workflow_dispatch: {}
+  # Roda também quando o código do bot muda (não entra em loop:
+  # o commit automático só toca em docs/feed.json).
+  push:
+    paths:
+      - 'src/**'
+      - 'config.mjs'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/news.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar código
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Instalar dependências
+        run: npm ci
+
+      - name: Gerar feed de notícias
+        run: npm start
+
+      - name: Publicar feed atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/feed.json
+          if git diff --cached --quiet; then
+            echo "✅ Nenhuma alteração no feed."
+          else
+            git commit -m "chore: atualiza feed de notícias [skip ci]"
+            git push
+            echo "✅ Feed atualizado e publicado."
+          fi

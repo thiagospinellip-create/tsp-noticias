@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TSP.MMIII — Notícias</title>
+  <style>
+    :root { --bg: #0e0d0b; --ink: #ece7db; --muted: #9a917f; --accent: #c9a15a; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; background: var(--bg); color: var(--ink);
+      font-family: Georgia, "Times New Roman", serif;
+    }
+    .wrap { max-width: 960px; margin: 0 auto; padding: 48px 20px 80px; }
+    header { margin-bottom: 8px; }
+    .brand { font-size: .8rem; letter-spacing: .18em; text-transform: uppercase; color: var(--accent); }
+    h1 { font-size: 2rem; margin: 6px 0 4px; font-weight: 600; }
+    .sub { color: var(--muted); font-style: italic; margin: 0 0 32px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">TSP·MMIII — The Social Principle</div>
+      <h1>Notícias</h1>
+      <p class="sub">As notícias mais relevantes sobre História, Geopolítica, Negócios &amp; Economia, Filosofia, Cinema e Medicina.</p>
+    </header>
+
+    <div data-tsp-noticias data-feed="./feed.json" data-limit="6"></div>
+  </div>
+
+  <script src="./widget/noticias.js" defer></script>
+</body>
+</html>
