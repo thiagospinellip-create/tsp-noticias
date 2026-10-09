@@ -171,6 +171,16 @@ function assignTopics(item) {
   return matches.slice(0, 3); // no máx. 3 temas por item
 }
 
+// Relevância × atualidade: a pontuação cai pela metade a cada `recencyHalfLifeHours`.
+function freshness(publishedAt, now) {
+  const ts = publishedAt ? Date.parse(publishedAt) : NaN;
+  if (Number.isNaN(ts)) return 0.5; // sem data: conta como uma meia-vida
+  const ageHours = Math.max(0, (now - ts) / 3_600_000);
+  return Math.pow(0.5, ageHours / settings.recencyHalfLifeHours);
+}
+
+const round2 = (n) => Math.round(n * 100) / 100;
+
 // ---------- limitação de concorrência ----------
 async function mapLimit(items, limit, fn) {
   const results = new Array(items.length);
@@ -255,6 +265,13 @@ async function main() {
     });
     if (dup) mergeInto(dup, item);
     else unique.push(item);
+  }
+  // `score` passa a ser relevância × atualidade (os sites ordenam por ele); `relevance` guarda o valor bruto.
+  for (const item of unique) {
+    const f = freshness(item.publishedAt, now);
+    item.relevance = round2(item.score);
+    item.score = round2(item.score * f);
+    for (const t of Object.keys(item._scores)) item._scores[t] = item._scores[t] * f;
   }
   unique.sort((a, b) => b.score - a.score || (b.publishedAt || '').localeCompare(a.publishedAt || ''));
 

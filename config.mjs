@@ -6,7 +6,11 @@
 
 export const settings = {
   // Idade máxima da notícia (em horas) para entrar no feed.
-  maxAgeHours: 72,
+  maxAgeHours: 48,
+
+  // Atualidade: a pontuação de relevância cai pela metade a cada N horas,
+  // para que notícias novas substituam as antigas a cada atualização.
+  recencyHalfLifeHours: 18,
 
   // Quantas notícias por tema (seção) e no "destaques".
   maxPerTopic: 6,

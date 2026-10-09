@@ -1,9 +1,11 @@
 name: Atualizar notícias
 
 on:
-  # Roda a cada 8 horas (00h, 08h e 16h UTC) — não depende do seu computador.
+  # Roda a cada 6 horas (00h, 06h, 12h e 18h UTC = 21h, 3h, 9h e 15h em Brasília).
+  # O site também gera o radar sozinho (tspmmiii.com/api/noticias, cache de 6 h);
+  # este feed é a reserva caso aquele falhe.
   schedule:
-    - cron: '0 0,8,16 * * *'
+    - cron: '0 */6 * * *'
   # Permite rodar manualmente pela aba "Actions".
   workflow_dispatch: {}
   # Roda também quando o código do bot muda (não entra em loop:
