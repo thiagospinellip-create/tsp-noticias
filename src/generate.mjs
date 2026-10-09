@@ -147,9 +147,13 @@ async function fetchFeed(feed) {
 }
 
 // ---------- relevância ----------
+// Os títulos são comparados sem acento; as palavras-chave precisam passar pela mesma normalização
+// (antes, 'história', 'eleição' etc. nunca casavam).
+const normalizedKeywords = new Map(topics.map((topic) => [topic.id, topic.keywords.map(norm)]));
+
 function scoreForTopic(item, topic, base = 0) {
   let s = base;
-  for (const kw of topic.keywords) {
+  for (const kw of normalizedKeywords.get(topic.id)) {
     const w = kw.includes(' ') ? 2 : 1;
     // Título é o sinal mais forte; o corpo da notícia pesa menos.
     if (item.titleText.includes(kw)) s += w;
