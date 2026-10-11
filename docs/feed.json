@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T11:54:25.433Z",
+  "generatedAt": "2026-10-11T17:09:01.313Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -30,23 +30,51 @@
   ],
   "highlights": [
     {
+      "title": "Trump anuncia trégua energética entre Rússia e Ucrânia; o que se sabe",
+      "link": "https://www.bbc.com/portuguese/articles/cm86zpgyp789o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Brasil",
+      "publishedAt": "2026-10-11T16:22:19.000Z",
+      "summary": "Moscou ainda não comentou. Ucrânia afirmou ser a favor da medida se a Rússia aceitar.",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f83d/live/5edd4270-c58f-11f1-bc2e-018d645d8d21.png",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 11.06,
+      "relevance": 11.4
+    },
+    {
+      "title": "Rússia e Ucrânia concordaram com 'cessar-fogo energético', afirma Trump",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGg1NnBnNEo0MVpreXZmVlZLTm5NLVliY0RQdmNYUEJoLUNFV0dxYl90N2N0UzBKeFM4U2VDMEZ0dkJRNm1OTDIwZEJGQkJmN0RYcGtjSVA2bVhJbFNXcnFJN0R3a0RfQkN6clZWTXRJYmhiaGFDOWJMa3V6bnNWQ09SQmJHM1BKRFdjUi10cW5yZVFqR2VibWszVS02cjFIODhFdHZSMNIBrAFBVV95cUxQRUxaOWpCbHg2bkR0bzdFSDd0MUpZTjZHTF9GQUROb2Ywc3NndmY2Nng4aFpyZnVFaGFMUWZTTnNuMmFYLXpkalIycDYteE1CWUNYU2g2YlpWOTBLVVFmMGMtbllYTkY5SXFUNGtMUHJ6ZVNUcFAxbFd1UUlId2JpTjVTai1lRXJaQ0RzMUNMLUx1Y01Sd3Jpc0t2M2JrcTFrcUlNTEpFSGpyNEZh?oc=5",
+      "source": "InvestNews",
+      "publishedAt": "2026-10-11T15:17:45.000Z",
+      "summary": "Rússia e Ucrânia concordaram com 'cessar-fogo energético', afirma Trump InvestNews",
+      "image": "https://s2-g1.glbimg.com/CQEHtmwpqvxvMn3ZxMGYug7wAGk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/l/YCknLDQ3CbYEQstRRZqA/2026-10-10t002837z-1091946746-rc200oa5olyz-rtrmadp-3-usa-trump.jpg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 7.63,
+      "relevance": 8.2
+    },
+    {
       "title": "Zelensky rebate Trump e diz que Ucrânia só interromperá ataques se a Rússia fizer o mesmo",
       "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/10/11/zelensky-rebate-trump-e-diz-que-ucrania-so-interrompera-ataques-se-a-russia-tambem-os-parar.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-10-11T11:40:01.000Z",
-      "summary": "A Ucrânia está pronta para interromper os bombardeios às refinarias de petróleo russas se a Rússia também cessar seus ataques à infraestrutura energética ucraniana, afirmou o presidente Volodymyr Zelenskiy neste domingo (11). A declaração f",
+      "summary": "Trump e Zelensky se encontram na Casa Branca, em 18 de agosto de 2025 Kevin Lamarque/Reuters A Ucrânia está pronta para interromper os bombardeios às refinarias de petróleo russas se a Rússia também cessar seus ataques à infraestrutura ener",
       "image": "https://s2-g1.glbimg.com/9lXi2SMYvBigiYI5KgHfldlWUQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/G/toVFKBTzAkGvGI0iBsAw/2025-08-18t175855z-1199898741-rc2t9ga1ofld-rtrmadp-3-ukraine-crisis-summit.jpg",
       "topics": [
         "geopolitica",
         "negocios"
       ],
-      "score": 9.31,
-      "relevance": 9.4
+      "score": 7.29,
+      "relevance": 9
     },
     {
       "title": "Quem é o homem mais rico da África — e por que ele quer vender parte de seu império",
       "link": "https://g1.globo.com/economia/noticia/2026/10/11/quem-e-o-homem-mais-rico-da-africa-e-por-que-ele-quer-vender-parte-de-seu-imperio.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-10-11T08:00:00.000Z",
       "summary": "Aliko Dangote afirma que os planos de expansão de sua empresa ajudarão os países africanos a se tornarem autossuficientes em energia. Reprodução/Reuters O homem mais rico da África, Aliko Dangote, lançou a maior oferta pública inicial de aç",
       "image": "https://s2-g1.glbimg.com/6A38OxCOBil0uPrQUcAo5RDWn7w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/4/WFgelSR9qoYhzJBCRkNg/hr5nzyicpvnjperjnsvriaatqu.jpg",
@@ -54,109 +82,109 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 8.78,
+      "score": 7.17,
       "relevance": 10.2
     },
     {
-      "title": "Looke reúne 13 filmes do Festival de Cinema Francês em outubro",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnI5VE5wcDNrdFJvVHJ5anF0aTJSSkMxYXFuaTR3QmZDM2NjemQzOW0xLVd0XzRxeGlZQkR5QkRNR0RfUXBSYUxEbXQzc1k4U0VvM2RGMzdaZ3Z1M1Q1bE5ab05MR3hEU3NaR0ZDRmhpOXBPaV9MTUlXMXBrNGR1X0FVcE13MzQtVENHVVlqcFQwZVRMc3pmRW1OZnQ?oc=5",
-      "source": "www.jwave.com.br",
-      "publishedAt": "2026-10-11T08:45:51.000Z",
-      "summary": "Looke reúne 13 filmes do Festival de Cinema Francês em outubro www.jwave.com.br",
+      "title": "62 anos, 80 filmes, 2 Oscars: tão mundialmente conhecido quanto Tom Cruise… Quando veremos novamente uma das maiores estrelas de Hollywood no cinema?",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPaXEwRmFuZElLa20tdHBsaGdaSTRRbE1Yd1hpMFdiSWlHX2RlalVrbWxoNUc0SnB6U3ZGM2tRUjFJdlZxVkt1eWhJNlM2MUNDTS10a1VDandiWVlZeHMybGc0cTFFclV2YzI1MjM1V0g3alZnXzYwdzB3RFpYb19wUVNaQlRWNUpWbVRWZ25VTGJNbXFiTXRYMlFBbkNxcUY0VXVlbEhETUtUNG9EZWtZWjJuV0h1ZFdBNHJTd0MyRkl0ZUNjUWJySV9RMnJscHNGVTNWQWI4d2s4VFBQazVQdG5aXzFZeXY4U2NVSUI5dkNXZFBvZEJZQUoxeURpZC1DZ1JWcVZvM0pZWV9IM1RNNnFFbFBzbEIxbjl0MGlwX2hYSm9ncHlpd2Q4Ti02WXI3WERCVXhEel9RV3NoZml2TjRoS3NSOVk?oc=5",
+      "source": "Terra",
+      "publishedAt": "2026-10-11T13:01:00.000Z",
+      "summary": "62 anos, 80 filmes, 2 Oscars: tão mundialmente conhecido quanto Tom Cruise… Quando veremos novamente uma das maiores estrelas de Hollywood no cinema? Terra",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 7.97,
-      "relevance": 9
-    },
-    {
-      "title": "Economia no TO: Dorinha aposta na transformação local de matérias-primas; Vicentinho propõe silos coletivos e meta de pleno emprego",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMlBjT0pHNDNKS3ZCel9VeTlDSlg2SkJvSUt2M21lSVI4SWw5T01UVUx0aHREeTB6N0JQUFJvVUxwR2dEYlh5bzdUVDhmVDlXNUZJN2RZVzhXSlJzR2lFSWUxR0taaWtqWVM3bUwxcXdkUEhrNG9oWHFtOTBKN0RtSmZuTTVnWHdGcVBaQTZheGhkRW5TaENlVExNdGhQTk43Z0tzcHRCb2hyYUFnbVhmbHRhUXY2S25rYS1Yai1VVUxOd1ptSDd4djkzX3NqQ051dmNYdjR3V1RCYWFvSlRDV3UtV2lBSU1aMUtOb1ppd1NLb1dERHVZaVNQQ2dXcFZscGQxeXFBTHhYMTVwUGgtT21RRU5ZTTROSHRHZVNoelV6RlczTUxtTW5B0gG4AkFVX3lxTE9wNGxiMWdCcl9vcDRSMnFvdGVtV1NZMmpSblc0MFBqZHpOV0JvaWprYzNfb3RzbEd3blJubExPdUtOZUJBRWROaGRLdlJfdGdPRm5IWHBJZktsRnhnMGpMRXRJekFCRkJiSVpiU1RpUlp2bjczNzl4T0hfNmRJbUtGVnFSN1JxeUxpdHFiLVVlVktzREFfX1FQV1lrbUsyTi1SZFdUYUF0amJXZlAyMmlNcGtsVmh2eFpXMFRldEgxUkdTWmhDcFA5M2MyV3FvX2NNRkkwcjRHcXo3enowblZTVXY4d3dSbm54Ql92SXNXcDRoUXVlWFF1dlpQczcxYmI1SEdiejVHdXdxZVFXVW1ra21xakVuZjY3MU5RcmlmZkxtWnl1ZDR3QzdzWmxWT2hiUnV0VHpFLQ?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-10-11T10:00:01.000Z",
-      "summary": "Economia no TO: Dorinha aposta na transformação local de matérias-primas; Vicentinho propõe silos coletivos e meta de pleno emprego G1",
-      "image": "https://s2-g1.glbimg.com/_sEzNqDNVO1BHhrl-u22ARSN6tc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/u/8jSY1MSyAk7S3sSkL1uA/copia-de-modelo-foto-fundo-borrado-1-.png",
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.62,
-      "relevance": 8.2
-    },
-    {
-      "title": "O que se sabe sobre ataque a aeroporto na Arábia Saudita que matou 12 e feriu mais de 300",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/11/o-que-se-sabe-sobre-ataque-a-aeroporto-na-arabia-saudita-que-matou-12-e-feriu-mais-300.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-11T10:30:31.000Z",
-      "summary": "Ambulâncias se deslocaram para o aeroporto de Riad para atender os feridos REUTERS Pelo menos 12 pessoas morreram e 309 ficaram feridas em um ataque no sábado (10) ao aeroporto internacional de Riad, na Arábia Saudita, segundo autoridades l",
-      "image": "https://s2-g1.glbimg.com/o1D15QSdMfSZXEaKsQoKVb4gs30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/x/D4RCnURlm6F9AX3xifrQ/novo-projeto-2-.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 7.01,
-      "relevance": 7.4
-    },
-    {
-      "title": "EUA buscam acordos com a Rússia para encerrar conflito na Ucrânia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUkxPSk5NcmwwUnYxR0E3SnJ5eC15MVRIMElReTNVbzNJcGVvQ1ZlMFhsMWJBVW9UMTZwNU1CQ1BuXy1OaFdnZldaLU4tYzN4S1hBc2pJQklPdTJYRXBVOEpfOUM4LWZJVC1YMks1dGZNR2RORjF6QTVmb2hKLWl3UEtQaktCVVo2RDM0LUdRc0NKeDEzOXVVM3JDY01NSFFKbFlXVERoZDY4Y0xPMm1QSk1jd21BYUtUZVg2RVNLUS11ZG8?oc=5",
-      "source": "Tribuna do Agreste",
-      "publishedAt": "2026-10-11T08:22:00.000Z",
-      "summary": "EUA buscam acordos com a Rússia para encerrar conflito na Ucrânia Tribuna do Agreste",
-      "image": null,
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 6.98,
+      "score": 6.82,
       "relevance": 8
     },
     {
-      "title": "LULA COBRA EXPLICAÇÕES DE FLÁVIO SOBRE ECONOMIA, MAS OPOSIÇÃO QUESTIONA AUMENTO DE IMPOSTOS EM SEU GOVERNO",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcmpYbEg4TmJaSVFxdkRLSVBsT3dfTnE0aFNjcXY3di1nSVExZ0dZMEFSbHZDMlBybmJ2UmpTdmRfcFdpdy1sbktsSmZ5OW9WZkxLMXNkRnhTQlFTc19fdnRnUEN4c3ZQOEJWV3dxUFNUOEIwT0tmTXBaMzNjYUNGSTZXQm5EZTdFNE5saF80aEVEYzdOeUJKWDBFMnFBUEpWWUJrb3BRa0NkOE1PaFVMZ01CbEdLQk1WQ1ZZU1VKRW1mRGlMT2RoWmtqU0JJNmxGSkxfN3dyanAydw?oc=5",
-      "source": "Diário 360 Notícias",
-      "publishedAt": "2026-10-11T11:34:00.000Z",
-      "summary": "LULA COBRA EXPLICAÇÕES DE FLÁVIO SOBRE ECONOMIA, MAS OPOSIÇÃO QUESTIONA AUMENTO DE IMPOSTOS EM SEU GOVERNO Diário 360 Notícias",
+      "title": "Festival de Cinema Francês disponibiliza 15 filmes no streaming em outubro",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3FucFA4cnZVQkV6ZFhrb0M0T3ZCbGpxb0Z3T1BCTzVMUzVLMV8wR1dzd2tNN05XeTNFVk04T25yYl9HR0xTOWcteUppMEpTXy1xY3daSng0aE14LVdTNzg0QXZtZGZ4emx0cEloNXlTWVdNdG1QWV9BMS1KSWUxZlhSc0FyejQwU09yREpybmxaeDc2ZlBtbGQ0a1lubmFXSUE1WnBqekprd01h?oc=5",
+      "source": "jwave.com.br",
+      "publishedAt": "2026-10-11T09:56:09.000Z",
+      "summary": "Festival de Cinema Francês disponibiliza 15 filmes no streaming em outubro jwave.com.br",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.82,
+      "relevance": 9
+    },
+    {
+      "title": "Essas criptomoedas podem multiplicar em até 270 vezes o valor investido; descubra como copiar automaticamente as operações do ‘melhor trader do mundo’",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNUWg5ZXJmbUNvdDNyTFdlSXFsekJVeWJfRU11WTNqcElHM3VPYTQ1Xy1MR0psdEg2M2l4MkV0elNtdUdlSUVIYVdnNmJYSW9MUTJpYTB5aUIxOHp5blVRYkVLbUdFaUR1ZkwxRDZJUFdPRmwyU1JSRTVkS3hIUGxzdFViWlZoNXg3VXRFeFpzbUxDVjAtRjlmMHVkcGdieVQteTdRX2RhWlhEX25ISkh0dEVvRVpzM0hBcGZQWktZbG9SN3VPWlpKQXFGY1FaTEhuemFvOWU4OFZIZldiNk04bDZUMzZ6V2djUWJ5MGZKV0VZTktERWZEVDR1eGN1NEs3by1FM0tXanlWMnQwVi1rQ0pUWUxnMWVnTWMwVzA1SU5MLVBxN09nblFBejU?oc=5",
+      "source": "Seu Dinheiro",
+      "publishedAt": "2026-10-11T17:01:05.000Z",
+      "summary": "Essas criptomoedas podem multiplicar em até 270 vezes o valor investido; descubra como copiar automaticamente as operações do ‘melhor trader do mundo’ Seu Dinheiro",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.91,
-      "relevance": 7
+      "score": 5.97,
+      "relevance": 6
     },
     {
-      "title": "FMI alerta: disparadas e choques de preços podem ser mais frequentes e afetar inflação por anos",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR2dYV0d1TlE5SzlNQ2xpX2FFWDVZOWJxZzhoQTV5OWQxenhOY3Q1RkdRbUJFSTJTcm96NC03WXQ4anZwZUdWSTF2T0RfTzkwWGE5MGh3ODhFTHZTdlM0SXZvZUh3Wm1BZTQyS0thTFBqYk5oc1ZmLVJGSHNqeHBXV3NQcjF1ckVnTVRzU1MyU3FMYUNfQl85YWZJM1JlZkxZSnNpLUFTSmpIVXk0NjFxV3RVQlFGd1JTeXRaNk1ESW1GTTFvNHEzbXltU2t1VEVxNHlaYlpsalJTZFNaR29oRzU5Y9IB8gFBVV95cUxORmcxTmtORm5aZWNGaWpidU9fbC0wZG55MXFwSXMtOWpjaEFmUTBVX1VLLTYtSU1PbXo3ejdablVZQ1ZGY0RaNWJ2VHFsRENheWQ3OS1RNEtMR1QwSi15Nk1teUNGTkQtLTN5WHBvWnNUemV2X29XQUN5RUxBZzFkd2RlbjROb3phS09TZWl5MHYtajNfdmRKejdOZUk4NmhjRk5yc2lGSE5wTUR5SWNIRGpiQmtoVWZyT0k2UVk2c1J4bnFtbWNReGJBRnRYQTZuTUk1QUJ2VHVIcmdWdnhHbGFkN2hZZmo0VDhZNTFheTZvdw?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-10-11T08:00:01.000Z",
-      "summary": "FMI alerta: disparadas e choques de preços podem ser mais frequentes e afetar inflação por anos G1",
-      "image": "https://s2-g1.glbimg.com/_lmVwMlNO_776vG_9bH66EQgqec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Q/gK6psQSC6QRAbKoS7ZBA/thumb-videos-g1.jpg",
+      "title": "A inteligência artificial e o desafio de quem está começando",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMllNMVRQR2JtSnZsVUVOckQ3WDRoX2NQaDdGMVpmVHhlUjV4bmhBazRFbUJYdjRSS2RYNkFSam81cUYyX2lMZ2NSUkVEWnJpci1ZOU9iQkdmc2R2RVFSN0NGci1JRW8welNTSzBhbVg1ZC00QVZmQW5ocWpYT0g0UG5UZDdFM3BmQzhOVDdQN0Y4bEFKV2ZJV1R4bmI0MXRBelE?oc=5",
+      "source": "A Gazeta",
+      "publishedAt": "2026-10-11T17:00:00.000Z",
+      "summary": "A inteligência artificial e o desafio de quem está começando A Gazeta",
+      "image": null,
       "topics": [
-        "negocios",
-        "geopolitica"
+        "negocios"
       ],
-      "score": 6.19,
-      "relevance": 7.2
+      "score": 5.97,
+      "relevance": 6
     }
   ],
   "items": [
     {
+      "title": "Trump anuncia trégua energética entre Rússia e Ucrânia; o que se sabe",
+      "link": "https://www.bbc.com/portuguese/articles/cm86zpgyp789o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Brasil",
+      "publishedAt": "2026-10-11T16:22:19.000Z",
+      "summary": "Moscou ainda não comentou. Ucrânia afirmou ser a favor da medida se a Rússia aceitar.",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f83d/live/5edd4270-c58f-11f1-bc2e-018d645d8d21.png",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 11.06,
+      "relevance": 11.4
+    },
+    {
+      "title": "Rússia e Ucrânia concordaram com 'cessar-fogo energético', afirma Trump",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGg1NnBnNEo0MVpreXZmVlZLTm5NLVliY0RQdmNYUEJoLUNFV0dxYl90N2N0UzBKeFM4U2VDMEZ0dkJRNm1OTDIwZEJGQkJmN0RYcGtjSVA2bVhJbFNXcnFJN0R3a0RfQkN6clZWTXRJYmhiaGFDOWJMa3V6bnNWQ09SQmJHM1BKRFdjUi10cW5yZVFqR2VibWszVS02cjFIODhFdHZSMNIBrAFBVV95cUxQRUxaOWpCbHg2bkR0bzdFSDd0MUpZTjZHTF9GQUROb2Ywc3NndmY2Nng4aFpyZnVFaGFMUWZTTnNuMmFYLXpkalIycDYteE1CWUNYU2g2YlpWOTBLVVFmMGMtbllYTkY5SXFUNGtMUHJ6ZVNUcFAxbFd1UUlId2JpTjVTai1lRXJaQ0RzMUNMLUx1Y01Sd3Jpc0t2M2JrcTFrcUlNTEpFSGpyNEZh?oc=5",
+      "source": "InvestNews",
+      "publishedAt": "2026-10-11T15:17:45.000Z",
+      "summary": "Rússia e Ucrânia concordaram com 'cessar-fogo energético', afirma Trump InvestNews",
+      "image": "https://s2-g1.glbimg.com/CQEHtmwpqvxvMn3ZxMGYug7wAGk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/l/YCknLDQ3CbYEQstRRZqA/2026-10-10t002837z-1091946746-rc200oa5olyz-rtrmadp-3-usa-trump.jpg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 7.63,
+      "relevance": 8.2
+    },
+    {
       "title": "Zelensky rebate Trump e diz que Ucrânia só interromperá ataques se a Rússia fizer o mesmo",
       "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/10/11/zelensky-rebate-trump-e-diz-que-ucrania-so-interrompera-ataques-se-a-russia-tambem-os-parar.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-10-11T11:40:01.000Z",
-      "summary": "A Ucrânia está pronta para interromper os bombardeios às refinarias de petróleo russas se a Rússia também cessar seus ataques à infraestrutura energética ucraniana, afirmou o presidente Volodymyr Zelenskiy neste domingo (11). A declaração f",
+      "summary": "Trump e Zelensky se encontram na Casa Branca, em 18 de agosto de 2025 Kevin Lamarque/Reuters A Ucrânia está pronta para interromper os bombardeios às refinarias de petróleo russas se a Rússia também cessar seus ataques à infraestrutura ener",
       "image": "https://s2-g1.glbimg.com/9lXi2SMYvBigiYI5KgHfldlWUQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/G/toVFKBTzAkGvGI0iBsAw/2025-08-18t175855z-1199898741-rc2t9ga1ofld-rtrmadp-3-ukraine-crisis-summit.jpg",
       "topics": [
         "geopolitica",
         "negocios"
       ],
-      "score": 9.31,
-      "relevance": 9.4
+      "score": 7.29,
+      "relevance": 9
     },
     {
       "title": "Quem é o homem mais rico da África — e por que ele quer vender parte de seu império",
       "link": "https://g1.globo.com/economia/noticia/2026/10/11/quem-e-o-homem-mais-rico-da-africa-e-por-que-ele-quer-vender-parte-de-seu-imperio.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-10-11T08:00:00.000Z",
       "summary": "Aliko Dangote afirma que os planos de expansão de sua empresa ajudarão os países africanos a se tornarem autossuficientes em energia. Reprodução/Reuters O homem mais rico da África, Aliko Dangote, lançou a maior oferta pública inicial de aç",
       "image": "https://s2-g1.glbimg.com/6A38OxCOBil0uPrQUcAo5RDWn7w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/4/WFgelSR9qoYhzJBCRkNg/hr5nzyicpvnjperjnsvriaatqu.jpg",
@@ -164,39 +192,65 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 8.78,
+      "score": 7.17,
       "relevance": 10.2
     },
     {
-      "title": "Looke reúne 13 filmes do Festival de Cinema Francês em outubro",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnI5VE5wcDNrdFJvVHJ5anF0aTJSSkMxYXFuaTR3QmZDM2NjemQzOW0xLVd0XzRxeGlZQkR5QkRNR0RfUXBSYUxEbXQzc1k4U0VvM2RGMzdaZ3Z1M1Q1bE5ab05MR3hEU3NaR0ZDRmhpOXBPaV9MTUlXMXBrNGR1X0FVcE13MzQtVENHVVlqcFQwZVRMc3pmRW1OZnQ?oc=5",
-      "source": "www.jwave.com.br",
-      "publishedAt": "2026-10-11T08:45:51.000Z",
-      "summary": "Looke reúne 13 filmes do Festival de Cinema Francês em outubro www.jwave.com.br",
+      "title": "62 anos, 80 filmes, 2 Oscars: tão mundialmente conhecido quanto Tom Cruise… Quando veremos novamente uma das maiores estrelas de Hollywood no cinema?",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPaXEwRmFuZElLa20tdHBsaGdaSTRRbE1Yd1hpMFdiSWlHX2RlalVrbWxoNUc0SnB6U3ZGM2tRUjFJdlZxVkt1eWhJNlM2MUNDTS10a1VDandiWVlZeHMybGc0cTFFclV2YzI1MjM1V0g3alZnXzYwdzB3RFpYb19wUVNaQlRWNUpWbVRWZ25VTGJNbXFiTXRYMlFBbkNxcUY0VXVlbEhETUtUNG9EZWtZWjJuV0h1ZFdBNHJTd0MyRkl0ZUNjUWJySV9RMnJscHNGVTNWQWI4d2s4VFBQazVQdG5aXzFZeXY4U2NVSUI5dkNXZFBvZEJZQUoxeURpZC1DZ1JWcVZvM0pZWV9IM1RNNnFFbFBzbEIxbjl0MGlwX2hYSm9ncHlpd2Q4Ti02WXI3WERCVXhEel9RV3NoZml2TjRoS3NSOVk?oc=5",
+      "source": "Terra",
+      "publishedAt": "2026-10-11T13:01:00.000Z",
+      "summary": "62 anos, 80 filmes, 2 Oscars: tão mundialmente conhecido quanto Tom Cruise… Quando veremos novamente uma das maiores estrelas de Hollywood no cinema? Terra",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 7.97,
+      "score": 6.82,
+      "relevance": 8
+    },
+    {
+      "title": "Festival de Cinema Francês disponibiliza 15 filmes no streaming em outubro",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3FucFA4cnZVQkV6ZFhrb0M0T3ZCbGpxb0Z3T1BCTzVMUzVLMV8wR1dzd2tNN05XeTNFVk04T25yYl9HR0xTOWcteUppMEpTXy1xY3daSng0aE14LVdTNzg0QXZtZGZ4emx0cEloNXlTWVdNdG1QWV9BMS1KSWUxZlhSc0FyejQwU09yREpybmxaeDc2ZlBtbGQ0a1lubmFXSUE1WnBqekprd01h?oc=5",
+      "source": "jwave.com.br",
+      "publishedAt": "2026-10-11T09:56:09.000Z",
+      "summary": "Festival de Cinema Francês disponibiliza 15 filmes no streaming em outubro jwave.com.br",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.82,
       "relevance": 9
     },
     {
-      "title": "Economia no TO: Dorinha aposta na transformação local de matérias-primas; Vicentinho propõe silos coletivos e meta de pleno emprego",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMlBjT0pHNDNKS3ZCel9VeTlDSlg2SkJvSUt2M21lSVI4SWw5T01UVUx0aHREeTB6N0JQUFJvVUxwR2dEYlh5bzdUVDhmVDlXNUZJN2RZVzhXSlJzR2lFSWUxR0taaWtqWVM3bUwxcXdkUEhrNG9oWHFtOTBKN0RtSmZuTTVnWHdGcVBaQTZheGhkRW5TaENlVExNdGhQTk43Z0tzcHRCb2hyYUFnbVhmbHRhUXY2S25rYS1Yai1VVUxOd1ptSDd4djkzX3NqQ051dmNYdjR3V1RCYWFvSlRDV3UtV2lBSU1aMUtOb1ppd1NLb1dERHVZaVNQQ2dXcFZscGQxeXFBTHhYMTVwUGgtT21RRU5ZTTROSHRHZVNoelV6RlczTUxtTW5B0gG4AkFVX3lxTE9wNGxiMWdCcl9vcDRSMnFvdGVtV1NZMmpSblc0MFBqZHpOV0JvaWprYzNfb3RzbEd3blJubExPdUtOZUJBRWROaGRLdlJfdGdPRm5IWHBJZktsRnhnMGpMRXRJekFCRkJiSVpiU1RpUlp2bjczNzl4T0hfNmRJbUtGVnFSN1JxeUxpdHFiLVVlVktzREFfX1FQV1lrbUsyTi1SZFdUYUF0amJXZlAyMmlNcGtsVmh2eFpXMFRldEgxUkdTWmhDcFA5M2MyV3FvX2NNRkkwcjRHcXo3enowblZTVXY4d3dSbm54Ql92SXNXcDRoUXVlWFF1dlpQczcxYmI1SEdiejVHdXdxZVFXVW1ra21xakVuZjY3MU5RcmlmZkxtWnl1ZDR3QzdzWmxWT2hiUnV0VHpFLQ?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-10-11T10:00:01.000Z",
-      "summary": "Economia no TO: Dorinha aposta na transformação local de matérias-primas; Vicentinho propõe silos coletivos e meta de pleno emprego G1",
-      "image": "https://s2-g1.glbimg.com/_sEzNqDNVO1BHhrl-u22ARSN6tc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/u/8jSY1MSyAk7S3sSkL1uA/copia-de-modelo-foto-fundo-borrado-1-.png",
+      "title": "Essas criptomoedas podem multiplicar em até 270 vezes o valor investido; descubra como copiar automaticamente as operações do ‘melhor trader do mundo’",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNUWg5ZXJmbUNvdDNyTFdlSXFsekJVeWJfRU11WTNqcElHM3VPYTQ1Xy1MR0psdEg2M2l4MkV0elNtdUdlSUVIYVdnNmJYSW9MUTJpYTB5aUIxOHp5blVRYkVLbUdFaUR1ZkwxRDZJUFdPRmwyU1JSRTVkS3hIUGxzdFViWlZoNXg3VXRFeFpzbUxDVjAtRjlmMHVkcGdieVQteTdRX2RhWlhEX25ISkh0dEVvRVpzM0hBcGZQWktZbG9SN3VPWlpKQXFGY1FaTEhuemFvOWU4OFZIZldiNk04bDZUMzZ6V2djUWJ5MGZKV0VZTktERWZEVDR1eGN1NEs3by1FM0tXanlWMnQwVi1rQ0pUWUxnMWVnTWMwVzA1SU5MLVBxN09nblFBejU?oc=5",
+      "source": "Seu Dinheiro",
+      "publishedAt": "2026-10-11T17:01:05.000Z",
+      "summary": "Essas criptomoedas podem multiplicar em até 270 vezes o valor investido; descubra como copiar automaticamente as operações do ‘melhor trader do mundo’ Seu Dinheiro",
+      "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 7.62,
-      "relevance": 8.2
+      "score": 5.97,
+      "relevance": 6
+    },
+    {
+      "title": "A inteligência artificial e o desafio de quem está começando",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMllNMVRQR2JtSnZsVUVOckQ3WDRoX2NQaDdGMVpmVHhlUjV4bmhBazRFbUJYdjRSS2RYNkFSam81cUYyX2lMZ2NSUkVEWnJpci1ZOU9iQkdmc2R2RVFSN0NGci1JRW8welNTSzBhbVg1ZC00QVZmQW5ocWpYT0g0UG5UZDdFM3BmQzhOVDdQN0Y4bEFKV2ZJV1R4bmI0MXRBelE?oc=5",
+      "source": "A Gazeta",
+      "publishedAt": "2026-10-11T17:00:00.000Z",
+      "summary": "A inteligência artificial e o desafio de quem está começando A Gazeta",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.97,
+      "relevance": 6
     },
     {
       "title": "O que se sabe sobre ataque a aeroporto na Arábia Saudita que matou 12 e feriu mais de 300",
       "link": "https://g1.globo.com/mundo/noticia/2026/10/11/o-que-se-sabe-sobre-ataque-a-aeroporto-na-arabia-saudita-que-matou-12-e-feriu-mais-300.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-10-11T10:30:31.000Z",
       "summary": "Ambulâncias se deslocaram para o aeroporto de Riad para atender os feridos REUTERS Pelo menos 12 pessoas morreram e 309 ficaram feridas em um ataque no sábado (10) ao aeroporto internacional de Riad, na Arábia Saudita, segundo autoridades l",
       "image": "https://s2-g1.glbimg.com/o1D15QSdMfSZXEaKsQoKVb4gs30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/x/D4RCnURlm6F9AX3xifrQ/novo-projeto-2-.jpg",
@@ -204,7 +258,7 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 7.01,
+      "score": 5.73,
       "relevance": 7.4
     },
     {
@@ -217,7 +271,7 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 6.98,
+      "score": 5.7,
       "relevance": 8
     },
     {
@@ -230,8 +284,49 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.91,
+      "score": 5.65,
       "relevance": 7
+    },
+    {
+      "title": "Houthis acusam Arábia Saudita de ataque contra aeroporto do Iêmen; coalização saudita fala em novo bombardeio a Riade",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/11/arabia-saudita-realiza-ataque-contra-aeroporto-internacional-do-iemen-diz-tv.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-11T13:59:30.000Z",
+      "summary": "Ataque no aeroporto de Riad deixa 12 mortos e mais de 300 feridos A Al Masirah TV, emissora controlada pelos Houthis, grupo extremista do Iêmen, noticiou neste domingo (11) um ataque que, segundo ela, foi realizado pela Arábia Saudita contr",
+      "image": "https://s2-g1.glbimg.com/dqVRYC2QwR6_jndcL4tIM7V_YFM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/kbhva9QuOfkgYN21RCfg/2026-10-10t193830z-1401625215-rc2i0oa6ps94-rtrmadp-3-iran-crisis-saudi-airport.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 5.49,
+      "relevance": 6.2
+    },
+    {
+      "title": "Notícia Ibovespa nas alturas com ajuste fiscal, Banco do Brasil (BBAS3) em queda e as promessas de Flávio: os destaques da semana",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZU52UGQ3LTJGVWtOWFdGYzZfcW4zZFdHdmhkbHdMaU02UUxWUjlUU3dTZmpiN0d0MEhEODRoUFNKUkdLRFpZTnF4LUJSSDVUODRCZ1lDYlU2RkxPNERxZF9IVUIxVHd4T2NYb3BoeEpSSHVvQWZQT0wtMVFvN2NLLUtNN2M4YmlJa0o3RjhuWS1SYlowQk5MX3huUnZQc3dFejJzNHNwelo4cjBhZXY5R1ZoNHdsWDFXU1Z4TE5Ka193UU5MMEQxbFRUN2dDSmNHUk9zblo4UjVEbmdzSENv?oc=5",
+      "source": "Kinvo",
+      "publishedAt": "2026-10-11T14:10:00.000Z",
+      "summary": "Notícia Ibovespa nas alturas com ajuste fiscal, Banco do Brasil (BBAS3) em queda e as promessas de Flávio: os destaques da semana Kinvo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.35,
+      "relevance": 6
+    },
+    {
+      "title": "Estoicismo: a filosofia de Epicteto aplicada aos investimentos e à liberdade financeira",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRlhlMHh2ZjVhR094aHZteVFiY0pMRFl5N1ZTTWdpT2RvYy12NTBBdkVyQUhDeG80U3hCZVJhUmQ4SDRvczdxcWdWZHF5UFBJWGNUWFJkOERwOE9VYjducEhFRUdZVHZ5Z25kS19DVUZTMW9qUGZYV3pNWnY1dzlZZEpjbDZUTEJYSklONTZnQ3FJUzk4RnVRb2R6bTQ3RmlLTS03MEhGSVVNek1zdjYtc0FFWjk1d2NYZFdVa0h3?oc=5",
+      "source": "Seu Dinheiro",
+      "publishedAt": "2026-10-11T13:10:45.000Z",
+      "summary": "Estoicismo: a filosofia de Epicteto aplicada aos investimentos e à liberdade financeira Seu Dinheiro",
+      "image": null,
+      "topics": [
+        "filosofia",
+        "negocios"
+      ],
+      "score": 5.15,
+      "relevance": 6
     },
     {
       "title": "FMI alerta: disparadas e choques de preços podem ser mais frequentes e afetar inflação por anos",
@@ -244,48 +339,165 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 6.19,
+      "score": 5.06,
       "relevance": 7.2
     },
     {
-      "title": "Médicos reconhecem que é difícil falar sobre sexo com pacientes mais velhos",
-      "link": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/10/11/medicos-reconhecem-que-e-dificil-falar-sobre-sexo-com-pacientes-mais-velhos.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-11T07:00:00.000Z",
-      "summary": "Brasileira fala sobre sexo na terceira idade: ‘Eu transo sim e gosto muito’ Mudanças fisiológicas são barreiras para a atividade sexual? Esse era o painel que eu mais aguardava no GeriatRio 2026, que já foi tema das duas últimas colunas. Pe",
-      "image": "https://s2-g1.glbimg.com/3I7hqcdqBomqp9B4BSOp8zL10tg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/M/9WeTUrSN6QqBB81acKWw/geriatrio2026sexo.webp",
+      "title": "Documentário sobre família de onças-pintadas do Pantanal estreia na Netflix - ANDA",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlVqNVd6NzFmUzF5T0U0Uk1vakhjeGkxTTNUTTBKV19WdTJXZ25oS2pIMTZyUnZPeWlhZ1RmNVJFbVVfSXFwS2RzZzhQbzhCaDNrVUhmVlpfWjFOTXloSHVlejBJZ2JZb3RiRGRXVkw2eDdKZnZzWUZOWE41a3RNUk1zS0VQWHhzYUpWMUFFTENtNzhuZy1ybWJHN3c?oc=5",
+      "source": "Agência de Notícias de Direitos Animais",
+      "publishedAt": "2026-10-11T12:26:14.000Z",
+      "summary": "Documentário sobre família de onças-pintadas do Pantanal estreia na Netflix ANDA - Agência de Notícias de Direitos Animais",
+      "image": null,
       "topics": [
-        "medicina"
+        "cinema"
       ],
-      "score": 5.96,
-      "relevance": 7.2
+      "score": 5,
+      "relevance": 6
+    },
+    {
+      "title": "Varejo é setor mais beneficiado por rali depois do 1º turno",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaHdLNEhCSl8zVFFhT1QzdENmbmdMRWh0ejg4WkFXN2RRZ1ZEM3FaaHZiYVF6RGc5YmpkaEp2TnBKWGpvYlpKeEJVaVhlMFlGWUx0ckZlSjVDMUVHXzF4MkNEU01HNUxqY3NlQklQZWtmaW1xNFYyRkJ1ZjZyaUl4Z01XZUJSMklvX0tQV00tNU1FY3NNd3hNeUlsQ0dEMS1tU3p4M3hR?oc=5",
+      "source": "Poder360",
+      "publishedAt": "2026-10-11T17:03:45.000Z",
+      "summary": "Varejo é setor mais beneficiado por rali depois do 1º turno Poder360",
+      "image": null,
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 4.98,
+      "relevance": 5
+    },
+    {
+      "title": "The Economist: Por que a turbulência nos mercados de títulos ameaça mais alguns países do que outros",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONEJNMHFWcDFsaGNLd2lhbXF2WWRyeEhaVHVvS2NPd0E2NUgtMGNNNzF3NUVORVR3WjNKWjBIZHVybXJiY1N2OVk2NWNMd0U4Zm9xakxCSS1QYW1veUpkQVZrODByTk13cDF0MDNEWTV3OUpjeWVWTWtENHpJeTJlNnU3aTdCM1V0aGwxTDNwWG1VWk9OZFZWR1hfeko0MkxEdEdZNzlRT2tWWF90Y3FBRXU0ajlvajNEZjdLbzgxclMzNWVrcDBqTXYtN0hCb0dxVUHSAdcBQVVfeXFMT3RDOERJOTJlcXhkblUzMlRJcTI1ajZmNDVsLXg3ZmRFaV9IdGRKdVNFSDFiU2hhSjJWTUdDZkVieUIzOVREQkJYX2QtUjVPNHNhV29CTmkxN1lGNkRrV2RFQlFWUE55OEltRm9iVmo0eTdmLXBVRTE2eTNWOUdkQXIyQ250cXJlS3l5UFQ4UDFsNFhCSFZWZ2tpTk5yRGd6Y1p4R3NvdFVoZ01CRXFBZUFFcFRIWDlmdXNaYWF6cEJ5U2ZzYzZZMkRBc1dudExqWFk1R2c3YVE?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-10-11T17:00:00.000Z",
+      "summary": "The Economist: Por que a turbulência nos mercados de títulos ameaça mais alguns países do que outros Estadão",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.97,
+      "relevance": 5
+    },
+    {
+      "title": "Domingo no Cinema: veja qual filme a Band exibe hoje (11/10)",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXlmcHpGazVjdm12VHdULVZoMTJNcHZiZ3JhMXpjYUtTeldqNGxBbC1TMEpKdzg1VGhnRTZNVTFFSzJvYVhJRnZ4UHI0OWdLR1lSRTlwcm1HMEFqYzRlTXM2VThaaDFwcDNPY3Q2Y1Z5U2RJcUY2ekRDYlEzVFk5dnNvXzd5R2xRTWVmU0NRbGtKUQ?oc=5",
+      "source": "Portal TV e Streaming",
+      "publishedAt": "2026-10-11T15:00:00.000Z",
+      "summary": "Domingo no Cinema: veja qual filme a Band exibe hoje (11/10) Portal TV e Streaming",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.97,
+      "relevance": 5.4
+    },
+    {
+      "title": "Com Michael B. Jordan, terror na Netflix superou Titanic e bateu o recorde de indicações ao Oscar: 16",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXdSUnFxOGNJVHpOaGVaOTc2UFB3VTlCekI2TS1MTkNtSkF0V2g0REpaZjhUNmM1a0FJaTRWMFAzdGlOVUZnMjZHWFcwSzZUQTdzenF5QXNndldITGdBbEw4SXlweVRiUzVkUXhBekd2LWVBOFkxOUhWRmpJYlluNkdKdXlMaUxnbndmTWtJU1k1UUhHX3ZETDJKQlYtNHVpcFB0RENoME9SVXJWdFJ0U0d2X2FNMTNHQ1p6QmU3d1dCLVpiMlBINEhrT1REMnc?oc=5",
+      "source": "Revista Bula",
+      "publishedAt": "2026-10-11T16:56:32.000Z",
+      "summary": "Com Michael B. Jordan, terror na Netflix superou Titanic e bateu o recorde de indicações ao Oscar: 16 Revista Bula",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.96,
+      "relevance": 5
+    },
+    {
+      "title": "Cinema em Fortaleza: Filmes em cartaz de hoje, 11 de outubro(11/10)",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3RheVZnejkxTERpMURuUklhLXVKUjl2NnZULUJLeXVZWU00RHhtdWwxTnVyNXhWRXdna3FpT2l3cE52V0NLZ1I2ZmQ3S2VIM1BGOU1PMVdRZFdOMlJQQlVDVlhyRVBxRFRFeXhIZm55a2dKWVdlVHJkY1BKNW01a3JUeEs5QlRmWF9fdVlnQzVlUktaWTY4cmt1eXJBdmFuRUdTRGtsQkdtS3k1VVlJT09pVWpVRWVCSlhwQWNzZw?oc=5",
+      "source": "O POVO",
+      "publishedAt": "2026-10-11T12:00:16.000Z",
+      "summary": "Cinema em Fortaleza: Filmes em cartaz de hoje, 11 de outubro(11/10) O POVO",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.92,
+      "relevance": 6
+    },
+    {
+      "title": "A geopolítica dos fusos horários — por que a China tem um só e a Rússia tem onze",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1g2d1ZwdHYxZFhIYkJycmlwWFZ0dFJ0dHd3bXRiOTV1Qkl6VkhLd1c2bVhLbTI3MzdmS213QnFHOEhpS05MdHR4d3A0UW1COWs4ZENsdW82WXh3SGhkVE5jRG05RHZ1d2tSaVUtQ3dYelF0T1JnX0V5M1hSMFliT0N6bDIwbHdwc0FfS1FJZ0FKMnE3VFJibEpjZ1k5ckY1M3UwNl9GcGdMY3M?oc=5",
+      "source": "ND Mais",
+      "publishedAt": "2026-10-11T12:00:10.000Z",
+      "summary": "A geopolítica dos fusos horários — por que a China tem um só e a Rússia tem onze ND Mais",
+      "image": null,
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 4.92,
+      "relevance": 6
+    },
+    {
+      "title": "Guatemala escolhe \"Mountains of Fire\" como seu representante ao Oscar 2027 de Melhor Filme Internacional! - Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZllmSTVqZjhhWW91dVhBQTZ3U3ZiN1hHQk5jd2JZWFNGNnYwTEYxZzVDZFhPQ3A3SWpqQzYzWlRNZ2xsUkpnQkFmbTNTR2l6SnhFdFpYeHNzV0ZQRVFQV1JQalhSY3lXRDN1NHhBQjk3LTBLdS11VDFudWhwbkRqQVBicHF4OHUwcWJHRE5HRzZCLVcwVG1HdXVka1BrLWtmQTlONUp6bnlIN24zNThEY25rRDdkbUVTZWZUZ1ZiQkhidWRCWXpta3NyeVNQU2xQYWdud1ZzZzZXMjBwUG5jaHlXR2oxS2duZXJfTGJMYVJleGFYVFRQZA?oc=5",
+      "source": "Candidatos, Indicados e Vencedores",
+      "publishedAt": "2026-10-11T11:59:40.000Z",
+      "summary": "Guatemala escolhe \"Mountains of Fire\" como seu representante ao Oscar 2027 de Melhor Filme Internacional! Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022 - Candidatos, Indicados e Vencedores",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.92,
+      "relevance": 6
+    },
+    {
+      "title": "Joseph Zada, filho de Florence Pugh em A Leste do Éden, protagoniza novo filme de uma das maiores franquias de distopia do cinema",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOaWYxRUtSTDAtWGFmNlFJTUJDTVFCU0VVNlBCT1FwNEsweWJ2c0FhT1V1V3kwWHlQUG4yUlFaa3FmRm5wWE9URElfUUVRTHIzd0l1d05pRWxxWWJxMjRhbklHQ2FLZTVWc1JBSzM3R0NtVndBLURuekh0N0xzM1lGWHRrUnhFNjRsZi1JZjFBTmdEWS10YVJuN1ZNUWJaTjcwYlNxYnRSa213R1VoT1ItbEN5WHQxdjNvcXlrTFBkbTV1Zzl2dmpVUE94NTh6VkNWV2dXTlpycUdVUWNqMzVaWk5ibm95V0RpSllxTE0yVzVzZWZWbDEwWDZ2TUlVeUZhUXJJRUN5X2hlSEhJb0htNVp3aUtHZm5TOTlDc2I4eXplOVg3Z1pHbGpHczB1cXZBMnNIbE0xZjRrYWtjSl90MA?oc=5",
+      "source": "Terra",
+      "publishedAt": "2026-10-11T16:32:00.000Z",
+      "summary": "Joseph Zada, filho de Florence Pugh em A Leste do Éden, protagoniza novo filme de uma das maiores franquias de distopia do cinema Terra",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.88,
+      "relevance": 5
+    },
+    {
+      "title": "Por que séries do Disney+ estão chegando à Netflix?",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOG0tNVNpN0x2RGFkS3Z3ZVFma1ROWjFxSmI2NjJoLUFHNnB3Q0dueGdOaG9OVUJSUGVMcV9zUWF2YlQwcTRremRSa2dOWnd2cU5MNXQzUmF3WXZfYlhlZVg5ZENhWm1NdWFSdkw4S01KRjhyeUdhOGJSMEVuVy1ZQmxWLXFtYkRWVXh0ajBGUGh0ejhuaUs3dmEzOE5XOVnSAZ8BQVVfeXFMTzhtLTVTaTdMdkRhZEt2d2VRZmtUTloxcUpiNjYyaC1BRzZwd0NHbnhnTmhvTlVCUlBlTHFfc1FhdmJUMHE0a3pkUmtnTlp3dnFOTDV0M1Jhd1l2X2JYZWVYOWRDYVptTXVhUnZMOEtNSkY4cnlHYThiUjBFblctWUJsVi1xbWJEVlV4dGowRlBodHo4bmlLN3ZhMzhOVzlZ?oc=5",
+      "source": "Capricho",
+      "publishedAt": "2026-10-11T16:28:36.000Z",
+      "summary": "Por que séries do Disney+ estão chegando à Netflix? Capricho",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.87,
+      "relevance": 5
+    },
+    {
+      "title": "Circuito Penedo de Cinema recebe 1.255 inscrições e divulga filmes selecionados para 2026",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2w5bDd1M3IwN0lrcmVmNGxiOFNOX1VreUlMWDFMdVhDZDRVWFRZZlFtQmdZLWlUb0c5NHF1c20weE96eS1zckI3bXg0bzJpRnZSLXhaNi1Qck1Hel9VNFBFT2E5cWF3cmU0c0FfdEhEcm1Hb1V3UWVLRmI1THQ3M0xNclBqaDVOYnplYkNnLVBjLVhNZkNOV09oY01ubmZuN2pPNVc5S0ZKRzR0blhxLUpqeVNCTHQ0TkxoOXdodw?oc=5",
+      "source": "082noticias.com",
+      "publishedAt": "2026-10-11T11:37:30.000Z",
+      "summary": "Circuito Penedo de Cinema recebe 1.255 inscrições e divulga filmes selecionados para 2026 082noticias.com",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.85,
+      "relevance": 6
     },
     {
       "title": "IA ameaça aumentar desigualdades de gênero no mercado de trabalho, diz relatório",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/11/ia-ameaca-aumentar-desigualdades-de-genero-no-mercado-de-trabalho-diz-relatorio.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-10-11T06:00:00.000Z",
       "summary": "IA está criando grandes novas oportunidades, mas também pode aumentar a desigualdade, afirma ONU Kirill KUDRYAVTSEV / AFP O boom da inteligência artificial (IA) poderia acentuar as desigualdades de gênero no mercado de trabalho, alertaram d",
       "image": "https://s2-g1.glbimg.com/oAErCnTbC_C9JMsw57xuwOGxsJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/3/O8iVDtRZyAiHY0L18mLw/000-38p88cp-1-.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 5.89,
+      "score": 4.82,
       "relevance": 7.4
-    },
-    {
-      "title": "Europa identifica laboratórios clandestinos para refino de cocaína em escala industrial e alerta sobre nova dinâmica do narcotráfico",
-      "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/11/europa-identifica-laboratorios-clandestinos-para-refino-de-cocaina-em-escala-industrial-e-alerta-sobre-nova-dinamica-do-narcotrafico.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-11T08:00:00.000Z",
-      "summary": "PF monitora nova dinâmica do tráfico de cocaína Autoridades brasileiras têm sido alertadas nos últimos meses por investigadores e agências da Europa sobre uma mudança na dinâmica do tráfico internacional de cocaína a partir do Brasil: organ",
-      "image": "https://s2-g1.glbimg.com/kJGFlxZ_DkNEJA6R9ljxIbAPbWs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/9/kYwPf7RDysAKfnYhDzNw/whatsapp-image-2026-10-09-at-15.45.09.jpeg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 5.85,
-      "relevance": 6.8
     },
     {
       "title": "Indústria dos videojogos ameaçada pela inteligência artificial. Perceba porquê",
@@ -297,7 +509,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 5.8,
+      "score": 4.74,
       "relevance": 7
     },
     {
@@ -310,27 +522,53 @@
       "topics": [
         "cinema"
       ],
-      "score": 5.79,
+      "score": 4.73,
+      "relevance": 6
+    },
+    {
+      "title": "Filme de diretor muriaeense estreia no Canal Futura",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFB5WTBra3ZEcHhNWGd3OHJYUldYUE5ubzF5RjJLNDluc2dnN3ZSeEVLMXBiOHI5S0ZtZ09nSDRXMVZvYU5uWEQ1RFpCNS04WGloOGpnd0EyTW55ekpyanRVRGhrLWwxSmlzMXBWeXZGdm9iVmFNLUprSEhIeHhrdjA0RVY3YjRWcmlxcEZ4eFpKcksxLWRJSlBpRkplQ1VsYVQ2OTdIVS1VZXhodmdrbjFUZkVHQ0k?oc=5",
+      "source": "Guia Muriaé",
+      "publishedAt": "2026-10-11T10:45:29.000Z",
+      "summary": "Filme de diretor muriaeense estreia no Canal Futura Guia Muriaé",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.69,
       "relevance": 6
     },
     {
       "title": "'Estamos prontos para partir imediatamente': os milionários de origem cubana que se preparam em Miami para a possível queda do governo da ilha",
       "link": "https://g1.globo.com/mundo/noticia/2026/10/11/estamos-prontos-para-partir-imediatamente-os-milionarios-de-origem-cubana-que-se-preparam-em-miami-para-a-possivel-queda-do-governo-da-ilha.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-10-11T09:52:00.000Z",
       "summary": "Juan Omar Sixto afirma que ele e seus colegas estão prontos para 'ir fazer negócios em Cuba imediatamente' BBC Na suntuosa mansão com vista para a baía de Biscayne de um dos cirurgiões plásticos de maior prestígio de Miami, nos Estados Unid",
       "image": "https://s2-g1.glbimg.com/MvNkrAQYwx6nlpT1bmn8WhVBnxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/6/pFORCVQVmbQrC8s514Jw/novo-projeto-1-.jpg",
       "topics": [
-        "negocios",
-        "geopolitica"
+        "geopolitica",
+        "negocios"
       ],
-      "score": 5.73,
+      "score": 4.68,
       "relevance": 6.2
+    },
+    {
+      "title": "DOMINGO E SEGUNDA> Confira a programação de filmes no Cine Globo de Cruz Alta",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX1FWc2hTejJDTlhpR3YtRThUbkFlZ3NIeUIxTUxKV2NyVDJTZ2VjZmI3UmlMTWxoN2g1UWNxYllMbGZIbG9paGliRzBHY1VqcU1WbkZaclNnckdPQ0JGNlFyQlY0OGxaS0NUMzhQNnpJUzlidWdfMFlJZ0ZLckVKYzNBbFlRLXVlZnZkQmVsUmx4anBSd2RrN0FoWmxLR2I0clJIR0FFaHBySUgyMFB3cWtkaVVyblRoa0lTei0wMA?oc=5",
+      "source": "Grupo Pilau",
+      "publishedAt": "2026-10-11T15:01:45.000Z",
+      "summary": "DOMINGO E SEGUNDA> Confira a programação de filmes no Cine Globo de Cruz Alta Grupo Pilau",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.61,
+      "relevance": 5
     },
     {
       "title": "Houthis emitem alerta de risco para novos ataques a aeroportos da Arábia Saudita",
       "link": "https://g1.globo.com/mundo/noticia/2026/10/11/houthis-emitem-alerta-de-risco-para-novos-ataques-a-aeroportos-da-arabia-saudita.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-10-11T09:28:02.000Z",
       "summary": "Agora no g1 Ataque no aeroporto de Riad deixa 12 mortos e mais de 300 feridos Os Houthis, grupo extremista do Iêmen, emitiram um alerta de risco para novos ataques a aeroportos da Arábia Saudita e pediram que companhias aéreas, viajantes e ",
       "image": "https://s2-g1.glbimg.com/dqVRYC2QwR6_jndcL4tIM7V_YFM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/kbhva9QuOfkgYN21RCfg/2026-10-10t193830z-1401625215-rc2i0oa6ps94-rtrmadp-3-iran-crisis-saudi-airport.jpg",
@@ -338,437 +576,230 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 5.64,
+      "score": 4.61,
       "relevance": 6.2
     },
     {
-      "title": "Circuito Penedo de Cinema recebe 1.255 inscrições e divulga filmes selecionados para 2026",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2w5bDd1M3IwN0lrcmVmNGxiOFNOX1VreUlMWDFMdVhDZDRVWFRZZlFtQmdZLWlUb0c5NHF1c20weE96eS1zckI3bXg0bzJpRnZSLXhaNi1Qck1Hel9VNFBFT2E5cWF3cmU0c0FfdEhEcm1Hb1V3UWVLRmI1THQ3M0xNclBqaDVOYnplYkNnLVBjLVhNZkNOV09oY01ubmZuN2pPNVc5S0ZKRzR0blhxLUpqeVNCTHQ0TkxoOXdodw?oc=5",
-      "source": "082noticias.com",
-      "publishedAt": "2026-10-11T10:09:21.000Z",
-      "summary": "Circuito Penedo de Cinema recebe 1.255 inscrições e divulga filmes selecionados para 2026 082noticias.com",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.61,
-      "relevance": 6
-    },
-    {
-      "title": "Crianças de Tupã trocam telas pela rotina no campo e se aproximam do agro",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/10/11/criancas-de-tupa-trocam-telas-pela-rotina-no-campo-e-se-aproximam-do-agro.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-11T10:30:00.000Z",
-      "summary": "Crianças de Tupã trocam telas pela rotina no campo e se aproximam do agro Reprodução / TV TEM Filhas de uma família de trabalhadores rurais de Tupã (SP), três irmãs trocam parte do tempo de tela pelas atividades no campo. Além de cuidar da ",
-      "image": "https://s2-g1.glbimg.com/1U82DNKveQgQX4uqK0KaF_GXkTs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/v/DAVf6WSwmYb5wIAqARGA/nc-criancas-campo-111026-frame-7227.jpeg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.49,
-      "relevance": 5.8
-    },
-    {
-      "title": "Produtores de lichia ampliam mercado e apostam em novos produtos para reduzir perdas",
-      "link": "https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2026/10/11/produtores-de-lichia-ampliam-mercado-e-apostam-em-novos-produtos-para-reduzir-perdas.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-11T10:30:00.000Z",
-      "summary": "Produtores de lichia ampliam mercado e apostam em novos produtos para reduzir perdas Reprodução / TV TEM A cidade de Itaí (SP), principal polo produtor de lichia da região, tem cerca de 170 hectares cultivados e aproveita o clima favorável ",
-      "image": "https://s2-g1.glbimg.com/ujqD2PYAp0scyjprN6Wvy_JPoh4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/W/knCs6qRLGlyhdOsc04CA/nc-cidades-lichia-111026-frame-6154.jpeg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.49,
-      "relevance": 5.8
-    },
-    {
-      "title": "Quais as mudanças no estilo de vida que podem melhorar o colesterol e a saúde do fígado em quem tem obesidade?",
-      "link": "https://g1.globo.com/saude/noticia/2026/10/11/quais-as-mudancas-no-estilo-de-vida-que-podem-melhorar-o-colesterol-e-a-saude-do-figado-em-quem-tem-obesidade.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-11T07:00:00.000Z",
-      "summary": "Quais as mudanças no estilo de vida que podem melhorar o colesterol e a saúde do fígado em quem tem obesidade? Adobe Stock Atividade física regular, alimentação baseada em alimentos menos processados, redução do consumo de açúcar, controle ",
-      "image": "https://s2-g1.glbimg.com/9PiF5P-6sKMGLKF4lZ4YQ5fgRmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/b/B3FV8fT42CMu8DThTtYA/adobestock-1504915299.jpg",
-      "topics": [
-        "medicina"
-      ],
-      "score": 5.3,
-      "relevance": 6.4
-    },
-    {
-      "title": "S10 Trail Boss: Chevrolet deixa picape mais 'raiz', na contramão da divisão de luxo; vale a pena?",
-      "link": "https://g1.globo.com/carros/noticia/2026/10/11/s10-trail-boss-chevrolet-deixa-picape-mais-raiz-na-contramao-da-divisao-de-luxo-vale-a-pena.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-11T07:00:00.000Z",
-      "summary": "Chevrolet S10 Trail Boss 2027 Divulgação / GM A Chevrolet lançou a nova versão Trail Boss com o argumento de que ela foi preparada e afinada para encarar trilhas. Esta S10 tem uma suspensão mais alta e mais forte para poder voltar ilesa de ",
-      "image": "https://s2-g1.glbimg.com/WAcUmoiLQn86JhCRmCp_xIc3rXw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/c/ofhlJBRiGn1ogj5sEnBQ/2027-chevrolet-s10-trail-boss-dsc00841.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.13,
-      "relevance": 6.2
-    },
-    {
-      "title": "IA entra na briga por contas e aperta empresas da inércia",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVmdBNXB2dmtuLVM3VHJ4dXR5UDhVZnhPOGZkWnRrWHJua3JWQ21ITDF3eHo2T2hFNEtSa2FjRWNieVVQM0ZFZndVc0NLdXpSMHB0T2ZXUlZxN0tRZkdsLXlKRFVQdnhYbzd2T1h0MVFBNnhvWnd3TUU3MzUtSERKcUhHOTJlVFlSQ0Fqb3lRb3NLUnJIV0Z4Q05JMnB1S2RzYno0QmpuZjEzQjV5UEpCX3VzTXNfRElqdEE?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-10-11T10:32:41.000Z",
-      "summary": "IA entra na briga por contas e aperta empresas da inércia UOL Economia",
+      "title": "Singapura avança como hub de criptomoedas na Ásia com integração bancária",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdkMtZ0g0SFV5c2t2RmdiUmtDQ3RGNXlpWGJkX3hFU3F5bTNsaHptOC01SEVxVHZyV0J2ZW10dFpxTlFfOHQyTkZoZHdXNWdtaC1ZNEdTakdkVkgzXzYzZzFhVTYyU3MwQ2t2SHh3d0wzZlJkME1DLUFsOXpScXgwODFHLXpaZVlZSUJaT2NKcXNrTHRCbnRPMWh3?oc=5",
+      "source": "BPMoney",
+      "publishedAt": "2026-10-11T15:00:00.000Z",
+      "summary": "Singapura avança como hub de criptomoedas na Ásia com integração bancária BPMoney",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.12,
-      "relevance": 5.4
-    },
-    {
-      "title": "Mulher perde 55 kg em 9 anos, vira fisiculturista e celebra mudança: 'Exigiu dedicação'",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/11/mulher-perde-55-kg-em-9-anos-vira-fisiculturista-e-celebra-mudanca-exigiu-dedicacao.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-11T11:00:00.000Z",
-      "summary": "Fisiculturista de Bauru (SP) chegou a pesar 112 kg antes de iniciar processo de emagrecimento Arquivo pessoal Neste domingo (11), é celebrado o Dia Nacional de Prevenção da Obesidade, uma data criada para conscientizar sobre os riscos desse",
-      "image": "https://s2-g1.glbimg.com/6DkdP6Ocf1E26C-0A4pdfhV_0hA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/A/heJJrIQwuYJvBe0xk9pg/novo-projeto-2026-10-09t143258.504.png",
-      "topics": [
-        "medicina"
-      ],
-      "score": 5.02,
-      "relevance": 5.2
-    },
-    {
-      "title": "Os segredos da megarreforma da residência de Putin no Mar Negro",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/11/os-segredos-da-megarreforma-da-residencia-de-putin-no-mar-negro.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-11T10:00:01.000Z",
-      "summary": "Os segredos da megarreforma da residência de Putin no Mar Negro BBC/Planet.com/Getty Disputas judiciais, imagens de satélite e anúncios de emprego que prometem a operários hospedagem à beira da piscina, refeições gratuitas e pagamento em di",
-      "image": "https://s2-g1.glbimg.com/S253wv3ztGtv8VFoxiLoufY9V6s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/f/EmuFgFRkAlmggug0cnkg/novo-projeto.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 5.02,
-      "relevance": 5.4
-    },
-    {
-      "title": "Danny Boyle receberá o prêmio de Tributo à Direção por seu trabalho com \"INK\", no Gotham Awards 2026! - Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOamdPNFlfalViOGFRbEpMSjc2dXVReFdhc185Z0FDSDhHcWlFYS12S2V3T2RFSFl3NHpQUzZ3ZUQ0NmFBOFZaRjVLbHZ2QTJqNzYxNWZXVGhxS2xnQktPT3gwak45OWN0VFItekF2dkFPNzRZOTV0XzNFdmRFRVFhVlpVMG9VM28zUmp3dXpaSGZJWVVOR0x2NEhjamNfV1A1Wl9LejhYY2JCT2lFTFUzSTZoX0tLc2dFblhDcTEyYWgxaTFYM0d3cDQxelhxbmhTREgtMEtQcXlvbkpQNmU4QThUSDlFTWVmQmJwN2R0UWpkZw?oc=5",
-      "source": "Candidatos, Indicados e Vencedores",
-      "publishedAt": "2026-10-11T11:49:41.000Z",
-      "summary": "Danny Boyle receberá o prêmio de Tributo à Direção por seu trabalho com \"INK\", no Gotham Awards 2026! Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022 - Candidatos, Indicados e Vencedores",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 4.98,
+      "score": 4.6,
       "relevance": 5
     },
     {
-      "title": "Agronegócio e conflitos por terra ligam as únicas quatro cidades na Bahia onde Flávio venceu Lula",
-      "link": "https://g1.globo.com/ba/bahia/eleicoes/2026/noticia/2026/10/11/agronegocio-e-conflitos-por-terra-ligam-as-unicas-quatro-cidades-na-bahia-onde-flavio-venceu-lula.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-11T07:00:03.000Z",
-      "summary": "Conflitos de terra e agronegócio ligam cidades onde Flávio venceu Lula na BA O senador Flávio Bolsonaro (PL) superou o presidente Luiz Inácio Lula da Silva (PT) em apenas quatro cidades da Bahia no primeiro turno da eleição para Presidência",
-      "image": "https://s2-g1.glbimg.com/sRhiOGkr37mf092qGwACVT5Riks=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/V/JSBhcSSQGUiVPUVcbJug/design-sem-nome-2026-10-05t180237.394.png",
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.8,
-      "relevance": 5.8
-    },
-    {
-      "title": "Oscar 2027: diretora de fotografia que cresceu em Passo Fundo participa do longa que disputa vaga como Melhor Filme Internacional",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNMHcta1lFQ2RNTkhpNWtBRGJ5cEQ1Z29IRmtfNTA3aXFZQ3lTZU1BU3hOT2FVNE84QXhsMlpTZG9jSnlzSjdwMWtpMkhVeHY5OHFncC1ZNHl1U2MweURnYnluamNVMUhWV1ZKQTg0R19BSjY1REF4d3Z5a1FLRzFSQ05vZXVTR2hfOC1NMlY1aUQ3QUVoOHV1cGpUWUtnVUVkVEdrM2x5bkxVLWpEaXllRkwteDNyZzlXSGk0cW5KcDJnVTJzNS1hbDJmQkpmSkItNWtWRkVkWkphd0ZRblpsWDFzM19nNXNZeVNidGVOeFRUSG5KbDVVOHUwNHhiamszemxQREZsZGltOUVWa0R5dXFkRVJxYjUwUWtHYWp4WUNnaXp1RHJEeTIxdWppMTBxN3c0cm1uNGNZS01FcEQ1UXhORQ?oc=5",
-      "source": "GZH",
-      "publishedAt": "2026-10-11T06:00:00.000Z",
-      "summary": "Oscar 2027: diretora de fotografia que cresceu em Passo Fundo participa do longa que disputa vaga como Melhor Filme Internacional GZH",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 4.78,
-      "relevance": 6
-    },
-    {
-      "title": "Campos Neto, Daniella Marques, Sachsida, Kayath: quem são os cotados para a economia no governo Flávio",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYTVhM0hqOTdmczVUY1JwMnZPUXoyaFdSUFBzam5yUXMzaXBnWXhYUlZPN2pVNG9SOTNNQWRtSTBKdlpwRkk2OFZQWFY2ZThoYzhia3BYSXh1cUdYMHdVS3JiNndvMDF2aWUzdGFndENmcW1nX1J5bEEzVVlZOVFkQWw0YVVybVNBVVVpZ0t6WGxqbE9TUWYtZGc2U0xHemR3SzFfUzV3V19QbDhIaGhVZzFtTjRDQkhlU0xYMDBLcm9rekstNDEyTVdMVDU5UQ?oc=5",
-      "source": "Revista Oeste",
-      "publishedAt": "2026-10-11T10:14:08.000Z",
-      "summary": "Campos Neto, Daniella Marques, Sachsida, Kayath: quem são os cotados para a economia no governo Flávio Revista Oeste",
+      "title": "Carro elétrico pode gerar economia de até 80% no custo por quilômetro rodado",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdTZrYnE3bGdGRVgwa2owN1RmRzNsVmJ1SWxiSGZfdlUwMm9nNGtEYTRYcWI3YWhPLVdzYy1KT3hIcllEeWRKNUdtUWlGaXFVTGJVbUNiZGlpc3NrSDBnMmVHbWFTX0Noa1BpVGwxTHc3akVEOUhuUXhEYWQ5NmZHTUFiOEduU2hwSVkzZTVRVnc4RUI0RTdJMmlSYW9LQndsbWJxbnljLXJENVZqdlZBX2htZWZmcXhHNVRiRWtR?oc=5",
+      "source": "Jornal MT Norte",
+      "publishedAt": "2026-10-11T14:57:00.000Z",
+      "summary": "Carro elétrico pode gerar economia de até 80% no custo por quilômetro rodado Jornal MT Norte",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 4.69,
+      "score": 4.59,
       "relevance": 5
     },
     {
-      "title": "Economia capixaba: riqueza maior, consumo menor",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWXVXTHk5eEdENXFDeUZtclMzUFR3dWt4RldqdG5QdU1xdkpRMDZvaFBPbm9HN0JlbFJMWjdxLVdGVWpLWExVOWx3TndRdlFhX2VYaUJQUVlWRlhkMzZ4TFBHQUFWTUdJUkMtazZxSlB6MmRGZ0pNMWZqLTVRbUEwTDVadTRBendJOVZrVkV3dmtiMEZmeW4tYW94bzA1UmxXYVFHcjJyenZMSTBMQWZBRnh3?oc=5",
-      "source": "Folha Vitória",
-      "publishedAt": "2026-10-11T10:00:00.000Z",
-      "summary": "Economia capixaba: riqueza maior, consumo menor Folha Vitória",
+      "title": "Israel afirma que agência da ONU divulga narrativas falsas",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFiMjBGanI2Q3BRamdoUzIxekJwT081MWNMeXlyTVNjQXdhNDdWWUxhU3hPWWdsQ25Rcm8zTVEzQ3VPR0EwelFrMElhYTA0NVh1cm9idFZlbzVIbVZ2WGdITTBmTzluOE9wRGJTcjlOYmFXQmNGejRIWjBNbl9vVWRrbHcyMmVoNDdjUXVKY1k1N0Vad0gzZFVaNGp0cnUyZXJLTHduN25ScFBzeGkxZNIBuAFBVV95cUxQTzlOeG50XzRTZGY3QnNhQnhDS1hSRDVWQVhWNzJOTko0Uno5S0oxY250dUgzaG9PaEdEaHl6Vm5LYzVxUzBxSUgxZGlNc1NjY012TS1sR1c0VkhRcTBSV3Z0bU5mYnl5SDd0YkpKZUF3YmdhMVoxOV9nVDZXa1RJYlJqSTUyZGI4anpRNEJVNkJXNE1MUGJUYzQ3Vm5CTG8zaHlFMnUtWWcyanpUWFFSbTlXY3RqbFRw?oc=5",
+      "source": "Pleno.News",
+      "publishedAt": "2026-10-11T14:50:00.000Z",
+      "summary": "Israel afirma que agência da ONU divulga narrativas falsas Pleno.News",
       "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.65,
-      "relevance": 5
-    },
-    {
-      "title": "Trump rebate Zelensky sobre diesel russo e sugere que Ucrânia tenha novo líder",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/10/trump-rebate-zelensky-sobre-diesel-russo-e-sugere-que-ucrania-tenha-novo-lider.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-10T19:57:40.000Z",
-      "summary": "Trump suspende sanções à Rússia e anuncia acordo para compra de diesel O presidente dos Estados Unidos, Donald Trump, rebateu as críticas do presidente ucraniano, Volodymyr Zelensky, ao acordo firmado entre Washington e Moscou para flexibil",
-      "image": "https://s2-g1.glbimg.com/9lXi2SMYvBigiYI5KgHfldlWUQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/G/toVFKBTzAkGvGI0iBsAw/2025-08-18t175855z-1199898741-rc2t9ga1ofld-rtrmadp-3-ukraine-crisis-summit.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 4.55,
-      "relevance": 8.4
-    },
-    {
-      "title": "Pastor morre após realizar cirurgia para corrigir má-formação no cérebro, em Goiás",
-      "link": "https://g1.globo.com/go/goias/noticia/2026/10/11/pastor-morre-apos-realizar-cirurgia-para-corrigir-ma-formacao-no-cerebro-em-goias.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-11T10:28:36.000Z",
-      "summary": "Pastor morre após realizar cirurgia para corrigir má-formação no cérebro, em Goiás O pastor Daniel Dantas, de 44 anos, morreu após realizar uma cirurgia para corrigir uma má-formação no cérebro. Natural de Acreúna, na região sudoeste de Goi",
-      "image": "https://s2-g1.glbimg.com/n7NbUI-IOi4XFLfxETSjLuPZYaw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Y/hUnpo8QGGQ6BuNIlzyXw/padrao-foto-texto-g1-2026-10-11t072631.489.jpg",
-      "topics": [
-        "medicina"
-      ],
-      "score": 4.54,
-      "relevance": 4.8
-    },
-    {
-      "title": "Ganhadora do Nobel da Paz reage contra sanções dos EUA ao Tribunal Penal Internacional: 'Inaceitáveis'",
-      "link": "https://www.bbc.com/portuguese/articles/cqpvgme9pmpko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Brasil",
-      "publishedAt": "2026-10-10T19:47:16.000Z",
-      "summary": "Navi Pillay também disse que medidas \"anunciadas por um país contra os juízes simplesmente por causa das ordens judiciais que eles emitem\" são \"inéditas\".",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6765/live/a28a7800-c4e3-11f1-a793-e9d00826e617.jpg",
       "topics": [
         "geopolitica"
       ],
-      "score": 4.52,
-      "relevance": 8.4
-    },
-    {
-      "title": "‘Castelo’ de conto de fadas em SC esconde museu, jardins e uma história que começou em 1929",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzN2dVFsLWEycjJuamJsWmx4S3lwdnk3WkpfSUxVTTBVSjJ1SDBqQ3RrRG9zSXR2cE1QRUU3c3U3aW93ek5FRmxmN2tnTmhwZmpsamJPRjI3V3JuQ0NhQklfcm9tRFBlS0I5c1c2VGFaU1lVcE9qTTRjUGNEdkRJN1g2eWludEdveUdkWC1MenZPV09I?oc=5",
-      "source": "ND Mais",
-      "publishedAt": "2026-10-11T09:10:33.000Z",
-      "summary": "‘Castelo’ de conto de fadas em SC esconde museu, jardins e uma história que começou em 1929 ND Mais",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 4.5,
+      "score": 4.57,
       "relevance": 5
     },
     {
-      "title": "Alta dos Treasuries pressiona múltiplos de empresas de IA",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeE5HNlRaREZVZHRLWndfYUdXa255ODR2a19ZbFVWa3RUNVNMb3NNdEZVS1VBV2FvWkRadFJ1S0FXbmJvRnR1a0pLbmhZRUZSWkc1LUhjQlFYX09ZYzVtSkNmQWtRSTBfaFN5NVE4SFUzQTZTYUw2U191VE5XUnZ4ZjdKRGlnSDBIbTdTMWx3WUJFSlYxRm5FS3dJbENXQXZ4VHJnZ2c1ZmM4NURGcDV6M2pQY1BBZ1lWUU0xeEZhREhrNzREN3NJU29tN0FlZw?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-10-11T09:04:39.000Z",
-      "summary": "Alta dos Treasuries pressiona múltiplos de empresas de IA CNN Brasil",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.48,
-      "relevance": 5
-    },
-    {
-      "title": "Vulnerabilidade financeira das famílias aumenta em 22 das 27 unidades da federação, diz FGV Ibre",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWlFHdl8wMjNGbDdXWWY5S3hPNm9fZ1EzaGI3QjJmZ2xDbGQyTk0zaVU4UXpzMzBjM3J3ZlduRU1QMlg3T3FjLUI0UEpSMkVYQnNZTHluNEdwcGg3NHB3dElOcVd5NmhGQkRiajJuUlk1ZURQZ29sc001M1ZZLUdYRTFMU0N2TVplTnR1TXk1VENYcjNEMUxQbXhzNlZWdlZoemJXbXlrTmhJR1hLLS15d2Zhbk1sNXYyUWl4b0NvOS1SYVIyWXNtQTY2RG3SAdIBQVVfeXFMTjdJNmFRVXc0a0tndW0xSDdyTUtWcnFCZDNaZS1QZWVnNlB6TE84U29yNDNOb1B5ZXNVa29qYmdtTV9xMW5RN2ctM1ZRY2ZpZW5oRVl3cHJPeGtNeUgtV3A0bi1WcDNydkpNaXBhXzJ3WWlSTUo4ZEcxVkE0UFdEbUVjVGpXNkVuRWs1Wl9KdnUzTUhoTzRRUkZQTmF6TFVoT3dEYnBCU2V2NjN4ajUtejhJdElaR3VUcmdFRDlvX1ZXVlkzSXdTM1g5TVplRFdLZExR?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-10-11T08:30:00.000Z",
-      "summary": "Vulnerabilidade financeira das famílias aumenta em 22 das 27 unidades da federação, diz FGV Ibre Estadão",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.39,
-      "relevance": 5
-    },
-    {
-      "title": "As 3 melhores séries desta semana na Netflix Portugal (11 outubro)",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjlGbGZSUmdkMEp3U1RaajZJaGJfN2tqemI0bDU3MDZqTnpZWmtkVEY0MngyUEM3YXR3MDBacUxZSXRTOXozWW1oc001dVhwcGVxNDE2WnhiUkF6UjM5dWJsaF9qbk1iQVlqWmgzMnVWSzRaSWZtc3cxaHZQd2VjQ0RmWTNPdEFNVXRrZ3A1T1dMOE1sYk9sYzNVVjQ?oc=5",
-      "source": "Magazine.HD",
-      "publishedAt": "2026-10-11T08:15:06.000Z",
-      "summary": "As 3 melhores séries desta semana na Netflix Portugal (11 outubro) Magazine.HD",
+      "title": "Filme de terror que faturou US$ 72 milhões nos cinemas lidera ranking da HBO Max",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaE1RS0drNk9xXzJ6bHFwVHNUcTJSX0Q4bU5OX1FncThiREtnUXZHN210WGJJWlEza1RxR2RBckNxMUhZMDMxeWt5MkEzS2NEYXAxZU1hdmRMYUVnc3hYQk01X0hpaUV6bGNJUnJub0NHTEFiOW85TVdsQzVnRXJjaThMUHVlaFp4d1FBbzYtdWRpVnZKYTdhamR5U0c0LW4wcmhxNzh0X1VvZG8tNG9kbFk3YTAtUEYxNFc0MUdlZy0?oc=5",
+      "source": "UOL",
+      "publishedAt": "2026-10-11T14:45:00.000Z",
+      "summary": "Filme de terror que faturou US$ 72 milhões nos cinemas lidera ranking da HBO Max UOL",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 4.34,
+      "score": 4.56,
       "relevance": 5
     },
     {
-      "title": "Árvore gigante de até 500 anos cai em SC, e cientistas tentam cloná-la para preservar seu DNA",
-      "link": "https://g1.globo.com/economia/agronegocios/globo-rural/noticia/2026/10/11/arvore-gigante-de-ate-500-anos-cai-em-sc-e-cientistas-tentam-clona-la-para-preservar-seu-dna.ghtml",
+      "title": "Economia no TO: Dorinha aposta na transformação local de matérias-primas; Vicentinho propõe silos coletivos e meta de pleno emprego",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMlBjT0pHNDNKS3ZCel9VeTlDSlg2SkJvSUt2M21lSVI4SWw5T01UVUx0aHREeTB6N0JQUFJvVUxwR2dEYlh5bzdUVDhmVDlXNUZJN2RZVzhXSlJzR2lFSWUxR0taaWtqWVM3bUwxcXdkUEhrNG9oWHFtOTBKN0RtSmZuTTVnWHdGcVBaQTZheGhkRW5TaENlVExNdGhQTk43Z0tzcHRCb2hyYUFnbVhmbHRhUXY2S25rYS1Yai1VVUxOd1ptSDd4djkzX3NqQ051dmNYdjR3V1RCYWFvSlRDV3UtV2lBSU1aMUtOb1ppd1NLb1dERHVZaVNQQ2dXcFZscGQxeXFBTHhYMTVwUGgtT21RRU5ZTTROSHRHZVNoelV6RlczTUxtTW5B0gG4AkFVX3lxTE9wNGxiMWdCcl9vcDRSMnFvdGVtV1NZMmpSblc0MFBqZHpOV0JvaWprYzNfb3RzbEd3blJubExPdUtOZUJBRWROaGRLdlJfdGdPRm5IWHBJZktsRnhnMGpMRXRJekFCRkJiSVpiU1RpUlp2bjczNzl4T0hfNmRJbUtGVnFSN1JxeUxpdHFiLVVlVktzREFfX1FQV1lrbUsyTi1SZFdUYUF0amJXZlAyMmlNcGtsVmh2eFpXMFRldEgxUkdTWmhDcFA5M2MyV3FvX2NNRkkwcjRHcXo3enowblZTVXY4d3dSbm54Ql92SXNXcDRoUXVlWFF1dlpQczcxYmI1SEdiejVHdXdxZVFXVW1ra21xakVuZjY3MU5RcmlmZkxtWnl1ZDR3QzdzWmxWT2hiUnV0VHpFLQ?oc=5",
       "source": "G1",
-      "publishedAt": "2026-10-11T06:00:00.000Z",
-      "summary": "Gigantes pré-históricas A queda de uma das maiores árvores do país mobilizou equipes de pesquisadores em uma verdadeira operação de resgate científico. Conhecida carinhosamente como Pinheirão, a araucária de mais de 40 metros de altura fica",
-      "image": "https://s2-g1.glbimg.com/DTpo4y3HdK1BYWWSKeOl1ufU00M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/P/roU9pQT1iBBRpGyBJiqg/captura-de-tela-2026-10-09-132459.png",
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.3,
-      "relevance": 5.4
-    },
-    {
-      "title": "A falta de plano na economia",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObnJadERwWUsteXBxR1R5Rk83S0dTdFBGbFg2NFV5TWhLV3B3Z21UMEhYc2taRlpZYlRzTE1BU1lMUGxuNVl2RXlsbk4tSTBKcVRweC12S2RYTEF5bGczN3RucldNbllJWkhYZ0NPN3BYYTlXSC1iSFdTRzZNb1AwWXpPNmZSS0ZhWFkycUJfbGRueWhWTVRBa0Nn?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-10-11T07:30:00.000Z",
-      "summary": "A falta de plano na economia O GLOBO",
+      "publishedAt": "2026-10-11T10:00:01.000Z",
+      "summary": "Economia no TO: Dorinha aposta na transformação local de matérias-primas; Vicentinho propõe silos coletivos e meta de pleno emprego G1",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 4.22,
-      "relevance": 5
-    },
-    {
-      "title": "Jovens empreendedores estão utilizando a tecnologia digital para se conectar e realizar negócios.",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLS1Bd2ZmYTgwWkZsQS1SVXhmZDlrTldnZnRTX1V4Q2hyUU00NndNY2U1bWFzVFBacHJqeHhaME1iY2NUMkFNZDdURmpZN0dVQTBZVVZQMWVkWWx1WV9KcVU3d0JwV3U5eG9VdkcwczgwRFQ4RkJsRU55dmtoQ2hsUzVFNW5PNUtIbWZURXBn?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-11T02:05:54.000Z",
-      "summary": "Jovens empreendedores estão utilizando a tecnologia digital para se conectar e realizar negócios. Vietnam.vn",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.11,
+      "score": 4.56,
       "relevance": 6
     },
     {
-      "title": "CSN negocia venda da SWT por 550 milhões de euros a grupo espanhol",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTWJOYU1DcTNWdlVJV2ZrWTU4RGdfLWtuV1pjMlE5TF95NXpYLW5jcTA1aHJWTldJUkVnc0x6Y1UyM2FSUTY0YjdjNTFMNFhjMkxfUDhTZGRNSW5QMDhxZ3BCS09zWnVXRmFRRmd4Z004NHB0M2p6STFJcjlWSkV5Q2NsUUJqWXk4dW1rczM1SDcxX2xURUFUdU5uOGFyZHBENmY5UmNMNWdZREJXc3ZDTF9McEZDLXpIVTM3Zno3aEIzTlFHVVE?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-10-11T09:47:33.000Z",
-      "summary": "CSN negocia venda da SWT por 550 milhões de euros a grupo espanhol UOL Economia",
+      "title": "Na Índia, data center do Google enfrenta protestos - 11/10/2026 - Economia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSEZCdjNKVlJFektuaXFnSnA0UUJLeW4tcERzbFcwcHlFMzFPdzZpaVZ2RG5rNFJNeUJvNGtuMjdmVEwzQmdpXzFkQmVicHdvTWgzSlNyUFdZS210aW9VclhQV1BfV2NfajNRRHowZUttOXJzMVVaSFlMOUdkMy1rYmZsaHZ6ZVVIUmlobVAwNTNqeHdHUnFnZUZpQW91Z09YVW1qN3IzRzVsVndCWVdlVg?oc=5",
+      "source": "UOL",
+      "publishedAt": "2026-10-11T14:43:00.000Z",
+      "summary": "Na Índia, data center do Google enfrenta protestos - 11/10/2026 - Economia UOL",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 4.06,
-      "relevance": 4.4
+      "score": 4.55,
+      "relevance": 5
     },
     {
-      "title": "'Nunca funciona dizer que a economia vai bem se o eleitor não sente isso', aconselha Karl Rove, arquiteto das vitórias de Bush",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPY2J5dkl1QUNuaUdqcG9IU0FyaGNKOXZnYVh1bmRGbjNEUjkwRHFLNmdkajZ3VjI2OEpsYng3ZmVaMHpSay0tMTRCcy1BNlY2Y0VKd3FwRC1oelV4QWRDQU5lSHJLdmN1TEpfTVpheUpDNThqQ0YtQ3hYM2NZY19KR01aRkVWR1hvZi1raFNMQkswemhnY1NXSFJrU2d1RHAzdEVtY3NTRzc1Q0JCb00xRk1uME8xTVNGMVJhMi1udENaanI4N2xCU3RxYjFuRXhZWm43Y1pIOFVkc1habTYtcUllU041SE5zSnJSV3RrQ0hKSE9rcFdReElicVlyWXltVTNwWUh4a05sS0tGMDR5YUlLZGNOUVBrVVVlRURtTFLSAa8CQVVfeXFMTWkzaVhFUnZvV3k5U0tsRWpNNkZpbXVOZl9OalNHTGI3WExsdk5KOElyZmdQdjNDbURrSkFTWm42Z3ZGSVgyRDBmRjV3Njdfcnh5LXBFamJzUmNZM1RsS05IY05BSGlxM1pUNkhFT1R5Q1JSbENsbUxDTUVYWENrc3JoM1NnZU5RYWhSVFBwRGdFRFVIbnB1UndwWk53cGNmR25ReTY0WWF5S1Q2QVhlTXJoWXEzTU1sdGVKbnhpWjVHcU12YVhTWXRueDhab09JWkhodWxqaDZqRlNtZy1HSDMzOTJjalExUjZNeGUwZXd1dUVIcnAwaXhfbTh3WjRUSTgxdGNXZUViZWtGeTg4dTFaMEM4Mm03ZVZ0SDNqV1VOQVk2bUdxaV9LWkJQZDFB?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-10-11T06:30:00.000Z",
-      "summary": "'Nunca funciona dizer que a economia vai bem se o eleitor não sente isso', aconselha Karl Rove, arquiteto das vitórias de Bush O GLOBO",
+      "title": "Cenário de euforia no mercado só se sustenta com ajuste fiscal, dizem economistas",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZkt6MGZqNnhBVk90enA4YkZheUJDT0tQdlQ2VzJocl95YTNIc2E1RFRXeU44V2FXZnRhXy1aSVkzVUZLWmN6ck1DZTkyck1WWkhUSDdfN3pKeHlWaC1LRHMtRVRvUFpDTW4xMUFOWVByRjRZcGJ4U0Q2dldZX3ZNX0xpeUIzeFhSSmtFaDdvdnBPOV9GNlIxWmp6Mk5LMEh6MVgxbnZsR1pPLS1fa0plSEtVSDFOblUtZlltc2dZM2xfN2c5Z1hlcWdFcm8?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-10-11T14:24:00.000Z",
+      "summary": "Cenário de euforia no mercado só se sustenta com ajuste fiscal, dizem economistas Folha de S.Paulo",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 4.06,
+      "score": 4.5,
       "relevance": 5
     }
   ],
   "byTopic": {
     "historia": [
       {
-        "title": "‘Castelo’ de conto de fadas em SC esconde museu, jardins e uma história que começou em 1929",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzN2dVFsLWEycjJuamJsWmx4S3lwdnk3WkpfSUxVTTBVSjJ1SDBqQ3RrRG9zSXR2cE1QRUU3c3U3aW93ek5FRmxmN2tnTmhwZmpsamJPRjI3V3JuQ0NhQklfcm9tRFBlS0I5c1c2VGFaU1lVcE9qTTRjUGNEdkRJN1g2eWludEdveUdkWC1MenZPV09I?oc=5",
-        "source": "ND Mais",
-        "publishedAt": "2026-10-11T09:10:33.000Z",
-        "summary": "‘Castelo’ de conto de fadas em SC esconde museu, jardins e uma história que começou em 1929 ND Mais",
+        "title": "Profundezas: A história da série, trailer oficial e detalhes da produção",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83eTVvTlVMam5ibXY2UGRpWERoRm1nR2NsTjBGaWpuX3M4aGJ1RU1jcEJrRnQwcGFkVXJFOHpWWXVTTXVNTTlFUjRyemh0S3Rkb0lXeTl0MnRlODZkMUJab3NMb3ZBdmRRTDl5ZVN0dGJHUnhQWEktWA?oc=5",
+        "source": "Jornada Geek",
+        "publishedAt": "2026-10-11T17:00:01.000Z",
+        "summary": "Profundezas: A história da série, trailer oficial e detalhes da produção Jornada Geek",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.5,
-        "relevance": 5
-      },
-      {
-        "title": "Fábrica fundada há mais de 200 anos em Salvador esconde história surpreendente",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWi1wdFp2YVlQVEhRakUwTHlhX19HZmhFM1dVY1gzbDBMbXpwNHpyZmx4a2lwV0k2OHhBZnJmZHEtN3pPMVpIWjdUWmVCTURuWXJfSjdKd2FQYmZkNnMzaGs2aVdRWWxGYlJxV25zSWRtN2R2bm5JNDZ2NF9wVHhvREdmcmFGRFpOY0Jha3Z6cUZNb3pLd2pIWlBjZXY1WlBSZXIzdlZPRkZITDZYQmpLdXhwZkd2ZDTSAb8BQVVfeXFMUHU1NTdET3otWXdKbm9XUm9oSTB1cmxXZGMzN2hGeWk2am51cU90aEFtWHlUbmpLd0d3VU9naVZIY3V3SmFOaDY4Um5OQjhiLUFHVFRKLWtvcDJwbFEzeVFROURIWDczUnA2TWgwNVV5OG9XREZCY01fRmVSbmRiRHVJczZLRjYxZlE4VUlSYmQybnVlVTBmR2Z1TVVfRnhBS2F4ZV9TX3N6ZEQtMWdXYlI2SjJwdzJiOVZqUHZOMVk?oc=5",
-        "source": "A TARDE",
-        "publishedAt": "2026-10-11T11:38:38.000Z",
-        "summary": "Fábrica fundada há mais de 200 anos em Salvador esconde história surpreendente A TARDE",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.96,
+        "score": 3.98,
         "relevance": 4
       },
       {
-        "title": "Campina Grande celebra 162 anos de história e inovação",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWEFVelppaW5PS2pKbXdEUUhaelZTZGxaSDNRLWt0ejh2RGxsYWlFdVREUG5YU1RXcVpjZDZIV1oxc25BSzM4SEpUOWYtWlk3TG8zVF8telFmam9wX09PTzNJMlItaEFuV1hYMHl4Y1RhTV9PeVBybHJsMVM3SFdKbkU2YVhiQ0ZraE56OUVSdXdkM3RNN3p2WGdCMlRmSVU?oc=5",
-        "source": "pb agora",
-        "publishedAt": "2026-10-11T11:35:48.000Z",
-        "summary": "Campina Grande celebra 162 anos de história e inovação pb agora",
+        "title": "A escritora que quer reimaginar a história brasileira com mulheres negras no centro da narrativa",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObmlBaFVGd0phWl9XQWhaMF9VRHJPWXZFMS15UlNBMEo5OTJwZmxyb25XVHptRE5uNDNoaUlicEJ6UHlwUkt0SHM4b3BJYnVBci1RaXQyc3pmSWJIaTl6MzBTdUo3eVhydi1uQTBQQjhrMDRnUTdBOE9LaXZnb1ZSdGJtbENRQUs2TkJIYkxESHZ4TE1udGk0S1RsWEYtRXhsd21ibEo1eVVrOThPTUN3bmlKV3czaE91QV9PbWZjbXA1OTg3VU03Y05TdjNwanZ5YjE2LUppZFAwRy10MkQyVi1YcUljRXJnUXEycFdrV3ZpN1V1NGRRSnVJR1lDYjktQ0FyMjdkcFpzc21HZjhRVA?oc=5",
+        "source": "Terra",
+        "publishedAt": "2026-10-11T16:42:00.000Z",
+        "summary": "A escritora que quer reimaginar a história brasileira com mulheres negras no centro da narrativa Terra",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.95,
+        "score": 3.93,
         "relevance": 4
       },
       {
-        "title": "Aniversário: Campina Grande celebra sua história e a cultura da infância",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOTRCQ3NzRnd2TFVaUWM4enFwTVYxV0lyTm50Y2Eza29qWVNvemtZREFmM2JtdC1LYTVreWZZNFFCR0J1U2Zkbl9TMWFiZ2VuUDc4TlFiOUY1UXM5T0xXbnpnanFORk4tb1lhdGd4ZWFvUjBLZVloZVI1SWV6OWJhdnVjbzQ1WWdqT2xxZEY2NmVBcHdWbFEyX0E2eVNwcjQxbEJDY0VJR3lFYVJDdnVXMUJKdmRteEVFZ213b294bkFCTnU3anc?oc=5",
-        "source": "ParaibaOnline",
-        "publishedAt": "2026-10-11T11:30:49.000Z",
-        "summary": "Aniversário: Campina Grande celebra sua história e a cultura da infância ParaibaOnline",
+        "title": "Sobrevivência é baseado em fatos reais? Conheça a história do novo filme de Ben Affleck na Netflix",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTUZVbTNYOHZRN1lvYmdWTFgya1VOQkZQUmNIbGxuWUtEd1I4MWtUbk1nVWdGZ2V4YkVCN2pQLUs2aS1JTWNkSTFnQ29SSDJ2ZndvZGYwQUsyMFQ0Uml3TGxBUlhiYjFyajJKQU9BeUJfLVJIN3NYVDEyekMzeHMzc3VCYmlWMlZ3UXJPamc4bFVLTm5MOVpFZDBlY01QQU9ZekoxYlVXXzJ5a0Z4TVlJeFZaaTdRdTFJYWNFYmVvZEFWZDFvdzdpcDZMYWhZZE9GWDVxUnVR?oc=5",
+        "source": "Cinema de Buteco",
+        "publishedAt": "2026-10-11T16:20:57.000Z",
+        "summary": "Sobrevivência é baseado em fatos reais? Conheça a história do novo filme de Ben Affleck na Netflix Cinema de Buteco",
         "image": null,
         "topics": [
-          "historia"
+          "historia",
+          "cinema"
         ],
-        "score": 3.94,
+        "score": 3.88,
         "relevance": 4
       },
       {
-        "title": "HISTÓRIA: Basílica de Aparecida (SP): Santuário da Fé, Paraíso dos Ônibus movidos, acima de tudo, pela Fé",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQUpUdDVXNWdkVmhzYl9RZFZWWVNvMVRvQjRUYlV6a1R2eW54YlZXR0tjNXNMOHRfaEtnbUlPaUpFTWo4V2xOd2NIREZubDRpaldCNUw2cElyQU5Wb3pNNjRFY0FCNFdjdW9IOFpJUWlJdE9ucWt5S3VlX0hGYWU0eVFrNEtlWU9wcEdCa3VHSlJuVUUyM1cwUDJmVHViWGtWWEl2ZHpyNEU4RHJGSHFqSnVldElfazFtUkR5VUMycXpSUVduMFhzU19hT09WbVlqUHZ1eEQyWF9pTHpN0gHiAUFVX3lxTE5EUzMxTmNhRHFya2d4YUU1S2dDdkNfSFE1bDlPWHpMS2JlTGtlMWxIM25IMkJkRG5lUEpvWWUxUXBnai13RmNfUk91OTUxdl9BMWx4TnFDb0FidGxUS0VjZVpfWjUzWk1GRTZYQTVrUEozQUZwbHVNOENZVVV1d0dVTWY2NWsza1Uza3lXYTlLVzZPWU01LThfQ1FycG9PU0FaOGt5WjVHWlRmcjd1Wnl3cEhBMTJ2MkVtSTVJR1N1NkM4TnNZYmtlZjBUZFZIcm5aZ0tVY1lWcmEzZGFiU3lyc1E?oc=5",
-        "source": "Diário do Transporte",
-        "publishedAt": "2026-10-11T11:03:45.000Z",
-        "summary": "HISTÓRIA: Basílica de Aparecida (SP): Santuário da Fé, Paraíso dos Ônibus movidos, acima de tudo, pela Fé Diário do Transporte",
+        "title": "Virginia Fonseca e Vini Jr. terminam namoro pela segunda vez; relembre a história do casal",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMExqTWtHTzNkb0p6dVdNWnlSWTJvNUlocGdCb3IyVTlTNGEwM0l4azVmVk5XcVEyNlJVVUhNUUtPWXRxbVNvVTZEMlpldVo0bE1FcXRXank4MGlWcUwxTHFzNi01ODhLX3VhRzdRQ3g3a1diUW03ZE4tMUxsYWt6c1ZDNElGd1pOSHZlZk50WTdoV2xWZ2k3RGlIVjRsXzVNUWpXU0VGNjcyYUlBeWxZYlZjU3NxeHZuRU1rRUg4TnZiVTFiUGFFMFFJeGVnOEhId05JR0g3dFhwUdIB6AFBVV95cUxOVDFBcXJBbFRrNnBCNDhBWF9WaXdZbmxNTTNUaVh5MlNxOTVLQldXUVNJV09FMm5GNGJQUmRVdU5ubTdVS1RlcHV6QU1HZUJzZUQ5XzZlWUlRby1ubWx5cVVGcVM3RERVVGZVRzd1d01VNUl3NFhRb1ZCV2ZSUnJLWlhybktrV3FoQWdwTUdpWnhfT3JyTm42MzVUUGhSSVdOVVpaOHZJWDhSNmNHQVAwS0RQRUtwajVVZXV6VHlKMV9pekY5b0U5OVhyTS10S2FYYzZjclA2OHNhS2ZsRG1PZEg5UDRycGt2?oc=5",
+        "source": "O GLOBO",
+        "publishedAt": "2026-10-11T16:06:39.000Z",
+        "summary": "Virginia Fonseca e Vini Jr. terminam namoro pela segunda vez; relembre a história do casal O GLOBO",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.87,
+        "score": 3.84,
         "relevance": 4
       },
       {
-        "title": "Café com Viola mostra a história de dona Antônio e Peu",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNU5BakI1U2lRSEVpRlo1c01qWVg0V3FoSGdqeDViQlhtc2d1UkpCb3dxbWZGa2NFNndBcWE3bExYbEJaSHpJMW5yU1hlMTZ6cnhhdmRHOW8wdXhpR1RoYkw1Ny05MXR3M1RQQTNvdWh2YktSdDVodllQRVNNd3lGa3RZYVdWUklCcWlCTmhZSkN1a2E1WWQxV0hkZTV3VDV1S3I3TW1pODlTdEJrcElocjRQRS15bm9YVTBlLXFpeGJEMGhIMDZIUVVoVGNWOGvSAd4BQVVfeXFMTVNsYXB6cEwyU0ZSUmdGNkFpSU15WjlHU2MwVGFpY1F2cVhYUmVaRW5FYVlCQjgtOWtrVWUzYkhzZEprOGlZUUJzUXBrT2RFVkVrSzREV3pYaWZzcEZnWVVqSWJ3SlY4U3hTX2I2S3c4dXdvdWQxUmlRaXNVM0ZZZE1QVTRrd0R6NDRvcDZDUHViOTdmS0FHQUxMYngxdmtGQzJNcEY0SC11enNNellibndJVGlfN0ZWVGdtQjhLWUxFOHZlbnExSEdCcTBkMDZkRHF2VFpkX01RODV1SlVn?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-10-11T11:00:02.000Z",
-        "summary": "Café com Viola mostra a história de dona Antônio e Peu G1",
+        "title": "Skoda no Brasil: uma história esquecida dos carros e caminhões tchecos",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOVlWODRvaTlhLWRqVGNteUN2dEdSeDZaQjB4WTh2bExEb2FSMlpwdzZialNaYUNlLWN3eTlwZURNZERtR0gzS1JzeXdGTlIxTHFNaUlNalpXRnN2OUJzdTVUemxwYzg3TDFkc2RsQUFIU042N1dGeXZtT3B5S0dvMU5GWFY4Zw?oc=5",
+        "source": "Motor1.com Brasil",
+        "publishedAt": "2026-10-11T16:00:00.000Z",
+        "summary": "Skoda no Brasil: uma história esquecida dos carros e caminhões tchecos Motor1.com Brasil",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.86,
+        "score": 3.83,
+        "relevance": 4
+      },
+      {
+        "title": "Conheça a inacreditável história do deputado que disse ter ficado rico por acertar 221 vezes na loteria",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORFZGZHk1RnhEdUVOeXZfd2N1QzVwUHM5Vnc0XzBHSjlGbXcxUXFjZmhXcWtNckFXTHMzR3RINjE0aUFCYVk5SWVFUEZqWHVNRjA5T19FRHhlTVRHak1pQ2h6NGp5R2hBUmZfaTRRWnNULWVyUGRMdUtzRTM0ZG0yakNaejY4SHNhcktTRkNGUDZhN3JZdWVkSUM3R2dZc2VJdExLWHlrNjFWYzJ3RHRwdmZEcnB2OU5SdGJ4RVRKWHFUVmtNT0xxLTNWcE9FQQ?oc=5",
+        "source": "Agenda do Poder",
+        "publishedAt": "2026-10-11T15:49:12.000Z",
+        "summary": "Conheça a inacreditável história do deputado que disse ter ficado rico por acertar 221 vezes na loteria Agenda do Poder",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.8,
         "relevance": 4
       }
     ],
     "geopolitica": [
       {
+        "title": "Trump anuncia trégua energética entre Rússia e Ucrânia; o que se sabe",
+        "link": "https://www.bbc.com/portuguese/articles/cm86zpgyp789o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Brasil",
+        "publishedAt": "2026-10-11T16:22:19.000Z",
+        "summary": "Moscou ainda não comentou. Ucrânia afirmou ser a favor da medida se a Rússia aceitar.",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f83d/live/5edd4270-c58f-11f1-bc2e-018d645d8d21.png",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 11.06,
+        "relevance": 11.4
+      },
+      {
+        "title": "Rússia e Ucrânia concordaram com 'cessar-fogo energético', afirma Trump",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGg1NnBnNEo0MVpreXZmVlZLTm5NLVliY0RQdmNYUEJoLUNFV0dxYl90N2N0UzBKeFM4U2VDMEZ0dkJRNm1OTDIwZEJGQkJmN0RYcGtjSVA2bVhJbFNXcnFJN0R3a0RfQkN6clZWTXRJYmhiaGFDOWJMa3V6bnNWQ09SQmJHM1BKRFdjUi10cW5yZVFqR2VibWszVS02cjFIODhFdHZSMNIBrAFBVV95cUxQRUxaOWpCbHg2bkR0bzdFSDd0MUpZTjZHTF9GQUROb2Ywc3NndmY2Nng4aFpyZnVFaGFMUWZTTnNuMmFYLXpkalIycDYteE1CWUNYU2g2YlpWOTBLVVFmMGMtbllYTkY5SXFUNGtMUHJ6ZVNUcFAxbFd1UUlId2JpTjVTai1lRXJaQ0RzMUNMLUx1Y01Sd3Jpc0t2M2JrcTFrcUlNTEpFSGpyNEZh?oc=5",
+        "source": "InvestNews",
+        "publishedAt": "2026-10-11T15:17:45.000Z",
+        "summary": "Rússia e Ucrânia concordaram com 'cessar-fogo energético', afirma Trump InvestNews",
+        "image": "https://s2-g1.glbimg.com/CQEHtmwpqvxvMn3ZxMGYug7wAGk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/l/YCknLDQ3CbYEQstRRZqA/2026-10-10t002837z-1091946746-rc200oa5olyz-rtrmadp-3-usa-trump.jpg",
+        "topics": [
+          "negocios",
+          "geopolitica"
+        ],
+        "score": 7.63,
+        "relevance": 8.2
+      },
+      {
         "title": "Zelensky rebate Trump e diz que Ucrânia só interromperá ataques se a Rússia fizer o mesmo",
         "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/10/11/zelensky-rebate-trump-e-diz-que-ucrania-so-interrompera-ataques-se-a-russia-tambem-os-parar.ghtml",
-        "source": "G1",
+        "source": "G1 Mundo",
         "publishedAt": "2026-10-11T11:40:01.000Z",
-        "summary": "A Ucrânia está pronta para interromper os bombardeios às refinarias de petróleo russas se a Rússia também cessar seus ataques à infraestrutura energética ucraniana, afirmou o presidente Volodymyr Zelenskiy neste domingo (11). A declaração f",
+        "summary": "Trump e Zelensky se encontram na Casa Branca, em 18 de agosto de 2025 Kevin Lamarque/Reuters A Ucrânia está pronta para interromper os bombardeios às refinarias de petróleo russas se a Rússia também cessar seus ataques à infraestrutura ener",
         "image": "https://s2-g1.glbimg.com/9lXi2SMYvBigiYI5KgHfldlWUQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/G/toVFKBTzAkGvGI0iBsAw/2025-08-18t175855z-1199898741-rc2t9ga1ofld-rtrmadp-3-ukraine-crisis-summit.jpg",
         "topics": [
           "geopolitica",
           "negocios"
         ],
-        "score": 9.31,
-        "relevance": 9.4
+        "score": 7.29,
+        "relevance": 9
       },
       {
         "title": "O que se sabe sobre ataque a aeroporto na Arábia Saudita que matou 12 e feriu mais de 300",
         "link": "https://g1.globo.com/mundo/noticia/2026/10/11/o-que-se-sabe-sobre-ataque-a-aeroporto-na-arabia-saudita-que-matou-12-e-feriu-mais-300.ghtml",
-        "source": "G1",
+        "source": "G1 Mundo",
         "publishedAt": "2026-10-11T10:30:31.000Z",
         "summary": "Ambulâncias se deslocaram para o aeroporto de Riad para atender os feridos REUTERS Pelo menos 12 pessoas morreram e 309 ficaram feridas em um ataque no sábado (10) ao aeroporto internacional de Riad, na Arábia Saudita, segundo autoridades l",
         "image": "https://s2-g1.glbimg.com/o1D15QSdMfSZXEaKsQoKVb4gs30=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/x/D4RCnURlm6F9AX3xifrQ/novo-projeto-2-.jpg",
@@ -776,7 +807,7 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 7.01,
+        "score": 5.73,
         "relevance": 7.4
       },
       {
@@ -789,49 +820,21 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 6.98,
+        "score": 5.7,
         "relevance": 8
       },
       {
-        "title": "'Estamos prontos para partir imediatamente': os milionários de origem cubana que se preparam em Miami para a possível queda do governo da ilha",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/11/estamos-prontos-para-partir-imediatamente-os-milionarios-de-origem-cubana-que-se-preparam-em-miami-para-a-possivel-queda-do-governo-da-ilha.ghtml",
+        "title": "Houthis acusam Arábia Saudita de ataque contra aeroporto do Iêmen; coalização saudita fala em novo bombardeio a Riade",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/11/arabia-saudita-realiza-ataque-contra-aeroporto-internacional-do-iemen-diz-tv.ghtml",
         "source": "G1",
-        "publishedAt": "2026-10-11T09:52:00.000Z",
-        "summary": "Juan Omar Sixto afirma que ele e seus colegas estão prontos para 'ir fazer negócios em Cuba imediatamente' BBC Na suntuosa mansão com vista para a baía de Biscayne de um dos cirurgiões plásticos de maior prestígio de Miami, nos Estados Unid",
-        "image": "https://s2-g1.glbimg.com/MvNkrAQYwx6nlpT1bmn8WhVBnxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/6/pFORCVQVmbQrC8s514Jw/novo-projeto-1-.jpg",
-        "topics": [
-          "negocios",
-          "geopolitica"
-        ],
-        "score": 5.73,
-        "relevance": 6.2
-      },
-      {
-        "title": "FMI alerta: disparadas e choques de preços podem ser mais frequentes e afetar inflação por anos",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR2dYV0d1TlE5SzlNQ2xpX2FFWDVZOWJxZzhoQTV5OWQxenhOY3Q1RkdRbUJFSTJTcm96NC03WXQ4anZwZUdWSTF2T0RfTzkwWGE5MGh3ODhFTHZTdlM0SXZvZUh3Wm1BZTQyS0thTFBqYk5oc1ZmLVJGSHNqeHBXV3NQcjF1ckVnTVRzU1MyU3FMYUNfQl85YWZJM1JlZkxZSnNpLUFTSmpIVXk0NjFxV3RVQlFGd1JTeXRaNk1ESW1GTTFvNHEzbXltU2t1VEVxNHlaYlpsalJTZFNaR29oRzU5Y9IB8gFBVV95cUxORmcxTmtORm5aZWNGaWpidU9fbC0wZG55MXFwSXMtOWpjaEFmUTBVX1VLLTYtSU1PbXo3ejdablVZQ1ZGY0RaNWJ2VHFsRENheWQ3OS1RNEtMR1QwSi15Nk1teUNGTkQtLTN5WHBvWnNUemV2X29XQUN5RUxBZzFkd2RlbjROb3phS09TZWl5MHYtajNfdmRKejdOZUk4NmhjRk5yc2lGSE5wTUR5SWNIRGpiQmtoVWZyT0k2UVk2c1J4bnFtbWNReGJBRnRYQTZuTUk1QUJ2VHVIcmdWdnhHbGFkN2hZZmo0VDhZNTFheTZvdw?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-10-11T08:00:01.000Z",
-        "summary": "FMI alerta: disparadas e choques de preços podem ser mais frequentes e afetar inflação por anos G1",
-        "image": "https://s2-g1.glbimg.com/_lmVwMlNO_776vG_9bH66EQgqec=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/Q/gK6psQSC6QRAbKoS7ZBA/thumb-videos-g1.jpg",
-        "topics": [
-          "negocios",
-          "geopolitica"
-        ],
-        "score": 6.19,
-        "relevance": 7.2
-      },
-      {
-        "title": "Houthis emitem alerta de risco para novos ataques a aeroportos da Arábia Saudita",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/11/houthis-emitem-alerta-de-risco-para-novos-ataques-a-aeroportos-da-arabia-saudita.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-11T09:28:02.000Z",
-        "summary": "Agora no g1 Ataque no aeroporto de Riad deixa 12 mortos e mais de 300 feridos Os Houthis, grupo extremista do Iêmen, emitiram um alerta de risco para novos ataques a aeroportos da Arábia Saudita e pediram que companhias aéreas, viajantes e ",
+        "publishedAt": "2026-10-11T13:59:30.000Z",
+        "summary": "Ataque no aeroporto de Riad deixa 12 mortos e mais de 300 feridos A Al Masirah TV, emissora controlada pelos Houthis, grupo extremista do Iêmen, noticiou neste domingo (11) um ataque que, segundo ela, foi realizado pela Arábia Saudita contr",
         "image": "https://s2-g1.glbimg.com/dqVRYC2QwR6_jndcL4tIM7V_YFM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/4/kbhva9QuOfkgYN21RCfg/2026-10-10t193830z-1401625215-rc2i0oa6ps94-rtrmadp-3-iran-crisis-saudi-airport.jpg",
         "topics": [
           "geopolitica",
           "negocios"
         ],
-        "score": 5.64,
+        "score": 5.49,
         "relevance": 6.2
       }
     ],
@@ -839,7 +842,7 @@
       {
         "title": "Quem é o homem mais rico da África — e por que ele quer vender parte de seu império",
         "link": "https://g1.globo.com/economia/noticia/2026/10/11/quem-e-o-homem-mais-rico-da-africa-e-por-que-ele-quer-vender-parte-de-seu-imperio.ghtml",
-        "source": "G1",
+        "source": "G1 Economia",
         "publishedAt": "2026-10-11T08:00:00.000Z",
         "summary": "Aliko Dangote afirma que os planos de expansão de sua empresa ajudarão os países africanos a se tornarem autossuficientes em energia. Reprodução/Reuters O homem mais rico da África, Aliko Dangote, lançou a maior oferta pública inicial de aç",
         "image": "https://s2-g1.glbimg.com/6A38OxCOBil0uPrQUcAo5RDWn7w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/4/WFgelSR9qoYhzJBCRkNg/hr5nzyicpvnjperjnsvriaatqu.jpg",
@@ -847,21 +850,34 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 8.78,
+        "score": 7.17,
         "relevance": 10.2
       },
       {
-        "title": "Economia no TO: Dorinha aposta na transformação local de matérias-primas; Vicentinho propõe silos coletivos e meta de pleno emprego",
-        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOMlBjT0pHNDNKS3ZCel9VeTlDSlg2SkJvSUt2M21lSVI4SWw5T01UVUx0aHREeTB6N0JQUFJvVUxwR2dEYlh5bzdUVDhmVDlXNUZJN2RZVzhXSlJzR2lFSWUxR0taaWtqWVM3bUwxcXdkUEhrNG9oWHFtOTBKN0RtSmZuTTVnWHdGcVBaQTZheGhkRW5TaENlVExNdGhQTk43Z0tzcHRCb2hyYUFnbVhmbHRhUXY2S25rYS1Yai1VVUxOd1ptSDd4djkzX3NqQ051dmNYdjR3V1RCYWFvSlRDV3UtV2lBSU1aMUtOb1ppd1NLb1dERHVZaVNQQ2dXcFZscGQxeXFBTHhYMTVwUGgtT21RRU5ZTTROSHRHZVNoelV6RlczTUxtTW5B0gG4AkFVX3lxTE9wNGxiMWdCcl9vcDRSMnFvdGVtV1NZMmpSblc0MFBqZHpOV0JvaWprYzNfb3RzbEd3blJubExPdUtOZUJBRWROaGRLdlJfdGdPRm5IWHBJZktsRnhnMGpMRXRJekFCRkJiSVpiU1RpUlp2bjczNzl4T0hfNmRJbUtGVnFSN1JxeUxpdHFiLVVlVktzREFfX1FQV1lrbUsyTi1SZFdUYUF0amJXZlAyMmlNcGtsVmh2eFpXMFRldEgxUkdTWmhDcFA5M2MyV3FvX2NNRkkwcjRHcXo3enowblZTVXY4d3dSbm54Ql92SXNXcDRoUXVlWFF1dlpQczcxYmI1SEdiejVHdXdxZVFXVW1ra21xakVuZjY3MU5RcmlmZkxtWnl1ZDR3QzdzWmxWT2hiUnV0VHpFLQ?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-10-11T10:00:01.000Z",
-        "summary": "Economia no TO: Dorinha aposta na transformação local de matérias-primas; Vicentinho propõe silos coletivos e meta de pleno emprego G1",
-        "image": "https://s2-g1.glbimg.com/_sEzNqDNVO1BHhrl-u22ARSN6tc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/u/8jSY1MSyAk7S3sSkL1uA/copia-de-modelo-foto-fundo-borrado-1-.png",
+        "title": "Essas criptomoedas podem multiplicar em até 270 vezes o valor investido; descubra como copiar automaticamente as operações do ‘melhor trader do mundo’",
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNUWg5ZXJmbUNvdDNyTFdlSXFsekJVeWJfRU11WTNqcElHM3VPYTQ1Xy1MR0psdEg2M2l4MkV0elNtdUdlSUVIYVdnNmJYSW9MUTJpYTB5aUIxOHp5blVRYkVLbUdFaUR1ZkwxRDZJUFdPRmwyU1JSRTVkS3hIUGxzdFViWlZoNXg3VXRFeFpzbUxDVjAtRjlmMHVkcGdieVQteTdRX2RhWlhEX25ISkh0dEVvRVpzM0hBcGZQWktZbG9SN3VPWlpKQXFGY1FaTEhuemFvOWU4OFZIZldiNk04bDZUMzZ6V2djUWJ5MGZKV0VZTktERWZEVDR1eGN1NEs3by1FM0tXanlWMnQwVi1rQ0pUWUxnMWVnTWMwVzA1SU5MLVBxN09nblFBejU?oc=5",
+        "source": "Seu Dinheiro",
+        "publishedAt": "2026-10-11T17:01:05.000Z",
+        "summary": "Essas criptomoedas podem multiplicar em até 270 vezes o valor investido; descubra como copiar automaticamente as operações do ‘melhor trader do mundo’ Seu Dinheiro",
+        "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 7.62,
-        "relevance": 8.2
+        "score": 5.97,
+        "relevance": 6
+      },
+      {
+        "title": "A inteligência artificial e o desafio de quem está começando",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMllNMVRQR2JtSnZsVUVOckQ3WDRoX2NQaDdGMVpmVHhlUjV4bmhBazRFbUJYdjRSS2RYNkFSam81cUYyX2lMZ2NSUkVEWnJpci1ZOU9iQkdmc2R2RVFSN0NGci1JRW8welNTSzBhbVg1ZC00QVZmQW5ocWpYT0g0UG5UZDdFM3BmQzhOVDdQN0Y4bEFKV2ZJV1R4bmI0MXRBelE?oc=5",
+        "source": "A Gazeta",
+        "publishedAt": "2026-10-11T17:00:00.000Z",
+        "summary": "A inteligência artificial e o desafio de quem está começando A Gazeta",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 5.97,
+        "relevance": 6
       },
       {
         "title": "LULA COBRA EXPLICAÇÕES DE FLÁVIO SOBRE ECONOMIA, MAS OPOSIÇÃO QUESTIONA AUMENTO DE IMPOSTOS EM SEU GOVERNO",
@@ -873,8 +889,21 @@
         "topics": [
           "negocios"
         ],
-        "score": 6.91,
+        "score": 5.65,
         "relevance": 7
+      },
+      {
+        "title": "Notícia Ibovespa nas alturas com ajuste fiscal, Banco do Brasil (BBAS3) em queda e as promessas de Flávio: os destaques da semana",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZU52UGQ3LTJGVWtOWFdGYzZfcW4zZFdHdmhkbHdMaU02UUxWUjlUU3dTZmpiN0d0MEhEODRoUFNKUkdLRFpZTnF4LUJSSDVUODRCZ1lDYlU2RkxPNERxZF9IVUIxVHd4T2NYb3BoeEpSSHVvQWZQT0wtMVFvN2NLLUtNN2M4YmlJa0o3RjhuWS1SYlowQk5MX3huUnZQc3dFejJzNHNwelo4cjBhZXY5R1ZoNHdsWDFXU1Z4TE5Ka193UU5MMEQxbFRUN2dDSmNHUk9zblo4UjVEbmdzSENv?oc=5",
+        "source": "Kinvo",
+        "publishedAt": "2026-10-11T14:10:00.000Z",
+        "summary": "Notícia Ibovespa nas alturas com ajuste fiscal, Banco do Brasil (BBAS3) em queda e as promessas de Flávio: os destaques da semana Kinvo",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 5.35,
+        "relevance": 6
       },
       {
         "title": "FMI alerta: disparadas e choques de preços podem ser mais frequentes e afetar inflação por anos",
@@ -887,261 +916,223 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 6.19,
+        "score": 5.06,
         "relevance": 7.2
-      },
-      {
-        "title": "IA ameaça aumentar desigualdades de gênero no mercado de trabalho, diz relatório",
-        "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/11/ia-ameaca-aumentar-desigualdades-de-genero-no-mercado-de-trabalho-diz-relatorio.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-11T06:00:00.000Z",
-        "summary": "IA está criando grandes novas oportunidades, mas também pode aumentar a desigualdade, afirma ONU Kirill KUDRYAVTSEV / AFP O boom da inteligência artificial (IA) poderia acentuar as desigualdades de gênero no mercado de trabalho, alertaram d",
-        "image": "https://s2-g1.glbimg.com/oAErCnTbC_C9JMsw57xuwOGxsJ0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/W/3/O8iVDtRZyAiHY0L18mLw/000-38p88cp-1-.jpg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 5.89,
-        "relevance": 7.4
-      },
-      {
-        "title": "Europa identifica laboratórios clandestinos para refino de cocaína em escala industrial e alerta sobre nova dinâmica do narcotráfico",
-        "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/11/europa-identifica-laboratorios-clandestinos-para-refino-de-cocaina-em-escala-industrial-e-alerta-sobre-nova-dinamica-do-narcotrafico.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-11T08:00:00.000Z",
-        "summary": "PF monitora nova dinâmica do tráfico de cocaína Autoridades brasileiras têm sido alertadas nos últimos meses por investigadores e agências da Europa sobre uma mudança na dinâmica do tráfico internacional de cocaína a partir do Brasil: organ",
-        "image": "https://s2-g1.glbimg.com/kJGFlxZ_DkNEJA6R9ljxIbAPbWs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/9/kYwPf7RDysAKfnYhDzNw/whatsapp-image-2026-10-09-at-15.45.09.jpeg",
-        "topics": [
-          "negocios",
-          "geopolitica"
-        ],
-        "score": 5.85,
-        "relevance": 6.8
       }
     ],
     "filosofia": [
       {
-        "title": "Cícero, filósofo romano, sobre a humildade: \"Quanto mais altos estamos, mais devemos nos rebaixar em relação aos nossos inferiores.\"",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWVBHZVVxWU1sUUVhUHlQWm15NVZZblRwcGZjYTJTYkJpV0lGeDFUTjBXZ2Z2VW0wVGJmTEExTUY5eDZ3enltY1NCazE0emFIZ01SdldsY2JBaDVqV0xZMncwamxjZ09qbVU2QXBqT1Z1UGpPYXNWa2xlanBhaGhmTmZYT21NRXV6VmdwUGlqeUFVNENaeENzaDVHTk1xV0VYQXV3UGtRNGlGQWQzSklkU3FEMjhrWkx3bzE5UXVWSl90b1pfWktRc3JQS3VzQXNmQnlhaUt3SWdhYjhKWktOVFRJdkhzOXVsamEycklibmU1ejNYYXc?oc=5",
-        "source": "Catraca Livre",
-        "publishedAt": "2026-10-11T08:24:13.000Z",
-        "summary": "Cícero, filósofo romano, sobre a humildade: \"Quanto mais altos estamos, mais devemos nos rebaixar em relação aos nossos inferiores.\" Catraca Livre",
+        "title": "Estoicismo: a filosofia de Epicteto aplicada aos investimentos e à liberdade financeira",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRlhlMHh2ZjVhR094aHZteVFiY0pMRFl5N1ZTTWdpT2RvYy12NTBBdkVyQUhDeG80U3hCZVJhUmQ4SDRvczdxcWdWZHF5UFBJWGNUWFJkOERwOE9VYjducEhFRUdZVHZ5Z25kS19DVUZTMW9qUGZYV3pNWnY1dzlZZEpjbDZUTEJYSklONTZnQ3FJUzk4RnVRb2R6bTQ3RmlLTS03MEhGSVVNek1zdjYtc0FFWjk1d2NYZFdVa0h3?oc=5",
+        "source": "Seu Dinheiro",
+        "publishedAt": "2026-10-11T13:10:45.000Z",
+        "summary": "Estoicismo: a filosofia de Epicteto aplicada aos investimentos e à liberdade financeira Seu Dinheiro",
+        "image": null,
+        "topics": [
+          "filosofia",
+          "negocios"
+        ],
+        "score": 5.15,
+        "relevance": 6
+      },
+      {
+        "title": "Entenda a filosofia de vida que levou Martinho da Vila a fazer sucesso",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT1RvNWY5LU13eXRMc1F6S29lcUNQX2dJX3Y1aTRZZXA0YkJBNWRLeHlubXBodnM0aDR3aE1jdDUxbjdHTGw2Y0VKblU3U3dXT01OcFZzeExxYzFCcnV3WXpTa2s2eDZ2RHFGM183c1ZEcnlSZXpUbDRiMGc1d01WckJuMnhGWWE5YkFneEJ5Ry1KTm5NSWRLRTN1TjJ3VFJpMHFIcFVOWnFiNEtxbW1keEtFaUN4dw?oc=5",
+        "source": "Tribuna da Internet",
+        "publishedAt": "2026-10-11T17:01:12.000Z",
+        "summary": "Entenda a filosofia de vida que levou Martinho da Vila a fazer sucesso Tribuna da Internet",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.5,
+        "score": 3.98,
         "relevance": 4
       },
       {
+        "title": "Confúcio, filósofo: \"O homem que comete um erro e não o corrige comete um erro ainda maior\"",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWXBxXzYwTEUySG96Q2stak9zMnZfRXRXcXJ1a2RzV1pzU3NSbk1VcW9Takc2N1A2bXQtLUdBY2hCc3pnZnAxalNXTjd3Szd4eHNXaXhnaVhtME84cGpGNjBaNjZBYjFBcXF4SThYTzNhQ0hIZnU3MV80dWN2VnBZenJwSXoyZlZmOGhadV9zeHJOb2VPMUpISFRuSXFXY1pNd1JBQ05XbGY3Y1l6Wm9SRmRsU2tMWGFzRzREM1J6NUU4c0VNd05zYTJWb3FlNFVrRVYxMHh0LUR6TnZINVpJMUYtS3YzSnB5U0tiRVJCY3RpWUhjZTN6UllEZ0ZJekdPSHc?oc=5",
+        "source": "Terra",
+        "publishedAt": "2026-10-11T15:10:00.000Z",
+        "summary": "Confúcio, filósofo: \"O homem que comete um erro e não o corrige comete um erro ainda maior\" Terra",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.71,
+        "relevance": 4
+      },
+      {
+        "title": "Citação do dia, de Sun Tzu, filósofo chinês: “Aparenta ser fraco quando fores forte, e forte quando fores fraco”.",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWENrWG5vcW1tOVdqSzNKR0RqMG5CN2hEZDBpemlQX242OFVBclhDX0syUVZXejN0ZWFQUno3NElXTEZHRXZ0TGxkQVR0a3FXOG9BVlNqWVRQaDZraUowZFdYQklNS2Y2aFhlY2o5LUQzSWh1aHV2cW84Skl4N1ZZZm5ieHc5NmVKVnNLV2UwSlVFNHBWdUdESkg0NmllYTFCNDhYMEltNEJiSk5HTkI3cmJDdE9QS3Y0WkxSZ0Q0bmV0bjVseFhGaTM5NlFOcmVuS2U5bXpPNVFNaXMw?oc=5",
+        "source": "Catraca Livre",
+        "publishedAt": "2026-10-11T14:04:24.000Z",
+        "summary": "Citação do dia, de Sun Tzu, filósofo chinês: “Aparenta ser fraco quando fores forte, e forte quando fores fraco”. Catraca Livre",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.55,
+        "relevance": 4
+      },
+      {
+        "title": "Cícero, em Sobre a Velhice, escrito aos 62 anos: “Ninguém é tão velho que não pense poder viver mais um ano”, a frase de 44 a.C. que fala com quem acha tarde demais para começar algo",
+        "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPcXlYdE15bUtFcEV5aGoxWlQxQVpNMGR4TmNLVVNhNTZ6OURxQ2Vaek16VVVXcFVaYlp6UHUyLWNVV2ZQMkl5a05tU0p4WUFxMVpRSExGMVEwd2szVXFtbzlXQ1FEVnRzbEJaLUFyLVhIWEdjMTJyTUdVdV9SRzA4dHprR3kyRzNIUk1uSUZmWktzRzdXQ2J6cVRxMmtHa2tlS3RXZ1dtRkJ0WWFsUV9OSTZwVVdLVzJ6elFxNEpEaDhFbzQzeWFQNHYzaHRDMXFmZGN5T3JZNVMxRDJzb3I3MmhZM3h3Ty1KRnJIdkpoOVZCVVVrOXMyNTBKSG05dVBCLW91aDlLRGJpaVkwWVNURHBySDRpOVU0OEMyd3lWTnpjWklidnpXMnM4clhCM1ZBZHNCRTlxUkZFRVVOZmRSeTRFdUtHZw?oc=5",
+        "source": "Revista Oeste",
+        "publishedAt": "2026-10-11T16:00:00.000Z",
+        "summary": "Cícero, em Sobre a Velhice, escrito aos 62 anos: “Ninguém é tão velho que não pense poder viver mais um ano”, a frase de 44 a.C. que fala com quem acha tarde demais para começar algo Revista Oeste",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 2.87,
+        "relevance": 3
+      },
+      {
         "title": "Bertrand Russell, sobre o trabalho: “Quando proponho que a jornada laboral seja reduzida a quatro horas, não quero dizer que o resto do tempo seja necessariamente dedicado à frivolidade”",
-        "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOeG80YzNtb0QzWXI2ZTAyWlpXaVNJV1h6TjdNRVFDSHQ2NHZ4bHpabFFsSEQwQk8weXdtTEk5T3RhV01URUt1RzNOS2lMMnptbmdUMWVOc3VQaVA2ZDQwaWJjUDVJSk9xZ1lvNUUtR25nRTRoWUlsZ2lpUTgtb3BfVGtPZXh1aVFqRlRkQktkcm5iQUxRVmJud3JyRVZuVUc1RlhYeWhjR3JBcVR0WWpKVlNSbWFpM3M3bjFCdWUxNkZpd2hZMm1Lb2FNdFZ3VXBKdjRzWVpRck90aUJ4M0dDWGJTUUZkZUlQaUtPejM0YlZxZzFodUg4Rll4dzNWR0NjU3VzV3U1QWZTRFlWSzJXTXFhRmxjY0pQd2pCdW5JU2xiRE43X2tHUXRmUXVRQ3Jlck5fTVFyR2M5SXBp?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPUlVqc3dvMkNtS2E1eEZWYm0xVkVoaExIZDcxdFRHTkZxVVQ4YzlXUzBBemIza0VPdGFNU0VMRnBhLWZJQ0ZJV0FHbnpRbjVQVGpodUtHQXBUNHl0TjYxdGJtdFVKN1RibFJCSjBTeDJhelBzR2o5WDBEY0o1U3dNSGFBLUUzNGlYdnN2bXN6eXdacEJQRGxXYTlXWHkzSkhucldpOXdJaW1kMUQ1Y09CQmFSMGFvVk56eUdrM3BSUkhjTlR1VkZQTnlXMlotMjJpaHRud2FCTGpEODc3WU52bXBhTnk3TjE0VGRJSlY0cFZ6X21zWnotdUxrbmRKV0s4QUdiVmE5c0NMMGM4QU5LNUV3cWk4bFY0ZU5md3plUml0Rk92ekpPRXlNWkZNbjlrVW5mS0R1dw?oc=5",
         "source": "National Geographic Portugal",
-        "publishedAt": "2026-10-11T07:06:18.000Z",
+        "publishedAt": "2026-10-11T12:01:46.000Z",
         "summary": "Bertrand Russell, sobre o trabalho: “Quando proponho que a jornada laboral seja reduzida a quatro horas, não quero dizer que o resto do tempo seja necessariamente dedicado à frivolidade” National Geographic Portugal",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 2.49,
+        "score": 2.46,
         "relevance": 3
-      },
-      {
-        "title": "Edgar Morin, filósofo francês que viveu 104 anos: “Minha receita para a longevidade tem mais a ver com curiosidade, amizade e amor do que com uma dieta”",
-        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOS2gzdGJSTmFVUlFEVl90Z2RiNlU1cnpLeC1HZjd6RjZHVjROSGJFMEUzWENXaFdZdlQ3VEFzdmxaQnJJdS1STFJ0Q0Jvekg5ZUNkTEJWTmw3ZDl0MkFyblBqdHQ0enE0cmswX3lJSlVuQ3g0X1E1V1JnOWU4VTFubUNsaThySWxCZTFRaVlMcWU4MXJwYzlrVEJWYTBydHRTSjNaZ2dKZ1hrY0xuZG9na1hseGZLYXlnYzFoWmNTbE81YWw3WkY5TWd0dWVKN3NWcWVSRmJtYzNsSjktQ3RVV282R29VblNuQmxKSzd0WDlualV5dXd5RklEenhRZmNJVWVsbEZObVJlZVl6RG1LT2ZhX1lGd01ONExudDVEby0?oc=5",
-        "source": "Revista Oeste",
-        "publishedAt": "2026-10-10T19:35:00.000Z",
-        "summary": "Edgar Morin, filósofo francês que viveu 104 anos: “Minha receita para a longevidade tem mais a ver com curiosidade, amizade e amor do que com uma dieta” Revista Oeste",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.13,
-        "relevance": 4
-      },
-      {
-        "title": "Confúcio deixou esta atemporal mensagem: “O que não desejas para ti, não o faças aos outros” – empatia, respeito mútuo e convivência harmoniosa",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWlI5TmNwMGFPLW1HWE11aC1XYUQxQ1poTHNreFJIMnlwUXF5Y3hVbUJ4b29oaWxqdWl3c2ZuTUNmZ3JaNDBaNlhHTWF2WEdvaEttemdTRFYwZjNDRXZ4M21KWGNuVm4xeDJmcnVfcDhUWEpRbnRTRTZ6QkRKbXNRNXZFLTdQdlZSVUxiU0o0bVdYcldsRnBEXzkwZWhGUUxpQ1RKRmVHZGo5ZVV0UGZrN0FGMGpFVWVNa3FVa05Hd25QUXZMdE5kQnZuWVNMdldWTE1wUG4wTTY0VnRIN2pCNXdYdTFKX3JHMUVxQ05razdiNGtHaVU0VTFudVBaWTIzZEJ1VXFGMldLamRJZWM3UQ?oc=5",
-        "source": "Correio Braziliense",
-        "publishedAt": "2026-10-11T02:58:00.000Z",
-        "summary": "Confúcio deixou esta atemporal mensagem: “O que não desejas para ti, não o faças aos outros” – empatia, respeito mútuo e convivência harmoniosa Correio Braziliense",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.13,
-        "relevance": 3
-      },
-      {
-        "title": "Sêneca, filósofo romano: \"Não é que tenhamos pouco tempo, é que desperdiçamos muito\", a frase de 2 mil anos para quem passa o dia no celular e diz que não tem tempo",
-        "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQdEI5TDI1dlk2WXZ1MVJPVFBvcDR0RmNlQzVxVTU5ZE42eEdRdFlObVlvYTU4YkFDRExjeWMzSVJoTE1tY3BRSjRRX1NJUjU4di0ybWxvNUluY0UteGRDcUphVlRKeWJFVFN0TlBpd0Y5NmdaUDQtbEFRQmJDcjA0c3hZZklybzk5ei03b1Z4REp4cHlLM1oyUnFvMmtkNGpEQnM4T01wbV9rRE8xNWxlR2FTLXB5YUVvX05JNmtWbDZRTGNNS2x1ekg2S3k4RGVnaUp0azhka2htcU1VY09QUzZ5NFFjcEk4czMyX3pNckpUdXEzei1udWZ3b19yVGdXLTFaV2w2V1F4eElndXFXa3Y1WTIwWjlIeUVpX1RpSGNhYUdwTlE4SGJlWXZyS2pVanoxT1pB?oc=5",
-        "source": "Olhar Digital",
-        "publishedAt": "2026-10-10T16:17:00.000Z",
-        "summary": "Sêneca, filósofo romano: \"Não é que tenhamos pouco tempo, é que desperdiçamos muito\", a frase de 2 mil anos para quem passa o dia no celular e diz que não tem tempo Olhar Digital",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 1.88,
-        "relevance": 4
-      },
-      {
-        "title": "Frase do dia da Filosofia: 'Tem gente que não precisa de inimigos. Basta encontrar alguém que trate os outros exatamente como ela trata' - a reflexão inspirada em Marco Aurélio sobre caráter e hipocrisia",
-        "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOQ2dBbXR5eXdWX1VROTdyZEJXLWRnZDRxOWlVbWhoanpuVmpxNTBkb0NxeVNvQ2ZvUXRUZDRvZnpZcG9hWHE5YzNFdFdac0JZXy1wNzNmeXE3VFRsUE5OU203aG1ZMlFNYWZ1TUpTNTdLaGdmekIxczFsWjBfemRWZVRoOG1nOTB1X2haX090ZXR4SV9JcWU4MVFmRXdsbWN1N3RXYnpORXRFTVc2Q0JFcE16bmtRTHY5SnFVQ1B5TFd5X01sUGxIOHdYVFo1Rlo3YnB1WG4tOTBKQzlTM0xMUHpoSWMzakVhWUwxVThYaENCbDFjRE0yVTJjY0RZZ05PVHFJOENDSkRSSDRydWFsNlo3RmVrWm1qelFFbldKel8xR185S1locGRCT3FiRWVucVh5YlMwYnhLaEk5M05CY25RVjhDUXA0S0F2dG5BZXR5enRIblpCZDBnZWRaMEY1d3BOOA?oc=5",
-        "source": "Jornal Correio",
-        "publishedAt": "2026-10-10T14:00:00.000Z",
-        "summary": "Frase do dia da Filosofia: 'Tem gente que não precisa de inimigos. Basta encontrar alguém que trate os outros exatamente como ela trata' - a reflexão inspirada em Marco Aurélio sobre caráter e hipocrisia Jornal Correio",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 1.72,
-        "relevance": 4
       }
     ],
     "cinema": [
       {
-        "title": "Looke reúne 13 filmes do Festival de Cinema Francês em outubro",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnI5VE5wcDNrdFJvVHJ5anF0aTJSSkMxYXFuaTR3QmZDM2NjemQzOW0xLVd0XzRxeGlZQkR5QkRNR0RfUXBSYUxEbXQzc1k4U0VvM2RGMzdaZ3Z1M1Q1bE5ab05MR3hEU3NaR0ZDRmhpOXBPaV9MTUlXMXBrNGR1X0FVcE13MzQtVENHVVlqcFQwZVRMc3pmRW1OZnQ?oc=5",
-        "source": "www.jwave.com.br",
-        "publishedAt": "2026-10-11T08:45:51.000Z",
-        "summary": "Looke reúne 13 filmes do Festival de Cinema Francês em outubro www.jwave.com.br",
+        "title": "62 anos, 80 filmes, 2 Oscars: tão mundialmente conhecido quanto Tom Cruise… Quando veremos novamente uma das maiores estrelas de Hollywood no cinema?",
+        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPaXEwRmFuZElLa20tdHBsaGdaSTRRbE1Yd1hpMFdiSWlHX2RlalVrbWxoNUc0SnB6U3ZGM2tRUjFJdlZxVkt1eWhJNlM2MUNDTS10a1VDandiWVlZeHMybGc0cTFFclV2YzI1MjM1V0g3alZnXzYwdzB3RFpYb19wUVNaQlRWNUpWbVRWZ25VTGJNbXFiTXRYMlFBbkNxcUY0VXVlbEhETUtUNG9EZWtZWjJuV0h1ZFdBNHJTd0MyRkl0ZUNjUWJySV9RMnJscHNGVTNWQWI4d2s4VFBQazVQdG5aXzFZeXY4U2NVSUI5dkNXZFBvZEJZQUoxeURpZC1DZ1JWcVZvM0pZWV9IM1RNNnFFbFBzbEIxbjl0MGlwX2hYSm9ncHlpd2Q4Ti02WXI3WERCVXhEel9RV3NoZml2TjRoS3NSOVk?oc=5",
+        "source": "Terra",
+        "publishedAt": "2026-10-11T13:01:00.000Z",
+        "summary": "62 anos, 80 filmes, 2 Oscars: tão mundialmente conhecido quanto Tom Cruise… Quando veremos novamente uma das maiores estrelas de Hollywood no cinema? Terra",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 7.97,
+        "score": 6.82,
+        "relevance": 8
+      },
+      {
+        "title": "Festival de Cinema Francês disponibiliza 15 filmes no streaming em outubro",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3FucFA4cnZVQkV6ZFhrb0M0T3ZCbGpxb0Z3T1BCTzVMUzVLMV8wR1dzd2tNN05XeTNFVk04T25yYl9HR0xTOWcteUppMEpTXy1xY3daSng0aE14LVdTNzg0QXZtZGZ4emx0cEloNXlTWVdNdG1QWV9BMS1KSWUxZlhSc0FyejQwU09yREpybmxaeDc2ZlBtbGQ0a1lubmFXSUE1WnBqekprd01h?oc=5",
+        "source": "jwave.com.br",
+        "publishedAt": "2026-10-11T09:56:09.000Z",
+        "summary": "Festival de Cinema Francês disponibiliza 15 filmes no streaming em outubro jwave.com.br",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 6.82,
         "relevance": 9
       },
       {
-        "title": "Alfonso Cuarón | Diretor vencedor do Oscar revela novo filme após 8 anos de hiato",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMlJ1TFJ0SVZOSC1MZFhfeTNLX2pNeXU3bUpiWDlNYnUzSHJScER5SkNEdlB0UmRRdDI0R2ZEc1ZwV0Zma3pKQ0hvNkYzVkMycjM3LURGUHE0b28teWVqM2F4aHgwLV84cFNubWNocFNqay1LS0U5ekN5bG5YSm5GOGkwaDVhT1dwWEVJZEdfQW5Qc00?oc=5",
-        "source": "Omelete",
-        "publishedAt": "2026-10-11T11:00:00.000Z",
-        "summary": "Alfonso Cuarón | Diretor vencedor do Oscar revela novo filme após 8 anos de hiato Omelete",
+        "title": "Documentário sobre família de onças-pintadas do Pantanal estreia na Netflix - ANDA",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMlVqNVd6NzFmUzF5T0U0Uk1vakhjeGkxTTNUTTBKV19WdTJXZ25oS2pIMTZyUnZPeWlhZ1RmNVJFbVVfSXFwS2RzZzhQbzhCaDNrVUhmVlpfWjFOTXloSHVlejBJZ2JZb3RiRGRXVkw2eDdKZnZzWUZOWE41a3RNUk1zS0VQWHhzYUpWMUFFTENtNzhuZy1ybWJHN3c?oc=5",
+        "source": "Agência de Notícias de Direitos Animais",
+        "publishedAt": "2026-10-11T12:26:14.000Z",
+        "summary": "Documentário sobre família de onças-pintadas do Pantanal estreia na Netflix ANDA - Agência de Notícias de Direitos Animais",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.79,
+        "score": 5,
         "relevance": 6
       },
       {
-        "title": "Circuito Penedo de Cinema recebe 1.255 inscrições e divulga filmes selecionados para 2026",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2w5bDd1M3IwN0lrcmVmNGxiOFNOX1VreUlMWDFMdVhDZDRVWFRZZlFtQmdZLWlUb0c5NHF1c20weE96eS1zckI3bXg0bzJpRnZSLXhaNi1Qck1Hel9VNFBFT2E5cWF3cmU0c0FfdEhEcm1Hb1V3UWVLRmI1THQ3M0xNclBqaDVOYnplYkNnLVBjLVhNZkNOV09oY01ubmZuN2pPNVc5S0ZKRzR0blhxLUpqeVNCTHQ0TkxoOXdodw?oc=5",
-        "source": "082noticias.com",
-        "publishedAt": "2026-10-11T10:09:21.000Z",
-        "summary": "Circuito Penedo de Cinema recebe 1.255 inscrições e divulga filmes selecionados para 2026 082noticias.com",
+        "title": "Domingo no Cinema: veja qual filme a Band exibe hoje (11/10)",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLXlmcHpGazVjdm12VHdULVZoMTJNcHZiZ3JhMXpjYUtTeldqNGxBbC1TMEpKdzg1VGhnRTZNVTFFSzJvYVhJRnZ4UHI0OWdLR1lSRTlwcm1HMEFqYzRlTXM2VThaaDFwcDNPY3Q2Y1Z5U2RJcUY2ekRDYlEzVFk5dnNvXzd5R2xRTWVmU0NRbGtKUQ?oc=5",
+        "source": "Portal TV e Streaming",
+        "publishedAt": "2026-10-11T15:00:00.000Z",
+        "summary": "Domingo no Cinema: veja qual filme a Band exibe hoje (11/10) Portal TV e Streaming",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.61,
-        "relevance": 6
+        "score": 4.97,
+        "relevance": 5.4
       },
       {
-        "title": "Danny Boyle receberá o prêmio de Tributo à Direção por seu trabalho com \"INK\", no Gotham Awards 2026! - Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOamdPNFlfalViOGFRbEpMSjc2dXVReFdhc185Z0FDSDhHcWlFYS12S2V3T2RFSFl3NHpQUzZ3ZUQ0NmFBOFZaRjVLbHZ2QTJqNzYxNWZXVGhxS2xnQktPT3gwak45OWN0VFItekF2dkFPNzRZOTV0XzNFdmRFRVFhVlpVMG9VM28zUmp3dXpaSGZJWVVOR0x2NEhjamNfV1A1Wl9LejhYY2JCT2lFTFUzSTZoX0tLc2dFblhDcTEyYWgxaTFYM0d3cDQxelhxbmhTREgtMEtQcXlvbkpQNmU4QThUSDlFTWVmQmJwN2R0UWpkZw?oc=5",
-        "source": "Candidatos, Indicados e Vencedores",
-        "publishedAt": "2026-10-11T11:49:41.000Z",
-        "summary": "Danny Boyle receberá o prêmio de Tributo à Direção por seu trabalho com \"INK\", no Gotham Awards 2026! Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022 - Candidatos, Indicados e Vencedores",
+        "title": "Com Michael B. Jordan, terror na Netflix superou Titanic e bateu o recorde de indicações ao Oscar: 16",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWXdSUnFxOGNJVHpOaGVaOTc2UFB3VTlCekI2TS1MTkNtSkF0V2g0REpaZjhUNmM1a0FJaTRWMFAzdGlOVUZnMjZHWFcwSzZUQTdzenF5QXNndldITGdBbEw4SXlweVRiUzVkUXhBekd2LWVBOFkxOUhWRmpJYlluNkdKdXlMaUxnbndmTWtJU1k1UUhHX3ZETDJKQlYtNHVpcFB0RENoME9SVXJWdFJ0U0d2X2FNMTNHQ1p6QmU3d1dCLVpiMlBINEhrT1REMnc?oc=5",
+        "source": "Revista Bula",
+        "publishedAt": "2026-10-11T16:56:32.000Z",
+        "summary": "Com Michael B. Jordan, terror na Netflix superou Titanic e bateu o recorde de indicações ao Oscar: 16 Revista Bula",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 4.98,
+        "score": 4.96,
         "relevance": 5
       },
       {
-        "title": "Oscar 2027: diretora de fotografia que cresceu em Passo Fundo participa do longa que disputa vaga como Melhor Filme Internacional",
-        "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNMHcta1lFQ2RNTkhpNWtBRGJ5cEQ1Z29IRmtfNTA3aXFZQ3lTZU1BU3hOT2FVNE84QXhsMlpTZG9jSnlzSjdwMWtpMkhVeHY5OHFncC1ZNHl1U2MweURnYnluamNVMUhWV1ZKQTg0R19BSjY1REF4d3Z5a1FLRzFSQ05vZXVTR2hfOC1NMlY1aUQ3QUVoOHV1cGpUWUtnVUVkVEdrM2x5bkxVLWpEaXllRkwteDNyZzlXSGk0cW5KcDJnVTJzNS1hbDJmQkpmSkItNWtWRkVkWkphd0ZRblpsWDFzM19nNXNZeVNidGVOeFRUSG5KbDVVOHUwNHhiamszemxQREZsZGltOUVWa0R5dXFkRVJxYjUwUWtHYWp4WUNnaXp1RHJEeTIxdWppMTBxN3c0cm1uNGNZS01FcEQ1UXhORQ?oc=5",
-        "source": "GZH",
-        "publishedAt": "2026-10-11T06:00:00.000Z",
-        "summary": "Oscar 2027: diretora de fotografia que cresceu em Passo Fundo participa do longa que disputa vaga como Melhor Filme Internacional GZH",
+        "title": "Cinema em Fortaleza: Filmes em cartaz de hoje, 11 de outubro(11/10)",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT3RheVZnejkxTERpMURuUklhLXVKUjl2NnZULUJLeXVZWU00RHhtdWwxTnVyNXhWRXdna3FpT2l3cE52V0NLZ1I2ZmQ3S2VIM1BGOU1PMVdRZFdOMlJQQlVDVlhyRVBxRFRFeXhIZm55a2dKWVdlVHJkY1BKNW01a3JUeEs5QlRmWF9fdVlnQzVlUktaWTY4cmt1eXJBdmFuRUdTRGtsQkdtS3k1VVlJT09pVWpVRWVCSlhwQWNzZw?oc=5",
+        "source": "O POVO",
+        "publishedAt": "2026-10-11T12:00:16.000Z",
+        "summary": "Cinema em Fortaleza: Filmes em cartaz de hoje, 11 de outubro(11/10) O POVO",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 4.78,
+        "score": 4.92,
         "relevance": 6
-      },
-      {
-        "title": "As 3 melhores séries desta semana na Netflix Portugal (11 outubro)",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVjlGbGZSUmdkMEp3U1RaajZJaGJfN2tqemI0bDU3MDZqTnpZWmtkVEY0MngyUEM3YXR3MDBacUxZSXRTOXozWW1oc001dVhwcGVxNDE2WnhiUkF6UjM5dWJsaF9qbk1iQVlqWmgzMnVWSzRaSWZtc3cxaHZQd2VjQ0RmWTNPdEFNVXRrZ3A1T1dMOE1sYk9sYzNVVjQ?oc=5",
-        "source": "Magazine.HD",
-        "publishedAt": "2026-10-11T08:15:06.000Z",
-        "summary": "As 3 melhores séries desta semana na Netflix Portugal (11 outubro) Magazine.HD",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 4.34,
-        "relevance": 5
       }
     ],
     "medicina": [
       {
-        "title": "Médicos reconhecem que é difícil falar sobre sexo com pacientes mais velhos",
-        "link": "https://g1.globo.com/bemestar/blog/longevidade-modo-de-usar/post/2026/10/11/medicos-reconhecem-que-e-dificil-falar-sobre-sexo-com-pacientes-mais-velhos.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-11T07:00:00.000Z",
-        "summary": "Brasileira fala sobre sexo na terceira idade: ‘Eu transo sim e gosto muito’ Mudanças fisiológicas são barreiras para a atividade sexual? Esse era o painel que eu mais aguardava no GeriatRio 2026, que já foi tema das duas últimas colunas. Pe",
-        "image": "https://s2-g1.glbimg.com/3I7hqcdqBomqp9B4BSOp8zL10tg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/M/9WeTUrSN6QqBB81acKWw/geriatrio2026sexo.webp",
-        "topics": [
-          "medicina"
-        ],
-        "score": 5.96,
-        "relevance": 7.2
-      },
-      {
-        "title": "Quais as mudanças no estilo de vida que podem melhorar o colesterol e a saúde do fígado em quem tem obesidade?",
-        "link": "https://g1.globo.com/saude/noticia/2026/10/11/quais-as-mudancas-no-estilo-de-vida-que-podem-melhorar-o-colesterol-e-a-saude-do-figado-em-quem-tem-obesidade.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-11T07:00:00.000Z",
-        "summary": "Quais as mudanças no estilo de vida que podem melhorar o colesterol e a saúde do fígado em quem tem obesidade? Adobe Stock Atividade física regular, alimentação baseada em alimentos menos processados, redução do consumo de açúcar, controle ",
-        "image": "https://s2-g1.glbimg.com/9PiF5P-6sKMGLKF4lZ4YQ5fgRmE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/b/B3FV8fT42CMu8DThTtYA/adobestock-1504915299.jpg",
-        "topics": [
-          "medicina"
-        ],
-        "score": 5.3,
-        "relevance": 6.4
-      },
-      {
-        "title": "Mulher perde 55 kg em 9 anos, vira fisiculturista e celebra mudança: 'Exigiu dedicação'",
-        "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/10/11/mulher-perde-55-kg-em-9-anos-vira-fisiculturista-e-celebra-mudanca-exigiu-dedicacao.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-11T11:00:00.000Z",
-        "summary": "Fisiculturista de Bauru (SP) chegou a pesar 112 kg antes de iniciar processo de emagrecimento Arquivo pessoal Neste domingo (11), é celebrado o Dia Nacional de Prevenção da Obesidade, uma data criada para conscientizar sobre os riscos desse",
-        "image": "https://s2-g1.glbimg.com/6DkdP6Ocf1E26C-0A4pdfhV_0hA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/A/heJJrIQwuYJvBe0xk9pg/novo-projeto-2026-10-09t143258.504.png",
-        "topics": [
-          "medicina"
-        ],
-        "score": 5.02,
-        "relevance": 5.2
-      },
-      {
-        "title": "Pastor morre após realizar cirurgia para corrigir má-formação no cérebro, em Goiás",
-        "link": "https://g1.globo.com/go/goias/noticia/2026/10/11/pastor-morre-apos-realizar-cirurgia-para-corrigir-ma-formacao-no-cerebro-em-goias.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-11T10:28:36.000Z",
-        "summary": "Pastor morre após realizar cirurgia para corrigir má-formação no cérebro, em Goiás O pastor Daniel Dantas, de 44 anos, morreu após realizar uma cirurgia para corrigir uma má-formação no cérebro. Natural de Acreúna, na região sudoeste de Goi",
-        "image": "https://s2-g1.glbimg.com/n7NbUI-IOi4XFLfxETSjLuPZYaw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/Y/hUnpo8QGGQ6BuNIlzyXw/padrao-foto-texto-g1-2026-10-11t072631.489.jpg",
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.54,
-        "relevance": 4.8
-      },
-      {
-        "title": "Papa Leão: decidi me submeter a uma cirurgia para retirar um nódulo no pulmão",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGtNZnhPa3MwYVduUVU3dVFGYUtHMl92dk0tOVVXSGMtckdKMTlvVGllZ1VoOExfdk1mWDZUQi1LTXRxdTJkRE40V19LLXdsWnFqampLT2dMc3JRNnFfTGZrbDFwcDAyRnpndWNlbldianBjSjU5aGhTNXBDVzlkcmw5TVBDU2Y3emVZQVJmaGFXb0d2QW1YR0JKTFRPbzFCVHIxZkVLb012VWFPU2NhMWRNbXM?oc=5",
-        "source": "Vatican News",
-        "publishedAt": "2026-10-11T10:40:22.000Z",
-        "summary": "Papa Leão: decidi me submeter a uma cirurgia para retirar um nódulo no pulmão Vatican News",
+        "title": "Hospital de Curitiba recebe inscrições para programa de residência médica",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWjVzbmtNTm5qaG5TV2s0ZU9XaWRwZDg2LXlSNnhhel9QVGUtZ2ViZDZTTlVkZ2NSRldjbTA4U0V1SDU1c0I3RkI0dFJZQmtfWGpNZllMYkdDZGV5N3NsREJFNnk4Mk9Wc181TDB6dUxPMTQzSmtWUzQyYXZVa000dEZWMjZGc1duQlhncmNfb1duR0dpRDcwWkkxVUFLOThVaU9OeXRvc25odWRPc28xSklxcnZQb09SSTQw0gHAAUFVX3lxTE5yUWtTSzFQYVkzM21VTGVWai1oYlFMam9DZ3FhN2FrUXlRY2VsaW1rbkU5M0cyMDlPcUdGbnNlQmNvLTFqdVgtSW9tWWFPM3E4V05FV3dfbFlTTE95ZEswME5ZaFZ4LVB3RHRaZmVzV1hNdXNIYUhjX2oyQWpEWllyeFZFdmxzNVlVQWJnUlRQZjcwdGJDZkF2SEhjREZHQ0pVMW1iZEk3aEFacHNUbWFTSWpMRlFvODVMNTJKSmFWTw?oc=5",
+        "source": "Bem Paraná",
+        "publishedAt": "2026-10-11T13:43:00.000Z",
+        "summary": "Hospital de Curitiba recebe inscrições para programa de residência médica Bem Paraná",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 3.81,
+        "score": 4.38,
+        "relevance": 5
+      },
+      {
+        "title": "Cientista que ganhou o prêmio Nobel de Medicina fala pela primeira vez | #DomingoEspetacular #shorts",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPS0otRkhjWEFraUZLTnVtRVZHTjBxeHdVaG1ONmVvMEs1c3dhUDc0QlVhLVdIU2o4d0xVSDl0MjhKUm01RGlYbkZNbE9CZkRzYjVsaW5WaU1WUWtwcjBFTjZXaGJzQlczVkN3MVhRREFZdzNFcEU1TDVTcmF4MUpHVmlMZmZrMHJiZHRPOGZFMEQ4S01tckdmWWZrQzRJa0p2UlF4NDk1aGxBeGJQdWJUWVdNeWZQckhuY3F4UURfMWpvMzFiTHZuMGdOZUk4T2FwUlc5ZUVlVC13ZFB0bW5BRXlB?oc=5",
+        "source": "R7",
+        "publishedAt": "2026-10-11T16:00:01.000Z",
+        "summary": "Cientista que ganhou o prêmio Nobel de Medicina fala pela primeira vez | #DomingoEspetacular #shorts R7",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.83,
+        "relevance": 4
+      },
+      {
+        "title": "Papa Leão XIV anuncia cirurgia após descoberta de nódulo no pulmão",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVHVUc0xqSEdWLUpuZGsxMmdpOUZnY21pTjBrZEhWV0ZrNmtDTENYUHRDNk5wTFJ3c2NRcVlZdXo5ajZuZHhWVVcyVDIyQnNtUEtYYml4UTNGSzR3X0tSQ0FPVC1OTGltcUhoZ0R1MVNnOFVQSGhfWDIxcHozZnZWRzI3UGtiSXowdlRwTWxXRkNNcjRUQzJxNl90Uk92UQ?oc=5",
+        "source": "deolhonacidade.net",
+        "publishedAt": "2026-10-11T12:58:11.000Z",
+        "summary": "Papa Leão XIV anuncia cirurgia após descoberta de nódulo no pulmão deolhonacidade.net",
+        "image": "https://s2-g1.glbimg.com/krMjtdt5EbVYN-KlCM5CCWVXMBg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/6/8/ZA5tuORaAfvDEuAKI4Qg/afp-20261011-d2wa2zn-v1-highres-vaticanreligionpopeangelus.jpg",
+        "topics": [
+          "medicina",
+          "geopolitica"
+        ],
+        "score": 3.41,
+        "relevance": 4
+      },
+      {
+        "title": "STJ restabelece medidas cautelares impostas pelo MEC a instituições com baixo desempenho nos cursos de medicina",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOUpINUFLcnZnV29hcVU2MTFvTjFQX1VvUzJkenhxZmdiaVJUaE82YThhcTg3Q2FHY05nNVJVcUVCaGJvYnlvaDZhWFhiTTJ1V2ZjdTEwMks5WGNldGpHc2hhYkhfMFExZHVwNjlwcFU0cUpINE1ONVBYYU52VU5qNktHaWR3RFZxY3RRYzcwTVBBd1BzaXk1NlEwQkJTWG9VeE1vTXJWamdic3h5ZDhKYTlKVU1WbVAtSWZ6bDdwM2dLUV8ySEc3ME9WSjBBUkg0M09Z?oc=5",
+        "source": "MOMENTO MT",
+        "publishedAt": "2026-10-11T12:22:14.000Z",
+        "summary": "STJ restabelece medidas cautelares impostas pelo MEC a instituições com baixo desempenho nos cursos de medicina MOMENTO MT",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.33,
         "relevance": 4
       },
       {
@@ -1155,7 +1146,20 @@
           "medicina",
           "negocios"
         ],
-        "score": 3.72,
+        "score": 3.04,
+        "relevance": 4
+      },
+      {
+        "title": "Da erva-mate à medicina, rua da fronteira brasiguaia alimenta o sonho do sucesso no Paraguai",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM3ZPNE12VG9CS1R5TW9zNDB2WUxlczVlN0RJN1IyVGhEMjJrQ1dYWldMS0h4SnNKVHBGZkU3RnVHZl9HdEpKc21xN1FCV2VVaVFubGR3MEJ6dW4wSjdpakQ3UVVyQkctcWlaSnZDTkVfdHh3SW9wYUNWOVZHNVpoYUhHMGVaOUQ4bDdxOHUxRlpIbjhDTUFDOV9OeFlwY0FTTVdQSFhEaUpQcU1nd3pFLTVnUWxBQQ?oc=5",
+        "source": "Midiamax",
+        "publishedAt": "2026-10-11T10:00:00.000Z",
+        "summary": "Da erva-mate à medicina, rua da fronteira brasiguaia alimenta o sonho do sucesso no Paraguai Midiamax",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.04,
         "relevance": 4
       }
     ]
