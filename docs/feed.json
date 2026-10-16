@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:48:24.618Z",
+  "generatedAt": "2026-10-16T02:33:40.368Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -30,17 +30,31 @@
   ],
   "highlights": [
     {
+      "title": "Ordem para limitar sistema de satélites usado pela Ucrânia na guerra partiu da Casa Branca, diz agência",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/15/ordem-para-limitar-sistema-de-satelites-usado-pela-ucrania-na-guerra-partiu-da-casa-branca-diz-agencia.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-15T23:21:11.000Z",
+      "summary": "Reunidos em Bruxelas, líderes europeus discutem como manter apoio dos EUA à Ucrânia A ordem para limitar um sistema de satélites usado pela Ucrânia para comunicações no campo de batalha e operações com drones partiu de dentro da Casa Branca",
+      "image": "https://s2-g1.glbimg.com/9lXi2SMYvBigiYI5KgHfldlWUQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/G/toVFKBTzAkGvGI0iBsAw/2025-08-18t175855z-1199898741-rc2t9ga1ofld-rtrmadp-3-ukraine-crisis-summit.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 10.78,
+      "relevance": 12.2
+    },
+    {
       "title": "Ibovespa cai mais de 1% com cenário eleitoral; dólar sobe a R$ 5,08",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSm1KOFZZY1FMcHlkYUJrY0JpRUd5NXhxekhpYmZFWWs3cXplV0hhOEtOTThwakFFMXRydkhuclhYV2VJOFlnbklFdnlSUjlHRDMxRjBXZHR3VmsxT2VUdnJSUEhxM3lyUUxRY3hLNGVlalNXajRaN1ZFUnBEcFlCOFRUS044UE9IdjREMzlOUlVXUTN5eW02NGtHNFNoV203czRjNg?oc=5",
       "source": "CNN Brasil",
-      "publishedAt": "2026-10-15T20:07:44.000Z",
+      "publishedAt": "2026-10-15T13:36:47.000Z",
       "summary": "Ibovespa cai mais de 1% com cenário eleitoral; dólar sobe a R$ 5,08 CNN Brasil",
       "image": "https://s2-g1.glbimg.com/jp13l7e40BNCnkPgMkejddtlrQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/T/n/cGMV0bQQOi6xrnJErPtg/pexels-karolina-grabowska-4386473.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 12.08,
+      "score": 7.53,
       "relevance": 12.4
     },
     {
@@ -54,102 +68,104 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 8.97,
+      "score": 7.19,
       "relevance": 11.6
     },
     {
-      "title": "Netflix aumenta preços em até 23% no Brasil; veja novos valores",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbWhJczFlY0NrQnJNZHJHa0dzNXpfQ2JzQ19IT19teUdfNGI3WTZJMnVmdTdfNDdHWWx4MGVCaHZ0bnJPcmdZSjF1VENzNjF4WUdlSmdzUEFfOGpSc2tTT2xmb3F4d3hockhYZklqY0hwM250SnFhSTFEM0FhYzBWUGRCaUtXM2pSSHc4WFl1c040NVZvWkluamNlLVN4VU1GZF9TRWhla2IyS3QwVXhr0gG0AUFVX3lxTFB6c2JiZXYyS1BrcTI0UHdBU0RCVEhPRDZQSVZxZU9CZDhrN3BtX1FZVjVlOXQyczdjOEtwNnVMSW5HTlhpblNpTmFZcW1sVGdxc1VHN0JVb3h6Z0tSanU3ZmxZMjBocVlLUTFtTDIxUTNMMDhUX19JWmo5MFdNemVTQzJUTDJLTkxNeWNtRHFyNzRHRzhvU1VldVBsQUpxZGotYjV4Ty1aU0s5YmdrMHV1UGVuYg?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-10-15T20:15:00.000Z",
-      "summary": "Netflix aumenta preços em até 23% no Brasil; veja novos valores Estadão",
-      "image": "https://s2-g1.glbimg.com/tMYjE8jNuLgRFMUlcPperHKn2j8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/f/2q3wG1SZGww70WDXfPWg/2026-10-14t133503z-405461333-rc27c6a0rdqj-rtrmadp-3-netflix-layoffs.jpg",
-      "topics": [
-        "cinema",
-        "negocios"
-      ],
-      "score": 7.24,
-      "relevance": 7.4
-    },
-    {
-      "title": "O risco escondido na economia dos EUA que começa a preocupar Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR2p1ZVNvWmdfZ2F3RXBaeEowTmdONVprblpwSVlWS0JXWV9MTTZXYmtVWGROSUgwZUl1eHlPVzI1ODdlcktuR181cE4yZ3FNeVgxdUdLVG9BaEk4VGFUajVicFRTbDU5NURFUEpHMHN0NWZpS1VyWnFXMjBUZE5FbDZfT1VnN2Jhc0xNc3RYWm9tdnBNYjdmaTV0ZkUtWnlCMUtLN3dXUW9ta3N3ZXEtT3F3d3hjYkZrS01vY0x1dHJaVW5tcUJYUDZnQlUzck84aWFpQi1R?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-10-15T20:45:51.000Z",
-      "summary": "O risco escondido na economia dos EUA que começa a preocupar Wall Street Estadão",
-      "image": null,
+      "title": "Brasil deve voltar ao top 8 das maiores economias do mundo em 2027, prevê FMI",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2pTSkFPMXFXT2NTYTNJNFcyaDFJUnlJSmtSSHNCdUVTU3ZqOUlMZmkxSmVBX0dxX0hwQnRUVG51RnZwS0F4b0U3YnpIcl9pc1BKa0NldEMxWTNzaHhSS2g1Q2NDSWJyb1BjejhnOUpYeV82d0FzVFphYXNuUG0yV0ZjU3NoaFYtYU1pWUZjSVFESnJSWWQ3cjZuQWJNNDluNG52R2xNblNYaVU2RE1OYV9KQWdxWEtHUjZnYU9WUHVSRDVpYl9xSEQyMNIB2gFBVV95cUxNUERNZXJPOHJjS2lQRUZtS2VvS2oxRDZyZHdvdkRpX0hGMTNhTktGNzhWV2VfRTJGcnpSUW5wT3BqTTJpTFZDdFMyaU1vaEdSSV92X0FyVVdqQklkMTRjV04tQXFEZnRacTBWeDFTOV9OdEhsYlgzYWVqS211d1N4WU9VVm9NbElZaTdjbVpFMld6SWZwbWF3b2t4YVhlVWw1WXU0blB0MWt4V1JqMlJWdTRZYjZON3dNVWtCWmUxUzdPQU4xN1hEYURvM1hzR0RyMFVoVzd2TEtzZw?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-10-15T20:41:29.000Z",
+      "summary": "Brasil deve voltar ao top 8 das maiores economias do mundo em 2027, prevê FMI G1",
+      "image": "https://s2-g1.glbimg.com/Jswk3-A7Pq1ITtrDccGy0kZW10I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/R/u/XB8VggTzurmCjfvTDMiQ/2021-10-12t130056z-2053598960-rc2d8q9hbc6g-rtrmadp-3-imf-worldbank-outlook.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 6.99,
-      "relevance": 7
+      "score": 6.86,
+      "relevance": 8.6
     },
     {
-      "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime e mais",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc2lWV01QT1lLdTUwREJWVFFtRWNyeG1FbVhMZUgyaDdaZ2VWdHJEZ210ckl2TU9haU1ucl9CRUhVY3I3NTc1STJMUTlhd3FwbmMwNm1ybE5aNEZoT19XbzdMdHI4YUxhdjNaUERyckZ0WE5wYTRDMDVwYUxiQlViYk0tb0ZfR2k0bWVyMTRGOVh2UnFUaEdpQzZGMU9SOHNOQXg4a29Eam5fMy02YkhmR241NjJ1ZlRyMWVHejB3Mzg4Q0xjNXR6bmZJc29wbjMzVkUzTHF6QVA?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-10-15T17:16:12.000Z",
-      "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime e mais Estadão",
+      "title": "50ª Mostra SP tem documentário sobre Fernanda Montengro e mais filmes sobre cinema; veja lista",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMG5RTWdmM3J6VHpWdF8yYnNiWjVMdW1HY3JtTXBsdV85dlc2VXdjUU1lVTJRWHVxc0tVUWIxUHNoUjhGYUV0ZkN4ZHpxdUdLVnpJc1A4THhVaGJaMDNJQ0drUTVrTW9Ba3NWdzBlcVk2Ym5pS2M4elFQRFZfR05HZzVQSWxNa2dwZzNpSlJQbV9tT01XY1pBMmNqZG15YkpfTkhZdUhzejNONGRkbEtGUGVZTTBDVkt0MFBKY2FaTVNTcmZmaHNTaHFYUVpIcDVtZEs4MFZXVkZhX3FW?oc=5",
+      "source": "Guia Folha",
+      "publishedAt": "2026-10-16T02:00:00.000Z",
+      "summary": "50ª Mostra SP tem documentário sobre Fernanda Montengro e mais filmes sobre cinema; veja lista Guia Folha",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 6.98,
-      "relevance": 8
+      "score": 6.85,
+      "relevance": 7
     },
     {
-      "title": "Ibovespa cai e dólar chega a R$ 5,06 com tombo das bolsas asiáticas e temor sobre juros nos EUA",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWkN0SnpjQ3lyWnMxTk9YekxST1dSMm9ESi1MY3NzRktpNkd1cFZQRWNkMTY0ZFNCMHNXSjNOWF9rR2R0dVA5ZEc2WFBuVk0wVVA5RE1IbDgyeWVXYUhkbzdDck5OTEhUbGpoNkxEOVZ1RG9FemJ5S19wNy1oenNMUkJZTlFweWlTeWtwTkNDWXl0RDhOS1RlQ1NXd0tkTjlHZXQ1VkpsOHRFRVREa1NiVmpUTTYyTkdTQUlXS1Q5NzVuUFRJZnZReElHWkx2VWVmYzZGYzZUbzRLak1tZ2t4eWpyS1FVd1E0VjZLUkN0VzQ5bHdWMnBRX3JIdHN4RUk?oc=5",
-      "source": "Portal do Agronegócio",
-      "publishedAt": "2026-10-15T14:05:00.000Z",
-      "summary": "Ibovespa cai e dólar chega a R$ 5,06 com tombo das bolsas asiáticas e temor sobre juros nos EUA Portal do Agronegócio",
+      "title": "Forty Love: Romeo Beckham estreia como ator em filme francês com romance gay e rivalidade no tênis; assista ao trailer",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FcFpTT0xsdl84MlJxdUJVWURRRnJ6ZU1yQjBncERCOEM1SXo4SWUwYng1bWphUDBRbVZhVFA0eVBXMWQ3R0xSWUNpc01IaWtmWC1hdE5nczlWQlBaYWl0UWpZSE5Bck1DdHdSbnk4WdIBdEFVX3lxTE9hM3BNM2lFVXV5WjEyMVk0b1ZKWW1BZUoyUFdEcVoxN0tTQzhWY2VmZXBGb0xLN3VmVC1JRy1Ob3R3aVU4Q2YtalpOeTJEc2V0U19tX1R4d2lQN0UydnVZQjlXYXhKdGx3R09MUERvODc0UE55?oc=5",
+      "source": "Hugo Gloss",
+      "publishedAt": "2026-10-16T00:18:37.000Z",
+      "summary": "Forty Love: Romeo Beckham estreia como ator em filme francês com romance gay e rivalidade no tênis; assista ao trailer Hugo Gloss",
       "image": null,
       "topics": [
-        "negocios"
+        "cinema"
       ],
-      "score": 6.79,
-      "relevance": 8.8
+      "score": 6.42,
+      "relevance": 7
     },
     {
-      "title": "EUA planejam usar 'mãe de todas as bombas' contra o Irã, diz TV",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/15/eua-planejam-usar-mae-de-todas-as-bombas-contra-o-ira-diz-tv.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-15T17:27:05.000Z",
-      "summary": "A \"mãe de todas as bombas\" é um explosivo convencional de 9,8 toneladas guiado por GPS e tem potência equivalente a cerca de 11 toneladas de TNT. Forças Armadas dos Estados Unidos / AFP As Forças Armadas dos Estados Unidos elaboraram planos",
-      "image": "https://s2-g1.glbimg.com/0QxKZr6OKVMK-GbDiE5LY5Kxtn4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/m/E3m3lXT5imqQTELB00Bw/fotojet-2026-10-15t143150.996.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 6.68,
-      "relevance": 7.6
-    },
-    {
-      "title": "Deepfakes estão cada vez mais difíceis de detectar, alertam especialistas da OpenAI e Meta",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/15/deepfakes-estao-cada-vez-mais-dificeis-de-detectar-alertam-especialistas-da-openai-e-meta.ghtml",
+      "title": "Tesla apresenta Roadster que 'voa' e dirige de ponta-cabeça com tecnologia da SpaceX",
+      "link": "https://g1.globo.com/carros/noticia/2026/10/15/novo-tesla-roadster-elon-musk.ghtml",
       "source": "G1",
-      "publishedAt": "2026-10-15T19:09:31.000Z",
-      "summary": "TSE mantém proibição de deepfake na campanha, mas exige realismo para ser ilícito Especialistas em tecnologia da OpenAI e da Meta alertaram nesta quinta-feira (15) que os vídeos e áudios falsificados por inteligência artificial (IA), conhec",
-      "image": "https://s2-g1.glbimg.com/Kp3hhCZsZZXWsbJAKtx83PDAE6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/p/d/OAwqf3RlSVYJv6BZu8mA/front-view-bad-habit-concept-with-copy-space.jpg",
+      "publishedAt": "2026-10-16T01:07:20.000Z",
+      "summary": "Tesla Roadster \"voa\" divulgação/Tesla A Tesla anunciou, nesta quinta-feira (15), uma nova geração do supercarro Roadster. O modelo é o mais potente já criado pela empresa de Elon Musk, além de ser o único da marca que pode \"voar\". Ao todo, ",
+      "image": "https://s2-g1.glbimg.com/pz14-Pq3irEnyBfxOFBKHorfd9c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/O/VzIiFeStuycC99pHoIPw/gravando2026-10-15221442-ezgif.com-optimize.gif",
       "topics": [
         "negocios"
       ],
-      "score": 6.38,
+      "score": 6.24,
+      "relevance": 6.6
+    },
+    {
+      "title": "Lula defende redução da maioridade penal para crimes hediondos, pede investigação de ministros do STF e diz ser responsável por dificuldades do governo",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/entrevista-de-lula-na-globo.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-16T00:18:21.000Z",
+      "summary": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT; veja íntegra O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, afirmou nesta quinta-feira (15) em entrevista à TV Globo ser favorável à redução da maioridade ",
+      "image": "https://s2-g1.glbimg.com/YWW0J5ke-1FKadoeIAy0ZpBwHx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/y/Gm4VveTTODawKHx6CJYQ/whatsapp-image-2026-10-15-at-21.18.18.jpeg",
+      "topics": [
+        "negocios",
+        "geopolitica",
+        "medicina"
+      ],
+      "score": 6.23,
       "relevance": 6.8
     }
   ],
   "items": [
     {
+      "title": "Ordem para limitar sistema de satélites usado pela Ucrânia na guerra partiu da Casa Branca, diz agência",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/15/ordem-para-limitar-sistema-de-satelites-usado-pela-ucrania-na-guerra-partiu-da-casa-branca-diz-agencia.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-15T23:21:11.000Z",
+      "summary": "Reunidos em Bruxelas, líderes europeus discutem como manter apoio dos EUA à Ucrânia A ordem para limitar um sistema de satélites usado pela Ucrânia para comunicações no campo de batalha e operações com drones partiu de dentro da Casa Branca",
+      "image": "https://s2-g1.glbimg.com/9lXi2SMYvBigiYI5KgHfldlWUQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/G/toVFKBTzAkGvGI0iBsAw/2025-08-18t175855z-1199898741-rc2t9ga1ofld-rtrmadp-3-ukraine-crisis-summit.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 10.78,
+      "relevance": 12.2
+    },
+    {
       "title": "Ibovespa cai mais de 1% com cenário eleitoral; dólar sobe a R$ 5,08",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSm1KOFZZY1FMcHlkYUJrY0JpRUd5NXhxekhpYmZFWWs3cXplV0hhOEtOTThwakFFMXRydkhuclhYV2VJOFlnbklFdnlSUjlHRDMxRjBXZHR3VmsxT2VUdnJSUEhxM3lyUUxRY3hLNGVlalNXajRaN1ZFUnBEcFlCOFRUS044UE9IdjREMzlOUlVXUTN5eW02NGtHNFNoV203czRjNg?oc=5",
       "source": "CNN Brasil",
-      "publishedAt": "2026-10-15T20:07:44.000Z",
+      "publishedAt": "2026-10-15T13:36:47.000Z",
       "summary": "Ibovespa cai mais de 1% com cenário eleitoral; dólar sobe a R$ 5,08 CNN Brasil",
       "image": "https://s2-g1.glbimg.com/jp13l7e40BNCnkPgMkejddtlrQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/T/n/cGMV0bQQOi6xrnJErPtg/pexels-karolina-grabowska-4386473.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 12.08,
+      "score": 7.53,
       "relevance": 12.4
     },
     {
@@ -163,8 +179,114 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 8.97,
+      "score": 7.19,
       "relevance": 11.6
+    },
+    {
+      "title": "Brasil deve voltar ao top 8 das maiores economias do mundo em 2027, prevê FMI",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2pTSkFPMXFXT2NTYTNJNFcyaDFJUnlJSmtSSHNCdUVTU3ZqOUlMZmkxSmVBX0dxX0hwQnRUVG51RnZwS0F4b0U3YnpIcl9pc1BKa0NldEMxWTNzaHhSS2g1Q2NDSWJyb1BjejhnOUpYeV82d0FzVFphYXNuUG0yV0ZjU3NoaFYtYU1pWUZjSVFESnJSWWQ3cjZuQWJNNDluNG52R2xNblNYaVU2RE1OYV9KQWdxWEtHUjZnYU9WUHVSRDVpYl9xSEQyMNIB2gFBVV95cUxNUERNZXJPOHJjS2lQRUZtS2VvS2oxRDZyZHdvdkRpX0hGMTNhTktGNzhWV2VfRTJGcnpSUW5wT3BqTTJpTFZDdFMyaU1vaEdSSV92X0FyVVdqQklkMTRjV04tQXFEZnRacTBWeDFTOV9OdEhsYlgzYWVqS211d1N4WU9VVm9NbElZaTdjbVpFMld6SWZwbWF3b2t4YVhlVWw1WXU0blB0MWt4V1JqMlJWdTRZYjZON3dNVWtCWmUxUzdPQU4xN1hEYURvM1hzR0RyMFVoVzd2TEtzZw?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-10-15T20:41:29.000Z",
+      "summary": "Brasil deve voltar ao top 8 das maiores economias do mundo em 2027, prevê FMI G1",
+      "image": "https://s2-g1.glbimg.com/Jswk3-A7Pq1ITtrDccGy0kZW10I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/R/u/XB8VggTzurmCjfvTDMiQ/2021-10-12t130056z-2053598960-rc2d8q9hbc6g-rtrmadp-3-imf-worldbank-outlook.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.86,
+      "relevance": 8.6
+    },
+    {
+      "title": "50ª Mostra SP tem documentário sobre Fernanda Montengro e mais filmes sobre cinema; veja lista",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMG5RTWdmM3J6VHpWdF8yYnNiWjVMdW1HY3JtTXBsdV85dlc2VXdjUU1lVTJRWHVxc0tVUWIxUHNoUjhGYUV0ZkN4ZHpxdUdLVnpJc1A4THhVaGJaMDNJQ0drUTVrTW9Ba3NWdzBlcVk2Ym5pS2M4elFQRFZfR05HZzVQSWxNa2dwZzNpSlJQbV9tT01XY1pBMmNqZG15YkpfTkhZdUhzejNONGRkbEtGUGVZTTBDVkt0MFBKY2FaTVNTcmZmaHNTaHFYUVpIcDVtZEs4MFZXVkZhX3FW?oc=5",
+      "source": "Guia Folha",
+      "publishedAt": "2026-10-16T02:00:00.000Z",
+      "summary": "50ª Mostra SP tem documentário sobre Fernanda Montengro e mais filmes sobre cinema; veja lista Guia Folha",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.85,
+      "relevance": 7
+    },
+    {
+      "title": "Forty Love: Romeo Beckham estreia como ator em filme francês com romance gay e rivalidade no tênis; assista ao trailer",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FcFpTT0xsdl84MlJxdUJVWURRRnJ6ZU1yQjBncERCOEM1SXo4SWUwYng1bWphUDBRbVZhVFA0eVBXMWQ3R0xSWUNpc01IaWtmWC1hdE5nczlWQlBaYWl0UWpZSE5Bck1DdHdSbnk4WdIBdEFVX3lxTE9hM3BNM2lFVXV5WjEyMVk0b1ZKWW1BZUoyUFdEcVoxN0tTQzhWY2VmZXBGb0xLN3VmVC1JRy1Ob3R3aVU4Q2YtalpOeTJEc2V0U19tX1R4d2lQN0UydnVZQjlXYXhKdGx3R09MUERvODc0UE55?oc=5",
+      "source": "Hugo Gloss",
+      "publishedAt": "2026-10-16T00:18:37.000Z",
+      "summary": "Forty Love: Romeo Beckham estreia como ator em filme francês com romance gay e rivalidade no tênis; assista ao trailer Hugo Gloss",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.42,
+      "relevance": 7
+    },
+    {
+      "title": "Tesla apresenta Roadster que 'voa' e dirige de ponta-cabeça com tecnologia da SpaceX",
+      "link": "https://g1.globo.com/carros/noticia/2026/10/15/novo-tesla-roadster-elon-musk.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-16T01:07:20.000Z",
+      "summary": "Tesla Roadster \"voa\" divulgação/Tesla A Tesla anunciou, nesta quinta-feira (15), uma nova geração do supercarro Roadster. O modelo é o mais potente já criado pela empresa de Elon Musk, além de ser o único da marca que pode \"voar\". Ao todo, ",
+      "image": "https://s2-g1.glbimg.com/pz14-Pq3irEnyBfxOFBKHorfd9c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/O/VzIiFeStuycC99pHoIPw/gravando2026-10-15221442-ezgif.com-optimize.gif",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.24,
+      "relevance": 6.6
+    },
+    {
+      "title": "Lula defende redução da maioridade penal para crimes hediondos, pede investigação de ministros do STF e diz ser responsável por dificuldades do governo",
+      "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/entrevista-de-lula-na-globo.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-16T00:18:21.000Z",
+      "summary": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT; veja íntegra O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, afirmou nesta quinta-feira (15) em entrevista à TV Globo ser favorável à redução da maioridade ",
+      "image": "https://s2-g1.glbimg.com/YWW0J5ke-1FKadoeIAy0ZpBwHx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/y/Gm4VveTTODawKHx6CJYQ/whatsapp-image-2026-10-15-at-21.18.18.jpeg",
+      "topics": [
+        "negocios",
+        "geopolitica",
+        "medicina"
+      ],
+      "score": 6.23,
+      "relevance": 6.8
+    },
+    {
+      "title": "Filmes queer da Mostra de Cinema de SP vão da Ucrânia ao mangue recifense",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVBpM05SU0NZZWxOTzJxMVo0dG1Kd3RSVl8tZWN3NUQ1TkdKZXNSeU9NRV9lOC00OGV2ZXQ3ZE05bk95cFZHd2JQSjA3OUs3bDVNN3FOZXhkMzRqelZFRzlPYzU3VlB2T2t2SWFLTFQ2cmI5RnM3WWJhVEYzRnNhMmVlTDE0Sno4RTNqb0lOMzZoUkdNT01tTGdHRGhGSTYza2NyOUtkRGkydW8zaU1CZGNmWXAxUDRBRWRfWUdzX3BLZw?oc=5",
+      "source": "Guia Folha",
+      "publishedAt": "2026-10-16T02:00:00.000Z",
+      "summary": "Filmes queer da Mostra de Cinema de SP vão da Ucrânia ao mangue recifense Guia Folha",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.87,
+      "relevance": 6
+    },
+    {
+      "title": "Veja onde assistir aos filmes da 50ª Mostra de Cinema Internacional de SP",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmIzMkdCclZVaHdOSDVSSC10aHY2WmUzTTRabXl1SjBaN1pmdm50aWpHenhOZU81aEhhcUQ0dW9XTFRfRm9PVFJvUUxvVWhVUjRWNk8xaU1XV1NjU2pBSzg0aFVFU1pGNmp6amZrVGdlV1hrMVNUaUNIU0dNTXdldGNOOTBHQzVfXzZkSVVoZHMxYkpUejhQTTZNYmwtNHVLSGhrQkwybm9ZS1BGRjV1OEpTWHFzRVM1ZFNMbTlWZlhTdw?oc=5",
+      "source": "Guia Folha",
+      "publishedAt": "2026-10-16T02:00:00.000Z",
+      "summary": "Veja onde assistir aos filmes da 50ª Mostra de Cinema Internacional de SP Guia Folha",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.87,
+      "relevance": 6
+    },
+    {
+      "title": "Lembra de Brilhante Vitória? Série ganha spin-off com personagem conhecida e estreia na Netflix",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTZBYjRfd0hqb3Y0MzZGakJnTlRuN05aNWR5VzFWTl9DQjRENmY1c1lJcEQ0VnVsYm5EQnM1blAyZUpWekNwY3Q4djlmc0hsa0NTalRMTXlhSDZuRVYxSGNjMEgzTGp3ZVJCTjFSTFJZcEtfR2FXZ0t4YTZkRlVKMUFrSmtDSkdEdV9ZRHV3Y1BpUGtEQTlVdmFoRU1Yb0ZFTC1GNDRpc2M0TXg1b2ZZU0p4ZXROSlFRQjJ0SUZxdWRMV2NXcFlVTHIwUm9xb1NjdmxiVA?oc=5",
+      "source": "Gazeta de São Paulo",
+      "publishedAt": "2026-10-16T02:00:00.000Z",
+      "summary": "Lembra de Brilhante Vitória? Série ganha spin-off com personagem conhecida e estreia na Netflix Gazeta de São Paulo",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.87,
+      "relevance": 6
     },
     {
       "title": "Netflix aumenta preços em até 23% no Brasil; veja novos valores",
@@ -177,21 +299,48 @@
         "cinema",
         "negocios"
       ],
-      "score": 7.24,
+      "score": 5.8,
       "relevance": 7.4
     },
     {
-      "title": "O risco escondido na economia dos EUA que começa a preocupar Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR2p1ZVNvWmdfZ2F3RXBaeEowTmdONVprblpwSVlWS0JXWV9MTTZXYmtVWGROSUgwZUl1eHlPVzI1ODdlcktuR181cE4yZ3FNeVgxdUdLVG9BaEk4VGFUajVicFRTbDU5NURFUEpHMHN0NWZpS1VyWnFXMjBUZE5FbDZfT1VnN2Jhc0xNc3RYWm9tdnBNYjdmaTV0ZkUtWnlCMUtLN3dXUW9ta3N3ZXEtT3F3d3hjYkZrS01vY0x1dHJaVW5tcUJYUDZnQlUzck84aWFpQi1R?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-10-15T20:45:51.000Z",
-      "summary": "O risco escondido na economia dos EUA que começa a preocupar Wall Street Estadão",
+      "title": "Dólar sobe 1,15% e fecha a R$ 5,09 em dia de cautela",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXZrZU5YMTdJT0Jnemk5akxNcnY0MmRJclhsOU9fcXJzemRDQldCNHdmWmNWNGZZclhWQ3dUM093MVFJdnlJazBGTHBQaUUtckNJempwOFZLR21WTEJZc0JjZzRUN3Z0RlRUazU2WEd4WmxBdlVBMjhXakdPS2taZGpFNkQ1YTltWk00cmx0RlFWc2d2SW5TaV96OGpabE9RY2xYYmZVaw?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-10-15T23:49:00.000Z",
+      "summary": "Dólar sobe 1,15% e fecha a R$ 5,09 em dia de cautela Agência Brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 5.76,
+      "relevance": 6.4
+    },
+    {
+      "title": "Eletrofunk ganha documentário sobre suas origens em Goiânia e estreia nos cinemas em novembro",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWZ4RjJzb2FCejlOejRsaDVyUGt6MkIwZGFseUdidVdRbzlRS2t5cGl1alFoZm1YcnZVMEg1RlJENlhEWXVfbGxkRjc5ZHg1QjJFU0VwZUJxWUxjSkpyRUVjYW9fbE45aUs0R2NtZWZOTHBqSTFKV0phV0NWMk1tWWtwMms?oc=5",
+      "source": "O Universo da TV",
+      "publishedAt": "2026-10-16T01:24:00.000Z",
+      "summary": "Eletrofunk ganha documentário sobre suas origens em Goiânia e estreia nos cinemas em novembro O Universo da TV",
       "image": null,
       "topics": [
-        "negocios"
+        "cinema"
       ],
-      "score": 6.99,
-      "relevance": 7
+      "score": 5.74,
+      "relevance": 6
+    },
+    {
+      "title": "Filme sobre Bolsonaro tem estreia adiada nos cinemas para 2027",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVnBfd1B2T3N4LUkwY3ZIRXlGZ3RuVnA3bGF3ZkMxRmVJZG81NHE1ZldZbm4yY0V4dlppcTZ0YUZ5TFEwT2tkWFpjVXdVN0pBdmc5RnVzX3ZMLWk0RG1qM05DTlVKdEVlUVZiVUd2VGhLek5rdkxmblAtaEdWb2oxc3dXMlRQa1pVZ2g1WkRGYVR6QQ?oc=5",
+      "source": "Clube FM Brasil",
+      "publishedAt": "2026-10-16T01:00:46.000Z",
+      "summary": "Filme sobre Bolsonaro tem estreia adiada nos cinemas para 2027 Clube FM Brasil",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.65,
+      "relevance": 6
     },
     {
       "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime e mais",
@@ -203,8 +352,47 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.98,
+      "score": 5.59,
       "relevance": 8
+    },
+    {
+      "title": "O risco escondido na economia dos EUA que começa a preocupar Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNDgxelY3RTZkTnJ2dWVrYjhzZFJOWm5Uc2hwYjFKYl9PUllZLWpmZ01UeXRfMVBYd3F5NlZMNmN2OTc3Z0hlaHhWakpHbFNOZ0FEQ0dEc0VURXlaQXRkUkVhNU56NTU4RkVDRVhHelRNZXZqTEM0MGhJa0ZjWTR4bzdsbVQ5d2dUU2M4elZ3MkNrTDRwZXRacF93VGxnN2NBa2FXeDdaMGNzaUpUcjZHRmswSUs1S01VWUdTMWd5ekJvTHpuRFdRYWlvWdIB0AFBVV95cUxNLXQ1QjF5TUpES0V5NldldG5UblNiUDdrelRtM1d0U2g0R2dSUFQxUW1FQW5ILWlqeTRsREF0WGdQNHY4d2RDR0U3WUVkcHFBa1ZFMjd2TUJWdUJhV0UwbUkwUFZkdmJQYWR3MFMxT0x1aTBCRThydmx6dXlhYmZRNU93ZFRvN3JmcllkUWV4TzNEYW10VG9hV0hEbWhyd1gtTElpWFZKd1ptUGtNWjZwZ1hDTjBQaS1NOGJVVks1VXZxQ3pKamJqcDVQUEJJeXJ6?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-10-15T20:38:00.000Z",
+      "summary": "O risco escondido na economia dos EUA que começa a preocupar Wall Street Estadão",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.57,
+      "relevance": 7
+    },
+    {
+      "title": "Cinema: 5 filmes que estreiam nesta quinta-feira, 15 de outubro",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQWV5TWdDaVlEWkV1YnBtVVNmU3o1d3Y0b1JxajBFbTk5bGIyaUdzemNnd1RhajZkUHRiRGc3UkRiTzUtSnlISlJ2cmMwQWFEa3pfa2RlV1JGZzhiM2p4cU5ma2UxU3REcWpMdXRfbkpsTENLTVNyODI3SDkzX28tSmp3X1NVLXF6QmlwNU9wM0tPMVdSU293Qm84UUwyQU04TlZYRmZyMzRzcHNMU0xNUDlMUllSaThxUjkzNWx3Z0lSeWxIdjdITFNNckJmbVZEcmtoUXhjV3VsVjh4VmxN?oc=5",
+      "source": "GZH",
+      "publishedAt": "2026-10-15T20:37:30.000Z",
+      "summary": "Cinema: 5 filmes que estreiam nesta quinta-feira, 15 de outubro GZH",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.57,
+      "relevance": 7
+    },
+    {
+      "title": "Com Pamela Anderson, Elle Fanning e Callum Turner no elenco, novo filme de Karim Aïnouz estreia hoje nos cinemas",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaHdQRVdTcjkwUDRnczdnX3VuU1RZdXd0X1VaYWkxYzVVVlJwRnpnZjVqMk5FdUxEa1NtNnlrM25KTG1UcWJ3b2hnc09zbkxua3dsN2RJU2dMQU9hLUF3dldnektBNl9WX0NEdHZjMjJCZ25kdGtaeVlMMlB6dTFCUk5Gc0hoV1dnb2VpWGk1aHpMT0wxZk5Kb1puYTQxdzJyd3NsSjhQY3JNSkJTdUZWMm1wRjVHTHQtX2JUblIzX2dpT252RlNEVUdWbW12NlRSQzdid25VNXRld0ppWmNId0ZKZFFsSUtq?oc=5",
+      "source": "NSC Total",
+      "publishedAt": "2026-10-16T00:31:35.000Z",
+      "summary": "Com Pamela Anderson, Elle Fanning e Callum Turner no elenco, novo filme de Karim Aïnouz estreia hoje nos cinemas NSC Total",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.55,
+      "relevance": 6
     },
     {
       "title": "Ibovespa cai e dólar chega a R$ 5,06 com tombo das bolsas asiáticas e temor sobre juros nos EUA",
@@ -216,8 +404,21 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.79,
+      "score": 5.44,
       "relevance": 8.8
+    },
+    {
+      "title": "Letícia Spiller estreia como dubladora em Enfeitiçadas: Bem-vindos a Hexe, novo filme da Walt Disney Animation Studios",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRWVwWGtlelpaTUxMMHhsUms0QWtiYmJyVXB6bmJuRVdBM2gwajhWanhkQ3VFWjNjalZxRjFVTF9nYjZlUmo1RlU1Mm1sMWtqQXBOZGRiTlpMU3Z1NERfWFZ3bEVsQ2lGUGt2THVXd1lRVUZCWVM3Zm40LXVaZkszYzdUNVMxa29UbEVROWMyMGJ0dw?oc=5",
+      "source": "Portal TV e Streaming",
+      "publishedAt": "2026-10-16T02:25:00.000Z",
+      "summary": "Letícia Spiller estreia como dubladora em Enfeitiçadas: Bem-vindos a Hexe, novo filme da Walt Disney Animation Studios Portal TV e Streaming",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.37,
+      "relevance": 5.4
     },
     {
       "title": "EUA planejam usar 'mãe de todas as bombas' contra o Irã, diz TV",
@@ -229,25 +430,103 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 6.68,
+      "score": 5.35,
       "relevance": 7.6
+    },
+    {
+      "title": "Senado aprova projeto que amplia limite do MEI e perdoa dívidas de inadimplentes",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/15/senado-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-10-15T21:51:06.000Z",
+      "summary": "Senado aprova projeto que amplia limite do MEI e perdoa dívidas de inadimplentes O Senado Federal aprovou nesta quinta-feira (15) projeto de lei que amplia o limite de faturamento para enquadramento de Microempreendedor Individual (MEI) e t",
+      "image": "https://s2-g1.glbimg.com/YQIG_xmanlNrGpZEfSyLi-qgSEY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/P/6bjURKSDOaIs3OpYTRMA/globo-canal-4-20260521-2000-frame-89307.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.34,
+      "relevance": 6.4
+    },
+    {
+      "title": "“Ser professora é uma história de cinema”, diz educadora que organiza mostra de filmes infantis",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnBLdFhqdjlXN2FIRGVIeFlLcDIyNThsYUpvNFRTS1FfNDc1T2phNXJNaERBTnFXZjZiLWxjMlRMR3huTlNhTFNVRmpYRmVCcjV1ZTN3UzVDTXVESnNZUjlSRVVDeVJVakxjUXBjc285R28yZklBMEt0WGNwVml5UjVDUjA2OXRYdzY1MkZ2dlhkQkQ4aFl4OTJmUEhJVEJWRzBUVDgzWERBajNCaHFZM0xacTBSVXBXcUgxZQ?oc=5",
+      "source": "Informe Floripa",
+      "publishedAt": "2026-10-15T23:27:19.000Z",
+      "summary": "“Ser professora é uma história de cinema”, diz educadora que organiza mostra de filmes infantis Informe Floripa",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.32,
+      "relevance": 6
+    },
+    {
+      "title": "Dólar fecha em alta de 1,17%, a R$ 5,087; Bolsa cai com eleição no radar",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZWF3d2JROGRsLWZUMjJsUmttbkdPbmhTdzU3U3FORnh2dGhjQWoxVUxCZl9za1Job01NOE9MMkdEQzI4blpWejhOSUFVZzdfM3pXY3YwY0hCVnl6cVR2eHBQSFUtaGdvMWpWT0gyVmJraW9USEpETF9McW5DVi1pSHp0SUF4ZmI0UVljbV9tX3hUNHZ0VVF1MzdYU09PSVM2VUNLRjhfcDB0WjhsSTBscDdjbk9KaGlsN1RsZjgweTdGOEZLdEZEUVJTZ25odG9Y?oc=5",
+      "source": "UOL Economia",
+      "publishedAt": "2026-10-16T00:02:49.000Z",
+      "summary": "Dólar fecha em alta de 1,17%, a R$ 5,087; Bolsa cai com eleição no radar UOL Economia",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.26,
+      "relevance": 5.8
+    },
+    {
+      "title": "Fenacon participa de debates sobre tecnologia e futuro dos negócios no Tech Day 2026",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDBTMlpaVGQwaHpKTlprVXRsNEhrQlJIX2JJZ29mQ1BmTFhyUDEyemZISnlkSzdscFlTajBMV2VSQVdkcUpFZ3pEMWJ3Vlo1LWg1eWFjVTJHSlF6Z3lORkZTbG84TGd6WVNnd3NZLThBQ1VId1FoSGE1ZVJ5cEpsdjJWNG5ONzRHcGlVbGdaQ3ZsZUt2dW9GTEZWdkllVUk?oc=5",
+      "source": "Sistema FENACON",
+      "publishedAt": "2026-10-15T21:20:00.000Z",
+      "summary": "Fenacon participa de debates sobre tecnologia e futuro dos negócios no Tech Day 2026 Sistema FENACON",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.23,
+      "relevance": 6.4
+    },
+    {
+      "title": "Cine Cid retoma a tradição do cinema em Mossoró com sessões gratuitas de filmes brasileiros",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMnFLUzdFTGRvWEZKWGxoVWJ0ZHpqdTJlbzNOZmItWHh0aWlJeGdkVGhjaWVEMUI4MzBlV3VpVmZqcFBmUzZ2a19GeExpZncxQXFsc0E2YWhXVEduTmUyaC0yTUk2SWNDOGhLeVY2aUc0TWNLQ253cmZWcVBMWmJ0MjFZMkd3emg3YmdyN2VYcVhTT1RJbUVrOWwxNlVPd2dYUWdVNm00cDAzQXRVRHRNRWdaWmxPQQ?oc=5",
+      "source": "Mídia NINJA",
+      "publishedAt": "2026-10-15T22:33:13.000Z",
+      "summary": "Cine Cid retoma a tradição do cinema em Mossoró com sessões gratuitas de filmes brasileiros Mídia NINJA",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.14,
+      "relevance": 6
     },
     {
       "title": "Deepfakes estão cada vez mais difíceis de detectar, alertam especialistas da OpenAI e Meta",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/10/15/deepfakes-estao-cada-vez-mais-dificeis-de-detectar-alertam-especialistas-da-openai-e-meta.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-10-15T19:09:31.000Z",
       "summary": "TSE mantém proibição de deepfake na campanha, mas exige realismo para ser ilícito Especialistas em tecnologia da OpenAI e da Meta alertaram nesta quinta-feira (15) que os vídeos e áudios falsificados por inteligência artificial (IA), conhec",
       "image": "https://s2-g1.glbimg.com/Kp3hhCZsZZXWsbJAKtx83PDAE6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/p/d/OAwqf3RlSVYJv6BZu8mA/front-view-bad-habit-concept-with-copy-space.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 6.38,
+      "score": 5.11,
       "relevance": 6.8
     },
     {
+      "title": "De base militar a Hollywood: o diretor por trás da transformação de um terreno histórico em estúdios de cinema",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNWdPQjl2amQ3cEpSVWU0NU42bXJtengxbWRaRkc1ektoWkZrQkVHR2ZRTTNaQ2xIVEYyWGlzODFkUXBHX2I3OW1HN1EwanlSeGg1QXg0aVhvR0xoenBneUhiR01hTEpfRUxGMWs3RVYyVnE5V280NlExMEduLWpSaXkxbm0zNWlRNnR6NmIyaHhrRGdnUEd4eGdCS3B1MWx3RUFsMURZVG1aUEZka1RiNnlpVzRsTEhGRzExNVNMaHZqZFdlRk1ZaDMtYlJqZEZSVGZ4TzVxX0FCVHEzRmR1YllDVkRMakE?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-10-15T22:19:13.000Z",
+      "summary": "De base militar a Hollywood: o diretor por trás da transformação de um terreno histórico em estúdios de cinema CNN Brasil",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.1,
+      "relevance": 6
+    },
+    {
       "title": "Operação ClickFix: Como golpistas desviavam dinheiro de fintechs e o convertiam em cripto",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONlVlM1VTd2F2eG80OWFueU1DNjAzMmJfLTNYZmFVZjAyMXNZUTkwZkNwSXFuNDd0OHg1QWZHQ2lSbUowemtvUGtQRWFsMVUyOW51Y3FmdGJBMTJTeWFLcVJvZ1UwbzE3cXRqbG1Sb0gyXzNPQ0trMUpNd2hYUzdVN0FyUGlrdnVwSjV1ejdBYlA1OFdvQkV5Y1NYY1JCR0RqQ3VRVERPV3ZjODROcGxBem1nSUZZVUliSE5VeUlxRjQ3VUpsMkN3M3BRUC1rcEktTnp1cW1XT3pIa1V6VE1Gc25xN1BpQ0dKRGJrWWp3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONlVlM1VTd2F2eG80OWFueU1DNjAzMmJfLTNYZmFVZjAyMXNZUTkwZkNwSXFuNDd0OHg1QWZHQ2lSbUowemtvUGtQRWFsMVUyOW51Y3FmdGJBMTJTeWFLcVJvZ1UwbzE3cXRqbG1Sb0gyXzNPQ0trMUpNd2hYUzdVN0FyUGlrdnVwSjV1ejdBYlA1OFdvQkV5Y1NYY1JCR0RqQ3VRVERPV3ZjODROcGxBem1nSUZZVUliSE5VeUlxRjQ3VUpsMkN3M3BRUC1rcEktTnp1cW1XT3pIa1V6VE1Gc25xN1BpQ0dKRGJrWWp30gH8AUFVX3lxTE5Ba0prNjk3SnNTMFFoRDRTQ203MHRDRmVyTjJCY25LTzgtNEtnQjdHaWxMOWpuUFgtX2oxdW1xQ3lLR3kzaml3ekRIOGR4RkhyR3NUdnRGTGwwRUp0Z2NXeEVhd3pUcWN2c1F4aVRabllUUElZQjlOcHlEUjF1Q1JFNFJISmUxSXdFUjk1Q0R1TEZxU3dMeHYxRklPYnlIU3E3MzhRN1ZGNlBNc21VSlpMQUU0eU9FR1dyeV9ldmtqVE1kX29mWTd5VWZfOF9FMVJzaV9FR1NEa2VublpuWVMzYjdGd0NneHFrWVlzSTV1bGhobmZTOG1LejNnOA?oc=5",
       "source": "Valor Econômico",
       "publishedAt": "2026-10-15T20:34:28.000Z",
       "summary": "Operação ClickFix: Como golpistas desviavam dinheiro de fintechs e o convertiam em cripto Valor Econômico",
@@ -255,21 +534,86 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.34,
+      "score": 5.08,
       "relevance": 6.4
     },
     {
       "title": "Casas Bahia fecha acordo que prevê mais de R$ 33 milhões para trabalhadores demitidos",
       "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/15/casas-bahia-acordo-demissao-massa.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-10-15T20:33:18.000Z",
       "summary": "Loja das Casas Bahia em shopping de São José dos Campos é fechada. Sarah Brito/g1 O Grupo Casas Bahia fechou um acordo com a Confederação Nacional dos Trabalhadores no Comércio (CNTC) que prevê o pagamento de indenização de R$ 7,5 mil para ",
       "image": "https://s2-g1.glbimg.com/6qTxGAranInbXogDZZwh44mUOoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/y/LAKKFXRvOnX0fqoMzRMA/foto-g1-1-.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 6.34,
+      "score": 5.08,
       "relevance": 6.4
+    },
+    {
+      "title": "Datafolha: Violência, saúde e economia lideram preocupações dos eleitores",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOd2lxWkpVSW5Fekp3TkQ0RTNPLThQdmM5aW9oeDBfaDVUbGNCV2I4SjFWcU1YaU9BQWdtT1pVSEdyajU2OHFFNk8yejRpQkhTSE5rMzFKM2Q5dUxucmVLTVJoM3NSSTNBdEJpXzBIZG9rS3A1Ymh5R3MwdzZaSnNWOUd0Q1ZycGdlVnpPcVVRYjBDQ2RXSi1hUzN3RWRqVTFVanlXcjFXc0dNRVZ6NlE0c0IyQ1RLbzMzZTJPdnJCWU9XYjFGdy1OUjlFY2FqYkxNdU9rMFFuOE12ZkIw0gHrAUFVX3lxTE1TSGFmc09ka1ZoaWxpbmlvSC12QlJnc19uTXNHY2haMk9OZlNrUERhbW9uN0RaSzNpa01IZ2hYVFJHVW9udzhqQWRFR21EajRTejhaZGlnV2JhaGNtQjZUSG5ENENITHgtQXdQemxyQmRtR1dCb05YS21UcElwNFpYZ1UxUDNrN2VweUdMZmlUWW5ORHZ4cmIxaTE1Umk2ck9sLVVlaXd0QmFRb0FVV203ZGt6LVQyMzZoWjAtTjV5SHo1ZDNFUGk0bTJjNE1yT2k3VjQtTER3cG5POXpkMm90MVlWa1ZoV0NHV3c?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-10-15T22:05:17.000Z",
+      "summary": "Datafolha: Violência, saúde e economia lideram preocupações dos eleitores G1",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.05,
+      "relevance": 6
+    },
+    {
+      "title": "Festival Universitário de Cinema de Caxias do Sul seleciona 18 filmes para a 3ª edição",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUFJFRm5GR0RrTmZVQlJicl9PYW1LZmpGaTViZ2dJR2VaR1R6bkhsN0d0a1lDeEZ5NkxDaW5TazljaHdrbXRkQUVHb29ZY1ZGeWl3d1BDSXJ3SWtJakVLOThINlFuMVN1eWRnRFk2Y2pGRkRyaHJvZVRqWnZQMXdXXzlhcV92MnV6RHBUa3BHcXVYOHhrZXRTTk9JcVZqd0hiNi10eTVmQ3p6VEdIWlJV?oc=5",
+      "source": "Mídia NINJA",
+      "publishedAt": "2026-10-15T22:03:13.000Z",
+      "summary": "Festival Universitário de Cinema de Caxias do Sul seleciona 18 filmes para a 3ª edição Mídia NINJA",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.04,
+      "relevance": 6
+    },
+    {
+      "title": "Petrobras bate recorde e chega a R$ 800 bilhões em valor de mercado; ações sobem até 110% em 2026",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/15/petrobras-bate-recorde-e-chega-a-r-800-bilhoes-em-valor-de-mercado-acoes-sobem-ate-110percent-em-2026.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-10-15T19:31:03.000Z",
+      "summary": "Petrobras faz nova descoberta de petróleo em poço na costa do Amapá A Petrobras bateu recorde no valor de mercado ao atingir R$ 800 bilhões no encerramento do pregão na B3 nesta quarta-feira (14), a primeira vez que a companhia supera esse ",
+      "image": "https://s2-g1.glbimg.com/Mf76M76bqJVWuKm0oyupbxHDQYE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/B/WqfClHTueLtcJGzJSCNA/agro-petrobras-diesel-02ago22-paulowhitaker.webp",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.03,
+      "relevance": 6.6
+    },
+    {
+      "title": "SAP compra TechWolf para reforçar gestão de talento com inteligência artificial",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQR2ZSd01WMTRHYjFGMDQ4TVBmZTM3aWhBZTN6Y1Badi1BcnpMVUhCZDNxaEdCV0FCbXZrbU42bUN5NVptdlMwTmM5T0ZETGcwVlVFNlh6cGRVdFhuUjVPcmkxWEcyZ2UzaFpycGp4Y1JSNHh4WFZlYjNCYTJwNmwwTmFCbTdmQXVXV2dwd19oanhIZ3pPSDlqZzlBX1JwaVkxQ1EwcXVtVElnaWs5UWhwSVJ0MWpvX19PemxGVjBn?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-10-15T20:16:00.000Z",
+      "summary": "SAP compra TechWolf para reforçar gestão de talento com inteligência artificial Jornal Económico",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.02,
+      "relevance": 6.4
+    },
+    {
+      "title": "10 filmes imperdíveis para conferir na 50ª Mostra de Cinema de São Paulo",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM1ZwQnNoYjduaUFsSW85a0Z1Q283MDlrTFRWZnpHeGZyV1ROMWJDdTFwSWZSeVRDREk3Vm1CekF4SEI0N1o2TnpWOTJKdW1XaGNIMXFhZXFoLWJ0YlhsYThwSmt1U3dUTDFYX3dRd213U3NtRHdGdG8zQVkyUXJidlR4aDdTUUpEc1ZPSEtyenFkVGc1ZllfTEJlMFpkVHhlLV8xbDJwOFlxcGJ1MmRJOWxrdk1KVDZiUlFKb1lTZjJzQUVGdUtfTWZrUjlaWGxyVlE?oc=5",
+      "source": "Tribuna do Sertão",
+      "publishedAt": "2026-10-15T21:52:00.000Z",
+      "summary": "10 filmes imperdíveis para conferir na 50ª Mostra de Cinema de São Paulo Tribuna do Sertão",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.01,
+      "relevance": 6
     },
     {
       "title": "Juros Freiam o Varejo, Mas o Que Ainda Impede a Economia Brasileira de Desacelerar?",
@@ -281,8 +625,21 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.22,
+      "score": 4.98,
       "relevance": 7
+    },
+    {
+      "title": "Melhores Filmes da Mostra de Cinema Infantil de Florianópolis - FCC",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQekpvZkRLQk9uUkZaZ0IwVXZxVXRzZWZjUHV4ZHFiY0hCcEdlbFdXZmNMSEltM0lvcllfamNqRVRIb3VJTG1Xb0E2WnR5NkJmUWh3RkdtbFpLRE5pOHh0OE8zU0xFVWxKdm5NMnQtYzVuYllOZzZ2TDVOdktTVE9YWUE0ZUcyMUsyLUlKSDJIWVdDbFZGWDZFLTRUREZFRWpQSW9wTHhqR3QyMlRzeVdqUk1SeW1sX2FFUnVVbVRXTXFpR2dHMW1XQzl3?oc=5",
+      "source": "Fundação Catarinense de Cultura",
+      "publishedAt": "2026-10-15T21:41:09.000Z",
+      "summary": "Melhores Filmes da Mostra de Cinema Infantil de Florianópolis FCC - Fundação Catarinense de Cultura",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.97,
+      "relevance": 6
     },
     {
       "title": "“Street Fighter” estreia no Cinemark Varginha; confira os filmes em cartaz",
@@ -294,435 +651,31 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.17,
+      "score": 4.94,
       "relevance": 7
     },
     {
-      "title": "AgNest recebe startups do Speed Agro para testar tecnologias agrícolas",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOXF3NUhaam1qdWkycDN3RmdIYXdjencyaG5uZDZNbkpUeF9UUFV5eXpabkJUbTVwa2VaQzNibUFRRmRBQ2NkMGVTb0pfdi1fX0xZSmdaM21ZUzJ1YndBZ01tMUNEMzlHLUtkMFBHN1l6QjhVTWZGSWgydFQ3RV9pY2VVNlFzZkwxcWhwY1JnUDBzbmR3UWlZZnVKZXlRUEg0UGhmNUp4UWZha0dzdjBxaXowZC00Znlnc0lIUjNmeElYOTVRUUg0X05OVQ?oc=5",
-      "source": "A Embrapa",
-      "publishedAt": "2026-10-15T16:49:40.000Z",
-      "summary": "AgNest recebe startups do Speed Agro para testar tecnologias agrícolas A Embrapa",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.01,
-      "relevance": 7
-    },
-    {
-      "title": "iNNova TV: streaming gratuito tem 35 canais, filmes e séries",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0pZRjdqU1g0WjJTbWtJTzFRcDBMekZoVHhtZVdQWE5ldVhMZGo2YmxrRFhGazNiVkdTSmY2Zkh4WDR5cWotM2tuV0Y3Q1BVOWRnZEdpaXZtNkZzR1lEa1lTd0hsS203bWNsRW1LbVprNnVnMEItSk5Zenk3MzFET1E1QW1lUE1CM2NVMFhqNUlxRnpIZGp5SF9BTUZkeG9HcUx2MmtUN3lIZnVaTEtlWS1YZzFabDB2a3U3bTU5U2RZdmliVndjZnNHdm10XzNDZ0g1OWtQY3JVdw?oc=5",
-      "source": "Folha Vitória",
-      "publishedAt": "2026-10-15T16:36:27.000Z",
-      "summary": "iNNova TV: streaming gratuito tem 35 canais, filmes e séries Folha Vitória",
+      "title": "Selton Mello está em filme chileno da Mostra de Cinema de SP; veja longas da América Latina",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc1lqZVlvMWVfczlBZERlajdOazczOVMyR2M2bERNbmItMms1N3daMzkzNkZ3OV9wMl91WTl2Q2ZhMzlnUTgzNjJNQnRtMVZmYzdtZnJNZnUzbW9NamF1X3UzREM0T0ZvMWdVR2JaZlJmVnpjSkhFRHloNjVBQzRXRXhHQ1VjdmZZRmNybTNJNjVSaWtzQzJXcHJjSUxIekxMS1BnVkpFWmVGVVNFb2d6ODFLblJFVGttcGdlYlg0WnUtYS1GMDVIbExtamN0dndET0M5TkRjZVE?oc=5",
+      "source": "Guia Folha",
+      "publishedAt": "2026-10-16T02:00:00.000Z",
+      "summary": "Selton Mello está em filme chileno da Mostra de Cinema de SP; veja longas da América Latina Guia Folha",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 5.95,
-      "relevance": 7
-    },
-    {
-      "title": "Evento sobre tecnologia e negócios reunirá mecânicos e outros profissionais na Grande Curitiba",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbVlvdG5ERGRodUJxNFpLTHRpY1NlT3ZDU2g5WkZLUFdGdTl3R19QRWJoQnU3WFN1R1kyNnI3VmpjY1NMa3ZoRGtaS211RjcxR3BWUkZ4eVFSZ2YwTXpybTB1YkI0LTFDcnZDaUx5Rkgyc3dmYXJ0MjNFOXY1dFhlaDJROF9QcTVOZkJRZUt6MEZDbEZaS081WVJCYXA5azVGZklQU1hTU29ENWxmMEUyS05CdGdLbllLbC10blc1bHI4Q1JyeEdFMzFaT3hXbDRyMFJZRHBWb0FYQdIB3wFBVV95cUxPeUdKTGk3aGI2SkxLUFByR19vYk9LUDdINEduVFpqVGpqVTFUbEF6OHEwMm0xeHdOZDVRRTFlbXZHUWVnSHE2SzBtajQwdEw2eXp5dTZUS1k1aUJ0Y3I3M2NhVW9fTUxuTkwtbEdNQkIzZWMzMmZ3T3VmaFg0QVVoeHg1SGZpWGYtV2hVZ2MyNFNaMHU2R2U4clBJWFRUS3IyRXhJak9TYUxKZ2tvRWNHQ2l2VGVCbnFwTDdHX25EaU8tRUpvc3dQa1d6aHpqYXRfTWZsd2E4UGU0eG5aazhn?oc=5",
-      "source": "Bem Paraná",
-      "publishedAt": "2026-10-15T20:00:00.000Z",
-      "summary": "Evento sobre tecnologia e negócios reunirá mecânicos e outros profissionais na Grande Curitiba Bem Paraná",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.82,
-      "relevance": 6
-    },
-    {
-      "title": "Amazon lança dispositivos de IA que resumem conversas e criam lembretes",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/15/amazon-lanca-dispositivos-de-ia-que-resumem-conversas-e-criam-lembretes.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-10-15T15:13:29.000Z",
-      "summary": "Celular tá caro: o que a IA tem a ver com o aumento do preço de celulares? A Amazon anunciou nesta quinta-feira (15) dois novos dispositivos de inteligência artificial (IA) da linha Bee, capazes de transformar conversas em resumos, listas d",
-      "image": "https://s2-g1.glbimg.com/v2NCnPPwOTdvX-elUv92HgIVeys=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/O/dCRo7pSfOtUvPLy8FFMg/bee-frontier-eclipse-hero-amazonnews-ck101426.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.81,
-      "relevance": 7.2
-    },
-    {
-      "title": "Mega Feirão de Empregos de Uberlândia terá 5 mil vagas e salários de mais de R$ 4 mil; saiba como se inscrever",
-      "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2026/10/15/mega-feirao-de-empregos-de-uberlandia-tera-5-mil-vagas-e-salarios-de-mais-de-r-4-mil-saiba-como-se-inscrever.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-15T19:50:32.000Z",
-      "summary": "Candidatos devem apresentar Carteira de Trabalho Digital Rodrigo Marinelli/g1 O 4º Mega Feirão de Empregos de Uberlândia será realizado na quarta-feira (21), das 8h às 14h, com mais de 5 mil vagas de trabalho oferecidas por mais de 90 empre",
-      "image": "https://s2-g1.glbimg.com/TF6CUnophepPPRIC6DsM1yhU1qk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/v/p/i9PdlTREWcOHElpQ4dJQ/carteiradetrabalho4.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.78,
-      "relevance": 6
-    },
-    {
-      "title": "Um médico e um estudante de Medicina foram presos em flagrante suspeitos de atirar contra a casa de uma professora do curso de Medicina em Gurupi, no sul do Tocantins. Saiba mais acessando o Surgiu ( LINK NA BIO ). 📲 📸 Divulgação #surgiunews #toc",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oMnhvS2F5bEl2Tk12M2xhZmpvQ01BdTBpMkNCM21ZZlRYNkdZRlhhcjk2V3R2OElrV1VKTHVCMTVxNE1fYmc1VUFDZU5tMFBNUUE?oc=5",
-      "source": "Instagram",
-      "publishedAt": "2026-10-15T19:49:12.000Z",
-      "summary": "Um médico e um estudante de Medicina foram presos em flagrante suspeitos de atirar contra a casa de uma professora do curso de Medicina em Gurupi, no sul do Tocantins. Saiba mais acessando o Surgiu ( LINK NA BIO ). 📲 📸 Divulgação #surgiun",
-      "image": null,
-      "topics": [
-        "medicina"
-      ],
-      "score": 5.78,
-      "relevance": 6
-    },
-    {
-      "title": "Goiânia recebe Semana de Cinema e Audiovisual com filmes, debates e oficinas gratuitas - Curta Mais",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZlRwOTY5RTNsbVlNNEpiY0F4RFFqVjB6cktWOURDdngyWjZpb1RYdGstSU9YYUplakJBaFRsLVM5cVM4NDRXakJyeTdfYzZRZkVxR3NiVE1sU19aak80M1dDNm1ITnBrSE9HX1ZZblNDdXFnUFQ3MV82U2l5LWZ2ZWhNQ0xJZw?oc=5",
-      "source": "Goiânia",
-      "publishedAt": "2026-10-15T19:48:20.000Z",
-      "summary": "Goiânia recebe Semana de Cinema e Audiovisual com filmes, debates e oficinas gratuitas Curta Mais - Goiânia",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.77,
-      "relevance": 6
-    },
-    {
-      "title": "Documentário Naza e ficção científica Hope estreiam no Cinema Walmir Almeida em Aracaju",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mbF8wYkhqYy1yQmtxVnFiM3V6cjhya2U5QmU1Q3E0Y19XY0o3Y0QybUVienRwNlpkQzdnMGNuSEFpc2RkcllOb0VHdEtIdGhxSzRCckF4M1FyQmtCYVc2Y21LelpyZC14THdkSXFpS1lTMnlScjczWmdZUmRWTXc?oc=5",
-      "source": "Aracaju Magazine",
-      "publishedAt": "2026-10-15T19:46:05.000Z",
-      "summary": "Documentário Naza e ficção científica Hope estreiam no Cinema Walmir Almeida em Aracaju Aracaju Magazine",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.76,
-      "relevance": 6
-    },
-    {
-      "title": "Rússia constrói nova base militar em apenas 6 semanas para ataques com drones de propulsão a jato contra Ucrânia, diz agência",
-      "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/10/15/russia-constroi-nova-base-militar-em-6-semanas-drones-propulsao-a-jato-diz-agencia.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-15T11:37:49.000Z",
-      "summary": "Rússia constrói nova base militar de drones em poucas semanas, mostram imagens de satélite A Rússia está próxima de concluir a construção de uma nova base militar próxima à fronteira com a Ucrânia e que será estratégica para o lançamento de",
-      "image": "https://s2-g1.glbimg.com/Qp16p_LfF1lWI2TQfKXrhBM3adU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/5/FmUBCATxqhgayOtSBtfQ/2026-10-15t085048z-46737876-rc2z2oat8blx-rtrmadp-3-ukraine-crisis-russia-drones.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 5.76,
-      "relevance": 8.2
-    },
-    {
-      "title": "Os Javis invadem o cinema mundial com ‘A Bola Preta’, filme que pode dar um Oscar à Netflix",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZUFyQVZ5VTBiQU1jYU9aN1hmZ0NyY08xX1puanlZYWc0UVZITFdVQm1CY1BvajNtaVJMeVNRcjNaM0VPNmF3NmpxOHBpYWV0cG1fdE91OGtfM3V6b2hjQTRzNFJJOGZKcHdwakoxdzhNU1dQVEJ0NEt3ZFhkeVd1bkRseklPd1FZVlNzR0V0TWVQZ0YzYVM3X1lZbXJ5QU5JeUVFNVNzU0NiNXBXZERpb1FncnV3SVhaX0JVTVhuWXp1a3I5bEdhcG9DSHg2MHRpRkt6bWNn?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-10-15T15:40:24.000Z",
-      "summary": "Os Javis invadem o cinema mundial com ‘A Bola Preta’, filme que pode dar um Oscar à Netflix Estadão",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.74,
-      "relevance": 7
-    },
-    {
-      "title": "Novo decreto sobre atendimento humano desafia empresas a repensar o uso da inteligência artificial nos SACs",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSHRWQkljalFFSm1oTHJ4eHVYSkpvdUFTTGpvVU03X1RrVWZSTzNJZHNVanEtQlBXdEFrZmw3VDd3ckNIdmdSbm90RGV5RVBDWVRwODlOQmZpSFpGdUF4STNMcjg3djAxZV93Q1VlaEIzcHJSdlgzSWduM1ZEYmJaQ2xVSWFDMzE2bVhJVWpWaDBmRW5MSExfZ2Zjb0VGd3hvMTU1OGcyTE5tVUxPcTYwNGhuTE9ST2ZZaFUyWjZEZkpncEc4QlZqaDZqQmNuNkZFWVlVcDdkZzMycHZuQ0tn?oc=5",
-      "source": "Paraná Portal",
-      "publishedAt": "2026-10-15T15:28:29.000Z",
-      "summary": "Novo decreto sobre atendimento humano desafia empresas a repensar o uso da inteligência artificial nos SACs Paraná Portal",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.7,
-      "relevance": 7
-    },
-    {
-      "title": "O mercado de juros e a eleição presidencial",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRkt4YVVxSVRScC0tdk5NSmpueTd4dGNJelJZUFdfa0NfTkhaWW4xc0xSaEtNZ3JmWXRpdnFjRnJnMFNUSENQMW5qRFY1bnBLQktBUDJtMXBBZVhwVGREejljeDg4Qk1DamE2bmt5YkNOaEFGRnQ3cERoTVFuTEhfeUNR?oc=5",
-      "source": "Monitor Mercantil",
-      "publishedAt": "2026-10-15T19:26:04.000Z",
-      "summary": "O mercado de juros e a eleição presidencial Monitor Mercantil",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.69,
-      "relevance": 6
-    },
-    {
-      "title": "Programação cinema BH: veja os filmes em cartaz (15/10 a 21/10)",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVTA2ZE52M0FLVDhGQzJ3SGxlQWx4Zkc1YnkycTRFd3phMUctQzdUTDNIWWF4YkUwOWpWZmFqcy15YnNfdDNIVlhReTJmMkEzMEJtdXhGLXVnekR2aGdORXhHZTJTVS1zZUpzc19lVkRhekx1bmRKdVlfNG9IRENqRUJSZGhOSWVyRkg5R3BROWtQOVE4S1E?oc=5",
-      "source": "BHAZ",
-      "publishedAt": "2026-10-15T19:16:00.000Z",
-      "summary": "Programação cinema BH: veja os filmes em cartaz (15/10 a 21/10) BHAZ",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.65,
-      "relevance": 6
-    },
-    {
-      "title": "Cinema: 5 filmes que estreiam nesta quinta (15/10) - Tudo EP",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlHMGxSVzc5NVRRZ3hJeG5yRjBCM2RGNjRfMXloODZDQThwSXUtTE93OWVZRmJ6LUUxemY5WURwVGRiT0tqV3BfaWJCMW1JeDJONkozN2M1UllzRXdQNU00V0wxM2NYU0pVNWlrYmNLTXFnM2NieGZVNTBpOE11NjF1NVRIb0tILTNpZGp3SzhieFFnaGNSMnZiOWYxaWtVZFpvRmhZZm4?oc=5",
-      "source": "ACidade ON",
-      "publishedAt": "2026-10-15T15:02:05.000Z",
-      "summary": "Cinema: 5 filmes que estreiam nesta quinta (15/10) - Tudo EP ACidade ON",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.6,
-      "relevance": 7
-    },
-    {
-      "title": "IA já é utilizada por 80% das empresas brasileiras, mas apenas 7% integram tecnologia à estratégia de negócios",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONUkzdWdqbXJWSFJCcXhaWVl5NDZLZE1seVo5MjRxckdLYTRKUkZQVElrRTB1Q0p6aGhVcDZNbW1HV29hNXMxMnhqSk5JdWNTX0tBbHdmLUVkQkdKWDRCY0ZmOUJrakVKa0ZMd1BmMFhXTy1fdmNsYjI3WlZnQndnVVBxZ2F0aThkZXNUbHpZdFdWeTR2U0dOYnFmVU9idW4yZE0xdk9nQzFxMmloX1ljeFJFUzI2ZGhadUFsVkxPRVkwcFFFODNRUlctWTI5YU1lR2JRU0ZHT29GbGI2cnc?oc=5",
-      "source": "Balada IN",
-      "publishedAt": "2026-10-15T15:00:00.000Z",
-      "summary": "IA já é utilizada por 80% das empresas brasileiras, mas apenas 7% integram tecnologia à estratégia de negócios Balada IN",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.6,
-      "relevance": 7
-    },
-    {
-      "title": "UBS eleva recomendação para ações brasileiras e vê Ibovespa com 25% de potencial de alta",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS3pRUThKdVJiTDdPWkNqMlo3VUVHbGFqNmZwMWtEdVhYczBYYmZ0dDdlc3JSdjcyTS1fbERUaUFYeVlMOGotNHdVU0dGMTR3TmJYMGZpTTNOdjI5YWJhSTVHMnViWURsZkZPNmJucjJnUWg2aEhFUzVTeUh3NXNiT2U2YlBIOWFDcWZYeVJMQkYwc2NYb2N4NHln?oc=5",
-      "source": "BPMoney",
-      "publishedAt": "2026-10-15T18:54:59.000Z",
-      "summary": "UBS eleva recomendação para ações brasileiras e vê Ibovespa com 25% de potencial de alta BPMoney",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.58,
-      "relevance": 6
-    },
-    {
-      "title": "CrediSapi fortalece microempresas e impulsiona a economia de Sapiranga",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYUhFWk53QzN3dlRNdHNMSmdMN1lQMUVwQ3kxdFdLSDJncjhmQ0EyclNWUUxFclVsNWhpclVHT04xUTRIWmV4dWxPTm9WaTdZMk16MGlDV3FzOTA1SlkxX2xEQ1FCRUI1ZWpqZmdnYWlTTEdNOXdrR3hZc3AxY29VaElDV1YtbWYwRmlkOFcyZ0I3NzFZbWhwanpkNmo1NUd0YmpVZm1GQ3VTV2RBRThhaFlFdldIVmd3WjAtTW5FdWxnUQ?oc=5",
-      "source": "Jornal Repercussão",
-      "publishedAt": "2026-10-15T18:50:26.000Z",
-      "summary": "CrediSapi fortalece microempresas e impulsiona a economia de Sapiranga Jornal Repercussão",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.56,
-      "relevance": 6
-    },
-    {
-      "title": "Aos 24 anos, filho de David Beckham estreia como ator em filme francês que une romance e esporte",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVXNINUdLWHk0SkNYeHNuLUhhVVlDYnpyRVJDQVloaTB1dTlESDBNcnRDRWxoTm1DYi1RYkFEX2xMY0xhcnJrNlhtS3NMWVZScGdPNW5kWkhrYlNKbXNiRGtMZ2N0LXN1UG1yT0FpSGVEdzEtWFA2eDcwclRTc0FjM2NmVUhKdVVUa3JOYndieS14ZHJxWTNHOS1uS183cHQ0ckgzdWxwNVJ6SWZFV2JQbW1qbkpja2swSkFjbUtFc3JHWUtFWlJuVjBpT3BXc3FNUTRiaXl4UQ?oc=5",
-      "source": "Alô Alô Bahia",
-      "publishedAt": "2026-10-15T18:48:35.000Z",
-      "summary": "Aos 24 anos, filho de David Beckham estreia como ator em filme francês que une romance e esporte Alô Alô Bahia",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.56,
-      "relevance": 6
-    },
-    {
-      "title": "Verão da Lata e Honestino são premiados em Festival de Cinema de Portugal",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xVTJuTjAxbTRkTl84NkljbVJ6UDF5YWctMTZDQ19MRFJjdmd4UkpoRkQ0WF9SYXU1VTFGdGJvVDhuVWR4SUxEQzJSandtbl9oSmtkMTVvQXhnTlZNVFJHU2dXRG03ay13QWhmT1FpM0VBblJ6TTlueGd3?oc=5",
-      "source": "Metrópoles",
-      "publishedAt": "2026-10-15T18:45:00.000Z",
-      "summary": "Verão da Lata e Honestino são premiados em Festival de Cinema de Portugal Metrópoles",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.54,
-      "relevance": 6
-    },
-    {
-      "title": "3° Festival de Cinema OLAR – Observatório Latino-americano de Realizadoras abre inscrições para oficinas gratuitas de formação audiovisual",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOLThCcDRLcElycXZiUU40eHR6bVJ3cUpiWExlbjNVT19XSFFvMV9OcmRURDF2NnExdHhEbFgtaG9NZFZtSUNsdU11Z04ycFp2Y1l0VmRXM21oYkJIajVkNUZPcHBGeEVsVHpFbmh5eW9TRUwzUkNkVG1zMUZPaFJhdGhJMXl6NXpwRmppeExNZlYtN25TdXRzU3RKSWFHd2xtZnBfUWNFYk10alJUUkhvMW1QSGx5ZUlBa2ctblVFYnhzRmtHX3VPRGFGQUJOTm1KamUzcTV0aGVKQzFpd3pMdkhaa291WmlCY0NqSFZUcThnYnht?oc=5",
-      "source": "Revista O Grito!",
-      "publishedAt": "2026-10-15T14:28:44.000Z",
-      "summary": "3° Festival de Cinema OLAR – Observatório Latino-americano de Realizadoras abre inscrições para oficinas gratuitas de formação audiovisual Revista O Grito!",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.49,
-      "relevance": 7
-    },
-    {
-      "title": "Mostra Internacional de Cinema 2026: festival celebra 50 anos com filmes e homenagens em SP",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3NEblR6aHhnUEhqZERGbFFVRy1kUVhpR3VGX1NXYUtsc3RkbzBkNF9RWTVfZUtubi02d1FkbVdkb2dWZ2N5bkRHWndJSjB3cDRic3NHUnFEdi1DMmZpOW0zWV9oTS1Sbkc2N1hidFEwYkE1T29MY1lPUmJtYWhaNmNUV2pKUzZiajE0dXRLdUt4Rm9Qdmh1Zmk5UmVQNy05Z3ItRlRjWDB4bnR1dzdtSFhCUmoxSjdhR0VmNUF6NTYzT1p2emtIaERBWHBEelk?oc=5",
-      "source": "Gazeta de São Paulo",
-      "publishedAt": "2026-10-15T18:15:00.000Z",
-      "summary": "Mostra Internacional de Cinema 2026: festival celebra 50 anos com filmes e homenagens em SP Gazeta de São Paulo",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.44,
-      "relevance": 6
-    },
-    {
-      "title": "'Street Fighter', 'Dentro da baleia', 'Rosebush Pruning' e mais: as estreias e os filmes em cartaz",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZTE5Z2NHUWZ6NTNBNU90N3VtOUVIZU1uVnFZOGtjMlo4b1RNc2R2bXE4al9aNDNCc0c4eHVEUUM1aFcyZzB3anhPSGMxSlNBQWIwWUVpM1lhaUw4dXRET2l0c1FhV29qSmx3LVF6cG05aTNjRUZaY0tMQS1YejFGdXdSRDNkZ2RvekdvTTFQclpqZ01XcmF1aUhtZ1hSeTREVDVNLUpPbEpJc0djNXlqUkRaR3cyX01zZjM2SXVYR2VfeWdLV3JTaWVMbVhDazB1RmpTcWI5c9IB5gFBVV95cUxQaUJVQ2JFZG1kV2IxN2NIQXdnT3lWZUtfcDNpYTlsZUNyVnRNbHh4MFhoZkp6S1lTRVFfMTJVTTJlbHBzS1phend0UFhUM05lWW5MSTVoYU5HSU9ob1k4VnFDcFJNZS1ERU5fV2ZrbTBzRkwyaFQyeG8wZmh1WU1sNHBUM3ktOEVWcHU5bno3VHpUTDMwb25sbFhhY0RmWUdWcENJZnNHQzVxNFZYZmI0NFA2a25lUkZPV2FXUVVLNXI0ZXBmUlZKTWRBdDFMQmhMTElLVldtWTdPYnRRbHYxalFyWmUyQQ?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-10-15T18:09:00.000Z",
-      "summary": "'Street Fighter', 'Dentro da baleia', 'Rosebush Pruning' e mais: as estreias e os filmes em cartaz O GLOBO",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.42,
-      "relevance": 6
-    },
-    {
-      "title": "Alckmin projeta economia de R$ 40 bilhões ao ano com Portal Único para o comércio exterior",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVWIxd1JOMUxVSEFxMGxlR3JpT1diOTktbWo5VTUwc1dJSS1HQjlER0J0aUdjbGlNOXEydVE3WWR4aWhzMHo0RHcwNjZodFZYdzhmcF90YWtsQmI5RU4xTXV5b3NvbTd6dG1QWlZtaGliekFZeFJqRC0xbFZiVnd1aTRobHJYa0lTYlY4LU1VNVRUTGRzZVJOcWhZTU13NUNtMUQ2VUVtTXg0LVhWN3BXTDRqUWxScTk1VGczYUxreTU?oc=5",
-      "source": "Brasil 247",
-      "publishedAt": "2026-10-15T18:07:00.000Z",
-      "summary": "Alckmin projeta economia de R$ 40 bilhões ao ano com Portal Único para o comércio exterior Brasil 247",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.41,
-      "relevance": 6
-    },
-    {
-      "title": "US Bancorp (USB): Crescimento via aquisições e redução de capital – 3T26",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XX3hBTTlNelZmT042UUZjT0VuSVZrV3drMXY4QkQyMzRNM0IweE42b2c1aFkyazhNY24wTElJUGo4ZXJDR3JYcTR0R2dOQTRJSFhjS2paZlNMaEFuaUplcFFCakFndmcwSUJfNF9JTDJGNExDNEpIYQ?oc=5",
-      "source": "XP Investimentos",
-      "publishedAt": "2026-10-15T16:25:54.000Z",
-      "summary": "US Bancorp (USB): Crescimento via aquisições e redução de capital – 3T26 XP Investimentos",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.41,
-      "relevance": 6.4
-    },
-    {
-      "title": "“Ser professora é uma história de cinema”, diz educadora que organiza mostra de filmes infantis",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnBLdFhqdjlXN2FIRGVIeFlLcDIyNThsYUpvNFRTS1FfNDc1T2phNXJNaERBTnFXZjZiLWxjMlRMR3huTlNhTFNVRmpYRmVCcjV1ZTN3UzVDTXVESnNZUjlSRVVDeVJVakxjUXBjc285R28yZklBMEt0WGNwVml5UjVDUjA2OXRYdzY1MkZ2dlhkQkQ4aFl4OTJmUEhJVEJWRzBUVDgzWERBajNCaHFZM0xacTBSVXBXcUgxZQ?oc=5",
-      "source": "Informe Floripa",
-      "publishedAt": "2026-10-15T17:27:18.000Z",
-      "summary": "“Ser professora é uma história de cinema”, diz educadora que organiza mostra de filmes infantis Informe Floripa",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.27,
-      "relevance": 6
-    },
-    {
-      "title": "Anthropic agrava ainda mais queda das ações de inteligência artificial",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNFJfQUs0cHRNMDVFNFBTUjh3eDltdGVnd2RvU2tzM3ZTcFpnNDRNdnBCdDk1N0toejhBQ3ZhYndlZG5TSUw1ajNVSnAzODRpYUxWam5IaWY4VW1qNW5sblV0VnFKUGdzV3FLSkJWcHRqLUlRYk16TVhHQnVwNGtzMVdMQXU1b3ItM1FDX3d3UzZDQjhsR0h5NG1SYVB6enNwZHFEcGZEZC1ZLXhjUERMLThucVJKY0hlcEJ4cHlMZ1JBaWPSAdIBQVVfeXFMTjZtRjE1MlpLY2MzVzZTd2JBT3pTa1ZZMnFuVHVQN1l5bXVydmdCUExTS0ticVNEUHQyVlBaYmRlYUJVX1lCQVFzZTBZU0FGX2tWOXRJR3dHU0xuUmZlcWVUTnItVUwtM3AzUEU1aWxLckRJWUNhOU9VLTRLY0d6V21fN1I1N2xIV1paV3cxYzgyckpUYUhKVW5tc2RuZEhEUGI1bDRaY0JiaTZ1Rmw3UVpUN2pudmJKQmF2SFhtMk9hWHRZcWpPZEZuY0UwNHpmXzZB?oc=5",
-      "source": "Valor Econômico",
-      "publishedAt": "2026-10-15T11:56:08.000Z",
-      "summary": "Anthropic agrava ainda mais queda das ações de inteligência artificial Valor Econômico",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.26,
-      "relevance": 7.4
-    },
-    {
-      "title": "Do Amapá à China: Sebrae leva empresários para conquistar novos mercados e ampliar negócios",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOalFqWG92TVdyR2ZUa1QyTjZVVS1FX2E4Z3QxVno3emw0aEFjOHdkWXlDZW9HNWNvcktlSGRHSkpFV2VNeUM2eXd4MGJKM0V0VVY2MEJzRG9kaFVtbGlMOHRnSkxpdThVMDNnbE12eEJlVVdyenJoTHQ5TG1lRXFmQnFsbWdBSG90dTJlWDZXX0tNTlhUTmNaWWJpY0lsWHcyRHZhY1pHSVJOZHhkT0FZcmgzVy1LV01qVThXckpqazBYc1NnaTM3TFhPSmxzMUhTOW9iWFYxeFlqUENZSUE?oc=5",
-      "source": "Agência Sebrae de Notícias",
-      "publishedAt": "2026-10-15T13:20:00.000Z",
-      "summary": "Do Amapá à China: Sebrae leva empresários para conquistar novos mercados e ampliar negócios Agência Sebrae de Notícias",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.25,
-      "relevance": 7
-    },
-    {
-      "title": "B3 (B3SA3): opções movimentam quase R$ 3 bilhões em um dia; entenda esse mercado - Suno",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3l6cEg5bTBEY0dIcEVUck9taUduM0pmUDlZeEZDNXJtQUswZnd4d2Nodk91QnpFZUJTdEVyeE9BWTJfU1prTDJ5SWFqd3duaUtidlZMSjloZEp3bkJkMGUwSE5zR3pINXlKekV0azZibm9Rd3VRWmt4UFM2Vm42OXBn?oc=5",
-      "source": "Investimentos Inteligentes",
-      "publishedAt": "2026-10-15T19:45:03.000Z",
-      "summary": "B3 (B3SA3): opções movimentam quase R$ 3 bilhões em um dia; entenda esse mercado Suno - Investimentos Inteligentes",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.18,
-      "relevance": 5.4
+      "score": 4.89,
+      "relevance": 5
     }
   ],
   "byTopic": {
     "historia": [
       {
-        "title": "Aulão na Rede 2026: professora de história tira dúvidas sobre Revolução Iraniana",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEpQWkwxa2tES0txWmJvbk9ESWFuajZqZWFycXV1NVhlaHBsa2NiV3VSbl9WanQ4OE42Z3NCNm1uQmI3RkRuM0s5VUh3NVlTaFdWUnZ2dEtPZTVyNmVZRE5xNE1nNF9QOTVfOGxjRUNTLUVzTlBYQ0RVTlVzMTczYnQxaDF5RnRBekMxdEJ0bUYyYVpvbFE3eDJmN1pNT3RRemtTV0hIb0Z6X2N1QVFlM0ZzdlF1enJxeHhHU19IYkFyVkFzNGgyeUtxcFJ6Y2vSAd4BQVVfeXFMTjN2dFBUMHJBdW41eGJBLXIydDF1TjdoNld1NEJ0RVVUMzAzbGNRWndlOGNRbExOMXZ1TWNMMFEwVUExTEVyUUo1cTJ0Rm5GNVg1aXRhRGZUX3RNMGdMNHRLV1g0TVZDZEVrSVhZNEN5M181WmEycW5oWVM1MlQ0QXl1WkFqY1VaX3U1N21Pb1NQMGpXZzBYWnlfUWJhREFjak1fd1dvNUE0aWRwX1ViS1NnMVU4QVBuakpZbWU4cjlOdnpuazRFanBNV2FoMDBONTBGV3pDWEhMVWFNaHp3?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-10-15T19:25:20.000Z",
-        "summary": "Aulão na Rede 2026: professora de história tira dúvidas sobre Revolução Iraniana G1",
-        "image": "https://s2-g1.glbimg.com/Sew4KGTNRMQt5uQcL4GelGVBwvg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/V/FpLH5GSmqubpOrG4i50w/aulao-na-rede.jpg",
-        "topics": [
-          "historia"
-        ],
-        "score": 4.74,
-        "relevance": 5
-      },
-      {
-        "title": "Rara cerâmica chinesa é achada em reino medieval africano",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNek1TN1dUVVFlRGRwRExUMjRVWlB5TGtaS2ZER3J5NEJNMWtlYUF3UUlrTmgteFk4T1V6dDBiRk84NWxMRzBpVEx5blpCUGhyWHhSQk9FSTFSMS1lam8tcUdqMldoRFdlM0VoS3dVMFB1MjZRNWVGLUppS2lLLTMxdGxfeUxIb0R4bTJGMk5URnNVbGhhM2Y3OE9MN3ZBdWxtWHZJQmk5SUtKM1Z2S1g0SFVpdnNQejRLQzgwWkl3?oc=5",
-        "source": "Aventuras na História",
-        "publishedAt": "2026-10-15T20:25:30.000Z",
-        "summary": "Rara cerâmica chinesa é achada em reino medieval africano Aventuras na História",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.34,
-        "relevance": 4.4
-      },
-      {
-        "title": "Repaginação do Museu do TJPB renova espaço dedicado à História da Justiça na Paraíba",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQXIzZ0w0RzFBSGNTX00zaDh0VXF5dWRDNzloUmk3cl9peWtBTk9FaVRZcExQcV9SQllaMVFUZTFKMXFBUlRpRU4xdFJoN0VhZUxjcUFMdV9jYTctbkJaX0NwNGN5VlNVQkVScVBDaS1UbW9qQlVjd19qNlp4WHFXMWxwMkhrZzVKNXAyWVhMTmc3R0ZrR1djSTVjZHVUNHdEVWFLVWJJQy1VenI3Q0lUTkh6UXY2elJYUWNjclhvQUpJYmhzMlpRMnR1Zld2d3RmcUhiUS15NEJKQXlWMlE?oc=5",
-        "source": "Tribunal de Justiça da Paraíba",
-        "publishedAt": "2026-10-15T16:38:00.000Z",
-        "summary": "Repaginação do Museu do TJPB renova espaço dedicado à História da Justiça na Paraíba Tribunal de Justiça da Paraíba",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.26,
-        "relevance": 5
-      },
-      {
-        "title": "Peritos portugueses sugerem criação de Museu da Arqueologia em Macau",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzFDdmVvcmZITTY4TVJuY1JVQXFOTWd2b1dEdnBCQkoxXy1nUElGb0RNUUNaTXctTHY3dFA3M3U4RUFxaUJTbmlFU1d5ZGdjMENaczdvQ0xtXzZpQTZWOEdhRmtieDhORk9nb2lqTXNNbVlVS2NMTGVjOFNLNi1MX2VLdWJJY3RKdmw3Sm5uV3R2RThuZkRWUzlUb3c3VEI2SW5aNWlQb3g0LURJLWtYNy15ck4?oc=5",
-        "source": "Notícias ao Minuto",
-        "publishedAt": "2026-10-15T11:39:25.000Z",
-        "summary": "Peritos portugueses sugerem criação de Museu da Arqueologia em Macau Notícias ao Minuto",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.22,
-        "relevance": 6
-      },
-      {
-        "title": "Goods Br realiza maior queima de estoque da história com descontos a partir de 70% em Gramado e Santa Catarina",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbXdGNnExMU1XWTRCaEc5X01kbDRCYnNBd1JwR3BUWktfeDRmWnluNlk3Q3JnRk1qQ3I2aUxrWjlodjZUYUNkYWl1VzdPb21aTDJyMDcwdGdIZnl6NFhGN3RhVnIzdUk1em9xb1ZaUVhSYlQ2dVBfdEZZREw1UE5zTHE1Y0hjajFVdUZqU3JOVVRrVGZpQ3RuMklSaFBmZmtmUjQzRmlPc1lyNkd5YXNlY0Q0MXRTRTVVZlVpOXFUVkw5amxSUXFuQkoyQjRlR1NyN19rZ09CWHU?oc=5",
-        "source": "Acontece Gramado",
-        "publishedAt": "2026-10-15T20:17:02.000Z",
-        "summary": "Goods Br realiza maior queima de estoque da história com descontos a partir de 70% em Gramado e Santa Catarina Acontece Gramado",
+        "title": "Nova Olaria reabre na Cidade Baixa modernizado, mas valorizando a própria história",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNaVZaU3VEYUdhR0wzTmdaaU9mZ1ZDVnJzczdKdFowNWlUN1Ztcmp6TVJONW9YRTcyb05xVDJRSmZQT2NMWWxkQTRFcGxTVmRVa2ptVS1uX2Zka2pKWVpjNDI4SXZEcndLNkVtam5WeTQ2cE1qeTBNc1RMN0ZlWDZzV1FCcnpVc1BrUFlGa1h1cEJSTXZYTVo0dTlnUGozVkRpY3ZxQ1MzWkdCeEFjMkhxbDJiLVNiYTlPUnU0cUxaSTJibzBwVUYzRGdJQ0ktRXlmNEFzN1Fyd3hTelU5MVc3ME03clVYQ0NPbVd4NjRiOU1lM24yM1RTN0ROVENZQWtfM1J3?oc=5",
+        "source": "GZH",
+        "publishedAt": "2026-10-16T02:03:45.000Z",
+        "summary": "Nova Olaria reabre na Cidade Baixa modernizado, mas valorizando a própria história GZH",
         "image": null,
         "topics": [
           "historia"
@@ -731,20 +684,86 @@
         "relevance": 4
       },
       {
-        "title": "Corpo de Bombeiros de SC celebra 100 anos de história – Vamos Conversar?",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWUY1eXFyNlBIeUpCV0RZRTEzYkpKWVgxM1k1U2FRbXNyc3pXek5VWEM1NndnY0hEUV84WkF2OFBPV0t6SEEwaVNzVFl2eHlZT2xpNlBTQTBnMXAwU2RpTEI2c3N3bUFFLXR1c2h2cEpDUjVhdnFRb3drYmdMX3V5Z3U5RlFZdW5FNGVLVXZBaWpnNlJmRUlqenZxR0h1SmdLQUtaZnVQUVVCcXZGWVE?oc=5",
-        "source": "Assembleia Legislativa do Estado de Santa Catarina",
-        "publishedAt": "2026-10-15T20:08:29.000Z",
-        "summary": "Corpo de Bombeiros de SC celebra 100 anos de história – Vamos Conversar? Assembleia Legislativa do Estado de Santa Catarina",
+        "title": "Aulão na Rede 2026: professora de história tira dúvidas sobre Revolução Iraniana",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdEpQWkwxa2tES0txWmJvbk9ESWFuajZqZWFycXV1NVhlaHBsa2NiV3VSbl9WanQ4OE42Z3NCNm1uQmI3RkRuM0s5VUh3NVlTaFdWUnZ2dEtPZTVyNmVZRE5xNE1nNF9QOTVfOGxjRUNTLUVzTlBYQ0RVTlVzMTczYnQxaDF5RnRBekMxdEJ0bUYyYVpvbFE3eDJmN1pNT3RRemtTV0hIb0Z6X2N1QVFlM0ZzdlF1enJxeHhHU19IYkFyVkFzNGgyeUtxcFJ6Y2vSAd4BQVVfeXFMTjN2dFBUMHJBdW41eGJBLXIydDF1TjdoNld1NEJ0RVVUMzAzbGNRWndlOGNRbExOMXZ1TWNMMFEwVUExTEVyUUo1cTJ0Rm5GNVg1aXRhRGZUX3RNMGdMNHRLV1g0TVZDZEVrSVhZNEN5M181WmEycW5oWVM1MlQ0QXl1WkFqY1VaX3U1N21Pb1NQMGpXZzBYWnlfUWJhREFjak1fd1dvNUE0aWRwX1ViS1NnMVU4QVBuakpZbWU4cjlOdnpuazRFanBNV2FoMDBONTBGV3pDWEhMVWFNaHp3?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-10-15T19:25:20.000Z",
+        "summary": "Aulão na Rede 2026: professora de história tira dúvidas sobre Revolução Iraniana G1",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.9,
+        "score": 3.8,
+        "relevance": 5
+      },
+      {
+        "title": "Flamengo vence clássico emocionante e faz história com o 50º título estadual",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN1I4ZkRTLUU0YmF0UTcwVjFhTkpWSVNCOGlfTEF5Z2RnVFhoWVBkRG1WRDZCZzZIdEktUzlNWmR3T2pHN0czYW84OEFublIzbE82eTlJT0NMbG56dkxpcHZEaE9JZ1Vqb2w2b0d2QnhWckNMalRCdUluTUp3ZXNzTDc1Um1TdHVWeHk1S2ViS3I2QmdPdjQ2c3o2d1pNNUQ5RWRUUEdXdkVkZWdrQlE4eWhtWUNnNkVTS2FQcGhn?oc=5",
+        "source": "Clube de Regatas do Flamengo",
+        "publishedAt": "2026-10-16T00:08:35.000Z",
+        "summary": "Flamengo vence clássico emocionante e faz história com o 50º título estadual Clube de Regatas do Flamengo",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.64,
+        "relevance": 4
+      },
+      {
+        "title": "Fóssil revela Neandertal morto por lança de madeira há 75 mil anos",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRldnNXNvV0RDbGRRdHFxX3BIcUVSQmlOTjBpV3Y2S014TUhlNjg1a2JWRDRDTW12ZUJqZ1AwZGRKY3E1ZThBSUQxN3J5Mjhnb3J2b3oxTjM5R1FTZ0FuWFVodjZnMEpoRE5ZZGhPemdHdVlIT2JYc0dNWjFjbkpldUU1TnpLUE1pOS1NREU5TjdCOW9RRWo3ZFJLXzEyT1FxejZCeUJJcVo3aGJldlp3QllPSnhkYkpIcmw5dlV2VC1OV1k2Y2t4R3R3?oc=5",
+        "source": "Aventuras na História",
+        "publishedAt": "2026-10-15T21:38:39.000Z",
+        "summary": "Fóssil revela Neandertal morto por lança de madeira há 75 mil anos Aventuras na História",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.64,
+        "relevance": 4.4
+      },
+      {
+        "title": "O povo brasileiro é sujeito da própria história. Já vencemos muita coisa e vamos vencer ainda mais. Não permitiremos retrocessos. Com coragem, esperança e o povo unido, vamos seguir em frente.",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PLVpHN1BoT3lSWVhMUHZfY1lkWm5CVFVKdXFEMFVrNGg4WVNYX2daUGUxNTFTSEtBcGF0UkthZ3UxVDRqWXhxYzZkejh3YkktM19JT2h3VDhHUjBkWkFPc2NRemZ2UTA4U3VpUQ?oc=5",
+        "source": "X",
+        "publishedAt": "2026-10-16T00:04:46.000Z",
+        "summary": "O povo brasileiro é sujeito da própria história. Já vencemos muita coisa e vamos vencer ainda mais. Não permitiremos retrocessos. Com coragem, esperança e o povo unido, vamos seguir em frente. X",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.64,
+        "relevance": 4
+      },
+      {
+        "title": "Antonieta de Barros: a mulher negra que colocou SC na história do Dia do Professor",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTHhtWEkwTFR4aDBvWTRia2l6Nms0S1FXMlU1VHpkUlgyT2FuRWt4QWl5ckwwT0d6SE5lX3RwWWlvQU1xZ2w0LWU2ZExkUTlmTVg5Ui0wdktoNFRFWE0wRFdveXhQYWNJSWdiZ0FjS1U5WjJ0LUk3VzRlcUJkQTQyc05qdkNqTWJ0dlhKYkgwLV81OGFqREtaY0dpWUtKeGNkdzZQRFItcG1nczhiZ3BhbjF0RFdTV28tRW5NSUd5cDh4NXV0MFlHMHNDTEJkM1NR?oc=5",
+        "source": "TopElegance",
+        "publishedAt": "2026-10-16T00:03:46.000Z",
+        "summary": "Antonieta de Barros: a mulher negra que colocou SC na história do Dia do Professor TopElegance",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.63,
         "relevance": 4
       }
     ],
     "geopolitica": [
+      {
+        "title": "Ordem para limitar sistema de satélites usado pela Ucrânia na guerra partiu da Casa Branca, diz agência",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/15/ordem-para-limitar-sistema-de-satelites-usado-pela-ucrania-na-guerra-partiu-da-casa-branca-diz-agencia.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-15T23:21:11.000Z",
+        "summary": "Reunidos em Bruxelas, líderes europeus discutem como manter apoio dos EUA à Ucrânia A ordem para limitar um sistema de satélites usado pela Ucrânia para comunicações no campo de batalha e operações com drones partiu de dentro da Casa Branca",
+        "image": "https://s2-g1.glbimg.com/9lXi2SMYvBigiYI5KgHfldlWUQA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/A/G/toVFKBTzAkGvGI0iBsAw/2025-08-18t175855z-1199898741-rc2t9ga1ofld-rtrmadp-3-ukraine-crisis-summit.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 10.78,
+        "relevance": 12.2
+      },
       {
         "title": "EUA planejam usar 'mãe de todas as bombas' contra o Irã, diz TV",
         "link": "https://g1.globo.com/mundo/noticia/2026/10/15/eua-planejam-usar-mae-de-todas-as-bombas-contra-o-ira-diz-tv.ghtml",
@@ -755,7 +774,7 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 6.68,
+        "score": 5.35,
         "relevance": 7.6
       },
       {
@@ -769,60 +788,48 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 5.76,
+        "score": 4.61,
         "relevance": 8.2
       },
       {
-        "title": "Ucrânia retoma ataques contra refinarias russas após acusar Rússia de violar cessar-fogo energético; 'Chega', diz Zelensky",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/15/ucrania-retoma-ataques-contra-refinarias-russas-cessar-fogo-energetico-trump.ghtml",
+        "title": "Tiroteio em escola nos EUA mata 3 crianças e professor; atirador também morreu",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/15/tiroteio-em-escola-de-ensino-fundamental-nos-eua-deixa-ao-menos-dois-hospitalizados-atirador-morre.ghtml",
         "source": "G1 Mundo",
-        "publishedAt": "2026-10-15T09:28:25.000Z",
-        "summary": "Vladimir Putin, Donald Trump e Volodymyr Zelensky. Sputnik/Gavriil Grigorov/Pool via REUTERS, Reuters e Genya Savilov/AFP A Ucrânia retomou nesta quinta-feira (15) seus ataques aéreos contra refinarias de petróleo russas, atingindo uma inst",
-        "image": "https://s2-g1.glbimg.com/6WiFTDgj_hsPlN7g032DknLdUEQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/V/TU9mmuQJAOyfA9n9rZNQ/design-sem-nome-2026-10-10t093927.952.jpg",
+        "publishedAt": "2026-10-15T21:46:06.000Z",
+        "summary": "Fita de isolamento policial em frente à Escola Primária Silver Rail, onde ocorreu um tiroteio. Joe Kline / AP Um tiroteio em uma escola de ensino fundamental em Bend, no estado do Oregon, nos Estados Unidos, matou três crianças e um profess",
+        "image": "https://s2-g1.glbimg.com/u0LbQuTSkNBRLnt3W0CZCJLS9Ic=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/J/RnNirtQyKgYFFTfvPqXw/ap26288796036302.jpg",
         "topics": [
           "geopolitica"
         ],
-        "score": 5.04,
-        "relevance": 7.8
+        "score": 4.32,
+        "relevance": 5.2
       },
       {
-        "title": "Governo Trump envia centenas de soldados para a América Latina, diz 'New York Times'",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/15/governo-trump-envia-centenas-de-soldados-para-a-america-latina-diz-nyt.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-10-15T14:34:13.000Z",
-        "summary": "Militares caminham durante a cerimônia solene de transferência dos restos mortais de seis membros do Exército dos EUA mortos no Kuwait. REUTERS/Nathan Howard Os Estados Unidos começaram a enviar centenas de soldados do Exército para a Améri",
-        "image": "https://s2-g1.glbimg.com/lAPuH9Z_VL8MEfVu2a5-EX7YmsY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/O/BMmXphRIC8aKnfy6c3LQ/2026-03-07t214844z-1630073216-rc2wzjaqhfpl-rtrmadp-3-iran-crisis-transfer-usa.jpg",
+        "title": "Governo Trump processa Califórnia para barrar voto de 20 mil pessoas que alega não serem cidadãos",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/15/governo-dos-eua-processa-california-por-nao-verificar-registro-de-eleitores.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-15T22:41:37.000Z",
+        "summary": "Midterms - Eleitora preenche cédula de votação em Harrisburg, na Pensilvânia (EUA) REUTERS/Mike Segar O Departamento de Justiça dos Estados Unidos entrou com uma ação judicial contra a Califórnia nesta quinta-feira (15), para impedir o esta",
+        "image": "https://s2-g1.glbimg.com/xEFF-Xfbvp8GscCYLTxV4MLzV9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/w/O/PFSfA1TvyVd6BjHnOczg/2022-11-08t131839z-2077520762-rc2nhx94yqte-rtrmadp-3-usa-election-pennsylvania.jpg",
         "topics": [
+          "negocios",
           "geopolitica"
         ],
-        "score": 4.88,
-        "relevance": 6.2
+        "score": 4.31,
+        "relevance": 5
       },
       {
-        "title": "Trump recua e diz que execução por fuzilamento de ex-militar não será transmitida ao vivo",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/15/trump-diz-que-execucao-por-fuzilamento-nao-sera-transmitida-ao-vivo.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-10-15T14:10:34.000Z",
-        "summary": "Donald Trump fala a jornalistas ao deixar a Casa Branca, em Washington, em 13 de outubro de 2026. Kevin Lamarque/ Reuters O presidente dos Estados Unidos, Donald Trump, afirmou nesta quinta-feira (15) que a execução por fuzilamento de um ex",
-        "image": "https://s2-g1.glbimg.com/kdoxkPU3NOd6RfZxJHaqACl7gzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/P9J2u0S2qlMQ9qkV62oA/2026-10-13t154604z-775478900-rc2f2oaif0hr-rtrmadp-3-usa-trump.jpg",
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 4.8,
-        "relevance": 6.2
-      },
-      {
-        "title": "Houthis bombardeiam área do palácio presidencial no Iêmen; governo diz que há mortos, mas premiê está seguro",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/15/houthis-bombardeiam-complexo-palacio-presidencial-iemen-deixa-mortos-premie-esta-seguro.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-10-15T16:29:43.000Z",
-        "summary": "Agora no g1 O grupo terrorista Houthi bombardeou o complexo do palácio presidencial do Iêmen em Áden, no sul do país. O governo iemenita afirmou que o ataque matou dois seguranças, mas que primeiro-ministro está seguro. ✅ Siga o canal de no",
+        "title": "Petróleo fecha sem rumo único com tensão geopolítica e oferta maior",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT05BbHNwZk9hRXF6amVkVG1GdlIxX0hIay12UmtqVXBJZTBwMFhnNXhYWjQ4VERjenRKN19kTFA2QW5HamNFNFh1M0hGWGY1WmVKWWdvekZoa3RvQW5UMHY3TWlnelVVd3RTZkZzVXgzY2J5M3p3MmlyLUtDOVpwUVJ5S2ZsYkxGMzZ0eEhmaTU2Z3hqR051ME9yTGYyalpoTmZJZjVDS1BPUW14eTVGQm9JeXp6NHBQM1dtVQ?oc=5",
+        "source": "CNN Brasil",
+        "publishedAt": "2026-10-15T21:23:16.000Z",
+        "summary": "Petróleo fecha sem rumo único com tensão geopolítica e oferta maior CNN Brasil",
         "image": null,
         "topics": [
           "geopolitica"
         ],
-        "score": 4.57,
-        "relevance": 5.4
+        "score": 4.1,
+        "relevance": 5
       }
     ],
     "negocios": [
@@ -830,14 +837,14 @@
         "title": "Ibovespa cai mais de 1% com cenário eleitoral; dólar sobe a R$ 5,08",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSm1KOFZZY1FMcHlkYUJrY0JpRUd5NXhxekhpYmZFWWs3cXplV0hhOEtOTThwakFFMXRydkhuclhYV2VJOFlnbklFdnlSUjlHRDMxRjBXZHR3VmsxT2VUdnJSUEhxM3lyUUxRY3hLNGVlalNXajRaN1ZFUnBEcFlCOFRUS044UE9IdjREMzlOUlVXUTN5eW02NGtHNFNoV203czRjNg?oc=5",
         "source": "CNN Brasil",
-        "publishedAt": "2026-10-15T20:07:44.000Z",
+        "publishedAt": "2026-10-15T13:36:47.000Z",
         "summary": "Ibovespa cai mais de 1% com cenário eleitoral; dólar sobe a R$ 5,08 CNN Brasil",
         "image": "https://s2-g1.glbimg.com/jp13l7e40BNCnkPgMkejddtlrQc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/T/n/cGMV0bQQOi6xrnJErPtg/pexels-karolina-grabowska-4386473.jpg",
         "topics": [
           "negocios",
           "geopolitica"
         ],
-        "score": 12.08,
+        "score": 7.53,
         "relevance": 12.4
       },
       {
@@ -851,8 +858,49 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 8.97,
+        "score": 7.19,
         "relevance": 11.6
+      },
+      {
+        "title": "Brasil deve voltar ao top 8 das maiores economias do mundo em 2027, prevê FMI",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2pTSkFPMXFXT2NTYTNJNFcyaDFJUnlJSmtSSHNCdUVTU3ZqOUlMZmkxSmVBX0dxX0hwQnRUVG51RnZwS0F4b0U3YnpIcl9pc1BKa0NldEMxWTNzaHhSS2g1Q2NDSWJyb1BjejhnOUpYeV82d0FzVFphYXNuUG0yV0ZjU3NoaFYtYU1pWUZjSVFESnJSWWQ3cjZuQWJNNDluNG52R2xNblNYaVU2RE1OYV9KQWdxWEtHUjZnYU9WUHVSRDVpYl9xSEQyMNIB2gFBVV95cUxNUERNZXJPOHJjS2lQRUZtS2VvS2oxRDZyZHdvdkRpX0hGMTNhTktGNzhWV2VfRTJGcnpSUW5wT3BqTTJpTFZDdFMyaU1vaEdSSV92X0FyVVdqQklkMTRjV04tQXFEZnRacTBWeDFTOV9OdEhsYlgzYWVqS211d1N4WU9VVm9NbElZaTdjbVpFMld6SWZwbWF3b2t4YVhlVWw1WXU0blB0MWt4V1JqMlJWdTRZYjZON3dNVWtCWmUxUzdPQU4xN1hEYURvM1hzR0RyMFVoVzd2TEtzZw?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-10-15T20:41:29.000Z",
+        "summary": "Brasil deve voltar ao top 8 das maiores economias do mundo em 2027, prevê FMI G1",
+        "image": "https://s2-g1.glbimg.com/Jswk3-A7Pq1ITtrDccGy0kZW10I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/R/u/XB8VggTzurmCjfvTDMiQ/2021-10-12t130056z-2053598960-rc2d8q9hbc6g-rtrmadp-3-imf-worldbank-outlook.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 6.86,
+        "relevance": 8.6
+      },
+      {
+        "title": "Tesla apresenta Roadster que 'voa' e dirige de ponta-cabeça com tecnologia da SpaceX",
+        "link": "https://g1.globo.com/carros/noticia/2026/10/15/novo-tesla-roadster-elon-musk.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-16T01:07:20.000Z",
+        "summary": "Tesla Roadster \"voa\" divulgação/Tesla A Tesla anunciou, nesta quinta-feira (15), uma nova geração do supercarro Roadster. O modelo é o mais potente já criado pela empresa de Elon Musk, além de ser o único da marca que pode \"voar\". Ao todo, ",
+        "image": "https://s2-g1.glbimg.com/pz14-Pq3irEnyBfxOFBKHorfd9c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/O/VzIiFeStuycC99pHoIPw/gravando2026-10-15221442-ezgif.com-optimize.gif",
+        "topics": [
+          "negocios"
+        ],
+        "score": 6.24,
+        "relevance": 6.6
+      },
+      {
+        "title": "Lula defende redução da maioridade penal para crimes hediondos, pede investigação de ministros do STF e diz ser responsável por dificuldades do governo",
+        "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/entrevista-de-lula-na-globo.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-16T00:18:21.000Z",
+        "summary": "Renata Lo Prete entrevista Lula, candidato à reeleição pelo PT; veja íntegra O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, afirmou nesta quinta-feira (15) em entrevista à TV Globo ser favorável à redução da maioridade ",
+        "image": "https://s2-g1.glbimg.com/YWW0J5ke-1FKadoeIAy0ZpBwHx8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/y/Gm4VveTTODawKHx6CJYQ/whatsapp-image-2026-10-15-at-21.18.18.jpeg",
+        "topics": [
+          "negocios",
+          "geopolitica",
+          "medicina"
+        ],
+        "score": 6.23,
+        "relevance": 6.8
       },
       {
         "title": "Netflix aumenta preços em até 23% no Brasil; veja novos valores",
@@ -865,47 +913,8 @@
           "cinema",
           "negocios"
         ],
-        "score": 7.24,
+        "score": 5.8,
         "relevance": 7.4
-      },
-      {
-        "title": "O risco escondido na economia dos EUA que começa a preocupar Wall Street",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR2p1ZVNvWmdfZ2F3RXBaeEowTmdONVprblpwSVlWS0JXWV9MTTZXYmtVWGROSUgwZUl1eHlPVzI1ODdlcktuR181cE4yZ3FNeVgxdUdLVG9BaEk4VGFUajVicFRTbDU5NURFUEpHMHN0NWZpS1VyWnFXMjBUZE5FbDZfT1VnN2Jhc0xNc3RYWm9tdnBNYjdmaTV0ZkUtWnlCMUtLN3dXUW9ta3N3ZXEtT3F3d3hjYkZrS01vY0x1dHJaVW5tcUJYUDZnQlUzck84aWFpQi1R?oc=5",
-        "source": "Estadão",
-        "publishedAt": "2026-10-15T20:45:51.000Z",
-        "summary": "O risco escondido na economia dos EUA que começa a preocupar Wall Street Estadão",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 6.99,
-        "relevance": 7
-      },
-      {
-        "title": "Ibovespa cai e dólar chega a R$ 5,06 com tombo das bolsas asiáticas e temor sobre juros nos EUA",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWkN0SnpjQ3lyWnMxTk9YekxST1dSMm9ESi1MY3NzRktpNkd1cFZQRWNkMTY0ZFNCMHNXSjNOWF9rR2R0dVA5ZEc2WFBuVk0wVVA5RE1IbDgyeWVXYUhkbzdDck5OTEhUbGpoNkxEOVZ1RG9FemJ5S19wNy1oenNMUkJZTlFweWlTeWtwTkNDWXl0RDhOS1RlQ1NXd0tkTjlHZXQ1VkpsOHRFRVREa1NiVmpUTTYyTkdTQUlXS1Q5NzVuUFRJZnZReElHWkx2VWVmYzZGYzZUbzRLak1tZ2t4eWpyS1FVd1E0VjZLUkN0VzQ5bHdWMnBRX3JIdHN4RUk?oc=5",
-        "source": "Portal do Agronegócio",
-        "publishedAt": "2026-10-15T14:05:00.000Z",
-        "summary": "Ibovespa cai e dólar chega a R$ 5,06 com tombo das bolsas asiáticas e temor sobre juros nos EUA Portal do Agronegócio",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 6.79,
-        "relevance": 8.8
-      },
-      {
-        "title": "Deepfakes estão cada vez mais difíceis de detectar, alertam especialistas da OpenAI e Meta",
-        "link": "https://g1.globo.com/tecnologia/noticia/2026/10/15/deepfakes-estao-cada-vez-mais-dificeis-de-detectar-alertam-especialistas-da-openai-e-meta.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-15T19:09:31.000Z",
-        "summary": "TSE mantém proibição de deepfake na campanha, mas exige realismo para ser ilícito Especialistas em tecnologia da OpenAI e da Meta alertaram nesta quinta-feira (15) que os vídeos e áudios falsificados por inteligência artificial (IA), conhec",
-        "image": "https://s2-g1.glbimg.com/Kp3hhCZsZZXWsbJAKtx83PDAE6I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/p/d/OAwqf3RlSVYJv6BZu8mA/front-view-bad-habit-concept-with-copy-space.jpg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 6.38,
-        "relevance": 6.8
       }
     ],
     "filosofia": [
@@ -919,20 +928,20 @@
         "topics": [
           "filosofia"
         ],
-        "score": 4.88,
+        "score": 3.91,
         "relevance": 5
       },
       {
         "title": "A enigmática trajetória de Helena Blavatsky: a mulher que uniu o ocultismo e a filosofia ocidental",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeTcxYm9rRUZDbldib2JPTGxYbFZkMjF5Wjc0eVZ3clNzRkR0SHpYaVZCOGRnWENjWVpMazZUaUNJNmhPUzdDLW9Lckt2c0kwWUs5WlZUTVFNS21HV0ZDZFJtZ3ZaUWJXemY2MjFlVXdORXhBb2xjdkJGS1RFcGNuTWVVX3VOSTcwclUycjJHczVPYnQ4N2RhZktBall1TkJ3QlFtTGxNazRKa1NEdzkzSjJWdTZCRnM0QVp5YVVqVQ?oc=5",
-        "source": "portalunico.com",
+        "source": "Portal Único",
         "publishedAt": "2026-10-15T19:26:48.000Z",
-        "summary": "A enigmática trajetória de Helena Blavatsky: a mulher que uniu o ocultismo e a filosofia ocidental portalunico.com",
+        "summary": "A enigmática trajetória de Helena Blavatsky: a mulher que uniu o ocultismo e a filosofia ocidental Portal Único",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.8,
+        "score": 3.04,
         "relevance": 4
       },
       {
@@ -945,7 +954,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.59,
+        "score": 2.88,
         "relevance": 4
       },
       {
@@ -958,7 +967,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.2,
+        "score": 2.56,
         "relevance": 4
       },
       {
@@ -971,7 +980,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.14,
+        "score": 2.52,
         "relevance": 5
       },
       {
@@ -984,88 +993,88 @@
         "topics": [
           "filosofia"
         ],
-        "score": 2.71,
+        "score": 2.17,
         "relevance": 4
       }
     ],
     "cinema": [
       {
-        "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime e mais",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNc2lWV01QT1lLdTUwREJWVFFtRWNyeG1FbVhMZUgyaDdaZ2VWdHJEZ210ckl2TU9haU1ucl9CRUhVY3I3NTc1STJMUTlhd3FwbmMwNm1ybE5aNEZoT19XbzdMdHI4YUxhdjNaUERyckZ0WE5wYTRDMDVwYUxiQlViYk0tb0ZfR2k0bWVyMTRGOVh2UnFUaEdpQzZGMU9SOHNOQXg4a29Eam5fMy02YkhmR241NjJ1ZlRyMWVHejB3Mzg4Q0xjNXR6bmZJc29wbjMzVkUzTHF6QVA?oc=5",
-        "source": "Estadão",
-        "publishedAt": "2026-10-15T17:16:12.000Z",
-        "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime e mais Estadão",
+        "title": "50ª Mostra SP tem documentário sobre Fernanda Montengro e mais filmes sobre cinema; veja lista",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMG5RTWdmM3J6VHpWdF8yYnNiWjVMdW1HY3JtTXBsdV85dlc2VXdjUU1lVTJRWHVxc0tVUWIxUHNoUjhGYUV0ZkN4ZHpxdUdLVnpJc1A4THhVaGJaMDNJQ0drUTVrTW9Ba3NWdzBlcVk2Ym5pS2M4elFQRFZfR05HZzVQSWxNa2dwZzNpSlJQbV9tT01XY1pBMmNqZG15YkpfTkhZdUhzejNONGRkbEtGUGVZTTBDVkt0MFBKY2FaTVNTcmZmaHNTaHFYUVpIcDVtZEs4MFZXVkZhX3FW?oc=5",
+        "source": "Guia Folha",
+        "publishedAt": "2026-10-16T02:00:00.000Z",
+        "summary": "50ª Mostra SP tem documentário sobre Fernanda Montengro e mais filmes sobre cinema; veja lista Guia Folha",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.98,
-        "relevance": 8
-      },
-      {
-        "title": "“Street Fighter” estreia no Cinemark Varginha; confira os filmes em cartaz",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzYzSGxSWV8ySzEyakVRaUxNZ0FIbkdXVWlyVms2VTQ0N0FDZGxKang3eVdfcUxSZVRXYmdGUlJzcHdJTGVhU3IzVlJPazdScUhKMktMdzNfUTUzZEpZeG1JVl9RV1pBUGZOcW5NYUVySnFaQmhDMDloaGdnWnpKZ04tN2FCMnQyTW8tZ2xUTDlmT3oxQWJyTmVIX3ZsUFk5YzJN?oc=5",
-        "source": "BLOG DO MADEIRA",
-        "publishedAt": "2026-10-15T17:31:00.000Z",
-        "summary": "“Street Fighter” estreia no Cinemark Varginha; confira os filmes em cartaz BLOG DO MADEIRA",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 6.17,
+        "score": 6.85,
         "relevance": 7
       },
       {
-        "title": "iNNova TV: streaming gratuito tem 35 canais, filmes e séries",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0pZRjdqU1g0WjJTbWtJTzFRcDBMekZoVHhtZVdQWE5ldVhMZGo2YmxrRFhGazNiVkdTSmY2Zkh4WDR5cWotM2tuV0Y3Q1BVOWRnZEdpaXZtNkZzR1lEa1lTd0hsS203bWNsRW1LbVprNnVnMEItSk5Zenk3MzFET1E1QW1lUE1CM2NVMFhqNUlxRnpIZGp5SF9BTUZkeG9HcUx2MmtUN3lIZnVaTEtlWS1YZzFabDB2a3U3bTU5U2RZdmliVndjZnNHdm10XzNDZ0g1OWtQY3JVdw?oc=5",
-        "source": "Folha Vitória",
-        "publishedAt": "2026-10-15T16:36:27.000Z",
-        "summary": "iNNova TV: streaming gratuito tem 35 canais, filmes e séries Folha Vitória",
+        "title": "Forty Love: Romeo Beckham estreia como ator em filme francês com romance gay e rivalidade no tênis; assista ao trailer",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FcFpTT0xsdl84MlJxdUJVWURRRnJ6ZU1yQjBncERCOEM1SXo4SWUwYng1bWphUDBRbVZhVFA0eVBXMWQ3R0xSWUNpc01IaWtmWC1hdE5nczlWQlBaYWl0UWpZSE5Bck1DdHdSbnk4WdIBdEFVX3lxTE9hM3BNM2lFVXV5WjEyMVk0b1ZKWW1BZUoyUFdEcVoxN0tTQzhWY2VmZXBGb0xLN3VmVC1JRy1Ob3R3aVU4Q2YtalpOeTJEc2V0U19tX1R4d2lQN0UydnVZQjlXYXhKdGx3R09MUERvODc0UE55?oc=5",
+        "source": "Hugo Gloss",
+        "publishedAt": "2026-10-16T00:18:37.000Z",
+        "summary": "Forty Love: Romeo Beckham estreia como ator em filme francês com romance gay e rivalidade no tênis; assista ao trailer Hugo Gloss",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.95,
+        "score": 6.42,
         "relevance": 7
       },
       {
-        "title": "Goiânia recebe Semana de Cinema e Audiovisual com filmes, debates e oficinas gratuitas - Curta Mais",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZlRwOTY5RTNsbVlNNEpiY0F4RFFqVjB6cktWOURDdngyWjZpb1RYdGstSU9YYUplakJBaFRsLVM5cVM4NDRXakJyeTdfYzZRZkVxR3NiVE1sU19aak80M1dDNm1ITnBrSE9HX1ZZblNDdXFnUFQ3MV82U2l5LWZ2ZWhNQ0xJZw?oc=5",
-        "source": "Goiânia",
-        "publishedAt": "2026-10-15T19:48:20.000Z",
-        "summary": "Goiânia recebe Semana de Cinema e Audiovisual com filmes, debates e oficinas gratuitas Curta Mais - Goiânia",
+        "title": "Filmes queer da Mostra de Cinema de SP vão da Ucrânia ao mangue recifense",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcVBpM05SU0NZZWxOTzJxMVo0dG1Kd3RSVl8tZWN3NUQ1TkdKZXNSeU9NRV9lOC00OGV2ZXQ3ZE05bk95cFZHd2JQSjA3OUs3bDVNN3FOZXhkMzRqelZFRzlPYzU3VlB2T2t2SWFLTFQ2cmI5RnM3WWJhVEYzRnNhMmVlTDE0Sno4RTNqb0lOMzZoUkdNT01tTGdHRGhGSTYza2NyOUtkRGkydW8zaU1CZGNmWXAxUDRBRWRfWUdzX3BLZw?oc=5",
+        "source": "Guia Folha",
+        "publishedAt": "2026-10-16T02:00:00.000Z",
+        "summary": "Filmes queer da Mostra de Cinema de SP vão da Ucrânia ao mangue recifense Guia Folha",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.77,
+        "score": 5.87,
         "relevance": 6
       },
       {
-        "title": "Documentário Naza e ficção científica Hope estreiam no Cinema Walmir Almeida em Aracaju",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mbF8wYkhqYy1yQmtxVnFiM3V6cjhya2U5QmU1Q3E0Y19XY0o3Y0QybUVienRwNlpkQzdnMGNuSEFpc2RkcllOb0VHdEtIdGhxSzRCckF4M1FyQmtCYVc2Y21LelpyZC14THdkSXFpS1lTMnlScjczWmdZUmRWTXc?oc=5",
-        "source": "Aracaju Magazine",
-        "publishedAt": "2026-10-15T19:46:05.000Z",
-        "summary": "Documentário Naza e ficção científica Hope estreiam no Cinema Walmir Almeida em Aracaju Aracaju Magazine",
+        "title": "Veja onde assistir aos filmes da 50ª Mostra de Cinema Internacional de SP",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmIzMkdCclZVaHdOSDVSSC10aHY2WmUzTTRabXl1SjBaN1pmdm50aWpHenhOZU81aEhhcUQ0dW9XTFRfRm9PVFJvUUxvVWhVUjRWNk8xaU1XV1NjU2pBSzg0aFVFU1pGNmp6amZrVGdlV1hrMVNUaUNIU0dNTXdldGNOOTBHQzVfXzZkSVVoZHMxYkpUejhQTTZNYmwtNHVLSGhrQkwybm9ZS1BGRjV1OEpTWHFzRVM1ZFNMbTlWZlhTdw?oc=5",
+        "source": "Guia Folha",
+        "publishedAt": "2026-10-16T02:00:00.000Z",
+        "summary": "Veja onde assistir aos filmes da 50ª Mostra de Cinema Internacional de SP Guia Folha",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.76,
+        "score": 5.87,
         "relevance": 6
       },
       {
-        "title": "Os Javis invadem o cinema mundial com ‘A Bola Preta’, filme que pode dar um Oscar à Netflix",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZUFyQVZ5VTBiQU1jYU9aN1hmZ0NyY08xX1puanlZYWc0UVZITFdVQm1CY1BvajNtaVJMeVNRcjNaM0VPNmF3NmpxOHBpYWV0cG1fdE91OGtfM3V6b2hjQTRzNFJJOGZKcHdwakoxdzhNU1dQVEJ0NEt3ZFhkeVd1bkRseklPd1FZVlNzR0V0TWVQZ0YzYVM3X1lZbXJ5QU5JeUVFNVNzU0NiNXBXZERpb1FncnV3SVhaX0JVTVhuWXp1a3I5bEdhcG9DSHg2MHRpRkt6bWNn?oc=5",
-        "source": "Estadão",
-        "publishedAt": "2026-10-15T15:40:24.000Z",
-        "summary": "Os Javis invadem o cinema mundial com ‘A Bola Preta’, filme que pode dar um Oscar à Netflix Estadão",
+        "title": "Lembra de Brilhante Vitória? Série ganha spin-off com personagem conhecida e estreia na Netflix",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTZBYjRfd0hqb3Y0MzZGakJnTlRuN05aNWR5VzFWTl9DQjRENmY1c1lJcEQ0VnVsYm5EQnM1blAyZUpWekNwY3Q4djlmc0hsa0NTalRMTXlhSDZuRVYxSGNjMEgzTGp3ZVJCTjFSTFJZcEtfR2FXZ0t4YTZkRlVKMUFrSmtDSkdEdV9ZRHV3Y1BpUGtEQTlVdmFoRU1Yb0ZFTC1GNDRpc2M0TXg1b2ZZU0p4ZXROSlFRQjJ0SUZxdWRMV2NXcFlVTHIwUm9xb1NjdmxiVA?oc=5",
+        "source": "Gazeta de São Paulo",
+        "publishedAt": "2026-10-16T02:00:00.000Z",
+        "summary": "Lembra de Brilhante Vitória? Série ganha spin-off com personagem conhecida e estreia na Netflix Gazeta de São Paulo",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.87,
+        "relevance": 6
+      },
+      {
+        "title": "Eletrofunk ganha documentário sobre suas origens em Goiânia e estreia nos cinemas em novembro",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcWZ4RjJzb2FCejlOejRsaDVyUGt6MkIwZGFseUdidVdRbzlRS2t5cGl1alFoZm1YcnZVMEg1RlJENlhEWXVfbGxkRjc5ZHg1QjJFU0VwZUJxWUxjSkpyRUVjYW9fbE45aUs0R2NtZWZOTHBqSTFKV0phV0NWMk1tWWtwMms?oc=5",
+        "source": "O Universo da TV",
+        "publishedAt": "2026-10-16T01:24:00.000Z",
+        "summary": "Eletrofunk ganha documentário sobre suas origens em Goiânia e estreia nos cinemas em novembro O Universo da TV",
         "image": null,
         "topics": [
           "cinema"
         ],
         "score": 5.74,
-        "relevance": 7
+        "relevance": 6
       }
     ],
     "medicina": [
@@ -1079,74 +1088,73 @@
         "topics": [
           "medicina"
         ],
-        "score": 5.78,
+        "score": 4.63,
         "relevance": 6
       },
       {
-        "title": "Médica referência em pesquisas sobre câncer morre vítima da doença",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnhwWVlyWWRKdEtwR1YtN1UtZnFDbUNlc2FsNkltV0RYNWNUSjNoZ3FuQUtGM2hBYTJYU0wwRkpWWjh5bTZUT1htWDg3Y3VUX3JuVFE2a09uRE96QVFZcHN2ejZITEJISWkwTjFmVmE4Ul9kS20yeWJsV0g3SDMxVDVvcVE1Uy1pa0VVYlY2T2syUnJ5LUxTdmdjcjRMbVNK?oc=5",
-        "source": "Metrópoles",
-        "publishedAt": "2026-10-15T15:44:00.000Z",
-        "summary": "Médica referência em pesquisas sobre câncer morre vítima da doença Metrópoles",
+        "title": "Prática médica pode depender de notas do Exame Nacional de Medicina (Enamed)",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRUlnVWphdEtFNGJNZnlSYW9lXzFXS2h1R2VlY2dpM2szWElsN0VNOWZERG9NM29POXpUaHlOdFI0UUt1OHU4OWUzSkxmV3JLbUkwcDh2UkJsZVRuU1FRV1JUWEVYVzFnMVUyOThxaEg4MjZ5aDg5SzFmUVRCd3hqRHZpVkVhd1VfU08tWkxFVlFlTDhaTzJJbDNleFdSLXZDa28tbncyaWJhZmtKNGEzck1pSmxMc2RFMzFhSVVGTEM4SVdOWWNZMm1vT2ozMTA?oc=5",
+        "source": "Senado",
+        "publishedAt": "2026-10-16T00:10:38.000Z",
+        "summary": "Prática médica pode depender de notas do Exame Nacional de Medicina (Enamed) Senado",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.94,
-        "relevance": 6
-      },
-      {
-        "title": "Anmat aprova 291 ensaios clínicos na Argentina em 2023, superando os números de 2025 e promovendo a pesquisa médica",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQM1RUd1BhMU1ldC13UnVOQjFTWUo3bGdRdWl6UFduZnEySy1tYkdZSmhRZkgtcEtKb1BwbHpFRTVEdlpFa3VPNHlINVFIWFM4eEtMc0o2eEp4c0lmTEFHRUtGcTBQM2lpMVluYzJndjZHZXk0M2wxNEI3bnE4MGQ2c0V2OGpVRHNSQkRyQjM1Snc4ZW5jNmo1WFRSQlVfTzRCcXptMU83amFTMVVqYUdEX2JHZTBaMjVBX1JoVlBpT2xOaDBYVmhxbHNMdGh3dDhQTXZQODNnNkJSYTFIT3ZHQXJuekRWc2lEenhMeElabw?oc=5",
-        "source": "Noticias Ambientales",
-        "publishedAt": "2026-10-15T14:42:14.000Z",
-        "summary": "Anmat aprova 291 ensaios clínicos na Argentina em 2023, superando os números de 2025 e promovendo a pesquisa médica Noticias Ambientales",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.74,
-        "relevance": 6
-      },
-      {
-        "title": "Câmara aprova MP que cria a ‘OAB da Medicina’; texto segue para o Senado",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNUc1MFVpcjNieFBpSUdxSElkeXp5RFBVNmxvVnlSWk5SdTdUYnkzTGNqb1JvSmdWMWtvRHdfazRmMzNOSWh3UWpuV2tUZldrbXA1eHlVRWVrUDBWTmRrQVVtakNzMGN3clktOHM5YUw0X0pxNFdIVTVkSVZpSFlPbXNuT3Z1SFdaTkxoWU9USUhRV3loalpEa1ZhalhwZnhEc2RnNXlkOUF4Y21GeHpPaw?oc=5",
-        "source": "CartaCapital",
-        "publishedAt": "2026-10-15T19:14:00.000Z",
-        "summary": "Câmara aprova MP que cria a ‘OAB da Medicina’; texto segue para o Senado CartaCapital",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.71,
+        "score": 4.56,
         "relevance": 5
       },
       {
-        "title": "Participação do Brasil em pesquisas clínicas cresce após marco legal",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/participacao-do-brasil-em-pesquisas-clinicas-cresce-apos-marco-legal",
-        "source": "Tâmara Freire - Repórter da Agência Brasil*",
-        "publishedAt": "2026-10-15T19:17:00.000Z",
-        "summary": "O marco legal para a realização de pesquisas clínicas no Brasil está impulsionando a participação do país em estudos globais. Esta é a avaliação de pesquisadores e representantes da indústria farmacêutica reunidos no fórum para jornalistas ",
+        "title": "'OAB da Medicina', que prevê prova para médicos, é aprovada no Senado e segue para sanção",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbGgyeXNQTTczaEpjc2luZzZjaUl0X3ZuUk9UbnJoV1BKekpaX1pmSVh1VndPUFdodk9FbWsxZ0NwVU5Ydlh0X3BGTElhX0tuWGJWV2gtRWhoak5nLVRFeDRjdXZfb2Y0RWdOOTlBNHlybzUxSEdZektiOUQ4U05tbGNORGM2ekp6eGFmaG8xVVd0WXVvR3VyQjI1SFNXc1BrbEFBcE5YQ2FxWHpXZnZmLWI5eUs0TkV4RDhYWF9BdHVIUTZMdTY3dl9JVjFZVTlUWTB5ZURMZFA?oc=5",
+        "source": "O TEMPO",
+        "publishedAt": "2026-10-15T23:08:31.000Z",
+        "summary": "'OAB da Medicina', que prevê prova para médicos, é aprovada no Senado e segue para sanção O TEMPO",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.38,
+        "relevance": 5
+      },
+      {
+        "title": "'OAB da Medicina': Congresso aprova lei que prevê obrigatoriedade de prova para médicos",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLVpYNWlqRmhwQTM0czlwOHQxSGJqbTllNGhfZlJJaEZsTFNZR2JWWDJRS2h5ZDQwdDJibE1DeW1HRkM5dzNScnJUc1lTZkNkZGdCb19aWndNMEd5anc1RHpSTFdRaXRtdFFINWpub0U5cHpXT285OVljZ1V0QjF1RVMxMXRjb19wdWEzSzJxajBHazM2U2FyNVRLR05Jb0xyU2xQMGdCRHFKQTBOQlZHWDJubzFubEVhOW9FdzNJZlVyUmZRNDV2MTZuOTBhajNLMVNONGV30gHkAUFVX3lxTE1PaEtOanpSNGU0b21qMnZkbXA3ZGJYWG8tbkZ4ZkVadHl4bWc0Y2F5MkpaVDM0aDVfakVIZFc0WUo4MUNhcHdoNkw5MzhibnAyUHRURnlkaEhpNFEyVVhaVFAwcUJZTjN4Nl9uYWRONWZnYTE3NXZJdHRxVTNsTFZxZXN2YVpMNVhwelc1cHJjaHNsQUFocWlxUTdMLW4zRlM4V0lwamlhVkJTVUZjYnVxOEtNTTRkY2oyeldncWkwN05KMkVzWTNfcXc5Q3pTb19tTEktWDJZWHpGdEVKZTJ2QTdVSg?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-10-15T22:29:19.000Z",
+        "summary": "'OAB da Medicina': Congresso aprova lei que prevê obrigatoriedade de prova para médicos G1",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.27,
+        "relevance": 5
+      },
+      {
+        "title": "A Associação Bahiana de Medicina promove torneios esportivos em Salvador neste domingo (18), em comemoração ao Dia do Médico. A programação inclui disputas de futebol, futevôlei e beach tennis, das 8h às 11h, na sede social da entidade, na Boca d",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zM3pVWFY2THBlc3NnaExqWXlsRlBURHJ6OGZnNFJPaEpBRUJJTzllaVdGMENzWXptMEgxcGRkd3JuUlNtQ0h3TElxNVBaUjVVcXc?oc=5",
+        "source": "Instagram",
+        "publishedAt": "2026-10-15T21:40:05.000Z",
+        "summary": "A Associação Bahiana de Medicina promove torneios esportivos em Salvador neste domingo (18), em comemoração ao Dia do Médico. A programação inclui disputas de futebol, futevôlei e beach tennis, das 8h às 11h, na sede social da entidade, na ",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.14,
+        "relevance": 5
+      },
+      {
+        "title": "Hospital Geral de Bonsucesso chegou à marca de 450 leitos para o SUS",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/hospital-geral-de-bonsucesso-chegou-marca-de-450-leitos-para-o-sus",
+        "source": "Agência Brasil",
+        "publishedAt": "2026-10-15T22:25:00.000Z",
+        "summary": "O Hospital Geral de Bonsucesso chegou à marca de 450 leitos em operação para atendimento do Sistema Único de Saúde (SUS). Parte do Plano de Reestruturação dos Hospitais Federais do Rio de Janeiro, o hospital retomou o funcionamento da emerg",
         "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
         "topics": [
-          "medicina",
-          "negocios"
-        ],
-        "score": 4.53,
-        "relevance": 4.8
-      },
-      {
-        "title": "Pesquisa mostra como médicos ajudaram a sustentar negacionismo da Covid-19",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa251alIzNXpNVnp5akE4dDJOVDZTT05lS0tfWFZKR0hrdU1GVFVkZXQ0SFJfXzd1eHpZUm92bGxFeXJVZThSeERWdUFab19nU3BwLUIyajhWZzFGSk5TV3QyZkZZOV9aRzRCbm54ZVpJWEpGbnlfOUM1aXo1dkxidg?oc=5",
-        "source": "Revista Fórum",
-        "publishedAt": "2026-10-15T17:12:08.000Z",
-        "summary": "Pesquisa mostra como médicos ajudaram a sustentar negacionismo da Covid-19 Revista Fórum",
-        "image": null,
-        "topics": [
           "medicina"
         ],
-        "score": 4.35,
-        "relevance": 5
+        "score": 4.09,
+        "relevance": 4.8
       }
     ]
   }
