@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:03:12.831Z",
+  "generatedAt": "2026-10-23T02:49:10.217Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -39,7 +39,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 8.84,
+      "score": 7.08,
       "relevance": 9
     },
     {
@@ -52,8 +52,21 @@
       "topics": [
         "negocios"
       ],
-      "score": 7.87,
+      "score": 6.31,
       "relevance": 8
+    },
+    {
+      "title": "Falta de governança trava o retorno da inteligência artificial nas empresas - Varejo S.A",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlZvbW1lX2J2OEZVaFVIcjBucUhHSFc4bWVHY184UUN1aWFBUF9ySjYza3pwR2U1YlY3WDhNREwxZlMtcXdEejRwUWl3TG4tbGZ6TjYwRGpOMERsTGVMQ1JNb3Z1U1ZRbWpVWUJkRzZKcnJQUjFUQ1VXSGVjVWx4RkQtS19MT0lSTkZOS0xqc0lKRjkxS1FORER1d1lOSGNEYXpIaTlqSkc?oc=5",
+      "source": "Confederação Nacional de Dirigentes Lojistas",
+      "publishedAt": "2026-10-22T19:09:23.000Z",
+      "summary": "Falta de governança trava o retorno da inteligência artificial nas empresas - Varejo S.A Confederação Nacional de Dirigentes Lojistas",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.25,
+      "relevance": 8.4
     },
     {
       "title": "Dólar sobe perto de R$ 5,04 e Ibovespa cai com petróleo e Datafolha no radar",
@@ -66,21 +79,47 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 7.8,
+      "score": 6.25,
       "relevance": 10.2
     },
     {
-      "title": "A força dos termoplásticos na indústria de Manaus",
-      "link": "https://g1.globo.com/am/amazonas/amazonia-negocios/noticia/2026/10/22/a-forca-dos-termoplasticos-na-industria-de-manaus.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-22T20:22:53.000Z",
-      "summary": "A força dos termoplásticos na indústria de Manaus Foto: Divulgação/Suframa Quando se fala no Polo Industrial de Manaus (PIM), motocicletas, celulares e televisores costumam ocupar o centro da conversa. Mas um segmento menos visível para o c",
-      "image": "https://s2-g1.glbimg.com/pOHvE_VwlXIIDbzh6H3RE51yBfc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/a/HR4czbRIaRyWilDRMiuw/pim.jpg",
+      "title": "Eleição de Flávio seria um risco econômico a curto e longo prazo, diz Nobel de Economia",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkpkamJyT1B2d0tLbXZHVkhnV1FXTWxfTk5wNnk4b2doOWtmWVh2RnpWSGs5WF9CMG1ZS1ptM0hBQ3U2SGZQcHZLVDh3Mmo4MDdKaTVWOEZiWnBiTk83anVXX19vRDJnVk5pWkJEaDZ2c3lWUmlqWmhEMEFPT210RHM4S25sTW9CTm1CQ3JSVUEtVGVCTl9GNXJmMDd2cXdhOG5JZ0dfQV9jdEZZM28wNXVZazZ2TUR6S2d5UThVTkJZeEh2Q3hwa21uZ1k1bVJ4cFBPZg?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-10-23T02:00:00.000Z",
+      "summary": "Eleição de Flávio seria um risco econômico a curto e longo prazo, diz Nobel de Economia Folha de S.Paulo",
+      "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 7.41,
-      "relevance": 7.6
+      "score": 5.81,
+      "relevance": 6
+    },
+    {
+      "title": "Novos filmes chegam para os últimos dias da 50ª Mostra de Cinema de São Paulo",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzRUYnZpdTVRM01UcW1FTUR3YWtqTkUtVUpLZUo2bG1qNDJVc0FpWUZDcXRtT2VGV1ZSd2JZSGVTTUhiVl9PN0ZpQTNkUlU2bEkybFo4aVFNN0lydzdMQmZqbXZzRDd6SE8wakota1NsNEc4OXo1TmdzNGxJaDhVZTRUZ1o4Vm1XbWpOUGRDcWF5RjF4Wjh1dnR0TlMyU0RzU0dTdWR1Ujd4RWp3N2YwU29RbnNPWEdKZG5zT2xUamFMamVaNk5Z?oc=5",
+      "source": "Guia Folha",
+      "publishedAt": "2026-10-23T02:00:00.000Z",
+      "summary": "Novos filmes chegam para os últimos dias da 50ª Mostra de Cinema de São Paulo Guia Folha",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.81,
+      "relevance": 6
+    },
+    {
+      "title": "Cinema grátis via streaming: JFF Theater traz filmes de ‘Kamen Rider Agito’ e Hiroshi Tanahashi em português",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORlpySEtjNXpLaUhYRGVtdHZTUnJnZDdVZGVQdmdBSm03NFFSN0VTTEZZUFA4Nnh0Mk94RFpjTG01RGVvWlBDVWNPdmdxNTdxMlVEYXNQaURtblVzRG91dGotRjNBUVJlRENWOW9oZ2traUlMdDN2WWdGOGVpVHNIY3UyYzZqLVI5blYzNkZkUWJfakhRX25WTkUxc1AzY3JSMGVQWlpFQmwtSGlNMU4xRFZvMXBxTm1RNkx6emR4N3Nsel9NYzJKMXlqWGNidlRnd3RqX1NDbDY?oc=5",
+      "source": "JBox",
+      "publishedAt": "2026-10-22T21:55:41.000Z",
+      "summary": "Cinema grátis via streaming: JFF Theater traz filmes de ‘Kamen Rider Agito’ e Hiroshi Tanahashi em português JBox",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.8,
+      "relevance": 7
     },
     {
       "title": "10º Festival de Cinema Curta Caraguá segue até 29 de outubro com exibições de filmes e cerimônia de premiação",
@@ -92,47 +131,8 @@
       "topics": [
         "cinema"
       ],
-      "score": 7.13,
+      "score": 5.71,
       "relevance": 8
-    },
-    {
-      "title": "LemFi amplia serviços financeiros para brasileiros que vivem no exterior",
-      "link": "https://g1.globo.com/economia/especial-publicitario/lemfi/noticia/2026/10/22/lemfi-amplia-servicos-financeiros-para-brasileiros-que-vivem-no-exterior.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-10-22T18:30:11.000Z",
-      "summary": "A LemFi, plataforma financeira voltada a pessoas que vivem e constroem suas vidas em diferentes países, anunciou a maior expansão de produtos de sua história. A empresa apresentou uma nova identidade global, com o slogan “Ambition has no pa",
-      "image": "https://s2-g1.glbimg.com/yJw2ZwylpzAd5Yl50KSCmYi2HtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/q/q3qQQoQNmP5TtSorPgXQ/3.jpeg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.89,
-      "relevance": 7.6
-    },
-    {
-      "title": "Falta de governança trava o retorno da inteligência artificial nas empresas",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlZvbW1lX2J2OEZVaFVIcjBucUhHSFc4bWVHY184UUN1aWFBUF9ySjYza3pwR2U1YlY3WDhNREwxZlMtcXdEejRwUWl3TG4tbGZ6TjYwRGpOMERsTGVMQ1JNb3Z1U1ZRbWpVWUJkRzZKcnJQUjFUQ1VXSGVjVWx4RkQtS19MT0lSTkZOS0xqc0lKRjkxS1FORER1d1lOSGNEYXpIaTlqSkc?oc=5",
-      "source": "Confederação Nacional de Dirigentes Lojistas",
-      "publishedAt": "2026-10-22T19:09:23.000Z",
-      "summary": "Falta de governança trava o retorno da inteligência artificial nas empresas Confederação Nacional de Dirigentes Lojistas",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.88,
-      "relevance": 7.4
-    },
-    {
-      "title": "Alemanha prende ucraniano acusado de espionar dados militares da Otan para Rússia",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbmo2b0lhdHRJczB5cFJSU1VVckJxbjM2akNvWXUyZ2hDN19pUkVkT2QxaXFkLUNXUXVYNnliRUh1TnpVd1dQMVpJTkhGZFh6alY5RkJuVnlBakRUUnp3cXl2U19BZjVPSFV5bGJNQkJLaUhiYnRNS3lQTUpIclJmMFJ3S1BpZm5nMEFEcGxQS2FVLW9uYjBwdDZOdG84MFIyVm5IWEc2OS1IMEVQeF91Yzl4S292T3pEdUxxOUIyX0Y4Zlp0RHN0VDlZVEFqUdIB3AFBVV95cUxQSlAyWldhbHM4Wkg4RUFYQVBic2VsZ2Y1Y2F1a1lSdXFuQTc0OHZRQmY3ci15a3hMTG0xdzRwMUdEWWhBSWN4Q3haalVtbHZMa3lHakxucGw1VkNDdHNrSUFDU0h2ZmJqdDVJbjVONGZINWMxZy04WU1sMllGNW4wRUNUZm9MN3VLUXlOa2FlR2JKbHRfdzBJRWtBd0NSZ0xDY0g0UjhXZm50eVVsdHZOdmppSnZBMnl4Tl90VUVtVWFMNVJYX2NFYmFId2FYMnpaZ2dmWjNBd2lISEgx?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-10-22T11:36:39.000Z",
-      "summary": "Alemanha prende ucraniano acusado de espionar dados militares da Otan para Rússia G1",
-      "image": "https://s2-g1.glbimg.com/cWPqa0Q59Aj_2CbGpCLQfhEpD_o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/m/y22FaPQ0Ozhf2BATvEwQ/2026-10-22t084705z-937191288-rc278oad5odd-rtrmadp-3-montenegro-summit.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 6.81,
-      "relevance": 9.8
     }
   ],
   "items": [
@@ -146,7 +146,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 8.84,
+      "score": 7.08,
       "relevance": 9
     },
     {
@@ -159,8 +159,21 @@
       "topics": [
         "negocios"
       ],
-      "score": 7.87,
+      "score": 6.31,
       "relevance": 8
+    },
+    {
+      "title": "Falta de governança trava o retorno da inteligência artificial nas empresas - Varejo S.A",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlZvbW1lX2J2OEZVaFVIcjBucUhHSFc4bWVHY184UUN1aWFBUF9ySjYza3pwR2U1YlY3WDhNREwxZlMtcXdEejRwUWl3TG4tbGZ6TjYwRGpOMERsTGVMQ1JNb3Z1U1ZRbWpVWUJkRzZKcnJQUjFUQ1VXSGVjVWx4RkQtS19MT0lSTkZOS0xqc0lKRjkxS1FORER1d1lOSGNEYXpIaTlqSkc?oc=5",
+      "source": "Confederação Nacional de Dirigentes Lojistas",
+      "publishedAt": "2026-10-22T19:09:23.000Z",
+      "summary": "Falta de governança trava o retorno da inteligência artificial nas empresas - Varejo S.A Confederação Nacional de Dirigentes Lojistas",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.25,
+      "relevance": 8.4
     },
     {
       "title": "Dólar sobe perto de R$ 5,04 e Ibovespa cai com petróleo e Datafolha no radar",
@@ -173,21 +186,47 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 7.8,
+      "score": 6.25,
       "relevance": 10.2
     },
     {
-      "title": "A força dos termoplásticos na indústria de Manaus",
-      "link": "https://g1.globo.com/am/amazonas/amazonia-negocios/noticia/2026/10/22/a-forca-dos-termoplasticos-na-industria-de-manaus.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-22T20:22:53.000Z",
-      "summary": "A força dos termoplásticos na indústria de Manaus Foto: Divulgação/Suframa Quando se fala no Polo Industrial de Manaus (PIM), motocicletas, celulares e televisores costumam ocupar o centro da conversa. Mas um segmento menos visível para o c",
-      "image": "https://s2-g1.glbimg.com/pOHvE_VwlXIIDbzh6H3RE51yBfc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/a/HR4czbRIaRyWilDRMiuw/pim.jpg",
+      "title": "Eleição de Flávio seria um risco econômico a curto e longo prazo, diz Nobel de Economia",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkpkamJyT1B2d0tLbXZHVkhnV1FXTWxfTk5wNnk4b2doOWtmWVh2RnpWSGs5WF9CMG1ZS1ptM0hBQ3U2SGZQcHZLVDh3Mmo4MDdKaTVWOEZiWnBiTk83anVXX19vRDJnVk5pWkJEaDZ2c3lWUmlqWmhEMEFPT210RHM4S25sTW9CTm1CQ3JSVUEtVGVCTl9GNXJmMDd2cXdhOG5JZ0dfQV9jdEZZM28wNXVZazZ2TUR6S2d5UThVTkJZeEh2Q3hwa21uZ1k1bVJ4cFBPZg?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-10-23T02:00:00.000Z",
+      "summary": "Eleição de Flávio seria um risco econômico a curto e longo prazo, diz Nobel de Economia Folha de S.Paulo",
+      "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 7.41,
-      "relevance": 7.6
+      "score": 5.81,
+      "relevance": 6
+    },
+    {
+      "title": "Novos filmes chegam para os últimos dias da 50ª Mostra de Cinema de São Paulo",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzRUYnZpdTVRM01UcW1FTUR3YWtqTkUtVUpLZUo2bG1qNDJVc0FpWUZDcXRtT2VGV1ZSd2JZSGVTTUhiVl9PN0ZpQTNkUlU2bEkybFo4aVFNN0lydzdMQmZqbXZzRDd6SE8wakota1NsNEc4OXo1TmdzNGxJaDhVZTRUZ1o4Vm1XbWpOUGRDcWF5RjF4Wjh1dnR0TlMyU0RzU0dTdWR1Ujd4RWp3N2YwU29RbnNPWEdKZG5zT2xUamFMamVaNk5Z?oc=5",
+      "source": "Guia Folha",
+      "publishedAt": "2026-10-23T02:00:00.000Z",
+      "summary": "Novos filmes chegam para os últimos dias da 50ª Mostra de Cinema de São Paulo Guia Folha",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.81,
+      "relevance": 6
+    },
+    {
+      "title": "Cinema grátis via streaming: JFF Theater traz filmes de ‘Kamen Rider Agito’ e Hiroshi Tanahashi em português",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORlpySEtjNXpLaUhYRGVtdHZTUnJnZDdVZGVQdmdBSm03NFFSN0VTTEZZUFA4Nnh0Mk94RFpjTG01RGVvWlBDVWNPdmdxNTdxMlVEYXNQaURtblVzRG91dGotRjNBUVJlRENWOW9oZ2traUlMdDN2WWdGOGVpVHNIY3UyYzZqLVI5blYzNkZkUWJfakhRX25WTkUxc1AzY3JSMGVQWlpFQmwtSGlNMU4xRFZvMXBxTm1RNkx6emR4N3Nsel9NYzJKMXlqWGNidlRnd3RqX1NDbDY?oc=5",
+      "source": "JBox",
+      "publishedAt": "2026-10-22T21:55:41.000Z",
+      "summary": "Cinema grátis via streaming: JFF Theater traz filmes de ‘Kamen Rider Agito’ e Hiroshi Tanahashi em português JBox",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.8,
+      "relevance": 7
     },
     {
       "title": "10º Festival de Cinema Curta Caraguá segue até 29 de outubro com exibições de filmes e cerimônia de premiação",
@@ -199,7 +238,20 @@
       "topics": [
         "cinema"
       ],
-      "score": 7.13,
+      "score": 5.71,
+      "relevance": 8
+    },
+    {
+      "title": "2º Simpósio Sala de Ações com foco em Inteligência Artificial no Mercado Financeiro acontecerá em 13 de novembro",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNb21Ed0xFNktxdVdoSHpyOVRsWXI5b3ZUZmw3NVBIdEdjRlBxWG5OMGNkLW12bmFJcGprR2hCeHd2akx0MnZ0UlhlN0hrU1I1RGxiTXNRMFU2VUVyV0lqM3I4X1ZiR0JYeGNWTHlsYXF1UDYzRlRLUGdhUWREWTBPcG1XX2ROM1J1UlA3czhYLVFoUFk3QTlZR3NqRWR2OHptcGlBWlZqVG05VnZUcVdLb3FBVU9fbk8ydThfMzgwNjhPWnhzSVoxVllIM053VVBZenJybVoxQTdOWGdlVENzVTh3NXNvT256Nlg1Y0xSR3dhNmhVMDUyZjREbUttMDVlZEllWFZ6UDZrMmpqNEZwZmpuQ0d6SktCSmJSY0FQNC1oSnM?oc=5",
+      "source": "UFPI",
+      "publishedAt": "2026-10-22T17:33:00.000Z",
+      "summary": "2º Simpósio Sala de Ações com foco em Inteligência Artificial no Mercado Financeiro acontecerá em 13 de novembro UFPI",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.6,
       "relevance": 8
     },
     {
@@ -212,21 +264,8 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.89,
+      "score": 5.52,
       "relevance": 7.6
-    },
-    {
-      "title": "Falta de governança trava o retorno da inteligência artificial nas empresas",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlZvbW1lX2J2OEZVaFVIcjBucUhHSFc4bWVHY184UUN1aWFBUF9ySjYza3pwR2U1YlY3WDhNREwxZlMtcXdEejRwUWl3TG4tbGZ6TjYwRGpOMERsTGVMQ1JNb3Z1U1ZRbWpVWUJkRzZKcnJQUjFUQ1VXSGVjVWx4RkQtS19MT0lSTkZOS0xqc0lKRjkxS1FORER1d1lOSGNEYXpIaTlqSkc?oc=5",
-      "source": "Confederação Nacional de Dirigentes Lojistas",
-      "publishedAt": "2026-10-22T19:09:23.000Z",
-      "summary": "Falta de governança trava o retorno da inteligência artificial nas empresas Confederação Nacional de Dirigentes Lojistas",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.88,
-      "relevance": 7.4
     },
     {
       "title": "Alemanha prende ucraniano acusado de espionar dados militares da Otan para Rússia",
@@ -238,22 +277,48 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 6.81,
+      "score": 5.46,
       "relevance": 9.8
     },
     {
-      "title": "Arrecadação federal sobe 5,62% em setembro e bate recorde",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOHB5TXpISXVJMjV0eWNmblRwdFh3d0xQRlRlaXVuU1pCLS12T0h5cHpnRG9hemZkV1BPenNRaU5jNFZaalZVdTFBc1BsTlc2VHFwa0xnSXdYLVZzOU1uU3lSejFrYlVwZFYwY0ZhOW5iN25vcEd6ZXpaX2g3VWRUaUZKcDkyc0o0eUR4ZkZiSkNHNEFvTmdRdkVGZnJPd1B3YTFtU2lVWXdja00?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-10-22T15:33:00.000Z",
-      "summary": "Arrecadação federal sobe 5,62% em setembro e bate recorde Folha de S.Paulo",
-      "image": "https://s2-g1.glbimg.com/T3yx-Lvy32kEGwk0o5Ubdq3HHmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/r/BeEnLXREWel7ACxfP5Mg/whatsapp-image-2026-08-19-at-16.41.36.jpeg",
+      "title": "A BOLSA AINDA PODE EXPLODIR? MORGAN STANLEY ENXERGA POTENCIAL DE ALTA DE ATÉ 99% EM AÇÕES",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWDh2Y2N0TWRCblNOQmEyVFVXangwbFdDR2JfZWlwSGlvUUZxSmRxQjl0QnA1bHBJNUZSVGVRaU1naHE2OThzSEVzY0x6cDctcFZkTWNQT01iVXpoNHZfLWpvQmhVbXEzQXdBRkwxdVNNRXJxWjJWd1VmQW1UTnpGdl9VWlY1a3ZKMjhocFZFY3RpRmF3eVU2OTRFRjRNTE9QbmRLRkdfN0NYMHVra0dKWU96RQ?oc=5",
+      "source": "O Petróleo",
+      "publishedAt": "2026-10-22T23:35:41.000Z",
+      "summary": "A BOLSA AINDA PODE EXPLODIR? MORGAN STANLEY ENXERGA POTENCIAL DE ALTA DE ATÉ 99% EM AÇÕES O Petróleo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.3,
+      "relevance": 6
+    },
+    {
+      "title": "Alan Rick (Republicanos) promete concurso para educação em 2027 e mais delegacias de proteção à mulher no Acre",
+      "link": "https://g1.globo.com/ac/acre/eleicoes/2026/noticia/2026/10/22/sabatina-alan-rick-na-rede-amazonica-acre.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-23T02:09:38.000Z",
+      "summary": "O candidato ao governo do Acre Alan Rick (Republicanos) foi entrevistado pela Rede Amazônica Acre, nesta quinta-feira (22). A sabatina foi transmitida ao vivo pela emissora e pelo g1, com apresentação do jornalista Fabiano Villela da TV Glo",
+      "image": "https://s2-g1.glbimg.com/X2m5qt6owij9oXtAth_3oj498Lg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/S/YaBRHEQ6K9HAk7btcOqw/midia-de-distribuicao-g1-27-.jpg",
       "topics": [
         "negocios",
-        "geopolitica"
+        "medicina"
       ],
-      "score": 6.47,
-      "relevance": 8
+      "score": 5.26,
+      "relevance": 5.4
+    },
+    {
+      "title": "Crescimento dos atacarejos em Minas Gerais impulsiona a economia e agrada consumidores",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWlF4VGdCTWk4eGJLZVdBMzdhZHYzenZmQ1Z3RUJOLXRNbG11RWxzZUxVaGs2ZzJUang2blZyUXRGenpUOGpfN1FLS3JkMS15a3FuZjdHNWdJZ29QbU1EeTV3bXh6RUlnaFVsdG4wYm5NNnVaVFBxV2JnQkV1cVNGUzVkZnZCYTlpQ0RGUTdSaHl0RzBLdXF5SS1wWVozV2NZMnJteVlDU2Z5Q3ZhdUNaWGdKZzhlbVFCREVXWERhUEx2YVcwRWZUNHFLZ0lrOVZjVjlOdFdGbWtsR19TNDJ3NzBvYw?oc=5",
+      "source": "R7",
+      "publishedAt": "2026-10-22T23:08:19.000Z",
+      "summary": "Crescimento dos atacarejos em Minas Gerais impulsiona a economia e agrada consumidores R7",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.21,
+      "relevance": 6
     },
     {
       "title": "CLT, aposentado, estudante ou MEI? Veja as propostas de Lula e Flávio para o seu bolso",
@@ -266,8 +331,34 @@
         "negocios",
         "medicina"
       ],
-      "score": 6.41,
+      "score": 5.14,
       "relevance": 10.6
+    },
+    {
+      "title": "Ganho de até 50% em dólares: as ações que florescem na primavera da bolsa brasileira",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOEh2RERhazhXMTVHYlVON3U3Vl9FTy0yVVd5WXdzOGRYRFk5ck4zNFpacmRkcXluaXc5NnhqUDlIQVZjOHUyeVdQcUxpb1FTQUhwWHNyUERfT3dvZTZvcVN2V3NzVzFqMkhNdmoyYnZrSVBMbTZFZFA5b3RzeHlQem1YX2piN1pFazlEYzJtaXFISVU0a2hRZ3FZWnRmdWxPdW9ZZVlqRHE4aEoxWEtTc1J5VnlPT2lwckJhTlZvaEFBa3QzbUZQdGtrdGh6UQ?oc=5",
+      "source": "Seu Dinheiro",
+      "publishedAt": "2026-10-22T22:45:00.000Z",
+      "summary": "Ganho de até 50% em dólares: as ações que florescem na primavera da bolsa brasileira Seu Dinheiro",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.13,
+      "relevance": 6
+    },
+    {
+      "title": "Economia fica estável em agosto e indústria recua 1,5% em SC",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS3BrUUM1UlVWMTNXakNYUWxsZlJYQUFsRmx1REM5NFlxOC1HaDhFLUFpYlYxZ3BwN21mTXRzZTFKYjY2Y21mUTVNWnpObHNnVW9oa1oyNnlnUW13TUExYXQxUGZiUWt1Rlg1QUF5VXFYcFNGaEJvdEs2Z2RyeGNLWnB3Ym1kVnllZ0FpRk9PREs4WkVVclE1QzN5dl9YM1RvQ0ZKenNGZ2V0UDJoOVdCU1lDeGxXakRzTnprVElDSQ?oc=5",
+      "source": "Diário do Iguaçu",
+      "publishedAt": "2026-10-22T22:38:00.000Z",
+      "summary": "Economia fica estável em agosto e indústria recua 1,5% em SC Diário do Iguaçu",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.11,
+      "relevance": 6
     },
     {
       "title": "Zelensky denuncia uso de munição fragmentada em ataque da Rússia contra Kiev",
@@ -279,7 +370,7 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 6.38,
+      "score": 5.11,
       "relevance": 8.8
     },
     {
@@ -292,34 +383,87 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.37,
+      "score": 5.1,
+      "relevance": 6.4
+    },
+    {
+      "title": "Ministério da Saúde inicia oferta de novos medicamentos oncológicos",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBybGdRcUZWb2J3T2htMloxTlVQR3dQZWVJUkZPUVBBU28zWXQwQWpxdlRHRkM5YU1zc2V0eGc5MEpDRG9VS1RTdGFpM3lKcllMWnpCeGktVUpyR0tMWTJQdFNMV0VqOG0x?oc=5",
+      "source": "Medicina S/A",
+      "publishedAt": "2026-10-22T20:55:59.000Z",
+      "summary": "Ministério da Saúde inicia oferta de novos medicamentos oncológicos Medicina S/A",
+      "image": null,
+      "topics": [
+        "medicina"
+      ],
+      "score": 5.1,
       "relevance": 6.4
     },
     {
       "title": "Falta de padronização limita resultados da inteligência artificial nas empresas",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHhYcWkxVWhCSWYtY05yMzY4MjJQYjh6SFY0SmE2bWZtZVROOTBiSHNnZFIzYndSZ3VnbEFjaTVlYktpMjRxdGFhOTRPdjd0b3NjVUFjNEFOeEhDRWFiSFo2WWttTktpR0hKaUtLSVJWWnNEMUhRbllxbEZ4aUE0RUZxOGZSZldLdHBoVE1Db2c5ZUhNRVZPdFNOXzhCVzdISzMwWldqRFUwY0dSXzZySzdWSQ?oc=5",
       "source": "SITEPD",
-      "publishedAt": "2026-10-22T18:34:10.000Z",
+      "publishedAt": "2026-10-22T18:33:23.000Z",
       "summary": "Falta de padronização limita resultados da inteligência artificial nas empresas SITEPD",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.36,
+      "score": 5.09,
       "relevance": 7
+    },
+    {
+      "title": "Cinemateca Capitólio celebra centenário de Mel Brooks e recebe estreia da animação brasileira 'Papaya'",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYm11M2RXaFV6S1dhODBvVDhvVHF0Zk04NnladlJ0NTI3OENMMlpTNlQzand6UDM5YWxqd1ZlX2VXc3p5SWdiSDVIcXpBQTJETm8tLU1Zc0oySHFUM1g4SklDV2VPcmFSZlZIMDh3TkJaeUZMSzNLakxPMXZSajZEMXVzOVZmdU1YOHRfaUVicFp5eEJtQ05RZnFSRW1tM2U2X2xVaXhxRHU5OG10Q1BaaUlTbHVZVFlWaS15T2xZM28xRGtITk5kZ05YYTNvUXNJbGZodzM3eVM3VnEyMllVZQ?oc=5",
+      "source": "Sul 21",
+      "publishedAt": "2026-10-22T22:23:00.000Z",
+      "summary": "Cinemateca Capitólio celebra centenário de Mel Brooks e recebe estreia da animação brasileira 'Papaya' Sul 21",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.06,
+      "relevance": 6
+    },
+    {
+      "title": "Montagem do Natal do Bem gera empregos e movimenta economia em Goiânia",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVFpTcjhGZmw0MjNvdjRWdzhhWV93ZmN0YjBTUnQwdU5lenhhM0hjSmhocVNxTWh4QXNBRkY0MENNcXk5LWZjeExJU3dPM0dmS1JJMzUtVW5jVjJ6N1ZRTmU3anI5WkpON0RtMXVwYXg5a2p3SllZN29GZUFYVS1mS3VwWEpHZUwzLUZoTkpBUEpnREEtc2oyTDFMYmZrNkk?oc=5",
+      "source": "Expresso 360 |",
+      "publishedAt": "2026-10-22T22:14:00.000Z",
+      "summary": "Montagem do Natal do Bem gera empregos e movimenta economia em Goiânia Expresso 360 |",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.03,
+      "relevance": 6
     },
     {
       "title": "Andrew Scott, o roteirista e o diretor de \"Elsinore\" receberão o prêmio Tributo Legacy no Gotham Awards 2026! - Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQm01NFotR2IyczRoMDUwOTctTGMzemZ2eW5TUlE0ZVZPa1J0MXdEM3dGV0otY1FObnhtd3VvUE5aS2lBRGVoaS03SXQyTU1PYUcwQjlRdDl3QU9JdG95Mk44el9uZ2lDQ2FVVTZwWnZFVWZoSEtvSkxxb0lzNFNCS3JqSkgzLW81TUhDcW5FdGxEMV9xNnBiSXQwb0w2MGpsRUV2UEpya0ZtbURWV1dVWXNiYWpGeDNRMV9sU0h4LXltV2NPNzU1NWkwMWo3dXlDcVdQNXA0akwtUHZTOHpqNUNrZ0NGQW96VUdMaHJXT2JEc04tMmxZU1pRbnY?oc=5",
       "source": "Candidatos, Indicados e Vencedores",
-      "publishedAt": "2026-10-22T18:14:17.000Z",
+      "publishedAt": "2026-10-22T18:14:33.000Z",
       "summary": "Andrew Scott, o roteirista e o diretor de \"Elsinore\" receberão o prêmio Tributo Legacy no Gotham Awards 2026! Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022 - Candidatos, Indicados e Vencedores",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 6.28,
+      "score": 5.03,
       "relevance": 7
+    },
+    {
+      "title": "Arrecadação federal cresce 5,62% em setembro e soma R$ 239,4 bilhões",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRXJNWXY3SXhwWkIwMmFlYVVmZENySDE5RFlTMWlUVTU3VEJJdDc2X2xxV1g5UDc2SUw2SVAydnhXN0xJak1SUWNNZnczaTYyV3RRWThnbjZ6OWNkSHpHaXpkbTdmMzc2a2UyNjQ1QmFzT2dVaUcwWDljODF4UG5CajNJYkx5WFpjUnM3eUpqRGkwQkgwVlhqOFNod0dsSHRuNnBmckI0RC10d054cmQ2dldUSk9CUmEtSkVRN1pONA?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-10-22T14:45:00.000Z",
+      "summary": "Arrecadação federal cresce 5,62% em setembro e soma R$ 239,4 bilhões Agência Brasil",
+      "image": "https://s2-g1.glbimg.com/T3yx-Lvy32kEGwk0o5Ubdq3HHmA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/r/BeEnLXREWel7ACxfP5Mg/whatsapp-image-2026-08-19-at-16.41.36.jpeg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 5.03,
+      "relevance": 8
     },
     {
       "title": "Como investir em inteligência artificial nas empresas?",
@@ -331,7 +475,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.27,
+      "score": 5.02,
       "relevance": 7
     },
     {
@@ -344,7 +488,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.27,
+      "score": 5.02,
       "relevance": 7
     },
     {
@@ -358,21 +502,125 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 6.26,
+      "score": 5.01,
       "relevance": 8
     },
     {
-      "title": "Ministério da Saúde inicia oferta de novos medicamentos oncológicos",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBybGdRcUZWb2J3T2htMloxTlVQR3dQZWVJUkZPUVBBU28zWXQwQWpxdlRHRkM5YU1zc2V0eGc5MEpDRG9VS1RTdGFpM3lKcllMWnpCeGktVUpyR0tMWTJQdFNMV0VqOG0x?oc=5",
-      "source": "Medicina S/A",
-      "publishedAt": "2026-10-22T19:32:54.000Z",
-      "summary": "Ministério da Saúde inicia oferta de novos medicamentos oncológicos Medicina S/A",
+      "title": "Acadêmicos de Medicina da Metropolitana apresentam três pesquisas no 2º Congresso de Neurologia e Neurocirurgia da Região Norte",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNYjV1LVBVX1haNTJVR29yYnVaaTlQdVRQQU9lV3d0bjR3TmJNbUpQS2xBazZ5MTdGV3RVSldnYkFCUi1STllxNnBjbjM1SDlfZ2pudmE3YUlsR2VkYjFzR2VrY2xkTDB6MV91cmhUYlF5TjZNN29lOXJQS3RRdUZrRlM4bWpOZ3pWUGZFV2R1SVVFTFZEY3NVTGFDTWtuZXVUam5JQTVuTXFHSUx2ME5DNFNkRXBGTHUyVUlRUkZPS2pjQlNPZU9oaG1Nb0Z0Y2lTd1U5UnluMDJPS2JuT09zOWJIRGREMEo0S19JOVlZYjRXOWltNXUxemE1Q3A5d3VZWk05M21IcHRlNzZNTVlPeDdwMUhlUmt6b3o0bml4QXFqNkZxWFp5TEJBb0twcDA?oc=5",
+      "source": "Eu Ideal",
+      "publishedAt": "2026-10-22T22:06:00.000Z",
+      "summary": "Acadêmicos de Medicina da Metropolitana apresentam três pesquisas no 2º Congresso de Neurologia e Neurocirurgia da Região Norte Eu Ideal",
       "image": null,
       "topics": [
         "medicina"
       ],
-      "score": 6.04,
-      "relevance": 6.4
+      "score": 5,
+      "relevance": 6
+    },
+    {
+      "title": "Cinema Especial hoje: confira o filme que a Globo exibe nesta quinta-feira (22/10)",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UMHc5UF83dlc1UXExLXFNV2hpYkllMWtpbHp5X01vdUdkQTlzWDc1anpRaFBOeUVYQ29OVmczcy1IMWZWdlpKN1IyYWRYQ054aTI3ODFQOUd5T1FvRVZkTkE3NklPTFdmTjVfYzR0cURLMkZKa05sR04tVVY?oc=5",
+      "source": "Séries em Cena",
+      "publishedAt": "2026-10-23T00:45:00.000Z",
+      "summary": "Cinema Especial hoje: confira o filme que a Globo exibe nesta quinta-feira (22/10) Séries em Cena",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.99,
+      "relevance": 5.4
+    },
+    {
+      "title": "Economia da Argentina recua pelo segundo mês seguido e aumenta temor de recessão",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmUxYXFhOVktQzBzRlpUWmlGa1pqYlo3akIyenJweUg5YThUaWZyTk1jSjV5T04yUDNEakVhNzAyODQ0aXNicjhqVy1lV0tnUHlxN3RtalJ4ODExSHZERkRuU2UxN3NrU2l2eDVRakc2UmNRNXRMQ2cybjFEbV9EOEpGXzhveDVlMVpLOGZsTlJFOFNVd2ZkcE8tNFdadDBUNHB0M1NDWE9VT2VEMFFxUEZKb3czdjBRU0E?oc=5",
+      "source": "Portal Viu",
+      "publishedAt": "2026-10-22T21:59:04.000Z",
+      "summary": "Economia da Argentina recua pelo segundo mês seguido e aumenta temor de recessão Portal Viu",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.98,
+      "relevance": 6
+    },
+    {
+      "title": "A Terra do Meu Pai ganha cena inédita antes da estreia nos cinemas brasileiros em 29 de outubro",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbmYwREx3QzVQcW82TkpUZlhNNWcyMEhxYm1RU3ZsZmhvdlVuWWFmN1c5b3dIXzc5SlJHOEVqbmhYbnhYMFRVcVlLSVU2M2FkVW1vaHkyMExiVVV6SjhqZzh2VVdRRE9JXy15Z0VGZHpCWHVpcjhBNXZBcHpmZUI5QVJGSzhyaTA?oc=5",
+      "source": "O Universo da TV",
+      "publishedAt": "2026-10-23T02:29:00.000Z",
+      "summary": "A Terra do Meu Pai ganha cena inédita antes da estreia nos cinemas brasileiros em 29 de outubro O Universo da TV",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.94,
+      "relevance": 5
+    },
+    {
+      "title": "Afinal, quem falhou no caso Banco Master? Ex-presidente da CVM aponta para o Banco Central",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUVRvN2RBNGd2OWVzb2taY3c2cEhUZDNFZUlXcmc5S3k1X1VnSEdsVDdHYU5GcXRQWEVoOHJFaFVBVlUwVjc2a1FGRXFPckFNOXVHMjdrN1pEYXY4LWc0RzB0Q29BN0lMZjJHZ3hBV1ljeURBSzlBYjJtLXNHV0d3TnBxUGZVNnRWbm4zU3hNSkN4UHR6U3M5N2FNXzlEdmpCOWstVV9hMHBLd1dvTlUzcDQyem9PeTB1QWl6ZVZCZmxpdW55SEdfYlptSFF1WWp3MFE?oc=5",
+      "source": "Seu Dinheiro",
+      "publishedAt": "2026-10-22T21:45:00.000Z",
+      "summary": "Afinal, quem falhou no caso Banco Master? Ex-presidente da CVM aponta para o Banco Central Seu Dinheiro",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.94,
+      "relevance": 6
+    },
+    {
+      "title": "Prefeitura de Tubarão sanciona lei que prevê economia de R$ 1,2 milhão por ano com reestruturação administrativa",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNaUIzT1ZzRHVURUd0UXNHeWplXzIyYk5mS2thcHlya1lVM3RqUl9ILU1mMnp0dTRCdFNwSzVpUUZocG56Rk9KYVF2YUtTVFpUZXpTZXB4dWZwWDNpXy1QS2FsT3FOZ2dERGtmelhFQ3ZLdjFXOTBpZnJfU0hwbXdBQXlURWJ6eExKUGdQdmVndnZRWGhfUFFkWFkwcU1jWFNtNzg4ZENWTjBSNlp3WWVUSVZ4dlFnSDNGcVRUYWFZNXB0V25kdUJ5blhHZG5rekNGTzMxVlFIM184ekN3VkVRNDd0d0I?oc=5",
+      "source": "HC Notícias",
+      "publishedAt": "2026-10-23T02:09:48.000Z",
+      "summary": "Prefeitura de Tubarão sanciona lei que prevê economia de R$ 1,2 milhão por ano com reestruturação administrativa HC Notícias",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.88,
+      "relevance": 5
+    },
+    {
+      "title": "Tesouraço de Flávio Bolsonaro pode acabar com 2,2 milhões de empregos e ter efeito inverso na economia, afirma Dieese",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQMjlyVGNsN2VqbUNzNEFIbjFmRTA2YVgtY2V6Y2ZPODNZeXNUeWZQYV9HLTFSaU1qUVZwNGRzeW5XdDE2b1pzQ2Z0TUFvak1OdGtUQ3lHemdYUFRhMTd1ZWlocFlzNndUR3Z1WWpTRThmWjlseThzYUtIWFhpNDZxQjNReEQwMVQ0MVVUcnFUd3hoYTJpbHV2WUlrUjFmT0F0T2l1dDY4RnlWRWs2LUpIcVRlZjlNODUtWUNHZFpScE1hajRNMGoxaXYtOVZQbW8wbkFUU2tUaGxOTl8zM1Zpa0IxYWZ6ZTE4RzdERi0xRVY0Y1VzSDlwYVoycEF4TlHSAY4CQVVfeXFMT1hmRWc2ZG1SS0gtZ2I1U3RnVzdnNHppdXJNUUYzODVIZF9GZG1sR2JPM2ZZZ0MxRTVkOEM3VmsybXkyTk5nZ0ZBbVZKX3hFTktEOVZ4b1lYZDVtOWlaVlM0YlFYRkRTVnE4ZzdHc1RhSzJIbUtxZXZqNzdBbXhhZlJMcWJUSjJPdTdUaHY0eG9aeW5yX2hoclZaM2tVV3dMTXJRcTktR2hiQ3czSWJ6YlZNZFpSVVBpX196ejlQc2FPeHhCdlA3Q0hXWkc1dmZLLWk5Si1RZnYzdTk1TWJPR0tBSG84RU43aXZyYmo3alBLSzJqaWZjSmpXMnQ5TGY4Sm1RR3NBX1lrbkx0VDVR?oc=5",
+      "source": "Extra online",
+      "publishedAt": "2026-10-22T21:15:14.000Z",
+      "summary": "Tesouraço de Flávio Bolsonaro pode acabar com 2,2 milhões de empregos e ter efeito inverso na economia, afirma Dieese Extra online",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.84,
+      "relevance": 6
+    },
+    {
+      "title": "Halloween: rede de cinema divulga filmes de terror a R$12",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWElCUWNMOVctbTdDb0pVZHZiSFZwMXJZSW1uS2hEWEFiYllpd1RMSHd6MU56TnNsQndwS25vN2xsbG93Y0pTcm02UlB2NnJ0OGcwX2M0S0tEV0Zwci1iMGtnbDEzQWlzdzJ6RGVKYzBzdmx3ZjBUVHBMaTc3MS1XY215by1nSW9uM0xNUG52VS0xNU8zQzJGSEc3Tk8?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-10-22T21:13:32.000Z",
+      "summary": "Halloween: rede de cinema divulga filmes de terror a R$12 CNN Brasil",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.84,
+      "relevance": 6
+    },
+    {
+      "title": "Salas comerciais que viram moradias devem aquecer economia do Centro Histórico",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOanczWG5QTUVGUFl5Vl94d05JZHpOV0NqX2staVl6NlhpWlFPeGdNWnpMQXpQZmUzdl83UE5ma0dDVE9VUmtfVWZlY25halpMakFRb1B5OFFGYjJEVk4xY0g4Sk0yMG1EOGcxSmFiUGhDSU5NYm82NldTc3VYOVIxdERXcjZ1LTJpaHE3RC1FeWNWTU9lMkpIT1dieVplR3NaQXhzaEdlel85MUR2RG5sZDA1TXVjcVR3b2VWR1JqT1FsaEtxRFNibHJmWFRMWk8xMGVRdGpWdGM?oc=5",
+      "source": "Jornal do Comércio",
+      "publishedAt": "2026-10-22T23:54:35.000Z",
+      "summary": "Salas comerciais que viram moradias devem aquecer economia do Centro Histórico Jornal do Comércio",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.83,
+      "relevance": 5.4
     },
     {
       "title": "Mostra gratuita de cinema exibe filmes do Oscar em SBC",
@@ -384,8 +632,21 @@
       "topics": [
         "cinema"
       ],
-      "score": 6,
+      "score": 4.81,
       "relevance": 7
+    },
+    {
+      "title": "Maior festival de cinema do interior de São Paulo, CineFest Votorantim libera programação completa e aberta ao público",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUWwzdmJtQWNpMXdZbmFZQlVrbmE2cnBmdDhlMXMwUy1vWFRIMGFudGxzcmJqQUFxRHdXYmJpcXRTN3g0MzZBRVl3WWtwVmNYSWVCaXVuSGtXVzlKVWhlZlRfdU0wNURRd3ZmZk9hdnJaZjNPcVBNRktjeEZvd0RqU3IzWW8tWUw0ZEhqd0dzTFduWEFxRXZsVEdBV0Y4ZnRuNkp1LWFfaV9rNFE5SENyUERBYU5KcjFLeHhnUnlSWEFCb1BXVU5SN1FnUDdQQVRiQ2t2Y2xQZXdBT1JURWl6eXRia25lcUVmdklYanhWMUl4cURrcFZ5OA?oc=5",
+      "source": "Agenda Sorocaba",
+      "publishedAt": "2026-10-22T20:59:28.000Z",
+      "summary": "Maior festival de cinema do interior de São Paulo, CineFest Votorantim libera programação completa e aberta ao público Agenda Sorocaba",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.79,
+      "relevance": 6
     },
     {
       "title": "Ibovespa cai na abertura e dólar sobe a R$ 5,04; bolsas globais recuam com temor sobre IA",
@@ -397,268 +658,8 @@
       "topics": [
         "negocios"
       ],
-      "score": 5.93,
+      "score": 4.75,
       "relevance": 7.8
-    },
-    {
-      "title": "90% das empresas de tecnologia vendidas no Brasil não tiveram grandes captações, aponta estudo",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWkotNWxoVDJPeVd5bVcyWWwyQWw5YW1xbTZ2SURSNDBMY2R0SEVxZ2J3Rk1YS0V2YnVrQ3o3QUE0azNJNEtEdlF1ZV9saVJ5VDZ3OG5aMXV4WldCVjM0NHFwNGtNajFHeHFlSEJTcF8zLXhfY2JMZkd6cEhfOEo4b1F3VExINDg1T0tRVEoteENxMkhsOFpOd1lxSk9OM1NsN2Jtc0JzYjIzeHVrNGx3MUNCeDdwR2NuRmZ6N1lOMEl5ZlY4TkVHekp1Y24?oc=5",
-      "source": "Revista Capital Econômico",
-      "publishedAt": "2026-10-22T15:02:04.000Z",
-      "summary": "90% das empresas de tecnologia vendidas no Brasil não tiveram grandes captações, aponta estudo Revista Capital Econômico",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.87,
-      "relevance": 7.4
-    },
-    {
-      "title": "\"Personificação do cérebro da empresa\": conheça a inteligência artificial que faz parte da administração",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNZGJtbUtSYVVvMG81MG5DVHU2V2ZrWEs1dHdHZmIxSFhpOHFVWWU1cFpCSld5SlVQNmtTVkpGVXhQc2F3SmNGRFdOTkI4dWlNdVFrLWpPU1BwbHhtaDhGOG9wQlJUQ1Y0RlBDd2lVcW9WVDUyUHBlOGp1c2JtZ0RZeFFRNVE5TFoyRjRXa0I2dDUzX2RhVUJmaXZsUW9FWWVQemhyYzNfSVN1QmRxUW0wQ1AtUWZ5b3JlNDBnNkFVY0puRlE0eDBMMk9mNmRCYV9VZUx1aTFFNGRsRlR5MHl4U05aZWZhVGY2Q0lpTi1EVXlFQnRGdng4RExRa0x5S3dxa1ZMYmlRdTdTVW8yb092VTFlTzRuLW5NcWVB?oc=5",
-      "source": "GZH",
-      "publishedAt": "2026-10-22T16:20:16.000Z",
-      "summary": "\"Personificação do cérebro da empresa\": conheça a inteligência artificial que faz parte da administração GZH",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.84,
-      "relevance": 7
-    },
-    {
-      "title": "Cinema ganha seis estreias na região de São Carlos; veja os filmes em cartaz",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbXAzYUE5RV95N01CNk8yczNUSU9GeVpVN2dRaUNVcUhnTUtBRko2MVJ2Ym50OHBIVl81OGZmc0pqUGJVXzZieVByaW5Xa2tjZldLWHFiSGw1dmtqYUFpWEN0YlNHZ1F1U2REYmtjbHlLbEVGdjNuSTRQOHZ0UkFEWnZmeFdSX2hvNkx6YlhKSEgtcS04VjBRc2xDRGZCVXdqRExfVjBOOHNFM211MG52WW13SXFTWVdmdnRqMUhRbmg5bUotRjR0SFBEUC1yakNXQkpKU2pqNEVzRUU0NHdhTUVzQloxWVY4VG1HY3JHMi1iNm1GaHBqV0IxZ2M0d9IBjAJBVV95cUxNT09aYXhlX0NJT3RWeG9UWnlSMTd3eU83NzBxTE8zdC1vV3F1YWF4Z2tWMEpJRXBUdF9NaTFGanVpSVA2eEhkbUNWQXJJN0gtSlp6clJ1R1hXM0o2ZXRhN1NwUDR3SGVBMmtRN1c3aWh4MDNybFg5T3A1YVJKTnU4am9fLWYzOWphVDdrUEpPVXFTTUdPcGpXTFhvQlh0VmFidEZQZU1BX3VrZ2J3OGYySjdld1h0ZTdSWkh3d1lucXNySWRlaTA3LXhoU0lIY3hwczVBcUlXWGQwemtxUWctY3BheFFaQ0NmNFVpY0dtbEV3b004TzdraGRxZ3FJeU5LNU9WZVpQODdtYk9j?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-10-22T16:14:56.000Z",
-      "summary": "Cinema ganha seis estreias na região de São Carlos; veja os filmes em cartaz G1",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.82,
-      "relevance": 7
-    },
-    {
-      "title": "Maior festival de cinema do interior de São Paulo, CineFest Votorantim libera programação completa e aberta ao público",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUWwzdmJtQWNpMXdZbmFZQlVrbmE2cnBmdDhlMXMwUy1vWFRIMGFudGxzcmJqQUFxRHdXYmJpcXRTN3g0MzZBRVl3WWtwVmNYSWVCaXVuSGtXVzlKVWhlZlRfdU0wNURRd3ZmZk9hdnJaZjNPcVBNRktjeEZvd0RqU3IzWW8tWUw0ZEhqd0dzTFduWEFxRXZsVEdBV0Y4ZnRuNkp1LWFfaV9rNFE5SENyUERBYU5KcjFLeHhnUnlSWEFCb1BXVU5SN1FnUDdQQVRiQ2t2Y2xQZXdBT1JURWl6eXRia25lcUVmdklYanhWMUl4cURrcFZ5OA?oc=5",
-      "source": "Agenda Sorocaba",
-      "publishedAt": "2026-10-22T19:59:23.000Z",
-      "summary": "Maior festival de cinema do interior de São Paulo, CineFest Votorantim libera programação completa e aberta ao público Agenda Sorocaba",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.76,
-      "relevance": 6
-    },
-    {
-      "title": "Programação cinema BH: veja os filmes em cartaz (22/10 a 28/10)",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2JSWXNLN2l4VXdueHFIV3pkWTI0QTlTWVhNLXRGNXRXaVAtM04tSEF6QXNzSWdKT0pOMk1aUmZndU80bmRELThFaDVhaVQxVmZRWnZhaXE3eVl0RmpnNlp6TmZ0VVgxVm16QnMxX2xQaVRtWTUzMmFVNzVWa210NjBHb3R4YVNHZS1IRjZIaHh6OUlwR2c?oc=5",
-      "source": "BHAZ",
-      "publishedAt": "2026-10-22T19:47:00.000Z",
-      "summary": "Programação cinema BH: veja os filmes em cartaz (22/10 a 28/10) BHAZ",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.71,
-      "relevance": 6
-    },
-    {
-      "title": "Economia da Argentina recua pelo segundo mês seguido e aumenta temor de recessão",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmUxYXFhOVktQzBzRlpUWmlGa1pqYlo3akIyenJweUg5YThUaWZyTk1jSjV5T04yUDNEakVhNzAyODQ0aXNicjhqVy1lV0tnUHlxN3RtalJ4ODExSHZERkRuU2UxN3NrU2l2eDVRakc2UmNRNXRMQ2cybjFEbV9EOEpGXzhveDVlMVpLOGZsTlJFOFNVd2ZkcE8tNFdadDBUNHB0M1NDWE9VT2VEMFFxUEZKb3czdjBRU0E?oc=5",
-      "source": "www.portalviu.com.br",
-      "publishedAt": "2026-10-22T19:24:22.000Z",
-      "summary": "Economia da Argentina recua pelo segundo mês seguido e aumenta temor de recessão www.portalviu.com.br",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.63,
-      "relevance": 6
-    },
-    {
-      "title": "Blumenau: novo investimento movimenta economia",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12azNmRVNVaGVLelNOekRWZ3l1dy1kQThIMDhRTTN2S3B4NC1wSUsydEFtTjZxSEpVNGdYWEtMZDlJanNsUzlEQmF1ajVJZ2NiX3MzS2o2WXJpcHYwOGRXWTJuVG5yYThnYVNYLUhGU3NfSFRDQnE0Z0J0TWdRMXc?oc=5",
-      "source": "ND Mais",
-      "publishedAt": "2026-10-22T19:23:24.000Z",
-      "summary": "Blumenau: novo investimento movimenta economia ND Mais",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.63,
-      "relevance": 6
-    },
-    {
-      "title": "Agronegócio, mercado financeiro e bem-estar: como incentivos fiscais minam políticas sociais",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzVMZnNZaFVPSmwtbHZGWWl2SmxIemM1NnFuRHVhTEEybUFhdkFpWENWNWxyVS11UjhYU0U5X3psaFpmXzBscVUwYjhGcmxvWFo5enJ5T2xZRTdWVGNqMmZ2cTBzZWdPTDJwMEdINnZ2Y1JDbjdVN1N3NDNZUk1lb1Q3ZnVUUEx5WHpVazR2ck90TXpIeGoyVjJ2N3FqeW9pWG9iMEIyeHlCc3cyVks2VXV3NlR0QUp0U3JINnZDVQ?oc=5",
-      "source": "O Joio e O Trigo",
-      "publishedAt": "2026-10-22T15:20:35.000Z",
-      "summary": "Agronegócio, mercado financeiro e bem-estar: como incentivos fiscais minam políticas sociais O Joio e O Trigo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.62,
-      "relevance": 7
-    },
-    {
-      "title": "Com tecnologia de produtos coreanos,  grupo desenvolve cosméticos com ativos da Amazônia",
-      "link": "https://g1.globo.com/ap/amapa/noticia/2026/10/22/com-tecnologia-sul-coreana-grupo-de-farmacia-do-ap-desenvolve-cosmeticos-com-ativos-da-amazonia.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-22T20:51:52.000Z",
-      "summary": "Com tecnologia inspirada na Coreia, jovens do AP criam linha de cosméticos com frutos da Amazônia Lenan Santos/Rede Amazônica A rotina de cuidados com a pele (skincare) inspirada na indústria da Coreia do Sul virou tendência mundial. No Ama",
-      "image": "https://s2-g1.glbimg.com/GLHT07AY4eJOb3ry4y0HAHaXCVs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/q/uEkN1kSEACxUKpOhADvA/creme.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.56,
-      "relevance": 5.6
-    },
-    {
-      "title": "Laboratórios no Parque de Ciência e Tecnologia impulsionam a inovação industrial na Amazônia",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVzVjalFFTGpWaWdEeVNYZlkwdnZTa1BZd3dRekl3a1JWQVVMUks5d3Y0ZzFRQjc0aklOTkFMOGpEaUxnUDd2dkJVRHFMdFFBanNRRm44RHo2eDJLdnBVRWxNOURSWk56Rm1oTV9HVzhvRFRtN3haZDgwSWEweEhFdW8xNXliU2d3RVIwdmVfdDd6QXg5WFlFTmdaVGdfQ0ZMSDgxY09qMVhDd0Z4NmpFRVk3SDZWTk5lMnE2Q3JaZGZoc3JqcWtXUEZkR2JjMUJZOEQ0MV9oaw?oc=5",
-      "source": "edestaquebrasilia.com.br",
-      "publishedAt": "2026-10-22T18:59:07.000Z",
-      "summary": "Laboratórios no Parque de Ciência e Tecnologia impulsionam a inovação industrial na Amazônia edestaquebrasilia.com.br",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.54,
-      "relevance": 6
-    },
-    {
-      "title": "Sob ataque do governo Trump, Tribunal Penal Internacional recebe prêmio de diretos humanos do Parlamento Europeu",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/22/tribunal-penal-internacional-vence-premio-de-direitos-humanos-da-uniao-europeia.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-22T12:02:04.000Z",
-      "summary": "Tribunal Penal Internacional Divulgação O Tribunal Penal Internacional (TPI) venceu o Prêmio Sakharov de Direitos Humanos de 2026, concedido pela União Europeia (UE). O anúncio foi feito nesta quinta-feira (22) pela presidente do Parlamento",
-      "image": "https://s2-g1.glbimg.com/_j7Gnago6zeLmAh6UEs-xWgRv8k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/i/CPogCsQRyg2QfISx55cg/icc-premises-frontfinal.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.51,
-      "relevance": 7.8
-    },
-    {
-      "title": "Festival de Cinema Francês do Brasil volta ao Cine Roxy",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVjczNF9neWhZdEVlWEpVamJMQ1I2M0xEclpHLUl2MG42bU9vVUQ3SEFlRXRkTDByZHNzQ0JpcThFUTRINDRDalRTQ0ZfLTFBbWtSY3o5X044UHcwOWRXYkNWdkYtdF9SWVloUExpRkpxeDFnZmRYamJKT0tXVUhBc1FSai1qYVRKeVJjRXFvVm5VcU54MWVRYTRGZTlzeWdvbUcxakJOQjl4Zw?oc=5",
-      "source": "Juicy Santos",
-      "publishedAt": "2026-10-22T18:21:44.000Z",
-      "summary": "Festival de Cinema Francês do Brasil volta ao Cine Roxy Juicy Santos",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.41,
-      "relevance": 6
-    },
-    {
-      "title": "Otan abre canal de compras militares para a Ucrânia e amplia integração com Kiev",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTkdHLS1WdHRwOGxYR25CaDF2cXY0cnJ5c3N4QXVVUDVuWmdPQjc5VnNDbDFjYkRQY1VKU1BvR0ZndktyQU1UY0hwR3pSUlhNeXpQZmEtR01GVzZ2czVydTU5ekV1TlktXzN5eUEtTFdzVDJwTXJoSktGRDR2YWRNbWczZTVNbE5oWDJCUnk3ZHJkbTNTeWhTeGJrQjYtN1huck1Xbmg3SXFaTXd5ZUdHM0hXT1pack3SAbwBQVVfeXFMUDZJb0dqVkFGanNWQUJHYVU4YzZWQmozUWZpeWotMVAtVXY4OFRQMG9wUV9fZ0xqRU9OSHVSNGFsZnR4R3NQVlBsdGRleE1EYVVQZWRXdFlYWXF5UllicWZiWjdZcGZ6NTZwVUlmRlNYVmUzR0NtSWVnQmN4Z28zWkFPVmd3RG11ZDR1MEZBek0wOXlYMmVaM0JPRF9XX0pqT0haMXpTWWZIaTVGU2x5QmlUTmROZGY3VkphZUM?oc=5",
-      "source": "InfoMoney",
-      "publishedAt": "2026-10-22T18:06:39.000Z",
-      "summary": "Otan abre canal de compras militares para a Ucrânia e amplia integração com Kiev InfoMoney",
-      "image": null,
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.36,
-      "relevance": 6
-    },
-    {
-      "title": "Empresários industriais têm maior insatisfação com margem de lucro desde a pandemia, aponta CNI",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOUxrdi1pWVBmY19iYmxmRHY0UVNXNUxuckZIcEpsZkxJWjV3TjRQV2w0M3kyeTBFa3pWNFI1cDBHdVFfcVV1UmlrM29EODlxd0FJTFJXY1VIYmo3dV84TnJReGJ3Tmo3a0xxVERsaGFCU2NUemJkams4eFdQT0xIZmktUjNiZlNpVXpfcFNxWFdUbEhUVklQZk1CRmR6Z1R0WmtKTHZMQmtQbVZ6V1lzczRma3ZMSG1ycEUwX01MMUtnNWZtYnZiNXliUTl0Y1hYVEFMdktQVDBLMGNzNkVzaXM1RGZaanF3Mlc4?oc=5",
-      "source": "Agência de Notícias da Indústria",
-      "publishedAt": "2026-10-22T13:49:16.000Z",
-      "summary": "Empresários industriais têm maior insatisfação com margem de lucro desde a pandemia, aponta CNI Agência de Notícias da Indústria",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.3,
-      "relevance": 7
-    },
-    {
-      "title": "Mosaico helenístico inédito é descoberto em sítio arqueológico na Turquia",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbi0zdVVoWjI5dnpadEF6LXRZZ0JELUxNcTItSk1KcGh2MHFlVFlxQ1UyUzlJYlFKLWRpeDljcGlLS2ROZWxUUmNzaFdqck9IUVJPR0l4UXdwNU56R0RKTVdhckdoS1VMSGxMb3RLVFdvTmJZYXhCR0NBcjVZQlZLTWQ0VkdtcmVwWnFhSGVhaXdjZTFxczBIcTVKakRnekUzeUVVLTVQOEJFWVZkeUNvT2Y5Uzh3LWJoaFJTSW1ZMS1US2Q0SWRwS25tZDlsYzRpWUxV?oc=5",
-      "source": "Aventuras na História",
-      "publishedAt": "2026-10-22T16:03:17.000Z",
-      "summary": "Mosaico helenístico inédito é descoberto em sítio arqueológico na Turquia Aventuras na História",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 5.28,
-      "relevance": 6.4
-    },
-    {
-      "title": "Cara-de-Barro: onde assistir e quando o filme da DC chega ao streaming?",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT3hIZUU0cXhzb0hwSGZ6R29QLWhKQ1g1ZUFOclhNZXBMTEhYTFRPd3ZzdGJYMzVHblJ6U3lPRlJaRXc1OFhwdXZnODlPLXQ5YVJQMHNTUUtEdFlvZUVsRXVkZ2trczNycmtvUktDOGxKZ01UeEtPMXFDSFVIVzMyMA?oc=5",
-      "source": "Séries em Cena",
-      "publishedAt": "2026-10-22T20:19:00.000Z",
-      "summary": "Cara-de-Barro: onde assistir e quando o filme da DC chega ao streaming? Séries em Cena",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.25,
-      "relevance": 5.4
-    },
-    {
-      "title": "9º Festival Lugar de Mulher é no Cinema reúne mais de 30 filmes de 13 estados brasileiros em Salvador",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0JoNUlxTGVMN2lSMjJYaDE3Nzh4aUNqckcwaGlpaVhLeWw3a2VXZVV2ZE1KeWc0Q1dVZEFXVW9qMzFUNVppVmczWHB0U3REZ0VGc1BSdV9nVFFIMzJBN3poSVVhSnJ3TW9UTlQ3LVp0UjdBdlZNOEtubzl2RE5vN1VncWRYN04xN3RKbzR6VzV5bGR3bVJwRlJxVVFiRkoyQllNenBzQU1WaVBlU1NhX0tPXzJOS2NRNGhSOVVhaFBpcTE3LXc?oc=5",
-      "source": "niddedigital.com",
-      "publishedAt": "2026-10-22T17:34:07.000Z",
-      "summary": "9º Festival Lugar de Mulher é no Cinema reúne mais de 30 filmes de 13 estados brasileiros em Salvador niddedigital.com",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.25,
-      "relevance": 6
-    },
-    {
-      "title": "Em NY, Nasdaq despenca em meio aos receios sobre gastos de empresas de IA",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVVJYdEpYLVpDTENwNVlaNWN5ZGtoTW9NTTU4SERSRnhlUU8zbWpQc0tXaGU2VWkzQm43S1lGSnZfYlZvczVUYUVmTUpESnFsLTB0M3FjMmdqclJTM3pFSEJvMDdUc2xJVHkwamJNZ0hYa0lyV05kdWQ1TVZBRy1jWWpVSXBBeDZzcldwVTYyMEFWVk1kdi1VYnI5bjN0Y0kwWUs3YzFsdVdSQzlaNTQ0MUdwcm1VWS1zcG1LTDBfNVZCSGJ2MmQxbU5R0gHYAUFVX3lxTE5OOXpwS2J5dmxBMEo2WVh0OFluckc2MEJUcU01YTZVTlpXek56TVdCNklxZktpbUJKYlByUXF1ejJZRGZ3MlBHUEFIMTlLODUxR1F4eTRzdUIyaGp5VzRpLWs2dlFaNlJNTVNYLXBxdkpoQXZPak9YTHNXV3ZmUThOaWZyMDFEYVBuWFJXQUJjNGgzbUlLOVNWVkVxMVpTNmJ5c0h2djhPOWdTVFRGZXFTdU5DbGxiY3BXSUNfdGlDejE2c1d1a0dSWktONlB2YzVXZXU1d2stVw?oc=5",
-      "source": "Valor Econômico",
-      "publishedAt": "2026-10-22T20:14:50.000Z",
-      "summary": "Em NY, Nasdaq despenca em meio aos receios sobre gastos de empresas de IA Valor Econômico",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.23,
-      "relevance": 5.4
-    },
-    {
-      "title": "Economia da Argentina recua -1,7% em agosto sob risco de recessão",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTzZObDZiTHJCM1Q4Q01Ec3BwR1pCMDUxRXk4V290WWJ3Q3ZiNWZreEhNenhWcXVhYktlc3VIb2oxaUxzYW9zRjNMeGNXRm9xVXhXcG1GMFFOOEhvRjlXQlZUSzVRYXZESlk5S1Z5OEFGMUZ4YUJGR3lsckQ2SkpaTnFjQ21CS3FQYmpVSW1QWC1ycDlDbWJoQ19WODAwZUxBeHZvM0Y3cjdEckw4UWltVWluT3NXajQ2aW1USU1BWTlTMGc?oc=5",
-      "source": "Agência Brasil",
-      "publishedAt": "2026-10-22T15:49:00.000Z",
-      "summary": "Economia da Argentina recua -1,7% em agosto sob risco de recessão Agência Brasil Economia argentina encolhe 1,7% em agosto na comparação com igual período de 2025 O GLOBO Flávio Bolsonaro atrelou sua imagem com Milei, que enfrenta ‘ano perd",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.23,
-      "relevance": 6.4
-    },
-    {
-      "title": "MC Cabelinho volta a publicar vídeo contra Flávio Bolsonaro após postagem ser derrubada pela Meta",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/22/meta-derruba-video-de-mc-cabelinho-sobre-flavio-bolsonaro-as-vesperas-do-2o-turno.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-10-22T16:25:01.000Z",
-      "summary": "Print da publicação de MC Cabelinho com o portal Revelando. No canto superior direito é possível ver o rótulo que classifica a publicação como IA. Reprodução/Instagram A Meta, dona do Instagram, derrubou nesta quinta-feira (22) um vídeo do ",
-      "image": "https://s2-g1.glbimg.com/npF9wDY_j-jFpPuAAiHsAs3xr2I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/A/sMH896RBmtdTeBARQYlQ/952194ae-5a21-4f37-8470-7557c20b72e0.png",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.19,
-      "relevance": 6.2
     }
   ],
   "byTopic": {
@@ -673,8 +674,21 @@
         "topics": [
           "historia"
         ],
-        "score": 5.28,
+        "score": 4.23,
         "relevance": 6.4
+      },
+      {
+        "title": "Aulão na Rede 2026: professora de história tira dúvidas sobre Revolução Iraniana",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZVZsQ3RCX0xrc1VEeGJ4OWpCd0JsOXc2U0hqbTc0SnQ0MFlXeDZ6NndLMmVEVVMyTllwUGprUGtKYUtwZDFpM1g1cVNpR1VBTW42UjZoSFZ4SWVWZENHeXZmSDltaUw4YjVyYjJNem5wUE9oT2xUcmFBR0pETGhJVGJsZWJXbVpGUzY0QlgyaUdZOFVhVUpPY05vUVcwSmE0R3NDU05nYTNDT25memtFTkd5THRlX2xYYndOSi1pTER4Vlk5a0hhc2xwWWhKRmltYlliUGowdnBBeTRoWnpoVzdvMmtxZEN0akVDTEdUS1JFZ9IBgAJBVV95cUxOMHF4TnBkTkNfZlhYSXE3NDJoNUs5Y0tObUE2Wi1hWnNFYkc5bGNZaDdKejJrNXRGbHFvaUpvMzIxa0lEWlZhd213bXZJQV9lQlRJZnV3c21WMkxXZkk5ZGhJdVpicVFMOUtqSGhvNDMwdm4yVlFWd05KTThZQVE1bVpNMjJVeTcxeWdvUC1LMnZNR0UtbkNsc3ZFbG9WTmp1ZzRhc0RtQnJDcHNSZTRnN0R3SGxETEtnNlYxeU00RXNaUlNGS0RlRTIxWmxXSXFHb0VfSXF5cVBVSGk0cGlpRE1IY1UyVkFPTjNvSXJIZFpEM2dvUFRGc0FFNkFRWjJt?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-10-22T20:56:54.000Z",
+        "summary": "Aulão na Rede 2026: professora de história tira dúvidas sobre Revolução Iraniana G1",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.99,
+        "relevance": 5
       },
       {
         "title": "Complexo subterrâneo escavado à mão por imigrante vira patrimônio histórico na Califórnia",
@@ -686,60 +700,47 @@
         "topics": [
           "historia"
         ],
-        "score": 4.94,
+        "score": 3.95,
         "relevance": 5
+      },
+      {
+        "title": "Lula, Flávio e um dia 25 que entrará para a história",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUdxbmhWaWJaMXVlNXZnN2hZWkhPdzE0b0Q1Rk01U1lMbXU3VzZ1RmR0OEVuV0M0czFmOUNVUTdNZnRNNEFURzlIc2RGU3Z4V0JpQTMtVnlsOHlhVG1Ed045djBUZ0FIYndaNDE5ZkpFcUpOM0FiN2kxSmlnR21EMnlKSXdSRkFvUjN5QzNKSUU5VzRGRFRDdU1RWVlMZFM3cGJ3UlJIanhidmRPQUUyM3VqM3FKc0ExWmFpbw?oc=5",
+        "source": "O POVO",
+        "publishedAt": "2026-10-23T02:02:00.000Z",
+        "summary": "Lula, Flávio e um dia 25 que entrará para a história O POVO",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.88,
+        "relevance": 4
+      },
+      {
+        "title": "Tatiana Farah: No último programa eleitoral de sua história, Lula pede um novo capítulo",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSXRZSnFhTEM4TDZOY1lSVG1nbkt1NmhuMWpabnp2Nmd5QVB0aW5vR2ZNMWp0Zl9reTFOVFIzeWJTR1IzcWVwTk42M3NESXBKTTFua19uYVJySWlialNrRkhNQXo1V2pQSGhtRWlyY2tMQ1I0MjNydDZHQS1td2dTNW5RVjlnVGVfNXJyeWVfQmxJVTlsRTdKazBxUTdzQjRQN1lMNEZKNGlHLWwyT1ZhMkVrR0dRckM0N2tzd1oxNDhJNlZaNmxZVkRVaVhCTlNNdlE?oc=5",
+        "source": "UOL Notícias",
+        "publishedAt": "2026-10-23T01:42:24.000Z",
+        "summary": "Tatiana Farah: No último programa eleitoral de sua história, Lula pede um novo capítulo UOL Notícias",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.83,
+        "relevance": 4
       },
       {
         "title": "Vandalismo ameaça preservação do patrimônio histórico de Olinda",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcXdUZENOa2tERGlwZnNGYkFzd1VVbzFuSll4S2lZeUFWREg0enRveHJmWVdycnVLRHRFTkNtdGhlR2MtbnMtdXZmWVlHT2w2NmQtb2VxZ2ZlaUdaZDRFeUJ1WU9jVzdsTFRuSDVjRExiM0NjamJ1N2NuNVRUTDZtM181bkhYeEJPTnJtZjFTb3hnZ1paSW9ld3lCLTlYSURUMndJ?oc=5",
-        "source": "CBN Recife",
+        "source": "Portal CBN Recife",
         "publishedAt": "2026-10-22T19:20:51.000Z",
-        "summary": "Vandalismo ameaça preservação do patrimônio histórico de Olinda CBN Recife",
+        "summary": "Vandalismo ameaça preservação do patrimônio histórico de Olinda Portal CBN Recife",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.68,
+        "score": 3.75,
         "relevance": 5
-      },
-      {
-        "title": "Agência de Comunicação - Associação Comercial de São Paulo debate caminhos para conciliar preservação do patrimônio histórico e desenvolvimento urbano",
-        "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPY0dPMHc1d3g0UURocGJJT0FFUmVxN28xdnNfMUtnWWJRVDlMYnBONVJEbV9WWGU4a2c1clFXZXJmQ2JSUGI4NC0zaVVPRFpmTS1KSlAzUmJFYWxrM0lWYmFNcTF0T0F5dVc3OUlGYTFmOVBuUmlqUEhZV2tSd1EwSzd2UndROVc4QjlSdjQ0bXlNeUx5THlxM1RVdTBfSUY2VXZWSE1MdW9pdTlxeTJMcUUwLTNaTnF3dTEtTW45ZC0wdjY0b1hnWlZvT2FpTWxNWmZnQjR1cUdBT1lHdno3RWFHYkZjNjU0Vmd3aDJsNTlRR0Rsb2JhZmxGUTZIR2FMVFVUYk9tZWMyNnhVNXkzRTNlVWh5R25xMjVDRGw4cllKbU1aenYyVlRYX1JRUW5oTnV3MUdvUTJJUEFsUWc?oc=5",
-        "source": "Estadão Blue Studio",
-        "publishedAt": "2026-10-22T18:16:36.000Z",
-        "summary": "Agência de Comunicação - Associação Comercial de São Paulo debate caminhos para conciliar preservação do patrimônio histórico e desenvolvimento urbano Estadão Blue Studio",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.49,
-        "relevance": 5
-      },
-      {
-        "title": "Fonte do Ribeirão, patrimônio histórico de São Luís, está abandonada",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOaU9Obko4cjVyb3dFRmQ0UF9ibW12b2hGQUpwU1FaSlpSQWxUX0VnWFBMT1dQU2t2RVBWZEhWeHdsSUlFalVjN2hRNFFldHM1X2RHNVAxNHp3U2dRVjE5cXhlaEpEM0NhSGNINFBpZVNQZXpCcGt3d0dBd2dQSzllTFpHYUJBREUwZGtPdkdMMUtyUndCbGhmRWE2cEUxNUUtdVFqVjVHR2dOdVFUU0diYXNweEVTeWIwMkNMTmdGT09nNTNvak1Jd2Y0MndBZUNDc0Z1cURBRmdZeV9GSUNWTi14NDVwSWPSAecBQVVfeXFMTmlPTm5KOHI1cm93RUZkNFBfYm1tdm9oRkFKcFNRWkpaUkFsVF9FZ1hQTE9XUFNrdkVQVmRIVnh3bElJRWpVYzdoUTRRZXRzNV9kRzVQMTR6d1NnUVYxOXF4ZWhKRDNDYUhjSDRQaWVTUGV6QnBrd3dHQXdnUEs5ZUxaR2FCQURFMGRrT3ZHTDFLclJ3QmxoZkVhNnBFMTVFLXVRalY1R0dnTnVRVFNHYmFzcHhFU3liMDJDTE5nRk9PZzUzb2pNSXdmNDJ3QWVDQ3NGdXFEQUZnWXlfRklDVk4teDQ1cElj?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-10-22T15:54:07.000Z",
-        "summary": "Fonte do Ribeirão, patrimônio histórico de São Luís, está abandonada G1",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.1,
-        "relevance": 5
-      },
-      {
-        "title": "Workshop “Forró: Nosso Patrimônio” celebra a história e os ritmos da cultura nordestina em Gravatá",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTzBuUWJTeWZLV1hsTzZMQ0oyR2paU2NmWlgzc3VWQTB5d0htYjJFWjB0dk5pV2JlaE81VVhUTGxFRzFNcWd3YTdzOVl5Y0hmUzJkd3BDZHBkVlBtUENfUUhkQmJ1VW1qUW52YVRKNmRiLUNYa2hSbGl1S21fbWtGNlBzUWFsT2lvZUFqRU5FUlpmbkVvT0JBcmY3aFB2TVdjVEZWZDBXa1h1WERQalJnVXJENlpSSThta0RJMEdSUVZmcDNoQWJkTjVR?oc=5",
-        "source": "Prefeitura de Gravatá",
-        "publishedAt": "2026-10-22T20:49:35.000Z",
-        "summary": "Workshop “Forró: Nosso Patrimônio” celebra a história e os ritmos da cultura nordestina em Gravatá Prefeitura de Gravatá",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.97,
-        "relevance": 4
       }
     ],
     "geopolitica": [
@@ -753,7 +754,7 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 6.81,
+        "score": 5.46,
         "relevance": 9.8
       },
       {
@@ -766,7 +767,7 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 6.38,
+        "score": 5.11,
         "relevance": 8.8
       },
       {
@@ -780,7 +781,7 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 6.26,
+        "score": 5.01,
         "relevance": 8
       },
       {
@@ -793,7 +794,7 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 5.51,
+        "score": 4.41,
         "relevance": 7.8
       },
       {
@@ -806,22 +807,21 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 5.36,
+        "score": 4.29,
         "relevance": 6
       },
       {
-        "title": "Midterms 2026: Como está a aprovação de Trump a menos de duas semanas das eleições de meio de mandato nos EUA",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/22/midterms-2026-como-esta-a-aprovacao-de-trump-a-menos-de-duas-semanas-das-eleicoes-de-meio-de-mandato-nos-eua.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-10-22T08:00:00.000Z",
-        "summary": "Aprovação de Trump atinge mínima histórica de 31%, mostra pesquisa A menos de duas semanas das eleições de meio de mandato nos Estados Unidos, o presidente Donald Trump enfrenta baixos índices de aprovação. Pesquisas divulgadas nos últimos ",
-        "image": "https://s2-g1.glbimg.com/4ovN4nu7xuY0gpRyMhzaCZmUK1Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/z/yPFNeXRhGHx0t90VRz6g/2026-10-20t184914z-1768336824-rc267oa3q3pp-rtrmadp-3-usa-trump.jpg",
+        "title": "Zelensky capitula e Rússia pode vencer após quatro anos de guerra na Ucrânia",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORlJMMjBDYVl5UkRCYTdxUmNTN3BvZmEteHkwUmNKTzFJTmJDcV9fcXZMUjIyemRVSVltUUJDSU56aWhKNHpxTExkbF9ZeTg5V1RJbkpaZG9GUG1rN1loa2E0MEFZUXBjVmlqejV4ZUtwdGdMTzBkd2dBdUViSGFCaXZmdlJuOGh6aWxBcGRsZHBzNTZXNk5aeWhyVDZvN1NqLWlsR2hyNXRfbXJvYW0xc2NB?oc=5",
+        "source": "Vermelho",
+        "publishedAt": "2026-10-22T17:59:00.000Z",
+        "summary": "Zelensky capitula e Rússia pode vencer após quatro anos de guerra na Ucrânia Vermelho",
+        "image": null,
         "topics": [
-          "geopolitica",
-          "negocios"
+          "geopolitica"
         ],
-        "score": 4.84,
-        "relevance": 8
+        "score": 4.27,
+        "relevance": 6
       }
     ],
     "negocios": [
@@ -835,7 +835,7 @@
         "topics": [
           "negocios"
         ],
-        "score": 8.84,
+        "score": 7.08,
         "relevance": 9
       },
       {
@@ -848,8 +848,21 @@
         "topics": [
           "negocios"
         ],
-        "score": 7.87,
+        "score": 6.31,
         "relevance": 8
+      },
+      {
+        "title": "Falta de governança trava o retorno da inteligência artificial nas empresas - Varejo S.A",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlZvbW1lX2J2OEZVaFVIcjBucUhHSFc4bWVHY184UUN1aWFBUF9ySjYza3pwR2U1YlY3WDhNREwxZlMtcXdEejRwUWl3TG4tbGZ6TjYwRGpOMERsTGVMQ1JNb3Z1U1ZRbWpVWUJkRzZKcnJQUjFUQ1VXSGVjVWx4RkQtS19MT0lSTkZOS0xqc0lKRjkxS1FORER1d1lOSGNEYXpIaTlqSkc?oc=5",
+        "source": "Confederação Nacional de Dirigentes Lojistas",
+        "publishedAt": "2026-10-22T19:09:23.000Z",
+        "summary": "Falta de governança trava o retorno da inteligência artificial nas empresas - Varejo S.A Confederação Nacional de Dirigentes Lojistas",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 6.25,
+        "relevance": 8.4
       },
       {
         "title": "Dólar sobe perto de R$ 5,04 e Ibovespa cai com petróleo e Datafolha no radar",
@@ -862,50 +875,76 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 7.8,
+        "score": 6.25,
         "relevance": 10.2
       },
       {
-        "title": "A força dos termoplásticos na indústria de Manaus",
-        "link": "https://g1.globo.com/am/amazonas/amazonia-negocios/noticia/2026/10/22/a-forca-dos-termoplasticos-na-industria-de-manaus.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-22T20:22:53.000Z",
-        "summary": "A força dos termoplásticos na indústria de Manaus Foto: Divulgação/Suframa Quando se fala no Polo Industrial de Manaus (PIM), motocicletas, celulares e televisores costumam ocupar o centro da conversa. Mas um segmento menos visível para o c",
-        "image": "https://s2-g1.glbimg.com/pOHvE_VwlXIIDbzh6H3RE51yBfc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/a/HR4czbRIaRyWilDRMiuw/pim.jpg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 7.41,
-        "relevance": 7.6
-      },
-      {
-        "title": "LemFi amplia serviços financeiros para brasileiros que vivem no exterior",
-        "link": "https://g1.globo.com/economia/especial-publicitario/lemfi/noticia/2026/10/22/lemfi-amplia-servicos-financeiros-para-brasileiros-que-vivem-no-exterior.ghtml",
-        "source": "G1 Economia",
-        "publishedAt": "2026-10-22T18:30:11.000Z",
-        "summary": "A LemFi, plataforma financeira voltada a pessoas que vivem e constroem suas vidas em diferentes países, anunciou a maior expansão de produtos de sua história. A empresa apresentou uma nova identidade global, com o slogan “Ambition has no pa",
-        "image": "https://s2-g1.glbimg.com/yJw2ZwylpzAd5Yl50KSCmYi2HtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/q/q3qQQoQNmP5TtSorPgXQ/3.jpeg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 6.89,
-        "relevance": 7.6
-      },
-      {
-        "title": "Falta de governança trava o retorno da inteligência artificial nas empresas",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlZvbW1lX2J2OEZVaFVIcjBucUhHSFc4bWVHY184UUN1aWFBUF9ySjYza3pwR2U1YlY3WDhNREwxZlMtcXdEejRwUWl3TG4tbGZ6TjYwRGpOMERsTGVMQ1JNb3Z1U1ZRbWpVWUJkRzZKcnJQUjFUQ1VXSGVjVWx4RkQtS19MT0lSTkZOS0xqc0lKRjkxS1FORER1d1lOSGNEYXpIaTlqSkc?oc=5",
-        "source": "Confederação Nacional de Dirigentes Lojistas",
-        "publishedAt": "2026-10-22T19:09:23.000Z",
-        "summary": "Falta de governança trava o retorno da inteligência artificial nas empresas Confederação Nacional de Dirigentes Lojistas",
+        "title": "Eleição de Flávio seria um risco econômico a curto e longo prazo, diz Nobel de Economia",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVkpkamJyT1B2d0tLbXZHVkhnV1FXTWxfTk5wNnk4b2doOWtmWVh2RnpWSGs5WF9CMG1ZS1ptM0hBQ3U2SGZQcHZLVDh3Mmo4MDdKaTVWOEZiWnBiTk83anVXX19vRDJnVk5pWkJEaDZ2c3lWUmlqWmhEMEFPT210RHM4S25sTW9CTm1CQ3JSVUEtVGVCTl9GNXJmMDd2cXdhOG5JZ0dfQV9jdEZZM28wNXVZazZ2TUR6S2d5UThVTkJZeEh2Q3hwa21uZ1k1bVJ4cFBPZg?oc=5",
+        "source": "Folha de S.Paulo",
+        "publishedAt": "2026-10-23T02:00:00.000Z",
+        "summary": "Eleição de Flávio seria um risco econômico a curto e longo prazo, diz Nobel de Economia Folha de S.Paulo",
         "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 6.88,
-        "relevance": 7.4
+        "score": 5.81,
+        "relevance": 6
+      },
+      {
+        "title": "2º Simpósio Sala de Ações com foco em Inteligência Artificial no Mercado Financeiro acontecerá em 13 de novembro",
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNb21Ed0xFNktxdVdoSHpyOVRsWXI5b3ZUZmw3NVBIdEdjRlBxWG5OMGNkLW12bmFJcGprR2hCeHd2akx0MnZ0UlhlN0hrU1I1RGxiTXNRMFU2VUVyV0lqM3I4X1ZiR0JYeGNWTHlsYXF1UDYzRlRLUGdhUWREWTBPcG1XX2ROM1J1UlA3czhYLVFoUFk3QTlZR3NqRWR2OHptcGlBWlZqVG05VnZUcVdLb3FBVU9fbk8ydThfMzgwNjhPWnhzSVoxVllIM053VVBZenJybVoxQTdOWGdlVENzVTh3NXNvT256Nlg1Y0xSR3dhNmhVMDUyZjREbUttMDVlZEllWFZ6UDZrMmpqNEZwZmpuQ0d6SktCSmJSY0FQNC1oSnM?oc=5",
+        "source": "UFPI",
+        "publishedAt": "2026-10-22T17:33:00.000Z",
+        "summary": "2º Simpósio Sala de Ações com foco em Inteligência Artificial no Mercado Financeiro acontecerá em 13 de novembro UFPI",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 5.6,
+        "relevance": 8
       }
     ],
     "filosofia": [
+      {
+        "title": "O POVO sedia evento sobre a filosofia do Ntu e o antirracismo",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0RXeHRrZmg0UGl2czdYUUl5RTcwVVpUR01nMV9Kb1lDN3dQNlgwZ1g5MGFyZDNGX1FERDNsZXVsMnVDQVRXUGE4YzZlckY5dUNGajdmOTNLS2JIWXU4SlhhbEZ6MlVod3piSHAzRU9palhTNF9MQlNreWpLNEJiUHlHNkNJajk4NjhNaDNrMnVEOXRDaUZZbGFKQzlNd2VUWDBHRWpLaXJqNUYy?oc=5",
+        "source": "O POVO",
+        "publishedAt": "2026-10-23T00:23:00.000Z",
+        "summary": "O POVO sedia evento sobre a filosofia do Ntu e o antirracismo O POVO",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.64,
+        "relevance": 4
+      },
+      {
+        "title": "Dia de São Severino Boécio: conheça os ensinamentos do santo filósofo",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPNTFPNUZpdFpOS0c5cVNWd0hkTEpxMjRuSmlVOGdtWTZuR1hUMlAwWmg5aWhkNTVNTl9TXzRUU2ZQck1xRmFhM0lWMGdUTXNxa203ZFJCZjNfNHNlOU1XeEpDRzZOOUJEdkZtOU81VXJHSmxwQnEtazFWalpjVWZnckxsUzVuZzNObDVOa0VQXzZ2N1I4SkNuZDZGVVRxeUVhRXBSUG9IRDR3OHNSTFRIbDN0aE9jdW1fRHVUaEF4TG44aDZJQjZTYWhjYVhRTXNpUDc4cDN6ZzdMMDBydmxHc0diM2owTU1L?oc=5",
+        "source": "Terra",
+        "publishedAt": "2026-10-22T22:37:00.000Z",
+        "summary": "Dia de São Severino Boécio: conheça os ensinamentos do santo filósofo Terra",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.4,
+        "relevance": 4
+      },
+      {
+        "title": "Marko cita filosofia da Red Bull e defende substituição de Lawson por Tsolov para F1 2027",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR1ctOWV4OXUwS0k3bzNfSmFKNGE4T3M1c1NYVFVURHpYNmM0c2NvLVRCeUpSLXBUbjRERkk1Z2xSUW1aenNidDBBNUt0RV9fV3hJeHF6V0c0azB6dGtHbktVa21sNUtSYWF6ckNqMzNkU2NpQXRNYngxNVVPTjNTZnJYbmZsd05iNExOOHItTU5KZ3ZqYWZCSUQxMFU5NkRQUEFHT2JLV1JfZTMzQl9QMkNpVUR4ZFRBVERaeHpn?oc=5",
+        "source": "Grande Prêmio",
+        "publishedAt": "2026-10-22T22:20:00.000Z",
+        "summary": "Marko cita filosofia da Red Bull e defende substituição de Lawson por Tsolov para F1 2027 Grande Prêmio",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.37,
+        "relevance": 4
+      },
       {
         "title": "Frase do dia de Arthur Schopenhauer, filósofo alemão: por que a busca constante pela aprovação dos outros pode se tornar um obstáculo à liberdade individual, segundo suas reflexões sobre opinião pública e autonomia.",
         "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNanEyV0hkUUJXNTVzNWhCTGVfVjFIZkdvalRreVZrWVNRb0xxcGxZNHpiUEdkY0M3bmRMVVVIR3hQSlAtRFExcDNhc2Y4RUFlNGVRMU13alo1NkcxVUYzN1UxTDN2b1lZeFJZcXIzN3hWZ0kyRlcxV2Z0a2N3VE5lTGpnOEpkYW1iOU5CZ0tyZlRFODFObFF6WThMT3kzdkRvYlV5T0RVX2VyZmpuUE9abXg5RFVUc0JLdGR5SXpmYmlxT2F6aHNaM1IyNHBBQlUxWF9rTnJWLVRpTWQyNHZCQ3kwQUllQ0NNcnBqYnEzT3ZmZ0k0SXpWblUtSG9Wck9scXFtTHd1aTNaUTNWdXdkQnhpcGhXa00wYktJdU5NWW5FYnkxVkoxc0RUODNqTW5ZWXZzQlV3alBFUnNnbldiQXphMUtjRkhpUDR0ZUNVNlNDeUNiYXMzUFpOZEdmZw?oc=5",
@@ -916,8 +955,21 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.9,
+        "score": 3.13,
         "relevance": 5
+      },
+      {
+        "title": "A grande lição de Sêneca sobre coragem: “Não é porque as coisas são difíceis que não ousamos, é porque não ousamos que elas são difíceis.”",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWGtHQnBaUi13aVBrN2hRNUFQcDZ5b0hPNHFhUlVVVUl1TXBqallraDZfM3VTMXBocGVlbC10ZGZVdlVLM2FwbEdUcU1mOENMTDMyUVNfclRoS0JPazdWejhwVERaWU5udVJTWlpSdU40Ym5DaEZidzJFMk1sV1JRbUVUZlpUZmxZOGpBZ01vdzYyZmt0M3NJbFdLUzVtWUFyejNBTmtYTjNaemMzNVVDamFVUkEwUDNmeXd6YkluajVMcThyMGFVYktwbFFmbmpZM3dWM24wMmZzX2w4eVVXVkxvZnpiYmJYS2d1NjBwTkhkcTZjcnEzNEdNTUM4b3FnZl9IbGd5OFZfNER0NnBF?oc=5",
+        "source": "Brasil 247",
+        "publishedAt": "2026-10-23T01:15:00.000Z",
+        "summary": "A grande lição de Sêneca sobre coragem: “Não é porque as coisas são difíceis que não ousamos, é porque não ousamos que elas são difíceis.” Brasil 247",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 2.82,
+        "relevance": 3
       },
       {
         "title": "João Abelha destaca nova filosofia na montagem do elenco do São Bento",
@@ -929,63 +981,37 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.42,
-        "relevance": 4
-      },
-      {
-        "title": "Ciências Humanas no Enem 2026: 5 estratégias sem decorar - Tudo EP",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWnU1aV9WZ3k3WkRxdXl1OXVVbkUyZFhCYzZOdnpXMmhudExhRVZEMHlKWjc2RGFEbFJOWVNpeE5lZDNocmRKbjNyYW1XOHhITDZlZnpvUFd0bzM5ZnMwODFlNGg3QnNNNGZLVkEtWUVhZjVldDNhd19fNklPcm93VXFra3Jmb0JXY21wbUdndDRZVWlCNUpWdUhSWWhqejUxNWR5cUdwaUZmb0NYWkN1TjBpTVpxdUM2V3dBLTFKRXhDNG9hSVhucQ?oc=5",
-        "source": "ACidade ON",
-        "publishedAt": "2026-10-22T20:00:05.000Z",
-        "summary": "Ciências Humanas no Enem 2026: 5 estratégias sem decorar - Tudo EP ACidade ON",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.88,
-        "relevance": 3
-      },
-      {
-        "title": "Conceito japonês: descubra a filosofia do mês do seu aniversário",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRlZ1Q2c4RmRPNlpSRW11WUFnMTlROVFETDZseEVRYTQzOUh0UGZGN2NfWHZ5anhQeS1ib052anFzZjBvWXhQeUVCYXpJOEljejVFQkplMnp3STQtZTdWU1pncXNibkRjeDBDbDZQYmdyaWJoc1gtb3FkU0Y5WDhBTVVHVzlRaGFVRjNsa3lPWnZudGFEQXhkby1jeGc0akZSeGJ4TW5hRVptY1NnR0dr?oc=5",
-        "source": "Bons Fluidos",
-        "publishedAt": "2026-10-22T04:55:25.000Z",
-        "summary": "Conceito japonês: descubra a filosofia do mês do seu aniversário Bons Fluidos",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.15,
-        "relevance": 4
-      },
-      {
-        "title": "Encontro debate psicologia e filosofia africana e antirracismo",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPakNiRkFTSE9aMDhrVmVwVWtiVmJMaDFYSEYwdXVTRUpaZ29tdF82VFF1aUNZUVNxTHRqYkJsMUZWdkNtdGlMWWdXZ0F2STRuYkZ4ckdJQUptQXVGUDdKdzJ5QlBRUmRRU2NpR1pSLUhJb09ueHVZX2JKa3JBNnJmM2NnRDFubWk2SUpYYzUtbzY0T2NDRnphVWNwS2ljUGJsaWE4T21FeU9pNjRHU0FjeHBlOTZoME1SN2xXSm9n?oc=5",
-        "source": "O POVO",
-        "publishedAt": "2026-10-22T03:30:00.000Z",
-        "summary": "Encontro debate psicologia e filosofia africana e antirracismo O POVO",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.03,
-        "relevance": 4
-      },
-      {
-        "title": "Simpósio de Filosofia reúne pesquisadores nacionais e internacionais na Unioeste de Toledo",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMHJwZk5JR1k4UXZGVmc3bjR1UXpFTUd3cGREQTFweWZfVmNCS3ZnWDRtX0NJLTJhS0pJSEllTW50UDBUbGF1UUUzYmZJSWhOeTNZUXZnYm9xd29PTXY3bnl0NmYtVGVOOVN3NmdVQUNnNnhYbzB3NmN6QWdoYVR6TlR1bnN1eksxckcxX2IyUjNVcFM0VC1oRFVYdy0zbkVsTDdwdWo0ckRnd0hBUXp6amNUUmFKbC0xcnlCMndB?oc=5",
-        "source": "Gazeta de Toledo",
-        "publishedAt": "2026-10-21T18:00:13.000Z",
-        "summary": "Simpósio de Filosofia reúne pesquisadores nacionais e internacionais na Unioeste de Toledo Gazeta de Toledo",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 1.41,
+        "score": 2.74,
         "relevance": 4
       }
     ],
     "cinema": [
+      {
+        "title": "Novos filmes chegam para os últimos dias da 50ª Mostra de Cinema de São Paulo",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQzRUYnZpdTVRM01UcW1FTUR3YWtqTkUtVUpLZUo2bG1qNDJVc0FpWUZDcXRtT2VGV1ZSd2JZSGVTTUhiVl9PN0ZpQTNkUlU2bEkybFo4aVFNN0lydzdMQmZqbXZzRDd6SE8wakota1NsNEc4OXo1TmdzNGxJaDhVZTRUZ1o4Vm1XbWpOUGRDcWF5RjF4Wjh1dnR0TlMyU0RzU0dTdWR1Ujd4RWp3N2YwU29RbnNPWEdKZG5zT2xUamFMamVaNk5Z?oc=5",
+        "source": "Guia Folha",
+        "publishedAt": "2026-10-23T02:00:00.000Z",
+        "summary": "Novos filmes chegam para os últimos dias da 50ª Mostra de Cinema de São Paulo Guia Folha",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.81,
+        "relevance": 6
+      },
+      {
+        "title": "Cinema grátis via streaming: JFF Theater traz filmes de ‘Kamen Rider Agito’ e Hiroshi Tanahashi em português",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORlpySEtjNXpLaUhYRGVtdHZTUnJnZDdVZGVQdmdBSm03NFFSN0VTTEZZUFA4Nnh0Mk94RFpjTG01RGVvWlBDVWNPdmdxNTdxMlVEYXNQaURtblVzRG91dGotRjNBUVJlRENWOW9oZ2traUlMdDN2WWdGOGVpVHNIY3UyYzZqLVI5blYzNkZkUWJfakhRX25WTkUxc1AzY3JSMGVQWlpFQmwtSGlNMU4xRFZvMXBxTm1RNkx6emR4N3Nsel9NYzJKMXlqWGNidlRnd3RqX1NDbDY?oc=5",
+        "source": "JBox",
+        "publishedAt": "2026-10-22T21:55:41.000Z",
+        "summary": "Cinema grátis via streaming: JFF Theater traz filmes de ‘Kamen Rider Agito’ e Hiroshi Tanahashi em português JBox",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.8,
+        "relevance": 7
+      },
       {
         "title": "10º Festival de Cinema Curta Caraguá segue até 29 de outubro com exibições de filmes e cerimônia de premiação",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRERabm1Hc19lcDN1d3plVDZPUVFUOFo1OU1TTEFvY2dRZm9oZUNsazJRNzg1d3FHRlNoekZDUmRQSmJSUUZrRGFYdC1DdFlwcV82aWFnTDRQTGc3V2Vra3VZenR5bERFYzNRdnNnaXVPUlRlb0EydGhpV01WbW9ib21mdWNqSnRtN1ZxTVdXMWgyQTJXVVNneUcyd0VsNUtfc18zUkxKemJYQml6TjhuV0h1M1p5cnZvc0tZQmU1bUVfWkREbTV6R1UtUFgxWFAxTTlYSFItUjY1c2QtNVlvNGJ0XzBXbEtVNTZzWUJPZw?oc=5",
@@ -996,73 +1022,47 @@
         "topics": [
           "cinema"
         ],
-        "score": 7.13,
+        "score": 5.71,
         "relevance": 8
+      },
+      {
+        "title": "Cinemateca Capitólio celebra centenário de Mel Brooks e recebe estreia da animação brasileira 'Papaya'",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYm11M2RXaFV6S1dhODBvVDhvVHF0Zk04NnladlJ0NTI3OENMMlpTNlQzand6UDM5YWxqd1ZlX2VXc3p5SWdiSDVIcXpBQTJETm8tLU1Zc0oySHFUM1g4SklDV2VPcmFSZlZIMDh3TkJaeUZMSzNLakxPMXZSajZEMXVzOVZmdU1YOHRfaUVicFp5eEJtQ05RZnFSRW1tM2U2X2xVaXhxRHU5OG10Q1BaaUlTbHVZVFlWaS15T2xZM28xRGtITk5kZ05YYTNvUXNJbGZodzM3eVM3VnEyMllVZQ?oc=5",
+        "source": "Sul 21",
+        "publishedAt": "2026-10-22T22:23:00.000Z",
+        "summary": "Cinemateca Capitólio celebra centenário de Mel Brooks e recebe estreia da animação brasileira 'Papaya' Sul 21",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.06,
+        "relevance": 6
       },
       {
         "title": "Andrew Scott, o roteirista e o diretor de \"Elsinore\" receberão o prêmio Tributo Legacy no Gotham Awards 2026! - Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQm01NFotR2IyczRoMDUwOTctTGMzemZ2eW5TUlE0ZVZPa1J0MXdEM3dGV0otY1FObnhtd3VvUE5aS2lBRGVoaS03SXQyTU1PYUcwQjlRdDl3QU9JdG95Mk44el9uZ2lDQ2FVVTZwWnZFVWZoSEtvSkxxb0lzNFNCS3JqSkgzLW81TUhDcW5FdGxEMV9xNnBiSXQwb0w2MGpsRUV2UEpya0ZtbURWV1dVWXNiYWpGeDNRMV9sU0h4LXltV2NPNzU1NWkwMWo3dXlDcVdQNXA0akwtUHZTOHpqNUNrZ0NGQW96VUdMaHJXT2JEc04tMmxZU1pRbnY?oc=5",
         "source": "Candidatos, Indicados e Vencedores",
-        "publishedAt": "2026-10-22T18:14:17.000Z",
+        "publishedAt": "2026-10-22T18:14:33.000Z",
         "summary": "Andrew Scott, o roteirista e o diretor de \"Elsinore\" receberão o prêmio Tributo Legacy no Gotham Awards 2026! Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022 - Candidatos, Indicados e Vencedores",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.28,
+        "score": 5.03,
         "relevance": 7
       },
       {
-        "title": "Mostra gratuita de cinema exibe filmes do Oscar em SBC",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Zd3dVWmRreFBGQXFKaGF3U21BLTVaTU5GYi15YWFFRUI0WmtOanctZ2VwZm1Vc1J6MHpJeFVlcUxTLWtDZmhhWmh1ckZIeDRjS3JLeUZSQ01MUUwzbHZvdTFocjh1dGd6dU9MdXlsSzgxQnRxc1NjTmU0aw?oc=5",
-        "source": "Portal ABC do ABC",
-        "publishedAt": "2026-10-22T17:04:09.000Z",
-        "summary": "Mostra gratuita de cinema exibe filmes do Oscar em SBC Portal ABC do ABC",
+        "title": "Cinema Especial hoje: confira o filme que a Globo exibe nesta quinta-feira (22/10)",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UMHc5UF83dlc1UXExLXFNV2hpYkllMWtpbHp5X01vdUdkQTlzWDc1anpRaFBOeUVYQ29OVmczcy1IMWZWdlpKN1IyYWRYQ054aTI3ODFQOUd5T1FvRVZkTkE3NklPTFdmTjVfYzR0cURLMkZKa05sR04tVVY?oc=5",
+        "source": "Séries em Cena",
+        "publishedAt": "2026-10-23T00:45:00.000Z",
+        "summary": "Cinema Especial hoje: confira o filme que a Globo exibe nesta quinta-feira (22/10) Séries em Cena",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6,
-        "relevance": 7
-      },
-      {
-        "title": "Cinema ganha seis estreias na região de São Carlos; veja os filmes em cartaz",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbXAzYUE5RV95N01CNk8yczNUSU9GeVpVN2dRaUNVcUhnTUtBRko2MVJ2Ym50OHBIVl81OGZmc0pqUGJVXzZieVByaW5Xa2tjZldLWHFiSGw1dmtqYUFpWEN0YlNHZ1F1U2REYmtjbHlLbEVGdjNuSTRQOHZ0UkFEWnZmeFdSX2hvNkx6YlhKSEgtcS04VjBRc2xDRGZCVXdqRExfVjBOOHNFM211MG52WW13SXFTWVdmdnRqMUhRbmg5bUotRjR0SFBEUC1yakNXQkpKU2pqNEVzRUU0NHdhTUVzQloxWVY4VG1HY3JHMi1iNm1GaHBqV0IxZ2M0d9IBjAJBVV95cUxNT09aYXhlX0NJT3RWeG9UWnlSMTd3eU83NzBxTE8zdC1vV3F1YWF4Z2tWMEpJRXBUdF9NaTFGanVpSVA2eEhkbUNWQXJJN0gtSlp6clJ1R1hXM0o2ZXRhN1NwUDR3SGVBMmtRN1c3aWh4MDNybFg5T3A1YVJKTnU4am9fLWYzOWphVDdrUEpPVXFTTUdPcGpXTFhvQlh0VmFidEZQZU1BX3VrZ2J3OGYySjdld1h0ZTdSWkh3d1lucXNySWRlaTA3LXhoU0lIY3hwczVBcUlXWGQwemtxUWctY3BheFFaQ0NmNFVpY0dtbEV3b004TzdraGRxZ3FJeU5LNU9WZVpQODdtYk9j?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-10-22T16:14:56.000Z",
-        "summary": "Cinema ganha seis estreias na região de São Carlos; veja os filmes em cartaz G1",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.82,
-        "relevance": 7
-      },
-      {
-        "title": "Maior festival de cinema do interior de São Paulo, CineFest Votorantim libera programação completa e aberta ao público",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUWwzdmJtQWNpMXdZbmFZQlVrbmE2cnBmdDhlMXMwUy1vWFRIMGFudGxzcmJqQUFxRHdXYmJpcXRTN3g0MzZBRVl3WWtwVmNYSWVCaXVuSGtXVzlKVWhlZlRfdU0wNURRd3ZmZk9hdnJaZjNPcVBNRktjeEZvd0RqU3IzWW8tWUw0ZEhqd0dzTFduWEFxRXZsVEdBV0Y4ZnRuNkp1LWFfaV9rNFE5SENyUERBYU5KcjFLeHhnUnlSWEFCb1BXVU5SN1FnUDdQQVRiQ2t2Y2xQZXdBT1JURWl6eXRia25lcUVmdklYanhWMUl4cURrcFZ5OA?oc=5",
-        "source": "Agenda Sorocaba",
-        "publishedAt": "2026-10-22T19:59:23.000Z",
-        "summary": "Maior festival de cinema do interior de São Paulo, CineFest Votorantim libera programação completa e aberta ao público Agenda Sorocaba",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.76,
-        "relevance": 6
-      },
-      {
-        "title": "Programação cinema BH: veja os filmes em cartaz (22/10 a 28/10)",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd2JSWXNLN2l4VXdueHFIV3pkWTI0QTlTWVhNLXRGNXRXaVAtM04tSEF6QXNzSWdKT0pOMk1aUmZndU80bmRELThFaDVhaVQxVmZRWnZhaXE3eVl0RmpnNlp6TmZ0VVgxVm16QnMxX2xQaVRtWTUzMmFVNzVWa210NjBHb3R4YVNHZS1IRjZIaHh6OUlwR2c?oc=5",
-        "source": "BHAZ",
-        "publishedAt": "2026-10-22T19:47:00.000Z",
-        "summary": "Programação cinema BH: veja os filmes em cartaz (22/10 a 28/10) BHAZ",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.71,
-        "relevance": 6
+        "score": 4.99,
+        "relevance": 5.4
       }
     ],
     "medicina": [
@@ -1070,28 +1070,27 @@
         "title": "Ministério da Saúde inicia oferta de novos medicamentos oncológicos",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBybGdRcUZWb2J3T2htMloxTlVQR3dQZWVJUkZPUVBBU28zWXQwQWpxdlRHRkM5YU1zc2V0eGc5MEpDRG9VS1RTdGFpM3lKcllMWnpCeGktVUpyR0tMWTJQdFNMV0VqOG0x?oc=5",
         "source": "Medicina S/A",
-        "publishedAt": "2026-10-22T19:32:54.000Z",
+        "publishedAt": "2026-10-22T20:55:59.000Z",
         "summary": "Ministério da Saúde inicia oferta de novos medicamentos oncológicos Medicina S/A",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 6.04,
+        "score": 5.1,
         "relevance": 6.4
       },
       {
-        "title": "De mamografia a papanicolau: Piracicaba oferece exames gratuitos contra câncer de mama e demais doenças; veja locais",
-        "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/22/de-mamografia-a-papanicolau-piracicaba-oferece-exames-gratuitos-contra-cancer-de-mama-e-demais-doencas-veja-locais.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-22T20:52:03.000Z",
-        "summary": "Piracicaba tem mutirões de exames preventivos contra o câncer de mama Jornal Nacional/ Reprodução Piracicaba (SP) oferece diferentes mutirões de prevenção e conscientização sobre o câncer de mama entre esta sexta-feira (23) e no sábado (24)",
-        "image": "https://s2-g1.glbimg.com/yhf_GNb8S_OH0sIqPe8YOUX6Iv0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/b/e1Z41SQ7m5yoBP3UR35g/globo-canal-4-20261001-2000-frame-161101.jpeg",
+        "title": "Acadêmicos de Medicina da Metropolitana apresentam três pesquisas no 2º Congresso de Neurologia e Neurocirurgia da Região Norte",
+        "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNYjV1LVBVX1haNTJVR29yYnVaaTlQdVRQQU9lV3d0bjR3TmJNbUpQS2xBazZ5MTdGV3RVSldnYkFCUi1STllxNnBjbjM1SDlfZ2pudmE3YUlsR2VkYjFzR2VrY2xkTDB6MV91cmhUYlF5TjZNN29lOXJQS3RRdUZrRlM4bWpOZ3pWUGZFV2R1SVVFTFZEY3NVTGFDTWtuZXVUam5JQTVuTXFHSUx2ME5DNFNkRXBGTHUyVUlRUkZPS2pjQlNPZU9oaG1Nb0Z0Y2lTd1U5UnluMDJPS2JuT09zOWJIRGREMEo0S19JOVlZYjRXOWltNXUxemE1Q3A5d3VZWk05M21IcHRlNzZNTVlPeDdwMUhlUmt6b3o0bml4QXFqNkZxWFp5TEJBb0twcDA?oc=5",
+        "source": "Eu Ideal",
+        "publishedAt": "2026-10-22T22:06:00.000Z",
+        "summary": "Acadêmicos de Medicina da Metropolitana apresentam três pesquisas no 2º Congresso de Neurologia e Neurocirurgia da Região Norte Eu Ideal",
+        "image": null,
         "topics": [
-          "medicina",
-          "negocios"
+          "medicina"
         ],
-        "score": 5.16,
-        "relevance": 5.2
+        "score": 5,
+        "relevance": 6
       },
       {
         "title": "Nvidia apoia descoberta de novos medicamentos e iniciativas de cuidados ao paciente",
@@ -1103,7 +1102,7 @@
         "topics": [
           "medicina"
         ],
-        "score": 4.82,
+        "score": 3.86,
         "relevance": 6.4
       },
       {
@@ -1116,34 +1115,34 @@
         "topics": [
           "medicina"
         ],
-        "score": 4.71,
+        "score": 3.77,
         "relevance": 5
       },
       {
-        "title": "Investigação aponta ao menos 16 vítimas de 'falso médico' no Norte do RS",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/22/investigacao-vitimas-falso-medico-norte-rs.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-22T19:33:04.000Z",
-        "summary": "Investigação aponta ao menos 16 vítimas de 'falso médico' no Norte do RS Divulgação/Polícia Civil A Polícia Civil concluiu a investigação sobre um homem suspeito de se apresentar como médico sem possuir habilitação legal para o exercício da",
-        "image": "https://s2-g1.glbimg.com/asBQbexvxiq4O7bClbyFxoa2NTg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/K/D9VxluRHa8lRhF46Kylg/documento.jpg",
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.34,
-        "relevance": 4.6
-      },
-      {
-        "title": "Acadêmicos de Medicina da Metropolitana apresentam três pesquisas no 2º Congresso de Neurologia e Neurocirurgia da Região Norte",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbkhxcEZ0RUwyZHN1UjJ5c0ZVNHFENTlnS2UzTjhXbkthZ0QwN1dVX29UdVJPT3JJcDg0eWgwdUMzWVdjNWw0bWFFTS1UR1NsQVlCb3cwWDZ0b0hrNE95NzU3Nm42d21nNlE0QWZmdEFFSk8tQk84X2p0T2o2ZVNhbUJHdDFyZVQwVGFueTVoQXJ5WkdmcHZXWXJWOVdLdUlRTjR5MDJNRW5BYko2UHdTeGdYcHpWa0M0ckd3M0pNbTY4RUltT3loU2N5LWVXQXg4VU1VYTIyMjhJdGdZOWNxdkJZRFhfb3FQaGN4ZUZWRTFSdE9YNkxidktUSmhmZ0U?oc=5",
-        "source": "Gente de Opinião",
-        "publishedAt": "2026-10-22T12:35:00.000Z",
-        "summary": "Acadêmicos de Medicina da Metropolitana apresentam três pesquisas no 2º Congresso de Neurologia e Neurocirurgia da Região Norte Gente de Opinião",
+        "title": "Faculdade de Medicina de Olinda cria comenda em homenagem a Inácio de Barros Melo",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPREVkRUJYdjlNQWN1VTRLblNUMHNLQ3ZhMU9ERndiQ1NISVJqcVFZNFQ0ZE10Yk8wN25aNGVLcW9oTHRRczEyZVdSX3pzUkFsX3o3dmtpMnF4OVl4MTBMa1I5OGZfOVAtRUwyVDBtTWhVaDFMam84RFhiTEFnSy1SRTFsZWVEdzdKcUxUSWZ4WHI2U0JYcml3Yk1sNlJiakdCQmdZNkNTN1FzWGt3MlE?oc=5",
+        "source": "Blog do Magno",
+        "publishedAt": "2026-10-22T23:11:36.000Z",
+        "summary": "Faculdade de Medicina de Olinda cria comenda em homenagem a Inácio de Barros Melo Blog do Magno",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.33,
-        "relevance": 6
+        "score": 3.48,
+        "relevance": 4
+      },
+      {
+        "title": "II Semana Acadêmica de Medicina da Ulbra debate formação e saúde regional",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVUZaaER0Vmt3N1R1OTdsVUdERE5KWXJXVmpPY283ekx0OGpmU3p6T3hBTlZxY3NXcmxCeS1fU2oxcVdGM1lkSDQyOWJkRmkzUVdMcTlVWlVHWS1HVmVBaUJKVmRSUV9WcEVzMFpJZVpsdGl1c1htRzZTOFp2Q1FBbzdDNllZTVI2TEl2SGZNeDQxVXJaV1kxSUV2OHFOMHdBY0RBaUxkQ2pSR2diWHRHODZsT0l2YzNRb1hIUktIc3hqS0FHTEF5bXFQVGZST1ZRZ2J3R1Y3bUtUVDZEVGNxNm5zUmhwenM1?oc=5",
+        "source": "portaldenoticias.com.br",
+        "publishedAt": "2026-10-22T17:01:00.000Z",
+        "summary": "II Semana Acadêmica de Medicina da Ulbra debate formação e saúde regional portaldenoticias.com.br",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.43,
+        "relevance": 5
       }
     ]
   }
