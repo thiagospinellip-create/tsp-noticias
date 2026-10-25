@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:29:32.037Z",
+  "generatedAt": "2026-10-25T15:21:35.780Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -30,112 +30,231 @@
   ],
   "highlights": [
     {
-      "title": "Pequenos negócios de Minas investem em tecnologia para aumentar produtividade e vendas",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNCSVhLUDhiRkpKMk80S29ZUXBKeU5McEY2T0xCNzZ0TnU5SDlzM3ppS1Z6QjYxNS02b1REbVEwVzhLQ1ZOUjRRZXdFTUJVQUptQWR6WGpYYmxvbXZCM2N3cm00TDU1SVR3c2FWSWMyV21DREEzX1Y1NUNSUkxIRXRSczJwNXRzc05HV0QtUGFvbGdVQkgwYjhwOS05SHVkLVlQMVlJNERqNGJqaDNXamlscDRDMmJMYkRTNDJUUW9HMWViWTFR?oc=5",
-      "source": "Diário do Comércio",
-      "publishedAt": "2026-10-25T08:02:00.000Z",
-      "summary": "Pequenos negócios de Minas investem em tecnologia para aumentar produtividade e vendas Diário do Comércio",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.82,
-      "relevance": 6.4
-    },
-    {
-      "title": "Votação no exterior: Lula vence na Nova Zelândia e China; Flávio Bolsonaro vence no Japão e na Malásia",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-25T03:00:06.000Z",
-      "summary": "Veja países em que Lula ou Flávio Bolsonaro venceram no 2º turno das eleições presidenciais de 2026. Editoria de arte/g1 Quase 1 milhão de brasileiros que vivem no exterior estão aptos no segundo turno das eleições presidenciais. A votação ",
-      "image": "https://s2-g1.glbimg.com/xJJbBj4YYd71B2zZJVDSIxFHQwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/l/d1lqazQxyvNM6ZJzFzJQ/votacao-exterior-2026-10-25-world-no-antarctica-votos-por-pais-2-.png",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.7,
-      "relevance": 7.6
-    },
-    {
-      "title": "Conflito na Ucrânia: Diplomacia é o Caminho Mais Fácil para a Paz, mas Ocidente Enfrenta Dificuldades em Superar Preconceitos",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa0pjb0wwamRNUFZmNVNiYXdaTjBZblBnWE5xWUV0SUxpOTZkQm1mUzJGTnZfejdNT3lTQ0VQX1ozaHV0MlFWU0pNcmJ2MDY5eXd1alVIUFVSSjZMQW1xaEZSdWNLNFJNT0d0TjFuWW94OUVkbUxnQ245alJzRWhwTVMxVUJUNm45MzRqSUljdXMtdjg2TjZkZHFBR2hfazNMOThHRFd0S3o5M0hwNWpKcmVEVXFWd3UwR0tsODRHOUlSOEplRGc4cS1PRUs5eWFRTHJHSHJCLS1lVk1IMkRjYWM4VmFGeDB2d1E?oc=5",
-      "source": "Repórter Maceió",
-      "publishedAt": "2026-10-25T08:50:00.000Z",
-      "summary": "Conflito na Ucrânia: Diplomacia é o Caminho Mais Fácil para a Paz, mas Ocidente Enfrenta Dificuldades em Superar Preconceitos Repórter Maceió",
-      "image": null,
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.63,
-      "relevance": 6
-    },
-    {
-      "title": "Montagem do Natal do Bem gera empregos e movimenta economia em Goiânia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1BlcWlyOTZ0c3pRMVlIM0k5a25SQ25MdW1LY1BaVDlCQ3daWVg1bUdUWExpMXhrMWtxYWxRX3NYQUxvRW5Uc0pyM2hmUmk3Z2ZRQkxtMFhVcjRfcU82azlaR2xuaTVlQkdmSDIydnlNR2VHMlNnVEItSjZkR1BPNXVTcHBSQ3BnYTdQNGI5UHU1SVh0dXczYWRTWjZfRGtUT2g2d04zT3JOM2s?oc=5",
-      "source": "Arroz de Fyesta",
-      "publishedAt": "2026-10-25T06:13:32.000Z",
-      "summary": "Montagem do Natal do Bem gera empregos e movimenta economia em Goiânia Arroz de Fyesta",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.09,
-      "relevance": 6
-    },
-    {
-      "title": "Kim Jong-un encerra visita à China em gesto de aproximação com Pequim",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/24/kim-jong-un-encerra-visita-a-china-em-gesto-de-aproximacao-com-pequim.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-24T23:40:50.000Z",
-      "summary": "O líder norte-coreano, Kim Jong-un, deposita uma coroa de flores durante visita ao Memorial da Guerra para Resistir à Agressão dos EUA e Ajudar a Coreia, em Dandong, na província de Liaoning, China, em 24 de outubro de 2026. KCNA via REUTER",
-      "image": "https://s2-g1.glbimg.com/sMfs7vao83v6e5lz19yUhEuqdck=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/0/hLL0S2S26CFwTKztXkBQ/2026-10-24t234658z-1053097962-rc2y9oap4ey6-rtrmadp-3-china-northkorea-kim-1-.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.01,
-      "relevance": 7.6
-    },
-    {
-      "title": "Kore-eda tentou usar IA para revisar roteiro, mas achou sugestões \"entediantes\": \"Ele nunca amou cinema\"",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2NINEw5N3VZQUhJeV80RDNCX2RmaHMxTTBiVkx4SGI3UG5JalZkRnkyQTUzbWhwR3FsYkhoTUFrc1ZwbHRUbzNId3E5eGNneVpLaWQ1T3hsS1lFMHZvald5UFhhSkJSbjh6NER2U3Z6RW9NMUZWZ0I4UENMX3dCdGtUdjdMNldpOG1VWXllMloxeHZBSHJ2Y0ROS1Y2OWk3c1VZRUJTSjZQRGlM?oc=5",
-      "source": "Omelete",
-      "publishedAt": "2026-10-25T10:20:00.000Z",
-      "summary": "Kore-eda tentou usar IA para revisar roteiro, mas achou sugestões \"entediantes\": \"Ele nunca amou cinema\" Omelete",
+      "title": "Festival de Cinema Francês reúne 21 filmes no Paradigma Cine Arte",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXBHYjdaMWEtQXJlVlVKamVHSFp0ZDFEd1hidlFWNkJ5dWxEcVhFVUM1Tm54VUhJNC1HclRtS1JNalJORGx0Uy1waGNEdHl0eTBERFNxLXpEUllFLWVYeHhSWDZ3bE1MWTRyZ2FUb2NaQVBlQ2ZLb2RFSGltTFRTekVST3hNTU9kNWxfZlBMOGFXVF96ckF2VA?oc=5",
+      "source": "Informe Floripa",
+      "publishedAt": "2026-10-25T14:55:41.000Z",
+      "summary": "Festival de Cinema Francês reúne 21 filmes no Paradigma Cine Arte Informe Floripa",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 4.97,
-      "relevance": 5
+      "score": 7.87,
+      "relevance": 8
     },
     {
-      "title": "Do mercado financeiro ao empreendedorismo: a trajetória de Jonathan Félix desde 2007",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOW5CelhKSEFDMHgzX3Jkb0xvdWtvbW5jWFp1Z0hIWHVsWWluTWxsYnhyc0ZCUGdyVkhVU2l3WEFQOHhDRXdfbHFXZ3BnZlVMUm93WlByWmtUQlNobl9UZlh3T2Fsa2luQ3U1ZDI0RkdPU01kYm5oV2c2WUR5MmFOWXBpZ240LTFuN2Z4UkI0NzdCVThKRzVyN0xOWXQzV3M2OWxYX21ob0NhM1Y1SkRsNlYxRWJqN3hKMWpjckVpak5Pdw?oc=5",
-      "source": "jornaltribuna.com.br",
-      "publishedAt": "2026-10-25T09:50:07.000Z",
-      "summary": "Do mercado financeiro ao empreendedorismo: a trajetória de Jonathan Félix desde 2007 jornaltribuna.com.br",
+      "title": "3 filmes para conferir no Festival de Cinema Francês no Brasil",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzdzY2pPZUJvQlRJOHF2eUJLVFRUR1ljMmNTVTl2VTV6N0dRcnNFUHdpNVY5NGxpNWVBUmJOR0lTUEVJQWI5VmZaOU5xb3FyM3hDY3l5YzRpYkh1NXZqWmR6NElHdThlS3o1VmViamltNUIybnlBRnNTOEFhbnY3NDlPbnU?oc=5",
+      "source": "VEJA RIO",
+      "publishedAt": "2026-10-25T13:00:52.000Z",
+      "summary": "3 filmes para conferir no Festival de Cinema Francês no Brasil VEJA RIO",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 7.31,
+      "relevance": 8
+    },
+    {
+      "title": "Taxa natural de juros e desemprego: a crítica à economia que naturaliza desigualdades",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEk5N2ZNdm03S0xCWVlrRElpSkYwcHo3cGd6Zjl2UkZQaFlKNGFETlYzV2FtWDZBYlRjQUpyY1V4Vmo2djNvQnNZOTlqQW1QbmNvUFRnVWZMSTlpall4TnVfSThlN1dtVzJMdkxtZE9oNGV3RTNOaWdmSzJuS05TNA?oc=5",
+      "source": "Rede Estação Democracia",
+      "publishedAt": "2026-10-25T11:00:00.000Z",
+      "summary": "Taxa natural de juros e desemprego: a crítica à economia que naturaliza desigualdades Rede Estação Democracia",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 4.88,
-      "relevance": 5
+      "score": 6.76,
+      "relevance": 8
     },
     {
-      "title": "Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/24/ucrania-diz-que-starlink-voltou-a-funcionar-elon-musk-acusa-pais-de-usar-sistema-para-ataques.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-24T19:51:08.000Z",
-      "summary": "O presidente da Ucrânia, Volodymyr Zelensky, durante entrevista coletiva em cúpula de líderes da União Europeia, em Bruxelas, na Bélgica, em 16 de outubro de 2026 Yves Herman/Reuters A Ucrânia anunciou neste sábado que o sistema de satélite",
-      "image": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
+      "title": "7 a cada 10 empresários apontam a burocracia como alta ou insuportável para os negócios",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaUlfVjJrcVFxYkVZc2MwTUxTenpieGFzd1lZRmZtTXExNXMyTVhld2h3NGFNTGdhdlltQkltR2NSdTFqYjNBZWNRNE1jMEcwVGZESnhkSGVJTTVNOHl5OWlDa0UxaWRERWlVbUloNVdjQXBuWTI4ZVUzd0ZfNkdJREtR?oc=5",
+      "source": "Gazeta do Povo",
+      "publishedAt": "2026-10-25T13:38:00.000Z",
+      "summary": "7 a cada 10 empresários apontam a burocracia como alta ou insuportável para os negócios Gazeta do Povo",
+      "image": null,
       "topics": [
+        "negocios"
+      ],
+      "score": 5.61,
+      "relevance": 6
+    },
+    {
+      "title": "Jovens votam juntos em Araraquara e citam economia entre as preocupações",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMzJQWVJ0SFFpa2Ewak1IY2NiRHBKMGFRNkRsdV9LYlhjNGFSVk9HZkN6d1BKOUxJQW1ya1NHdGI3OEFFT25jdTVxVlNRMldTZy05MnlGTlFPX0NiaEl6aWw0LUtDTndhLWpTa0V5MjNYZlNtN0hha2pXdWJDMWVMVTd4YmRaTEZPak9pZTMxTE9jV0ZLcFV3ZDFVWEtHN1E3VFJIalEyZFF4dzV1ZzlzZ0ZEZzBTcV8tUWsxWU1DMHdWRkR4SE9vMjhtR3M1a3Vn0gHfAUFVX3lxTFBOaHRLbHpNZWd0YUNBV2VoY2NMLXNjRVJ5NzNNSzVLZ3ExTTNiTm5oZ1ZxX1dHS1JGZHU1Z1BmV0RZYWFWY1hISFpQNGNHS1dQZzN3cHhtTnJQNU5icHQ2anVKTkY3anZuZWVYbHFjZTF5VnhtVERNZE9xc1k0QWp0WEFFSkZ5RDB5TUhpeV9xa3kxOHQtd3ZvNVlhb3FpaWpRVjFvaW5HdENudkd4M25mZ0pWZWdVVnFjMkVodTU3Vk9NYTFtN0I1bE5fc3JZOVVsVlAwTWxCeTlpSmhTb3M?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-10-25T13:04:16.000Z",
+      "summary": "Jovens votam juntos em Araraquara e citam economia entre as preocupações G1",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.49,
+      "relevance": 6
+    },
+    {
+      "title": "Mudanças climáticas já causam aumento de doenças infecciosas no país",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mudancas-climaticas-ja-causam-aumento-de-doencas-infecciosas-no-pais",
+      "source": "Tâmara Freire - Repórter da Agência Brasil",
+      "publishedAt": "2026-10-25T12:06:00.000Z",
+      "summary": "Desde a década de 1980, o Brasil registra surtos comprovados de dengue, mas só em 2007 o Rio Grande do Sul teve um caso que não tenha sido importado de outra parte do país. A explicação é simples: como o mosquito Aedes aegypti, que transmit",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "medicina",
         "geopolitica"
       ],
-      "score": 4.78,
-      "relevance": 8.4
+      "score": 5.12,
+      "relevance": 5.8
+    },
+    {
+      "title": "Com PIB de R$ 2,2 bilhões, cidade de SC conhecida pelo gado Jersey é a quinta maior economia do estado entre municípios de até 40 mil habitantes",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xOGtDX0NUOWdMUEt5TlRDVUdiaGppS2Nha3pvN29vem5ZZFZVeEw1SmJLc3VoR0RkNC03NnVqVDF2VGY1ZGJKOGZPRjRoWjR4aU9sRTI0LXI2MmUtS3ZSY3hEdGQ1MWpzU05OMWVvS0ZMajhyYm1OY0M2T1RxSU0?oc=5",
+      "source": "ND Mais",
+      "publishedAt": "2026-10-25T10:30:45.000Z",
+      "summary": "Com PIB de R$ 2,2 bilhões, cidade de SC conhecida pelo gado Jersey é a quinta maior economia do estado entre municípios de até 40 mil habitantes ND Mais",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.98,
+      "relevance": 6
+    },
+    {
+      "title": "Clint Eastwood, Tarantino e 10 Oscars: os 7 melhores faroestes para assistir no streaming agora",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHpnbU9RUkxENWRLbUlzUW1HWVVURnpuamd4TlVlYy1TbFdjZ3NmUVp5QU0tczdBZnlEaURZUTROMzQ1RWNnOE5QQl9nbkVFaUNRYm9IOXU4MlBWQkdySkswcjhKQnlPa2lxajgzR3k5TXpCVmpvbGpBYlpVZHVuVlNEWVlUenllMDAtYV9ocm5aenpYckpaZllqWQ?oc=5",
+      "source": "Revista Bula",
+      "publishedAt": "2026-10-25T14:50:01.000Z",
+      "summary": "Clint Eastwood, Tarantino e 10 Oscars: os 7 melhores faroestes para assistir no streaming agora Revista Bula",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.9,
+      "relevance": 5
     }
   ],
   "items": [
     {
+      "title": "Festival de Cinema Francês reúne 21 filmes no Paradigma Cine Arte",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXBHYjdaMWEtQXJlVlVKamVHSFp0ZDFEd1hidlFWNkJ5dWxEcVhFVUM1Tm54VUhJNC1HclRtS1JNalJORGx0Uy1waGNEdHl0eTBERFNxLXpEUllFLWVYeHhSWDZ3bE1MWTRyZ2FUb2NaQVBlQ2ZLb2RFSGltTFRTekVST3hNTU9kNWxfZlBMOGFXVF96ckF2VA?oc=5",
+      "source": "Informe Floripa",
+      "publishedAt": "2026-10-25T14:55:41.000Z",
+      "summary": "Festival de Cinema Francês reúne 21 filmes no Paradigma Cine Arte Informe Floripa",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 7.87,
+      "relevance": 8
+    },
+    {
+      "title": "3 filmes para conferir no Festival de Cinema Francês no Brasil",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzdzY2pPZUJvQlRJOHF2eUJLVFRUR1ljMmNTVTl2VTV6N0dRcnNFUHdpNVY5NGxpNWVBUmJOR0lTUEVJQWI5VmZaOU5xb3FyM3hDY3l5YzRpYkh1NXZqWmR6NElHdThlS3o1VmViamltNUIybnlBRnNTOEFhbnY3NDlPbnU?oc=5",
+      "source": "VEJA RIO",
+      "publishedAt": "2026-10-25T13:00:52.000Z",
+      "summary": "3 filmes para conferir no Festival de Cinema Francês no Brasil VEJA RIO",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 7.31,
+      "relevance": 8
+    },
+    {
+      "title": "Taxa natural de juros e desemprego: a crítica à economia que naturaliza desigualdades",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEk5N2ZNdm03S0xCWVlrRElpSkYwcHo3cGd6Zjl2UkZQaFlKNGFETlYzV2FtWDZBYlRjQUpyY1V4Vmo2djNvQnNZOTlqQW1QbmNvUFRnVWZMSTlpall4TnVfSThlN1dtVzJMdkxtZE9oNGV3RTNOaWdmSzJuS05TNA?oc=5",
+      "source": "Rede Estação Democracia",
+      "publishedAt": "2026-10-25T11:00:00.000Z",
+      "summary": "Taxa natural de juros e desemprego: a crítica à economia que naturaliza desigualdades Rede Estação Democracia",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.76,
+      "relevance": 8
+    },
+    {
+      "title": "7 a cada 10 empresários apontam a burocracia como alta ou insuportável para os negócios",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaUlfVjJrcVFxYkVZc2MwTUxTenpieGFzd1lZRmZtTXExNXMyTVhld2h3NGFNTGdhdlltQkltR2NSdTFqYjNBZWNRNE1jMEcwVGZESnhkSGVJTTVNOHl5OWlDa0UxaWRERWlVbUloNVdjQXBuWTI4ZVUzd0ZfNkdJREtR?oc=5",
+      "source": "Gazeta do Povo",
+      "publishedAt": "2026-10-25T13:38:00.000Z",
+      "summary": "7 a cada 10 empresários apontam a burocracia como alta ou insuportável para os negócios Gazeta do Povo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.61,
+      "relevance": 6
+    },
+    {
+      "title": "Jovens votam juntos em Araraquara e citam economia entre as preocupações",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMzJQWVJ0SFFpa2Ewak1IY2NiRHBKMGFRNkRsdV9LYlhjNGFSVk9HZkN6d1BKOUxJQW1ya1NHdGI3OEFFT25jdTVxVlNRMldTZy05MnlGTlFPX0NiaEl6aWw0LUtDTndhLWpTa0V5MjNYZlNtN0hha2pXdWJDMWVMVTd4YmRaTEZPak9pZTMxTE9jV0ZLcFV3ZDFVWEtHN1E3VFJIalEyZFF4dzV1ZzlzZ0ZEZzBTcV8tUWsxWU1DMHdWRkR4SE9vMjhtR3M1a3Vn0gHfAUFVX3lxTFBOaHRLbHpNZWd0YUNBV2VoY2NMLXNjRVJ5NzNNSzVLZ3ExTTNiTm5oZ1ZxX1dHS1JGZHU1Z1BmV0RZYWFWY1hISFpQNGNHS1dQZzN3cHhtTnJQNU5icHQ2anVKTkY3anZuZWVYbHFjZTF5VnhtVERNZE9xc1k0QWp0WEFFSkZ5RDB5TUhpeV9xa3kxOHQtd3ZvNVlhb3FpaWpRVjFvaW5HdENudkd4M25mZ0pWZWdVVnFjMkVodTU3Vk9NYTFtN0I1bE5fc3JZOVVsVlAwTWxCeTlpSmhTb3M?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-10-25T13:04:16.000Z",
+      "summary": "Jovens votam juntos em Araraquara e citam economia entre as preocupações G1",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.49,
+      "relevance": 6
+    },
+    {
+      "title": "Mudanças climáticas já causam aumento de doenças infecciosas no país",
+      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mudancas-climaticas-ja-causam-aumento-de-doencas-infecciosas-no-pais",
+      "source": "Tâmara Freire - Repórter da Agência Brasil",
+      "publishedAt": "2026-10-25T12:06:00.000Z",
+      "summary": "Desde a década de 1980, o Brasil registra surtos comprovados de dengue, mas só em 2007 o Rio Grande do Sul teve um caso que não tenha sido importado de outra parte do país. A explicação é simples: como o mosquito Aedes aegypti, que transmit",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "medicina",
+        "geopolitica"
+      ],
+      "score": 5.12,
+      "relevance": 5.8
+    },
+    {
+      "title": "Com PIB de R$ 2,2 bilhões, cidade de SC conhecida pelo gado Jersey é a quinta maior economia do estado entre municípios de até 40 mil habitantes",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xOGtDX0NUOWdMUEt5TlRDVUdiaGppS2Nha3pvN29vem5ZZFZVeEw1SmJLc3VoR0RkNC03NnVqVDF2VGY1ZGJKOGZPRjRoWjR4aU9sRTI0LXI2MmUtS3ZSY3hEdGQ1MWpzU05OMWVvS0ZMajhyYm1OY0M2T1RxSU0?oc=5",
+      "source": "ND Mais",
+      "publishedAt": "2026-10-25T10:30:45.000Z",
+      "summary": "Com PIB de R$ 2,2 bilhões, cidade de SC conhecida pelo gado Jersey é a quinta maior economia do estado entre municípios de até 40 mil habitantes ND Mais",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.98,
+      "relevance": 6
+    },
+    {
+      "title": "Clint Eastwood, Tarantino e 10 Oscars: os 7 melhores faroestes para assistir no streaming agora",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHpnbU9RUkxENWRLbUlzUW1HWVVURnpuamd4TlVlYy1TbFdjZ3NmUVp5QU0tczdBZnlEaURZUTROMzQ1RWNnOE5QQl9nbkVFaUNRYm9IOXU4MlBWQkdySkswcjhKQnlPa2lxajgzR3k5TXpCVmpvbGpBYlpVZHVuVlNEWVlUenllMDAtYV9ocm5aenpYckpaZllqWQ?oc=5",
+      "source": "Revista Bula",
+      "publishedAt": "2026-10-25T14:50:01.000Z",
+      "summary": "Clint Eastwood, Tarantino e 10 Oscars: os 7 melhores faroestes para assistir no streaming agora Revista Bula",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.9,
+      "relevance": 5
+    },
+    {
+      "title": "Eleições 2026: dólar pode superar R$ 5,20 e Ibovespa cair abaixo de 180 mil pontos, diz economista",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjhwb0RXUVdyeTRuNDEtSnRkVzhvNGpjWUpzWEFZTUp5dlQwTWlDN3dJa1VfS2ZHYWdzSWdXdEFxMXFadkZ1TUZydFpkRnNmSXN2RkJKWkFYLU9wTmJQV2VTVmdzNVdjeXBleW53MEFGWHo1NEdKb1ZRcFhvNGkxMEk3SXhIMHlsWExIV3hOcjlwR0htRjJpRGw4Ui13cHMzT0NkbV9QdGxDSS1BS0VoZ2syWGJlWVNKc1lCQktibVdRZy1q?oc=5",
+      "source": "BPMoney",
+      "publishedAt": "2026-10-25T14:36:48.000Z",
+      "summary": "Eleições 2026: dólar pode superar R$ 5,20 e Ibovespa cair abaixo de 180 mil pontos, diz economista BPMoney",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.86,
+      "relevance": 5
+    },
+    {
       "title": "Pequenos negócios de Minas investem em tecnologia para aumentar produtividade e vendas",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNCSVhLUDhiRkpKMk80S29ZUXBKeU5McEY2T0xCNzZ0TnU5SDlzM3ppS1Z6QjYxNS02b1REbVEwVzhLQ1ZOUjRRZXdFTUJVQUptQWR6WGpYYmxvbXZCM2N3cm00TDU1SVR3c2FWSWMyV21DREEzX1Y1NUNSUkxIRXRSczJwNXRzc05HV0QtUGFvbGdVQkgwYjhwOS05SHVkLVlQMVlJNERqNGJqaDNXamlscDRDMmJMYkRTNDJUUW9HMWViWTFR?oc=5",
       "source": "Diário do Comércio",
@@ -145,21 +264,73 @@
       "topics": [
         "negocios"
       ],
-      "score": 5.82,
+      "score": 4.83,
       "relevance": 6.4
     },
     {
-      "title": "Votação no exterior: Lula vence na Nova Zelândia e China; Flávio Bolsonaro vence no Japão e na Malásia",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-25T03:00:06.000Z",
-      "summary": "Veja países em que Lula ou Flávio Bolsonaro venceram no 2º turno das eleições presidenciais de 2026. Editoria de arte/g1 Quase 1 milhão de brasileiros que vivem no exterior estão aptos no segundo turno das eleições presidenciais. A votação ",
-      "image": "https://s2-g1.glbimg.com/xJJbBj4YYd71B2zZJVDSIxFHQwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/l/d1lqazQxyvNM6ZJzFzJQ/votacao-exterior-2026-10-25-world-no-antarctica-votos-por-pais-2-.png",
+      "title": "“O BC é o médico e a economia do país entrou doente no consultório”, afirma Antônio da Luz",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORVpzd2dWMlRTTHdHSHIzT00wQW5iMXR6ZE1rMXBHZmIzRno4TWxWQ0xBd0xpenB5ZFdPQzVoZXpKZ2p5by1IWGdzU0Q3bmUwSmFHbVJyMXlmTko5RjBUc3NVZ0F5UHNmdk9XZGtJWGlxZFN4Y3hzRzJybmlMT1NXbnp1aW9yWTJQQUZteEhlbXhXa1BLWjdhMWNkRWQ0QWJ4U0V5R0FnX3dHUjJVcnhURTliQXZVU29UQ2hORjVtalNmb2RpRTlCOThEd2FjbmtX?oc=5",
+      "source": "Grupo A Hora",
+      "publishedAt": "2026-10-25T14:21:00.000Z",
+      "summary": "“O BC é o médico e a economia do país entrou doente no consultório”, afirma Antônio da Luz Grupo A Hora",
+      "image": null,
       "topics": [
-        "geopolitica"
+        "negocios"
       ],
-      "score": 5.7,
-      "relevance": 7.6
+      "score": 4.81,
+      "relevance": 5
+    },
+    {
+      "title": "Alan Rick expressa expectativa de vitória e defende mudanças na saúde, segurança e economia do Acre",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdUtVbk9VNVBTdUMxYXBobWFvYmRkdHVsbHg2X2dFOWdfZkNMTWdsVlpGY280RzVTRTE0bUhVOFBIbnM4Wm5OMlZYSV9FVV9iSUtKdDc4ZERfdmZjZ2MtU2c1enU0OWlOOERVcXBucl80UEhBd3NDT1BjdEhzZzAyZ2hmMmhNNU91WW55bHRlNkhQS182ZjJKd3k0UEkyckpMdVZpNVRPR0twVEwtVGpqN09pbGNnNFpxMlVHSGF2bw?oc=5",
+      "source": "o rio branco",
+      "publishedAt": "2026-10-25T14:00:34.000Z",
+      "summary": "Alan Rick expressa expectativa de vitória e defende mudanças na saúde, segurança e economia do Acre o rio branco",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.75,
+      "relevance": 5
+    },
+    {
+      "title": "Os 7 filmes e séries mais assistidos hoje no streaming | 25 de outubro de 2026",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORjVQTnJ0dDUxemRIRjNhUXFkeGt0MnFzSFpGM21OdUNvMERzYlB5dl83azFPa3J1dUdzWTRRUkMzWDE4c2kxUDJWUkdwUkpsZGt2c1dINXprZXZ0bmFsMGRYUklUWlo1OTNaZlpQWlI0d1JNQWJHWFIyNi05NnBldUY2TllYQWpuOGRLVTdjSER4RkQ3djhiRXZ1SXgwTEluNVBERF9nRjViQQ?oc=5",
+      "source": "Portal Barcelos na NET",
+      "publishedAt": "2026-10-25T04:59:40.000Z",
+      "summary": "Os 7 filmes e séries mais assistidos hoje no streaming | 25 de outubro de 2026 Portal Barcelos na NET",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.7,
+      "relevance": 7
+    },
+    {
+      "title": "Eleição brasileira mobiliza imprensa internacional e coloca Trump, economia e democracia em foco",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNc00yaFBVd0wxSlFtenlNUWx6cHNiSjdFU0puWmFPVUgzWUEwUGF5bWNYdE4tZjhubU1CR2NxSHNJUjFzX0hOemdSR3FqNmxPYUVyM01OSTBOWjI3aFBwd28xS2xFbmx2VDUwX1lSeFBGUlVYcHhVZUppQUI5RG9Wa3dlM3EzbWE1aTRjX0JDUFZtZGlXekxZN2RUQTA2ZXNlTjA0MWg3RE5JUk03TFhmX2duUy1iNUhzTWFON2FjVVVPMjZhZFBQR19Vbk9ieGd3Q1hsbDVnaDBXakxkb1IyaC13ZFU1YnlFYVBHTHVFX2trSjhtUXJfQ9IBhwJBVV95cUxQWWVFNDVpVkNSWUxnd09iR180MDRxbzhvdFd2Mk5mck5zVjM4dTNRU3FTWTBiZDAyZzlPLWg2U2E5bjZSTmQ4TDRFWGtRMy00eWJjTVBWQ2lnRUUwT1NsbG9URV90WFhiT2V2WG5xVVM0TjJ5OWVha2V1amZfaGF3SUVIX1NKX2pkajlEc1RiVTBlSWhFaHlPb1FFODAwSW9BczB1S0FUUmpraGhGczJwYnFBQjNDUUxWNld5SFdIRkNBM2FoWGhJQ0hKOFo3NzhHanNZMkJiR3YwOVpGMGh6MnFWSlBwNElvbllnR2xhMHZOOFFGcktuQWdvMjZUWlJPY19aOUVhQQ?oc=5",
+      "source": "Valor Econômico",
+      "publishedAt": "2026-10-25T11:40:05.000Z",
+      "summary": "Eleição brasileira mobiliza imprensa internacional e coloca Trump, economia e democracia em foco Valor Econômico",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.68,
+      "relevance": 5.4
+    },
+    {
+      "title": "Mega-Sena acumulada: prêmio estimado de R$ 300 milhões pode ser o 2º maior da história dos sorteios regulares",
+      "link": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/25/mega-sena-acumulada-premio-estimado-de-r-300-milhoes-maiores-historia-sorteios-regulares.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-10-25T12:34:15.000Z",
+      "summary": "Mega-Sena, concurso 3074: confira os números sorteados O prêmio da Mega-Sena acumulou em R$ 300 milhões após nenhuma aposta acertar as seis dezenas do concurso 3074, realizado neste sábado (24). O próximo sorteio será nesta segunda-feira (2",
+      "image": "https://s2-g1.glbimg.com/qy4fKjxagQL_B-wFUYEdO2hUGeg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/j/P/SWmVpCSYe2ZiGlHFWwmQ/mega.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.67,
+      "relevance": 5.2
     },
     {
       "title": "Conflito na Ucrânia: Diplomacia é o Caminho Mais Fácil para a Paz, mas Ocidente Enfrenta Dificuldades em Superar Preconceitos",
@@ -171,21 +342,177 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 5.63,
+      "score": 4.67,
       "relevance": 6
     },
     {
-      "title": "Montagem do Natal do Bem gera empregos e movimenta economia em Goiânia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1BlcWlyOTZ0c3pRMVlIM0k5a25SQ25MdW1LY1BaVDlCQ3daWVg1bUdUWExpMXhrMWtxYWxRX3NYQUxvRW5Uc0pyM2hmUmk3Z2ZRQkxtMFhVcjRfcU82azlaR2xuaTVlQkdmSDIydnlNR2VHMlNnVEItSjZkR1BPNXVTcHBSQ3BnYTdQNGI5UHU1SVh0dXczYWRTWjZfRGtUT2g2d04zT3JOM2s?oc=5",
-      "source": "Arroz de Fyesta",
-      "publishedAt": "2026-10-25T06:13:32.000Z",
-      "summary": "Montagem do Natal do Bem gera empregos e movimenta economia em Goiânia Arroz de Fyesta",
+      "title": "'As Benzedeiras': filme sobre mulheres que mantêm viva a tradição de cura estreia em novembro",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajVhTmNYMHdkdkY0X00yU3FPX3Azbm9iQUI4OWgzTDMxcnN2MXdLd09RbnhCenFkVnF2VjRZajNHajZTVVF1a1RzdzI2WFFjQWNaUzVoQlhmV3M4NVg1NU1XeVQyT0F2OTMyZnd5am9SdUI3ZkdONFp0cEpnWTdiMEtXcmk?oc=5",
+      "source": "Alma Preta Jornalismo",
+      "publishedAt": "2026-10-25T13:22:41.000Z",
+      "summary": "'As Benzedeiras': filme sobre mulheres que mantêm viva a tradição de cura estreia em novembro Alma Preta Jornalismo",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.63,
+      "relevance": 5
+    },
+    {
+      "title": "Programa Mãos Amigas atende 494 escolas e gera economia de R$ 4,4 milhões em 2026",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGd3Y1pnS0tkX1dmblFNdjUtRkdudDFOd2diQ0NzMlNlMnlWck4zMURYSE9TaVdXWDdvR2c4ZFhERzJ4SzNZbzJnd2tlOFI5UW1hVEt4b2VOQWVEYmg0YWhJLXNObVUycTVyM1VzbjRvNnZKcWd2NEE0OV9mbkRKSTNuTzJBTElKemNwZHZKQkJxUDBVdngtbU1hZFlCX1RrN3pKVnQ5N2RMTXlRdEFhbTMzTQ?oc=5",
+      "source": "Jornal do Oeste",
+      "publishedAt": "2026-10-25T13:00:00.000Z",
+      "summary": "Programa Mãos Amigas atende 494 escolas e gera economia de R$ 4,4 milhões em 2026 Jornal do Oeste",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.09,
+      "score": 4.57,
+      "relevance": 5
+    },
+    {
+      "title": "Economia verde e equidade racial são tema de seminário do CEERT em SP",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNmxpdmVwX2NXZ3Nxa09haHVIaWpEcXc1Wk5UUDJJMHJESVlidlFpeDZHdHJSUTFwTVRmajdydGdBNmU2T1RydV9IeWp6VGlkQzFTQXBkeDJuemZoRWJNQTYyMmluN0pjd3ZDUzFjY21zY2huUUhDRHZNektyUDhPazF5cTFsQmtPY292SzhQUHlJbXc?oc=5",
+      "source": "Alma Preta Jornalismo",
+      "publishedAt": "2026-10-25T12:56:15.000Z",
+      "summary": "Economia verde e equidade racial são tema de seminário do CEERT em SP Alma Preta Jornalismo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.55,
+      "relevance": 5
+    },
+    {
+      "title": "Mourinho volta ao \"El Clásico\": 3 séries com o treinador português na Prime Video e Netflix",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTJER0lCakt2SGlraEtMQzlRaUZaVG1qeGdNSnFtd3FCVS1FeWdpSDdmUE1sLWRLWS1HZFpFTzc2dFJ4UExLcWhVZi1GSkttLUwwWEJWcWY0U19GOUM0WUs3ZjNLM3lUYmt6OHNiR3U2cUp4b0VRZ3h0MkZRVEFINmE2d3ByTlRFSUlLeW1vNVF0OE0zRkxGQWQ1Ty0xbVhvQXhMaU9VaWRkekNuRTluTXY1ak9KcWY4N0Fn?oc=5",
+      "source": "Magazine.HD",
+      "publishedAt": "2026-10-25T12:45:35.000Z",
+      "summary": "Mourinho volta ao \"El Clásico\": 3 séries com o treinador português na Prime Video e Netflix Magazine.HD",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.52,
+      "relevance": 5
+    },
+    {
+      "title": "“A esperança virou medo”, diz Flávio Bolsonaro ao criticar segurança e economia do país após voto no Rio",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTy1lcEJubU0zQTJqdWlTRmtwT3JwSmt4YktuYjFic2NGVVpiTWR1NWIxWG1hT19ETEQ4Y3pvVlY5V25YSF9hckZjdXFWSTc4RkpYc2ZibmlGU2lxb0FsNEFlZUtyc2NKX2tyVnZxRGZrM3RKSDVWN2R1Qjl4NDR4d1RKTG1TblRLM25xY3NvdzRrWUh4dG8xTGJabXgtRFRpSmQ1U0I0M05fbE1tMzBFZ3A4NmhzbzFuZ0t0SkhLMEpMX0N6dDA5VTdmZ2tyRTJYQzF3UlNoOG1obl93eHdJMTcwaDM3QTZmNEN2RTdn?oc=5",
+      "source": "Jornal Opção",
+      "publishedAt": "2026-10-25T12:33:00.000Z",
+      "summary": "“A esperança virou medo”, diz Flávio Bolsonaro ao criticar segurança e economia do país após voto no Rio Jornal Opção",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.49,
+      "relevance": 5
+    },
+    {
+      "title": "Samuel L. Jackson e Matthew McConaughey em um dos julgamentos mais angustiantes do cinema na Netflix",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYWhsNnFnclJwTjFrTFhUMVJkQl9CeEVidWtsRXlYdjZoeUZ0SDU2UWc3OUwxWm1PZENoZnZkRWJvakZDOHdqZUw5aXYtTGZhUl9XY19IT1hqMDl4Ul9nMWRRVE9NcHJic3FnNlJCdFBxQmpPRW8tNF92R1RmMkdfQW54Yk9VcWF4TTd6eXJfOWYxdDNlazluYnQxWXVjLUdGbVlMbVVPNkhpTmVxUWhKZ0lLdnlsOTk1OXlOUnh0UGxjU2ZSU3ZPVmhkYVpGNWtF?oc=5",
+      "source": "Revista Bula",
+      "publishedAt": "2026-10-25T12:28:32.000Z",
+      "summary": "Samuel L. Jackson e Matthew McConaughey em um dos julgamentos mais angustiantes do cinema na Netflix Revista Bula",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.47,
+      "relevance": 5
+    },
+    {
+      "title": "Dino cobra fiscalização dos mercados financeiro e de capitais contra lavagem de dinheiro",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX2NWVjl2UnFidlBBZVJ0cGVubUptdVhad0NzV0hiYkxWZTBXeUlhMW5BM0hHZnFfeFNiWnBxTkhVelIwUTZ4QkhMVjlaZlJscTJvcVk3WnBXOTFaRm5telNLbHYzY0o4T0NoQ0kzallaSi1EQmh2dkJ4eUlIemlla1ZQQTZNemdBSDF4akRsZXBmTWtmMEdhMFJMSUJCNjVrUzNORTdhYTdUcTRELTdycEVJOTA4Y3o0STU3YjN6Y3pFeVNtbjJTM3ZheVBNWEVvS09yY0N2Rk5CakRpcWtwa2pLeUtNc1B1SVhIQXVn?oc=5",
+      "source": "UOL Economia",
+      "publishedAt": "2026-10-25T12:51:00.000Z",
+      "summary": "Dino cobra fiscalização dos mercados financeiro e de capitais contra lavagem de dinheiro UOL Economia",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.36,
+      "relevance": 4.8
+    },
+    {
+      "title": "Votação no exterior: Lula vence na Nova Zelândia e Austrália; Flávio Bolsonaro vence no Japão e no Catar",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-10-25T03:00:06.000Z",
+      "summary": "Mapa mundi - votação no exterior - 12h04 Editoria de Arte/g1 Quase 1 milhão de brasileiros que vivem no exterior estão aptos no segundo turno das eleições presidenciais. A votação será realizada em 186 cidades em mais de cem países. Até as ",
+      "image": "https://s2-g1.glbimg.com/xLxEiG1e6d0Ku0B94_WHR4CtCWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Z/haB55JTP6h4Z0ENNThpA/votacao-exterior-2026-10-25-world-no-antarctica-votos-por-pais-6-.png",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 4.35,
+      "relevance": 7
+    },
+    {
+      "title": "“Três Horas Para Viver”, com Rodrigo Santoro, estreia nos cinemas nesta semana",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc1Q3dW5kdUJ4QmlqVDlqbjZTNkxwNVZyQldob2FuZy1XT3RSNmRCMm9wbFI1TWZsd3cyWEk3U2hpWnFTcWtOQ3JneC1fVkdocHp0M2N4ZUNrTTFSVmhvd3NqNERDejE3ck1LcEtsQjZzbGU2dDZ6VkZUWFlvNEtqSFY3OTNJeVR6YnhxaXhINFBNVC1xNHZNQ3Y3WmEyQ2pqQ3dj?oc=5",
+      "source": "Caderno Pop",
+      "publishedAt": "2026-10-25T11:41:04.000Z",
+      "summary": "“Três Horas Para Viver”, com Rodrigo Santoro, estreia nos cinemas nesta semana Caderno Pop",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.34,
+      "relevance": 5
+    },
+    {
+      "title": "As 3 melhores séries desta semana na Netflix Portugal (25 outubro)",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOTlQYnBzUDVDSTVSWktTOWNFWWw1Um5sTVdQMUhBQi05QVdERlMzNVVNWGU2eWpHNVBiWGMzUVRHUWFSc1hkTFVacTZiV0xqNGJ2aU11WlFYQnBndW5RRmc2T3dZcjF1R0hwRV9KaE5PVGdIU0VxYXhzZ2d1WEgySGpKZzh6dXg0eHF1Y2xGZ3hTaUZBZzcxa25XTy13OFM4bjA2c0R5VF9uNFlo?oc=5",
+      "source": "Magazine.HD",
+      "publishedAt": "2026-10-25T11:30:48.000Z",
+      "summary": "As 3 melhores séries desta semana na Netflix Portugal (25 outubro) Magazine.HD",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.31,
+      "relevance": 5
+    },
+    {
+      "title": "Ajuste fiscal, juros, produtividade, IA: a longa lista de desafios econômicos no horizonte do próximo presidente",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNUDJyWlVWU2I5LU52dWRZa29ON0dQQk9kdWppTnVCTEtTTy0tWEZWQkRydTV5d3hSTVVvNkoxTUotd1VMTkFMZURjVTFXd0dHaTdqLTRiSDdDQU10Y3dJekFZQzhiUkNrU05fUFMzdzJGQ2Nhb1pGQmg4X0ZGdjZ6aDJsb3AwVk9wR2JERHlyXzFNcHg3SmczN1lBZU1Vc29odXpRS0ltRWNiOFBIZHVtbkhoOXRZSzh4RU5oWUgzdjA3SlVaVlNwSExlcFljNnNUMlBma2xpZGVYMWdqLWF2Y3M1ZEs5aC00RzhHd0ZHZ0JEM3BycFJ0RjRob2FvRE90cTMxb1kxN1BfOEpfWlHSAZwCQVVfeXFMTzFMSTRlZlZxYkRsWkluclYxbUtiNmt5MHF0b0h1d2QwLXRFeUh2cW43dlZjdVA2LXk1a3FYMFVwbk0ydmZHbWJoZ2JsRnFpOTJraTJObDdlb3RnZHROOWRCS1pNeUVDU1pDNFlFNzhRY1lxZGgtdlBCSGxDVUhhNlFITjRqSS13c2tJU3FNb1RiSDJKeGI4OV9zTDU5RVlXWkFfX0d3UktGOFFobWVveV9EN1UxTk5ZUXplSmxCRmRiRHpmQ2E0eWNlMWIybWE4Z0JJX3RCTWJPSXE5QWlfU2JjdnI0T0FyV3MyMkZGM1JYQVNCWUdRVHVzM1B0UnI1QjlGLVVjbHE0c2pjNmdTODU5MUxQbU14QklvRTc?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-10-25T06:30:00.000Z",
+      "summary": "Ajuste fiscal, juros, produtividade, IA: a longa lista de desafios econômicos no horizonte do próximo presidente O GLOBO",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.27,
       "relevance": 6
+    },
+    {
+      "title": "DAY TRADE 26/10/2026 | Abertura de mercado e minicontratos",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaW1YREV3MmRCajZVMVF0dmFpb1owVXVUeEtiZEN2Wk5obmlnTzJwNC1ZaTQ4YlFnUFkxemhmWm8zRVQ0RzB0NEd5Y3l6WUhiSVBOTDZ2alZScmNmdXJnbXpJMklkUVBrNG5zYURITDNBbXVXUnV4Z3FmS1NaX29FOWEtQUtpQ2ViTml2VzN6RmRkczg3VkRRZGd2TG5Vdm9ZWGpIRllmMFU5WkxOT0M3bVk5SQ?oc=5",
+      "source": "XP Investimentos",
+      "publishedAt": "2026-10-25T14:03:18.000Z",
+      "summary": "DAY TRADE 26/10/2026 | Abertura de mercado e minicontratos XP Investimentos",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.18,
+      "relevance": 4.4
+    },
+    {
+      "title": "A diplomacia de poder brando da primeira-dama dos EUA no conflito da Ucrânia.",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTZySGlBRjlvdjl4T0JmdEpOcXJfS0RENy1ObVR5bElTZEVHV3Y2aDNXaF9QYkZJWFl1SHdscUJJaDFhWnZfcDZ1MXAxaDZkdHU2WDBGQURNMHFubTV1eW1IZlJ2TGpDUTcyVU85aVNDWU9vTE9UOTkxWWhCNEU4TEFJVnRiVGh3YzNXMTh2ZUdfNWxHZDhWd2xvY0tEUQ?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-10-25T01:54:34.000Z",
+      "summary": "A diplomacia de poder brando da primeira-dama dos EUA no conflito da Ucrânia. Vietnam.vn",
+      "image": null,
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 4.17,
+      "relevance": 7
     },
     {
       "title": "Kim Jong-un encerra visita à China em gesto de aproximação com Pequim",
@@ -197,7 +524,7 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 5.01,
+      "score": 4.16,
       "relevance": 7.6
     },
     {
@@ -210,7 +537,20 @@
       "topics": [
         "cinema"
       ],
-      "score": 4.97,
+      "score": 4.12,
+      "relevance": 5
+    },
+    {
+      "title": "5 filmes de dar água na boca para ver no Dia Mundial do Macarrão",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd2liamdLVHREVGI2VV84NlZwMWxKM25DMlNEZExKYUM0ZzZBRTFBdC1QbmJfX205R2xKa3o1OXZKRUxDSzRLMk55WExyb2I2RWtBWEpmWFpwTWhzUFh4d3VCVEJfd1V1UnY3SlpnNjRsREQyVzROUFZnVWoydEJZVXpMWDN3RFVnd3MtVl9nWHMxVGVhZTV0aUtFSGg4TWt5cHZCaTdWR3F3R1B4LXQwNUhtMNIBuAFBVV95cUxNenEzc0NQaXJ6VWdfQUl3OHdlb3F5V0szMUhtVVNuZEVaa2RmaThxRWZiQU9DazdXN0xYRHFtYW9aemt1eWk4VDRSNXRoclFUUk1OQlF4bTBtUVB1bFF5NnJRWDF4bUg1Q2wtQ09Jb1BGTU14TjF0c3R1UnBPd0lqMFVyZjV2NDVBYnlUdjR5c0JzbWdpT3U4TXBTMnBLZV9xWHZFbjZpUnhvSGl0bXI4YU1CRGFVenJB?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-10-25T10:00:00.000Z",
+      "summary": "5 filmes de dar água na boca para ver no Dia Mundial do Macarrão Estadão",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.07,
       "relevance": 5
     },
     {
@@ -223,93 +563,15 @@
       "topics": [
         "negocios"
       ],
-      "score": 4.88,
+      "score": 4.04,
       "relevance": 5
     },
     {
-      "title": "Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/24/ucrania-diz-que-starlink-voltou-a-funcionar-elon-musk-acusa-pais-de-usar-sistema-para-ataques.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-24T19:51:08.000Z",
-      "summary": "O presidente da Ucrânia, Volodymyr Zelensky, durante entrevista coletiva em cúpula de líderes da União Europeia, em Bruxelas, na Bélgica, em 16 de outubro de 2026 Yves Herman/Reuters A Ucrânia anunciou neste sábado que o sistema de satélite",
-      "image": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 4.78,
-      "relevance": 8.4
-    },
-    {
-      "title": "Tentativa do Ocidente de destruir a Rússia levou OTAN à beira da derrota, diz mídia",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQW5FNGlaU3BaeFAxY2w0cUg0cHl1V2dtY2RXLUpXY1NyX0RjSzRsSFBXd04tSHl0U2Rpd0tCVExzYi1SSi1FcUN1T3dDNGxEanZYUHNpNkxNTVpnMklONFdta0xTTGtWeVkwaktJRTZjejF4LV9wYlRYMEI3VzFpOHJVb1JVSk5USWhEem1IREhSOWEyRE1SMlRMb2IzNHZYUXVlUjNrY2hTb3h0LWFVVm9aZC1lMjBLRVFTMER5TF9ISUtlRzNranJJUUk1NE9qeHhHV1VqcVpkUQ?oc=5",
-      "source": "Tribuna do Sertão",
-      "publishedAt": "2026-10-25T08:26:52.000Z",
-      "summary": "Tentativa do Ocidente de destruir a Rússia levou OTAN à beira da derrota, diz mídia Tribuna do Sertão",
-      "image": null,
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 4.62,
-      "relevance": 5
-    },
-    {
-      "title": "Por que Flávio Bolsonaro? Segurança, economia e rejeição ao PT dão o tom entre eleitores do senador",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUHp3eGlVYjJqZ2J6T1JXZl91SGNab01IWng5Q3BIbW1sUTRqNXRjY2xQQkhaaVZkREpTWDdPMGRJaGFlZzhpbXBsdFNnUmRHR2ZhR1BfalpNaWVVVzZ0MnVSZlZVemx6VkVacnNjeTV5MGs2UncyXzJnaVUzXzROYnRVMHFDLWVzd0VxYWt0Y3QtMk5PVmpXZ3FWdjVnOHY0UkNlLVJ5NGUzcERleG5vNWpVUDAtY2NWVFM5NU1nNk1sTDU0TjJPRnRKb09Kb09VdXBlNHN1Wi1SZzluZnZQM1M4WjRhR2VvWldITkFPWnpfd9IBgAJBVV95cUxNOHRzSG4yaE9yMkZjaFNLejVvN2VJM3psejQ3dTJmUG1DbDQyNjJRT2xKMmJ1bGg2eGQydTFFT1J6T280dHhQODlGXzVFOVZNZi1TRUNvQXVqZThNdG1yMXFFWFBfLUFTbkhvRmt0R2JsZVhXdWxtLWJlYVdPUVN1NHFpN3R5TDkzMEFIdkp5bWF3bHBNSTVVenhhcnY2WkZrdUFTSWFMUUJHVUFTaHpQOC0tX2UxU0xJaXdyOGVUMjBFdm9ZeklUUkhOaExKLWFwVmFCVXhhWkI4cXlON3d3ckVNR0pNT2VCS1VFTE5WOWVid1hXdFotLTAydG1HTDFj?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-10-25T06:30:00.000Z",
-      "summary": "Por que Flávio Bolsonaro? Segurança, economia e rejeição ao PT dão o tom entre eleitores do senador O GLOBO",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.29,
-      "relevance": 5
-    },
-    {
-      "title": "Cinema na Madrugada: veja qual filme a Band exibe hoje (25/10)",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa094T0xSclpVdUkweDRMY04wcWpjQ3BGaDU2RjBlVW9PSXFzbzBnbmI5aEVjcFhxQVpOM1FvOTRGVVY1QmhXd0RuU1RoNHlOWkJubWswZjNubngzN28zbXp0bjlkNTM5U3VlaWM3M1F0aTNoTTNjRlhRalkyXzJUNUk2aFBzNEx0UDc0ZDdoT3g2VHJja1BGcloxUy0?oc=5",
-      "source": "Portal TV e Streaming",
-      "publishedAt": "2026-10-25T04:00:00.000Z",
-      "summary": "Cinema na Madrugada: veja qual filme a Band exibe hoje (25/10) Portal TV e Streaming",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 4.21,
-      "relevance": 5.4
-    },
-    {
-      "title": "Estreias: 8 filmes novos para assistir no Prime Video, HBO Max, Disney+, Netflix e mais",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGQ4THF0UXZpRTFjd2FaZi1WOGExVnRNNmI1UnEtQ1padTkyZHRhYlBtM0xlY00xM1hvUTkyTnc2SHQ3R3luNHlZX2dRQV8tYXRwUDUtVWJqMWE3Wnk3OFoyWFpTeFRiLXJJZ2JzVW5MaUZ0Umg1c0xjS1Z1WWQ3V2tKWkhyM0x3Ulhjano3VUJKVlR0RjhlX0t6M0MxYklFLWIyODdzMzBXdi1Zek5DZU01SnBJWWJ2N0hzNzdXLWVTM19S?oc=5",
-      "source": "UOL",
-      "publishedAt": "2026-10-24T21:00:00.000Z",
-      "summary": "Estreias: 8 filmes novos para assistir no Prime Video, HBO Max, Disney+, Netflix e mais UOL",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 4.16,
-      "relevance": 7
-    },
-    {
-      "title": "SNK no cinema: Samurai Shodown e Fatal Fury ganharão filmes",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQemJsdVNkNFpIRWFBaEdDTzI0amFCcjFHUE5SMWt2QjlCNjNNZlp2ZFZDajk3NUdURDV4cWNXMXdwLUhITFVGZ1pZYlhWZ29rRnk1YlJlR25sLUZIaTQ4VjlLMUV5MlBTV3FBQkd6SEFXckJWR3ZSWW14OUZlSF8yMXA3Z3ZIUXB2MnNjYg?oc=5",
-      "source": "einerd.com",
-      "publishedAt": "2026-10-25T00:00:00.000Z",
-      "summary": "SNK no cinema: Samurai Shodown e Fatal Fury ganharão filmes einerd.com",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 4.01,
-      "relevance": 6
-    },
-    {
-      "title": "DIARIO DA HISTÓRIA! Navegador espanhol chega à barra do rio Negro, no Pantanal",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlkwMERRazJJSmRmX3FxVWVFTW12SV95Q3hwakJZSU9fYk9oSUQ0S25uaVJXX3ZKTkx6bk80S0tJZlhSU2ppY3hJcnl4cWtIOExPRGdYdFkzTXVCRFRBekJOeUFPUHRvM0FKV21xd1Izak9qaVhUQ0x2bng1WDBScGNLQ0RwOExxaHIwWGZhaUxNeDdCbHVCSm1YdldVeHR4NDVNUkFpU01xQXNuRjJQQlln?oc=5",
-      "source": "viamorena",
-      "publishedAt": "2026-10-25T10:22:16.000Z",
-      "summary": "DIARIO DA HISTÓRIA! Navegador espanhol chega à barra do rio Negro, no Pantanal viamorena",
+      "title": "Atleta canadense faz história ao saltar de um iceberg diretamente no oceano após quatro anos de preparação",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYlRvUy1jTlJCVGx4VDFzNWxtaWdBdC1QcV95MUVLQXhnRzRSa18yRlNzRFlMUkRfZjhDS0NVQzVMamFjSHJFMVVPS1ZaQmRrRG1TMVo2a05HdjJDTWMyUDVkMkhqZm9JckJEWVJsbzREbmV1OEtTZndYNnlsNWVTNkNFSjRfVllUbkhvVWtqdng4ekRwWmRrdzROS1FIV3c2Rk43M2N1bC1kV1l4eUJoUFYwYjhHLVdfanJIQVVfTHlPWDFydXFISHJnTnJTTUl1Mi1sZVpDQy1QMlVtMlRtUW5PSQ?oc=5",
+      "source": "Caderno de Notícias",
+      "publishedAt": "2026-10-25T15:13:18.000Z",
+      "summary": "Atleta canadense faz história ao saltar de um iceberg diretamente no oceano após quatro anos de preparação Caderno de Notícias",
       "image": null,
       "topics": [
         "historia"
@@ -318,353 +580,93 @@
       "relevance": 4
     },
     {
-      "title": "A pior eleição da história do Brasil não termina neste domingo",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdmhoaVdKVG5aRFZQY28yWlZKZks1amg0eFNWelNOYzljbDF1Z2JNLTNXU1h1bm1pczd5M2dKbnhGVkYyT0VpOEQ3VTdsV2VoaVM1Q2w5MWpnT0xNTUZGNDMzSWo4T0FMZmw0UHBydHFmd2ljVXQ1T1dtcUg5N0k2M1B1a201SUpDeTBUQlh3RFlDY0k2OTd6UW01OWhXSDdzQWR2bHdiVmxCQjh6bV9UaW56bDlJdw?oc=5",
-      "source": "NSC Total",
-      "publishedAt": "2026-10-25T10:15:08.000Z",
-      "summary": "A pior eleição da história do Brasil não termina neste domingo NSC Total",
+      "title": "Ave desapareceu há mais de 360 anos após a chegada de humanos a uma ilha africana, mas uma empresa avaliada em US$ 10 bilhões quer mudar essa história com inteligência artificial e trazer o animal de volta a vida",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQbXpLVExxdlRWN2gtWDhScThIaVhIbmFENmpDWjNRTWh1SW9kbnMtMHdOWkt2T3BBcTEzUEctbHBIZVhldkQtT1JzUDE3YjN6N3Y4V1RjNkRQb2lBdTRxazdZVGZkZmlxbFgzZDU4STJ2ZG5lMHEyY1VwSmM2N2ZvTy1YTEZJVkFmWlBHajluNHJfanFoQW9NSTRsdE9fNXlXbVVudzM2eTdSclJrblYxMGpTemRTNldZcVpSMUR0Z2N0NC1ka05uOWgxSWpvM1dXczFvdzFUVklnV1RIRHBSV1YwcXRYSWJUWGwyNTRrZUF2RW1BajBPUTZ5bnZVM21WM0pxTmV1YkhLd21Ddk04dnJ1YU9CTmJnTUZ0cUUzNGppeTUzMTF4YmdpYmdUbU9VYlFlWnlraG9HU01MR3ZSNmNnS3ZFSGxfbi0xRGFKeFRSRElnRkJxVE9QdW12cU0?oc=5",
+      "source": "Tribuna de Minas",
+      "publishedAt": "2026-10-25T00:34:07.000Z",
+      "summary": "Ave desapareceu há mais de 360 anos após a chegada de humanos a uma ilha africana, mas uma empresa avaliada em US$ 10 bilhões quer mudar essa história com inteligência artificial e trazer o animal de volta a vida Tribuna de Minas",
       "image": null,
       "topics": [
-        "historia"
+        "negocios"
       ],
       "score": 3.96,
-      "relevance": 4
-    },
-    {
-      "title": "Lula ou Flávio, a sorte, as virtudes e o papel do indivíduo na história",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUFUSU9QYXlCejh3bmxfLXFDVDg5NnpTNVR2LTg3VE4yblRKM0I4TmJ0LWRHeHZnWEVTVDBzY3NkLXk3TURpZkd2S1NpaUZNOUg3djZKWXFoQ0FkUXZGS1dTdUV2aXlBMF9PUHpUU1hmWDFPclFHR3psSjN3NDQwYkEtaUE5NkhnQW9QbG41V1l3WDlxNl9CVV9MWlNwQmhVUDdsYllOZmJ2cUVEUFYxdHRrV2dkMTA?oc=5",
-      "source": "Correio Braziliense",
-      "publishedAt": "2026-10-25T10:01:00.000Z",
-      "summary": "Lula ou Flávio, a sorte, as virtudes e o papel do indivíduo na história Correio Braziliense",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 3.93,
-      "relevance": 4
-    },
-    {
-      "title": "Acordo com Groenlândia é \"maior negócio imobiliário da história\", diz Trump",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWFBHQ2FHTzY1clQ0UFhsX0JmQXptMVB0RVZnX2JrX1pGaVZZSXdJVV9SODZCZmhYb0hYQnZPSmw5c2hBYnFqajFrRl9UOXczT0YxWEd4czNyUGJLYk4zRnItWDZuSlpZMVFUandEb21Vei1kNEJ4cVVibVpkdko5ZmZtUm1oQVZpQUo0amNVYTNENGNSS3JEeTFvUUJhRlJiUUNRTzBXSVhpeFNWR2dMVHpxNDdhSHc?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-10-25T09:46:12.000Z",
-      "summary": "Acordo com Groenlândia é \"maior negócio imobiliário da história\", diz Trump CNN Brasil",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 3.89,
-      "relevance": 4
-    },
-    {
-      "title": "Frase do dia do Estoicismo: 'Não explique a sua filosofia. Incorpore-a' - a reflexão de Epicteto que ajuda a parar de viver para mostrar pros outros nas redes sociais",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNTkFVSVpJRjRXTVdJdmJCUFE0em9ieWJwUlItYjVxZHp0dW5ZamplYzVOX05YUXN5dVdPa3hCXzFHcjdsSTV0cnBkaHFYUEZLWENKdzBhdm1fcV9Kb1h0NVJxdmtfWVJnc3BjQ2hjVWxNSlJWUU80YmtHSTNwMi1pdGNJUTE5NFkyREVYZW14RHUxN3JjNWtNT1RVNVB5WHg4N1BNTXlxeHZPRHo5ekJTVEpySkR1b2tuVGhtR3p2dHBXTWJoZXo5eTJ3UENjUlhxcnRkYkVBeldBLWRzQl9KTUEzUTRFYWl3RHUyZTFNSjZvd2w0b0ZUdVA4TW5NTUpKWkQ4UWhVbzNCd2tYTGxyMlpvb2JkMGlGTDQyd3V6cjlRdGo5TlA5Q24zU015NG5YNVJV?oc=5",
-      "source": "Jornal Correio",
-      "publishedAt": "2026-10-25T04:00:00.000Z",
-      "summary": "Frase do dia do Estoicismo: 'Não explique a sua filosofia. Incorpore-a' - a reflexão de Epicteto que ajuda a parar de viver para mostrar pros outros nas redes sociais Jornal Correio",
-      "image": null,
-      "topics": [
-        "filosofia"
-      ],
-      "score": 3.89,
-      "relevance": 5
-    },
-    {
-      "title": "Cachoeira de 160 metros revela história centenária ao lado da usina mais antiga de SC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0ktaVpZZzAwOUY0ZFQzbTNCUmhjOFB0WEFBenFBQ011RkFRNGtoN2w4NXdKT2o4SDBlWEZieFVNM0FoR3VxcnpUYUZXbGJTRnVTNnZ5TVBKeHFnU3RsNkVCZ1E2cy1Eck9Rd1poUWpGelViZFF4NTJlN0x2cjJCeEhpM1RTeG11?oc=5",
-      "source": "ND Mais",
-      "publishedAt": "2026-10-25T09:10:48.000Z",
-      "summary": "Cachoeira de 160 metros revela história centenária ao lado da usina mais antiga de SC ND Mais",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 3.8,
-      "relevance": 4
-    },
-    {
-      "title": "Brasil escolhe o presidente em eleição mais disputada da história",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkRhSFZ3U0k1SVNZemJoYTQzVGpmc3NrOGhlX2k3WEN5ajVEWVZZTTFLTUpGQ1BzTDhuaHpNRHNwWWIxek9JQUttNHJTdHFvQ2MzT0syRmQ3SkZhMFd4RFRaaUM3bXAycnZubEplSklTYm1YN2lyUDNyMllmd0drWGJfa3V4OWtFbjRxRzRxRVZzUlliU21iOTJ1UGNTRmFkOUk0UFpn?oc=5",
-      "source": "Jornal da Orla",
-      "publishedAt": "2026-10-25T09:06:40.000Z",
-      "summary": "Brasil escolhe o presidente em eleição mais disputada da história Jornal da Orla",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 3.79,
-      "relevance": 4
-    },
-    {
-      "title": "Um educador que luta para manter viva a história de Fernandópolis",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1hmd2NZbTRJS1poVWdPbmFZUmlMSVd4dFlVUUtrT3RHQ0NLTnJYVEc4YkZmbjAzSVRQQXhVQXJsOEQ0U25vOTZxdHdzQkdtUGZTTzNQSFE1NlhSc0swWFpvdzlPaE5rVlRaenZFaW84cXUtaU93MWRJY1lISWI1WGFISEtFQnFHMEpIQW85Qjh2QjBF?oc=5",
-      "source": "OExtra.net",
-      "publishedAt": "2026-10-25T09:02:36.000Z",
-      "summary": "Um educador que luta para manter viva a história de Fernandópolis OExtra.net",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 3.78,
-      "relevance": 4
-    },
-    {
-      "title": "Quem é o vice de Lula? Veja a história de Geraldo Alckmin",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY1VHcm1zeEFIdHZpRnduZ2tES3dhN2M4emVYY0NUT29yajhqM3hYN05mem8wN1Nld0MwclBVTHAxa3RnY1NDN2doUmJXekNSSkt2R0hhTjhrdUE5cEJZdFc3QU1tVnY1RmVLS0tORTRBSkhPZ0I5OThkXzFnbVFRM0JCdGRZS2tDM1E?oc=5",
-      "source": "Exame",
-      "publishedAt": "2026-10-25T09:02:09.000Z",
-      "summary": "Quem é o vice de Lula? Veja a história de Geraldo Alckmin Exame",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 3.78,
-      "relevance": 4
-    },
-    {
-      "title": "Costa do Sol reúne praias, história e hospedagens para novembro | Diário do Grande ABC - Notícias e informações",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVnpQb2hUbE4wM203bFl6dnhmaDQtb2pNMUxCNVdZOThNdVBXcTJOV0paeXFWUUF6cnR5TFVwajJFU2ZFWDBCMTZvcEd5dG9oSGpoVldLZFNqTllLQ0h0dEhZZjgyNjViQk9FX1dNYmNTeTBjSzZWSi1lVGJUcFVwSXBlNzlEOGdUUlRDMERZTjNEOGt1Wlo1Y2JyN2pqTHJ6SDFsMkNn?oc=5",
-      "source": "Diário do Grande ABC",
-      "publishedAt": "2026-10-25T09:00:00.000Z",
-      "summary": "Costa do Sol reúne praias, história e hospedagens para novembro | Diário do Grande ABC - Notícias e informações Diário do Grande ABC",
-      "image": null,
-      "topics": [
-        "historia",
-        "negocios"
-      ],
-      "score": 3.78,
-      "relevance": 4
-    },
-    {
-      "title": "Brasil elege presidente sem debater a economia — e quem vencer terá de cortar gasto",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHlpR2dhUXQxdlpkVlQzbGl3Y1g0cUZSNTBZSzF4NEY2bXBDdXBwNWE1em1SRlVHYVA0X1VobkxkajlETW1WNnM1VjZtNTZncHU4ci1tQS1maGZ0dTgwcjQwdGhyVnlKY1MtU2pLczdKczB2OXNhT1NOT3VnX2ZPZERJZ0pfNDk3SGNucUR5bFI4VEJpd0JfNUw5UnllREhXMkV4U3BFRkhpdw?oc=5",
-      "source": "PlatôBR",
-      "publishedAt": "2026-10-25T03:02:35.000Z",
-      "summary": "Brasil elege presidente sem debater a economia — e quem vencer terá de cortar gasto PlatôBR",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 3.75,
-      "relevance": 5
-    },
-    {
-      "title": "O custo da incerteza: o que a economia brasileira tem a perder no mercado de tecnologia",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0hRSk96RjZ3Mkc5QVg1eWwtOVRranVnMW1mLWxzcUQydnY2UTFFQ21xcVEtZVFHbVZDbGNEQ21xajlTbXM1NFR5UE9kRUYyVzMtVFhwdzBINzAxWkFDaWtiQWkxa0lBLWI5QzBuVW1TUDhxQjJvUWpoVm5FY3NCVEpfREF6U3d1NFA3ckZjNVRPX0d6X3VSY1JSVXVfbUYweDJLYXhNVnJNNTA3RUoyM05MTGExZw?oc=5",
-      "source": "Noticia Preta",
-      "publishedAt": "2026-10-24T18:07:04.000Z",
-      "summary": "O custo da incerteza: o que a economia brasileira tem a perder no mercado de tecnologia Noticia Preta",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 3.73,
       "relevance": 7
     },
     {
-      "title": "De 1933 a 2026: As curiosidades sobre a história do voto no Brasil",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb19jSDVxS1hLaFcxaldFX294OGhqMjZDR3IwaFJOR1dlUDYwazFTdm1SYnlfVm9fM014QTJNOE4wSWZwdmpyaU5qRjF5V1RjNmJqQk9aaTgyaUcyVDZXTUFoOFRNX3otTkhZN1ppeG5vOE9mekdZdGEwNlRMMFNMTm9OS2tkY043blN5Zzg2ZWNQRUJEbUZoN29OanJZVmhhMlJKVFZKdw?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-10-25T08:32:21.000Z",
-      "summary": "De 1933 a 2026: As curiosidades sobre a história do voto no Brasil CNN Brasil",
+      "title": "Ucrânia diz que Starlink voltou a funcionar; Elon Musk acusa país de usar sistema para ataques",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/24/ucrania-diz-que-starlink-voltou-a-funcionar-elon-musk-acusa-pais-de-usar-sistema-para-ataques.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-10-24T19:51:08.000Z",
+      "summary": "O presidente da Ucrânia, Volodymyr Zelensky, durante entrevista coletiva em cúpula de líderes da União Europeia, em Bruxelas, na Bélgica, em 16 de outubro de 2026 Yves Herman/Reuters A Ucrânia anunciou neste sábado que o sistema de satélite",
+      "image": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 3.96,
+      "relevance": 8.4
+    },
+    {
+      "title": "Como começar a usar IA sem gastar muito? Antonio Carlo Demingos explica",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNTBXZ0gxcGdOYXF5ZXdxTmpYaTV5SVRwdDd4OWNjeWlUaFBPZ3B0ZFBWTUFSdnN6cWk3M0NVWDJFeUhZOG5WU3UzNGs0X0pONGRBYzR2RHhtNTQySDhRQ1IxMkdPSVl2U0JnLU9Tdk4wdU9NNEhaeEI0RWJFXy1McTNyYUF2amwya0RXSEc2OHcyelpfYVBjY2h0Rnc3RU1WeGJKYQ?oc=5",
+      "source": "Paraíba Business",
+      "publishedAt": "2026-10-25T15:00:00.000Z",
+      "summary": "Como começar a usar IA sem gastar muito? Antonio Carlo Demingos explica Paraíba Business",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 3.94,
+      "relevance": 4
+    },
+    {
+      "title": "‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/25/repercute-internacional-votacao-2o-turno-eleicoes-lula-flavio-bolsonaro.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-25T13:37:27.000Z",
+      "summary": "Lula (PT) e Flávio Bolsonaro (PL) em agendas eleitorais na reta final da eleição Ricardo Stuckert / Vitor Salles A imprensa internacional repercutiu neste domingo (25) a votação no 2º turno das eleições presidenciais brasileiras, disputado ",
+      "image": "https://s2-g1.glbimg.com/H-1DPqpY_aQzmfYT3QZs2xG5TFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/MyAUBkSseOCM1D9E8c4A/montagem-horizontal-1280x720px-4-.jpg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 3.93,
+      "relevance": 4.2
+    },
+    {
+      "title": "Rolls-Royce Silver Wraith: conheça a história e os detalhes do carro presidencial brasileiro",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTVZiNjV5MC13RE9iX2RkaUJUTVIyUGpuaUlRUFBxcHdzMl9ya2thUEdWVnluODhTQ3JlM25IV2k4TndMYVZUMjFvbXFmWVFzUEk0MXlmQ2Z1bXR0SFRNckhzaERTNEdYSjBScG9UVlhTMU9EdmtuN1BJbExQSEZka0VxQXFjTnlMQXlFSVVrdGluRXZzcG1SU2pZYjc2dzNPZE94ZDg5TkJXS2NGX0dKN1pwZmpNVXVYZjltbHUzd2dLTXlVVjJ6V0M0VndfX0ItOUx4VlROUDdiM2dETkgtc3BR?oc=5",
+      "source": "Diário do Litoral",
+      "publishedAt": "2026-10-25T14:46:14.000Z",
+      "summary": "Rolls-Royce Silver Wraith: conheça a história e os detalhes do carro presidencial brasileiro Diário do Litoral",
       "image": null,
       "topics": [
         "historia"
       ],
-      "score": 3.71,
+      "score": 3.91,
       "relevance": 4
     },
     {
-      "title": "O segundo turno das eleições pode afetar o coração? Especialistas avaliam",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVNJbkRjc1NDU3UzVU1rOXJJWVVacjZrc2I2TEd6T2xLeklva3F6aWhJSUJxWmdoc0ZFUzZxR3pmbVV6MjFkN2hnWEVZTVBTY3gzU2p1N1UxRG95X3Jaby1RWXpiMm9GbW5NZmdrOE1BTmk1aERkbnhjclE2Zm5OR1JwXzRydHdvUF9qYTBFU1J1d09sYldYdUpuN3llUFhmYlkyQlVoaXJxM2NaTU9uQ3c1dkh0UEUwa0h3LW1TMTkyY0HSAcgBQVVfeXFMTXJqSnJGX09heV9PZWc0YkhraHhoeldWUDVJMjVLTjR0ckgydW1hV3l1TzRqczYxbUpFbFItc2ozZG1OemNzRjdxR0YzUUJ1d0RMYVNqc0NQek9xeTB2QmoxNDR6RlEwclRVN1dCTmdqS2o3SFJRS0txcDUxbG5tbzBsejVUeE9KTmlhNlVhSWtpcGw0aW5FLUpvSlJwWVIwekozemdpcDlIbG91emtxY1FUaVZ6cUQtLXppb183WGNFcGVKSDMzd2c?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-10-25T08:30:00.000Z",
-      "summary": "O segundo turno das eleições pode afetar o coração? Especialistas avaliam Estadão",
+      "title": "Eniac abre processo seletivo para 100 vagas de Medicina em Guarulhos",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmVUT0pDQVU2SXRfekM4VkMwTXRDVzNBcGd6T0FJdkc0QTk5MUg3bm9TQ0RGcHhWakdyM25tWEZKeXVFRmZZdHQxNE9TS1VMa2M2cGE0VDFDdUtLSWFlbS1Hc3lwZjRRaFFlZGp4cjNQUDlEWmNZTV9idTJfaUFxOC1hWlhjY2FoSGZnODNtM3ZEeDc5MHFRVWlB?oc=5",
+      "source": "GRU Diário",
+      "publishedAt": "2026-10-25T14:46:00.000Z",
+      "summary": "Eniac abre processo seletivo para 100 vagas de Medicina em Guarulhos GRU Diário",
       "image": null,
       "topics": [
         "medicina"
       ],
-      "score": 3.7,
+      "score": 3.91,
       "relevance": 4
-    },
-    {
-      "title": "Novo Four Seasons Cartagena Une Cinco Séculos de História e Luxo Caribenho",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3otMU5aSjN0WkxSN2FOTGNKQnhGYTAzeEIwb3ZxZG9jLTVWT3NvcGl2RHRwZ2RkS05qYmxxRVVGdlNvLS1kbG9wNXBZV3dKbUJlVU9tbnNNZnR4blhRLUUwUDdhdHlSbUNqNjJlWHNlX0VMRjl1cmFza2tVMy1xbmZQMlpKRUQ4V3NIMGFodw?oc=5",
-      "source": "Forbes Brasil",
-      "publishedAt": "2026-10-25T08:00:00.000Z",
-      "summary": "Novo Four Seasons Cartagena Une Cinco Séculos de História e Luxo Caribenho Forbes Brasil",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 3.63,
-      "relevance": 4
-    },
-    {
-      "title": "Eleição presidencial mais acirrada do Brasil teve diferença de 1,8 ponto e entrou para a história; veja quais disputas chegaram mais perto",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOY0hvS3lzZUpWdzlYcnNwWXhva3RtX3oxQ0dwTDRZYnh1aEhOTWJ4TmpRelJOZnFPYm95ZkRZNDNmRU5ZWl9GaUFiVWl1TllLWkQtSmE0THduNTcxSTBZRWtVQXVDQUNaN3FxVVpVRWswTDhkME9BNThXQmZxUVNrVUc3dzZPYTFoeUVQeWwxZ19xX2RIQ0F5RlFBVmNHckdtbUJyNEthazMxaXNuRlhEMXdrM3BnQ0ZsOFB4QkNnLU5zb05pd1cxQ0l2S193a1Vxa0lPMXRIbHRVMklxWTdVaDV5TWNsWWpYd0N0M2NoUkI5QlowS1p4WHIxLUlvSW9FZHhmbQ?oc=5",
-      "source": "Gazeta de São Paulo",
-      "publishedAt": "2026-10-25T08:00:00.000Z",
-      "summary": "Eleição presidencial mais acirrada do Brasil teve diferença de 1,8 ponto e entrou para a história; veja quais disputas chegaram mais perto Gazeta de São Paulo",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 3.63,
-      "relevance": 4
-    },
-    {
-      "title": "Negociação entre Petrobras e Mubadala sobre refinaria de Mataripe aguarda eleição",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWTZVOENaWUdURkZnLXNBbUgtYTRxaUZKbkZpTmYtN01FTm5EcGlSQ0Jkbm44VndOVy0zTkJ2MFJXVW42TmZvblVDdnBnY19xTFIxdGpOaWxYbE1wdHBrUVQ1U2pERDZmZTNCZ2ZTUXUtbnU2YUFnaTFNM0pyUXRJekJFdTZUbWc1b2p3TGRpT2twSTY0NXE2QUM4cllFZlVLdXNTVEYzYkM3RDdPR1V3UERMMTBaMGg0SW1hTTY1OVA3cVFKNGRKM0JrTjlDTWfSAdQBQVVfeXFMTkVscFk3cFo0U0dTamlGU1Q4Q0V2QkF5T28xb3VCOFBhTzhXNVc3SFRSU2dGWDUxTW9lWGNOb2RCRGZkWC13bGFlRF81NXZoRWFtZ3NDMDVEM05KUklTemdlaGFGb0dpRktmdUNaelliTTFibTdJYWxXbWdwVlVUdUlpNnlGbGpzUUFNdjNwaVpjZ2JGQTFTUi14cVBmWXJQSm1nMk5PQTUwazVaSkNwcXNod3YxUVFfenBESVJPUnNZb0lYNjRCeEIyblNVRXZQQjlkTTY?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-10-25T07:59:00.000Z",
-      "summary": "Negociação entre Petrobras e Mubadala sobre refinaria de Mataripe aguarda eleição Estadão",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 3.63,
-      "relevance": 4
-    },
-    {
-      "title": "Economia, STF, Congresso e ruas: conheça os desafios do próximo presidente",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM2xOWEdiN21vbXBISlhmVVIybmRkQlh0ME5WMTdGenZSd3FvN005aklhZ29CSVNOckpETGtuazk2MHl0ZEE3R1Z1UTBuVG5yWllQd0ktU29NNUl2MU1fdnBINjdwNHpwRDJ0cFN0Mzg4Rk1VdEViOEFwSmJFQkc0Y1dYVXVESnFVOTJaY3N5SWNmSExHUjZoYUhYM25scXRKd3FvMjQwc3VBc0ZQU0RDSGstdmEycjAyVWlhX2VB?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-10-25T02:00:00.000Z",
-      "summary": "Economia, STF, Congresso e ruas: conheça os desafios do próximo presidente Folha de S.Paulo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 3.61,
-      "relevance": 5
-    },
-    {
-      "title": "Imprensa estrangeira destaca economia, investimentos e agronegócio na eleição de 2026",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdk1WdWkyb0hXVHFnQjItVnIxbUVKS3NfRFZ2MmxsRFFuSk5vU1hpbENyTzVORW1lNGlkRmwycU9DZkQ1VkpfMWVhaWthbjRIQWthZ0ZlNFRDa29MeW0tTEtOMm0xU2FKX2labzljUWRCMUJicGNjeTFWbFNSVUstYWRzYVBvbTdKWlc0akplMV9YVmEwTzQxaWRfVndqZzlaY1E0V1JPMFRGU1BfVnRDMjRmb1l2bVc4Ry1DcGRtMUU1VHdf?oc=5",
-      "source": "Canal Rural",
-      "publishedAt": "2026-10-24T13:49:54.000Z",
-      "summary": "Imprensa estrangeira destaca economia, investimentos e agronegócio na eleição de 2026 Canal Rural",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 3.61,
-      "relevance": 8
-    },
-    {
-      "title": "Quem paga a conta? Economistas analisam promessas de Lula e Flávio diante de Orçamento apertado",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWjJOWEFEczlzZ0hWYjE3SUhraTgzbGtkVFlsZm1xUmYtUUtTZFZaalR4Y3BJZE04MEtmS0FvUmdQSFVockNqWFRXQk9XWk9TRjN0dnZlWDVqY3RfZGlFUWp0UWxXVE1takNvLUQyN3B3ZG1RbnpvVVpHQ29nbzZNUXNXeWlTTW1CMVphejl1MWhqLTVYVnJpN0U3Tzl0alUxM1AtOFgxLUFSYWE3NGZuYm1vVTE4UTJxeVVEMWFXM3FWdTJnUmNuU3hfdzRIc09iSVE1UW1LcGdLZDFkZ0tuX0tVONIB8gFBVV95cUxQOG9naWh2YXdDRnR2anRTb21Cb1dPR3phNU1rZHNFa1poSzdmRWRDMUF4dlBqYkI0QzNnaU1GVHZXNjR4SGtpMG5DZzBQTXdILTRiM3FXNWdtdHNrOVVWS2Y4eS1yOXJ1dEVpcWVLSW1hc2UxWkQycE8xYlhlOWN6MjBBdk9VS0sxdWNRWDAxWGlWQXRYdmdia1dLbDNXWHJIU0Fqc1liVWpjRlJIUk1YNXBHdTRZT1FOeTdHMDVweXpmRGNpVTJMRW5HcnFaQmcxeDV1eHhaMy1vdjhsNEdpME9mZUlBU2NmQmpZVEo0WnhzZw?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-10-24T09:50:53.000Z",
-      "summary": "Quem paga a conta? Economistas analisam promessas de Lula e Flávio diante de Orçamento apertado G1",
-      "image": "https://s2-g1.glbimg.com/lRbC7t784uMTdaCQdYubdWquxGA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/b/uIXG8RTS6LfYPmqiC7dA/design-sem-nome-1-.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 3.56,
-      "relevance": 9.2
-    },
-    {
-      "title": "Economia da zona do euro desacelera em outubro sob pressão da inflação",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTldZc1B0UUtXeXhaQlJBOEhBWlhmaVBxcWZDaVhiV2NFVV9YM0xCSG15d0Q5OGNSYXpLVnhMdDk1Rms2WEhxY1B4S0FvOWJnZUFEX2NUOUdVYnN3ckR0MXllZkZVZmRUS0FaZC14RTFRandVSzJmS1FwTkpaUDVkLTZLT25Ua2xiZ2JmaWdpNkRTRWR4djBRRlhNYXRZc2dIV2dERjVUN3VrdGc?oc=5",
-      "source": "Midiamax",
-      "publishedAt": "2026-10-24T20:45:00.000Z",
-      "summary": "Economia da zona do euro desacelera em outubro sob pressão da inflação Midiamax",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 3.53,
-      "relevance": 6
-    },
-    {
-      "title": "Próximo governo terá 41 cargos a preencher em agências reguladoras, BC, CVM e Cade",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOajZlUERHclFINlRWendlRGtmWnJKdy0wMGh4RUVSOTJzVHo4VVF5dXV1MlZIeHJyV3pEZnBCTmJ4eHNwdXhpVXB2YkdOc0YtcHczUEkwVGpGWUVUSHBOS0RLTTRWLXhVQ05wbVVLSUE0WHh2UzhLd29ITmEzeXFWeVR1SUZZS181MjhhRFZ5dC01N1QzTW5uSTNIY0lGM1Q4RFhTUFEtakhLekNPaEcyVG9IY1lXUmVqcko5X0tHZjJyTWJfdDRaOXdFYTlEQWp4enpBZFd30gHkAUFVX3lxTE9SbjlFelJ2amxvMnFCRHVFUGt0aWhoTmR0aWszaVdoSHotdGFzMWZLM1lzc0FNOGxZeXhSUURja3lqVjNPX1NRNWFvdDFPOGpUam5mLWpPdlNKRzdSSWZUMXY3bjhWY2Fka0JYSmROWVdUMGhMcGs4b2EzdWU4SHdLZHA0THJWcWM3S0NndUhXZm9sT19XMVNGLUM1ZGdfLU5GY1VOam1qSGxXSmFyWkt1ejN0eDZWYzliZmRqZ1JNcFNDV2xVRGo3VE91Qng0eEVvRXlXc2tzb1dudFhwYm1BVzVzZw?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-10-25T07:00:00.000Z",
-      "summary": "Próximo governo terá 41 cargos a preencher em agências reguladoras, BC, CVM e Cade O GLOBO",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 3.5,
-      "relevance": 4
-    },
-    {
-      "title": "A lição de Heráclito, filósofo grego: \"Chorar purifica a alma e nos lembra que sentir profundamente nos faz viver mais tempo.\"",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQbFZ1cGs1WXBha1VSa05TUi1IcTA5RGFTOWZINEZJd01EMU5LZUl1MGNyQld5bjJidG9HN1NOTVVWMmlHS0xaYVJaZ0thNnJveDE1NFdmdThMWmpTaFdfQm1PRTdfeFBjRDdHTUo0SHVicnREREwxeFNSblBYQzROdXU1eUx1RkxZRVg0cmkzdGNhZ0tRNEpETVBvem5sZHhUczY4clhyVm9WWktwRl9UY0dzVXlxa1IwTy1xUXpVVFhhQVowY2hRaExuZ3N3SlVIclFyOVdVZlRQTk1kdWgyVzI0WlNwM2NZMVF3ajlrNFFMaUh5ekQ5ZGZtN0IwTko1eXNfeHo2NEd4cEN3Q1N1WU84eklGc1Q5WnlEbjBUN2RHUlVnRnVTczI4MnYtaHlQT3pEN0p3TFd3d1VQWS11RjBLRVpXX2dqNmxKT2wyYTNqd0RBOVZiVFExR3FxbXRDbTl6a3hYb20xLVJZVUhhaFYzNnBMdEd1OTlBSndCZEpNdzJieVFBak5CVDRYczB3QldVZGdyaDNoSnJzdThhWU1ROTRMd0xXd0h0bVBn?oc=5",
-      "source": "Catraca Livre",
-      "publishedAt": "2026-10-25T06:54:06.000Z",
-      "summary": "A lição de Heráclito, filósofo grego: \"Chorar purifica a alma e nos lembra que sentir profundamente nos faz viver mais tempo.\" Catraca Livre",
-      "image": null,
-      "topics": [
-        "filosofia"
-      ],
-      "score": 3.48,
-      "relevance": 4
-    },
-    {
-      "title": "A mensagem de Confúcio sobre a velhice: \"A velhice é uma coisa boa e agradável. É verdade que nos tiram gentilmente do palco, mas depois nos oferecem um lugar confortável na primeira fila como espectadores.\"",
-      "link": "https://news.google.com/rss/articles/CBMikARBVV95cUxNSXlrSkQtQVdXRE5yaEdRYXFscF92dHVnNThsZWNaTHNVOVJDMG5aenF5ZS1nY2xfMUhvMFdqOEUyeW1hM3htWXZxRTdVYXgzM0Jkdm1sbm9YOVk1a0xyWGpZd2h4cHQxZEIzMkFtQ2pXelVHS3VtcE5IVnliZTJZTVVoOUZibjYzOEdvVllhdDNVZkc0T2hXZUkyUFJjSjlweXNSRWtjb0h1MjZhaDR2X2NkdE1ua2lnMzhHN1JONnpvNG9CLS1OaVJSZGZ5ZHgxbklJSE5OblJYbnY3UkhXNUJQN3RQTUlEbHppaGJjeXZpSGhQdGd2WjZsTmRVLVBIRkxGQU5FZEx5N1QtY3p0TjlBVDdZZlpET2tWeXNJYjUxLU9pbXRQekt6Wm1zeENFaXlxc1dwX0I1WDVJSnV5N2RDTmVCeDRrUVJNTUJPV19WWjh2MVh6cndINktxQVBvbWhOV3R6RlRBeGp3RmZkdGxQemhWbm93aG5zOUJZU1kyaWkyOHB5RzQxYnJNM3RHbTVuQnhRS3BOaER4cGZlclI2QU5ZaVVIaXRqa3NpamFudW1rTGVwaW10YXR2OWh1OFlmTlJLWU5vUGJhUTh2Qm9hX0liZm1Pd00zVUVPalFjMXp3U0o4UkFYVzNkSGZsS3IwQ1VSdzRTdzFDQXo3MXJXQXNFczFPSE1PZkhqOTg?oc=5",
-      "source": "Catraca Livre",
-      "publishedAt": "2026-10-25T06:14:05.000Z",
-      "summary": "A mensagem de Confúcio sobre a velhice: \"A velhice é uma coisa boa e agradável. É verdade que nos tiram gentilmente do palco, mas depois nos oferecem um lugar confortável na primeira fila como espectadores.\" Catraca Livre",
-      "image": null,
-      "topics": [
-        "filosofia"
-      ],
-      "score": 3.4,
-      "relevance": 4
-    },
-    {
-      "title": "Brasileiros votam para decidir entre guinada e mais do mesmo na economia",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjFqX2o0RjZyR0R5OVV0aF9ZQloxX2g0dWhtdFBNRXN1LUZ4NGtreDZVZXAteW1adGJpNUc3Uy1UT3BLblBYN2pSOGlKRnF6TXJacUdiN2VEV0JWakFiN05IR3FOMFZRcTJPdE5Wa3J3eHI1MGNEUHZmYnpiRFZ1NkVDblRsN3la?oc=5",
-      "source": "Gazeta do Povo",
-      "publishedAt": "2026-10-24T23:54:00.000Z",
-      "summary": "Brasileiros votam para decidir entre guinada e mais do mesmo na economia Gazeta do Povo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 3.33,
-      "relevance": 5
-    },
-    {
-      "title": "Kim Jong-un visita China um dia após pedir 'exército mais forte' e 'revolução militar'",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/24/kim-jong-un-visita-china-um-dia-apos-pedir-exercito-mais-forte-e-revolucao-militar.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-24T12:19:44.000Z",
-      "summary": "Líder da Coreia do Norte faz visita à China O líder da Coreia do Norte, Kim Jong-un, fez uma visita à China neste sábado (24), afastando de forma definitiva os boatos de que haveria morrido. Segundo as mídias estatais dos dois países, Kim c",
-      "image": "https://s2-g1.glbimg.com/kHimAAf0_HYiKB9Hn7cNEApCtJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/q/ZN3jYXQqO7GphsslNPgg/kim.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 3.32,
-      "relevance": 7.8
-    },
-    {
-      "title": "Ficção: Segurança, economia, garantia da democracia: Leitores opinam sobre prioridade para presidente em 2027",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRmdSUVpNMGFfOXMzNGhqSS1FNXZYcVg1WHRjdkRMd1FKa2V0ZUFBWVUyb3kxQW1LWnRocTFEUDhlSkxydnM2eThOV3BkdXdFWEZndGF4UlotclVmQlA4WWxpelFvZ0lwNmp2R1djRkVxM3lWQS1DZUNwTzhtS29SYzBUcVY2WDYxeWxwN1hOTU1ocXRFR1NidkVZejlwTGstblloZW1iUVAxS2lKNFRVR1pEcFlBMkVfem13UzNSZzcyV3RMX2ZzYVZBQ1dVS3ZLd1I0MUFMa1BKVWVwc2dnaS1rYm5xbm40ZTlwSGtR?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-10-24T23:30:00.000Z",
-      "summary": "Ficção: Segurança, economia, garantia da democracia: Leitores opinam sobre prioridade para presidente em 2027 Folha de S.Paulo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 3.27,
-      "relevance": 5
     }
   ],
   "byTopic": {
     "historia": [
       {
-        "title": "DIARIO DA HISTÓRIA! Navegador espanhol chega à barra do rio Negro, no Pantanal",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlkwMERRazJJSmRmX3FxVWVFTW12SV95Q3hwakJZSU9fYk9oSUQ0S25uaVJXX3ZKTkx6bk80S0tJZlhSU2ppY3hJcnl4cWtIOExPRGdYdFkzTXVCRFRBekJOeUFPUHRvM0FKV21xd1Izak9qaVhUQ0x2bng1WDBScGNLQ0RwOExxaHIwWGZhaUxNeDdCbHVCSm1YdldVeHR4NDVNUkFpU01xQXNuRjJQQlln?oc=5",
-        "source": "viamorena",
-        "publishedAt": "2026-10-25T10:22:16.000Z",
-        "summary": "DIARIO DA HISTÓRIA! Navegador espanhol chega à barra do rio Negro, no Pantanal viamorena",
+        "title": "Atleta canadense faz história ao saltar de um iceberg diretamente no oceano após quatro anos de preparação",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYlRvUy1jTlJCVGx4VDFzNWxtaWdBdC1QcV95MUVLQXhnRzRSa18yRlNzRFlMUkRfZjhDS0NVQzVMamFjSHJFMVVPS1ZaQmRrRG1TMVo2a05HdjJDTWMyUDVkMkhqZm9JckJEWVJsbzREbmV1OEtTZndYNnlsNWVTNkNFSjRfVllUbkhvVWtqdng4ekRwWmRrdzROS1FIV3c2Rk43M2N1bC1kV1l4eUJoUFYwYjhHLVdfanJIQVVfTHlPWDFydXFISHJnTnJTTUl1Mi1sZVpDQy1QMlVtMlRtUW5PSQ?oc=5",
+        "source": "Caderno de Notícias",
+        "publishedAt": "2026-10-25T15:13:18.000Z",
+        "summary": "Atleta canadense faz história ao saltar de um iceberg diretamente no oceano após quatro anos de preparação Caderno de Notícias",
         "image": null,
         "topics": [
           "historia"
@@ -673,50 +675,50 @@
         "relevance": 4
       },
       {
-        "title": "A pior eleição da história do Brasil não termina neste domingo",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdmhoaVdKVG5aRFZQY28yWlZKZks1amg0eFNWelNOYzljbDF1Z2JNLTNXU1h1bm1pczd5M2dKbnhGVkYyT0VpOEQ3VTdsV2VoaVM1Q2w5MWpnT0xNTUZGNDMzSWo4T0FMZmw0UHBydHFmd2ljVXQ1T1dtcUg5N0k2M1B1a201SUpDeTBUQlh3RFlDY0k2OTd6UW01OWhXSDdzQWR2bHdiVmxCQjh6bV9UaW56bDlJdw?oc=5",
-        "source": "NSC Total",
-        "publishedAt": "2026-10-25T10:15:08.000Z",
-        "summary": "A pior eleição da história do Brasil não termina neste domingo NSC Total",
+        "title": "Rolls-Royce Silver Wraith: conheça a história e os detalhes do carro presidencial brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTVZiNjV5MC13RE9iX2RkaUJUTVIyUGpuaUlRUFBxcHdzMl9ya2thUEdWVnluODhTQ3JlM25IV2k4TndMYVZUMjFvbXFmWVFzUEk0MXlmQ2Z1bXR0SFRNckhzaERTNEdYSjBScG9UVlhTMU9EdmtuN1BJbExQSEZka0VxQXFjTnlMQXlFSVVrdGluRXZzcG1SU2pZYjc2dzNPZE94ZDg5TkJXS2NGX0dKN1pwZmpNVXVYZjltbHUzd2dLTXlVVjJ6V0M0VndfX0ItOUx4VlROUDdiM2dETkgtc3BR?oc=5",
+        "source": "Diário do Litoral",
+        "publishedAt": "2026-10-25T14:46:14.000Z",
+        "summary": "Rolls-Royce Silver Wraith: conheça a história e os detalhes do carro presidencial brasileiro Diário do Litoral",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.96,
+        "score": 3.91,
         "relevance": 4
       },
       {
-        "title": "Lula ou Flávio, a sorte, as virtudes e o papel do indivíduo na história",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMUFUSU9QYXlCejh3bmxfLXFDVDg5NnpTNVR2LTg3VE4yblRKM0I4TmJ0LWRHeHZnWEVTVDBzY3NkLXk3TURpZkd2S1NpaUZNOUg3djZKWXFoQ0FkUXZGS1dTdUV2aXlBMF9PUHpUU1hmWDFPclFHR3psSjN3NDQwYkEtaUE5NkhnQW9QbG41V1l3WDlxNl9CVV9MWlNwQmhVUDdsYllOZmJ2cUVEUFYxdHRrV2dkMTA?oc=5",
-        "source": "Correio Braziliense",
-        "publishedAt": "2026-10-25T10:01:00.000Z",
-        "summary": "Lula ou Flávio, a sorte, as virtudes e o papel do indivíduo na história Correio Braziliense",
+        "title": "Kimi Antonelli lidera Fórmula 1 e busca reescrever história para Itália",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTWhFb0pPWWRSVXhiOHlhZnUzVm5BVmpPVGJrckZrdG9tYm92TXJzbWRiQmEwZVBPaTk1T2JuS2JUUjl3VjRKUnNIUVRSeldzZ0g5ZnpqaE9UdU9lZ2pZUllzTjZ5bXd2Vy16N2oxRjZoMmtzZE1LdXYtYVhpb3NSelR4X05Bd2dZelM0V2x6SGpoRWdPTTQ3QW93N0NmMmdJNDNQWmI4N0ZxellWRDM0elBJM2ZYMnZBeUoxYXA5OWU2amM?oc=5",
+        "source": "Rádio Itatiaia",
+        "publishedAt": "2026-10-25T14:12:21.000Z",
+        "summary": "Kimi Antonelli lidera Fórmula 1 e busca reescrever história para Itália Rádio Itatiaia",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.93,
+        "score": 3.83,
         "relevance": 4
       },
       {
-        "title": "Acordo com Groenlândia é \"maior negócio imobiliário da história\", diz Trump",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWFBHQ2FHTzY1clQ0UFhsX0JmQXptMVB0RVZnX2JrX1pGaVZZSXdJVV9SODZCZmhYb0hYQnZPSmw5c2hBYnFqajFrRl9UOXczT0YxWEd4czNyUGJLYk4zRnItWDZuSlpZMVFUandEb21Vei1kNEJ4cVVibVpkdko5ZmZtUm1oQVZpQUo0amNVYTNENGNSS3JEeTFvUUJhRlJiUUNRTzBXSVhpeFNWR2dMVHpxNDdhSHc?oc=5",
-        "source": "CNN Brasil",
-        "publishedAt": "2026-10-25T09:46:12.000Z",
-        "summary": "Acordo com Groenlândia é \"maior negócio imobiliário da história\", diz Trump CNN Brasil",
+        "title": "Drones e cães farejadores: TSE tem maior esquema de segurança da história",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN256TkMwcjg4N19UMnFvVXYxT0ZuSDY5N2dzTU9JUGQ3UnplRU55enNtUDlINW9DbzBCcWdZalk1LXQ2Yi1YWlhYUGRuVWNrMU1pSlRBNWRvamdtcXM2VlR1cDlqYzFGYV82a25HSXJZV2g0ZXJfNzFCa0xwNW11WXctZjV5VFl6eTl6TllWV2lYLWRENUVTUnJJMDBlMjlEdGJCRnB5clh6OUhqVFc3LXJla3hGa1g5WEJyZU92RjVUX1U?oc=5",
+        "source": "Metrópoles",
+        "publishedAt": "2026-10-25T14:05:00.000Z",
+        "summary": "Drones e cães farejadores: TSE tem maior esquema de segurança da história Metrópoles",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.89,
+        "score": 3.81,
         "relevance": 4
       },
       {
-        "title": "Cachoeira de 160 metros revela história centenária ao lado da usina mais antiga de SC",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0ktaVpZZzAwOUY0ZFQzbTNCUmhjOFB0WEFBenFBQ011RkFRNGtoN2w4NXdKT2o4SDBlWEZieFVNM0FoR3VxcnpUYUZXbGJTRnVTNnZ5TVBKeHFnU3RsNkVCZ1E2cy1Eck9Rd1poUWpGelViZFF4NTJlN0x2cjJCeEhpM1RTeG11?oc=5",
-        "source": "ND Mais",
-        "publishedAt": "2026-10-25T09:10:48.000Z",
-        "summary": "Cachoeira de 160 metros revela história centenária ao lado da usina mais antiga de SC ND Mais",
+        "title": "Vídeo: golpes fatais garantem a liderança - Thuram entra para a história da Inter",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTjRuQjdQdm1PR25XNGxRY0hidDBfSVhqQ0ZCb2hmR01DUDZFNXpYWGNjSjNsTnJYcEJ5OUgtdkdvZFQ5RkF1bnBSVzJFcXUwQTBkUXJBZUNEekdJSkFTa3pkVjBNOWx5SFk3ZlJPWFpuS0xoMzBBeFkwS1o2WS1QRVNxV2dfZmdoaF90OXYzcjQtQmx4TjdnYzNHUWVjTUEwdG1ianAyR1RWNFBRdzJLck9zVy1nTlFMMW8xNW90Q2FOSXVsd0NJV0s5a2daMGpCd2c?oc=5",
+        "source": "Goal.com",
+        "publishedAt": "2026-10-25T14:03:18.000Z",
+        "summary": "Vídeo: golpes fatais garantem a liderança - Thuram entra para a história da Inter Goal.com",
         "image": null,
         "topics": [
           "historia"
@@ -725,33 +727,20 @@
         "relevance": 4
       },
       {
-        "title": "Brasil escolhe o presidente em eleição mais disputada da história",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkRhSFZ3U0k1SVNZemJoYTQzVGpmc3NrOGhlX2k3WEN5ajVEWVZZTTFLTUpGQ1BzTDhuaHpNRHNwWWIxek9JQUttNHJTdHFvQ2MzT0syRmQ3SkZhMFd4RFRaaUM3bXAycnZubEplSklTYm1YN2lyUDNyMllmd0drWGJfa3V4OWtFbjRxRzRxRVZzUlliU21iOTJ1UGNTRmFkOUk0UFpn?oc=5",
-        "source": "Jornal da Orla",
-        "publishedAt": "2026-10-25T09:06:40.000Z",
-        "summary": "Brasil escolhe o presidente em eleição mais disputada da história Jornal da Orla",
+        "title": "A história do hotel que abriga quase 100 mil livros em seus cômodos",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRm9Ja0dJY3R6cE1zT2lwUWF1Ymk0UWNSaGRzR2NOTF85akZ5eUhnTmNnT3o2YzhBMUhRQmJlN3VNck5USUZ5eFhSZ0J3S0xKZUhhZm1tcHdSbVRrZGJPRzQ0cW1PQlZULWZEYVF6RW8zZkZzLVZ5M3hUbEh3eEEyZDNJTmJGck1mOWRXNno2LXU5TG5NNzc4NG15ankzV0U4NjZlSw?oc=5",
+        "source": "VEJA",
+        "publishedAt": "2026-10-25T14:00:37.000Z",
+        "summary": "A história do hotel que abriga quase 100 mil livros em seus cômodos VEJA",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.79,
+        "score": 3.8,
         "relevance": 4
       }
     ],
     "geopolitica": [
-      {
-        "title": "Votação no exterior: Lula vence na Nova Zelândia e China; Flávio Bolsonaro vence no Japão e na Malásia",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-10-25T03:00:06.000Z",
-        "summary": "Veja países em que Lula ou Flávio Bolsonaro venceram no 2º turno das eleições presidenciais de 2026. Editoria de arte/g1 Quase 1 milhão de brasileiros que vivem no exterior estão aptos no segundo turno das eleições presidenciais. A votação ",
-        "image": "https://s2-g1.glbimg.com/xJJbBj4YYd71B2zZJVDSIxFHQwM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/l/d1lqazQxyvNM6ZJzFzJQ/votacao-exterior-2026-10-25-world-no-antarctica-votos-por-pais-2-.png",
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 5.7,
-        "relevance": 7.6
-      },
       {
         "title": "Conflito na Ucrânia: Diplomacia é o Caminho Mais Fácil para a Paz, mas Ocidente Enfrenta Dificuldades em Superar Preconceitos",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa0pjb0wwamRNUFZmNVNiYXdaTjBZblBnWE5xWUV0SUxpOTZkQm1mUzJGTnZfejdNT3lTQ0VQX1ozaHV0MlFWU0pNcmJ2MDY5eXd1alVIUFVSSjZMQW1xaEZSdWNLNFJNT0d0TjFuWW94OUVkbUxnQ245alJzRWhwTVMxVUJUNm45MzRqSUljdXMtdjg2TjZkZHFBR2hfazNMOThHRFd0S3o5M0hwNWpKcmVEVXFWd3UwR0tsODRHOUlSOEplRGc4cS1PRUs5eWFRTHJHSHJCLS1lVk1IMkRjYWM4VmFGeDB2d1E?oc=5",
@@ -762,8 +751,34 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 5.63,
+        "score": 4.67,
         "relevance": 6
+      },
+      {
+        "title": "Votação no exterior: Lula vence na Nova Zelândia e Austrália; Flávio Bolsonaro vence no Japão e no Catar",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/25/votacao-no-exterior-confira-os-resultados-do-2o-turno-entre-lula-e-flavio-bolsonaro.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-10-25T03:00:06.000Z",
+        "summary": "Mapa mundi - votação no exterior - 12h04 Editoria de Arte/g1 Quase 1 milhão de brasileiros que vivem no exterior estão aptos no segundo turno das eleições presidenciais. A votação será realizada em 186 cidades em mais de cem países. Até as ",
+        "image": "https://s2-g1.glbimg.com/xLxEiG1e6d0Ku0B94_WHR4CtCWk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Z/haB55JTP6h4Z0ENNThpA/votacao-exterior-2026-10-25-world-no-antarctica-votos-por-pais-6-.png",
+        "topics": [
+          "geopolitica"
+        ],
+        "score": 4.35,
+        "relevance": 7
+      },
+      {
+        "title": "A diplomacia de poder brando da primeira-dama dos EUA no conflito da Ucrânia.",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYTZySGlBRjlvdjl4T0JmdEpOcXJfS0RENy1ObVR5bElTZEVHV3Y2aDNXaF9QYkZJWFl1SHdscUJJaDFhWnZfcDZ1MXAxaDZkdHU2WDBGQURNMHFubTV1eW1IZlJ2TGpDUTcyVU85aVNDWU9vTE9UOTkxWWhCNEU4TEFJVnRiVGh3YzNXMTh2ZUdfNWxHZDhWd2xvY0tEUQ?oc=5",
+        "source": "Vietnam.vn",
+        "publishedAt": "2026-10-25T01:54:34.000Z",
+        "summary": "A diplomacia de poder brando da primeira-dama dos EUA no conflito da Ucrânia. Vietnam.vn",
+        "image": null,
+        "topics": [
+          "geopolitica"
+        ],
+        "score": 4.17,
+        "relevance": 7
       },
       {
         "title": "Kim Jong-un encerra visita à China em gesto de aproximação com Pequim",
@@ -775,7 +790,7 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 5.01,
+        "score": 4.16,
         "relevance": 7.6
       },
       {
@@ -788,37 +803,90 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 4.78,
+        "score": 3.96,
         "relevance": 8.4
       },
       {
-        "title": "Tentativa do Ocidente de destruir a Rússia levou OTAN à beira da derrota, diz mídia",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQW5FNGlaU3BaeFAxY2w0cUg0cHl1V2dtY2RXLUpXY1NyX0RjSzRsSFBXd04tSHl0U2Rpd0tCVExzYi1SSi1FcUN1T3dDNGxEanZYUHNpNkxNTVpnMklONFdta0xTTGtWeVkwaktJRTZjejF4LV9wYlRYMEI3VzFpOHJVb1JVSk5USWhEem1IREhSOWEyRE1SMlRMb2IzNHZYUXVlUjNrY2hTb3h0LWFVVm9aZC1lMjBLRVFTMER5TF9ISUtlRzNranJJUUk1NE9qeHhHV1VqcVpkUQ?oc=5",
-        "source": "Tribuna do Sertão",
-        "publishedAt": "2026-10-25T08:26:52.000Z",
-        "summary": "Tentativa do Ocidente de destruir a Rússia levou OTAN à beira da derrota, diz mídia Tribuna do Sertão",
-        "image": null,
+        "title": "‘Entregar todo o poder aos Bolsonaro ou dar última vitória a Lula’: imprensa mundial repercute votação no 2º turno",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/25/repercute-internacional-votacao-2o-turno-eleicoes-lula-flavio-bolsonaro.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-25T13:37:27.000Z",
+        "summary": "Lula (PT) e Flávio Bolsonaro (PL) em agendas eleitorais na reta final da eleição Ricardo Stuckert / Vitor Salles A imprensa internacional repercutiu neste domingo (25) a votação no 2º turno das eleições presidenciais brasileiras, disputado ",
+        "image": "https://s2-g1.glbimg.com/H-1DPqpY_aQzmfYT3QZs2xG5TFw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/i/MyAUBkSseOCM1D9E8c4A/montagem-horizontal-1280x720px-4-.jpg",
         "topics": [
+          "negocios",
           "geopolitica"
         ],
-        "score": 4.62,
-        "relevance": 5
-      },
-      {
-        "title": "Kim Jong-un visita China um dia após pedir 'exército mais forte' e 'revolução militar'",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/24/kim-jong-un-visita-china-um-dia-apos-pedir-exercito-mais-forte-e-revolucao-militar.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-10-24T12:19:44.000Z",
-        "summary": "Líder da Coreia do Norte faz visita à China O líder da Coreia do Norte, Kim Jong-un, fez uma visita à China neste sábado (24), afastando de forma definitiva os boatos de que haveria morrido. Segundo as mídias estatais dos dois países, Kim c",
-        "image": "https://s2-g1.glbimg.com/kHimAAf0_HYiKB9Hn7cNEApCtJ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/q/ZN3jYXQqO7GphsslNPgg/kim.jpg",
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 3.32,
-        "relevance": 7.8
+        "score": 3.93,
+        "relevance": 4.2
       }
     ],
     "negocios": [
+      {
+        "title": "Taxa natural de juros e desemprego: a crítica à economia que naturaliza desigualdades",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEk5N2ZNdm03S0xCWVlrRElpSkYwcHo3cGd6Zjl2UkZQaFlKNGFETlYzV2FtWDZBYlRjQUpyY1V4Vmo2djNvQnNZOTlqQW1QbmNvUFRnVWZMSTlpall4TnVfSThlN1dtVzJMdkxtZE9oNGV3RTNOaWdmSzJuS05TNA?oc=5",
+        "source": "Rede Estação Democracia",
+        "publishedAt": "2026-10-25T11:00:00.000Z",
+        "summary": "Taxa natural de juros e desemprego: a crítica à economia que naturaliza desigualdades Rede Estação Democracia",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 6.76,
+        "relevance": 8
+      },
+      {
+        "title": "7 a cada 10 empresários apontam a burocracia como alta ou insuportável para os negócios",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaUlfVjJrcVFxYkVZc2MwTUxTenpieGFzd1lZRmZtTXExNXMyTVhld2h3NGFNTGdhdlltQkltR2NSdTFqYjNBZWNRNE1jMEcwVGZESnhkSGVJTTVNOHl5OWlDa0UxaWRERWlVbUloNVdjQXBuWTI4ZVUzd0ZfNkdJREtR?oc=5",
+        "source": "Gazeta do Povo",
+        "publishedAt": "2026-10-25T13:38:00.000Z",
+        "summary": "7 a cada 10 empresários apontam a burocracia como alta ou insuportável para os negócios Gazeta do Povo",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 5.61,
+        "relevance": 6
+      },
+      {
+        "title": "Jovens votam juntos em Araraquara e citam economia entre as preocupações",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMzJQWVJ0SFFpa2Ewak1IY2NiRHBKMGFRNkRsdV9LYlhjNGFSVk9HZkN6d1BKOUxJQW1ya1NHdGI3OEFFT25jdTVxVlNRMldTZy05MnlGTlFPX0NiaEl6aWw0LUtDTndhLWpTa0V5MjNYZlNtN0hha2pXdWJDMWVMVTd4YmRaTEZPak9pZTMxTE9jV0ZLcFV3ZDFVWEtHN1E3VFJIalEyZFF4dzV1ZzlzZ0ZEZzBTcV8tUWsxWU1DMHdWRkR4SE9vMjhtR3M1a3Vn0gHfAUFVX3lxTFBOaHRLbHpNZWd0YUNBV2VoY2NMLXNjRVJ5NzNNSzVLZ3ExTTNiTm5oZ1ZxX1dHS1JGZHU1Z1BmV0RZYWFWY1hISFpQNGNHS1dQZzN3cHhtTnJQNU5icHQ2anVKTkY3anZuZWVYbHFjZTF5VnhtVERNZE9xc1k0QWp0WEFFSkZ5RDB5TUhpeV9xa3kxOHQtd3ZvNVlhb3FpaWpRVjFvaW5HdENudkd4M25mZ0pWZWdVVnFjMkVodTU3Vk9NYTFtN0I1bE5fc3JZOVVsVlAwTWxCeTlpSmhTb3M?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-10-25T13:04:16.000Z",
+        "summary": "Jovens votam juntos em Araraquara e citam economia entre as preocupações G1",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 5.49,
+        "relevance": 6
+      },
+      {
+        "title": "Com PIB de R$ 2,2 bilhões, cidade de SC conhecida pelo gado Jersey é a quinta maior economia do estado entre municípios de até 40 mil habitantes",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xOGtDX0NUOWdMUEt5TlRDVUdiaGppS2Nha3pvN29vem5ZZFZVeEw1SmJLc3VoR0RkNC03NnVqVDF2VGY1ZGJKOGZPRjRoWjR4aU9sRTI0LXI2MmUtS3ZSY3hEdGQ1MWpzU05OMWVvS0ZMajhyYm1OY0M2T1RxSU0?oc=5",
+        "source": "ND Mais",
+        "publishedAt": "2026-10-25T10:30:45.000Z",
+        "summary": "Com PIB de R$ 2,2 bilhões, cidade de SC conhecida pelo gado Jersey é a quinta maior economia do estado entre municípios de até 40 mil habitantes ND Mais",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 4.98,
+        "relevance": 6
+      },
+      {
+        "title": "Eleições 2026: dólar pode superar R$ 5,20 e Ibovespa cair abaixo de 180 mil pontos, diz economista",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjhwb0RXUVdyeTRuNDEtSnRkVzhvNGpjWUpzWEFZTUp5dlQwTWlDN3dJa1VfS2ZHYWdzSWdXdEFxMXFadkZ1TUZydFpkRnNmSXN2RkJKWkFYLU9wTmJQV2VTVmdzNVdjeXBleW53MEFGWHo1NEdKb1ZRcFhvNGkxMEk3SXhIMHlsWExIV3hOcjlwR0htRjJpRGw4Ui13cHMzT0NkbV9QdGxDSS1BS0VoZ2syWGJlWVNKc1lCQktibVdRZy1q?oc=5",
+        "source": "BPMoney",
+        "publishedAt": "2026-10-25T14:36:48.000Z",
+        "summary": "Eleições 2026: dólar pode superar R$ 5,20 e Ibovespa cair abaixo de 180 mil pontos, diz economista BPMoney",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 4.86,
+        "relevance": 5
+      },
       {
         "title": "Pequenos negócios de Minas investem em tecnologia para aumentar produtividade e vendas",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGNCSVhLUDhiRkpKMk80S29ZUXBKeU5McEY2T0xCNzZ0TnU5SDlzM3ppS1Z6QjYxNS02b1REbVEwVzhLQ1ZOUjRRZXdFTUJVQUptQWR6WGpYYmxvbXZCM2N3cm00TDU1SVR3c2FWSWMyV21DREEzX1Y1NUNSUkxIRXRSczJwNXRzc05HV0QtUGFvbGdVQkgwYjhwOS05SHVkLVlQMVlJNERqNGJqaDNXamlscDRDMmJMYkRTNDJUUW9HMWViWTFR?oc=5",
@@ -829,76 +897,24 @@
         "topics": [
           "negocios"
         ],
-        "score": 5.82,
+        "score": 4.83,
         "relevance": 6.4
-      },
-      {
-        "title": "Montagem do Natal do Bem gera empregos e movimenta economia em Goiânia",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1BlcWlyOTZ0c3pRMVlIM0k5a25SQ25MdW1LY1BaVDlCQ3daWVg1bUdUWExpMXhrMWtxYWxRX3NYQUxvRW5Uc0pyM2hmUmk3Z2ZRQkxtMFhVcjRfcU82azlaR2xuaTVlQkdmSDIydnlNR2VHMlNnVEItSjZkR1BPNXVTcHBSQ3BnYTdQNGI5UHU1SVh0dXczYWRTWjZfRGtUT2g2d04zT3JOM2s?oc=5",
-        "source": "Arroz de Fyesta",
-        "publishedAt": "2026-10-25T06:13:32.000Z",
-        "summary": "Montagem do Natal do Bem gera empregos e movimenta economia em Goiânia Arroz de Fyesta",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 5.09,
-        "relevance": 6
-      },
-      {
-        "title": "Do mercado financeiro ao empreendedorismo: a trajetória de Jonathan Félix desde 2007",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOW5CelhKSEFDMHgzX3Jkb0xvdWtvbW5jWFp1Z0hIWHVsWWluTWxsYnhyc0ZCUGdyVkhVU2l3WEFQOHhDRXdfbHFXZ3BnZlVMUm93WlByWmtUQlNobl9UZlh3T2Fsa2luQ3U1ZDI0RkdPU01kYm5oV2c2WUR5MmFOWXBpZ240LTFuN2Z4UkI0NzdCVThKRzVyN0xOWXQzV3M2OWxYX21ob0NhM1Y1SkRsNlYxRWJqN3hKMWpjckVpak5Pdw?oc=5",
-        "source": "jornaltribuna.com.br",
-        "publishedAt": "2026-10-25T09:50:07.000Z",
-        "summary": "Do mercado financeiro ao empreendedorismo: a trajetória de Jonathan Félix desde 2007 jornaltribuna.com.br",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 4.88,
-        "relevance": 5
-      },
-      {
-        "title": "Por que Flávio Bolsonaro? Segurança, economia e rejeição ao PT dão o tom entre eleitores do senador",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUHp3eGlVYjJqZ2J6T1JXZl91SGNab01IWng5Q3BIbW1sUTRqNXRjY2xQQkhaaVZkREpTWDdPMGRJaGFlZzhpbXBsdFNnUmRHR2ZhR1BfalpNaWVVVzZ0MnVSZlZVemx6VkVacnNjeTV5MGs2UncyXzJnaVUzXzROYnRVMHFDLWVzd0VxYWt0Y3QtMk5PVmpXZ3FWdjVnOHY0UkNlLVJ5NGUzcERleG5vNWpVUDAtY2NWVFM5NU1nNk1sTDU0TjJPRnRKb09Kb09VdXBlNHN1Wi1SZzluZnZQM1M4WjRhR2VvWldITkFPWnpfd9IBgAJBVV95cUxNOHRzSG4yaE9yMkZjaFNLejVvN2VJM3psejQ3dTJmUG1DbDQyNjJRT2xKMmJ1bGg2eGQydTFFT1J6T280dHhQODlGXzVFOVZNZi1TRUNvQXVqZThNdG1yMXFFWFBfLUFTbkhvRmt0R2JsZVhXdWxtLWJlYVdPUVN1NHFpN3R5TDkzMEFIdkp5bWF3bHBNSTVVenhhcnY2WkZrdUFTSWFMUUJHVUFTaHpQOC0tX2UxU0xJaXdyOGVUMjBFdm9ZeklUUkhOaExKLWFwVmFCVXhhWkI4cXlON3d3ckVNR0pNT2VCS1VFTE5WOWVid1hXdFotLTAydG1HTDFj?oc=5",
-        "source": "O GLOBO",
-        "publishedAt": "2026-10-25T06:30:00.000Z",
-        "summary": "Por que Flávio Bolsonaro? Segurança, economia e rejeição ao PT dão o tom entre eleitores do senador O GLOBO",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 4.29,
-        "relevance": 5
-      },
-      {
-        "title": "Brasil elege presidente sem debater a economia — e quem vencer terá de cortar gasto",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZHlpR2dhUXQxdlpkVlQzbGl3Y1g0cUZSNTBZSzF4NEY2bXBDdXBwNWE1em1SRlVHYVA0X1VobkxkajlETW1WNnM1VjZtNTZncHU4ci1tQS1maGZ0dTgwcjQwdGhyVnlKY1MtU2pLczdKczB2OXNhT1NOT3VnX2ZPZERJZ0pfNDk3SGNucUR5bFI4VEJpd0JfNUw5UnllREhXMkV4U3BFRkhpdw?oc=5",
-        "source": "PlatôBR",
-        "publishedAt": "2026-10-25T03:02:35.000Z",
-        "summary": "Brasil elege presidente sem debater a economia — e quem vencer terá de cortar gasto PlatôBR",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 3.75,
-        "relevance": 5
-      },
-      {
-        "title": "O custo da incerteza: o que a economia brasileira tem a perder no mercado de tecnologia",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0hRSk96RjZ3Mkc5QVg1eWwtOVRranVnMW1mLWxzcUQydnY2UTFFQ21xcVEtZVFHbVZDbGNEQ21xajlTbXM1NFR5UE9kRUYyVzMtVFhwdzBINzAxWkFDaWtiQWkxa0lBLWI5QzBuVW1TUDhxQjJvUWpoVm5FY3NCVEpfREF6U3d1NFA3ckZjNVRPX0d6X3VSY1JSVXVfbUYweDJLYXhNVnJNNTA3RUoyM05MTGExZw?oc=5",
-        "source": "Noticia Preta",
-        "publishedAt": "2026-10-24T18:07:04.000Z",
-        "summary": "O custo da incerteza: o que a economia brasileira tem a perder no mercado de tecnologia Noticia Preta",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 3.73,
-        "relevance": 7
       }
     ],
     "filosofia": [
+      {
+        "title": "Bertrand Russell, filósofo: \"Não tenha medo de ser excêntrico em suas opiniões, pois toda opinião aceita hoje já foi excêntrica um dia.\"",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVTFlRjJUNXhuVTJFSndHWm9acjRkSmUzREZ3M240em5qdXM3SzFqbGlrenh4VzUyVHRvNnhlUGw2djVvY3gwUFJtVk9pakcwRUhOd05ZdDlmdHBxRTYySFBJd0ZsSkVXUkVpRmxQc284OXcyWnMzRk1fd2owWHRkNngySjZNalItaWloUWZQWWJYTkp1c1dsRw?oc=5",
+        "source": "Correio Braziliense",
+        "publishedAt": "2026-10-25T11:30:00.000Z",
+        "summary": "Bertrand Russell, filósofo: \"Não tenha medo de ser excêntrico em suas opiniões, pois toda opinião aceita hoje já foi excêntrica um dia.\" Correio Braziliense",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.45,
+        "relevance": 4
+      },
       {
         "title": "Frase do dia do Estoicismo: 'Não explique a sua filosofia. Incorpore-a' - a reflexão de Epicteto que ajuda a parar de viver para mostrar pros outros nas redes sociais",
         "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNTkFVSVpJRjRXTVdJdmJCUFE0em9ieWJwUlItYjVxZHp0dW5ZamplYzVOX05YUXN5dVdPa3hCXzFHcjdsSTV0cnBkaHFYUEZLWENKdzBhdm1fcV9Kb1h0NVJxdmtfWVJnc3BjQ2hjVWxNSlJWUU80YmtHSTNwMi1pdGNJUTE5NFkyREVYZW14RHUxN3JjNWtNT1RVNVB5WHg4N1BNTXlxeHZPRHo5ekJTVEpySkR1b2tuVGhtR3p2dHBXTWJoZXo5eTJ3UENjUlhxcnRkYkVBeldBLWRzQl9KTUEzUTRFYWl3RHUyZTFNSjZvd2w0b0ZUdVA4TW5NTUpKWkQ4UWhVbzNCd2tYTGxyMlpvb2JkMGlGTDQyd3V6cjlRdGo5TlA5Q24zU015NG5YNVJV?oc=5",
@@ -909,7 +925,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.89,
+        "score": 3.23,
         "relevance": 5
       },
       {
@@ -922,7 +938,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.48,
+        "score": 2.89,
         "relevance": 4
       },
       {
@@ -935,7 +951,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.4,
+        "score": 2.81,
         "relevance": 4
       },
       {
@@ -948,7 +964,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.06,
+        "score": 2.53,
         "relevance": 4
       },
       {
@@ -961,182 +977,168 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3,
+        "score": 2.49,
         "relevance": 4
-      },
-      {
-        "title": "Módulo de História, Ética, Filosofia e Terminologia do Judô",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUpDNzVDbVItNExhNWh0bzVSUGpVeEMxU3FRaFNaTnhQVzZsamQ4dWN1UmhzbUVtbk1NMVdyRTRsbGlsNlVmVm9OelFhYmZoclZoSTVPeDNIb2hTWVlsbFhhRnhzNmdkS09sY3JfNEdJZmRsMlNuSzVZcTIwZUo5UTRnbkkzdw?oc=5",
-        "source": "Federação Paulista de Judô",
-        "publishedAt": "2026-10-24T20:51:56.000Z",
-        "summary": "Módulo de História, Ética, Filosofia e Terminologia do Judô Federação Paulista de Judô",
-        "image": null,
-        "topics": [
-          "historia",
-          "filosofia"
-        ],
-        "score": 2.96,
-        "relevance": 5
       }
     ],
     "cinema": [
       {
-        "title": "Kore-eda tentou usar IA para revisar roteiro, mas achou sugestões \"entediantes\": \"Ele nunca amou cinema\"",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa2NINEw5N3VZQUhJeV80RDNCX2RmaHMxTTBiVkx4SGI3UG5JalZkRnkyQTUzbWhwR3FsYkhoTUFrc1ZwbHRUbzNId3E5eGNneVpLaWQ1T3hsS1lFMHZvald5UFhhSkJSbjh6NER2U3Z6RW9NMUZWZ0I4UENMX3dCdGtUdjdMNldpOG1VWXllMloxeHZBSHJ2Y0ROS1Y2OWk3c1VZRUJTSjZQRGlM?oc=5",
-        "source": "Omelete",
-        "publishedAt": "2026-10-25T10:20:00.000Z",
-        "summary": "Kore-eda tentou usar IA para revisar roteiro, mas achou sugestões \"entediantes\": \"Ele nunca amou cinema\" Omelete",
+        "title": "Festival de Cinema Francês reúne 21 filmes no Paradigma Cine Arte",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXBHYjdaMWEtQXJlVlVKamVHSFp0ZDFEd1hidlFWNkJ5dWxEcVhFVUM1Tm54VUhJNC1HclRtS1JNalJORGx0Uy1waGNEdHl0eTBERFNxLXpEUllFLWVYeHhSWDZ3bE1MWTRyZ2FUb2NaQVBlQ2ZLb2RFSGltTFRTekVST3hNTU9kNWxfZlBMOGFXVF96ckF2VA?oc=5",
+        "source": "Informe Floripa",
+        "publishedAt": "2026-10-25T14:55:41.000Z",
+        "summary": "Festival de Cinema Francês reúne 21 filmes no Paradigma Cine Arte Informe Floripa",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 4.97,
+        "score": 7.87,
+        "relevance": 8
+      },
+      {
+        "title": "3 filmes para conferir no Festival de Cinema Francês no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzdzY2pPZUJvQlRJOHF2eUJLVFRUR1ljMmNTVTl2VTV6N0dRcnNFUHdpNVY5NGxpNWVBUmJOR0lTUEVJQWI5VmZaOU5xb3FyM3hDY3l5YzRpYkh1NXZqWmR6NElHdThlS3o1VmViamltNUIybnlBRnNTOEFhbnY3NDlPbnU?oc=5",
+        "source": "VEJA RIO",
+        "publishedAt": "2026-10-25T13:00:52.000Z",
+        "summary": "3 filmes para conferir no Festival de Cinema Francês no Brasil VEJA RIO",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 7.31,
+        "relevance": 8
+      },
+      {
+        "title": "Clint Eastwood, Tarantino e 10 Oscars: os 7 melhores faroestes para assistir no streaming agora",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeHpnbU9RUkxENWRLbUlzUW1HWVVURnpuamd4TlVlYy1TbFdjZ3NmUVp5QU0tczdBZnlEaURZUTROMzQ1RWNnOE5QQl9nbkVFaUNRYm9IOXU4MlBWQkdySkswcjhKQnlPa2lxajgzR3k5TXpCVmpvbGpBYlpVZHVuVlNEWVlUenllMDAtYV9ocm5aenpYckpaZllqWQ?oc=5",
+        "source": "Revista Bula",
+        "publishedAt": "2026-10-25T14:50:01.000Z",
+        "summary": "Clint Eastwood, Tarantino e 10 Oscars: os 7 melhores faroestes para assistir no streaming agora Revista Bula",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 4.9,
         "relevance": 5
       },
       {
-        "title": "Cinema na Madrugada: veja qual filme a Band exibe hoje (25/10)",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa094T0xSclpVdUkweDRMY04wcWpjQ3BGaDU2RjBlVW9PSXFzbzBnbmI5aEVjcFhxQVpOM1FvOTRGVVY1QmhXd0RuU1RoNHlOWkJubWswZjNubngzN28zbXp0bjlkNTM5U3VlaWM3M1F0aTNoTTNjRlhRalkyXzJUNUk2aFBzNEx0UDc0ZDdoT3g2VHJja1BGcloxUy0?oc=5",
-        "source": "Portal TV e Streaming",
-        "publishedAt": "2026-10-25T04:00:00.000Z",
-        "summary": "Cinema na Madrugada: veja qual filme a Band exibe hoje (25/10) Portal TV e Streaming",
+        "title": "Os 7 filmes e séries mais assistidos hoje no streaming | 25 de outubro de 2026",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORjVQTnJ0dDUxemRIRjNhUXFkeGt0MnFzSFpGM21OdUNvMERzYlB5dl83azFPa3J1dUdzWTRRUkMzWDE4c2kxUDJWUkdwUkpsZGt2c1dINXprZXZ0bmFsMGRYUklUWlo1OTNaZlpQWlI0d1JNQWJHWFIyNi05NnBldUY2TllYQWpuOGRLVTdjSER4RkQ3djhiRXZ1SXgwTEluNVBERF9nRjViQQ?oc=5",
+        "source": "Portal Barcelos na NET",
+        "publishedAt": "2026-10-25T04:59:40.000Z",
+        "summary": "Os 7 filmes e séries mais assistidos hoje no streaming | 25 de outubro de 2026 Portal Barcelos na NET",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 4.21,
-        "relevance": 5.4
-      },
-      {
-        "title": "Estreias: 8 filmes novos para assistir no Prime Video, HBO Max, Disney+, Netflix e mais",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGQ4THF0UXZpRTFjd2FaZi1WOGExVnRNNmI1UnEtQ1padTkyZHRhYlBtM0xlY00xM1hvUTkyTnc2SHQ3R3luNHlZX2dRQV8tYXRwUDUtVWJqMWE3Wnk3OFoyWFpTeFRiLXJJZ2JzVW5MaUZ0Umg1c0xjS1Z1WWQ3V2tKWkhyM0x3Ulhjano3VUJKVlR0RjhlX0t6M0MxYklFLWIyODdzMzBXdi1Zek5DZU01SnBJWWJ2N0hzNzdXLWVTM19S?oc=5",
-        "source": "UOL",
-        "publishedAt": "2026-10-24T21:00:00.000Z",
-        "summary": "Estreias: 8 filmes novos para assistir no Prime Video, HBO Max, Disney+, Netflix e mais UOL",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 4.16,
+        "score": 4.7,
         "relevance": 7
       },
       {
-        "title": "SNK no cinema: Samurai Shodown e Fatal Fury ganharão filmes",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQemJsdVNkNFpIRWFBaEdDTzI0amFCcjFHUE5SMWt2QjlCNjNNZlp2ZFZDajk3NUdURDV4cWNXMXdwLUhITFVGZ1pZYlhWZ29rRnk1YlJlR25sLUZIaTQ4VjlLMUV5MlBTV3FBQkd6SEFXckJWR3ZSWW14OUZlSF8yMXA3Z3ZIUXB2MnNjYg?oc=5",
-        "source": "einerd.com",
-        "publishedAt": "2026-10-25T00:00:00.000Z",
-        "summary": "SNK no cinema: Samurai Shodown e Fatal Fury ganharão filmes einerd.com",
+        "title": "'As Benzedeiras': filme sobre mulheres que mantêm viva a tradição de cura estreia em novembro",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajVhTmNYMHdkdkY0X00yU3FPX3Azbm9iQUI4OWgzTDMxcnN2MXdLd09RbnhCenFkVnF2VjRZajNHajZTVVF1a1RzdzI2WFFjQWNaUzVoQlhmV3M4NVg1NU1XeVQyT0F2OTMyZnd5am9SdUI3ZkdONFp0cEpnWTdiMEtXcmk?oc=5",
+        "source": "Alma Preta Jornalismo",
+        "publishedAt": "2026-10-25T13:22:41.000Z",
+        "summary": "'As Benzedeiras': filme sobre mulheres que mantêm viva a tradição de cura estreia em novembro Alma Preta Jornalismo",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 4.01,
-        "relevance": 6
+        "score": 4.63,
+        "relevance": 5
       },
       {
-        "title": "Eletrofunk goiano ganha documentário que estreia nos cinemas em novembro; veja o trailer",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcGdsQlFuZGdNTVhfN2xiRzU2OVctbG5kYjNITDRnMHAxaUVpcUdndnpUOTc4M0x4U0xUMHZMQ2ZQOFhuNHZPWGF6VHd3dFVvV3BOZ211YjhMLUZKTWJrVHJrcFhzVEZFZUR3Qk9udXB3Z25Jd1l0OGFSRkJxOEg3SGdUMFVVWjZzMXhCbXR4ZWV0VXhHTDNPWUIwQ0pnQUdTOXM4OU9nWkZMcnZtTHA3aDJNZUxsbktFTXlqbkN2SHVhWHZlTjVkN3IzY3F4RTZaVk5icm9ONlg?oc=5",
-        "source": "Mais Goiás",
-        "publishedAt": "2026-10-24T18:14:32.000Z",
-        "summary": "Eletrofunk goiano ganha documentário que estreia nos cinemas em novembro; veja o trailer Mais Goiás",
+        "title": "Mourinho volta ao \"El Clásico\": 3 séries com o treinador português na Prime Video e Netflix",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTJER0lCakt2SGlraEtMQzlRaUZaVG1qeGdNSnFtd3FCVS1FeWdpSDdmUE1sLWRLWS1HZFpFTzc2dFJ4UExLcWhVZi1GSkttLUwwWEJWcWY0U19GOUM0WUs3ZjNLM3lUYmt6OHNiR3U2cUp4b0VRZ3h0MkZRVEFINmE2d3ByTlRFSUlLeW1vNVF0OE0zRkxGQWQ1Ty0xbVhvQXhMaU9VaWRkekNuRTluTXY1ak9KcWY4N0Fn?oc=5",
+        "source": "Magazine.HD",
+        "publishedAt": "2026-10-25T12:45:35.000Z",
+        "summary": "Mourinho volta ao \"El Clásico\": 3 séries com o treinador português na Prime Video e Netflix Magazine.HD",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 3.21,
-        "relevance": 6
-      },
-      {
-        "title": "A Extraordinária Vida de Vera Valdez - Filme - 2026",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3aldPOERqa3dSbDJNR0otY2x3a3VNa0xYRVJlRmJpeF9YM1lyRlEtUG5zS05va0p6WGlfMEFhWjlTNTlPbVhQWVlQUWhIdURMeVZfemlFMHdVd2lVTDAwcDNTQjlBdGJuNFNJZVlkVzF4MUdKSlE?oc=5",
-        "source": "Vertentes do Cinema",
-        "publishedAt": "2026-10-24T23:54:23.000Z",
-        "summary": "A Extraordinária Vida de Vera Valdez - Filme - 2026 Vertentes do Cinema",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 2.93,
-        "relevance": 4.4
+        "score": 4.52,
+        "relevance": 5
       }
     ],
     "medicina": [
       {
-        "title": "O segundo turno das eleições pode afetar o coração? Especialistas avaliam",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVNJbkRjc1NDU3UzVU1rOXJJWVVacjZrc2I2TEd6T2xLeklva3F6aWhJSUJxWmdoc0ZFUzZxR3pmbVV6MjFkN2hnWEVZTVBTY3gzU2p1N1UxRG95X3Jaby1RWXpiMm9GbW5NZmdrOE1BTmk1aERkbnhjclE2Zm5OR1JwXzRydHdvUF9qYTBFU1J1d09sYldYdUpuN3llUFhmYlkyQlVoaXJxM2NaTU9uQ3c1dkh0UEUwa0h3LW1TMTkyY0HSAcgBQVVfeXFMTXJqSnJGX09heV9PZWc0YkhraHhoeldWUDVJMjVLTjR0ckgydW1hV3l1TzRqczYxbUpFbFItc2ozZG1OemNzRjdxR0YzUUJ1d0RMYVNqc0NQek9xeTB2QmoxNDR6RlEwclRVN1dCTmdqS2o3SFJRS0txcDUxbG5tbzBsejVUeE9KTmlhNlVhSWtpcGw0aW5FLUpvSlJwWVIwekozemdpcDlIbG91emtxY1FUaVZ6cUQtLXppb183WGNFcGVKSDMzd2c?oc=5",
-        "source": "Estadão",
-        "publishedAt": "2026-10-25T08:30:00.000Z",
-        "summary": "O segundo turno das eleições pode afetar o coração? Especialistas avaliam Estadão",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 3.7,
-        "relevance": 4
-      },
-      {
-        "title": "Campanha de doação de sangue mobiliza estudantes de Medicina em João Pessoa",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjdDV3k4WXFZaFlfU0lhVTE5SmUyY0dEYm9wdldralVuSU9RNjJ5dEdROXhDVzF0SjZDeWNlUnRPN3dabmNiVURrcVRfVUswYlViMHNiS1BCVWMxNXpRNzVJcmtlNTRyX2hzdUx0Q0x0aXllSDJ3bTl1aDROQ1lyTTFqMUNYOVpBSTJfdmVzOVdEbUdvOFhuX29EN1ZJRUs0SG1lejlfUk4?oc=5",
-        "source": "Portal Correio",
-        "publishedAt": "2026-10-25T04:28:40.000Z",
-        "summary": "Campanha de doação de sangue mobiliza estudantes de Medicina em João Pessoa Portal Correio",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 3.17,
-        "relevance": 4
-      },
-      {
-        "title": "Com uma doença que provoca crises de dor no rosto, jovem de 30 anos passou por 11 cirurgias e precisou interromper a faculdade, retomou a formação em março e conquistou o diploma de Medicina Veterinária após 13 anos convivendo com a condição",
-        "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQdW96WjlJU1pSckNUWHE2YkFlMGZadVVNUjZ6dFZDTXo2S1BQcUJVQ0JuUDczTlFSWnVwWWd3MnBac0JwV2pWX01ZanNoY2VnanJkajl3T1ZtZDhKSFhVUGd4MUxLdTIyNHdXeDVpX0UxM0l4YUVydGdWWnpjZGs3TVMzMm5hWXZhU0hIRExvc25GaW50Sk5vWUdIYUxoNEIzUTJwREhDQWp5U1pwdzQtUUxrcXJHU3JIQUxQZlM0NXhBMXZrRkNydlhocXFnT3hCNzhqb1RzbF9BTlhNT2Q3b1hFYzZzZG96R1UxX3Z0eEpxT283TTAyQnkxUlh0U2lJZ0RtQl83LS1vZlpFVjRXVDMxd1dyQXE4b1JETFRZTWF6dUJNNjBKdGxlUE04RW43ZTNQSEZCVXg5ZkRVTTZGSWtCZXBzaGk4WXJkYlVXZHI4R1JiV0VWVzd0QUJMdmllNUozZzRn?oc=5",
-        "source": "Brasil 247",
-        "publishedAt": "2026-10-24T15:00:00.000Z",
-        "summary": "Com uma doença que provoca crises de dor no rosto, jovem de 30 anos passou por 11 cirurgias e precisou interromper a faculdade, retomou a formação em março e conquistou o diploma de Medicina Veterinária após 13 anos convivendo com a condiçã",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 2.83,
-        "relevance": 6
-      },
-      {
-        "title": "Estudantes de medicina nordestinos protagonizam carreata em apoio a Flávio Bolsonaro em Foz do Iguaçu",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaUVkcjE5RnFSOGw0VjN4YjVwWTc0M3J2Q0FzOFl1b2IzVWNlUnVQMm5VUHVqQlJKTUQybG9yMEtlTkRXMm8ydEF4MmwyWlp0a1Q3ZldlbTVzU01BbzJaYlc4SXItVGU5U0YxaUZTaWhBdFFvejZoQS1FN3ZvTmVidWdnWmg4b19XS1liYWttQmVNUUZQamdDZXVKempYTkdGNVlwY1dpSEZUQno0akNMZ3ZmRHFOb0pjLUFBM3BBSFdaTEk3dFE?oc=5",
-        "source": "Portal AL 7",
-        "publishedAt": "2026-10-25T01:07:32.000Z",
-        "summary": "Estudantes de medicina nordestinos protagonizam carreata em apoio a Flávio Bolsonaro em Foz do Iguaçu Portal AL 7",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 2.79,
-        "relevance": 4
-      },
-      {
-        "title": "Do hospital à mesa do restaurante: como os robôs estão ganhando espaço na Serra Gaúcha",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/25/como-os-robos-estao-ganhando-espaco-na-serra-gaucha.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-25T09:00:00.000Z",
-        "summary": "Como os robôs estão ganhando espaço na Serra Gaúcha Seja nos corredores de um hospital, entre as mesas de um restaurante ou no ritmo acelerado das linhas de produção industriais, os robôs já circulam pela Serra Gaúcha em ritmo acelerado. Lo",
-        "image": "https://s2-g1.glbimg.com/2Qaged__RgTfVsiOTPL_G44ezsA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/b/SA7itiS76Wz5edsOMFTg/rbs-noticias-limpo-rbsn-2010-frame-63189.png",
+        "title": "Mudanças climáticas já causam aumento de doenças infecciosas no país",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/mudancas-climaticas-ja-causam-aumento-de-doencas-infecciosas-no-pais",
+        "source": "Tâmara Freire - Repórter da Agência Brasil",
+        "publishedAt": "2026-10-25T12:06:00.000Z",
+        "summary": "Desde a década de 1980, o Brasil registra surtos comprovados de dengue, mas só em 2007 o Rio Grande do Sul teve um caso que não tenha sido importado de outra parte do país. A explicação é simples: como o mosquito Aedes aegypti, que transmit",
+        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
         "topics": [
           "medicina",
-          "negocios"
+          "geopolitica"
         ],
-        "score": 2.45,
-        "relevance": 2.6
+        "score": 5.12,
+        "relevance": 5.8
       },
       {
-        "title": "Santa Dulce ganha mural em prédio histórico que receberá faculdade de Medicina em Salvador",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOFN4bWpEc1lOS0w2ZHhYQUlGYXFBMWhLVDI1WURuc1hsSURrN1laWVU4YUtrX1RvVzhrbjlCTlJQTnJid0pqU3hzS1dnenJmTUJ1N0lCVXowak5YNTVRV1lLSkdfTEsxWThTbEc2VzhobzNDM2VSeVF2NEdDemtrbUFtR2dWeTExN3FoalFQVUU2cHEwUkNHeG5aVDc2dTd6M1pkdVdTOU0yc29QOGU4T2RVektOTkpKMzN3YVczQ2hZMzRrRXhrNC16cWZOaS1MbWxoXzc3Y3ZLMkMyNHc?oc=5",
-        "source": "Alô Alô Bahia",
-        "publishedAt": "2026-10-24T18:01:47.000Z",
-        "summary": "Santa Dulce ganha mural em prédio histórico que receberá faculdade de Medicina em Salvador Alô Alô Bahia",
+        "title": "Eniac abre processo seletivo para 100 vagas de Medicina em Guarulhos",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRmVUT0pDQVU2SXRfekM4VkMwTXRDVzNBcGd6T0FJdkc0QTk5MUg3bm9TQ0RGcHhWakdyM25tWEZKeXVFRmZZdHQxNE9TS1VMa2M2cGE0VDFDdUtLSWFlbS1Hc3lwZjRRaFFlZGp4cjNQUDlEWmNZTV9idTJfaUFxOC1hWlhjY2FoSGZnODNtM3ZEeDc5MHFRVWlB?oc=5",
+        "source": "GRU Diário",
+        "publishedAt": "2026-10-25T14:46:00.000Z",
+        "summary": "Eniac abre processo seletivo para 100 vagas de Medicina em Guarulhos GRU Diário",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 2.12,
+        "score": 3.91,
+        "relevance": 4
+      },
+      {
+        "title": "Nota de corte de Medicina Intensiva no HU-UFJF: quanto foi preciso no Enare",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOXRJWmNOUll6eEo5Vkw1Y2taUl9IWlhuUE8yUzZSdnVmd01wYkJZWkktWkwtU2RacXZadERrYUFQXzBDQnZEWDIwejJ5N1liVHJtWEVwYnZmcjEwTHFqRW40VHBaTjBPWjYxenhEREhJVDFnWElRR0QxamdRM1htRlEwaDBIRVByNVd6NXlYRzUwYzJGZWszcXZ5NkJKVDZJWTlWd3kwRWZrcFA4bUw0ZQ?oc=5",
+        "source": "O TEMPO",
+        "publishedAt": "2026-10-25T12:30:32.000Z",
+        "summary": "Nota de corte de Medicina Intensiva no HU-UFJF: quanto foi preciso no Enare O TEMPO",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.58,
+        "relevance": 4
+      },
+      {
+        "title": "Qual a nota para entrar em Medicina de Família e Comunidade no HC-UFU pelo Enare?",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMFkyYU95Z2M3WGplOVZGaTl3aldOVUpWQnRUenVfY1hoU2dHNktVcTE4R3F5UklBXzVvS05sbE9jWlA2YzhtT0J4LWk2aGpvMzJ3aGNzMks2Y3laTnFwdTdFZmpZcDV1RHNweFBvTEZtNlpGdmFyN210TGxObEhyTWJnSlJhczRYSnczRzUzXzNNXzF3RU5fMVBiRU84TXRxcTFXM2M0YTE2REtZNzhKUG5wOF9JaFNNSlU0T0ExWlExZw?oc=5",
+        "source": "O TEMPO",
+        "publishedAt": "2026-10-25T12:10:33.000Z",
+        "summary": "Qual a nota para entrar em Medicina de Família e Comunidade no HC-UFU pelo Enare? O TEMPO",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.54,
+        "relevance": 4
+      },
+      {
+        "title": "Beleza com olhar internacional: médica de Campinas leva expertise para Harvard - por Daniela Nucci",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQXhPNUhWUHZocTBwSzg0YUhrZU8ydXNDVWREMGlOQkU5bDVfZTFvVTJxc3FSUWw1VEpBbXczc2k5TEdnd0FMZUdJbFRQNHhNYmtxZ1BKbU51c1pRd0hHSnNRaHRENWdUS3A4WnhiQ0FjQWN4ZTJyR3FZeEthRTRuUW5XRlh2QU1LaWZzM1BsclZmZVRVTkpaZEJGRHp4OC1OblhLQllYbU9YcUZ2Q3ZZb0J5Tjh3Y0JyNk1Nd2o1NmFGdw?oc=5",
+        "source": "Hora Campinas",
+        "publishedAt": "2026-10-25T11:30:36.000Z",
+        "summary": "Beleza com olhar internacional: médica de Campinas leva expertise para Harvard - por Daniela Nucci Hora Campinas",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.45,
+        "relevance": 4
+      },
+      {
+        "title": "UTIs no Brasil: médicos pedem estruturação que vá além de mais leitos",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ3JmSXZ4dm5VRFprLXhma0RFajF2TWxvT1BxWmZ3S25VQ2dDS1YxTWtYblhyeVFmalZpVUx5Nmp6UWFidGRUVUJHek5BOS14SnFOdU5JbE0wanpzNlBkMHgwWkw5NzZxRi1pNHZDYkRjd3FhVzFNbHA1cTh4ajZyVE9iTms0M0R3enVYSnVwN1F6YmgzUzhIQQ?oc=5",
+        "source": "D24AM",
+        "publishedAt": "2026-10-25T11:15:35.000Z",
+        "summary": "UTIs no Brasil: médicos pedem estruturação que vá além de mais leitos D24AM",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.42,
         "relevance": 4
       }
     ]
