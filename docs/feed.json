@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T12:00:42.690Z",
+  "generatedAt": "2026-10-26T22:08:55.039Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -30,6 +30,33 @@
   ],
   "highlights": [
     {
+      "title": "Ibovespa desaba após reeleição de Lula e ações recuam até 58%; veja as maiores quedas",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/26/ibovespa-desaba-reeleicao-lula-acoes-recuam.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-26T20:05:56.000Z",
+      "summary": "Bolsa despenca 13% após vitória de Lula A bolsa brasileira teve um pregão de forte turbulência nesta segunda-feira (26), após a reeleição de Luiz Inácio Lula da Silva (PT). O Ibovespa, principal índice da B3, caiu mais de 10% nos primeiros ",
+      "image": "https://s2-g1.glbimg.com/2Crsre1uF0-YpxmeG2U1ZOLC_K0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/1/U/AP4jBQQl2mjPFDvoThGA/2023-01-20t165959z-1-lynxmpej0j0o4-rtroptp-4-brazil-economy.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 9.06,
+      "relevance": 9.8
+    },
+    {
+      "title": "Circuit breaker é acionado pela primeira vez desde a pandemia de Covid-19; relembre todas as vezes em que a Bolsa parou",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/26/circuit-breaker-e-acionado-pela-primeira-vez-desde-a-pandemia-de-covid-19-relembre-todas-as-vezes-em-que-a-bolsa-parou.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-26T20:54:28.000Z",
+      "summary": "Circuit breaker: entenda o que é a suspensão das negociações quando a bolsa despenca Luiz Inácio Lula da Silva (PT) foi reeleito presidente da República neste domingo (25) e governará o Brasil por mais quatro anos. Com a vitória do petista ",
+      "image": "https://s2-g1.glbimg.com/46C4or-4GqMftg6KPOilEINCu5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/C/c/FwsIXETS6K61xm99LqYA/000-1pl7t0.jpg",
+      "topics": [
+        "negocios",
+        "medicina"
+      ],
+      "score": 8.96,
+      "relevance": 9.4
+    },
+    {
       "title": "PIB cresceu, desemprego caiu, mas juros e dívidas pesaram: veja o balanço da economia de Lula 3",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSFBka1BvUDV4TlVfVzFHYXlsVk1CRUxjOTh2dVNqY2FzLWE0U3lDWWNyREk5RFF1bEdtcWZFUkVVMmVsNGtsblRCc1VFbFJUU2l5dEJ3c18yXzhyeEt6Q1UyN3FGa2c2UTFoQjBBcFRNQzVYdHBsX01XUGFyWkN4eW5rWUcyRjk5YkVKbU5vZG1zWFZocjVMcUx4QVRLR3VGbkhFdGZ6VVVUWmh4eWxDZXVFV0hFOW53a0J0N1VOVFh3X0V0NzhFSm5UNFpZaExoaFB2czI5VE5TWHpwcU5VSdIB7wFBVV95cUxQMndXeUpySS1WbDg5SHNSa0hxaFQ0cEgybXZ6ZktSd0kwS1pQajJBQTJLYjVlXzhpX19qc1JlbnZ3YVJuQjlKV3BYU1U4OEpmamZqUkFueGs4UzhZZTNvTWlaSE80S2l5UkduRjNUc2VmbDc0R0xsOVowTlJzcmhNYzVFZmtIRTNuS19JM3hpRkk1WVg3aC1TOE91VFJzc0VGUkRKQVNMMWcxSm5UaG10OXdKb3MyMHk2dE1VbzRTdWUxVm8wT2I5ZVA5VDVneElUaUg2VnI5Zmt3bnlya2ZNUHFkNDNVNEdLcndnRHFIMA?oc=5",
       "source": "G1",
@@ -40,105 +67,106 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 12.58,
+      "score": 8.51,
       "relevance": 17.8
     },
     {
-      "title": "Mercado financeiro baixa estimativa de inflação e de alta do PIB neste ano",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZmdFek1aeHliTW1SUHdUVzhkcDl1X1RVbVNqWmprSVVOcVppZ1dZS2I3T3JhTmI2SnVfZ2dnUGR6cVVMUGJHQmxkTHVsM0NPQlZDbm1kc1FkX0I4SG9mSmt4cnhMRXBIYlVLNm1adlU2bUdEMVFBakJOX0pNbnI1dVFaV2ZhYWJJV3BWLVJURU1adUUyakY4ZDdwZjBIcGQyOXFSOVJveXdCWlZGM1ZoNVd3Z3RwRHlUWnp6aHNOSl9za1Z0eFFPV9IB1wFBVV95cUxNWXBFQjdNZnQzdDdfTWplQVltWThsb3BvZUxBYXVTa2hFUTNnWWR2MXRoRXR1ai1zMm54emJmRWZna29mSHA5UTdCMTJFNE1Kc0xVS3hxMllzVXc4cm5uaGNNQXp6OE1BRm1BdlQ4VGswSktHbGNpY21ZSEcwc1pGMjFCaUdQZkUyUURPVzNqVXBoaWVCMnN0dmZkTUNWamhNM3gzcTJyYlhEN1ZYUENZYUp0Y2gzVlhfaUZfTmVFRG85dE8ydkhHWjVveDVBZ2dvUE5pMllCSQ?oc=5",
+      "title": "O que reação de Trump à vitória de Lula diz sobre relação entre Brasil e EUA",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTWmpzcV9FeGJsMTRTQUJYQ3ViWF9WOVdtX0xWVjJrb0RvNklMWnBMaU96cGl1c0NKSjdjT2FaMUR0WHBKUDhpT3c3Z1BiNURQT2QyaFB1UTM1MEZPQ0k4TDVDaw?oc=5",
+      "source": "BBC",
+      "publishedAt": "2026-10-26T20:36:20.000Z",
+      "summary": "O que reação de Trump à vitória de Lula diz sobre relação entre Brasil e EUA BBC",
+      "image": "https://s2-g1.glbimg.com/LciAPHOno-lcJ3C4o5Lz0yWRHwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/0/f1naBxRSuc7RKJBMZgQw/design-sem-nome-2026-10-26t101159.440.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 8.29,
+      "relevance": 8.8
+    },
+    {
+      "title": "Ibovespa cai mais de 13% após 'circuit breaker' e dólar fecha a R$ 5,40",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aYXdJdG9WVmczX0J2U2tzLS1fUHUzUUxQbl9TNjZBcDRzeWZNWWdVV3JsYlBYNFRiLUI3OE8ybmpwc0hQai1fSUxuQzgzS2V6d195SU9fbVdXRlFpbUNManFFR3dlVmFxMTNydDc0UVBIOXVDRFd5RdIBhwFBVV95cUxQeG1DclA5TEV1azFWc1NTSUotM3F0MTd3dzcwU0xfYUFtWTJ3ejc1eGdUb3ZzdEhrME81aHVSVWpvLWNTTDVEenlQWk95UTVuZDRubGF3bDIzLWFQZFpjUm5LTG9vRGNFMDFaY25FMExlazFYRThvOHZVVjgzZGRLNWVxRkp0cHc?oc=5",
       "source": "G1",
-      "publishedAt": "2026-10-26T11:34:42.000Z",
-      "summary": "Mercado financeiro baixa estimativa de inflação e de alta do PIB neste ano G1",
-      "image": null,
+      "publishedAt": "2026-10-26T12:00:14.000Z",
+      "summary": "Ibovespa cai mais de 13% após 'circuit breaker' e dólar fecha a R$ 5,40 G1",
+      "image": "https://s2-g1.glbimg.com/1YXVQdJYbeM_282ghL10_02ayNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/0/TX8XW2RP6Go2X8PRFz5A/globo-canal-4-20260209-2000-frame-80048.jpeg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 10.23,
-      "relevance": 10.4
+      "score": 7.98,
+      "relevance": 11.8
     },
     {
-      "title": "Tensão no mercado com vitória de Lula, dólar, Ibovespa, mais agenda e pílulas da economia 26.10",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQNl93ZVg3SE82LUw4V29XUWJIelZnaEMwdDZvSHM3aGluSVVtaXh0aEZ4Sl9XQ1IyWXVPeXZRdVE1eHZsZHJJb1JVTU0zcm13YVlZdzhZUWVQcEl4TUpZdG13T2RuQWlMNUZKZnh5dmNCVjlQZVRDMFFVR2QxWEdOZTBLOEsyQkJUbFVTOGJJTU5UWGNPV1FJVHhYazVwNTlGS0NxTllVcTJTeFBtTURVWUJqYkdjaU1VdG1XalJPZGplS3Y2Vk5aYTlpRFNuYWxBU0Z0aWwwbjdfMkJGT1VBSURrR0VfVHNTbmdZeXJ6S0p6RHdjSmZ6Y3U1YmQ2emxvV2JySDFoaGlyR0h3S3hialJ1X3VKTkdxWnhrQWY2VmE?oc=5",
-      "source": "GZH",
-      "publishedAt": "2026-10-26T10:41:06.000Z",
-      "summary": "Tensão no mercado com vitória de Lula, dólar, Ibovespa, mais agenda e pílulas da economia 26.10 GZH",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.6,
-      "relevance": 8
-    },
-    {
-      "title": "O que Lula promete para o seu bolso? Veja as propostas para trabalhadores, aposentados e empresários",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjJDOWVtX0hHZ0Y5U2R1MEJOLWpjM0pVbm0weDNXUWJVRlBJeGN5QkQ3Y3owY2diLU9lM2NRMmk5UEJ4S2x0NFI3UHF3X3AzczdPdGZUY0duUDJNeFhUWWdKa1VFbE83b2RNekNEeml3aHdPMFlFRFZXTVlFOWNJOHFNdnpwVGV6YTRWVFJB0gGcAUFVX3lxTE5tdHM5VzhGNThfR2RhZHZBRmVibzNLY1ozYU9QYi1XNlgxRXZ4d1V5OTR3OTJaZHB3bDBKM0JsRzNaZEF4a3NTWEdNSkRQMUZlVDlLS3hCYktidWE4eV9MZ0NBNkFaTTdnVEZGbS00OFFocnN3aVZHMm9CYmotRWgzNkVOaHJiaVFvbkpZQkMzSmNiOXUwUERnSVE4Ng?oc=5",
+      "title": "Por que as eleições mexem tanto com dólar e bolsa?",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWItaUZBek12STFGaWVRR0t4Rk42V2J1QV9BbnN6YWpSNGVqSm9UYTQwUGVNVXFJVUFCYm5JRnplWDcyTjRfZGVudWpTdFRNdFVSQlltUnd1V25FUEExTzNzVEgtcWdNSzhNc3VOTFRLNFl0aXNQbXdBazhibmZyaGdqM1BHWXNKclZGaTlxM094Y3N1S2NPLURRbXJQMHdLQXhYR2R3VdIBtgFBVV95cUxPOWQ0WWZ4YWlQWnVmWnNQUnJFZjM1U1VTZmlHOTk5YlZqMWZhbzFBTl84VUxWU1ptdHhJN2xjM1YtWGxLSEJrS0Z1SDV4WnVvRkNNdVBBc0tuYWIxUWJldi13X2ZTQ0l6LTQ2c0VvTWNqM2gydzVBbHkwUWJRRTRzZjlBMTZWLTRFT3ZBU0xYNVMyME5hNC11X1lCWXZ4eXF6cUh0ZmVodjVDa0F6VWZuMjR4bF9KUQ?oc=5",
       "source": "G1",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "O que Lula promete para o seu bolso? Veja as propostas para trabalhadores, aposentados e empresários G1",
-      "image": "https://s2-g1.glbimg.com/oPTwQ_a0s84AWCEXUyjc7W96OCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/XJoQ9ZS6KHEQTVywyGiQ/2026-10-16t181403z-911019231-rc2h4oaa0wdw-rtrmadp-3-brazil-election-lula.jpg",
-      "topics": [
-        "negocios",
-        "medicina"
-      ],
-      "score": 7.35,
-      "relevance": 10.4
-    },
-    {
-      "title": "Reação no Exterior antecipa dia turbulento para dólar, juros e bolsa de valores",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWUpqUEVIdjlkM2lkWHcxUXYxTEpiSklJQkNzVzhYUDREX3N6NFlKRUw3R3BaZ01XQWRsZ0xTci03ZjIwWEJZWDN2dDhGSHpaMEx0SmkxUks0Y2JCQ3pjcmxJTUVEUW1VT1FzQWdMR3BxQ1V1YVdDSGYySEZkRXQ3bi1RYlVGZTBQcTMtcTVKRkdlSC1mNm5IU3NycmQxT3VUeTJydEt6cjM4OUo5TmV5LWJDRzh3SVY1cTVvbEZOOFIzdzNHdVV3XzVaRU5PRU5FaTJMNlJfZWVqdThUOXJoOVBBRGlzX2VVT3JtU2ktc0VDT0pFWGRZdTFsdFBBSzg2T2NZUGJyVEp1NWh5TWc?oc=5",
-      "source": "GZH",
-      "publishedAt": "2026-10-26T11:35:57.000Z",
-      "summary": "Reação no Exterior antecipa dia turbulento para dólar, juros e bolsa de valores GZH",
-      "image": null,
+      "publishedAt": "2026-10-26T13:05:31.000Z",
+      "summary": "Por que as eleições mexem tanto com dólar e bolsa? G1",
+      "image": "https://s2-g1.glbimg.com/rrdR1q2VSIpKPP0wp5ZxBuaAw3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/a/fx7zANQYuaiUt6Thko1g/globo-canal-4-20260220-2000-frame-67970.jpeg",
       "topics": [
         "negocios"
       ],
-      "score": 6.89,
-      "relevance": 7
+      "score": 7.48,
+      "relevance": 10.6
     },
     {
-      "title": "Focus: mercado reduz projeções para dólar e PIB de 2026 e vê Selic a 11,75% em 2027",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yOE5SbjdqVUNkNjFJNmlOT2RqbmlCODJ6QzlEelVYeEQwcFlXNmdSMW1tYXNzVUdZNUZzbWtNSkNrRmpPRlJqekpzVnE1OWZLQm5TaTE2aXlnclZ1ZjA1Z2x3c0RNbUhkRTNham1Vck1vMDJXUnNES211UdIBgAFBVV95cUxQYmpXS2hVMS03VWlFRm1lc3ZsRkp3ZEhBNHZRYzlEQVNjcTlBU25QcG5wcXRSakFYLTRUUnZxT25RUjZCQ1RmVU5vS242UDBVblFPWFI2UWxvMVdoODV3RENKWGZpS0FobnE5czBlUERvQzhjNF9DQlJiQU13QUpQQQ?oc=5",
-      "source": "InfoMoney",
-      "publishedAt": "2026-10-26T11:31:59.000Z",
-      "summary": "Focus: mercado reduz projeções para dólar e PIB de 2026 e vê Selic a 11,75% em 2027 InfoMoney",
-      "image": null,
+      "title": "Aplicativos de bancos e corretoras têm instabilidade em meio à turbulência nos mercados",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/26/corretoras-instabilidade.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-10-26T14:06:04.000Z",
+      "summary": "Oscilações do mercado. Jornal Nacional/ Reprodução Aplicativos de diversos bancos e corretoras apresentavam instabilidade nesta segunda-feira (26), em meio à forte volatilidade nos mercados após a vitória de Luiz Inácio Lula da Silva (PT) n",
+      "image": "https://s2-g1.glbimg.com/rrdR1q2VSIpKPP0wp5ZxBuaAw3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/a/fx7zANQYuaiUt6Thko1g/globo-canal-4-20260220-2000-frame-67970.jpeg",
       "topics": [
         "negocios"
       ],
-      "score": 6.87,
-      "relevance": 7
+      "score": 7.34,
+      "relevance": 10
     },
     {
-      "title": "Nunca antes: bolsa, dólar e juros reagem à reeleição de Lula com circuit-breaker no radar dos investidores",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGZEX1hZMmFvSGJVcTV5bjZmYmZHSjlUSWNYa2ZOemRWZkJJX19zTWRKcnNVakhSTFdBa0w4TG5zaGJNdVBFaEd2ak80UkRsR3VFZkI2eWVjdURQbzZwZnJtVkduM1hGcUtsc0stUDQxUjJtczFhX1VVQTZZcXVUOFBTTzBjbE12OXFTWnZFOVBiV2VmUjNST3F5c2IxaXJOMThHZzQ1LVZpZmo3ZE81aFZmNmE2dTVRVy1hZzZMS2Y0UQ?oc=5",
-      "source": "Seu Dinheiro",
-      "publishedAt": "2026-10-26T11:21:10.000Z",
-      "summary": "Nunca antes: bolsa, dólar e juros reagem à reeleição de Lula com circuit-breaker no radar dos investidores Seu Dinheiro",
-      "image": null,
+      "title": "Anthropic, dona do Claude, divulga pedido de IPO nos EUA e revela prejuízo bilionário",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/26/anthropic-ipo-eua.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-10-26T13:43:40.000Z",
+      "summary": "Anthropic é a criadora do assistente de IA Claude Matteo Della Torre/NurPhoto via Getty Images/BBC A Anthropic, uma das principais empresas de inteligência artificial do mundo e desenvolvedora do Claude, divulgou nesta segunda-feira (26) se",
+      "image": "https://s2-g1.glbimg.com/2d_HnG-L56ei4XECbrCsau9sdzY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/v/Xcv6FzQwm10l1AMYGcpg/claude.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 6.82,
-      "relevance": 7
-    },
-    {
-      "title": "Eleição, balanços e juros dos EUA guiam os olhares do mercado nesta semana",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTZkTktwV3czeTVmY0ZqOW5KaXhhY1BWdkFLc19OMkRCSHdqUUhLZkxjSlN3NTBIR1hjRVR6aFR0dnNHYmVDUGNwM2k1YmZHV1VLdm0xOG1ydjdxeTFNaTd3UWpaaG9SOTExOU1GUTNxYnFmSUF4eE5Bb2xkQlo1am1iSVRHUDRJWEV4OXBmdWZmVU5Lazh4TFgyUlJ6RjI0eFRqa293TQ?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-10-26T10:28:35.000Z",
-      "summary": "Eleição, balanços e juros dos EUA guiam os olhares do mercado nesta semana UOL Economia",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.03,
-      "relevance": 6.4
+      "score": 7.09,
+      "relevance": 9.8
     }
   ],
   "items": [
     {
+      "title": "Ibovespa desaba após reeleição de Lula e ações recuam até 58%; veja as maiores quedas",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/26/ibovespa-desaba-reeleicao-lula-acoes-recuam.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-26T20:05:56.000Z",
+      "summary": "Bolsa despenca 13% após vitória de Lula A bolsa brasileira teve um pregão de forte turbulência nesta segunda-feira (26), após a reeleição de Luiz Inácio Lula da Silva (PT). O Ibovespa, principal índice da B3, caiu mais de 10% nos primeiros ",
+      "image": "https://s2-g1.glbimg.com/2Crsre1uF0-YpxmeG2U1ZOLC_K0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/1/U/AP4jBQQl2mjPFDvoThGA/2023-01-20t165959z-1-lynxmpej0j0o4-rtroptp-4-brazil-economy.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 9.06,
+      "relevance": 9.8
+    },
+    {
+      "title": "Circuit breaker é acionado pela primeira vez desde a pandemia de Covid-19; relembre todas as vezes em que a Bolsa parou",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/26/circuit-breaker-e-acionado-pela-primeira-vez-desde-a-pandemia-de-covid-19-relembre-todas-as-vezes-em-que-a-bolsa-parou.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-26T20:54:28.000Z",
+      "summary": "Circuit breaker: entenda o que é a suspensão das negociações quando a bolsa despenca Luiz Inácio Lula da Silva (PT) foi reeleito presidente da República neste domingo (25) e governará o Brasil por mais quatro anos. Com a vitória do petista ",
+      "image": "https://s2-g1.glbimg.com/46C4or-4GqMftg6KPOilEINCu5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/C/c/FwsIXETS6K61xm99LqYA/000-1pl7t0.jpg",
+      "topics": [
+        "negocios",
+        "medicina"
+      ],
+      "score": 8.96,
+      "relevance": 9.4
+    },
+    {
       "title": "PIB cresceu, desemprego caiu, mas juros e dívidas pesaram: veja o balanço da economia de Lula 3",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSFBka1BvUDV4TlVfVzFHYXlsVk1CRUxjOTh2dVNqY2FzLWE0U3lDWWNyREk5RFF1bEdtcWZFUkVVMmVsNGtsblRCc1VFbFJUU2l5dEJ3c18yXzhyeEt6Q1UyN3FGa2c2UTFoQjBBcFRNQzVYdHBsX01XUGFyWkN4eW5rWUcyRjk5YkVKbU5vZG1zWFZocjVMcUx4QVRLR3VGbkhFdGZ6VVVUWmh4eWxDZXVFV0hFOW53a0J0N1VOVFh3X0V0NzhFSm5UNFpZaExoaFB2czI5VE5TWHpwcU5VSdIB7wFBVV95cUxQMndXeUpySS1WbDg5SHNSa0hxaFQ0cEgybXZ6ZktSd0kwS1pQajJBQTJLYjVlXzhpX19qc1JlbnZ3YVJuQjlKV3BYU1U4OEpmamZqUkFueGs4UzhZZTNvTWlaSE80S2l5UkduRjNUc2VmbDc0R0xsOVowTlJzcmhNYzVFZmtIRTNuS19JM3hpRkk1WVg3aC1TOE91VFJzc0VGUkRKQVNMMWcxSm5UaG10OXdKb3MyMHk2dE1VbzRTdWUxVm8wT2I5ZVA5VDVneElUaUg2VnI5Zmt3bnlya2ZNUHFkNDNVNEdLcndnRHFIMA?oc=5",
       "source": "G1",
@@ -149,8 +177,75 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 12.58,
+      "score": 8.51,
       "relevance": 17.8
+    },
+    {
+      "title": "O que reação de Trump à vitória de Lula diz sobre relação entre Brasil e EUA",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTWmpzcV9FeGJsMTRTQUJYQ3ViWF9WOVdtX0xWVjJrb0RvNklMWnBMaU96cGl1c0NKSjdjT2FaMUR0WHBKUDhpT3c3Z1BiNURQT2QyaFB1UTM1MEZPQ0k4TDVDaw?oc=5",
+      "source": "BBC",
+      "publishedAt": "2026-10-26T20:36:20.000Z",
+      "summary": "O que reação de Trump à vitória de Lula diz sobre relação entre Brasil e EUA BBC",
+      "image": "https://s2-g1.glbimg.com/LciAPHOno-lcJ3C4o5Lz0yWRHwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/0/f1naBxRSuc7RKJBMZgQw/design-sem-nome-2026-10-26t101159.440.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 8.29,
+      "relevance": 8.8
+    },
+    {
+      "title": "Ibovespa cai mais de 13% após 'circuit breaker' e dólar fecha a R$ 5,40",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aYXdJdG9WVmczX0J2U2tzLS1fUHUzUUxQbl9TNjZBcDRzeWZNWWdVV3JsYlBYNFRiLUI3OE8ybmpwc0hQai1fSUxuQzgzS2V6d195SU9fbVdXRlFpbUNManFFR3dlVmFxMTNydDc0UVBIOXVDRFd5RdIBhwFBVV95cUxQeG1DclA5TEV1azFWc1NTSUotM3F0MTd3dzcwU0xfYUFtWTJ3ejc1eGdUb3ZzdEhrME81aHVSVWpvLWNTTDVEenlQWk95UTVuZDRubGF3bDIzLWFQZFpjUm5LTG9vRGNFMDFaY25FMExlazFYRThvOHZVVjgzZGRLNWVxRkp0cHc?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-10-26T12:00:14.000Z",
+      "summary": "Ibovespa cai mais de 13% após 'circuit breaker' e dólar fecha a R$ 5,40 G1",
+      "image": "https://s2-g1.glbimg.com/1YXVQdJYbeM_282ghL10_02ayNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/0/TX8XW2RP6Go2X8PRFz5A/globo-canal-4-20260209-2000-frame-80048.jpeg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 7.98,
+      "relevance": 11.8
+    },
+    {
+      "title": "Por que as eleições mexem tanto com dólar e bolsa?",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWItaUZBek12STFGaWVRR0t4Rk42V2J1QV9BbnN6YWpSNGVqSm9UYTQwUGVNVXFJVUFCYm5JRnplWDcyTjRfZGVudWpTdFRNdFVSQlltUnd1V25FUEExTzNzVEgtcWdNSzhNc3VOTFRLNFl0aXNQbXdBazhibmZyaGdqM1BHWXNKclZGaTlxM094Y3N1S2NPLURRbXJQMHdLQXhYR2R3VdIBtgFBVV95cUxPOWQ0WWZ4YWlQWnVmWnNQUnJFZjM1U1VTZmlHOTk5YlZqMWZhbzFBTl84VUxWU1ptdHhJN2xjM1YtWGxLSEJrS0Z1SDV4WnVvRkNNdVBBc0tuYWIxUWJldi13X2ZTQ0l6LTQ2c0VvTWNqM2gydzVBbHkwUWJRRTRzZjlBMTZWLTRFT3ZBU0xYNVMyME5hNC11X1lCWXZ4eXF6cUh0ZmVodjVDa0F6VWZuMjR4bF9KUQ?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-10-26T13:05:31.000Z",
+      "summary": "Por que as eleições mexem tanto com dólar e bolsa? G1",
+      "image": "https://s2-g1.glbimg.com/rrdR1q2VSIpKPP0wp5ZxBuaAw3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/a/fx7zANQYuaiUt6Thko1g/globo-canal-4-20260220-2000-frame-67970.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.48,
+      "relevance": 10.6
+    },
+    {
+      "title": "Aplicativos de bancos e corretoras têm instabilidade em meio à turbulência nos mercados",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/26/corretoras-instabilidade.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-10-26T14:06:04.000Z",
+      "summary": "Oscilações do mercado. Jornal Nacional/ Reprodução Aplicativos de diversos bancos e corretoras apresentavam instabilidade nesta segunda-feira (26), em meio à forte volatilidade nos mercados após a vitória de Luiz Inácio Lula da Silva (PT) n",
+      "image": "https://s2-g1.glbimg.com/rrdR1q2VSIpKPP0wp5ZxBuaAw3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/a/fx7zANQYuaiUt6Thko1g/globo-canal-4-20260220-2000-frame-67970.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.34,
+      "relevance": 10
+    },
+    {
+      "title": "Anthropic, dona do Claude, divulga pedido de IPO nos EUA e revela prejuízo bilionário",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/26/anthropic-ipo-eua.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-10-26T13:43:40.000Z",
+      "summary": "Anthropic é a criadora do assistente de IA Claude Matteo Della Torre/NurPhoto via Getty Images/BBC A Anthropic, uma das principais empresas de inteligência artificial do mundo e desenvolvedora do Claude, divulgou nesta segunda-feira (26) se",
+      "image": "https://s2-g1.glbimg.com/2d_HnG-L56ei4XECbrCsau9sdzY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/v/Xcv6FzQwm10l1AMYGcpg/claude.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.09,
+      "relevance": 9.8
     },
     {
       "title": "Mercado financeiro baixa estimativa de inflação e de alta do PIB neste ano",
@@ -163,668 +258,605 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 10.23,
+      "score": 6.92,
       "relevance": 10.4
     },
     {
-      "title": "Tensão no mercado com vitória de Lula, dólar, Ibovespa, mais agenda e pílulas da economia 26.10",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQNl93ZVg3SE82LUw4V29XUWJIelZnaEMwdDZvSHM3aGluSVVtaXh0aEZ4Sl9XQ1IyWXVPeXZRdVE1eHZsZHJJb1JVTU0zcm13YVlZdzhZUWVQcEl4TUpZdG13T2RuQWlMNUZKZnh5dmNCVjlQZVRDMFFVR2QxWEdOZTBLOEsyQkJUbFVTOGJJTU5UWGNPV1FJVHhYazVwNTlGS0NxTllVcTJTeFBtTURVWUJqYkdjaU1VdG1XalJPZGplS3Y2Vk5aYTlpRFNuYWxBU0Z0aWwwbjdfMkJGT1VBSURrR0VfVHNTbmdZeXJ6S0p6RHdjSmZ6Y3U1YmQ2emxvV2JySDFoaGlyR0h3S3hialJ1X3VKTkdxWnhrQWY2VmE?oc=5",
-      "source": "GZH",
-      "publishedAt": "2026-10-26T10:41:06.000Z",
-      "summary": "Tensão no mercado com vitória de Lula, dólar, Ibovespa, mais agenda e pílulas da economia 26.10 GZH",
+      "title": "Lula precisará dar forte guinada na economia para evitar que disparada do dólar vire uma recessão",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV0FYUTRkcUotWERfSVNWVFBrclN1VmdNamdGck0zZXZySEVUOS1yN3RyOGNOd293N001Q1o3WnAxcGVSQWdIZ2ZucTYyU2RsOUFPQWRIR3RBT0lvN25WS3VRM3pGQzZBU2NmMFV2VjlocGxnZTdFUHBVY091UGVMTFRxMHhrQlQ1SHJrbWo2R3BsOWlLVU9iZV9uQzJiLUdoLTZvSE1IU0lxQXZDcXpncU5tUjBJNXVWRk0tRkFoTE13RzZ6Skh2ejN3YTVDMzV5R2NURVhHMjEyRjJjXzNPLXRn0gHnAUFVX3lxTE4ySV95SEhrRW5SQ1JmTFp3cXBWOW93a29BZkIxMFU4b000ODUwalVMcWRQUVAzWDVjby1NTXBJVm5DVmo3RGt5akdsdlJ1c1lheDF5WXZER1BJV0dmbmZuZlY1c0dvYV9jcm56MlM4NjhyQ1ZTMU83SlFMMXJIdkcxbldUSUlfYnZGa2lONWR2NnpjYlpKb3FqXzhXOHlkRjM1U0t6dzhZclhvYTZwY25DbThTZHQ4a3pxbXZLeDNWazFxQlJORXJCYmpkM1NrNkkyVGNObkN2S09JWW14d0hNelpUT3otNA?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-10-26T21:38:15.000Z",
+      "summary": "Lula precisará dar forte guinada na economia para evitar que disparada do dólar vire uma recessão Estadão",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 7.6,
+      "score": 6.86,
+      "relevance": 7
+    },
+    {
+      "title": "Empresa líder em inteligência artificial alerta para risco de extinção da humanidade antes de ir à bolsa",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbnlhUkdJaVVhLW9JYWJUQmFZS2tuSG1UeTg0S20tSDZWeUNBMjNKYzdNWXVUVkR0Q2FfZW1LZHJsdlVNb0Y2YTRidmlkejVybGxIR2tVcFdXbmtHdVJPcllxUllSeS1rVzBDMVY3NDdRREFrRlVqUHpvNW5GR1lZNUl2SHBNR0pENTgtQzJ6VUxwMHdTX3FTVXFpWEh0Y2xXbzF6Y29RX3pzZ0tIQVpybnhXNFZ6V3MzWG1sbFN4WHBLbE1qMDBxQ0M1WG5OdTFJRXdLV1lBV1ZWdDJhNG5XY3dmWQ?oc=5",
+      "source": "bra1.com.br",
+      "publishedAt": "2026-10-26T18:02:00.000Z",
+      "summary": "Empresa líder em inteligência artificial alerta para risco de extinção da humanidade antes de ir à bolsa bra1.com.br",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.83,
       "relevance": 8
     },
     {
-      "title": "O que Lula promete para o seu bolso? Veja as propostas para trabalhadores, aposentados e empresários",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjJDOWVtX0hHZ0Y5U2R1MEJOLWpjM0pVbm0weDNXUWJVRlBJeGN5QkQ3Y3owY2diLU9lM2NRMmk5UEJ4S2x0NFI3UHF3X3AzczdPdGZUY0duUDJNeFhUWWdKa1VFbE83b2RNekNEeml3aHdPMFlFRFZXTVlFOWNJOHFNdnpwVGV6YTRWVFJB0gGcAUFVX3lxTE5tdHM5VzhGNThfR2RhZHZBRmVibzNLY1ozYU9QYi1XNlgxRXZ4d1V5OTR3OTJaZHB3bDBKM0JsRzNaZEF4a3NTWEdNSkRQMUZlVDlLS3hCYktidWE4eV9MZ0NBNkFaTTdnVEZGbS00OFFocnN3aVZHMm9CYmotRWgzNkVOaHJiaVFvbkpZQkMzSmNiOXUwUERnSVE4Ng?oc=5",
+      "title": "Da 'ótima química' ao tarifaço: relembre a relação de vaivém entre Trump e Lula",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/26/relembre-a-relacao-entre-trump-e-lula.ghtml",
       "source": "G1",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "O que Lula promete para o seu bolso? Veja as propostas para trabalhadores, aposentados e empresários G1",
-      "image": "https://s2-g1.glbimg.com/oPTwQ_a0s84AWCEXUyjc7W96OCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/XJoQ9ZS6KHEQTVywyGiQ/2026-10-16t181403z-911019231-rc2h4oaa0wdw-rtrmadp-3-brazil-election-lula.jpg",
+      "publishedAt": "2026-10-26T20:02:22.000Z",
+      "summary": "ONU divulga foto de Trump assistindo a discurso de Lula na Assembleia Geral de 2025 Reprodução O presidente dos EUA, Donald Trump, comentou nesta segunda-feira (26) a reeleição de Lula. Em declaração a jornalistas, o republicano afirmou que",
+      "image": "https://s2-g1.glbimg.com/_runXx14X0tAfMiZVSBoERBd9YA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/5/bItx0BQAK8BpxBYGiccQ/trumplula1920.jpg",
       "topics": [
-        "negocios",
-        "medicina"
-      ],
-      "score": 7.35,
-      "relevance": 10.4
-    },
-    {
-      "title": "Reação no Exterior antecipa dia turbulento para dólar, juros e bolsa de valores",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWUpqUEVIdjlkM2lkWHcxUXYxTEpiSklJQkNzVzhYUDREX3N6NFlKRUw3R3BaZ01XQWRsZ0xTci03ZjIwWEJZWDN2dDhGSHpaMEx0SmkxUks0Y2JCQ3pjcmxJTUVEUW1VT1FzQWdMR3BxQ1V1YVdDSGYySEZkRXQ3bi1RYlVGZTBQcTMtcTVKRkdlSC1mNm5IU3NycmQxT3VUeTJydEt6cjM4OUo5TmV5LWJDRzh3SVY1cTVvbEZOOFIzdzNHdVV3XzVaRU5PRU5FaTJMNlJfZWVqdThUOXJoOVBBRGlzX2VVT3JtU2ktc0VDT0pFWGRZdTFsdFBBSzg2T2NZUGJyVEp1NWh5TWc?oc=5",
-      "source": "GZH",
-      "publishedAt": "2026-10-26T11:35:57.000Z",
-      "summary": "Reação no Exterior antecipa dia turbulento para dólar, juros e bolsa de valores GZH",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.89,
-      "relevance": 7
-    },
-    {
-      "title": "Focus: mercado reduz projeções para dólar e PIB de 2026 e vê Selic a 11,75% em 2027",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yOE5SbjdqVUNkNjFJNmlOT2RqbmlCODJ6QzlEelVYeEQwcFlXNmdSMW1tYXNzVUdZNUZzbWtNSkNrRmpPRlJqekpzVnE1OWZLQm5TaTE2aXlnclZ1ZjA1Z2x3c0RNbUhkRTNham1Vck1vMDJXUnNES211UdIBgAFBVV95cUxQYmpXS2hVMS03VWlFRm1lc3ZsRkp3ZEhBNHZRYzlEQVNjcTlBU25QcG5wcXRSakFYLTRUUnZxT25RUjZCQ1RmVU5vS242UDBVblFPWFI2UWxvMVdoODV3RENKWGZpS0FobnE5czBlUERvQzhjNF9DQlJiQU13QUpQQQ?oc=5",
-      "source": "InfoMoney",
-      "publishedAt": "2026-10-26T11:31:59.000Z",
-      "summary": "Focus: mercado reduz projeções para dólar e PIB de 2026 e vê Selic a 11,75% em 2027 InfoMoney",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.87,
-      "relevance": 7
-    },
-    {
-      "title": "Nunca antes: bolsa, dólar e juros reagem à reeleição de Lula com circuit-breaker no radar dos investidores",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGZEX1hZMmFvSGJVcTV5bjZmYmZHSjlUSWNYa2ZOemRWZkJJX19zTWRKcnNVakhSTFdBa0w4TG5zaGJNdVBFaEd2ak80UkRsR3VFZkI2eWVjdURQbzZwZnJtVkduM1hGcUtsc0stUDQxUjJtczFhX1VVQTZZcXVUOFBTTzBjbE12OXFTWnZFOVBiV2VmUjNST3F5c2IxaXJOMThHZzQ1LVZpZmo3ZE81aFZmNmE2dTVRVy1hZzZMS2Y0UQ?oc=5",
-      "source": "Seu Dinheiro",
-      "publishedAt": "2026-10-26T11:21:10.000Z",
-      "summary": "Nunca antes: bolsa, dólar e juros reagem à reeleição de Lula com circuit-breaker no radar dos investidores Seu Dinheiro",
-      "image": null,
-      "topics": [
+        "geopolitica",
         "negocios"
       ],
       "score": 6.82,
+      "relevance": 7.4
+    },
+    {
+      "title": "O que é circuit breaker? Entenda o mecanismo que suspende negociações quando a bolsa despenca",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOR3pPU01NeGxEWVo1OTRwZVZQVnpzcWg1RFRudGtrOXBBSGdJYllPQ1hwZWdjczl6WGhLMU81LWwySllISExTMzhqS1lQaDBzMlJjQ1FvLVJEVUFoOHMzSC1LUk5PUVhsYzl4ajF1QlIwLVNnb3JFQU1saFRZSzBoTjBrUzBZaEtZRGRWQ1RqX2dmVEktMjI2VVBMaWdGSUgyUkFZUDYzclpIX3kzNWNVUkJSSldHSVJRbnZ3OTRHTm9NYVlUbFhPM24tMDNSWkZKb0VGVk9KeW52MXVpekVLStIB7wFBVV95cUxOSFMxYW1OdUYzSW9OUkY4U2lMN2YzZll4UFFEb2ZRbmYtaVlBSTE0OXVkRjVDTmFmUkIwUXprY0NiTGZYaTFlVllxem1zYlZTZDM2a05TTWNIaGRrVDZXUjlzR2lBYkdJVjNiZWh6X3VtTHcxbllFQVZJNEhiZ3JOaFV6elJrYW5nbmdYdmNHd0ZUVkxtbl9QemFOTE1wYXFVUXJkZjBGOUd0VDhfN2M4NjcyZTkxWW81cjJJSTVWYVZEUWV3OGg3UEl4MHJ1R21XemZVenlza3p0MDgyTW5FeC1zM0lHUl9hMnNEVWR4MA?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-10-26T13:12:39.000Z",
+      "summary": "O que é circuit breaker? Entenda o mecanismo que suspende negociações quando a bolsa despenca G1",
+      "image": "https://s2-g1.glbimg.com/46C4or-4GqMftg6KPOilEINCu5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/C/c/FwsIXETS6K61xm99LqYA/000-1pl7t0.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.8,
+      "relevance": 9.6
+    },
+    {
+      "title": "O que vai acontecer com dólar e juros após derrocada dos mercados financeiros com vitória de Lula",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5WE1CMHVkRmE0V0xKWlBUTWVNVWtUdzNqVnVHWjFOZVp3MkxVQnNIbkJrMnlhSTE2amhMZldETUdkMnYwb0pKNmVzUkZaMldQbE9XT1hJUWM1dG1ZUmpUaEl2bw?oc=5",
+      "source": "BBC",
+      "publishedAt": "2026-10-26T21:06:39.000Z",
+      "summary": "O que vai acontecer com dólar e juros após derrocada dos mercados financeiros com vitória de Lula BBC",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1718/live/c239c980-d172-11f1-9d71-6d5ae0660afe.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.73,
       "relevance": 7
     },
     {
-      "title": "Eleição, balanços e juros dos EUA guiam os olhares do mercado nesta semana",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONTZkTktwV3czeTVmY0ZqOW5KaXhhY1BWdkFLc19OMkRCSHdqUUhLZkxjSlN3NTBIR1hjRVR6aFR0dnNHYmVDUGNwM2k1YmZHV1VLdm0xOG1ydjdxeTFNaTd3UWpaaG9SOTExOU1GUTNxYnFmSUF4eE5Bb2xkQlo1am1iSVRHUDRJWEV4OXBmdWZmVU5Lazh4TFgyUlJ6RjI0eFRqa293TQ?oc=5",
+      "title": "Empresas na Bolsa perdem mais de R$ 835 bilhões em valor de mercado",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdmlRdHk1dHZpUkhtWE1CUURjS3FBUXpkRGhmeGg4WmZLZUxPc3cwUVJEaTExQVZ5NzNSdW00QXh4Q0hNSmhqeVZQQ0QybHVHN2RBWDVqSk9CTm5zSXZxWWhILTkzMzZDaTBTakI4YXNXd3Y0Ry1jaGhNODhjZ1hhWkt4d1hiMEFBWVVCWWt1NnliSEdIYnVJSU90TUF0TEpUSmR4WkxYYWdublk1SDV4THgwck5QZ1VzWGtTbFF4OTZmQQ?oc=5",
       "source": "UOL Economia",
-      "publishedAt": "2026-10-26T10:28:35.000Z",
-      "summary": "Eleição, balanços e juros dos EUA guiam os olhares do mercado nesta semana UOL Economia",
+      "publishedAt": "2026-10-26T21:42:19.000Z",
+      "summary": "Empresas na Bolsa perdem mais de R$ 835 bilhões em valor de mercado UOL Economia",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.03,
-      "relevance": 6.4
+      "score": 6.68,
+      "relevance": 6.8
     },
     {
-      "title": "Dólar futuro sobe a R$ 5,58 e ETF do Ibovespa cai 27% após vitória de Lula",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ203LXo0ZmFDaDhNa2xLSVc0Q2hnek93MlBkTjVTclFMLUR3UzZGZmkxR2FhTmdHMVhWQUhnTWdpV0g5dmlLbTZYQ1dqYlFlQXdLUEtqOGFQTHVzeF9HaGhZc2ZkRHc2aWNrMnQ5bnBwSkJzX1pheG1Majh1UFZMR2k2RXk5R0ZVVnkwUmkzTFpHSHF2cXVDeHBybEtKRzRVZmQwalhpSEhOSEFsTl9UTXk5T3IxU1FSc1RfZE5OekZxaVJGQkdlX2d6YXM4MS1WUmI2Vk54ZENpZw?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-10-26T10:14:43.000Z",
-      "summary": "Dólar futuro sobe a R$ 5,58 e ETF do Ibovespa cai 27% após vitória de Lula UOL Economia",
+      "title": "Netflix: veja 5 filmes e séries que estreiam nesta semana, de 26 de outubro a primeiro de novembro",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOb3hVNVZQN3pWZ3lfS0Q4anFrenpXbzNBRWoyM1VzVkMzcDNncGg4WTkwb1ZhQWRZdGtmQUprX0Jrb2lFdENZcWJrT1V1N0MxeHQtNHN6Mk9pQjBwVzNIT1o1TTFqLTNGQnoydmdLUGJUemFKVDdBallVVXJ6VXUxZjBHQWtnMXUzNS14LWN4Vmtaa056S1ZSaWlLNlJwMUI1TUVQa2VtR3ZQSGhaTVRZck1iOWx1VHkwRFdSNnJTd0pPZlRmU0JTeGVwXzQySUVxT0NONjhKMUd0R3NUN1FHSXh4TW1weHF0c0VKbGplVjFvT3AwQXQwRTMyc3k3NkRXb0x2RVhR?oc=5",
+      "source": "GZH",
+      "publishedAt": "2026-10-26T17:05:02.000Z",
+      "summary": "Netflix: veja 5 filmes e séries que estreiam nesta semana, de 26 de outubro a primeiro de novembro GZH",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.58,
+      "relevance": 8
+    },
+    {
+      "title": "Agência de Comunicação - Shadow AI: o uso invisível de inteligência artificial que expõe as empresas",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSmZZMFFnNm5kSkZXUjdXSUNabUhEV2FXYV9lM3RYdFJlYnNPcW9UQWxiWXVrZTZLQklyb0J6V2NydWJxN0ZyeWY2Nk54RkZ1anB1SnlYTGs5SXZTQWlNcW0xc0FEQXhMU2UyTjRwV3JvUGJ5TU14M2I3elJMbjJtUlYxRUZDMVNOYVJkdzA1YmNOb0RUNklYcE5qb1NZYXI1Y25rQkRhSGdlSDd2bEpnblZ0eXYzTmxtNXBBYU9sRXg2UF8wNnI1X3NuTVlVQ2lrR3ZXREFqYXcxeFU?oc=5",
+      "source": "Estadão Blue Studio",
+      "publishedAt": "2026-10-26T20:30:19.000Z",
+      "summary": "Agência de Comunicação - Shadow AI: o uso invisível de inteligência artificial que expõe as empresas Estadão Blue Studio",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.98,
-      "relevance": 6.4
+      "score": 6.57,
+      "relevance": 7
     },
     {
-      "title": "Após reeleição de Lula, fundo de ações brasileiras despenca 19% nos EUA e antecipa reação do mercado",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOTZvVWY3STg3V2UxOTdfVmZucm5QVGxGUF90VEZhR2MtWVNDWXMyNEdhY2EzYTNDNGN4RXhrSWNjSmNNenV3MTRsRlJPLWhzU01fQVBKRlQyNDVENVZ3UFpBNlF5VnBXWko0YWx6UTZPVEVxaW5ldkpSTUVvWkdudkJ4WjU2czhxWWxsZjM1VzRRNHhib0lobmVoWUpmN3fSAa4BQVVfeXFMTjVZZTJiMjNHaHh2QmdsamVaeDRrM1ZlSHlKUHNrbml0QzZic3JqMmdQcUpVMXBDVG5ZX19OZk9MUzh5a2NENGplVjZFZjNFS1JzMzFVWjRpQ2FIYlBaSUFrNUEzVDM5SThGLVgwZ3dnSl84Y0pWV1ZxMW10RWVZOTNaNkt1aGxVSTh4SldVWEdmWmdRUEpNS0FlMUY0OUdfVkV5OEJfVGdfcWlxQnp3?oc=5",
+      "title": "Como criar uma política de uso de inteligência artificial na empresa",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcDRfMUpUb255ZE5kRFZjY3pTZ2NKc1R1VlVyOGNZbWdhZ1VTUUYwZ2lhRVRJMDRBWUxtQklzMHZ4SGpqcmVXRVFVMW5RdUJVVXBsSUdMS2k4UjdGX0luY19Id20yZU16YnZGWTNoS2p2YWhsMGZXUFNIV05tdHBOMkpLLU1uVERqSVJZRC13UzJQaUQxSENZSVZmaF9WY3ZZdTZQM2REVURid3M5QWo5MEU2ZFlmSXBFc19hQjFBMi1scEJyUUVoSVRjTmY5Z9IB0wFBVV95cUxPVGQtZEUydk9DVWdBd1F0Vkt3RnVkVjlkNVF5cUFrRTZ3cDhTdElYek9XX3NfenZPTnhuTXIwUDZ1SWdUUW8tOWcyLWZLaGVRN05HQjZra1AxQVgycUJqQll3aUlOdWFleWxCSG5XWUhuU3VfWXhEMkxGaEdNaXhEcktWdWZzUWdpR0xBcGNqRnc1anFJS1IzdGxMa2hUNnQ2QktIc1VSUkJ3M08zN3B3eUFIajRmYXJQX1VrbkJUWEYxeTVsOWJPN2tqUHBFMF9tcE5v?oc=5",
+      "source": "Estado de Minas",
+      "publishedAt": "2026-10-26T20:22:00.000Z",
+      "summary": "Como criar uma política de uso de inteligência artificial na empresa Estado de Minas",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.54,
+      "relevance": 7
+    },
+    {
+      "title": "Netflix recebe 12 filmes e séries na semana! Veja lançamentos (26)",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkNjUnl5R2g0emNpRVhMRXk2blJnQXhpa29NYVNvUWYydzN2Y1M5MnBjaXBPclhJY3FXOTNLZGVuQTZHTFhzSnk1M04yWHBPTlBXTlM4Wmo1ZUQyQ25jSUFTdnhPN3lMbnlVeTJucklmdlFTSGlOcDFTSzJkTW1XZ2NMczVZQzBtMERZdmtfVGZKcXZOMmc2LU1tR3NtVHc5SU1BSUFMdnQ1dHIt0gGyAUFVX3lxTE14Mml0Y2x6bUlhalVnWEZtWE8xRUlBVkx0bUhtWC1qOGNqZl93R2NlYnlxWGdsb3pBQ1FSTHVJQ05kME1QM1lZbWU0ZkotaFA2TDVkc2RESmJhYVhmdTlqTHdNQkZXbThRMVRrbmFFUVA2U2M5T055Ukh5Wkd5RFJ3Uk5tWC1JU2xQcHpQOTZBRi1MU1ZfdldSRDJiTUQyNDFqS0xxUFhnaXhXZTVOak5teFE?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-10-26T20:15:00.000Z",
+      "summary": "Netflix recebe 12 filmes e séries na semana! Veja lançamentos (26) Estadão",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.51,
+      "relevance": 7
+    },
+    {
+      "title": "Em dia de nervosismo no mercado, Tesouro Nacional recompra R$ 7,1 bilhões em títulos públicos",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVnNzbFFkYnk4cnpBWHYwTGVqYlYwVTNXNi1Nc2stMV9aR0szT0hwM3BJZlVxV1RaYkYyMjBpVWpXWDFuOE1ZLUZSVTBhQ3F0RXZCUDdUTmJ5MXBXSnctVXA4VUU1R0h1SkZQVWVrSGxFZmdKM3JoY1FvZGNpVzZXNENHdjNwYVBmcUpaV2liMmN5QktBdlJFb3VfWHpZclM3UXpnV0VoT0NBcFBNMWRVRE5xMHh1c3Q5dmVaS09GYlNlcVpYWEQ4YVFmSWE0VlJmc3Z3NXYxbHRNS2lTdFHSAewBQVVfeXFMUDRLM1RvcjFadzQzdVZRWXNSX2ZKcDZOQnhhNmltOUZ6cUp1NUM2ODlxaUc0Rk5EX0RGSVVMZ1FEN1pNVUkwcU5HNlpsZWliZ0NNcWkzQlNoR0RIN0k1Q0llSTlndkRwU1o5TE12azFSSlUtMHpjVUoyUmNPQUR1TFRUQ1pPQ3d5R3hMTXV1VmJiZmt1aGNmVlFQcHBPV3NLSS1SWk1yVDg3a3ZKeC1UWGZXdFFmTl95elpmU2JpYk9rSzE0NmFfVjFocWp6OGhmZzhXWTNTVjZxbHpuZGxWVE9oYTVLYXc1WnlVdjI?oc=5",
       "source": "G1",
-      "publishedAt": "2026-10-26T00:43:01.000Z",
-      "summary": "Após reeleição de Lula, fundo de ações brasileiras despenca 19% nos EUA e antecipa reação do mercado G1",
-      "image": "https://s2-g1.glbimg.com/RTcSF7MuTusSt7UOj-v_KPzDTR4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/0/eyScQCQNmPrtkYfinOHw/design-sem-nome-22-.png",
+      "publishedAt": "2026-10-26T15:53:39.000Z",
+      "summary": "Em dia de nervosismo no mercado, Tesouro Nacional recompra R$ 7,1 bilhões em títulos públicos G1",
+      "image": null,
       "topics": [
         "negocios"
+      ],
+      "score": 6.44,
+      "relevance": 8.2
+    },
+    {
+      "title": "As empresas correm o risco de automatizar o caos com inteligência artificial, alerta CISO da Zamp",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSDN2WUQySUlWM1Y0THlYMEludU5SU3M5ZjVQRDg0ak9yTGktWXAyZEZBSndsa1hld1VlTUI3aWNMNUoxUUxnUlRnSjNPV0dIb0lmZjZKYUdxdGtOSlF2T2FmQ2ZkX0pGQXJ6V0xydllVUkV6RFJia3E0bWQxTkhYdlN4bkdVZnd6ZklBNk9uTEpEei1NYTdKcGkwaVNGUjRnQUdsbTZuUlBCR3FMajYzRFlfVXBlLVNzRURubktCZW11YTB0ZWZRREo0TWY?oc=5",
+      "source": "TI INSIDE Online",
+      "publishedAt": "2026-10-26T19:44:44.000Z",
+      "summary": "As empresas correm o risco de automatizar o caos com inteligência artificial, alerta CISO da Zamp TI INSIDE Online",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.38,
+      "relevance": 7
+    },
+    {
+      "title": "Uma empresa pode usar inteligência artificial todos os dias e continuar lenta",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmdkOGhOaFVUV2Y2VkZ0MHJwT1ROUkpYZFk5X09ZbDhmSU1YUVhsbjlxSHVtSnBTUVpRRkluQjJJSUxxVHBnNmsyXzl2SDF6YnlpVGE1bXlsUFNXa1U2OFhLZ2E2aXVlcFQ0NkJkSlVRRzNSZHRQRF9lNlNnMGwzWnNmRWlFNmNaNUt6RkJoMDlucEhQeF9hck4zOXI1RVhWdWhWVHRRNThfM19xbnBib1psUWdVUS1Qa01KS0lZOA?oc=5",
+      "source": "Administradores",
+      "publishedAt": "2026-10-26T19:35:00.000Z",
+      "summary": "Uma empresa pode usar inteligência artificial todos os dias e continuar lenta Administradores",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.34,
+      "relevance": 7
+    },
+    {
+      "title": "CEAL leva a debate o impacto da Inteligência Artificial nas empresas",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdDFLNGl4Z2FCU1dWbHc4S1JhVTZvdmRYYzJ2UkgxcThVUENHb3JjX1JOc0VKOTUxem1ia0ZxUEdEZHRHQXBqTExIMXFvWndhYnVTY25zc1pjRGFFQUdvVExEd3k4eE53emtPSUwwM3F5T3FiNDdQZTlUaGF4QmY2NEZYcXlNc0h0bFJaTXEwSmxGM296TFBvdnM1ekQ4MEFrWHZQYk53?oc=5",
+      "source": "Mais Algarve",
+      "publishedAt": "2026-10-26T19:21:51.000Z",
+      "summary": "CEAL leva a debate o impacto da Inteligência Artificial nas empresas Mais Algarve",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.29,
+      "relevance": 7
+    },
+    {
+      "title": "Filmes sobre povos indígenas do Acre integram festival de cinema da COP30",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmk2NVhTSHpEdkNOU3ZDYThmVm92SUtDN3FPcGFLeFpGZXlZVXdtVDF1U081ODRTY2dHTkYyNm1sblJKN0pEVXhfTmtEWXotdTBScDdEbnpBWFRRcWdnd0s2UE1laHdYSmNUcHl1V3NyTWRCUmdFeUFmVksxX0ZudHBWbmpuTmU1a1hkWkhXeDFaS1puYWhaRmlCSC10OTZwbUlGaW5EQjNkYVBUZTdXZG5oYmFGQQ?oc=5",
+      "source": "ContilNet Notícias",
+      "publishedAt": "2026-10-26T14:54:26.000Z",
+      "summary": "Filmes sobre povos indígenas do Acre integram festival de cinema da COP30 ContilNet Notícias",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.05,
+      "relevance": 8
+    },
+    {
+      "title": "Agro não é vermelho nem azul; agro é pilar da economia, 25% do PIB, diz ministro da Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNekwycElkVHpya0FqbkFBRkVXV3dFX2tXRkZITEVxeGl0ZHhocXBuQThGVTRLVEtVSU9fVklJUDdwUG9VSEc2ekotQ0FPQ3JoLVBjMUMteGUtSk9NR3F3dGcyNkpWdGlXZ3BDZVQ5bkUzMmtTUHdkbGo2Rlp4LTJsODFkZ09qMjhqWW13bFdfQjF2T1pUaUU2bWszZHE1X0lTaXp1cTlmMmlBQW5KUnp5MUVCVVpwVDNBRFgzUkdSRWtIMVUzcm5XTFV5SFhIUFpEeVotbFdtdDNaTkHSAeABQVVfeXFMTlNFM1BKVHZ6ZndRN1hhVTlOOVQxMGRUNHdSZFk4Z1VfVlRsYy1hU3d2bXdpNk52X01pOEtNNTBnUks2dWxhYjBIek5hQTBVZWxQNlAxRnAycmpSMHFQQnhwYzNkMVVOUnJPV1hXbHpxa1IzaWNobTNYckV5Vms4RU1jODA0SG9MSTRQNGt6ejZPMVU1U0VaQ0VHZkd0aENnREQwNFFadUpyV2JodXpReUQ0dE5UdC02clhfNmJ3dTZWNmJfbGNfM1F6QzZKSzlkQ00xcXVzb0FwVmEwTFM3Zm0?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-10-26T18:06:00.000Z",
+      "summary": "Agro não é vermelho nem azul; agro é pilar da economia, 25% do PIB, diz ministro da Agricultura Estadão",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.99,
+      "relevance": 7
+    },
+    {
+      "title": "Ator mirim de ‘Central do Brasil’ será jurado em festival de cinema na Capital",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX005ekUtSnVsS2szTk8xaElNTjlUd2FXZDV2c3RLSjRNekhVQlBrY1Nmd2dPQVpCcmwwR1BkS2RsVml6NkZDOTBVYm5QdXFSOWFadzVkUnZGT20yOFo3Q0NmdU1YVkM5LWszeE44dE5vY0RlNk1LVDF1Q2FFcUNxbjJyclhXd0FQM0RvS2p1dHVLM1BFY2lMVktLc0NKeFZidTVZ?oc=5",
+      "source": "Midiamax",
+      "publishedAt": "2026-10-26T18:05:00.000Z",
+      "summary": "Ator mirim de ‘Central do Brasil’ será jurado em festival de cinema na Capital Midiamax",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.99,
+      "relevance": 7
+    },
+    {
+      "title": "Filmes pernambucanos, internacionais aguardados e clássicos tomam conta do 17º Janela de Cinema",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPajEwNkNydE5ObjRUaVFFYWpGUkkxZUZPSUNYTkpCVDJ2bW9DdUdnYnB4VTdKX0Q2d1dBVmNVcGFVSUtoWDVTZDhoeGtYWExVX3RiVGluSGdKdDFSMkt6bmM5Wkh3dWtiZW9xLTF2M2dWWW52WHN0QjF2UWk3cDJsTUtvVWpZRWxKRTQ4NDd2WWktcmlqWFhRdE1aTmRMWEpxV3NWaVlNeXotYUVHbWQxSHVWbWV5S0VIS3JJelB1bUdZbUhpbWtvb3VlOHlMeGVHVG96WWJsYi1uNnhLbGpMaVBaMFJGd19oVHR3clI4TWs?oc=5",
+      "source": "Diario de Pernambuco",
+      "publishedAt": "2026-10-26T21:58:00.000Z",
+      "summary": "Filmes pernambucanos, internacionais aguardados e clássicos tomam conta do 17º Janela de Cinema Diario de Pernambuco",
+      "image": null,
+      "topics": [
+        "cinema"
       ],
       "score": 5.96,
-      "relevance": 9.2
-    },
-    {
-      "title": "Veja as expectativas do mercado para a economia brasileira no Focus",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4SmRPRDRZUExWa2Rudy0xOGFSdGRLOGh5MDU2R3ZQUXZXRmNkUDQxelFHTnl1dDJZOEw5VzV0Q0hRN1BBaEY5TXFndmV6RDhYbFJpNWdva080NUVMZEhlWFFFb1FDOEp4dy1rekt5b0ZyVUl2bXhr?oc=5",
-      "source": "TradingView",
-      "publishedAt": "2026-10-26T11:26:20.000Z",
-      "summary": "Veja as expectativas do mercado para a economia brasileira no Focus TradingView",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.87,
       "relevance": 6
     },
     {
-      "title": "A maioria dos usuários da Netflix em todo o mundo assiste a séries e filmes sul-coreanos.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdGhGVmVwZ3VSUXZmWlcyd0NRUzZaaWFyZ1FkXzkxelJEUktoWFJBdXcwaTdTQ0NtR09rVjhWR1dDaW5TYTBaTkt0NFhhQjA0aHZrZUYyamxiU1Q2OFhXQ1ZyVUpfc25hd19CRGdMU0lXMHJQM3dsLUV2alhXZWFvd3BlZHJ2X21wS0p3WkJaalhjc1VpRjVhUkdjMjFvQ1NlSV83UG1MeUswY1IyeGlrZmZHS21tdw?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-10-26T07:20:33.000Z",
-      "summary": "A maioria dos usuários da Netflix em todo o mundo assiste a séries e filmes sul-coreanos. Vietnam.vn",
+      "title": "Petróleo alto e investimentos em IA: Apesar do cenário, UBS BB espera crescimento de quase 30% no lucro das empresas do S&P; entenda",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNR2RrbVRib3pDZTBWQlVEZmFUTDE1OVhiYkVUMElXd0c1RE5zc2FFd2YzR2tMem5fVmVXUy03T1piU2tFWmpIMVBZNHdMRnhHM3JIYkkzeDlCd21MTHAwc1BMTFF4aFpicFJVYUpDa0JYZDRmMFFGclBWN3pkMXZvWmkyN3p5T05hamhlYXktRmQ2MVlFTndNeUZfUmFPUnhoNmZBVXRQZGVpQnJEd0ZubFdwMF9vbk1URGwxTWo3dkJuNVotNWhudDZFcXNmSHdXVUFoYmJOdFJtd0ZoODlBQ3hONWFmT2hFNmNGYmpXU1U2N1FPSlE?oc=5",
+      "source": "Money Times",
+      "publishedAt": "2026-10-26T14:11:00.000Z",
+      "summary": "Petróleo alto e investimentos em IA: Apesar do cenário, UBS BB espera crescimento de quase 30% no lucro das empresas do S&P; entenda Money Times",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.89,
+      "relevance": 8
+    },
+    {
+      "title": "Baú do Cinema: Streaming gratuito traz documentários com Eunice Paiva e líderes sindicais",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeHFMOUg1dnlPbVZMVmxTb2UtaXlfSFp6SE93VjVqSTVpRFZoaDlHTndlQ2N2UnZSMG0tbFNmeE1NUVJHQURZcklFX0I0RGxLcFgwSDhTbnhwTzZheE9NTVA4VENWSlFZWDd2OExnckYtNkpOdE45RmtjUXpINzBBeEtTTm45UmdFZlVDRXVPcno5X0xOSzlFSHlJYzNzNXVrVGFXdFNQYl9JMEZ3TW9WXzBHa1Q4aVFIUU5TWHl6TDhGSlFSN0JxZHJxZ3FPNERNNGk3Tg?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-10-26T21:30:00.000Z",
+      "summary": "Baú do Cinema: Streaming gratuito traz documentários com Eunice Paiva e líderes sindicais Folha de S.Paulo",
       "image": null,
       "topics": [
         "cinema"
       ],
       "score": 5.85,
-      "relevance": 7
+      "relevance": 6
     },
     {
-      "title": "Itaú compra NeoSpace por R$ 2,9 bilhões e avança na inteligência artificial",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVUtUdXVOd0lWYlpKa3U1cWZmZjU5M1cxMTZHS29ReWFDUHBDU0ExcmNrTk84bXdPM0JKQkx1YWRuTU13M0NjcWpqWS1ybTk4dkI4bDFtZVhvRHNjTi11Sm84TUhkdU5rb2lnT01ha1Zhdm1MTXBUaGlzSTlXUlZlRF96eHZqZktuZHplLTNzSXA2MTBkWHlvU1l6T0Z3Sk05YWIwMUs5STBzUQ?oc=5",
-      "source": "NeoFeed",
-      "publishedAt": "2026-10-26T10:43:00.000Z",
-      "summary": "Itaú compra NeoSpace por R$ 2,9 bilhões e avança na inteligência artificial NeoFeed",
+      "title": "EUA enviam mais de 300 soldados à Colômbia para treinamentos de combate ao narcotráfico",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/26/eua-enviam-mais-de-300-soldados-a-colombia-para-treinamentos-de-combate-ao-narcotrafico.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-10-26T16:29:20.000Z",
+      "summary": "Governo Trump vai aumentar presença militar na América Latina em nova política externa Mais de 300 soldados dos Estados Unidos chegarão à Colômbia a partir desta terça-feira (27) para treinamentos conjuntos de combate ao narcotráfico. O anú",
+      "image": "https://s2-g1.glbimg.com/O8iIGQ75r0WM2C4tqqZnR5LH99Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/7/i9MmCrTMObRAInhFIbpA/afp-20251202-86vu63x-v1-midres-panamausdrill.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 5.79,
+      "relevance": 7.2
+    },
+    {
+      "title": "Salvador recebe festival gratuito de cinema com mais de 30 filmes dirigidos por mulheres",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZTNKT2prcXNGYzFrRDZHTGRPcDlPZ1Zrbkl3b3RacDhRa2J3TmgzbU5nel8teHhndWVCTjN6MWU2bzNUVFZJN25aX2oyZmI2MWFna2t3MThteVRrMlYwWk51djBMVENqLVhvRnlUUk5BQklkbmR6TzdmLXNtVkFrZDFnZkJNeVJlcUIzMExtYXhJWDlkeV90dVlPRzdZR09aWmRXaEVIb2ZScUJ5c1N2RnRraTJGTXhFaFY0LURwX3pYMUVTR0lKZ1FRZVZkQQ?oc=5",
+      "source": "Alô Alô Bahia",
+      "publishedAt": "2026-10-26T21:11:51.000Z",
+      "summary": "Salvador recebe festival gratuito de cinema com mais de 30 filmes dirigidos por mulheres Alô Alô Bahia",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.78,
+      "relevance": 6
+    },
+    {
+      "title": "Dólar fecha a R$ 5,40, Bolsa despenca 13,8%; BC e Tesouro atuam no mercado",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0w0Q2hNYjZ0dDM2bEY1Ujd2VGhFX2tmUGNOT2prdmxyNEY3NExubTZGdUo5YVhiX3pPNGxxWGMtZ2hEbnBCaDhmQmZxUFUyUHZXNEczMVBKYl93emlXNHNOWDJiWUUxUm1EcnJxOFhiVVZmd0s1dS11Y0hwT1o3UG5CeUxjMlJnQWhQSENxS0F1dkc0ZEt0bHZUaFFjNjFlaW9LVDJGQklIMmpKWU1fblc2aVpQdlhPc18zTU4wZzh0dmxSSGhJ0gHWAUFVX3lxTE00cXZqcmtUTk1jSDFUT2JlcHJmZ24wMVB4UEhCRURmQUdWekk3TzRDUDRJVWptcFhmTE9BU3QzNmRMWnlTSlRDTHp6aEFMY3ZMVjhxVkFDbkxCWUdRQlJMUVJOcEc3bk9EMzQ3OWRENWJJQ25wYjdZSzFzZUdOUDQwcXlCQmg2OWNWRWZERWJxSEFfRENSLTQ0LVBzQVlEQ0k3X1NjbWRmX1JGWHJQR2hUVmoySTRHMHV5X0VKUHRKRWRkZWtkUjNjcC1TeExLTURFbGl4c1E?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-10-26T21:01:32.000Z",
+      "summary": "Dólar fecha a R$ 5,40, Bolsa despenca 13,8%; BC e Tesouro atuam no mercado O GLOBO",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.75,
+      "relevance": 6
+    },
+    {
+      "title": "Estudo global alerta para os riscos de substituir recém-formados por inteligência artificial nas empresas",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckt3dUNuMG1lWnBRMjBfR2VmUFcwQXEwb1VkQXpIeC05N0VoUF9zOUJueEJhTXpjWW80VGtzbVhTV2l0N1JGbU51b3F3Rkw4emUxMklKLTk3RDNFMlZhbjE2OHd4VVdhS0lsOUVKbld4Q2hfZlF5UFRHZFR2YmxseW92U1JNUnRnSF9rUWsta1dvb3NjZmNsWjN2UWlfTnFSaHBYX2Q1YlpQeElWNFBWRW96R3d3MVc4UkRDcUUwNzI?oc=5",
+      "source": "Fundação Getulio Vargas",
+      "publishedAt": "2026-10-26T16:52:35.000Z",
+      "summary": "Estudo global alerta para os riscos de substituir recém-formados por inteligência artificial nas empresas Fundação Getulio Vargas",
       "image": null,
       "topics": [
         "negocios"
       ],
       "score": 5.71,
-      "relevance": 6
+      "relevance": 7
     },
     {
-      "title": "JPMorgan: Ibovespa deve cair 20% e dólar ir a R$ 5,50 nos próximos dias após eleição",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMFh4RjVWeV9lM1VJRlVWbkF1V0dCaDNHUDkzcGt0MUdUckZMdEJ3SVFpMmN3Q2dZaklhaVNKSjZSNHNNTVpZazVpdzdTZ2NrckZuY0p5N3BRZnVXOWliV0JwQzd2Q1VXVDhtcFNqaG5LM3EzQ2VjV2FFOTRhWlJlaWVhTEROMktuaU1iRkg4QUtOLVY3VUI4TVBOZmtrNGRCZjNEMmtzRXJiSkp4eXlXa1czXzR3M3hDTWkzOWhsb1pxZw?oc=5",
-      "source": "InfoMoney",
-      "publishedAt": "2026-10-26T10:36:10.000Z",
-      "summary": "JPMorgan: Ibovespa deve cair 20% e dólar ir a R$ 5,50 nos próximos dias após eleição InfoMoney",
+      "title": "Empresas de tecnologia usam dívida e ações para financiar expansão da IA",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OWDVScl9IYk43dHNfQ21kX3JiaUI3R0ZrV1NzbFlodHhRWG5kOHMyUjR4VXRHLW9idXQzZ19sWVFvSkdmYnJuNktHbzA5NVp6WDFwMm9EUnVKSW02ejRkNGF2d2p1cVlUMVA3ZVdhTWsyT3FVQ3JB?oc=5",
+      "source": "TradingView",
+      "publishedAt": "2026-10-26T16:38:59.000Z",
+      "summary": "Empresas de tecnologia usam dívida e ações para financiar expansão da IA TradingView",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.68,
+      "score": 5.66,
+      "relevance": 7
+    },
+    {
+      "title": "Festival de Cinema de Carazinho terá sessões gratuitas e transporte para o público",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeFd3S0paOEVxSDR0cGpuVm5OeER1N1MzZ080SlpMZnB6Q2lBVVR3d21ka3kzX0tlX2QtQXpYNnFmRFJQNmNaNnRYT3lMNkdoN2o5OWx6WXpUZ2dCaFl1Q3dkb0lRbmJlUFd4NHNfSUV3YW01VzVZdGJJOTJfVUVMVmxOZ2JXWFZxVnluXzlQRWJXOVQyeHAzdThtdERnSlJETWpOalhUOUlDZ3JqSVVwc0ltYnJnMXNIN0t3YnpqYVVadXJk?oc=5",
+      "source": "Brasil de Fato",
+      "publishedAt": "2026-10-26T20:32:00.000Z",
+      "summary": "Festival de Cinema de Carazinho terá sessões gratuitas e transporte para o público Brasil de Fato",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.64,
       "relevance": 6
     },
     {
-      "title": "ETF do Ibovespa derrete 26% no pré-mercado após vitória de Lula no 2° turno",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUDVqSkdOaUJWV2pCR1ZzQWhhR1RFRHpzQmctQnhBeTFiekppXzBMZkttOEdMa2JpYTJ2ZVhOQW9uSGdBTFZKVmtqTHpVU0FGOHNWM2FHUkk2ZmNLOVdXQWxsNTV2QzBLVS1zUkRGMXNvOFFmTm5yLXVkUFZYMnJub1ZSeFNZYTJTZVh0WW5TaHo2VW5QeFNYUlpR?oc=5",
-      "source": "VEJA",
-      "publishedAt": "2026-10-26T10:26:25.000Z",
-      "summary": "ETF do Ibovespa derrete 26% no pré-mercado após vitória de Lula no 2° turno VEJA",
+      "title": "O que o programa de governo de Lula propõe para a inteligência artificial nas empresas, na saúde e na cultura",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTGRCZmUteWVPWUx2bWlqa3g1dlNRZ0FQaXhlNmZXVS1pdnZsS19hQ3JiSUtfRXRKNlNBZHg4c0Zvckpid2V5elFwLVBPb2p2bFJXNzR5b0VrcWcyNEtjYXZvTHI1RENNZUtITWZwQWlyY3Q5aUJpWnoyZFpZbFpGQm5hN0hoRndGVmxVQXUydkVUdGRHSXNnYUZZdTUyWlZOTy1pRVVXMHlJdUpISUtZV3BoelJ4LXVvNldGSHFyc3dBd2pwbUdhdzJGM0NjRWczU1c5bngtbzduRzJuZlpZYmpMU1J1eHFNX3FDX0hlTEVlcjUyVVVqMUtyLUhLUdIBjAJBVV95cUxPc1oyMy1sYlVVT1Z0Q3dlMzNCaWVQdWRQSXk5QWoyUjFSTmxXLXlmRHZpZnlEZnpCYkVxSFo0RktCSkpFMXhld0JoWHFTOHVrSjR3aFZPX2xJRU9mNGF0cjlVM0NlZkpyTDk4ZWVaZDRTLWItX3M5NW9SUnBuZEhiWmF0N2poVERHbjhtZU9jSGhVSVIzMUVtb1JsMWxnQm50S1NqM3lNaWdJQWxxSWRreTdxcDF0RFJQbE8zNWNRY2lwNFdXUXZyamRHa3YzWVVhcTdscEhBZnhneDNycWk2N1NrRHoyZlREUmRpZzlDQW44VGJhdVZXZjg2LWdkbUNVdkFpWHBLS0RndzEx?oc=5",
+      "source": "Época Negócios",
+      "publishedAt": "2026-10-26T15:01:34.000Z",
+      "summary": "O que o programa de governo de Lula propõe para a inteligência artificial nas empresas, na saúde e na cultura Época Negócios",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.65,
+      "score": 5.62,
+      "relevance": 7.4
+    },
+    {
+      "title": "Festival de Cinema Francês chega ao Cine Roxy com mais de 20 sessões de produções aclamadas e premiadas",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORmNwWk1GcVhDT1pwa1dRU0JycU1xaG1lS1RRajhNblNKeHJMaGx0b0h2NTVQODNweFZvc0U4c0F3TEt3d1B1TDZicFE4ZHhXbnUydnZLZEp4ZDExMmV4TTZzLTVXVm5xaHVrUmd5RTFXMVFCOUkwLWFmazVlNnE4OEd6RENtQ2RZTk9iVkI2N2dMU1FzZHZsNHRLU3N5aG9KM19zbW16ejRYTXMxclRiMnhoQl90YTQ3cFViUktsVEJRdjBaSThBcjF1Q2NmZkkydm1mTW0zWjFqTmJTNFh4LVVqQzBrUzAyQ0ZFRVBOOEdyNzBYVlU4?oc=5",
+      "source": "Diário do Litoral",
+      "publishedAt": "2026-10-26T20:22:00.000Z",
+      "summary": "Festival de Cinema Francês chega ao Cine Roxy com mais de 20 sessões de produções aclamadas e premiadas Diário do Litoral",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.6,
       "relevance": 6
     },
     {
-      "title": "Bolsas da Ásia fecham mistas com menor apetite por risco e decisões de juros no radar",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLXB4bzJ2U0JGT2sxZUdQN3Baall5Ull5dkNqa0lZN3hydkFXeHZhTmstWkVPa2xRVnA1U3VJVnpUSkpobGk0aWhFZFI1RHBIckEtY09qa3Q5aFFWMFRFWFZiX1FqTjU1XzZjN3kzaDZrVk42NlFfM2kwV0pSSThhajJ2WF8wX0Z1NEJQWF81ZkxHX2lHYlh3QW9hWHhONHR5YWZ2eUZaNzlYSGZlUmVRbExhSkxiS0hOYUlqSnhvYzZFdkd0TnZvbm9oS0UyWlZyWmRDMWlOZ191SnMy0gHiAUFVX3lxTE9DcjJfeTJ6aExWZENXdXFGWWFRMXlaLURscUhLZ2VrUzFubDhud0FBTi1iT3FTM2s5aG5HVzJmb2dyeUhNcGhVSWtZUnp3bS05WWpyb21NVUYyMVNYdWJ4dVBQejAzcDFIZDY4U1A3cW1WcXJDX0luaVpiSms4bVgxZ0lVZjRfdzNaNFJLXzJyZmtpSXZoV2NPWGlMUlAyYVNaVEQtd1g1M0s0ZGhnN1NLOTkyMGZCaHlDYm1MT283VTBfOURwamQwNVdady1LZFZzTVZQWXVfN205ZlFMZXBPOVE?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-10-26T09:57:41.000Z",
-      "summary": "Bolsas da Ásia fecham mistas com menor apetite por risco e decisões de juros no radar Estadão",
+      "title": "Com eleição, dólar tem maior alta desde 1999 e Ibovespa despenca 14%",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWHVSM2NIWFpPXzVsVFR2d1l4Z3FZNmh1Z0VlQ1ZlLUNpand2Vjg4N0RsVVFMUVdmWlY3aVJkSjNZY3dLVDk2UC1sQkJJTnJUMTBJVDBXaVVOaDd2NGctckYySUs5ODgzdVpYWW5ISmlBRVdaRzVuRFlrUmFqckl5LXotMVJhTWFRQ3hqLUp1Mkl5cWtlUEJpbjZPR21FOUZvWUhyMlI5OTdoZGNlQ1RYMHQyOXgwMzhHd0hjWXJsMzFUS05XZUx4eFFXcEZJVXhRYnF6SQ?oc=5",
+      "source": "UOL Economia",
+      "publishedAt": "2026-10-26T21:02:46.000Z",
+      "summary": "Com eleição, dólar tem maior alta desde 1999 e Ibovespa despenca 14% UOL Economia",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.56,
+      "relevance": 5.8
+    },
+    {
+      "title": "Todos os Santos de 2026: visitas e oficinas no Museu Nacional de Arqueologia",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNFcwS1dUS2phcTJPczBwR1piNVRUb08tRFRlcWt3UEZnWjZRc0tMOFExSUxXQjJ0V0VUM01VV2FKZmJsNmg0TUtDNGJMUDlya1hlQUgyXzZqZ0ZVdjNXN1ZpbkRSdENNRk55d3lfdk1Gc3ZRWTFiOXpiU1hvLVBBV2hCQkZFakNZNDJhQTRDeTBlcW1qSkI3VDhXUkVBak1taUJmNnJGdTZyd2hLUXlvcldCM2lEX2FwNG5aSExfUmJSd1h6OWxvM1g4U1dwOHVyNkpKS1ZzM3JCY1JDZ0xB?oc=5",
+      "source": "Sortir à Paris",
+      "publishedAt": "2026-10-26T20:10:37.000Z",
+      "summary": "Todos os Santos de 2026: visitas e oficinas no Museu Nacional de Arqueologia Sortir à Paris",
+      "image": null,
+      "topics": [
+        "historia"
+      ],
+      "score": 5.56,
+      "relevance": 6
+    },
+    {
+      "title": "Mercado cobra sinalização fiscal de Lula após forte turbulência na Bolsa",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdFEyaWw4ZERrU3N2ZWZXRWNtTWhKMmI3Um9lcHhLQThxUHlFZFpadFlLelZLRnJZUnF1SFJJVloyRzk4ZlJJVnhFM0dFTjlkbUlxUXJUcTNFR3BQMVdobXdVMGE3Y1Ewd0szSndlVE9YMTJCWGRmb0ItWW9QbGttTXA1NHdKLXItMlp3dzFNQTBBQUZ5OWlsNWltSFppR0RIVTBaZUlqdE0xeXM?oc=5",
+      "source": "Vero Notícias",
+      "publishedAt": "2026-10-26T20:04:39.000Z",
+      "summary": "Mercado cobra sinalização fiscal de Lula após forte turbulência na Bolsa Vero Notícias",
       "image": null,
       "topics": [
         "negocios"
       ],
       "score": 5.54,
       "relevance": 6
-    },
-    {
-      "title": "Tela Quente :: Demi Moore, milhares de litros de sangue falso e 1 Oscar: relembre A Substância, filme desta",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZ2QtWWtrQ1A2RndlLXBmUkQ3VGlBNnBsenQwMjQ2a2VMa3dNQV9qSk91cW1icll6NlpWc3VkUVVMNWplOW9pV3dJZnlBa0dNSlRvMXNmSWJ4WFVZeVBZZzlXNDdrN0lyeFVDMV9Fc9IBdEFVX3lxTFBJRHFBazNvNk5sY19WSERJNGN6UmgzRWw5TE1XTjNSVlNQUU5FRnUxeFdheHhaVDFJbHVoYmhQZjVzbjBpeTFldk00bTlrUGJqT0lFeDB6M2VSbkVPVkJ6QUwtdW4xTUtuLTNiY0xhaGJkWFJY?oc=5",
-      "source": "Papo de Cinema",
-      "publishedAt": "2026-10-26T11:51:11.000Z",
-      "summary": "Tela Quente :: Demi Moore, milhares de litros de sangue falso e 1 Oscar: relembre A Substância, filme desta Papo de Cinema",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.37,
-      "relevance": 5.4
-    },
-    {
-      "title": "Fala Passo Fundo: tecnologia e incentivos atraem novas empresas para Passo Fundo",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEFESGpoNHFtbWxnb3lzRjhjRWZQUzB6bFJFZmdwdjVCM3E4NnA4NkhYUHFhdDR5MHV2MGJQYTlZV1FyOEQ4UnFQRjRUY2VHQUJMaDhTM3o5OVprdmNqS0xxYW5qejNCN0hGVW0yczVHVUl5WkRvZ3BUd1F0dGJkRkFYME1fcjByWXZoWi1CcEVZRDJEaGhYZ3pQR3hoOTBoODFoMkN5cS0tUQ?oc=5",
-      "source": "Radio Uirapuru",
-      "publishedAt": "2026-10-26T09:09:00.000Z",
-      "summary": "Fala Passo Fundo: tecnologia e incentivos atraem novas empresas para Passo Fundo Radio Uirapuru",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.37,
-      "relevance": 6
-    },
-    {
-      "title": "Investidores esperam queda das ações brasileiras e do real após reeleição de Lula",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNlFRZXp0MTk0cDdMLVRtVDBEU0U4X3RYclFPX3dvWHpweVR1SHBVMVc0VmxQZ3ZlMVU4a1RCbUQzMXhjS2xFc25zdGxIX1ZMMzM4Q09XU3MyX0QyM3pSdFNxRURxS0dzNDNuSTdaZUNuUzZhbC0xc0J4NXdRaWplR3BzWDVTdzhvV1NGUzdsU1NQLU5GVDJvVWktbXZINXdGRTJteTh5dVNPYjlEbzRvRHVwLUE1VS1EczZiODgxbVd1bWI1NEhwWU9iLVA5M1F4bk40dDN1ZFU?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-10-26T09:41:28.000Z",
-      "summary": "Investidores esperam queda das ações brasileiras e do real após reeleição de Lula UOL Economia",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.3,
-      "relevance": 5.8
-    },
-    {
-      "title": "Safra recorde pode abrir oportunidades para Fiagros, mas efeito depende da carteira",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWmZjbjd3RWprVVRJM093OHRNdEppMHJhWURzbjJmNFJCa19LcWoyc0NlOGRQQW92YW1kMTJOb0x0eHM5aFRDYjRxU1ZwSmxiLXhZM01sUUkzNFJidWRjbC1aU0JMcG51Y0ZwUlFEWWlXSGp5c25SMWo2aGhhUU96bVVkNnpwbmtIN2cxR0N5RWVXdDItb0xBMkNLbENzU1d5RFhTVXN3STkwVFhHanFtWkN6eVN1bTE2LWtod1R1bEdVUjdrM3o4anVBZnFWelNabjY2ZGlVOVBsb1VIOTFWWmp1bFVjNGZhRm5JS3JaYw?oc=5",
-      "source": "Portal do Agronegócio",
-      "publishedAt": "2026-10-26T11:10:00.000Z",
-      "summary": "Safra recorde pode abrir oportunidades para Fiagros, mas efeito depende da carteira Portal do Agronegócio",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.23,
-      "relevance": 5.4
-    },
-    {
-      "title": "Circuito Penedo de Cinema terá exibição gratuita de filmes premiados",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEVCSXdhWVBNa2tGdFdnOC1TUU9sWE5RTU4tNmlHMkxUQzJNbU1LdzNyajRrYU5kZG03YXloTGw4NnRDcTZtY0ZzNzdMT2UxT2tzMk41QU13N3JuajQ0OVZCNWtvdjJ1WW9sc2ViRElWM3lYeEJ4V1F6azM1Rl9mUmh4OGo2eFNlR09CTy1SZmZ4U0E4SXlFQ1lvaDd1eGVlNzZJ?oc=5",
-      "source": "082noticias.com",
-      "publishedAt": "2026-10-26T08:27:12.000Z",
-      "summary": "Circuito Penedo de Cinema terá exibição gratuita de filmes premiados 082noticias.com",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.23,
-      "relevance": 6
-    },
-    {
-      "title": "Da Ideia no Guardanapo a Uma Empresa de Biotecnologia Agrícola de US$ 40 milhões",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNE82MU5ZckpsYm5qUERfVkRwRXlvYVpIRVIzSS1WMnlfWHlKSzNITzM1N2k3dVVXSFdraVpEdjhyX3J3XzAzY3UtOTViVjlzUlZaT1JRU3ZuamU1UklXd0VCMkFqN0hsWlNzOHlCakFZMnhZaDJyRVVOLTdTVWtGemhiNTNXdndZMmpWSExJdGZuaUhEMS1kNDNKRjVUTWU2Y0gwWlk2T2F5anBFV2xoYy05QXA0ZHFtbjlmZUZJYw?oc=5",
-      "source": "Forbes Brasil",
-      "publishedAt": "2026-10-26T08:00:00.000Z",
-      "summary": "Da Ideia no Guardanapo a Uma Empresa de Biotecnologia Agrícola de US$ 40 milhões Forbes Brasil",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.14,
-      "relevance": 6
-    },
-    {
-      "title": "Itaú Unibanco adquire startup NeoSpace por R$ 2,925 bilhões para reforçar IA proprietária",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcnhvaXpKeHQyRHQxWmpCZUE4VmxaZGFsZzlkSHYxaE96dUVVQWlPVUhFendMZHYwTEFTNEdHck96X21xcFY3SlpaUVEyLWRyN01tT2dyNVphaUkwYVBCU0NtM2ctSlF6dm5tYVBfVF9QbktfWUs4ZGJHLW94a1BCSy1YOWxiaVNDdnBnU0FXUklHem1RY3dFdnVqVF9ad2VudVdKRkJkUjV1MWxFX0drcENRbGNJUVprazRGY1dCYW1CaDNIZXhHMndlM3c4RVNFME5n?oc=5",
-      "source": "JC",
-      "publishedAt": "2026-10-26T07:59:36.000Z",
-      "summary": "Itaú Unibanco adquire startup NeoSpace por R$ 2,925 bilhões para reforçar IA proprietária JC",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.14,
-      "relevance": 6
-    },
-    {
-      "title": "Mercado reduz projeção da inflação para 5,19%",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeW5ySmgtSUc5R0M1OU14WmxLVmNpamxMblJWaHZZVFVNSzVjS0FpWmVIUDJWMGtGckJzck13ZVN3aGpCS3VNdnlEbDBJTVA4RFNZcElLZW40UmE0QWZSS3Q2alN2MjQzSXV3WFlsMVBLaDdoQy1xeWhmQmFkWVI4bVU0UFo5djZFVGJxbEhjSkg?oc=5",
-      "source": "Poder360",
-      "publishedAt": "2026-10-26T11:47:21.000Z",
-      "summary": "Mercado reduz projeção da inflação para 5,19% Poder360",
-      "image": "https://static.poder360.com.br/uploads/2026/10/boletim-focus-economia-26out2026-scaled.png",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 4.96,
-      "relevance": 5
-    },
-    {
-      "title": "Lula precisará dar forte guinada na economia para evitar que disparada do dólar vire uma recessão",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeXNxbkxxV25BcDBaNHRJX3NPY3V2dWlheHdjMFB5ZTRpZ1Y2bGdwd1YyZTBlWDB2VGIzQmJpcWwzMVVsc1RFWTNvUktxVmZIeUhBeUdCUlRPYTBzaUlHSjNZS3h2d0p2QWFHc29yZUtSN0JKS3VTbXZrX2JmeEdEZ0lUM0E3MFdGd1VldjdBN0FpWW5wSmY5aXRaU0FIUE9lcTR0cjRTX1ZVX1N3OFBnWTVDMDJvcUlhSjBOV0VBbFZHY0hfaWQtWDlyakxPN011WEZVek1sQVhZelgyaWc3Y2hFSGU4dXJzWkdveg?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-10-26T02:57:56.000Z",
-      "summary": "Lula precisará dar forte guinada na economia para evitar que disparada do dólar vire uma recessão Estadão",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.94,
-      "relevance": 7
-    },
-    {
-      "title": "Com Lula reeleito, mercado teme queda de mais de 10% na Bolsa e risco de circuit breaker",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPYUF5MW5Mc1VmbHhQS2F0R0toNVJ0ZlEzdEd1MGU2VFB1b0FXOW5KRTZXcVhSSjV3UFU0RndoZC1ESlgxOWtndnVHM01xM3UzX09hVEFxa3ZfWnR5c29wWTFmbTR4RmtrV1AxN2tJbG4ySzZuMDNxM1U2R2tJWHBSekZMSjFDYUhHZUcyeFZ1MFJXSHZHdVhpa3RCS01mNHdEenJId1dlbGN1QWdyZ3F0UlA5NU5JVU54VjJya2lydlVmemtkRU1MSVBNeVRIWFZ3ajQ1NW94MWVKU25iUkHSAeMBQVVfeXFMT3JpTGN2dldTR1BaMlM3R3dWVW9KV195RlJPaHJsWGlYRGpaWDNpczEtUjBhZExYQTBmZkcza3RzMjU2blhiUW9qSnVHSHhDMXJOZ3Z0cnhKbkV2ZGM1eVFCdS1PVE8tSmZYRFlJdDdnZUcyZE9Xc1pRVVRoUTZxMC16X09maHBMZmFMN01CWUkyeGNSMzZPQlRDVW90dk83RVhZVzctYlVvVm5RN2RaVzhuS3lVMHg1YVJsc0h3dzFKVnRnRkFWWmpQaEQ0dDRmWDRCSGswNWZGQjN4U09JNEg1N2c?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-10-26T11:33:50.000Z",
-      "summary": "Com Lula reeleito, mercado teme queda de mais de 10% na Bolsa e risco de circuit breaker Estadão",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.91,
-      "relevance": 5
-    },
-    {
-      "title": "Há 4 novas séries para ver esta semana na Netflix, Apple TV e Disney+ em Portugal (26 outubro)",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1YyZzNXdkJCcWd1c1lSOG16czhReHBhaWs4OHpCRUlDV1dnaVNnODNoTGgwTmYzbklDSmYxa0E0RmFNR3lIVmdTRkw3WGh2ZHBvWlNQbzU2SG56M1lfSTJpSDBHYjJEeTBTYTV6YWlSSmExOUNkSEhUU0tzZUJFY3VDVG1vOGhtVzFhZjlXanNsXzd4dlI0RXJkS2s1UzZZVnBYM2RWbUdQR09TMTFQZmN5ZU9nVllUNHJN?oc=5",
-      "source": "Magazine.HD",
-      "publishedAt": "2026-10-26T11:30:50.000Z",
-      "summary": "Há 4 novas séries para ver esta semana na Netflix, Apple TV e Disney+ em Portugal (26 outubro) Magazine.HD",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 4.91,
-      "relevance": 5
-    },
-    {
-      "title": "JP Morgan rebaixa recomendação do real e de títulos após vitória de Lula - 26/10/2026 - Economia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcE94TnhBd1BEX1UydG1jbmpwQkp0Qnc2TWFLZ1F1RXhaUkJaQVA0WEt1bWZrUzRORGZ1clplNm56ZG9QcUJNQU9xWUNfaC1lQ0NjQTRoUzA2UHo5OWJPb0FSZTdMREphay1WdXVxdXA0REU5YnViYW05LTg5a3llT18yMWpnVHByblk0UEZ6RmlXY0F1ajhPVXh3ekY1SW96ZERLNUpRSzhDbTNxRkFwZHpQMzRjWjZob010X043bGJuUQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-10-26T11:30:00.000Z",
-      "summary": "JP Morgan rebaixa recomendação do real e de títulos após vitória de Lula - 26/10/2026 - Economia Folha de S.Paulo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.9,
-      "relevance": 5
-    },
-    {
-      "title": "Lula defende inteligência artificial brasileira e diz que empresas de data centers terão de deixar dados no país",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXRvMFNLMW5PZEJYaFBnUDgtQ0pmLXJCaV9tb1BBc29pSzlYdndwT2NTR3ZNQ2p6SU5BLUR2LXpTMVRQSGdHbmtvNktoZ1RVMW5PVUdZbElWLVRvV1o3VlBES2ZLalJQSllBaHBNWHVnck9yZmZSa3MtTjFtYzZPeFIzQm1mbXhZU1ZYWlVhU2JhOUhuQkJVMGxQcFI?oc=5",
-      "source": "A Crítica de Campo Grande",
-      "publishedAt": "2026-10-26T02:39:22.000Z",
-      "summary": "Lula defende inteligência artificial brasileira e diz que empresas de data centers terão de deixar dados no país A Crítica de Campo Grande",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.88,
-      "relevance": 7
-    },
-    {
-      "title": "Reeleição de Lula em 2026 acende alerta no mercado financeiro e amplia pressão por ajuste fiscal",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTE5ONXdNY3RjYUh1VVdETVJ6MXBHN2Itd2ZCVTJBM0I4akFvMzFWUW16akxxSUx6MWdmY19rZ2RkamczVHpGSnVmUWFnRFU3VE93VUFJeWlMbFpWaUtBS2hnTi0zRjRDQ3YxVWItZkFNSkl0UW5KenBrVG9SMDlKMk1rbC1WbGM3RHVfNEFTYlBvMGw4aHV0amRneEg4eXN3SFpFV0JWNHFsNHBCbmtELUJhVTZjZ2NvLUNtbWtXbnZvMnc0c1BROW5rZUo5Zjdzak9qWTFWZUwzX2Ey?oc=5",
-      "source": "Expressão Brasiliense",
-      "publishedAt": "2026-10-26T11:18:32.000Z",
-      "summary": "Reeleição de Lula em 2026 acende alerta no mercado financeiro e amplia pressão por ajuste fiscal Expressão Brasiliense",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.87,
-      "relevance": 5
-    },
-    {
-      "title": "Oscar 2027 Filme Internacional",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XallJMUNhcEtKdTE3VTVielBZTkRKMEo2MDBZQ2hfV2t5YTUzeHZuUGdhZE82cVV2U1psMmVWN3ltQ3NfTFVlN2E0YUlTTEZuWG00dmlCdlVCUzJSWTZiX2lrakdiMmRicHNJU0JVLVlDTWs?oc=5",
-      "source": "Oxente Pipoca",
-      "publishedAt": "2026-10-26T11:12:37.000Z",
-      "summary": "Oscar 2027 Filme Internacional Oxente Pipoca",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 4.85,
-      "relevance": 5
-    },
-    {
-      "title": "Vitória de Lula: gráficos apontam Ibovespa nos 189 mil se perder os 200 mil pontos",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2NOSTB1RXdsWktDRDV5VUQxZzJVazJtSWljNGZvdzRIV0Z5YmVHQnlQUWJaRUN2SUp1eVNaVkV4ZmozcW9pNHE0Q19ydXR3MXBlTHhJNlBsQXVwMlY0M0ZCay0yVUdiT1R6Y3FsbUptdmtWd2tIc09LQ1NuUEk3ZlptTF81TlVMMTJlTHNQRFR1dFNVYXB3ZDlFYTU2QWxaTklraWkxRmZMSjgybHNHWnEwb9IBuAFBVV95cUxOeUNrYTZhT0x5Z0taeVoxbEw1OV8tSDdsczVZck45VGF6d01UZ281Q3pDTUtlNF82SEZaektDLTZVSWcxVTRrbXJLM3NxcDZocFRvaXhlOVVHSWxudlFxREpMT2pKRFAxa1dWd1hMbEVYME1idllScE9pcUZZLWRHa2I0N0hDcUZ2b3hmdThESkJrUkhoUDRTdXpkc2VLNEdqOXB0OVZuc0lZRTlOM1hUTjVVNklPNDFK?oc=5",
-      "source": "InfoMoney",
-      "publishedAt": "2026-10-26T11:12:03.000Z",
-      "summary": "Vitória de Lula: gráficos apontam Ibovespa nos 189 mil se perder os 200 mil pontos InfoMoney",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.85,
-      "relevance": 5
-    },
-    {
-      "title": "VOLL é finalista de prêmio mundial por tecnologia de experiência do cliente",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbjdCMC1WRFo2UFJOLVhvLTRDSXVMcGctTzRnanVBQXhHUGpKeVNIU3NHaC1FcEdMeGIzZGlWZC11TE5rQTVZYzA2bXdhbUJaaW1wZzdLZ2kyTC1PVTlXWEZDQ1ptUDFGOWFHeDJaZjRHNUVPYWhmaGhFbkIweDRfUEZ6Rk51UjFYeWE0SHItZUNsTFBIUXVaeUlJa2ZjZnJDQ2c2emZmRmFRNTBqeWhtNlhuUnMtLWVkTFhkYjhKdXpTQ1VsQjJVeWY1S2pfVWJHLU1ZbWE1N1h2SndiLXZiTkk3RGFieVc2RW1B?oc=5",
-      "source": "Panrotas",
-      "publishedAt": "2026-10-26T11:04:00.000Z",
-      "summary": "VOLL é finalista de prêmio mundial por tecnologia de experiência do cliente Panrotas",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.82,
-      "relevance": 5
-    },
-    {
-      "title": "‘O líder político mais influente da América Latina freia avanço da direita’: imprensa mundial repercute reeleição de Lula",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/26/repercute-imprensa-internacional-reeleicao-lula-dia-seguinte.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-26T10:59:34.000Z",
-      "summary": "Lula na avenida Paulista. Reprodução/X A imprensa mundial repercutiu nesta segunda-feira (26) a reeleição do presidente Lula (PT) no dia seguinte ao pleito. Os jornais destacaram o aspecto surpreendente da virada inédita e projetam o panora",
-      "image": "https://s2-g1.glbimg.com/26EkLedZ1B4gr8qCrrqk2SmyDMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/b/MtXwLvR8AI7joMK40LtQ/design-sem-nome-23-.png",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 4.81,
-      "relevance": 5
-    },
-    {
-      "title": "ADRs de empresas brasileiras despencam mais de 20% após vitória de Lula",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnNIY2NhRVNUOXRWYUlyTkwxZFRBeVhNWFQ3eC1jbWxNM2pmUHZZcTB4a2M4bzNPeFVvTkpWMzhZdUFUMm1QcVY3NUx1SWtLaDlnS2pIYnltWWhXclpCa1QwT0JiOUczNkNKbFFwQnYwT1I2WERGN0tlM0JXZnBCazdtZ0JDM0l0aXBLYkE2REVoMnQ0WDRNb0ZwY1J2MFBfMkg3aHJuLW9QQlNQcUVzdE5ZM1lEX0w4azJlMndhV3I?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-10-26T10:42:53.000Z",
-      "summary": "ADRs de empresas brasileiras despencam mais de 20% após vitória de Lula CNN Brasil",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.76,
-      "relevance": 5
-    },
-    {
-      "title": "Varejo Farma: XP Radar da Indústria Farmacêutica #2; Canetas mais baratas, crescimento mais lento",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPS1dMLXM5bEFURnFqcmFJNC0yVVhYZ053anV3QjhZdlktWVhHdWhhUnVQT0Z2VkhMcHdiYmQ0LTh4UDNHSVNWTkxIM2JCTG9GaURpVG9JZ0lHdlg5RWxhaVhyR2M2dy1ldHpSN2NoSGFFR1dWaGV4R3FlcV9CajVqdE05elJDeGx0ckpDMFlVV1o1ZWM0cFNuZDFvN1hkTjladnU5OHB5NnZ0TEtfSXFpSFJsMXlXTXNmbE1YTFpqeVYyRC10V0g0WU5LMTJQZ2Y0c0dUY1U5RQ?oc=5",
-      "source": "XP Investimentos",
-      "publishedAt": "2026-10-26T00:31:52.000Z",
-      "summary": "Varejo Farma: XP Radar da Indústria Farmacêutica #2; Canetas mais baratas, crescimento mais lento XP Investimentos",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.76,
-      "relevance": 7.4
-    },
-    {
-      "title": "Após vitória de Lula, ações brasileiras despencam no exterior, com queda de até 27%",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnNENy16YjBxa2p0UDBqWnlLU2tsZ2ZjUnc1TDN3eU5LLTZsOUkzY1VfNS1lQ0p2c0NJWktnUzFfNjNzODNvZnZMSzZ3bkZCeXZNdmJLUlZvdlVIV2ZVUDVJTzdlSDJReVlJOWhpYkVkdkhlNlowRWFBY0M2ekdEN3hpNNIBkgFBVV95cUxNQkJXdXFrM080dXBXaHlvNU9IeFBkWEw1UXg2dUxrMjRUWkZKODlteGZ5aTUxVEkxV3c1YzJBTnpoVEpCTWVkSVduT3gzSlRPR1NzYWZEV3U5SWJuTnJyVmUzcVpZZnJtc1hIV2o5d0puS3h6RGJhekh2LW9XSW1zcTVlX3lLcXFNWm9DQ2xBaXYyQQ?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-10-26T10:29:56.000Z",
-      "summary": "Após vitória de Lula, ações brasileiras despencam no exterior, com queda de até 27% O GLOBO",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/durigan-1_9f699c.jpg?w=200",
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.72,
-      "relevance": 5
-    },
-    {
-      "title": "Cinco animes da Netflix que derrubam a lógica das séries de TV – e o motivo não está só no hype",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZYTBLME05eS1WQVlaZXRsa0pPc3MtMnBxcG5ETWJWNU1xV2llMDRKRXVSelBYa2hJNnFrQm1RQ3d3LWNqU1Mzb2gwT1pVbEZtS2N2cHZCdEl4MTBORUpncFd4bjc2QzlRZkZQbjhjUTFWRkFCWWloUm1UQm5zeTg?oc=5",
-      "source": "radiogeekbr.com.br",
-      "publishedAt": "2026-10-26T10:25:55.000Z",
-      "summary": "Cinco animes da Netflix que derrubam a lógica das séries de TV – e o motivo não está só no hype radiogeekbr.com.br",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 4.7,
-      "relevance": 5
-    },
-    {
-      "title": "Bolsas da Europa operam mistas com balanços, petróleo em queda e juros no radar",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS0lsWmEwM3ZOOUE1bDRRQURJWGtlU2NpdUc4WjE0eUsyMDVYX2JZeGF3YThoYVJqTGZ6MzBfeHZoZWVVWUE5Q2t2dllYLVRHZzJxTVRUMFFsTDlFLThBWXh6N0k2aE9pdm4yS0NzMk9SLTEzZjg5WnFiOXJZbGUtZmJVdVQ3eWRySnRGMm1ObklDMkJ6UlBaR21YZnZqZUx6QkU2akkxZUQ0am0wZG9PcE9Wb9IBtwFBVV95cUxOeUxhUWpoSkNBNTRoS0JOS3dlVDFmU1lCbVNabjVHZWcxUE56LXVMU29BS29rQmhUZHRlMlpxTHEwMkp2ZmVaYUgxVk1iQTgxMzlfZG5lN0dDX2VjZmhydjRXdEZONWRLeXUwMGlQalFRMXhfREtmei1nTUZLX2pCcUxKME5LRkhxR01LYS1Vb3RkeFVWb18wREFoOHg4aXNkZmIyeHh0SVpfT1hLMFVjZ3dKNmVWbUU?oc=5",
-      "source": "Folha PE",
-      "publishedAt": "2026-10-26T10:18:00.000Z",
-      "summary": "Bolsas da Europa operam mistas com balanços, petróleo em queda e juros no radar Folha PE",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.68,
-      "relevance": 5
-    },
-    {
-      "title": "124 anos: astro do Real entra para a história sobre as ruínas do Barcelona",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclB0ajZBSkRLQWVMak10bkdncHgtZ2tTNU9YaXJ5cGl3empYNHVGNWxjOTlUVklCNkh2d0tVaWdUREhnR04ydVNOU2gtOG9qYkNpY091VkRTSngySUZYUEl1N2JaU3N4M2dIVVhBNFB1M0EzNVpJeEFfeVlHSEtZT2xBQ3dDVE1Tazl3MlFQVzBiYkpfWm5yMHMzVnZRSVVfbklTSVZtR2MyNFRqQnEwTDBzcjJCTzBGQ0NfamtOUmNhaGh0UkstWVU5UQ?oc=5",
-      "source": "Goal.com",
-      "publishedAt": "2026-10-26T10:13:07.000Z",
-      "summary": "124 anos: astro do Real entra para a história sobre as ruínas do Barcelona Goal.com",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 4.67,
-      "relevance": 5
     }
   ],
   "byTopic": {
     "historia": [
       {
-        "title": "124 anos: astro do Real entra para a história sobre as ruínas do Barcelona",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOclB0ajZBSkRLQWVMak10bkdncHgtZ2tTNU9YaXJ5cGl3empYNHVGNWxjOTlUVklCNkh2d0tVaWdUREhnR04ydVNOU2gtOG9qYkNpY091VkRTSngySUZYUEl1N2JaU3N4M2dIVVhBNFB1M0EzNVpJeEFfeVlHSEtZT2xBQ3dDVE1Tazl3MlFQVzBiYkpfWm5yMHMzVnZRSVVfbklTSVZtR2MyNFRqQnEwTDBzcjJCTzBGQ0NfamtOUmNhaGh0UkstWVU5UQ?oc=5",
-        "source": "Goal.com",
-        "publishedAt": "2026-10-26T10:13:07.000Z",
-        "summary": "124 anos: astro do Real entra para a história sobre as ruínas do Barcelona Goal.com",
+        "title": "Todos os Santos de 2026: visitas e oficinas no Museu Nacional de Arqueologia",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNFcwS1dUS2phcTJPczBwR1piNVRUb08tRFRlcWt3UEZnWjZRc0tMOFExSUxXQjJ0V0VUM01VV2FKZmJsNmg0TUtDNGJMUDlya1hlQUgyXzZqZ0ZVdjNXN1ZpbkRSdENNRk55d3lfdk1Gc3ZRWTFiOXpiU1hvLVBBV2hCQkZFakNZNDJhQTRDeTBlcW1qSkI3VDhXUkVBak1taUJmNnJGdTZyd2hLUXlvcldCM2lEX2FwNG5aSExfUmJSd1h6OWxvM1g4U1dwOHVyNkpKS1ZzM3JCY1JDZ0xB?oc=5",
+        "source": "Sortir à Paris",
+        "publishedAt": "2026-10-26T20:10:37.000Z",
+        "summary": "Todos os Santos de 2026: visitas e oficinas no Museu Nacional de Arqueologia Sortir à Paris",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.67,
-        "relevance": 5
+        "score": 5.56,
+        "relevance": 6
       },
       {
-        "title": "Gia Lai: Uma jornada para aproximar o público do patrimônio histórico ao lado das Torres Gêmeas.",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdTdTWV9Wc0FpMHJEV1RYNXBwWjVRenQ4M2lYQTFfbWhLbndZMlhOekRpd1dZN25ydHpmWHVvMW9mLU5FT2dZTFppZXpLT1ByYUJBYTRmblZ5YlVFZEE3S3JBblFSWHJqNERKdXdDaWJXREpRLWppUW9qNjlKNHp2Nk5xMElpcmd0eHFBd3NBS3o?oc=5",
-        "source": "Vietnam.vn",
-        "publishedAt": "2026-10-26T09:55:21.000Z",
-        "summary": "Gia Lai: Uma jornada para aproximar o público do patrimônio histórico ao lado das Torres Gêmeas. Vietnam.vn",
+        "title": "Arqueólogos desmascaram antigos mitos sobre Maias com cidade em escavação",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeWpRZDhXRjdRNlFDXzlFZzE0TDdGS1YxaUZrR3JVNEYtQy1qZWhwRmN3Y0l0cmRCZnBjd09NUkxNYXVhTXQ3ZHZtUENUMjhBSzdSTThSdXRrbm0xOFlyQXkxRmpiRHI4LXVZWEExWldOR05wWVFPOXUtS1FCZnFnb2pMQVhTQ2RvNThvMGpBRGNzNzVZNUp1MjFMS1B3VnBMODFmWnhJOGlVLTlpRlpuU3llQlpwMU5Pc2xRSzVwNDZBeUJlX25ZZW9lVW5lcDROY0Uw?oc=5",
+        "source": "Aventuras na História",
+        "publishedAt": "2026-10-26T18:03:09.000Z",
+        "summary": "Arqueólogos desmascaram antigos mitos sobre Maias com cidade em escavação Aventuras na História",
         "image": null,
         "topics": [
           "historia"
         ],
         "score": 4.61,
+        "relevance": 5.4
+      },
+      {
+        "title": "Fundada há quase 500 anos, a capital brasileira que mistura patrimônio histórico, praias e um arquipélago urbano",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcjBFNFNrRG1TVnB1TmtWTWJuMmtRNDBHcG5aM2J2WW5DcEFXSUhDZG51MXRHQmVtWncxeGZ2NV9uVlFIczhoSHhSeS1SanFBcDEzUHhqcTNlV1ZYemNtWUNwTENNNE81UmxZUFRRYTdrVm9ZcndOWlhSYy1hUktvVlJxLU54dVVQT2lwMjMtbktKWmZfU0tjV2RxZTlFUVB2LXR5SU5yYVZjRlMxV3M5YTFfQkhCVTh0MkRrMWRLNmUtWkZ4cGJJYS1MaG94OFRQdmQyNVVEZnVHUTN3aFp6Vld6MnVQOVZGRGljTHJB?oc=5",
+        "source": "Correio Braziliense",
+        "publishedAt": "2026-10-26T17:30:00.000Z",
+        "summary": "Fundada há quase 500 anos, a capital brasileira que mistura patrimônio histórico, praias e um arquipélago urbano Correio Braziliense",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 4.18,
         "relevance": 5
       },
       {
-        "title": "4 mudanças revolucionárias: a história completa da revolução de Mourinho que trouxe o Real Madrid de volta à vida",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPaWNfWnJyLUNrUEU4aXRJcE9XQ2l6SmFUejVGZ2t6Wmw4aDhnR1Nxb25NemQ4aVZ6NGJTbUMxT1MwM0RNYjQybG9FN3BETlJmbXhtRWd2cXYyMXpvRkQ4UmRkSTZpWFFWLWxwdDNIdnhpR1lrdHMxRFJHWFo3c0NJUk5RZ0lkbi1iODBMeHpoT29GaEdGZzRtX1ZIcHdWekxkRHJBLUJ0WVRYNHVJUjVqZTBOSUZ5elpWRl9QRmNSckZvaDBYYXZjaXQ4Yl95UEc2RjJGTjViUkdEUHE4Z00yM3pIdTl6UnpTY1laeV9BRGpLaEN2czU0U1dpeGRzWGc?oc=5",
-        "source": "Goal.com",
-        "publishedAt": "2026-10-26T07:29:37.000Z",
-        "summary": "4 mudanças revolucionárias: a história completa da revolução de Mourinho que trouxe o Real Madrid de volta à vida Goal.com",
+        "title": "Muito além das paisagens: 5 destinos brasileiros que preservam a história do país",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVkRmWlNnRm8xWGpMR3hMdnZMbXI1RXJib0hoblljcDc3YS1qRWZYMkY0Q1RkME1jdHRkZFIwRVhfTHRUd0JhbHBVaUx1N3N6TEh0a1A5THhkbFZ1cGYzNXg5S3V6Z3dvZjJSSjZ2cmg2Z2Q3NnJZWnhwQjlfUHAzSFdPYk92Z3FTVFMyVmZuYkI4a1EwTU9pRmpTMmpZdHl4Q3psYXJNUUowSTk4akZOXzdJbDV2NXJzWXNMLTZIZjk4VHYwMXg4cWNJUmM4SFIyNVVHc2lwSHg3VXRUUGN1a2NPYWQwZFNDNTFvMVBFQ1ZwLUdvdmNNbA?oc=5",
+        "source": "GZH",
+        "publishedAt": "2026-10-26T22:04:53.000Z",
+        "summary": "Muito além das paisagens: 5 destinos brasileiros que preservam a história do país GZH",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.2,
-        "relevance": 5
-      },
-      {
-        "title": "Dia de São Ceda: conheça a história do monge e bispo que marcou a fé na Inglaterra",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRmh3cTRHdUhja0F2RjdCQlZZVFNZcGctTDE1d1BtRHFJNlFaTERzYm9weU1KdjZjblE5VXdXZEV2NHEwVTdRUmtLOWFGQmhBQ0RsMW5BN2QxWEZZWk1JU2lfNUhHRnlJbXJGMUJwQ29vVW01WTBKc3VGckxEekNRcGlWZmhrZXZQaEd2aXlVcTRIY0pja2UxX2ZEN1NpdGt5NXhWWkNIYjZqVXhFNG5XeTJHS2tpYUtTQkZ2WGliaC01N2QyLXR0TVZ2RmN3NUxQNTNuME9Md2tyQVNrQjE1a2dmWUJiYVFuLThZNmhsWXI0YzB1OHFvMEpn?oc=5",
-        "source": "Terra",
-        "publishedAt": "2026-10-26T11:37:00.000Z",
-        "summary": "Dia de São Ceda: conheça a história do monge e bispo que marcou a fé na Inglaterra Terra",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.94,
+        "score": 3.99,
         "relevance": 4
       },
       {
-        "title": "Larissa Rosado faz história e quebra tabu de mossoroense na vice-governadoria",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTFB3Vm9MU0J5LVBiOGFxbzJVUVJaamwwamlJNUdvT0daX3U2ZzlaeXIyUTR4SXhXdU53akEyMVFQQm11TC1aUmFRZkNXQlVUbEtQSEZHYXhPdUlfRnNhVC1tNGxUX29CUXE1UHMtd05LbjZleEJvLTh1c0t5YTM1V0J3WEVfY2VlOUhiaHl3Sm16MTRnX2lyeE5yVF9kakJmaTZIWllLZTdySEhYSWZMem1WYURRbHo0dTRDTFJsMWhCcXRxYmhPWA?oc=5",
-        "source": "Tribuna do Norte",
-        "publishedAt": "2026-10-26T11:30:25.000Z",
-        "summary": "Larissa Rosado faz história e quebra tabu de mossoroense na vice-governadoria Tribuna do Norte",
+        "title": "Livro narra história pouca conhecida de artista gaúcha pioneira da tecelagem brasileira",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd0xkNzFlbi1tbnp3SXRNNUhLYmNkdXNEMmdlVUFVVmt1YUk2cTRkbTQ4akcyTkZSb0w5cDdwd1hZcGhqMXI0UjlxamJUN3JycGl4S1dxSFRUcEdaTnBQV0UxeVBiVDk2ajhEYW1sbXA2cExSR1IyUk1Wc2ZqbDVuUTRtM0U5YTctZDZDTnp3U0NSQVMxMTRlaVRwOVd5SmxhRW1hY1h5V2FnNFdHRVZ5QVZRUENhMjBDdGpNN243Rm1hMEhIRXc2Y1Z5SEFrRzVIUnpN?oc=5",
+        "source": "Jornal da Capital",
+        "publishedAt": "2026-10-26T21:51:59.000Z",
+        "summary": "Livro narra história pouca conhecida de artista gaúcha pioneira da tecelagem brasileira Jornal da Capital",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.92,
+        "score": 3.96,
         "relevance": 4
       },
       {
-        "title": "Arqueólogos encontram flauta de 2.800 anos e objeto misterioso de 4.500 anos na antiga Troia",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1haUVyMEZuR1BMZTB3QlJwNHBZWDIxcHU0UElpZTlkLWxhYTI0SWtwTzdET1dzSGE3dGZmRUhqb2h3WC03TVYyZ1NXN2kzRUI0ZzAwcGQ0X0M2MFVRc252UUhMR3ViM3J1ajQydkJ3M1VxU0tFcnJTWE5ESQ?oc=5",
-        "source": "Jornal da Fronteira",
-        "publishedAt": "2026-10-26T11:24:56.000Z",
-        "summary": "Arqueólogos encontram flauta de 2.800 anos e objeto misterioso de 4.500 anos na antiga Troia Jornal da Fronteira",
+        "title": "Filme da Apple TV resgata história esquecida sobre a conquista do Everest",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb3hzMTZ1dHhiU1g2dWFaVWJjM0dwN3VOYUdTa1piNDlJYjFaSUNWZWVCcDFmamxUVDBYTlpXREZMUV9jRW1xSHZxUkpVd2RVdjJwZW1LUlo4WXNxUHViRXZSYXRaSmxTakFpRGh1THpuRENDRjFKRU5fSGVBUXZ1ZU1ZbHlDRVFCNS15N3FlSDNaM2stZHZkeWEyZDBCRkJrY21JM1ZRdXZRVEpaM09LOWdXTGswMlJVcjd3aHd3NC02U2s?oc=5",
+        "source": "O POVO",
+        "publishedAt": "2026-10-26T21:48:26.000Z",
+        "summary": "Filme da Apple TV resgata história esquecida sobre a conquista do Everest O POVO",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.91,
+        "score": 3.95,
         "relevance": 4
       }
     ],
     "geopolitica": [
       {
-        "title": "‘O líder político mais influente da América Latina freia avanço da direita’: imprensa mundial repercute reeleição de Lula",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/26/repercute-imprensa-internacional-reeleicao-lula-dia-seguinte.ghtml",
+        "title": "O que reação de Trump à vitória de Lula diz sobre relação entre Brasil e EUA",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTWmpzcV9FeGJsMTRTQUJYQ3ViWF9WOVdtX0xWVjJrb0RvNklMWnBMaU96cGl1c0NKSjdjT2FaMUR0WHBKUDhpT3c3Z1BiNURQT2QyaFB1UTM1MEZPQ0k4TDVDaw?oc=5",
+        "source": "BBC",
+        "publishedAt": "2026-10-26T20:36:20.000Z",
+        "summary": "O que reação de Trump à vitória de Lula diz sobre relação entre Brasil e EUA BBC",
+        "image": "https://s2-g1.glbimg.com/LciAPHOno-lcJ3C4o5Lz0yWRHwI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/0/f1naBxRSuc7RKJBMZgQw/design-sem-nome-2026-10-26t101159.440.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 8.29,
+        "relevance": 8.8
+      },
+      {
+        "title": "Da 'ótima química' ao tarifaço: relembre a relação de vaivém entre Trump e Lula",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/26/relembre-a-relacao-entre-trump-e-lula.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-26T20:02:22.000Z",
+        "summary": "ONU divulga foto de Trump assistindo a discurso de Lula na Assembleia Geral de 2025 Reprodução O presidente dos EUA, Donald Trump, comentou nesta segunda-feira (26) a reeleição de Lula. Em declaração a jornalistas, o republicano afirmou que",
+        "image": "https://s2-g1.glbimg.com/_runXx14X0tAfMiZVSBoERBd9YA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/B/5/bItx0BQAK8BpxBYGiccQ/trumplula1920.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 6.82,
+        "relevance": 7.4
+      },
+      {
+        "title": "EUA enviam mais de 300 soldados à Colômbia para treinamentos de combate ao narcotráfico",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/26/eua-enviam-mais-de-300-soldados-a-colombia-para-treinamentos-de-combate-ao-narcotrafico.ghtml",
         "source": "G1 Mundo",
-        "publishedAt": "2026-10-26T10:59:34.000Z",
-        "summary": "Lula na avenida Paulista. Reprodução/X A imprensa mundial repercutiu nesta segunda-feira (26) a reeleição do presidente Lula (PT) no dia seguinte ao pleito. Os jornais destacaram o aspecto surpreendente da virada inédita e projetam o panora",
-        "image": "https://s2-g1.glbimg.com/26EkLedZ1B4gr8qCrrqk2SmyDMY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/b/MtXwLvR8AI7joMK40LtQ/design-sem-nome-23-.png",
+        "publishedAt": "2026-10-26T16:29:20.000Z",
+        "summary": "Governo Trump vai aumentar presença militar na América Latina em nova política externa Mais de 300 soldados dos Estados Unidos chegarão à Colômbia a partir desta terça-feira (27) para treinamentos conjuntos de combate ao narcotráfico. O anú",
+        "image": "https://s2-g1.glbimg.com/O8iIGQ75r0WM2C4tqqZnR5LH99Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/2/7/i9MmCrTMObRAInhFIbpA/afp-20251202-86vu63x-v1-midres-panamausdrill.jpg",
         "topics": [
           "geopolitica"
         ],
-        "score": 4.81,
-        "relevance": 5
+        "score": 5.79,
+        "relevance": 7.2
       },
       {
-        "title": "Diplomacia de Teerão desvaloriza eleições israelitas",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaE01V3E4WWkwanNNYm1iVG9mN3ZMWlNnMUNpOVMyWlFxd0NWa0pEYy1NdUMtUHQzcVlFRFBKdkpiVXhkazZ1Q2U4b3NqRnZVOE5YMmtuQnFuZUd5VkFVT1QwSEVnd2ducUZOaDYyRU9Wc2RlVnlHYmdVMTcyWGtLR2NWMjE5cXFtYTFOaXZlUzdCYi1fZGlaZ1BqSWNMb25lbzJsMVc2dGhIbEZMT3Q5YWpmdTNtc2QwTE9ncUZaLXVpYUpfRzM0?oc=5",
-        "source": "Correio da Manhã",
-        "publishedAt": "2026-10-26T10:00:00.000Z",
-        "summary": "Diplomacia de Teerão desvaloriza eleições israelitas Correio da Manhã",
-        "image": null,
+        "title": "Após mínima histórica, aprovação de Trump sobe 1% e chega a 32% antes das eleições nos EUA",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/26/aprovacao-de-trump-sobe-1percent-e-chega-a-32percent-antes-das-eleicoes-nos-eua.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-26T20:57:33.000Z",
+        "summary": "Sem apresentar provas, Trump fala de 'eleição fraudada' no Brasil e que gosta de Lula A aprovação do presidente dos Estados Unidos, Donald Trump, subiu para 32%, um ponto percentual acima do menor nível registrado na semana anterior, segund",
+        "image": "https://s2-g1.glbimg.com/lCikJRw_jP_fjZQxwPlAUPgp66c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/5/12FQBMQR6RlruMuYskEA/design-sem-nome-2026-10-16t061335.673.jpg",
         "topics": [
           "geopolitica"
         ],
-        "score": 4.63,
-        "relevance": 5
+        "score": 4.97,
+        "relevance": 5.2
       },
       {
-        "title": "Geopolítica prevalece sobre preço do petróleo",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaGhsZmwwRXJLS19xOTNnWnY0VTAtajdnaThmRjlDSGFkQXlCOFhRUkMxdXg5TjhNMW43RENQWWlINjhyZ2dVbG9ZMXVjYms4QUNqbjZYNjhjUW5wZnBmUUdRb0RCTjk0M3NMTHg5MU5PWnMxdjYycElEei1xclR3RV9IMGd3N2FZYWpwQTktaXowanN5UmVFN2tXZ2ZDZ3Q5NjhmbEN30gG0AUFVX3lxTFBPQVc2SC0wU3ZkRmUxbF90U3ZtcVlHNnFBcV9TZkZTV1JWLXNQV2xYVkRyU2liQW1GMmJtTjZIOWhpaVV2VVJfN3BMZG9scGVnV0daZTRlYlRROE4yMDU4cHRTWjA3R1RGOHlnY1JZQW9fT25qbTFiQmlVT1lpTU8tbmpOUGo4U1F0a3ppQ1ZhdnlZdzBXUVFQVXowcHpoRTdkd204MkNtUzhlUHRlcUNubDdUcA?oc=5",
-        "source": "Valor Econômico",
-        "publishedAt": "2026-10-26T08:00:00.000Z",
-        "summary": "Geopolítica prevalece sobre preço do petróleo Valor Econômico",
-        "image": null,
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 4.28,
-        "relevance": 5
-      },
-      {
-        "title": "Curso de Geopolítica da ECEME conecta mundo e desafios do Brasil",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaTh6VUdCQ19WSWYtQmFRMTVqNFUtcG96bFU3NnY5eXlGcEdYOEozZWdRR25HMmllOHBWS2lrUGdBWGNtYkVPY1Nic3Z1U0hIVVdzS09INHl0ZGNtQ29zZVU3SEV3R3ZOT21NZzh5Q1o2eEJleGNjeGktcVJCNzZ1SjZzX3pXZmxsWHk5TVJSdmhzX2FIR3RRbDB6TTJmZw?oc=5",
-        "source": "Defesa em Foco",
-        "publishedAt": "2026-10-26T11:00:06.000Z",
-        "summary": "Curso de Geopolítica da ECEME conecta mundo e desafios do Brasil Defesa em Foco",
-        "image": null,
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 4.23,
-        "relevance": 4.4
-      },
-      {
-        "title": "Movimento liderado por estudantes derrota partido governista em eleição na Sérvia",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/26/partido-governista-da-servia-perde-eleicao-para-movimento-liderado-por-estudantes.ghtml",
+        "title": "Presidente do México faz o L para comemorar vitória de Lula; VÍDEO",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/26/presidente-do-mexico-faz-o-l-para-comemorar-vitoria-de-lula-sopro-de-esperanca.ghtml",
         "source": "G1 Mundo",
-        "publishedAt": "2026-10-26T08:49:52.000Z",
-        "summary": "O partido governista da Sérvia perdeu as eleições legislativas antecipadas deste domingo (25) para um movimento de protesto liderado por estudantes Reprodução/TV Globo O partido governista da Sérvia perdeu as eleições legislativas antecipad",
-        "image": "https://s2-g1.glbimg.com/QBWNCxnvPgcd0oxNKMPLSf5En70=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/w/U8IUy4RNCdISO52Qlimg/afp-20261026-d4eg2rc-v1-midres-serbiapoliticsvoteelection.jpg",
+        "publishedAt": "2026-10-26T17:36:46.000Z",
+        "summary": "Presidente do México comemora vitória de Lula e faz L com as mãos A presidente do México, Claudia Sheinbaum, comemorou publicamente, nesta segunda-feira (26), a vitória do presidente brasileiro, Luiz Inácio Lula da Silva, no segundo turno d",
+        "image": "https://s2-g1.glbimg.com/BCLNFdAKLv7KBrZcrz7S5Y6QL3c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/B/oMnD0TTUiSF1iBPqAKqQ/novo-projeto-7-.jpg",
         "topics": [
           "geopolitica"
         ],
-        "score": 3.72,
-        "relevance": 4.2
+        "score": 4.53,
+        "relevance": 5.4
       },
       {
-        "title": "Restrição ao transporte de armas por CACs termina nesta 2ª",
-        "link": "https://www.poder360.com.br/poder-eleicoes-2026/restricao-ao-transporte-de-armas-por-cacs-termina-nesta-2a/",
-        "source": "\n\t\t\t\t\tPoder360 · PODER360\n\t\t\t\t",
-        "publishedAt": "2026-10-26T09:00:56.000Z",
-        "summary": "Justiça Eleitoral proíbe o trânsito de armamentos e munições nas 24 horas antes e depois do 2º turno das eleições",
-        "image": null,
+        "title": "Sem apresentar provas, Trump diz que eleição no Brasil 'pareceu fraudada' e afirma que 'gosta do Lula'",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/26/trump-fala-sobre-eleicao-no-brasil-pareceu-mais-uma-eleicao-fraudada.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-10-26T19:36:06.000Z",
+        "summary": "Sem apresentar provas, Trump fala de ‘eleição fraudulenta’ no Brasil e que gosta de Lula O presidente dos Estados Unidos, Donald Trump, disse nesta segunda-feira (26) que a eleição no Brasil \"pareceu mais uma eleição fraudada\", sem apresent",
+        "image": "https://s2-g1.glbimg.com/Tc7e2Z3ovwwoBonPiV7cqyZkES4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/n/0ShdjyTk2CEV7ls3BywA/whatsapp-image-2026-05-07-at-15.21.15.jpeg",
         "topics": [
           "geopolitica"
         ],
-        "score": 3.56,
-        "relevance": 4
+        "score": 4.53,
+        "relevance": 5
       }
     ],
     "negocios": [
+      {
+        "title": "Ibovespa desaba após reeleição de Lula e ações recuam até 58%; veja as maiores quedas",
+        "link": "https://g1.globo.com/economia/noticia/2026/10/26/ibovespa-desaba-reeleicao-lula-acoes-recuam.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-26T20:05:56.000Z",
+        "summary": "Bolsa despenca 13% após vitória de Lula A bolsa brasileira teve um pregão de forte turbulência nesta segunda-feira (26), após a reeleição de Luiz Inácio Lula da Silva (PT). O Ibovespa, principal índice da B3, caiu mais de 10% nos primeiros ",
+        "image": "https://s2-g1.glbimg.com/2Crsre1uF0-YpxmeG2U1ZOLC_K0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/1/U/AP4jBQQl2mjPFDvoThGA/2023-01-20t165959z-1-lynxmpej0j0o4-rtroptp-4-brazil-economy.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 9.06,
+        "relevance": 9.8
+      },
+      {
+        "title": "Circuit breaker é acionado pela primeira vez desde a pandemia de Covid-19; relembre todas as vezes em que a Bolsa parou",
+        "link": "https://g1.globo.com/economia/noticia/2026/10/26/circuit-breaker-e-acionado-pela-primeira-vez-desde-a-pandemia-de-covid-19-relembre-todas-as-vezes-em-que-a-bolsa-parou.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-26T20:54:28.000Z",
+        "summary": "Circuit breaker: entenda o que é a suspensão das negociações quando a bolsa despenca Luiz Inácio Lula da Silva (PT) foi reeleito presidente da República neste domingo (25) e governará o Brasil por mais quatro anos. Com a vitória do petista ",
+        "image": "https://s2-g1.glbimg.com/46C4or-4GqMftg6KPOilEINCu5o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/C/c/FwsIXETS6K61xm99LqYA/000-1pl7t0.jpg",
+        "topics": [
+          "negocios",
+          "medicina"
+        ],
+        "score": 8.96,
+        "relevance": 9.4
+      },
       {
         "title": "PIB cresceu, desemprego caiu, mas juros e dívidas pesaram: veja o balanço da economia de Lula 3",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSFBka1BvUDV4TlVfVzFHYXlsVk1CRUxjOTh2dVNqY2FzLWE0U3lDWWNyREk5RFF1bEdtcWZFUkVVMmVsNGtsblRCc1VFbFJUU2l5dEJ3c18yXzhyeEt6Q1UyN3FGa2c2UTFoQjBBcFRNQzVYdHBsX01XUGFyWkN4eW5rWUcyRjk5YkVKbU5vZG1zWFZocjVMcUx4QVRLR3VGbkhFdGZ6VVVUWmh4eWxDZXVFV0hFOW53a0J0N1VOVFh3X0V0NzhFSm5UNFpZaExoaFB2czI5VE5TWHpwcU5VSdIB7wFBVV95cUxQMndXeUpySS1WbDg5SHNSa0hxaFQ0cEgybXZ6ZktSd0kwS1pQajJBQTJLYjVlXzhpX19qc1JlbnZ3YVJuQjlKV3BYU1U4OEpmamZqUkFueGs4UzhZZTNvTWlaSE80S2l5UkduRjNUc2VmbDc0R0xsOVowTlJzcmhNYzVFZmtIRTNuS19JM3hpRkk1WVg3aC1TOE91VFJzc0VGUkRKQVNMMWcxSm5UaG10OXdKb3MyMHk2dE1VbzRTdWUxVm8wT2I5ZVA5VDVneElUaUg2VnI5Zmt3bnlya2ZNUHFkNDNVNEdLcndnRHFIMA?oc=5",
@@ -836,317 +868,289 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 12.58,
+        "score": 8.51,
         "relevance": 17.8
       },
       {
-        "title": "Mercado financeiro baixa estimativa de inflação e de alta do PIB neste ano",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZmdFek1aeHliTW1SUHdUVzhkcDl1X1RVbVNqWmprSVVOcVppZ1dZS2I3T3JhTmI2SnVfZ2dnUGR6cVVMUGJHQmxkTHVsM0NPQlZDbm1kc1FkX0I4SG9mSmt4cnhMRXBIYlVLNm1adlU2bUdEMVFBakJOX0pNbnI1dVFaV2ZhYWJJV3BWLVJURU1adUUyakY4ZDdwZjBIcGQyOXFSOVJveXdCWlZGM1ZoNVd3Z3RwRHlUWnp6aHNOSl9za1Z0eFFPV9IB1wFBVV95cUxNWXBFQjdNZnQzdDdfTWplQVltWThsb3BvZUxBYXVTa2hFUTNnWWR2MXRoRXR1ai1zMm54emJmRWZna29mSHA5UTdCMTJFNE1Kc0xVS3hxMllzVXc4cm5uaGNNQXp6OE1BRm1BdlQ4VGswSktHbGNpY21ZSEcwc1pGMjFCaUdQZkUyUURPVzNqVXBoaWVCMnN0dmZkTUNWamhNM3gzcTJyYlhEN1ZYUENZYUp0Y2gzVlhfaUZfTmVFRG85dE8ydkhHWjVveDVBZ2dvUE5pMllCSQ?oc=5",
+        "title": "Ibovespa cai mais de 13% após 'circuit breaker' e dólar fecha a R$ 5,40",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aYXdJdG9WVmczX0J2U2tzLS1fUHUzUUxQbl9TNjZBcDRzeWZNWWdVV3JsYlBYNFRiLUI3OE8ybmpwc0hQai1fSUxuQzgzS2V6d195SU9fbVdXRlFpbUNManFFR3dlVmFxMTNydDc0UVBIOXVDRFd5RdIBhwFBVV95cUxQeG1DclA5TEV1azFWc1NTSUotM3F0MTd3dzcwU0xfYUFtWTJ3ejc1eGdUb3ZzdEhrME81aHVSVWpvLWNTTDVEenlQWk95UTVuZDRubGF3bDIzLWFQZFpjUm5LTG9vRGNFMDFaY25FMExlazFYRThvOHZVVjgzZGRLNWVxRkp0cHc?oc=5",
         "source": "G1",
-        "publishedAt": "2026-10-26T11:34:42.000Z",
-        "summary": "Mercado financeiro baixa estimativa de inflação e de alta do PIB neste ano G1",
-        "image": null,
+        "publishedAt": "2026-10-26T12:00:14.000Z",
+        "summary": "Ibovespa cai mais de 13% após 'circuit breaker' e dólar fecha a R$ 5,40 G1",
+        "image": "https://s2-g1.glbimg.com/1YXVQdJYbeM_282ghL10_02ayNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/0/TX8XW2RP6Go2X8PRFz5A/globo-canal-4-20260209-2000-frame-80048.jpeg",
         "topics": [
           "negocios",
           "geopolitica"
         ],
-        "score": 10.23,
-        "relevance": 10.4
+        "score": 7.98,
+        "relevance": 11.8
       },
       {
-        "title": "Tensão no mercado com vitória de Lula, dólar, Ibovespa, mais agenda e pílulas da economia 26.10",
-        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQNl93ZVg3SE82LUw4V29XUWJIelZnaEMwdDZvSHM3aGluSVVtaXh0aEZ4Sl9XQ1IyWXVPeXZRdVE1eHZsZHJJb1JVTU0zcm13YVlZdzhZUWVQcEl4TUpZdG13T2RuQWlMNUZKZnh5dmNCVjlQZVRDMFFVR2QxWEdOZTBLOEsyQkJUbFVTOGJJTU5UWGNPV1FJVHhYazVwNTlGS0NxTllVcTJTeFBtTURVWUJqYkdjaU1VdG1XalJPZGplS3Y2Vk5aYTlpRFNuYWxBU0Z0aWwwbjdfMkJGT1VBSURrR0VfVHNTbmdZeXJ6S0p6RHdjSmZ6Y3U1YmQ2emxvV2JySDFoaGlyR0h3S3hialJ1X3VKTkdxWnhrQWY2VmE?oc=5",
-        "source": "GZH",
-        "publishedAt": "2026-10-26T10:41:06.000Z",
-        "summary": "Tensão no mercado com vitória de Lula, dólar, Ibovespa, mais agenda e pílulas da economia 26.10 GZH",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 7.6,
-        "relevance": 8
-      },
-      {
-        "title": "O que Lula promete para o seu bolso? Veja as propostas para trabalhadores, aposentados e empresários",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONjJDOWVtX0hHZ0Y5U2R1MEJOLWpjM0pVbm0weDNXUWJVRlBJeGN5QkQ3Y3owY2diLU9lM2NRMmk5UEJ4S2x0NFI3UHF3X3AzczdPdGZUY0duUDJNeFhUWWdKa1VFbE83b2RNekNEeml3aHdPMFlFRFZXTVlFOWNJOHFNdnpwVGV6YTRWVFJB0gGcAUFVX3lxTE5tdHM5VzhGNThfR2RhZHZBRmVibzNLY1ozYU9QYi1XNlgxRXZ4d1V5OTR3OTJaZHB3bDBKM0JsRzNaZEF4a3NTWEdNSkRQMUZlVDlLS3hCYktidWE4eV9MZ0NBNkFaTTdnVEZGbS00OFFocnN3aVZHMm9CYmotRWgzNkVOaHJiaVFvbkpZQkMzSmNiOXUwUERnSVE4Ng?oc=5",
+        "title": "Por que as eleições mexem tanto com dólar e bolsa?",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWItaUZBek12STFGaWVRR0t4Rk42V2J1QV9BbnN6YWpSNGVqSm9UYTQwUGVNVXFJVUFCYm5JRnplWDcyTjRfZGVudWpTdFRNdFVSQlltUnd1V25FUEExTzNzVEgtcWdNSzhNc3VOTFRLNFl0aXNQbXdBazhibmZyaGdqM1BHWXNKclZGaTlxM094Y3N1S2NPLURRbXJQMHdLQXhYR2R3VdIBtgFBVV95cUxPOWQ0WWZ4YWlQWnVmWnNQUnJFZjM1U1VTZmlHOTk5YlZqMWZhbzFBTl84VUxWU1ptdHhJN2xjM1YtWGxLSEJrS0Z1SDV4WnVvRkNNdVBBc0tuYWIxUWJldi13X2ZTQ0l6LTQ2c0VvTWNqM2gydzVBbHkwUWJRRTRzZjlBMTZWLTRFT3ZBU0xYNVMyME5hNC11X1lCWXZ4eXF6cUh0ZmVodjVDa0F6VWZuMjR4bF9KUQ?oc=5",
         "source": "G1",
-        "publishedAt": "2026-10-26T03:00:00.000Z",
-        "summary": "O que Lula promete para o seu bolso? Veja as propostas para trabalhadores, aposentados e empresários G1",
-        "image": "https://s2-g1.glbimg.com/oPTwQ_a0s84AWCEXUyjc7W96OCc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/R/XJoQ9ZS6KHEQTVywyGiQ/2026-10-16t181403z-911019231-rc2h4oaa0wdw-rtrmadp-3-brazil-election-lula.jpg",
-        "topics": [
-          "negocios",
-          "medicina"
-        ],
-        "score": 7.35,
-        "relevance": 10.4
-      },
-      {
-        "title": "Reação no Exterior antecipa dia turbulento para dólar, juros e bolsa de valores",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNWUpqUEVIdjlkM2lkWHcxUXYxTEpiSklJQkNzVzhYUDREX3N6NFlKRUw3R3BaZ01XQWRsZ0xTci03ZjIwWEJZWDN2dDhGSHpaMEx0SmkxUks0Y2JCQ3pjcmxJTUVEUW1VT1FzQWdMR3BxQ1V1YVdDSGYySEZkRXQ3bi1RYlVGZTBQcTMtcTVKRkdlSC1mNm5IU3NycmQxT3VUeTJydEt6cjM4OUo5TmV5LWJDRzh3SVY1cTVvbEZOOFIzdzNHdVV3XzVaRU5PRU5FaTJMNlJfZWVqdThUOXJoOVBBRGlzX2VVT3JtU2ktc0VDT0pFWGRZdTFsdFBBSzg2T2NZUGJyVEp1NWh5TWc?oc=5",
-        "source": "GZH",
-        "publishedAt": "2026-10-26T11:35:57.000Z",
-        "summary": "Reação no Exterior antecipa dia turbulento para dólar, juros e bolsa de valores GZH",
-        "image": null,
+        "publishedAt": "2026-10-26T13:05:31.000Z",
+        "summary": "Por que as eleições mexem tanto com dólar e bolsa? G1",
+        "image": "https://s2-g1.glbimg.com/rrdR1q2VSIpKPP0wp5ZxBuaAw3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/a/fx7zANQYuaiUt6Thko1g/globo-canal-4-20260220-2000-frame-67970.jpeg",
         "topics": [
           "negocios"
         ],
-        "score": 6.89,
-        "relevance": 7
+        "score": 7.48,
+        "relevance": 10.6
       },
       {
-        "title": "Focus: mercado reduz projeções para dólar e PIB de 2026 e vê Selic a 11,75% em 2027",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yOE5SbjdqVUNkNjFJNmlOT2RqbmlCODJ6QzlEelVYeEQwcFlXNmdSMW1tYXNzVUdZNUZzbWtNSkNrRmpPRlJqekpzVnE1OWZLQm5TaTE2aXlnclZ1ZjA1Z2x3c0RNbUhkRTNham1Vck1vMDJXUnNES211UdIBgAFBVV95cUxQYmpXS2hVMS03VWlFRm1lc3ZsRkp3ZEhBNHZRYzlEQVNjcTlBU25QcG5wcXRSakFYLTRUUnZxT25RUjZCQ1RmVU5vS242UDBVblFPWFI2UWxvMVdoODV3RENKWGZpS0FobnE5czBlUERvQzhjNF9DQlJiQU13QUpQQQ?oc=5",
-        "source": "InfoMoney",
-        "publishedAt": "2026-10-26T11:31:59.000Z",
-        "summary": "Focus: mercado reduz projeções para dólar e PIB de 2026 e vê Selic a 11,75% em 2027 InfoMoney",
-        "image": null,
+        "title": "Aplicativos de bancos e corretoras têm instabilidade em meio à turbulência nos mercados",
+        "link": "https://g1.globo.com/economia/noticia/2026/10/26/corretoras-instabilidade.ghtml",
+        "source": "G1 Economia",
+        "publishedAt": "2026-10-26T14:06:04.000Z",
+        "summary": "Oscilações do mercado. Jornal Nacional/ Reprodução Aplicativos de diversos bancos e corretoras apresentavam instabilidade nesta segunda-feira (26), em meio à forte volatilidade nos mercados após a vitória de Luiz Inácio Lula da Silva (PT) n",
+        "image": "https://s2-g1.glbimg.com/rrdR1q2VSIpKPP0wp5ZxBuaAw3s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Q/a/fx7zANQYuaiUt6Thko1g/globo-canal-4-20260220-2000-frame-67970.jpeg",
         "topics": [
           "negocios"
         ],
-        "score": 6.87,
-        "relevance": 7
+        "score": 7.34,
+        "relevance": 10
       }
     ],
     "filosofia": [
       {
-        "title": "A citação do dia de Epicteto: \"Lembre-se de que você é apenas um ator em uma peça, cujo papel é determinado pelo Diretor.\"",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSVVtZ1g3RnYtZmJhOXBCZE52cmNQNzcxdEtYRF81VEh5MUNVOHdJc2tEaVhvNXc0b0FjNFg1bC1BWmJYd2JvNkliNWFpTWNoZHhHQnc1bjFrRjNhTGdpSzhmM2QwdC03dkZpbGl4Y052a0JFd2NMMU1adUIxWFdfeUp5R3U1VWRZTHR3MnRIZ0Y3MnhaV0pBd3ROTVlYbHlmbkxjYi1EMW5zTkhBaWd1OFR5dlNROTN3ODE4LWxxZFdtY2J2cG5naHpjeThBb0VIS01jVGZBdDNJdU9fSHZyajdoaV95WDZ1RUd1ZE1ZVGk1eU9ueERZ?oc=5",
+        "title": "EAD do Sesc Digital oferece curso \"Pensamento Africano\" com Katiúscia Ribeiro",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdmw5NnFUQnI0YWlVQmY4UGdsa010MFY5LTZmOFRnQVdDaktkdHRGQkotTjVzV3NWR3h3bklZMU5TN3NVT0cwZGdRMXFuQ1NGcWhqVFpZYmFTZDBPX1NOVER1MkR4UDlMQ0dIZnJWam9ldXM3RWR6R0VUckFOdlEtY01JcDcyQXRYSVoxZEx6bVVvam90RHd1bTFFRVQyMDB1cnBScVFRZEZyNjJ1RC1saQ?oc=5",
+        "source": "Sesc São Paulo",
+        "publishedAt": "2026-10-26T20:21:58.000Z",
+        "summary": "EAD do Sesc Digital oferece curso \"Pensamento Africano\" com Katiúscia Ribeiro Sesc São Paulo",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.73,
+        "relevance": 4
+      },
+      {
+        "title": "Sartre e o existencialismo, em reflexão sobre escolhas: “O homem está condenado a ser livre” — por que não decidir também é uma decisão",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQS2Y5X01GclVvUDBiemY3UGtURHZXbG5SSHVEbXhxbG02d1VUczdRYUlpd2NSRnlwQkFqV2hNSENqQWJyT1B2Nlh4NjVSclNlbEJEUExrUl84b0xMYjRLV3ZIeUg4M0lJc2JiOHo5VU5OTDVYellaQXc2ZkJTZ1R6X25UMUFFNV9HcHJOdXg3cm9Ybmd2dnhLNmliN3M4a0RQdWVxeDc4eU1yMTRxVUFDU1dzaWVfWWpYZ3lRYlhqcXlzdDdEd3RqeXo2eDZFSTJ3UGtWOWhIZGQzWDlUS1VuU0dlOE5wSTI4aV9qNzZCMnJ4Zzh3MmI0bDM2MkMtLUR2YkdOaDlfUzNrZmpFQ01R?oc=5",
+        "source": "Olhar Digital",
+        "publishedAt": "2026-10-26T11:37:00.000Z",
+        "summary": "Sartre e o existencialismo, em reflexão sobre escolhas: “O homem está condenado a ser livre” — por que não decidir também é uma decisão Olhar Digital",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.33,
+        "relevance": 5
+      },
+      {
+        "title": "Semana Filosófica da FATEO 2026 promove reflexão sobre o pensamento de Karol Wojtyla e os desafios da contemporaneidade – Arquidiocese de Brasília",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNTRPaERHNWxMektUc19valRhb1AycUF2dXZFdlZ5eFlac1YwLWpvelRaVGluMmhLTlQ5cDZWaENkdnZ4U0lqcTl3d1JIWExXLTlrekhxcFBjcWcydzB4cVdURWF6WHBsR2RCVEFndTlrT0xwWHNGRktpbUhkeXJyVWZoaVBVUkNSbU9XVkh6OUVDbmVJTTB5a1Bva0xDMTlxYzhJTC1VaWt3a3BCd2dXWGxTZzc5bVJuVWlDR0g4QW12el9tRi1vU2gwRzQ1amh1cnBEeTF6ZjRmTkRVaXk1Wg?oc=5",
+        "source": "Arquidiocese de Brasília",
+        "publishedAt": "2026-10-26T15:42:00.000Z",
+        "summary": "Semana Filosófica da FATEO 2026 promove reflexão sobre o pensamento de Karol Wojtyla e os desafios da contemporaneidade – Arquidiocese de Brasília Arquidiocese de Brasília",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.12,
+        "relevance": 4
+      },
+      {
+        "title": "Noite filosófica reúne bate-papo inspirado em Platão, gastronomia e degustação de vinhos",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kQXZSdkw2YXAwWFJrOTJMampyUUxycFlMcW1fcU8zZThyRmN2SWVBcHlpMkpHdkF6VXJPWmQ5NjM4ODlwMC1RQnUyV00yMWhwa185eXlaTQ?oc=5",
+        "source": "Social Bauru",
+        "publishedAt": "2026-10-26T13:05:32.000Z",
+        "summary": "Noite filosófica reúne bate-papo inspirado em Platão, gastronomia e degustação de vinhos Social Bauru",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 2.82,
+        "relevance": 4
+      },
+      {
+        "title": "A frase de George Santayana sobre a história: \"Aqueles que não conseguem lembrar o passado estão condenados a repeti-lo.\"",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQnB2WExvc1hPYjRjcmhDZ01FVmwtQzFKQl9LVEZQSnYtcF9BWlVkTTVkM05OQlNvdlpWQXFLYW9zeGJVZ2toRFpEcFhuTkJGd20wY05vMTcxMm9Rc1lJVVdQVjlZRW41a2dHWmJ4cWRVS0I1OVBpWjA5UHlIc0RtX2gtdlU0U21HSUhUV1AyWTVkd01wN2tfOGV3VHdkeWc5SHNqQWZNYThNYzczSTB4QW5Ub1hzQmVaWGd4N1g3MHR6WFFqcDVkMFc2Rl82dS13UWlNYjhmOHpFRXJTbWNmbGxyQ0JjMjY3MWJyRlNpNDRYeEVycy1j?oc=5",
         "source": "Correio Braziliense",
-        "publishedAt": "2026-10-26T05:10:00.000Z",
-        "summary": "A citação do dia de Epicteto: \"Lembre-se de que você é apenas um ator em uma peça, cujo papel é determinado pelo Diretor.\" Correio Braziliense",
+        "publishedAt": "2026-10-26T20:25:00.000Z",
+        "summary": "A frase de George Santayana sobre a história: \"Aqueles que não conseguem lembrar o passado estão condenados a repeti-lo.\" Correio Braziliense",
         "image": null,
         "topics": [
-          "filosofia",
-          "cinema"
-        ],
-        "score": 2.3,
-        "relevance": 3
-      },
-      {
-        "title": "Filosofia da crítica literária e seus problemas - XVII",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZHNmNDA1V21fQnNtMVJTUzV5UGVaRk5LcFpUYjY2bDZlaXZnVTdteGxoYlM4bmJ0R2luN1RRVWpLdW1NUUtxRUo5bnNBOTJHdzF6TExkUzBIdmZrbXJSbXpMRXRqaHJOMzU1YTFhaGN6Wlp0Y3p3UTU1RElKX3VWcTBBQnFXUjBZWk94aTlkR2lTLUQzNkxRS0NGQnJRXzNZNUxFX3djdUhWUFVUUnZkbC1lMElYb0IzNEZhT0M1M2ZXSkdx?oc=5",
-        "source": "Jornal de Angola",
-        "publishedAt": "2026-10-25T15:15:34.000Z",
-        "summary": "Filosofia da crítica literária e seus problemas - XVII Jornal de Angola",
-        "image": null,
-        "topics": [
+          "historia",
           "filosofia"
         ],
-        "score": 1.8,
+        "score": 3.74,
         "relevance": 4
       },
       {
-        "title": "Frase do dia do Estoicismo: 'Não explique a sua filosofia. Incorpore-a' - a reflexão de Epicteto que ajuda a parar de viver para mostrar pros outros nas redes sociais",
-        "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNTkFVSVpJRjRXTVdJdmJCUFE0em9ieWJwUlItYjVxZHp0dW5ZamplYzVOX05YUXN5dVdPa3hCXzFHcjdsSTV0cnBkaHFYUEZLWENKdzBhdm1fcV9Kb1h0NVJxdmtfWVJnc3BjQ2hjVWxNSlJWUU80YmtHSTNwMi1pdGNJUTE5NFkyREVYZW14RHUxN3JjNWtNT1RVNVB5WHg4N1BNTXlxeHZPRHo5ekJTVEpySkR1b2tuVGhtR3p2dHBXTWJoZXo5eTJ3UENjUlhxcnRkYkVBeldBLWRzQl9KTUEzUTRFYWl3RHUyZTFNSjZvd2w0b0ZUdVA4TW5NTUpKWkQ4UWhVbzNCd2tYTGxyMlpvb2JkMGlGTDQyd3V6cjlRdGo5TlA5Q24zU015NG5YNVJV?oc=5",
-        "source": "Jornal Correio",
-        "publishedAt": "2026-10-25T04:00:00.000Z",
-        "summary": "Frase do dia do Estoicismo: 'Não explique a sua filosofia. Incorpore-a' - a reflexão de Epicteto que ajuda a parar de viver para mostrar pros outros nas redes sociais Jornal Correio",
+        "title": "Simpósio de filosofia: Unioeste reúne pesquisadores do Brasil e da Argentina",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pWnI2YmVRWnhnTDJMRXhVT2lFSTdhWmFjbzJrSmc2LXhDRXVRUHN5Y01UTWNwRjBNUDN1WmsxNmVhV3p1SnBHcmJMWEYwQVdJOGVHN1k2NEJ0OU9sU2VDQUdxemUwNHZNX1VV?oc=5",
+        "source": "Jornal do Oeste",
+        "publishedAt": "2026-10-26T12:30:00.000Z",
+        "summary": "Simpósio de filosofia: Unioeste reúne pesquisadores do Brasil e da Argentina Jornal do Oeste",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 1.46,
-        "relevance": 5
-      },
-      {
-        "title": "Belchior 80 anos: compositor intempestivo uniu filosofia e literatura",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3VtS1JqcVNWSVZvamR6eEhLdFRKX0tNSVJPdmYyLVVVRVM5NjRraFVrMjBfUjhRQXB4QVE5LVpHRGhuWG1OZ0RQNUdqZDFRWlRBSlZ0c2hRTFk5X1k1bWtvZmdOMmgzb3dqRjU2YUFVQnljbHRaalRMbjZlVXdFcGl2V0EtQVV1cHNwNVhtVEpVQ1A2dzduaVJMb0NhTmZ6RE1EdmJkeE9zZDI4TXVjMWtjSFVxMWhOSFFfaVkyd0pJMXRPZVE?oc=5",
-        "source": "O POVO",
-        "publishedAt": "2026-10-25T03:30:00.000Z",
-        "summary": "Belchior 80 anos: compositor intempestivo uniu filosofia e literatura O POVO",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 1.14,
+        "score": 2.76,
         "relevance": 4
-      },
-      {
-        "title": "Frase do dia da Filosofia: 'Você pode discordar profundamente de alguém sem precisar transformar essa pessoa em sua inimiga' - a reflexão inspirada em Marco Aurélio sobre as diferenças políticas",
-        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNdi05VzRnc1pHaFBEWkV0MlVGN0d4STZaa1ZsOFA5THRMVFQ0bDRoRlBhNDVrRXdiazFJOUNiZWxETmZLZ0diTWFIQ281V2t3eXY2VzNoaW43UWdaTFljUkg3VFlPeDZGNG9kSzlXSTM5NTZabkl4VDI3VkJuZ0p0dEtZQXkyTTJOUFI5QkF5WFVCcklfM210Z2dmd3diQXlqVEdxZVlzc3ZubGlrXzVwNkFCZ3JqZWlXajlwNkhvVTZWRmtqV3lIZlRUc3Vqdy1vYjBZN1NCTVQ4Rzh1bUo1TG9xMDFOYU9ZaFJQY1J5cUZWTnhuU21qMERiWDV4SUxYdEt5WEFPTXFYQmcwX0w1NTFkbnNfMmV3bGlKaGpuQ3BnT05tcGd1N3JLbDhMMDhYZEltZ2VIVEhFYUltbUJTN2dadDdSd1RlR1VNa0k0b0dqWnNZV0ZSZmFn?oc=5",
-        "source": "Jornal Correio",
-        "publishedAt": "2026-10-25T03:00:00.000Z",
-        "summary": "Frase do dia da Filosofia: 'Você pode discordar profundamente de alguém sem precisar transformar essa pessoa em sua inimiga' - a reflexão inspirada em Marco Aurélio sobre as diferenças políticas Jornal Correio",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 1.12,
-        "relevance": 4
-      },
-      {
-        "title": "Módulo de História, Ética, Filosofia e Terminologia do Judô",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONUpDNzVDbVItNExhNWh0bzVSUGpVeEMxU3FRaFNaTnhQVzZsamQ4dWN1UmhzbUVtbk1NMVdyRTRsbGlsNlVmVm9OelFhYmZoclZoSTVPeDNIb2hTWVlsbFhhRnhzNmdkS09sY3JfNEdJZmRsMlNuSzVZcTIwZUo5UTRnbkkzdw?oc=5",
-        "source": "Federação Paulista de Judô",
-        "publishedAt": "2026-10-24T20:51:56.000Z",
-        "summary": "Módulo de História, Ética, Filosofia e Terminologia do Judô Federação Paulista de Judô",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 1.11,
-        "relevance": 5
       }
     ],
     "cinema": [
       {
-        "title": "A maioria dos usuários da Netflix em todo o mundo assiste a séries e filmes sul-coreanos.",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdGhGVmVwZ3VSUXZmWlcyd0NRUzZaaWFyZ1FkXzkxelJEUktoWFJBdXcwaTdTQ0NtR09rVjhWR1dDaW5TYTBaTkt0NFhhQjA0aHZrZUYyamxiU1Q2OFhXQ1ZyVUpfc25hd19CRGdMU0lXMHJQM3dsLUV2alhXZWFvd3BlZHJ2X21wS0p3WkJaalhjc1VpRjVhUkdjMjFvQ1NlSV83UG1MeUswY1IyeGlrZmZHS21tdw?oc=5",
-        "source": "Vietnam.vn",
-        "publishedAt": "2026-10-26T07:20:33.000Z",
-        "summary": "A maioria dos usuários da Netflix em todo o mundo assiste a séries e filmes sul-coreanos. Vietnam.vn",
+        "title": "Netflix: veja 5 filmes e séries que estreiam nesta semana, de 26 de outubro a primeiro de novembro",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOb3hVNVZQN3pWZ3lfS0Q4anFrenpXbzNBRWoyM1VzVkMzcDNncGg4WTkwb1ZhQWRZdGtmQUprX0Jrb2lFdENZcWJrT1V1N0MxeHQtNHN6Mk9pQjBwVzNIT1o1TTFqLTNGQnoydmdLUGJUemFKVDdBallVVXJ6VXUxZjBHQWtnMXUzNS14LWN4Vmtaa056S1ZSaWlLNlJwMUI1TUVQa2VtR3ZQSGhaTVRZck1iOWx1VHkwRFdSNnJTd0pPZlRmU0JTeGVwXzQySUVxT0NONjhKMUd0R3NUN1FHSXh4TW1weHF0c0VKbGplVjFvT3AwQXQwRTMyc3k3NkRXb0x2RVhR?oc=5",
+        "source": "GZH",
+        "publishedAt": "2026-10-26T17:05:02.000Z",
+        "summary": "Netflix: veja 5 filmes e séries que estreiam nesta semana, de 26 de outubro a primeiro de novembro GZH",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 6.58,
+        "relevance": 8
+      },
+      {
+        "title": "Netflix recebe 12 filmes e séries na semana! Veja lançamentos (26)",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMkNjUnl5R2g0emNpRVhMRXk2blJnQXhpa29NYVNvUWYydzN2Y1M5MnBjaXBPclhJY3FXOTNLZGVuQTZHTFhzSnk1M04yWHBPTlBXTlM4Wmo1ZUQyQ25jSUFTdnhPN3lMbnlVeTJucklmdlFTSGlOcDFTSzJkTW1XZ2NMczVZQzBtMERZdmtfVGZKcXZOMmc2LU1tR3NtVHc5SU1BSUFMdnQ1dHIt0gGyAUFVX3lxTE14Mml0Y2x6bUlhalVnWEZtWE8xRUlBVkx0bUhtWC1qOGNqZl93R2NlYnlxWGdsb3pBQ1FSTHVJQ05kME1QM1lZbWU0ZkotaFA2TDVkc2RESmJhYVhmdTlqTHdNQkZXbThRMVRrbmFFUVA2U2M5T055Ukh5Wkd5RFJ3Uk5tWC1JU2xQcHpQOTZBRi1MU1ZfdldSRDJiTUQyNDFqS0xxUFhnaXhXZTVOak5teFE?oc=5",
+        "source": "Estadão",
+        "publishedAt": "2026-10-26T20:15:00.000Z",
+        "summary": "Netflix recebe 12 filmes e séries na semana! Veja lançamentos (26) Estadão",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 6.51,
+        "relevance": 7
+      },
+      {
+        "title": "Filmes sobre povos indígenas do Acre integram festival de cinema da COP30",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRmk2NVhTSHpEdkNOU3ZDYThmVm92SUtDN3FPcGFLeFpGZXlZVXdtVDF1U081ODRTY2dHTkYyNm1sblJKN0pEVXhfTmtEWXotdTBScDdEbnpBWFRRcWdnd0s2UE1laHdYSmNUcHl1V3NyTWRCUmdFeUFmVksxX0ZudHBWbmpuTmU1a1hkWkhXeDFaS1puYWhaRmlCSC10OTZwbUlGaW5EQjNkYVBUZTdXZG5oYmFGQQ?oc=5",
+        "source": "ContilNet Notícias",
+        "publishedAt": "2026-10-26T14:54:26.000Z",
+        "summary": "Filmes sobre povos indígenas do Acre integram festival de cinema da COP30 ContilNet Notícias",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 6.05,
+        "relevance": 8
+      },
+      {
+        "title": "Ator mirim de ‘Central do Brasil’ será jurado em festival de cinema na Capital",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX005ekUtSnVsS2szTk8xaElNTjlUd2FXZDV2c3RLSjRNekhVQlBrY1Nmd2dPQVpCcmwwR1BkS2RsVml6NkZDOTBVYm5QdXFSOWFadzVkUnZGT20yOFo3Q0NmdU1YVkM5LWszeE44dE5vY0RlNk1LVDF1Q2FFcUNxbjJyclhXd0FQM0RvS2p1dHVLM1BFY2lMVktLc0NKeFZidTVZ?oc=5",
+        "source": "Midiamax",
+        "publishedAt": "2026-10-26T18:05:00.000Z",
+        "summary": "Ator mirim de ‘Central do Brasil’ será jurado em festival de cinema na Capital Midiamax",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.99,
+        "relevance": 7
+      },
+      {
+        "title": "Filmes pernambucanos, internacionais aguardados e clássicos tomam conta do 17º Janela de Cinema",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPajEwNkNydE5ObjRUaVFFYWpGUkkxZUZPSUNYTkpCVDJ2bW9DdUdnYnB4VTdKX0Q2d1dBVmNVcGFVSUtoWDVTZDhoeGtYWExVX3RiVGluSGdKdDFSMkt6bmM5Wkh3dWtiZW9xLTF2M2dWWW52WHN0QjF2UWk3cDJsTUtvVWpZRWxKRTQ4NDd2WWktcmlqWFhRdE1aTmRMWEpxV3NWaVlNeXotYUVHbWQxSHVWbWV5S0VIS3JJelB1bUdZbUhpbWtvb3VlOHlMeGVHVG96WWJsYi1uNnhLbGpMaVBaMFJGd19oVHR3clI4TWs?oc=5",
+        "source": "Diario de Pernambuco",
+        "publishedAt": "2026-10-26T21:58:00.000Z",
+        "summary": "Filmes pernambucanos, internacionais aguardados e clássicos tomam conta do 17º Janela de Cinema Diario de Pernambuco",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.96,
+        "relevance": 6
+      },
+      {
+        "title": "Baú do Cinema: Streaming gratuito traz documentários com Eunice Paiva e líderes sindicais",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeHFMOUg1dnlPbVZMVmxTb2UtaXlfSFp6SE93VjVqSTVpRFZoaDlHTndlQ2N2UnZSMG0tbFNmeE1NUVJHQURZcklFX0I0RGxLcFgwSDhTbnhwTzZheE9NTVA4VENWSlFZWDd2OExnckYtNkpOdE45RmtjUXpINzBBeEtTTm45UmdFZlVDRXVPcno5X0xOSzlFSHlJYzNzNXVrVGFXdFNQYl9JMEZ3TW9WXzBHa1Q4aVFIUU5TWHl6TDhGSlFSN0JxZHJxZ3FPNERNNGk3Tg?oc=5",
+        "source": "Folha de S.Paulo",
+        "publishedAt": "2026-10-26T21:30:00.000Z",
+        "summary": "Baú do Cinema: Streaming gratuito traz documentários com Eunice Paiva e líderes sindicais Folha de S.Paulo",
         "image": null,
         "topics": [
           "cinema"
         ],
         "score": 5.85,
-        "relevance": 7
-      },
-      {
-        "title": "Tela Quente :: Demi Moore, milhares de litros de sangue falso e 1 Oscar: relembre A Substância, filme desta",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBjZ2QtWWtrQ1A2RndlLXBmUkQ3VGlBNnBsenQwMjQ2a2VMa3dNQV9qSk91cW1icll6NlpWc3VkUVVMNWplOW9pV3dJZnlBa0dNSlRvMXNmSWJ4WFVZeVBZZzlXNDdrN0lyeFVDMV9Fc9IBdEFVX3lxTFBJRHFBazNvNk5sY19WSERJNGN6UmgzRWw5TE1XTjNSVlNQUU5FRnUxeFdheHhaVDFJbHVoYmhQZjVzbjBpeTFldk00bTlrUGJqT0lFeDB6M2VSbkVPVkJ6QUwtdW4xTUtuLTNiY0xhaGJkWFJY?oc=5",
-        "source": "Papo de Cinema",
-        "publishedAt": "2026-10-26T11:51:11.000Z",
-        "summary": "Tela Quente :: Demi Moore, milhares de litros de sangue falso e 1 Oscar: relembre A Substância, filme desta Papo de Cinema",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.37,
-        "relevance": 5.4
-      },
-      {
-        "title": "Circuito Penedo de Cinema terá exibição gratuita de filmes premiados",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOEVCSXdhWVBNa2tGdFdnOC1TUU9sWE5RTU4tNmlHMkxUQzJNbU1LdzNyajRrYU5kZG03YXloTGw4NnRDcTZtY0ZzNzdMT2UxT2tzMk41QU13N3JuajQ0OVZCNWtvdjJ1WW9sc2ViRElWM3lYeEJ4V1F6azM1Rl9mUmh4OGo2eFNlR09CTy1SZmZ4U0E4SXlFQ1lvaDd1eGVlNzZJ?oc=5",
-        "source": "082noticias.com",
-        "publishedAt": "2026-10-26T08:27:12.000Z",
-        "summary": "Circuito Penedo de Cinema terá exibição gratuita de filmes premiados 082noticias.com",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.23,
         "relevance": 6
-      },
-      {
-        "title": "Há 4 novas séries para ver esta semana na Netflix, Apple TV e Disney+ em Portugal (26 outubro)",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1YyZzNXdkJCcWd1c1lSOG16czhReHBhaWs4OHpCRUlDV1dnaVNnODNoTGgwTmYzbklDSmYxa0E0RmFNR3lIVmdTRkw3WGh2ZHBvWlNQbzU2SG56M1lfSTJpSDBHYjJEeTBTYTV6YWlSSmExOUNkSEhUU0tzZUJFY3VDVG1vOGhtVzFhZjlXanNsXzd4dlI0RXJkS2s1UzZZVnBYM2RWbUdQR09TMTFQZmN5ZU9nVllUNHJN?oc=5",
-        "source": "Magazine.HD",
-        "publishedAt": "2026-10-26T11:30:50.000Z",
-        "summary": "Há 4 novas séries para ver esta semana na Netflix, Apple TV e Disney+ em Portugal (26 outubro) Magazine.HD",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 4.91,
-        "relevance": 5
-      },
-      {
-        "title": "Oscar 2027 Filme Internacional",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1XallJMUNhcEtKdTE3VTVielBZTkRKMEo2MDBZQ2hfV2t5YTUzeHZuUGdhZE82cVV2U1psMmVWN3ltQ3NfTFVlN2E0YUlTTEZuWG00dmlCdlVCUzJSWTZiX2lrakdiMmRicHNJU0JVLVlDTWs?oc=5",
-        "source": "Oxente Pipoca",
-        "publishedAt": "2026-10-26T11:12:37.000Z",
-        "summary": "Oscar 2027 Filme Internacional Oxente Pipoca",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 4.85,
-        "relevance": 5
-      },
-      {
-        "title": "Cinco animes da Netflix que derrubam a lógica das séries de TV – e o motivo não está só no hype",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZYTBLME05eS1WQVlaZXRsa0pPc3MtMnBxcG5ETWJWNU1xV2llMDRKRXVSelBYa2hJNnFrQm1RQ3d3LWNqU1Mzb2gwT1pVbEZtS2N2cHZCdEl4MTBORUpncFd4bjc2QzlRZkZQbjhjUTFWRkFCWWloUm1UQm5zeTg?oc=5",
-        "source": "radiogeekbr.com.br",
-        "publishedAt": "2026-10-26T10:25:55.000Z",
-        "summary": "Cinco animes da Netflix que derrubam a lógica das séries de TV – e o motivo não está só no hype radiogeekbr.com.br",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 4.7,
-        "relevance": 5
       }
     ],
     "medicina": [
       {
-        "title": "Projeto de lei amplia oferta de geriatras no SUS",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JSk5vYXQzOEJ5Q3VZdEVsUGYzQ0VyVjFDNDJjUmI4WnRuV21qVGJiM2tZcl9xdW9oeWRRUWpadThaNVBnLUR4QUY4a1MzV0Jic19XOXowcUtYOU0?oc=5",
-        "source": "Medicina S/A",
-        "publishedAt": "2026-10-26T11:57:36.000Z",
-        "summary": "Projeto de lei amplia oferta de geriatras no SUS Medicina S/A",
+        "title": "Hospital 2 de Julho homenageia médicos em celebração ao mês dedicado à categoria",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNENjbGFZYi1SazltbENqRnlpdFRqblR2NzBMbl9KM2piQW13VmxrSWFoa0FaMy1vTWJOY3J4T3V3TndzbGQxeHB2cFlpMHFEemV1elJBQ2sxMktTNkotNmlwWjNzaE5OX0FUXzlzeVluVGRmYmxUMDBKV19QOFRjRkpxZkFpTmpNQWlNV3ljakVzSnJ1TGg3ZUZMUXlJODU2bDR0Mm9fam1rZVQzTG14TEhuVFJGdmhJOGc?oc=5",
+        "source": "Jornal O candeeiro",
+        "publishedAt": "2026-10-26T21:49:56.000Z",
+        "summary": "Hospital 2 de Julho homenageia médicos em celebração ao mês dedicado à categoria Jornal O candeeiro",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.39,
+        "score": 4.94,
+        "relevance": 5
+      },
+      {
+        "title": "CRM-PR homenageia 310 médicos por 50 anos de trajetória ética na Medicina - CRM-PR",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOVljUlloRjJ2M2MxZTJyNE9NX1BGR01jVFozbTNKQTJfaUtzMkhiWVZlR0JoRkl4Uk9kSGRxX3FwcDlQWDFKQUVKVDUyeS1RSzhUazlaeDJ4Zm93OUp2dW9Gdy0tVmxPM1RLak16ZW5FQk5kelZuN2lwbEpPUmJYMFdjbl90ZmF1X0JDZjlxWVNBU1BZakdCWFk1bFNtVDNaLUhIcjJpc1pkLXZFYUlPOE53?oc=5",
+        "source": "Google Notícias",
+        "publishedAt": "2026-10-26T20:32:32.000Z",
+        "summary": "CRM-PR homenageia 310 médicos por 50 anos de trajetória ética na Medicina CRM-PR",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.7,
+        "relevance": 5
+      },
+      {
+        "title": "Votuporanga reúne classe médica para celebrar o Dia do Médico e oficializar gestão reeleita - APM",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT3JKaEdScVFQQmJDMHBCb2M3akt6b1o2YTB2T3A5LUkyRW00OE1TVE5YalI0UHJ6bVNiaGYzNVgxbDcwajV0aVFtRmUyUEl1LUN3T2xzYk1BYlpyVzdRdzAzU0YyUk9Tc1VoS3h1aTlqQjhWMVVoSmJrTVJqQTBFSnJXVDlXUjZ3QUVvT1pySnNsbDNZd0ZNakNVYW9zZWIyU0xSeXcyeUEySUdHNDQ1QXBiZ0ladw?oc=5",
+        "source": "Associação Paulista de Medicina",
+        "publishedAt": "2026-10-26T14:08:05.000Z",
+        "summary": "Votuporanga reúne classe médica para celebrar o Dia do Médico e oficializar gestão reeleita APM - Associação Paulista de Medicina",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.97,
+        "relevance": 5.4
+      },
+      {
+        "title": "Faculdade Santa Casa de SP conquista nota máxima em Medicina no Guia da Faculdade 2026",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLVNVY0ltMmt5V1psY1ZDd0o2TGhVUUN2M0xCZFZRbkJTcGp1ZThoRnJpYmU1allPUUtyb1F6UnoyUUhMN0pRdDlYNngyX1hWQWphRXpmOWdDbmszaktReWwydXZBZHg4ODMwMm5EZGNpMUNaWnpTSDJUX0tDNERjLWlXZ3E5VXN0OGNUMU1HdnpudVNxdTFNNGZGNjhWTlM1TGwtbk5iWXdWUQ?oc=5",
+        "source": "Faculdade de Ciências Médicas da Santa Casa de São Paulo",
+        "publishedAt": "2026-10-26T19:12:25.000Z",
+        "summary": "Faculdade Santa Casa de SP conquista nota máxima em Medicina no Guia da Faculdade 2026 Faculdade de Ciências Médicas da Santa Casa de São Paulo",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.93,
         "relevance": 4.4
       },
       {
-        "title": "Escama de peixe sai do lixo e entra na mira da medicina",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObWNxanVNbXk2aE9FSDJKTFp5VllIb0VQRE5pSUh0RTBrX21SbHFWaGtzeDNYNi1SMnFreU5Wam9rZllOYW9wTUpxQ25IOVdKQklKbmE2eVkxbDlHeUlEV2JvN3lGeTV4VFFDcElzaWwxb2I4TUpfbXpkVjA5SUJrTHZ0X2xLUm5tbHY0ckVDWQ?oc=5",
-        "source": "Boca do Povo News",
-        "publishedAt": "2026-10-26T11:52:27.000Z",
-        "summary": "Escama de peixe sai do lixo e entra na mira da medicina Boca do Povo News",
+        "title": "‘Temos 15 mil por mês’: Denúncia expõe ataques a bolsistas de Medicina e mensagens com apologia ao nazismo",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPamZDT2MwS2k5NWlXWVMwYXg1Ym5YdWlIaVlxUnpsdFQ1S1FPQ0tSOHZtUEhkUEZZSTVzSXBrdk1Uek5HNFdMZ2o0c0lBRnJJdFl5dXN6WFRweTd1U2Q5Tm1vQU5aRllZajdrT0VFcEtRN1VRTWFxMV9CWUJuenhxRVhfU2FpNXljLTIwWWludWctV2ZxZWZ1S1NxTTZrX2NmY2lNZVJPTmo4Z0d3VUtENlFaeGl0WHRLNFVVb2hRQmRHbVJXdTFVLW1hS2RzazJHbUNHbGFwTG5qcnlBVmfSAeMBQVVfeXFMUG5TR19hNzZPSlpoZGVxQk1YSV9wdG1hWk9aQmFCckRtV0ZpemNpUkZqQzJiUDhINU53cmR1NUlvRG1hLUEtTVdXTzQzanVZMmlBZ19ROHFCWlVfemd1b1o2M1BxZHc2SF90RTg0VFhfOXlVVTZXYmRmQ0QxZXVicklMdU5OR3hKcDlheHdrUU1uQkNhMmp6d3diTDNzVjJNckg3Rm1KcmZ4TDQ4Rmt6dDBza0NZWUphMjJFczdyVnhFLTBCQlZ5TlVBNlZsR0hfSTYyaTQxT091U29DN3FMU253eU0?oc=5",
+        "source": "GMC Online",
+        "publishedAt": "2026-10-26T21:27:00.000Z",
+        "summary": "‘Temos 15 mil por mês’: Denúncia expõe ataques a bolsistas de Medicina e mensagens com apologia ao nazismo GMC Online",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 3.98,
+        "score": 3.89,
         "relevance": 4
       },
       {
-        "title": "Mulher tem convulsões só na menstruação e lesão some após tratamento",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ2hiVmlmeHRuQ0labDdjUzhwYzRvdWJwbVBBbkIzSlJWcXB0UGE0UnVYYkt3WE14eGd1OWkwUmpfMTQyTU9DbTFFSk9tZHU3ei1qYS0wMUtLUklEYjVLRmZFaEpJblI1d3dVSi15NERnajh5Mk9rZ3gtQmUyaW54WWpoSjNwQkc2V216Uk9CZVd4enJtY1pweFpVaWN1RnZXOGVMX09JcEdQX2FFdDNRX3BaeXNSVUE3bEQzdFExWk9jWXc?oc=5",
-        "source": "Olhar Digital",
-        "publishedAt": "2026-10-26T11:45:00.000Z",
-        "summary": "Mulher tem convulsões só na menstruação e lesão some após tratamento Olhar Digital",
+        "title": "Renovação de Licença Ambiental – Labor Diagnóstico e Medicina do Trabalho - Prefeitura de Serra Talhada -",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFNvbG5QRFljQ3FkdlZnZEFIYnAwTEFFX2FYNmRzSXlQOGhxc0RiMFNEM3RPakJmX2ZXUzJLRWFVazF5bFQ0Vm5mMElIdGRxM2lzN0ZrNEd6bjE1UDRsX3pZT3NxVHhHQTNWc2VwZ2RRYUFGaG5jRHhfV3hSSUNINVo1T245dElzeDd6TUN2VHFydjZYSTVBYWpYZ1NuNkhLdkZoNjRR?oc=5",
+        "source": "Google Notícias",
+        "publishedAt": "2026-10-26T15:33:00.000Z",
+        "summary": "Renovação de Licença Ambiental – Labor Diagnóstico e Medicina do Trabalho Prefeitura de Serra Talhada -",
         "image": null,
         "topics": [
           "medicina"
-        ],
-        "score": 3.96,
-        "relevance": 4
-      },
-      {
-        "title": "Vestibular de Medicina da Zarns Pouso Alegre: últimos dias para realizar inscrição",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbE9SUU1rbFRhaWhMNlZHblF3U1RHZmhVRVliQVBNOVVwTkdGajlsaEFUclItY3RDcHRlTG4zYjlNaDNFLUhnVHRqX2xmNjVQTDVUX0ViakhGQkZCOEV6bmhuZDZOM0gtN2pjaEVob1dqWUlRUk02OWFzS3FoM19sRG1VUDY2RlYtX1A5M2pncG1FajJWbGIzQlJ2RDF6Q3NSMUFWS3ZPeXUzbG9kQ29QODhiYWRISS0tTk8xa2ZXR3VtVkRtR1E1cXpqRQ?oc=5",
-        "source": "Terra do Mandu",
-        "publishedAt": "2026-10-26T11:24:14.000Z",
-        "summary": "Vestibular de Medicina da Zarns Pouso Alegre: últimos dias para realizar inscrição Terra do Mandu",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 3.91,
-        "relevance": 4
-      },
-      {
-        "title": "Futuros médicos poderão realizar internato em Boston (EUA)",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU0FnMFRtRnJoNzJ4bWVNTl9faWEzNUNwazBWcnV5czRyejhncHBEaFEzNF9rMlJkVzg0THBWRzRjVEpKdWdMUDYwZ0l1UV82bDRIYzAyeEt2T0duMXhNYjlYTjlXRmZEZFpvVksxZGZjY1FEZXVoZlZCQ1ZMVmVMRGFFZ2RtQmQ4eFByS0lQT0ltQkM3TEkxMDJjNHliMDdsSkFlS2lHQ3AwYndnX0ROR0V3?oc=5",
-        "source": "Click Sergipe",
-        "publishedAt": "2026-10-26T11:15:00.000Z",
-        "summary": "Futuros médicos poderão realizar internato em Boston (EUA) Click Sergipe",
-        "image": null,
-        "topics": [
-          "medicina",
-          "geopolitica"
         ],
         "score": 3.88,
-        "relevance": 4
-      },
-      {
-        "title": "Medicina segue como curso mais concorrido da Fuvest, enquanto Jornalismo sobe para o 6º lugar",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUG9xc0VqMy1ESlNDTHdGdDh3UURNM2VSLWk0NGlXZEZSdnFzTmJ6eXhuNlk4LUN4UFpIdnlWWTBWM1h5QWNMbTJ2TDM4YlNjWGlDSHdUZHF6VkE3OEpTa2NQeldHNnVvY0s0Y2dOOG9wTUg1a3A0ZUtleXNGbWNldVltX3o2anQxVWI1aHJ4ekZyaFVaNXJUQXNPQmxnbDhOWko1eXczOVdYYl9OdzZmNkRVcHdJZThFTHVueA?oc=5",
-        "source": "Âncora 1",
-        "publishedAt": "2026-10-26T11:08:07.000Z",
-        "summary": "Medicina segue como curso mais concorrido da Fuvest, enquanto Jornalismo sobe para o 6º lugar Âncora 1",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 3.87,
-        "relevance": 4
+        "relevance": 5
       }
     ]
   }
