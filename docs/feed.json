@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:04:15.257Z",
+  "generatedAt": "2026-10-29T03:46:54.627Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -40,8 +40,34 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 11.29,
+      "score": 9.06,
       "relevance": 13.2
+    },
+    {
+      "title": "Reservatório do Museu do Porto convida a descobrir a história da cidade através da arqueologia e da ciência",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYzVxUlh5QVdUbnZZbHRPek50alFONkFzeHFoV0c5dHMyYWhQWXUteUlVd1ZJdjlkSUJsaTVtSzVMZ3p3SWxWd1laVndBQjFhQVFTSEZPNlJjdko3T1Jxc0NHcFhuTkRncHpmT3dpQVFkeXZZMjdsQWVtWkRJX21ZSFRuWVNFMFo1UGJJSUcyTE43MkVXLThHZGNETkR0Xy1pbW5Na2ZINVpIZDFmd05wTkRxbHM2bXZNd2xmalFuV2JITXpUNlllUFhqVE5ibEZ3eFpFLTZB?oc=5",
+      "source": "Portal de notícias do Porto",
+      "publishedAt": "2026-10-29T03:34:38.000Z",
+      "summary": "Reservatório do Museu do Porto convida a descobrir a história da cidade através da arqueologia e da ciência Portal de notícias do Porto",
+      "image": null,
+      "topics": [
+        "historia"
+      ],
+      "score": 6.95,
+      "relevance": 7
+    },
+    {
+      "title": "Uso de inteligência artificial cresce nas empresas, mas governança exige atenção",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWYtZTB1WDUyNnVKNlYtWnMtcGU5TE15YTYxcGVfUHZpbWlNWHZZdUt2RjVkR2MtS3pGdGM5Y1JoUno5ckkydFdidHZCYVBudzVkVHM0YUpUVEc1el9adEEtX0JjWC1OcDhnQU94eDRkZTlEWFZ6eUVEeFJWLU1JdDlxNVo0UC1ickN3bG80MlFBMmxqNmRfM2drY2tYZng0MjhCMEVjOVRkcU9zdWJvaVNFbFh6V1hiNmFTWU41S2Y?oc=5",
+      "source": "Portal Revista Kdea 360",
+      "publishedAt": "2026-10-29T03:29:16.000Z",
+      "summary": "Uso de inteligência artificial cresce nas empresas, mas governança exige atenção Portal Revista Kdea 360",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.92,
+      "relevance": 7
     },
     {
       "title": "Ibovespa cai mais uma vez e acumula perda de 16% na semana; dólar recua",
@@ -54,86 +80,60 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 8.55,
+      "score": 6.86,
       "relevance": 12.6
     },
     {
-      "title": "Raízen fecha acordo de R$ 22,4 bilhões com a União e abate R$ 8,5 bilhões em multas e juros",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVhBZmRrTV9IcU4wb3l3ZjNtcG1mSGE1ODdPeDVxWnR3cnNYTE12enJkS183RVlvSGNIQnBzUlhOUF80bWJpMjNFanpPT2ltUGJuenJueFh6bThsSEc4eDl0TDJOODFFRXByMWxIdl9TNzZ0c2dnY1llQjRsN2htZ1pmaDRXMkg1RzBZdmVB0gGcAUFVX3lxTE9HRElmR2Y2NTJUUlVzZGtjOFpaUnMwY0ZPQlJLSzBNdk0yeUZSbTRtd3NNTzdwYU5YNlFSWXpZMmZmbDZCUk1fQTVEWlI3Vlp2aUdOTGdudWtoS2cwV2l4LU1HV0s5eFFaUm5jUkxJRlNHQ1N3YzVfWUFZelB2al9RYUFPWFJvREtTdktPMnBnMW1VSXZxLWp1OHlJQg?oc=5",
+      "title": "‘Todo mundo está ganhando': por que copiar os investimentos de outras pessoas pode sair caro",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/29/todo-mundo-esta-ganhando-por-que-copiar-os-investimentos-de-outras-pessoas-pode-sair-caro.ghtml",
       "source": "G1",
+      "publishedAt": "2026-10-29T03:00:00.000Z",
+      "summary": "Efeito manada: o perigo de investir como todo mundo Seguir as decisões da maioria é um comportamento comum e, na economia, recebe o nome de comportamento de manada. A tendência faz com que muitas pessoas invistam em determinado ativo apenas",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.79,
+      "relevance": 7
+    },
+    {
+      "title": "Raízen fecha acordo de R$ 22,4 bilhões com a União e abate R$ 8,5 bilhões em multas e juros",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/28/raizen-fecha-acordo-tributario.ghtml",
+      "source": "G1 Economia",
       "publishedAt": "2026-10-28T21:06:01.000Z",
-      "summary": "Raízen fecha acordo de R$ 22,4 bilhões com a União e abate R$ 8,5 bilhões em multas e juros G1",
+      "summary": "Logo da Raízen Divulgação A Raízen anunciou nesta quarta-feira (28) um acordo com a União para renegociar R$ 22,4 bilhões em dívidas com o governo federal relativas a tributos de empresas do grupo. O acordo, negociado com a Procuradoria-Ger",
       "image": "https://s2-g1.glbimg.com/sGVd_ajUEsHLvLXmw2qiq00teGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/V/6hFQlST0iVMfWZDEN3tg/raizen-1200px-v2-1773240962.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 8.28,
+      "score": 6.65,
       "relevance": 8.6
     },
     {
-      "title": "Ibovespa cai e dólar recua em dia de Fed; bolsas asiáticas sobem com impulso da inteligência artificial",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPazBzek5PWU41aUl1bjlzSnVWSXF6NDUyaVNUblVFUmo5LW55UUhYOVBvSWczSElsNG1ON1ZqVzZLc2NBbWhPUnVvOVlURExiUEFSXzFxOHRob0U0Wk41MDlSSmRzYXYydkRsRTg3TW5VdktHOTdHSnNxa2tXZTJGUUM5WVM3WmZ0MU1ZWHRpX3BKaHJqQ1lMLVk1Q3VhcGwzQU1KeDh1R3AwQnhnQlFNRDZBNjlfYUo2cnB6Y2Q2ZFlYVVBHRm53Y3ljUVd6bWZ1eWVDRGh2N2tsLXNMV1BKekRMc2FwRko3cmVYUEpqU2ppbG9LNms1MzZBRHhsVzc5Y0k1ZEQzOGs1Zw?oc=5",
-      "source": "Portal do Agronegócio",
-      "publishedAt": "2026-10-28T14:09:00.000Z",
-      "summary": "Ibovespa cai e dólar recua em dia de Fed; bolsas asiáticas sobem com impulso da inteligência artificial Portal do Agronegócio",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.96,
-      "relevance": 10.8
-    },
-    {
-      "title": "Netflix em novembro de 2026: veja calendário de filmes, séries e estreias",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMWJiVlFhVE96ei1KQUtCR3pLSFlEZ09uVXVUeXFYVU1PUDRXQWZwMzdhNUZTU0x1eEJjRThtT3RIR05kMmV4SEJ6bWFnbUVZbTF2Sjk2U210b0lZYUdJQzZoVUNuVWY1Vm8xcmVtUGs?oc=5",
-      "source": "Game Overdrive",
-      "publishedAt": "2026-10-28T21:10:28.000Z",
-      "summary": "Netflix em novembro de 2026: veja calendário de filmes, séries e estreias Game Overdrive",
+      "title": "Festival de Cinema Francês traz drama premiado em Cannes e comédia com Isabelle Huppert a SP",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaC1kNUlvSFhrS0NxdGRkdmI2N3B2VVdxZkJsOGNDblc0X0YzNDl2MFNHLV9VOF8xZTFXbG5kdDB0am9YdHZmQ2dwOGRzd2ZKNlhSYzN0dnFzYkptR2xjaURRWjJBcmdGRTdPQU9JTE96bk15WmRXSFo4V1ZyZ0tianFIcC1YQ2VBNF81MlRrcExpbC1JRThNMkJpekd0NTI3dzRPRGhZMU51dHV2SGhxdzNTT2VPZVU0UzVIOVc0S240OFp5aFBRYmp4c3lBTHc0NlkwSUlRSGx4LUU?oc=5",
+      "source": "Guia Folha",
+      "publishedAt": "2026-10-29T02:00:00.000Z",
+      "summary": "Festival de Cinema Francês traz drama premiado em Cannes e comédia com Isabelle Huppert a SP Guia Folha",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 7.73,
-      "relevance": 8
-    },
-    {
-      "title": "CNI reduz previsão de crescimento do PIB para 1,6% em 2026",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzN4TjV0Ti14cEVoWUhPUGozNEI0cEQyUU5ZVU5LVnhjMkNOV3FxajlTbWpQWG5GbDhjRk5ucFltZEE4RktwTllVWEtEUy0xeDFOVkRSeEV2V2NvX0dqSFFmWnE3SnNJeGxmOTNQOHdlM0RMN2J1M1JMelltT2NPUmpWejZHb2p2SnhvU1gwRkt4c3hRQnQ0Y2hEWUw1cXdveHk1WVI3Z0ZMSERlLTIwWHhaQTI?oc=5",
-      "source": "Agência Brasil",
-      "publishedAt": "2026-10-28T19:33:00.000Z",
-      "summary": "CNI reduz previsão de crescimento do PIB para 1,6% em 2026 Agência Brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.62,
-      "relevance": 8.4
-    },
-    {
-      "title": "UFG lança modelo gratuito de inteligência artificial para empresas criarem soluções próprias",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaUdsN0JmZ3paeE10Ml9lUWdOUTBlOXdZejdTdEw5REtwQ21qMDVNbmNUM2ZRMnczMloyR09ZbjdDeHRrYlBfaDh6bFR6SGwySEotWlpsUnd6TTM5cHRjclJkQVdqVnlzMU9nRXJHdXBmVHk2TmI5OW53Q0V2VDVEd09MM0tRTjd6UDNIX21qMFRMTUQyX2Z3b1V2TFNENDVQakk1MXhOcF9EMFE0YnVUT2VpcE9QUXNKSVF2VmZVQmVsM21RN3FGYXRKUjYzZG9MYnUzYlAzUDhMUDBuWFZOTFFn?oc=5",
-      "source": "Jornal Opção",
-      "publishedAt": "2026-10-28T22:01:00.000Z",
-      "summary": "UFG lança modelo gratuito de inteligência artificial para empresas criarem soluções próprias Jornal Opção",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.99,
+      "score": 6.54,
       "relevance": 7
     },
     {
-      "title": "Festival de Cinema Francês começa em Ribeirão Preto com 19 filmes; saiba como assistir",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQlVlTVVVajh2U21BTEpYRTlmZnM4T2xRU0l3cGNYSnp1Rmg2MjNnX1hLVnlwelBwNDBzNXNQRVI0ZmszQzdVMkpZb0RIX3RWTmNmQ19QU01CSE1wVTRRWWwxdjQzNURpRDRkWlYxaTBfbllHRm1ETGlPSUV1eE9NcVpieUFHT1ozM0drQWYzUXJub0M1dS0wd2RpSnZWTnZxSWktalR3b21iRC10UUxTdV93SHpBMjNjRXRxcElVOWNQMFdyMVMwakpZcHFzY2dSdGhER01NaGlqUQ?oc=5",
-      "source": "ACidade ON",
-      "publishedAt": "2026-10-28T18:24:40.000Z",
-      "summary": "Festival de Cinema Francês começa em Ribeirão Preto com 19 filmes; saiba como assistir ACidade ON",
+      "title": "Gargalo da inteligência artificial migra da viabilidade técnica para o impacto financeiro nas empresas",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa0hwOW1xZFhPZ2Qxek41cU1VUXI3SEJIb3pZMW1mNWI3UXhCWjZ0b2hJTDBtSzhZN1JJVE82eHZaU3d2Ul96NUtWUTlwek1qQ0oyaWtELW5NZWdiTDFtRXdaR1J4aEpDTU5LTXB4cHlvRE5DekRLU2V3RGhpaDB0NkkwQ1d0RTBCbE5LRXBaNDYtdGpSOWtHZVNlZVlNWUxyN2hpR185Q0NIbVFSeHVzdVpGVVU3eHExT19IWGVYVkZ0dkdDVjQ4V3pFN3ZSdw?oc=5",
+      "source": "Brasil Inovador",
+      "publishedAt": "2026-10-29T01:10:10.000Z",
+      "summary": "Gargalo da inteligência artificial migra da viabilidade técnica para o impacto financeiro nas empresas Brasil Inovador",
       "image": null,
       "topics": [
-        "cinema"
+        "negocios"
       ],
-      "score": 6.95,
-      "relevance": 8
+      "score": 6.33,
+      "relevance": 7
     }
   ],
   "items": [
@@ -148,8 +148,34 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 11.29,
+      "score": 9.06,
       "relevance": 13.2
+    },
+    {
+      "title": "Reservatório do Museu do Porto convida a descobrir a história da cidade através da arqueologia e da ciência",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYzVxUlh5QVdUbnZZbHRPek50alFONkFzeHFoV0c5dHMyYWhQWXUteUlVd1ZJdjlkSUJsaTVtSzVMZ3p3SWxWd1laVndBQjFhQVFTSEZPNlJjdko3T1Jxc0NHcFhuTkRncHpmT3dpQVFkeXZZMjdsQWVtWkRJX21ZSFRuWVNFMFo1UGJJSUcyTE43MkVXLThHZGNETkR0Xy1pbW5Na2ZINVpIZDFmd05wTkRxbHM2bXZNd2xmalFuV2JITXpUNlllUFhqVE5ibEZ3eFpFLTZB?oc=5",
+      "source": "Portal de notícias do Porto",
+      "publishedAt": "2026-10-29T03:34:38.000Z",
+      "summary": "Reservatório do Museu do Porto convida a descobrir a história da cidade através da arqueologia e da ciência Portal de notícias do Porto",
+      "image": null,
+      "topics": [
+        "historia"
+      ],
+      "score": 6.95,
+      "relevance": 7
+    },
+    {
+      "title": "Uso de inteligência artificial cresce nas empresas, mas governança exige atenção",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWYtZTB1WDUyNnVKNlYtWnMtcGU5TE15YTYxcGVfUHZpbWlNWHZZdUt2RjVkR2MtS3pGdGM5Y1JoUno5ckkydFdidHZCYVBudzVkVHM0YUpUVEc1el9adEEtX0JjWC1OcDhnQU94eDRkZTlEWFZ6eUVEeFJWLU1JdDlxNVo0UC1ickN3bG80MlFBMmxqNmRfM2drY2tYZng0MjhCMEVjOVRkcU9zdWJvaVNFbFh6V1hiNmFTWU41S2Y?oc=5",
+      "source": "Portal Revista Kdea 360",
+      "publishedAt": "2026-10-29T03:29:16.000Z",
+      "summary": "Uso de inteligência artificial cresce nas empresas, mas governança exige atenção Portal Revista Kdea 360",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.92,
+      "relevance": 7
     },
     {
       "title": "Ibovespa cai mais uma vez e acumula perda de 16% na semana; dólar recua",
@@ -162,34 +188,60 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 8.55,
+      "score": 6.86,
       "relevance": 12.6
     },
     {
-      "title": "Raízen fecha acordo de R$ 22,4 bilhões com a União e abate R$ 8,5 bilhões em multas e juros",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVhBZmRrTV9IcU4wb3l3ZjNtcG1mSGE1ODdPeDVxWnR3cnNYTE12enJkS183RVlvSGNIQnBzUlhOUF80bWJpMjNFanpPT2ltUGJuenJueFh6bThsSEc4eDl0TDJOODFFRXByMWxIdl9TNzZ0c2dnY1llQjRsN2htZ1pmaDRXMkg1RzBZdmVB0gGcAUFVX3lxTE9HRElmR2Y2NTJUUlVzZGtjOFpaUnMwY0ZPQlJLSzBNdk0yeUZSbTRtd3NNTzdwYU5YNlFSWXpZMmZmbDZCUk1fQTVEWlI3Vlp2aUdOTGdudWtoS2cwV2l4LU1HV0s5eFFaUm5jUkxJRlNHQ1N3YzVfWUFZelB2al9RYUFPWFJvREtTdktPMnBnMW1VSXZxLWp1OHlJQg?oc=5",
+      "title": "‘Todo mundo está ganhando': por que copiar os investimentos de outras pessoas pode sair caro",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/29/todo-mundo-esta-ganhando-por-que-copiar-os-investimentos-de-outras-pessoas-pode-sair-caro.ghtml",
       "source": "G1",
-      "publishedAt": "2026-10-28T21:06:01.000Z",
-      "summary": "Raízen fecha acordo de R$ 22,4 bilhões com a União e abate R$ 8,5 bilhões em multas e juros G1",
-      "image": "https://s2-g1.glbimg.com/sGVd_ajUEsHLvLXmw2qiq00teGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/V/6hFQlST0iVMfWZDEN3tg/raizen-1200px-v2-1773240962.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 8.28,
-      "relevance": 8.6
-    },
-    {
-      "title": "Ibovespa cai e dólar recua em dia de Fed; bolsas asiáticas sobem com impulso da inteligência artificial",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPazBzek5PWU41aUl1bjlzSnVWSXF6NDUyaVNUblVFUmo5LW55UUhYOVBvSWczSElsNG1ON1ZqVzZLc2NBbWhPUnVvOVlURExiUEFSXzFxOHRob0U0Wk41MDlSSmRzYXYydkRsRTg3TW5VdktHOTdHSnNxa2tXZTJGUUM5WVM3WmZ0MU1ZWHRpX3BKaHJqQ1lMLVk1Q3VhcGwzQU1KeDh1R3AwQnhnQlFNRDZBNjlfYUo2cnB6Y2Q2ZFlYVVBHRm53Y3ljUVd6bWZ1eWVDRGh2N2tsLXNMV1BKekRMc2FwRko3cmVYUEpqU2ppbG9LNms1MzZBRHhsVzc5Y0k1ZEQzOGs1Zw?oc=5",
-      "source": "Portal do Agronegócio",
-      "publishedAt": "2026-10-28T14:09:00.000Z",
-      "summary": "Ibovespa cai e dólar recua em dia de Fed; bolsas asiáticas sobem com impulso da inteligência artificial Portal do Agronegócio",
+      "publishedAt": "2026-10-29T03:00:00.000Z",
+      "summary": "Efeito manada: o perigo de investir como todo mundo Seguir as decisões da maioria é um comportamento comum e, na economia, recebe o nome de comportamento de manada. A tendência faz com que muitas pessoas invistam em determinado ativo apenas",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 7.96,
-      "relevance": 10.8
+      "score": 6.79,
+      "relevance": 7
+    },
+    {
+      "title": "Raízen fecha acordo de R$ 22,4 bilhões com a União e abate R$ 8,5 bilhões em multas e juros",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/28/raizen-fecha-acordo-tributario.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-10-28T21:06:01.000Z",
+      "summary": "Logo da Raízen Divulgação A Raízen anunciou nesta quarta-feira (28) um acordo com a União para renegociar R$ 22,4 bilhões em dívidas com o governo federal relativas a tributos de empresas do grupo. O acordo, negociado com a Procuradoria-Ger",
+      "image": "https://s2-g1.glbimg.com/sGVd_ajUEsHLvLXmw2qiq00teGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/V/6hFQlST0iVMfWZDEN3tg/raizen-1200px-v2-1773240962.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.65,
+      "relevance": 8.6
+    },
+    {
+      "title": "Festival de Cinema Francês traz drama premiado em Cannes e comédia com Isabelle Huppert a SP",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaC1kNUlvSFhrS0NxdGRkdmI2N3B2VVdxZkJsOGNDblc0X0YzNDl2MFNHLV9VOF8xZTFXbG5kdDB0am9YdHZmQ2dwOGRzd2ZKNlhSYzN0dnFzYkptR2xjaURRWjJBcmdGRTdPQU9JTE96bk15WmRXSFo4V1ZyZ0tianFIcC1YQ2VBNF81MlRrcExpbC1JRThNMkJpekd0NTI3dzRPRGhZMU51dHV2SGhxdzNTT2VPZVU0UzVIOVc0S240OFp5aFBRYmp4c3lBTHc0NlkwSUlRSGx4LUU?oc=5",
+      "source": "Guia Folha",
+      "publishedAt": "2026-10-29T02:00:00.000Z",
+      "summary": "Festival de Cinema Francês traz drama premiado em Cannes e comédia com Isabelle Huppert a SP Guia Folha",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.54,
+      "relevance": 7
+    },
+    {
+      "title": "Gargalo da inteligência artificial migra da viabilidade técnica para o impacto financeiro nas empresas",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa0hwOW1xZFhPZ2Qxek41cU1VUXI3SEJIb3pZMW1mNWI3UXhCWjZ0b2hJTDBtSzhZN1JJVE82eHZaU3d2Ul96NUtWUTlwek1qQ0oyaWtELW5NZWdiTDFtRXdaR1J4aEpDTU5LTXB4cHlvRE5DekRLU2V3RGhpaDB0NkkwQ1d0RTBCbE5LRXBaNDYtdGpSOWtHZVNlZVlNWUxyN2hpR185Q0NIbVFSeHVzdVpGVVU3eHExT19IWGVYVkZ0dkdDVjQ4V3pFN3ZSdw?oc=5",
+      "source": "Brasil Inovador",
+      "publishedAt": "2026-10-29T01:10:10.000Z",
+      "summary": "Gargalo da inteligência artificial migra da viabilidade técnica para o impacto financeiro nas empresas Brasil Inovador",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.33,
+      "relevance": 7
     },
     {
       "title": "Netflix em novembro de 2026: veja calendário de filmes, séries e estreias",
@@ -201,21 +253,191 @@
       "topics": [
         "cinema"
       ],
-      "score": 7.73,
+      "score": 6.2,
       "relevance": 8
     },
     {
-      "title": "CNI reduz previsão de crescimento do PIB para 1,6% em 2026",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzN4TjV0Ti14cEVoWUhPUGozNEI0cEQyUU5ZVU5LVnhjMkNOV3FxajlTbWpQWG5GbDhjRk5ucFltZEE4RktwTllVWEtEUy0xeDFOVkRSeEV2V2NvX0dqSFFmWnE3SnNJeGxmOTNQOHdlM0RMN2J1M1JMelltT2NPUmpWejZHb2p2SnhvU1gwRkt4c3hRQnQ0Y2hEWUw1cXdveHk1WVI3Z0ZMSERlLTIwWHhaQTI?oc=5",
-      "source": "Agência Brasil",
-      "publishedAt": "2026-10-28T19:33:00.000Z",
-      "summary": "CNI reduz previsão de crescimento do PIB para 1,6% em 2026 Agência Brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "title": "MAC amplia investimentos em tecnologia e inteligência artificial para orientar novos empreendimentos",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHNOSW5McDkzdjV6X0Fsb0VZcXV0dExLdFprbXRKaHB5RmJCc3ZoX2ZzNWZ5cHR0Tm9Yb2hxY2ptVWJQRC12RXBnOWdRM3NxMW5oWGNIanNSVXZoZG4zV1ZsSy11cWhiU1d2MFJnZk8ycjFzQ1VFVXJIV0JLNWNwRWdaOFlTYWRIUUplQXZpVm1iLWZLcXBWYXdCWEl0T1FidTZ0UTNsZXBtUk9RUFJTNzhMUC11bEpTRGMwTW5HYlBBc2RYWTJLUmhtMGNPanhxZGVDZmowMTktOFV3?oc=5",
+      "source": "Portal Revista Kdea 360",
+      "publishedAt": "2026-10-28T21:08:20.000Z",
+      "summary": "MAC amplia investimentos em tecnologia e inteligência artificial para orientar novos empreendimentos Portal Revista Kdea 360",
+      "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 7.62,
-      "relevance": 8.4
+      "score": 6.19,
+      "relevance": 8
+    },
+    {
+      "title": "Top 10 da Netflix: 'Lupin' lidera entre as séries e 'Contra o Furacão' entre os filmes",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmxKMnN2a1NocU1ndXJ1UXNXUFlzQkpSS045NV9RT21yR01ybmkxVGxLRDZmXzFEbFVVUkE4eXA4bUgtOFptUklZZWljOHhqYXBEZkJpNFA0QkVYMVVpV1c3SWJIZFZYZ1FZeG9mRmxtYkg0UkJTOHhpUkdOcTh2X01kS3RjV2pTVXVFZUxBbi10MXRVRThwU0dqcmJyN2ppLVAxTTBlRQ?oc=5",
+      "source": "Exame",
+      "publishedAt": "2026-10-29T00:22:27.000Z",
+      "summary": "Top 10 da Netflix: 'Lupin' lidera entre as séries e 'Contra o Furacão' entre os filmes Exame",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.14,
+      "relevance": 7
+    },
+    {
+      "title": "INFOGRÁFICO: veja como foi a rota de fuga de Flávio Bolsonaro para os Estados Unidos",
+      "link": "https://g1.globo.com/mundo/noticia/2026/10/29/infografico-veja-como-foi-a-rota-de-fuga-de-flavio-bolsonaro-para-os-estados-unidos.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-29T03:00:00.000Z",
+      "summary": "Rota de fuga de Flávio Bolsonaro para os Estados Unidos Arte g1 O senador Flávio Bolsonaro (PL-RJ) desembarcou nos Estados Unidos na quarta-feira (28) após deixar o Brasil com a esposa e as duas filhas. A família viajou em um avião particul",
+      "image": "https://s2-g1.glbimg.com/juXDboYoRo0E8X466Xu7unU0Yhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/0npTVKRMAAfhORz98zMQ/2026-10-26t022137z-995936666-rc2paoaxw1yt-rtrmadp-3-brazil-election.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 6.02,
+      "relevance": 6.2
+    },
+    {
+      "title": "Cinema terá estreia de filmes e evento musical do BTS no fim de semana",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWRQSVFnRWtYYnNWci02TG9WQjE0N2dBOUxTTnBwX0lFZkQwNjFaTzM0OElCem1BbXllZDJJZDRVRGRCQUJyRmJFRmJKMjJCeGJxRm90N0QzaVVXWHdaMWxrbi02S0ZLNWhxX24yeWJKQzRCTUNLZVR0RDBvNm5TcVdSOUZIb1N3SmUtcFdpWlJNdmxfMXZ5cnFtVFRDMm1rdUJRQnEwVFNRWGNNVUNSLQ?oc=5",
+      "source": "A Crítica",
+      "publishedAt": "2026-10-28T23:46:25.000Z",
+      "summary": "Cinema terá estreia de filmes e evento musical do BTS no fim de semana A Crítica",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6,
+      "relevance": 7
+    },
+    {
+      "title": "Filme ”As Dez Vantagens de Morrer Depois de Você” estreia nos cinemas de Goiânia",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmVHQU5LeGNMbUZiVEhYSHZESnpKMXRyLWdtNTNNRm10N3ktbEp1bEsxY25mRmRsNUdjcGY4amd0ZGM0U2pTSWNlNUx3dUVvLUhKNUdOYzZXVnctbVgxcVBidDY4QkdxOVg2dUVKNWl2ZHVjZVVpd01mYVdNeVFmODhPeXlMXzBnUFYyUW1qREM3aEZkWE5aWWtxZEUxMnczVVhyZlRR?oc=5",
+      "source": "A Redação",
+      "publishedAt": "2026-10-29T03:30:20.000Z",
+      "summary": "Filme ”As Dez Vantagens de Morrer Depois de Você” estreia nos cinemas de Goiânia A Redação",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.94,
+      "relevance": 6
+    },
+    {
+      "title": "Bolsa brasileira fecha em queda pelo 3º dia seguido",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/28/bolsa-brasileira-fecha-em-queda-pelo-3o-dia-seguido.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-29T01:21:23.000Z",
+      "summary": "Bolsa brasileira fecha em queda pelo 3º dia seguido A bolsa de valores caiu nesta quarta-feira (28) pelo terceiro dia seguido. O Ibovespa fechou em queda de 2,68%, aos 171 mil pontos. Os investidores ainda reagem ao resultado da eleição e e",
+      "image": "https://s2-g1.glbimg.com/zv-f02x4GqmKRFgtu9NSCngqvqU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/A/iM6QxRQzy0FTAAuemwEA/globo-canal-4-20261028-2000-frame-60804.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.83,
+      "relevance": 6.4
+    },
+    {
+      "title": "Indústria e comércio atacadista somam R$ 169 bi e concentram a economia do ES",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNWVxUElkTXcxa3RvS1NjblhVTDh5YUFDTVEzTXJnclpMNXdicTBCb1ZoWjgxNk43TVVHOHJFbEhGU0VzU0g4anpDVlFuSUJSd3JoM0JENGFYRElPc2JSR2lUdDZQeDZLbF9wenBPWlViWUZpQ3FLN3RJRXV3bHJ1dg?oc=5",
+      "source": "ES Hoje",
+      "publishedAt": "2026-10-28T23:01:03.000Z",
+      "summary": "Indústria e comércio atacadista somam R$ 169 bi e concentram a economia do ES ES Hoje",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.83,
+      "relevance": 7
+    },
+    {
+      "title": "Confira as estreias e os filmes em cartaz nos cinemas de Goiânia e Aparecida de Goiânia",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXNRME00MlpxaGJlU2hSdG90OFp6dlFaTXhXVl9QcGR4R0IzX05jcFprYzhuQVBKTGxYZU1DRlZJcmhndGdEaVhEaTJRUmI5QTNxcTdBbUhSWkZvY1ptSV81cU5SVzZDWktoS2FFMDgxN2dUTUFfU3NPbnNpVE1lVGtxZkhZMzVKZnl5OFFpdkJFaUotUG8xbktEZ3pNZ1hwd3dnelpnZU5Pb1NOTkVocm5Ib0I2aU00eXNsVzAzV0dlWmlHZlBJTHFR?oc=5",
+      "source": "O Popular",
+      "publishedAt": "2026-10-28T22:53:31.000Z",
+      "summary": "Confira as estreias e os filmes em cartaz nos cinemas de Goiânia e Aparecida de Goiânia O Popular",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.8,
+      "relevance": 7
+    },
+    {
+      "title": "“Festival do Cinema Brasileiro”: estreias e filmes em cartaz a R$ 12 em Campinas",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLWthaHRrZlQ4RU4xc1doa1FIamZuOTFXLWdiMHlEa1kxSXBKNHVBamhrWkZpVTl2X0JZS19wM0Q4TUhfLWhvdnlLclc4ekl3YVdKY0FvTC1ZTER1cHk3b19tZ0tRU25HNHh0Zmwxb1pyZGJTaVgxa0dtbnR0UVVmY0l4ZFNFZk1XUTJEaV9WWE1UUTZEOFd0UEwtcEh6ODViM0ZlUHRyTGRxNnot?oc=5",
+      "source": "Campinas.com.br",
+      "publishedAt": "2026-10-28T22:35:06.000Z",
+      "summary": "“Festival do Cinema Brasileiro”: estreias e filmes em cartaz a R$ 12 em Campinas Campinas.com.br",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.73,
+      "relevance": 7
+    },
+    {
+      "title": "Premiado em Cannes, 'A Terra do Meu Pai' estreia nos cinemas brasileiros nesta quinta (29)",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM0drVjVkakJtS1VrVjBBSkM3X2JIdndqZ2I0V1BqcElMVUtMSUhkR2VjNzBNN1ZZT01xWF9MOGxfbzdTYVZmbHh5djVlN2IwdFMyNDhWaWJDNGc5WWNiSDU0QzVNb3RrLXNhVkFBWDh3aUMyZldFSGlrbW5ud3dwaG5VOVA?oc=5",
+      "source": "O Universo da TV",
+      "publishedAt": "2026-10-29T02:31:00.000Z",
+      "summary": "Premiado em Cannes, 'A Terra do Meu Pai' estreia nos cinemas brasileiros nesta quinta (29) O Universo da TV",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.71,
+      "relevance": 6
+    },
+    {
+      "title": "Tendências 29/10/2026 | das principais ações da Bolsa",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdENsbE9IaWNEelJ0TVp0akhWdmg1cTl1U0lkMmhKaHVDMlFhS2tTamgwODV5M0NUR2ZJT0V4b2x2dVVJTW8zcTNqd2hma3BDVmxLMVl1Q0FnT0tsaVRkS3ZPZlJSSnQ1djRUcHJ4Z2dkZ25DbkhJY1VKNldyZ1QxZnFveUdtcW5EREJkT2kzVVBQUkFKdmhZdEQ1OUlIalBwZURNR2pUejByV1k5?oc=5",
+      "source": "XP Investimentos",
+      "publishedAt": "2026-10-29T00:35:24.000Z",
+      "summary": "Tendências 29/10/2026 | das principais ações da Bolsa XP Investimentos",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.66,
+      "relevance": 6.4
+    },
+    {
+      "title": "Fenalaw reúne mercado jurídico em São Paulo para debater inovação, tecnologia e negócios",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd1lRenBud194MXhvMGd1NkRBaE5xQW5HZG5UeExpZnI2MXR1bUhtWWl4WDhtMUxwQkdCaTdzT182OU9UNXBSaHNEd1lBQzh1MzdnUE9BZlFCYWg0cGN3bC1tSG5XOTRYVm1fZjlMWVhBZFk2aENnLUZlNFJoTzlXV1BnQUxoNEtHdEF2TVZsM0RGMjNfdXFMd2Z3NXNYb3pTRmVrN1FhZmFlY0RDQzBncEk0dFNQbE5xcTRGemJ2cFQ0MXc3X3dWalFiUQ?oc=5",
+      "source": "R7",
+      "publishedAt": "2026-10-28T22:14:49.000Z",
+      "summary": "Fenalaw reúne mercado jurídico em São Paulo para debater inovação, tecnologia e negócios R7",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.66,
+      "relevance": 7
+    },
+    {
+      "title": "Dólar recua a R$ 5,34 após declaração do presidente do Banco Central dos EUA",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORFdzWW5jMXhaMzhqVzJDNXNDQzIyVmdlOXFVcm00WC1rZG1icmhqT1doekw2ei1xNnh1bVlzZ3MtNE5WbTJGOEtsb2Joeno5U3JxeDcwZnJZV0Zzb0dydVNhUjVqRGVHWTVMMUd1cjNtLWIycEpmMU1Gb3Fud0RJMENVMG45NGZaN013eENQR2lxRDdNSDlaRHRocVktVDlyS0tSaDJraW9CeDZB?oc=5",
+      "source": "Jovem Pan",
+      "publishedAt": "2026-10-28T22:14:21.000Z",
+      "summary": "Dólar recua a R$ 5,34 após declaração do presidente do Banco Central dos EUA Jovem Pan",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.65,
+      "relevance": 7
+    },
+    {
+      "title": "Estreias e, festivais de filmes brasileiros e franceses: confira as novidades dos cinemas em Campinas",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPalNwWU9WSWN6ajVFSW1zM0N3enpGeEhPYkstYUZqaGQ3MGNNVC01UXltSkVVVEltbDNKU29WT0g3TXg3elU2YWh1WWFWMWRaY0hzNG5oOEZMTGk5WVl4dEczOE1oc2ptdEpYTVZHN1pvUG9pZDBmMHNjMDhlTUc2N05SdVRyUlVsU0ZlWnhzVUp1ZHVWY0RhLWpJd0d2aU1Qb1pOREpvZVRseWhjT2NFVU5DbDRaSEtiN2lNREJ5WU8zaUNUR3ozR2JXSQ?oc=5",
+      "source": "Campinas.com.br",
+      "publishedAt": "2026-10-28T22:05:22.000Z",
+      "summary": "Estreias e, festivais de filmes brasileiros e franceses: confira as novidades dos cinemas em Campinas Campinas.com.br",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.62,
+      "relevance": 7
     },
     {
       "title": "UFG lança modelo gratuito de inteligência artificial para empresas criarem soluções próprias",
@@ -227,7 +449,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.99,
+      "score": 5.61,
       "relevance": 7
     },
     {
@@ -240,21 +462,21 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.95,
+      "score": 5.58,
       "relevance": 8
     },
     {
-      "title": "Reservatório do Museu do Porto convida a descobrir a história da cidade através da arqueologia e da ciência",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYzVxUlh5QVdUbnZZbHRPek50alFONkFzeHFoV0c5dHMyYWhQWXUteUlVd1ZJdjlkSUJsaTVtSzVMZ3p3SWxWd1laVndBQjFhQVFTSEZPNlJjdko3T1Jxc0NHcFhuTkRncHpmT3dpQVFkeXZZMjdsQWVtWkRJX21ZSFRuWVNFMFo1UGJJSUcyTE43MkVXLThHZGNETkR0Xy1pbW5Na2ZINVpIZDFmd05wTkRxbHM2bXZNd2xmalFuV2JITXpUNlllUFhqVE5ibEZ3eFpFLTZB?oc=5",
-      "source": "Portal de notícias do Porto",
-      "publishedAt": "2026-10-28T21:34:33.000Z",
-      "summary": "Reservatório do Museu do Porto convida a descobrir a história da cidade através da arqueologia e da ciência Portal de notícias do Porto",
+      "title": "SUMMIT SAÚDE: veja como foi o evento que abordou principais desafios da saúde no Brasil. ⁣ ⁣ Encontro reuniu especialistas, autoridades e lideranças do setor em torno dos avanços da medicina, da prevenção, da inovação e do acesso a tratamentos.",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GZWw3UTR6dG1VcU9SaWNFdldYNThwUGFqUkNrMjdaTW92RFo2cTJOZnFmd0dfT20zZ3NpQ2VhSHBWajM4N3NKbXhSaGtRTGNiamVjNTlR?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-10-29T01:25:01.000Z",
+      "summary": "SUMMIT SAÚDE: veja como foi o evento que abordou principais desafios da saúde no Brasil. ⁣ ⁣ Encontro reuniu especialistas, autoridades e lideranças do setor em torno dos avanços da medicina, da prevenção, da inovação e do acesso a tratamen",
       "image": null,
       "topics": [
-        "historia"
+        "medicina"
       ],
-      "score": 6.87,
-      "relevance": 7
+      "score": 5.48,
+      "relevance": 6
     },
     {
       "title": "Bancos investem bilhões em inteligência artificial: o que muda para o mercado de tecnologia?",
@@ -266,8 +488,21 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.8,
+      "score": 5.46,
       "relevance": 9.4
+    },
+    {
+      "title": "Governança natural sobre a inteligência artificial",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0hZMy1uN1otVFY5SnhUeEltcGNEbnFreFFoYmRUX1RPLVBhNXV2UWMtdTFuMFhMVUZ4bEZhbmc4MlUxU291RHFsVHhacmEtNktIRHA3WHRJZDRWQU1nVEhqZFJmNEpvTlhaWnBlb0x5R2s0MW1iVnFITElwMVFQakF5aHVPd25BYmhnNENiR1Vpc2JGYWc?oc=5",
+      "source": "Coluna Política",
+      "publishedAt": "2026-10-29T01:04:28.000Z",
+      "summary": "Governança natural sobre a inteligência artificial Coluna Política",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.41,
+      "relevance": 6
     },
     {
       "title": "Dropbox anuncia demissões em todo o mundo; diretor de tecnologia também deixará a empresa",
@@ -279,7 +514,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.68,
+      "score": 5.36,
       "relevance": 8.8
     },
     {
@@ -292,8 +527,47 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.64,
+      "score": 5.33,
       "relevance": 8
+    },
+    {
+      "title": "Fed terá menos reuniões para decidir juros a partir de 2027",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVDhVQ05saDJiSHk4V0JSQVdsYkxnN0lOUU1MVm91a2FsVmVqYzIyRTJQZVNBbDZRSGJRODFqUjNpNkVfaW1zcU5yT3NKTXljVWtySmZsQXFMbW5ScVdLeW1uM3M2RlRqRG1jdTVBak5QZ21COGUwNmJBM3ZzQjZCQjZMODFVNG1INzZrTVc4V09wTXRkOVZkTFc2ZWYydjZDelV3TmZUMk80NFVTM2g0eWQ5WmljZVU3Q0g0Sg?oc=5",
+      "source": "UOL Economia",
+      "publishedAt": "2026-10-29T01:14:48.000Z",
+      "summary": "Fed terá menos reuniões para decidir juros a partir de 2027 UOL Economia",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.26,
+      "relevance": 5.8
+    },
+    {
+      "title": "Como o PIX mudou o caminho do dinheiro no Brasil e por que isso incomoda Donald Trump?",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/29/como-o-pix-mudou-o-caminho-do-dinheiro-no-brasil-e-por-que-isso-incomoda-donald-trump.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-29T03:00:00.000Z",
+      "summary": "A história por trás da implicância de Trump contra o PIX A tecnologia brasileira PIX entrou na mira do governo dos Estados Unidos em meio a discussões sobre o impacto do sistema brasileiro de pagamentos no mercado financeiro. O serviço perm",
+      "image": "https://s2-g1.glbimg.com/QepxgC4d4575P51mwUrzs5QtBY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/u/xYEEOsRCe41Sv9Zc7Ybg/pix-.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.24,
+      "relevance": 5.4
+    },
+    {
+      "title": "'Ana, En Passant' leva representatividade negra à animação brasileira e estreia nos cinemas em novembro",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMU1jeUI2SnJaZFZvTk9SVFQ3eXhoUHBRcEZpS2NCTVVCaTk5VEZJUU1FbHhBakYweG5aVFJGYnNidG5WcHRDSGxUaFJYVmpfZXdJUkZZUGlUQkJERTVLb1hnNThCTnVpb2xaZmx5SDM4aGlxVUx3QkJTdmduWWExOEg4dnJiUzJE?oc=5",
+      "source": "O Universo da TV",
+      "publishedAt": "2026-10-29T00:17:00.000Z",
+      "summary": "'Ana, En Passant' leva representatividade negra à animação brasileira e estreia nos cinemas em novembro O Universo da TV",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.24,
+      "relevance": 6
     },
     {
       "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Disney+, Prime e mais",
@@ -305,20 +579,7 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.52,
-      "relevance": 8
-    },
-    {
-      "title": "Festival de Cinema Francês exibe 21 filmes na Paulo Amorim e no Cinesystem",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdXJaUG5CTkVhTm1jWjNIaGlWUWdQRUFWU0R6WWluWlNkNWQwT3RCSmxDYUFkSDZOaGtlUmhUcDhPTHpfdnAwVHZqZnZYbzZHMkJSNUVaaHJRc2xDVmZDQmdBNno5SjhkT0NUR2ZWeVR4b3FIcFlXMUs1aGVsa1hUMGh6cG5KYkdIcWEwa2lRWGhHTFlVTnFfQVh2V0hiQ3JOLWxWU0I0UjdJSlNzNlZZUVVKc1ZaaTJuVW44VjlTLTQweXFfQW5TR1B6S3N4SGcwQ2Mwb1Z4UVloR25MRFdVM3o2TVVmbGpqNC0wUTJ1ZmNNbVlWLVBEblctbXRUNEo1?oc=5",
-      "source": "GZH",
-      "publishedAt": "2026-10-28T16:43:45.000Z",
-      "summary": "Festival de Cinema Francês exibe 21 filmes na Paulo Amorim e no Cinesystem GZH",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 6.51,
+      "score": 5.23,
       "relevance": 8
     },
     {
@@ -331,8 +592,47 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.49,
+      "score": 5.21,
       "relevance": 8
+    },
+    {
+      "title": "Einstein e Fundação Champalimaud firmam parceria para avançar em pesquisa de câncer e medicina de precisão",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeEJub1FXY0tJLU9PVHR1bGc4N0lPYy1LRjI1YkN6Wjl1NFotblpSNlI0YXJ0dXkyUW81YUg1bFhQVFFNX1M5NFlMbWVmTUNtOWVULVY2dTBWTDdFY2RXcDJCVHFrS19JZjM5ZDU0SEN4VmhBNkRQTXJpa2ZfbVpNd2ZKMllaS05Ec1llQnBtYkNVc3RtaXZFMjBOaDA2dXNTSFp0dUdjN0xiT2Vfd3dZUFBMYnFLRDZOOHFMc3JYckQ?oc=5",
+      "source": "Futuro da Saúde",
+      "publishedAt": "2026-10-29T02:48:08.000Z",
+      "summary": "Einstein e Fundação Champalimaud firmam parceria para avançar em pesquisa de câncer e medicina de precisão Futuro da Saúde",
+      "image": null,
+      "topics": [
+        "medicina"
+      ],
+      "score": 5.2,
+      "relevance": 5.4
+    },
+    {
+      "title": "Juros de 10 anos sobem a 15,04% e mercado vê Selic mantida",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHlXTGthTnNSbUxtRmViOHVwVXFoMTlYc01CdTZHdjVoRnlfVnd4Mm43dnlaVVJYMVFrbl9HU00xV1o5eEJxYnR3bV9ZaFRsRUdFNFd3czdBMVp2NF9DaGNveUR4NjItSXh5ak81bHlSUng5Mld0Ulh6VW1ram5sR2Y4UWFjUUNsUXpXalVONFlQRTVnS2VaY3lFUXlOY3lCVUE?oc=5",
+      "source": "Poder360",
+      "publishedAt": "2026-10-29T00:00:52.000Z",
+      "summary": "Juros de 10 anos sobem a 15,04% e mercado vê Selic mantida Poder360",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.19,
+      "relevance": 6
+    },
+    {
+      "title": "Oscar planeja ampliar lista de festivais que classificam filmes para Melhor Filme Internacional",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5rdFZMUG5nTzRENWdaZHhLS2FmXzRmTGhIaEdWME9yZXY2amltMjEwZnFEdUtwSzhLUzR1MkZFTS1BZnZhQ1Zid2hXVTRwN1l4UEhtajMyMlJtVll4Rmh4YUs3ZjhjZ3NYWHU4dWgzU1cwZmVBdUR0cjhxcTk?oc=5",
+      "source": "Oxente Pipoca",
+      "publishedAt": "2026-10-28T23:59:40.000Z",
+      "summary": "Oscar planeja ampliar lista de festivais que classificam filmes para Melhor Filme Internacional Oxente Pipoca",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.19,
+      "relevance": 6
     },
     {
       "title": "Por que a Anthropic estima um mercado de US$ 40 trilhões para a inteligência artificial?",
@@ -344,7 +644,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.46,
+      "score": 5.19,
       "relevance": 7
     },
     {
@@ -357,308 +657,8 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.44,
+      "score": 5.17,
       "relevance": 7
-    },
-    {
-      "title": "Cinema do Dragão recebe Festival de Cinema Francês do Brasil e promove pré-estreias do premiado longa cearense “Feito Pipa”",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORG51RXF1RnBhZmY4NTBBczYwZ3RES1Nad3dYb09pelFyNElFd2pyZ3J6OWpITkhONWdEUE5Wd0NzOGNCb0p0UWNjclYwT3F6S2huS19aZmJyNVBuZ2RHSGtELVZocFljSHpQNV9YcHBPZUwxOV80X3VjMnhmTG1ZYjFuaXJObTVjMF9nZTlTQUpueFd1T2hud1JyRXpQMWlfNThlcmNlZEQ2Ymp2SFZmWmpBWXd0Q3RiU0FLS3NGLXJiOEhHREUyNTNYVVFDWWhZTjM2eks2YkljXzV3TmY0QW1tQmhTaHQzRXh6R0xoQmZfdHlf?oc=5",
-      "source": "Governo do Estado do Ceará",
-      "publishedAt": "2026-10-28T19:49:13.000Z",
-      "summary": "Cinema do Dragão recebe Festival de Cinema Francês do Brasil e promove pré-estreias do premiado longa cearense “Feito Pipa” Governo do Estado do Ceará",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 6.42,
-      "relevance": 7
-    },
-    {
-      "title": "Empreendedor explica desafios para expandir negócios e adaptar empresas à inteligência artificial",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRTNvNEtfODNYdlNlM0tKOWdETTZzdWtkUnFNbGhPb0lkNDctTE55c2VOZDFyLXNXYmtiSTRVWWZqRDZPaDhtV29UNGN3WWtVaEJ1Zl9vMWVGbmZtcTdSM3A1R2RZcWphZm40a0EwTlZTOVhjTXI2bGkzRXFFVHlTRGVHWmhqYUs4LTJncWxuVXBYTWVvbUV4WXQtc1JBQXpVZll5aDVLNFFRVDlFcFJfXzlMNFc4eEFSYTdZRFlRcDJpYm5YMDFyQmNrZVhONGxYM3NXdHd5MTN1aGVKOWxFTnllcHpxTnJIcHpBNTNBX19vXzJhdFpmLTNuRUZGUQ?oc=5",
-      "source": "R7",
-      "publishedAt": "2026-10-28T16:14:15.000Z",
-      "summary": "Empreendedor explica desafios para expandir negócios e adaptar empresas à inteligência artificial R7",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.39,
-      "relevance": 8
-    },
-    {
-      "title": "Empresas que mais geram valor com inteligência artificial adotam estas estratégias, diz McKinsey",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQUo3RkdIRlF4N0dfYW9DY2theDRWTVU0dUxHeTNxSE8xc3RYMTVZX05vTDktUGk5T29NNXJjek1xTWE2MURZS1NmNkVGWWR2MzZzVG1VNkxRWFdSaDVkbncxWUVmQWVWQTlPbEV1QkVSVXVGcTVRWG1HV2Z3RXUtVHZaUGNZUF9oTjJhVGJQV2tVSDZIY2RxeHFJdXp6ekxaZFdWNmpiYW44dlpscFFLZDNNdlBWZFZIOC0zbmtQejZRbnlVYVgtWWZKbEtLLU5JV3BBeg?oc=5",
-      "source": "Exame",
-      "publishedAt": "2026-10-28T19:33:03.000Z",
-      "summary": "Empresas que mais geram valor com inteligência artificial adotam estas estratégias, diz McKinsey Exame",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.35,
-      "relevance": 7
-    },
-    {
-      "title": "Marabraz tem recuperação judicial aceita pela Justiça e diz que buscará 'solução sustentável' para os negócios",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/28/justica-aceita-recuperacao-judicial-da-marabraz-que-tenta-renegociar-divida-de-r-140-milhoes.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-10-28T19:31:59.000Z",
-      "summary": "Lojas Marabraz. Divulgação/Lojas Marabrez A Justiça de São Paulo aceitou o pedido de recuperação judicial do Grupo Marabraz, rede de móveis que busca renegociar cerca de R$ 140 milhões em dívidas. 🗒️ Tem alguma sugestão de reportagem? Envi",
-      "image": "https://s2-g1.glbimg.com/Jt-Gcdc0aWDwI8qdGfB4hLUhG08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/6/AmZFeKRCajIfTikZBP5w/whatsapp-image-2026-10-28-at-16.44.03.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.35,
-      "relevance": 7
-    },
-    {
-      "title": "A interrupção na Bolsa e as incertezas na economia do País",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTTVIdUVwdzRaVXJVNGpneFBOU09rWkJjNDMtbVROV2RqM0h5dXl0ekxyRFoxcndNXzRhX3Qxb25rTTBKMERHOHhrb01JRHZmaXp6d1lLUUlNYXNIaHFQRHZHUjdSRzRIRzZQTEdDaVo2U1lCQm9ZcHE4RnZXWl9XSms5aHp6R0twbmxuQldKQkdQa2VzNGZBc3QtZmN6YzRMMUlYYWpmVTlFTTFBY3BOc0ttNkZkYlBYaXFTWHltVQ?oc=5",
-      "source": "Jornal do Comércio",
-      "publishedAt": "2026-10-28T21:28:45.000Z",
-      "summary": "A interrupção na Bolsa e as incertezas na economia do País Jornal do Comércio",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.26,
-      "relevance": 6.4
-    },
-    {
-      "title": "Warsh, do Fed, diz que economia dos EUA não está superaquecida Por Reuters - Investing.com Brasil",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRV9HX0Q2V01TWmUxZWFFZWJGX1VndWUyOXA2Q2lNVlhIS3Y4NGhFV0lDMWRaXzIzczM3aUhKR0E5THBmdlhJNkNZZXY4ZDJjM1F0MTUwSEFEVWh5SFQ0eC1VNUdmdXdvOFk5dW0xOVBGZjNtZEY0cHlkNE1nTzEtX3ROSkRPcndxcWd6OUxFUHNYUEV2VmJfTWtDLUVuTHhScTdSUFlaWGRlZHVJQnM3dg?oc=5",
-      "source": "Finanças, Câmbio e Investimentos",
-      "publishedAt": "2026-10-28T19:32:00.000Z",
-      "summary": "Warsh, do Fed, diz que economia dos EUA não está superaquecida Por Reuters Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2026binary_LYNXMPEM4L12T-BASEIMAGE.jpg?w=200",
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.17,
-      "relevance": 6.8
-    },
-    {
-      "title": "IA Portugal lança loja online de inteligência artificial para PME com soluções prontas a implementar",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaHljTFhLSC1jazNVRllQTEJjaWxPUjNtOTNVZm03c3NnMTFVYnVKeWlVVTlxRXZsSWpCdE55TU5yTlNvT0lRcnR0bklzc2lIUUc1aHhZMk5ad3J1QlhKbU9iMExvb0pfc25HZ1owN3BGUkNkM3B1YmRnbDMxY0ZKX3IwX3ZvRHM0emZhZXBWeDhRZjN3UUlDVFlaMGhrbW1XaUlwdFJUNUVvXzQ0Rk5id1hrYlZZdmtVY2RJQjhFTm4yQ29VdmFXem1VMWhwS3FBOU5iSXhsOTF3UQ?oc=5",
-      "source": "Jornal Económico",
-      "publishedAt": "2026-10-28T20:52:00.000Z",
-      "summary": "IA Portugal lança loja online de inteligência artificial para PME com soluções prontas a implementar Jornal Económico",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.11,
-      "relevance": 6.4
-    },
-    {
-      "title": "Fed mantém juros e passa a descrever economia dos EUA como forte",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUZibjlXcVdhRFNBM0JrLXRyUF9KdVhKYnFMQm5ITXNQT3VjbFR4ci1oSjVKS1c3Q2xKNzNiYkhoZDRFQmhqQ0F0RjB2VXA1aGhlZ09teFNtU21LMmdHdk5Mb1RhanlhaWRzWXhzVmlyY3A3YUFGbENZd3NPSHh3LUpQeFY1RUg5R05GUFctZ3FLTXlkU1FwZjhoQ1VYTGJGc0dyNkpBWQ?oc=5",
-      "source": "Canal Rural",
-      "publishedAt": "2026-10-28T18:28:04.000Z",
-      "summary": "Fed mantém juros e passa a descrever economia dos EUA como forte Canal Rural",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.09,
-      "relevance": 7
-    },
-    {
-      "title": "Treinamento da Nível Soluções Empresariais aborda o uso da inteligência artificial nos negócios",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT19BbGNwdVgzc2JtZDUydE9HdUhIb2xMaVdlMVN2NWJ0anlVd2plbHpxR0d3WjFSSVlSaW9qTUJ6UTJmb3hJTkhrbHRUbFpiTXNoZlZHYXBnYjduUDd6T05wdE9BWWdLaVFpYzNhb2NaUmhZRGNHX1NPclU0ajRPRnY2VDg4UEtSTVVmTk1tY1JaZ1Q1cVNCdVRrVUtKX0JxVXl4YlI5RTJKUUpGdTkwbG03T000UzZqanFv?oc=5",
-      "source": "GAZ",
-      "publishedAt": "2026-10-28T14:25:00.000Z",
-      "summary": "Treinamento da Nível Soluções Empresariais aborda o uso da inteligência artificial nos negócios GAZ",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.96,
-      "relevance": 8
-    },
-    {
-      "title": "Hospital de Base recruta mulheres de 14 a 45 anos com acne moderada para estudo clínico",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEdIMGpLMHV6OW40VllBTy1ocVZXNXNXUEEwM1ZBR0t0V01NY3pUSkZxMEtPMmljZXhhc1JrUVVjQUlNZVo2S2YwQWhfM3RNUm52RTJTeGJKdDRtRzY3T1FjaGExZk5EaVhVN21fbTBORlZDZnNwdkdST1dva1dsMVVmbFRkdGxPZ0cxTGxGaldJZVIyZkM4?oc=5",
-      "source": "soubrasilia.com",
-      "publishedAt": "2026-10-28T21:31:31.000Z",
-      "summary": "Hospital de Base recruta mulheres de 14 a 45 anos com acne moderada para estudo clínico soubrasilia.com",
-      "image": null,
-      "topics": [
-        "medicina"
-      ],
-      "score": 5.88,
-      "relevance": 6
-    },
-    {
-      "title": "Festival do Cinema Brasileiro leva filmes nacionais ao Moviecom do Praia Shopping por R$ 12",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOC02Zi1lSTM0V1hyelFnM0hHSVF3WG5aNDBGRHNFdGdPU2Nqb0lDUVNvUzljOU9aR3R6ZHNLdzhpT3VvNDFhem1nSmRGNVlaOUhSWWdiZnZYYTg3MmdfSVYxczhPWUZUM21JcUpHdlRBdDhJY1lRcW04VEJyUnBjUndCdVlKU1NSaGVwS2hkZVYxSmVhYzdCS2RZZzljYkdjN3VUbHQyZmVHNlZid1hvT1l3M1dIRjZU?oc=5",
-      "source": "Portal Diário do RN",
-      "publishedAt": "2026-10-28T21:24:26.000Z",
-      "summary": "Festival do Cinema Brasileiro leva filmes nacionais ao Moviecom do Praia Shopping por R$ 12 Portal Diário do RN",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.85,
-      "relevance": 6
-    },
-    {
-      "title": "Wall Street e Bolsas têm viés misto com balanços e juros dos EUA no radar",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTncxeVQxTlNtYU14SUp0WXdBY3luaTZuTzVobXpZc2ZWOVZ2WVJiQjl6MEhlZ1FySlg1QVVxT1JTcEJHa1Y1MzRoNmpVSGJYbFlLY0s0MXhnZFJLQ2xMaG5hTVJzR01zU3hpNWFrc20yTkVDMEQxWm5RaEZJekpWamRSMzViQ21TZkVUZkY3Z3FMQjRxZ1ExYzhEb2QweEdhZlVIOFRxOHI3NEk?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-10-28T14:33:04.000Z",
-      "summary": "Wall Street e Bolsas têm viés misto com balanços e juros dos EUA no radar UOL Economia",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.84,
-      "relevance": 7.8
-    },
-    {
-      "title": "\"01\" EM FUGA| NEM HOLYWOOD PRODUZIRIA ROTEIRO CINEMATOGRÁFICO DIGNO DO OSCAR DA VERGONHA",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSGduMjdjaldhQnhVbnItMUk3bGlTM05qWTg0OVlnWHZWa2dNc2FwR0JoYS1WN3EtT2xoVDB2RnZVSkFiM2N4YzRfOXQ1NmR3Tkg5YTZFYUdmd0RYTWdiR0kwczdBQVE5STJLVlJ2Vk1iMkU3ZWtrUkw5VXVCbjAxaC1wU3V0T3lubnVtVXNGNHNQcTRQZ0Vob0FzUmNxa0JMbGRHa3F4SkFUeEhiMmJqZzk3OXJIMkt5SGdnZFZNVHM?oc=5",
-      "source": "Grupo Portal de Notícias",
-      "publishedAt": "2026-10-28T17:11:21.000Z",
-      "summary": "\"01\" EM FUGA| NEM HOLYWOOD PRODUZIRIA ROTEIRO CINEMATOGRÁFICO DIGNO DO OSCAR DA VERGONHA Grupo Portal de Notícias",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.8,
-      "relevance": 7
-    },
-    {
-      "title": "Dólar cai para R$ 5,32 e Ibovespa recua antes da decisão de juros do Fed",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQLWJiOGc5dEp0OXZxeV95bW5WSjJYWFVDZlRHMmU3NS0zdDFVWHotc2luRUtxTWVZdnpzRnQzNkdyMEo3WDh3VXFTTTI0TzVHLWhPVXBSSTFuU0pQWExSR0hGS2Y3RjhSSi1YOTRHYUJDYVpuaDJkOEF4OXpJYVViMnVleWVZTDVDYXpHV25hVHpPVnRlSDdOY1N3azJjRUx1UWpCeERGbHBjUHBPcWxtX0JuZ3VsNU4ybVl1YlN4UnkybnByZURKY2dxcGZ3V3MzbThmS1ZoWG5OUVdRNEx3cg?oc=5",
-      "source": "Portal do Agronegócio",
-      "publishedAt": "2026-10-28T14:10:00.000Z",
-      "summary": "Dólar cai para R$ 5,32 e Ibovespa recua antes da decisão de juros do Fed Portal do Agronegócio",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.75,
-      "relevance": 7.8
-    },
-    {
-      "title": "Apple TV: Lançamentos de filmes e séries em novembro",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYjd4d2F2cFY5VXhsaUltaFh2VEFiZXRrbGZoRXFfbFhNSHBEWFZ6dGZaNlhmaUlmN0Z1U1dqa3JSMkU4MUdCeDc3Ul9rbDVvT25lc3lYRmhJYUpwdVNkamI4TllCOHZLWXpMNjVJQldBVFV6MEFaNzVkaXViTHU0UmVFRkRHM0tqOVVfYlFEQjNtMWM?oc=5",
-      "source": "Portal TV e Streaming",
-      "publishedAt": "2026-10-28T19:05:00.000Z",
-      "summary": "Apple TV: Lançamentos de filmes e séries em novembro Portal TV e Streaming",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.7,
-      "relevance": 6.4
-    },
-    {
-      "title": "Negócios em Pauta: Economia SC, SP e PR lançam comunidade para conectar empresários de todo o Brasil - Ar-Rasheed Smart University",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbG5aZnNmdjBMWHc1bFZxV01vT2toR001WkI2QVJVMVk2eDFvMnk0NXlqbnB6Q0xPMnUzRnZnU1NKVjQ3MzZVZ1VHTnI3WkJpN083SEdYeDd2OG1sWW0xTXVUWEYzUEl2UmtQWVh6dmZsZm9UVFVyTERZU1U5bVQ3a3h3bE4zbnJFQ0MyU25tMTdwelJFNnFKTi1LS19ZS2tjaDBCUnJQaGVsM1NWbm1iSnhBNm9hbDVzZ0dRUzZqaWZ5alVKQVo2eDhvNGZ5Zw?oc=5",
-      "source": "Google Notícias",
-      "publishedAt": "2026-10-28T16:43:55.000Z",
-      "summary": "Negócios em Pauta: Economia SC, SP e PR lançam comunidade para conectar empresários de todo o Brasil Ar-Rasheed Smart University",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.7,
-      "relevance": 7
-    },
-    {
-      "title": "Número de super-ricos na China atinge maior nível com ascensão de empresários de tecnologia",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/28/numero-de-super-ricos-na-china-atinge-maior-nivel-com-ascensao-de-empresarios-de-tecnologia.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-10-28T10:47:39.000Z",
-      "summary": "Número de super-ricos na China atinge maior nível com ascensão de empresários de tecnologia Getty Images O número de super-ricos na China atingiu o maior nível já registrado neste ano, impulsionado pela entrada de empresários do setor de te",
-      "image": "https://s2-g1.glbimg.com/2a9nOmI5QufcqEqkgbcoNFtQ2AQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/t/4/iBTYlxSq2Rt0gNNGFhwA/deepseek.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.7,
-      "relevance": 8.8
-    },
-    {
-      "title": "Democratas bolaram 'plano secreto' para confundir eleitores do Alasca, diz jornal; Trump reage nas redes",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/28/democratas-bolaram-plano-secreto-para-confundir-eleitores-do-alasca-diz-jornal-trump-reage-nas-redes.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-28T19:50:53.000Z",
-      "summary": "Trump diz que vai respeitar resultado das midterms nos EUA 'se votação for honesta' A campanha do Partido Democrata trabalhou para recrutar candidatos com o mesmo nome de um senador republicano, com o objetivo de confundir eleitores no Alas",
-      "image": "https://s2-g1.glbimg.com/nQVRPSRnOmw-Ka53dt5qURpIimI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/l/7kZS4tQYGAAcqMXWXd5g/ap26230525970727.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.69,
-      "relevance": 6.2
-    },
-    {
-      "title": "Amazon corta até 250 empregos após lançar novos produtos, diz agência; veja quais áreas foram afetadas",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/10/28/amazon-corta-ate-250-empregos-apos-lancar-novos-produtos-diz-agencia-veja-quais-areas-foram-afetadas.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-10-28T18:00:01.000Z",
-      "summary": "Funcionários da Amazon denunciam à Justiça receber menos que um salário mínimo A Amazon cortou até 250 postos de trabalho em sua divisão de dispositivos e serviços nesta quarta-feira (28). 🗒️ Tem alguma sugestão de reportagem? Envie para o",
-      "image": "https://s2-g1.glbimg.com/rug-YXztiCQ4CPT4AbRBaPmLtdQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/w/zzYLkwSiOfOL8LdoXr3Q/2026-10-08t010301z-2110120797-rc21hbar5a86-rtrmadp-3-amazon-com-layoffs.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.64,
-      "relevance": 6.6
-    },
-    {
-      "title": "“O Bosque Selvagem”: como é a animação cotada ao Oscar de Melhor Filme em 2027",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQVV1NFRPdmZsRE1tUW53MzVjSXVvWnVtNVRLcEpONFZTaXFLeGNJSm5WUUNRUkdqeC1UUHRkMWpLeGRVaF9Za2V2TFJNVzBxOUdNMS14aDFSMnlnMDJOSEdNNnZZeGZoTDNYdEJNYWhIaDEzWlRFWlJobTd5di16czB4SWFRY2tBaG1kM19XWEVIazFESkZma0hZNEhNbUNjT01QMDkxVjF6bm15M2xWM1lMQ0g2dVVTVF9iVUxocGRlTlgyMzhZekNvVFg?oc=5",
-      "source": "Correio do Povo",
-      "publishedAt": "2026-10-28T20:26:15.000Z",
-      "summary": "“O Bosque Selvagem”: como é a animação cotada ao Oscar de Melhor Filme em 2027 Correio do Povo",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.63,
-      "relevance": 6
-    },
-    {
-      "title": "Adolfo Lutz identifica bactéria e parasita em água associada a mais de 2,6 mil casos de virose em Itapeva",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/28/adolfo-lutz-identifica-bacteria-e-parasita-em-agua-associada-a-mais-de-26-mil-casos-de-virose-em-itapeva.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-28T21:14:28.000Z",
-      "summary": "Câmara de Itapeva abre CPI sobre água da Sabesp após quase 3 mil casos de virose Uma análise feita pelo Instituto Adolto Lutz em Sorocaba (SP) apontou uma bactéria e um parasita na água que estava abastecendo a população em Itapeva (SP). A ",
-      "image": "https://s2-g1.glbimg.com/CY1qtzK58NrBvO2Nv2-0YC9w0Ts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/b/PvYf5kStKuIf6nh61sMg/img-0825.new.01-frame-55.jpeg",
-      "topics": [
-        "medicina"
-      ],
-      "score": 5.62,
-      "relevance": 5.8
-    },
-    {
-      "title": "Só 3% das empresas superam metas de economia com IA, aponta Gartner",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85a0NkU1Y4QTBrQVNwaTZRcGJHekdSdWJsa3pJWUk4ZkE1bzVTSFdhbC1VLWxMSFFZZ1JYQ0pDbk5ud19xUmctUW5vY2lUUFVYbkJlMVhqa3pUQXF4YmpYbEluYU0xaHFIdEFuanlSOFQ?oc=5",
-      "source": "SINDPD",
-      "publishedAt": "2026-10-28T20:20:40.000Z",
-      "summary": "Só 3% das empresas superam metas de economia com IA, aponta Gartner SINDPD",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.61,
-      "relevance": 6
-    },
-    {
-      "title": "Governo renova subsídio ao diesel; por que o agro é tão vulnerável à alta do combustível?",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/28/por-que-o-agro-e-tao-vulneravel-a-alta-do-diesel.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-10-28T08:00:00.000Z",
-      "summary": "Governo prorroga subvenção de R$ 2,12 por litro de diesel O governo federal prorrogou nesta terça-feira (27), por mais 30 dias, o subsídio ao diesel, mantendo o benefício em R$ 2,12 por litro. A medida busca conter os efeitos da alta dos pr",
-      "image": "https://s2-g1.glbimg.com/p9LFlGwKhTFbeYaSR9NqOVkl4VQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/O/4BDo8VSNiFyoyyjBF9UA/adobestock-392658613.jpeg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 5.58,
-      "relevance": 9.6
     }
   ],
   "byTopic": {
@@ -667,82 +667,97 @@
         "title": "Reservatório do Museu do Porto convida a descobrir a história da cidade através da arqueologia e da ciência",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYzVxUlh5QVdUbnZZbHRPek50alFONkFzeHFoV0c5dHMyYWhQWXUteUlVd1ZJdjlkSUJsaTVtSzVMZ3p3SWxWd1laVndBQjFhQVFTSEZPNlJjdko3T1Jxc0NHcFhuTkRncHpmT3dpQVFkeXZZMjdsQWVtWkRJX21ZSFRuWVNFMFo1UGJJSUcyTE43MkVXLThHZGNETkR0Xy1pbW5Na2ZINVpIZDFmd05wTkRxbHM2bXZNd2xmalFuV2JITXpUNlllUFhqVE5ibEZ3eFpFLTZB?oc=5",
         "source": "Portal de notícias do Porto",
-        "publishedAt": "2026-10-28T21:34:33.000Z",
+        "publishedAt": "2026-10-29T03:34:38.000Z",
         "summary": "Reservatório do Museu do Porto convida a descobrir a história da cidade através da arqueologia e da ciência Portal de notícias do Porto",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 6.87,
+        "score": 6.95,
         "relevance": 7
       },
       {
-        "title": "Dinossauro raro é vendido em leilão e se torna o segundo fóssil mais caro da história",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHVLUHNQYkg3bkgxRUNtSHdYOExrWVBiS2Y2RDFlal9yc2xJdkN0ekR6TnJTQVNUWm9ydXdTMXZyVzkyMUtlSjVVTkM4TDU3WDVsSzRBclpreEFhUXlsOFFfbk9Wc25lLVVaYnVRY2pwMS1kZXlsUWozQTEtR0FULTBPeXRJYkZLVkpWbUNNTThKd0xnXzBLYWo5R2NHZEpWcWNpbHlBU2c0X25EZjhTZmhn?oc=5",
-        "source": "Exame",
-        "publishedAt": "2026-10-28T19:35:01.000Z",
-        "summary": "Dinossauro raro é vendido em leilão e se torna o segundo fóssil mais caro da história Exame",
+        "title": "Galeria de MIAA - Museu Ibérico de Arqueologia e Arte / Carrilho da Graça Arquitectos - 4",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNSWdraVF3YU1GNkJVYjZ6ZVVJNFBhaGdQX19pQlpZMUc3LUI1WEIzVU13cXpRLXl0OHJ5eDJQZ2huOGFFdVlETHZjYzd3dVJweTBBZl82d1I2SlBoZ1hZQm11VEZmWXlGMm5nbFJjOVFxYlJweDFfM1hhaHRFVXZvVjl5cl8yRVJBel9IdkNpdktHb012X0Rwckl2bV81NF9QUnFDNThib3hzNkFWdkUtMURHajUyM2RaNFBRMHNaQTF4UkZwd09ZdVNfOXlJX29PNE9ReWJMcUwybl81Q3pJbThOeGcwMTFUWmFZcnAtVjBoUGFzcHZkV2Z4emtRSVhLd0FOWG1paGpZQ3hndGw0YzRYblRrTTIxRmRvbk1nMDh5N2xfbElPNHBmN3ZyRnZNclE?oc=5",
+        "source": "ArchDaily",
+        "publishedAt": "2026-10-28T21:06:30.000Z",
+        "summary": "Galeria de MIAA - Museu Ibérico de Arqueologia e Arte / Carrilho da Graça Arquitectos - 4 ArchDaily",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 5.45,
+        "score": 4.64,
         "relevance": 6
       },
       {
-        "title": "Câmara de Setúbal assume gestão do Museu de Arqueologia e Etnografia por dois milhões de euros",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU0NsT25QUE4xbF9oOUdjMDlwNVJGNkc2cERUbzJQQWpjNk5rcTN3MVpkbl9wd0dRT2l5OE1GdGl2SVVKa0JsdG1wMXJZYjhzc0poWTU1VzhIU1VYNlp2cW1pRklaeXJrTmlOOWVsanZZTE1qYS1WS2ZYcFVuaGx5ZC11TUg1U3VRUDdnZ3ZuaEk4ZEdIYWtJcGVTSmhTcjNZanBleDJneUl4eEJ2cFpJUTU2MjdLZ0llUnBTcXVjdnpyUGRBQmpHZ2lVX2MyR3M?oc=5",
-        "source": "O Setubalense",
-        "publishedAt": "2026-10-28T17:11:27.000Z",
-        "summary": "Câmara de Setúbal assume gestão do Museu de Arqueologia e Etnografia por dois milhões de euros O Setubalense",
+        "title": "R$ 324,8 milhões: Mega-Sena premiou maior valor da história dos concursos regulares nesta quarta; veja os recordes",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWmlhMm8yWFNuT1BUM1J0eFd3ZGh3Mk5xblF2T3JwbWhtbTJGRlZ4THRvM2w3X1drWGJZSmg4RUF4VllNcGxvNVV4QnNsaVJKbzBSZ3cwQ09QaWgycUdwX0tLTFZXd2FfVF9yZkpINU5CTHFLV3FaaFYzVktLYmZzbWM5Vkw0YmZVMDltZmJ5Yl9VYmxhUDBFTXk1Q19nNmNuckJQeXpMX0Z5RnFnTmxTME9SNlM2LS1PemVOaEVKSU5sc1Vrb0JFOWVGNVM0eW5naEg0aTRMU1lmakNuUkFFanNTdmNnZDdwMjRPLVE2ZmphdHB3dFI1aW9lQTFXUdIBjAJBVV95cUxNajVCZnl2QlBiX1ZnRFlCbE1iRHg0Sk1Nektsemh5dWhYcDdFVkttYUgyYUtnOGV3cjViQm5jQVZDOUlPRXFLeGxkN29jVFBrb1ZfRXlDOURiQmNsTV93X1BXV1hDQVcyclJYN3owUUdYRzVIb2QtaHRoQkEyWWo4MkJidzVtTldFN3JXTExaM3Y5SHh2ak00SWoxVjk4ampJR0xVeHFiaVJYX0t0TVJ2azJYc0xwTkdtSXBQRVpHNklpSEIxLW0yd1FJaGxtQ19Ld1ZIV1BGSUp4R0tQNTExQmt4ZGt4d1o2QXAzOEdoVERESlJVMlRjZHFydmIxdmV6akFONkhEenNMZUND?oc=5",
+        "source": "O GLOBO",
+        "publishedAt": "2026-10-29T03:00:01.000Z",
+        "summary": "R$ 324,8 milhões: Mega-Sena premiou maior valor da história dos concursos regulares nesta quarta; veja os recordes O GLOBO",
         "image": null,
         "topics": [
-          "historia"
+          "historia",
+          "negocios"
         ],
-        "score": 4.97,
-        "relevance": 6
+        "score": 3.88,
+        "relevance": 4
       },
       {
-        "title": "Estádio Nilton Santos poderá se tornar patrimônio histórico e cultural do Rio de Janeiro",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdjFtN21ZVnpYY1RYNTBhQi1pT1dxRXpnODRzTUVxQWI1OHZNSktzeVhhTHJtYnJONGs5czJ6ZlRRc0pqZEt5N3pzdDFjRFZMVS00dFhlSlBDSG5RbVFuMG5lcy1ScjlMY1VuNzhIV2UzVDRzODZybVEyeE92d0RqQ1dnRFhmNmRFVnJEUXBlTkVOcDZrZFpDSWxVOGVfalB2Y1BWazViei1mMC1USUtaNG4zTk9CaGdHdmc?oc=5",
-        "source": "Agenda do Poder",
-        "publishedAt": "2026-10-28T18:16:00.000Z",
-        "summary": "Estádio Nilton Santos poderá se tornar patrimônio histórico e cultural do Rio de Janeiro Agenda do Poder",
+        "title": "Lições da história: fascistas, nazistas e comerciantes",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYy1NYnhfYlAtTkhKa1FvVFg3R2xkLTBqeG05UWJLYVdWS2ZPM2hxcXJWZEY4TERYRFBmbjI3TmtfZzJYN3h6RmNNRDFmbXJGdUN0LWNXSkp4UGJWdjdHYlRsaUl2bUlKTWFTRUN5SzlSaGhSWThHd3o5NHNiUE1FYXpTN1FQVmg1VnNuTXZUUQ?oc=5",
+        "source": "Tribuna Norte Leste",
+        "publishedAt": "2026-10-29T01:29:14.000Z",
+        "summary": "Lições da história: fascistas, nazistas e comerciantes Tribuna Norte Leste",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.32,
-        "relevance": 5
+        "score": 3.66,
+        "relevance": 4
       },
       {
-        "title": "Casarão histórico de Valinhos recebe tombamento municipal e reforça proteção de sua história",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPODRvdVNmdWtPQlgwMk9jUm9FYlRzMlpVaWpYSGtuT0V0MGFxVHAxNnpGYlQ4RE9kYmxxUE1YRXVXeWpDQ0NuT2hNeGZpaUtST3p5TWlVOXcxM0pIU0xBSjZJT0lMZHhDRm91cU5GcWQxUGF4Wk5UdkF0Wm1UaDRobG9KMGE5MmVic00zQk5UMlpyOVJ5?oc=5",
-        "source": "Jornal Terceira Visão",
-        "publishedAt": "2026-10-28T16:32:36.000Z",
-        "summary": "Casarão histórico de Valinhos recebe tombamento municipal e reforça proteção de sua história Jornal Terceira Visão",
+        "title": "Comandante Nádia entra para a história da Câmara",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xLXJqaGlSSDl0TS1zdlB5NVBzVUhSY25tOS1JUnJxQW9lXzJ3bnN4Mk4waUd1a0VzQzIwYTRkUzFiTHYza2hGbktvRmNudy1CSEdRMjJ3TnUwNlljTEdoM2RxeTVMelJiYkFMVnhGblZxeUtvekdGN1VwZzBNd9IBgwFBVV95cUxOd2thU2dVeXpPQmM3cGFMSGpiRnExUF9wVHJDb1hZdENEWTdUT29pOGlFRHF3SEFhNUZ6ZEZ2QUJ4TlFoOEFKd1JNdTdHaW5YOF9nbXhiaHlEYWc0OFdhelMzMDlDQmF6c0NSOFNhTVRDRnJrZm9ocndVNDdLRjBfV0NmRQ?oc=5",
+        "source": "Jornal O Sul",
+        "publishedAt": "2026-10-29T00:30:09.000Z",
+        "summary": "Comandante Nádia entra para a história da Câmara Jornal O Sul",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.04,
-        "relevance": 5
+        "score": 3.53,
+        "relevance": 4
       },
       {
-        "title": "Arqueólogos encontram túmulo de ‘Weni’, oficial do Império Antigo no Egito",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzhGVXhDV1I3ZEV0aWpXZGJ1NWxyNlFROWMyQkFKS19ZenRpYnlwNEpBUHN6d3lyWkJ0VGdNcWhqSEdMTGxQdzBLSWUzSUYxTld5bURtcVpSbFI5SkhLRHZCaTg2OWFBOEF6a3ZtbTY1d0F2NW1CV1NpZzB4UVg1M3NTY1ByOE9xZ1dwMUF3MFVUZGtONGx1RkxxUjhaTzNhNEt2STRjN3haOVlYQ3p5YXlsS0RjN2hqVGI4WHhTMjRFd0draXMyanQ3V1U4eXZQ?oc=5",
-        "source": "Aventuras na História",
-        "publishedAt": "2026-10-28T14:12:56.000Z",
-        "summary": "Arqueólogos encontram túmulo de ‘Weni’, oficial do Império Antigo no Egito Aventuras na História",
+        "title": "Cristiano Ronaldo 2008 é eleito o melhor da história",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQl9YM19IUktfN0ZPUzJkZTB5Sm9zR1NHRFlrTjF1MVhuQWFXeldhNWtfZ1BGNEVkb0ltdXRuUnBRX3ZzcU9mVW9YYldQaWRvMF8xRWlMZXdva291dGNBMEVrMjNVNkFMd3BuMjVzMHpDZDQwbU9UaGpZTnZWTmVScnVFbWZjM2ZhSXVVS1h5Mk5TanI2Zkxr?oc=5",
+        "source": "Tribuna do Norte",
+        "publishedAt": "2026-10-29T00:18:34.000Z",
+        "summary": "Cristiano Ronaldo 2008 é eleito o melhor da história Tribuna do Norte",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.99,
-        "relevance": 5.4
+        "score": 3.5,
+        "relevance": 4
       }
     ],
     "geopolitica": [
+      {
+        "title": "INFOGRÁFICO: veja como foi a rota de fuga de Flávio Bolsonaro para os Estados Unidos",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/29/infografico-veja-como-foi-a-rota-de-fuga-de-flavio-bolsonaro-para-os-estados-unidos.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-29T03:00:00.000Z",
+        "summary": "Rota de fuga de Flávio Bolsonaro para os Estados Unidos Arte g1 O senador Flávio Bolsonaro (PL-RJ) desembarcou nos Estados Unidos na quarta-feira (28) após deixar o Brasil com a esposa e as duas filhas. A família viajou em um avião particul",
+        "image": "https://s2-g1.glbimg.com/juXDboYoRo0E8X466Xu7unU0Yhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/0npTVKRMAAfhORz98zMQ/2026-10-26t022137z-995936666-rc2paoaxw1yt-rtrmadp-3-brazil-election.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 6.02,
+        "relevance": 6.2
+      },
       {
         "title": "Fed mantém juros dos EUA na faixa de 3,75% a 4% ao ano a poucos dias das eleições para o Congresso",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SdjM4aWZLNld2QUdBbnBGb0c3TXI3SGtXaE9LUUN6akJxY0JldnE1WUNMRUswTGRLRkxHWV9nZEpIemJrQUlURGZoX0gwT2hCZUNmVXNNa3A5VENCdVNiSmVRa2NtZWV3LVdfX3pGWmRrX1diTVNRR2tiTDXSAYsBQVVfeXFMTmt2QUczMndUN3NENzNCdW9NNWlXajUyQVdMdk5WTWRmdnExbTJVaTdJVi1RUGhHbmRKeXZtWmZxRDVIN2pvbmVTZDY0ZXIybmtkYzZDR0dnRGlHSlhadExIYkRkMklmeG9OTjBlZ0lGSExoOW42Y21nNXkwNHZjQUxKTUVDbVByUXk0MA?oc=5",
@@ -754,7 +769,7 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 11.29,
+        "score": 9.06,
         "relevance": 13.2
       },
       {
@@ -767,8 +782,36 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 5.69,
+        "score": 4.57,
         "relevance": 6.2
+      },
+      {
+        "title": "A Rússia exclui a Europa das negociações sobre a Ucrânia; Kiev acusa Moscou de criar divisões.",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzU3bjVySkdIY2plSFBrSHU0cV9BXzVxSURuTEprR3gyT2dFMU1LeGpsVndISk5KM21JNzJXVm1taDRhcDh4dzFwejFKdDZSdDFWcXJNRHJuTE1ZY3VKYi00WkRobl9BZVlGQWtkOGVWUVV5NEJDcTVCNDVzb2NRZkdtZ1F5TWhyZ19zcDBmeXAxQld3Y1psd1pUTQ?oc=5",
+        "source": "Vietnam.vn",
+        "publishedAt": "2026-10-29T01:16:04.000Z",
+        "summary": "A Rússia exclui a Europa das negociações sobre a Ucrânia; Kiev acusa Moscou de criar divisões. Vietnam.vn",
+        "image": null,
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 4.54,
+        "relevance": 5
+      },
+      {
+        "title": "Flávio Bolsonaro recebeu autorização para ficar 1 ano nos EUA",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/28/flavio-bolsonaro-recebeu-autorizacao-para-ficar-1-ano-nos-eua.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-10-28T22:17:30.000Z",
+        "summary": "Flávio Bolsonaro e família despistam imprensa e autoridades para fugirem do Brasil O senador Flávio Bolsonaro (PL) recebeu autorização do governo americano para permanecer por 1 ano no país, segundo aponta consulta ao sistema U.S. Customs a",
+        "image": "https://s2-g1.glbimg.com/juXDboYoRo0E8X466Xu7unU0Yhg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/w/0npTVKRMAAfhORz98zMQ/2026-10-26t022137z-995936666-rc2paoaxw1yt-rtrmadp-3-brazil-election.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 4.53,
+        "relevance": 5.6
       },
       {
         "title": "Sem apresentar provas, partido de Netanyahu acusa grupos árabes de fraudar eleições em Israel",
@@ -780,50 +823,8 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 5.44,
+        "score": 4.37,
         "relevance": 6
-      },
-      {
-        "title": "Trump evita apoiar declaração de Flávio Bolsonaro de que é o verdadeiro presidente do Brasil: 'Não vou me envolver'",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/28/trump-evita-apoiar-declaracao-de-flavio-bolsonaro-de-que-e-o-verdadeiro-presidente-do-brasil-nao-vou-me-envolver.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-28T21:14:48.000Z",
-        "summary": "Trump sobre carta de Flávio Bolsonaro: 'Não vou me envolver' O presidente dos Estados Unidos, Donald Trump, evitou comentar nesta quarta-feira (28) a declaração do senador Flávio Bolsonaro de que é o \"verdadeiro presidente\" do Brasil. ✅ Sig",
-        "image": "https://s2-g1.glbimg.com/sRAItUaBGJLCiEccvl5dtyQ14_4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/q/zFWow9TnApXiO8eyVWeQ/montagem-horizontal-1280x720px-5-.jpg",
-        "topics": [
-          "negocios",
-          "geopolitica"
-        ],
-        "score": 5.23,
-        "relevance": 5.4
-      },
-      {
-        "title": "EUA: Morre o juiz de 92 anos que conduzia julgamento de Maduro",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMl96TXB1dGJNWWtVZ19lZWZhSHRwZ0lzOUdib2plcGtyRW9vdnlpaUVOcnM3a2s1T3Z4S3RUand5Y2RRZUtRRVFOM25NZlhlQ0o3RGdzM2tLaGRnTEJQZzFSUTJqNlhkaDJSSXg0WGNOdWVOYklwVUFLaUxhaGdTM0thTkZxLVU1cWlrYkVOYk00dzdsR2NXWnlEX1ZHMHozdlNFTVM0QkRhUms2QXJhQ3ZOSF_SAbwBQVVfeXFMUHFxX0NxMG5EcDRqTVdUTlRZdHhQUlQtU3piV0NGQk9qVGtLWkVqMTBnMjg2QXQ1MUNaRk5lek5WdngyLXZfaktkYkRHTXBQUkozZGdVaVg5OWxwQ21GZnkwbS1iVDBIam1KRlJaQTF6Zi1LVENfVlJ5Ti1ITlpTaFJHNXJRRlVjdUVhVlVXSnZwbHY3bm85WXZDUThTbE81d09KRGtlV1lic1RMMW9wNEZfZVJjVHRKNUl3SG8?oc=5",
-        "source": "Pleno.News",
-        "publishedAt": "2026-10-28T19:03:00.000Z",
-        "summary": "EUA: Morre o juiz de 92 anos que conduzia julgamento de Maduro Pleno.News",
-        "image": "https://s2-g1.glbimg.com/YKvzrVC2hQaJNyMQv9xXrZvrnvE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/6/gBwLNxQrqdBnpDBFyBlg/ap26301588578374.jpg",
-        "topics": [
-          "geopolitica",
-          "negocios"
-        ],
-        "score": 4.63,
-        "relevance": 5.2
-      },
-      {
-        "title": "Flávio Bolsonaro usou passaporte diplomático cancelado para entrar nos EUA",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/28/flavio-bolsonaro-usou-passaporte-diplomatico-cancelado-para-entrar-nos-eua.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-10-28T18:14:55.000Z",
-        "summary": "Flávio Bolsonaro e família despistam imprensa e autoridades para fugirem do Brasil O senador Flávio Bolsonaro (PL) utilizou seu passaporte diplomático cancelado para entrar nos Estados Unidos nesta quarta-feira (28), segundo aponta consulta",
-        "image": "https://s2-g1.glbimg.com/-g-6oN6N3VJptUlJ_rXABxycx-E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/h/Zti7peQtWK2oo0GtNbPg/passaporte.jpg",
-        "topics": [
-          "geopolitica",
-          "negocios"
-        ],
-        "score": 4.49,
-        "relevance": 5.2
       }
     ],
     "negocios": [
@@ -838,8 +839,21 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 11.29,
+        "score": 9.06,
         "relevance": 13.2
+      },
+      {
+        "title": "Uso de inteligência artificial cresce nas empresas, mas governança exige atenção",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWYtZTB1WDUyNnVKNlYtWnMtcGU5TE15YTYxcGVfUHZpbWlNWHZZdUt2RjVkR2MtS3pGdGM5Y1JoUno5ckkydFdidHZCYVBudzVkVHM0YUpUVEc1el9adEEtX0JjWC1OcDhnQU94eDRkZTlEWFZ6eUVEeFJWLU1JdDlxNVo0UC1ickN3bG80MlFBMmxqNmRfM2drY2tYZng0MjhCMEVjOVRkcU9zdWJvaVNFbFh6V1hiNmFTWU41S2Y?oc=5",
+        "source": "Portal Revista Kdea 360",
+        "publishedAt": "2026-10-29T03:29:16.000Z",
+        "summary": "Uso de inteligência artificial cresce nas empresas, mas governança exige atenção Portal Revista Kdea 360",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 6.92,
+        "relevance": 7
       },
       {
         "title": "Ibovespa cai mais uma vez e acumula perda de 16% na semana; dólar recua",
@@ -852,63 +866,64 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 8.55,
+        "score": 6.86,
         "relevance": 12.6
       },
       {
-        "title": "Raízen fecha acordo de R$ 22,4 bilhões com a União e abate R$ 8,5 bilhões em multas e juros",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMVhBZmRrTV9IcU4wb3l3ZjNtcG1mSGE1ODdPeDVxWnR3cnNYTE12enJkS183RVlvSGNIQnBzUlhOUF80bWJpMjNFanpPT2ltUGJuenJueFh6bThsSEc4eDl0TDJOODFFRXByMWxIdl9TNzZ0c2dnY1llQjRsN2htZ1pmaDRXMkg1RzBZdmVB0gGcAUFVX3lxTE9HRElmR2Y2NTJUUlVzZGtjOFpaUnMwY0ZPQlJLSzBNdk0yeUZSbTRtd3NNTzdwYU5YNlFSWXpZMmZmbDZCUk1fQTVEWlI3Vlp2aUdOTGdudWtoS2cwV2l4LU1HV0s5eFFaUm5jUkxJRlNHQ1N3YzVfWUFZelB2al9RYUFPWFJvREtTdktPMnBnMW1VSXZxLWp1OHlJQg?oc=5",
+        "title": "‘Todo mundo está ganhando': por que copiar os investimentos de outras pessoas pode sair caro",
+        "link": "https://g1.globo.com/g1-explica/noticia/2026/10/29/todo-mundo-esta-ganhando-por-que-copiar-os-investimentos-de-outras-pessoas-pode-sair-caro.ghtml",
         "source": "G1",
+        "publishedAt": "2026-10-29T03:00:00.000Z",
+        "summary": "Efeito manada: o perigo de investir como todo mundo Seguir as decisões da maioria é um comportamento comum e, na economia, recebe o nome de comportamento de manada. A tendência faz com que muitas pessoas invistam em determinado ativo apenas",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 6.79,
+        "relevance": 7
+      },
+      {
+        "title": "Raízen fecha acordo de R$ 22,4 bilhões com a União e abate R$ 8,5 bilhões em multas e juros",
+        "link": "https://g1.globo.com/economia/noticia/2026/10/28/raizen-fecha-acordo-tributario.ghtml",
+        "source": "G1 Economia",
         "publishedAt": "2026-10-28T21:06:01.000Z",
-        "summary": "Raízen fecha acordo de R$ 22,4 bilhões com a União e abate R$ 8,5 bilhões em multas e juros G1",
+        "summary": "Logo da Raízen Divulgação A Raízen anunciou nesta quarta-feira (28) um acordo com a União para renegociar R$ 22,4 bilhões em dívidas com o governo federal relativas a tributos de empresas do grupo. O acordo, negociado com a Procuradoria-Ger",
         "image": "https://s2-g1.glbimg.com/sGVd_ajUEsHLvLXmw2qiq00teGU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/V/6hFQlST0iVMfWZDEN3tg/raizen-1200px-v2-1773240962.jpg",
         "topics": [
           "negocios"
         ],
-        "score": 8.28,
+        "score": 6.65,
         "relevance": 8.6
       },
       {
-        "title": "Ibovespa cai e dólar recua em dia de Fed; bolsas asiáticas sobem com impulso da inteligência artificial",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPazBzek5PWU41aUl1bjlzSnVWSXF6NDUyaVNUblVFUmo5LW55UUhYOVBvSWczSElsNG1ON1ZqVzZLc2NBbWhPUnVvOVlURExiUEFSXzFxOHRob0U0Wk41MDlSSmRzYXYydkRsRTg3TW5VdktHOTdHSnNxa2tXZTJGUUM5WVM3WmZ0MU1ZWHRpX3BKaHJqQ1lMLVk1Q3VhcGwzQU1KeDh1R3AwQnhnQlFNRDZBNjlfYUo2cnB6Y2Q2ZFlYVVBHRm53Y3ljUVd6bWZ1eWVDRGh2N2tsLXNMV1BKekRMc2FwRko3cmVYUEpqU2ppbG9LNms1MzZBRHhsVzc5Y0k1ZEQzOGs1Zw?oc=5",
-        "source": "Portal do Agronegócio",
-        "publishedAt": "2026-10-28T14:09:00.000Z",
-        "summary": "Ibovespa cai e dólar recua em dia de Fed; bolsas asiáticas sobem com impulso da inteligência artificial Portal do Agronegócio",
+        "title": "Gargalo da inteligência artificial migra da viabilidade técnica para o impacto financeiro nas empresas",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa0hwOW1xZFhPZ2Qxek41cU1VUXI3SEJIb3pZMW1mNWI3UXhCWjZ0b2hJTDBtSzhZN1JJVE82eHZaU3d2Ul96NUtWUTlwek1qQ0oyaWtELW5NZWdiTDFtRXdaR1J4aEpDTU5LTXB4cHlvRE5DekRLU2V3RGhpaDB0NkkwQ1d0RTBCbE5LRXBaNDYtdGpSOWtHZVNlZVlNWUxyN2hpR185Q0NIbVFSeHVzdVpGVVU3eHExT19IWGVYVkZ0dkdDVjQ4V3pFN3ZSdw?oc=5",
+        "source": "Brasil Inovador",
+        "publishedAt": "2026-10-29T01:10:10.000Z",
+        "summary": "Gargalo da inteligência artificial migra da viabilidade técnica para o impacto financeiro nas empresas Brasil Inovador",
         "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 7.96,
-        "relevance": 10.8
-      },
-      {
-        "title": "CNI reduz previsão de crescimento do PIB para 1,6% em 2026",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUzN4TjV0Ti14cEVoWUhPUGozNEI0cEQyUU5ZVU5LVnhjMkNOV3FxajlTbWpQWG5GbDhjRk5ucFltZEE4RktwTllVWEtEUy0xeDFOVkRSeEV2V2NvX0dqSFFmWnE3SnNJeGxmOTNQOHdlM0RMN2J1M1JMelltT2NPUmpWejZHb2p2SnhvU1gwRkt4c3hRQnQ0Y2hEWUw1cXdveHk1WVI3Z0ZMSERlLTIwWHhaQTI?oc=5",
-        "source": "Agência Brasil",
-        "publishedAt": "2026-10-28T19:33:00.000Z",
-        "summary": "CNI reduz previsão de crescimento do PIB para 1,6% em 2026 Agência Brasil",
-        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 7.62,
-        "relevance": 8.4
-      },
-      {
-        "title": "UFG lança modelo gratuito de inteligência artificial para empresas criarem soluções próprias",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaUdsN0JmZ3paeE10Ml9lUWdOUTBlOXdZejdTdEw5REtwQ21qMDVNbmNUM2ZRMnczMloyR09ZbjdDeHRrYlBfaDh6bFR6SGwySEotWlpsUnd6TTM5cHRjclJkQVdqVnlzMU9nRXJHdXBmVHk2TmI5OW53Q0V2VDVEd09MM0tRTjd6UDNIX21qMFRMTUQyX2Z3b1V2TFNENDVQakk1MXhOcF9EMFE0YnVUT2VpcE9QUXNKSVF2VmZVQmVsM21RN3FGYXRKUjYzZG9MYnUzYlAzUDhMUDBuWFZOTFFn?oc=5",
-        "source": "Jornal Opção",
-        "publishedAt": "2026-10-28T22:01:00.000Z",
-        "summary": "UFG lança modelo gratuito de inteligência artificial para empresas criarem soluções próprias Jornal Opção",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 6.99,
+        "score": 6.33,
         "relevance": 7
       }
     ],
     "filosofia": [
+      {
+        "title": "Festival de Culturas Pretas, em Mogi, terá Pagode da 27, Filosofia Reggae e outras atrações",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdHVTT21fX21EdVNtWUtaajhQMDFQUE5KRGtPZzh4cEN6UGtRaC1TMXg5alpzWUlGaGRUYnlVVWU2SzRKTUt1TmEyMi10VFhPY2o4QTRLa0xTeEQxZDFtMW02VWVMeXpma1Q1WWFMMms3U1BpeEdhdmtSU1AtYVlieFBmYWNuem9DQUtVZFlzMWo5c01kWEFhOHE0UzdPb0ZPZnJKRUxvbkZUOFZOSGhIWDM5NWYyV0VjTnhv?oc=5",
+        "source": "Notícias de Mogi",
+        "publishedAt": "2026-10-28T22:18:00.000Z",
+        "summary": "Festival de Culturas Pretas, em Mogi, terá Pagode da 27, Filosofia Reggae e outras atrações Notícias de Mogi",
+        "image": null,
+        "topics": [
+          "filosofia",
+          "negocios"
+        ],
+        "score": 3.24,
+        "relevance": 4
+      },
       {
         "title": "Moto Guzzi The Trip - Uma nova filosofia em Mandello del Lario",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXl0bzE3X2FnRGF6a1A5Y3JReGZkbFZOOE9HamYyNHVEdFAzVnFMajJYU1pjQTNubTluRjZyQkNjUmVOcUlvZGFPdUFsN1Q1U0JGaEFvQnFmRThsYklVRUhQUm0ycFNaREhpeTRxeVYyTXpWZGRWc2VtOWo2ZzNrNllRYURrTjk0QWI5bU1udVpjeTZSb291WG8xejdKZ2x3QWNpdUY2aw?oc=5",
@@ -919,8 +934,34 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.64,
+        "score": 2.92,
         "relevance": 4
+      },
+      {
+        "title": "Platão deixou uma reflexão: \"A necessidade é a mãe da invenção\"",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVF0RENTVWVtSk9nQ0Jnc0FzQzBfRkJBaVhXYnM5bWhhWDdudDNxMHd6SXlHSXRDblRPcXZ5N0RUT0hnMHk4c08taHU4U0I1bkY0M3hPbHRwREd4UkJiQlRTUFdtVzJIU2dlVlFPd05EdkFaZ2tmbTZDREZtZWpWcW0wUWg1cnRMVjhFOFRKXzhpZlBGSm1Ka09rYlczOUVUbTRMZm1WRGw?oc=5",
+        "source": "Correio do Estado",
+        "publishedAt": "2026-10-28T17:24:00.000Z",
+        "summary": "Platão deixou uma reflexão: \"A necessidade é a mãe da invenção\" Correio do Estado",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 2.68,
+        "relevance": 4
+      },
+      {
+        "title": "Albert Camus explica por que uma vida cheia de tarefas repetitivas ainda pode ter sentido para quem encontra sua própria maneira de vivê-la",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSFVuWm5zUjNrVW80dUxFb0I4R1RPdXNhVDZuT1gzdWhESFZKS2V2RU1vejl4eDhmLXF6a1psWXViNW1UNHpTXzkyZFI1VHp3andMVi1sX2VUNWRSVGtPRWdrTVRSeUpxcVNiMWlhMVVGcHZUeEQxRDh0RWV2S0xuanA3ZFJYeDhvZXVnQlRLNnc5anloTDBF?oc=5",
+        "source": "Correio Braziliense",
+        "publishedAt": "2026-10-29T00:50:00.000Z",
+        "summary": "Albert Camus explica por que uma vida cheia de tarefas repetitivas ainda pode ter sentido para quem encontra sua própria maneira de vivê-la Correio Braziliense",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 2.68,
+        "relevance": 3
       },
       {
         "title": "Frase do dia da Filosofia: 'Uma das coisas mais perigosas que podemos fazer é nos acostumar com aquilo que nos faz mal' - reflexão inspirada em Hannah Arendt",
@@ -932,63 +973,37 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.23,
+        "score": 2.59,
         "relevance": 4
       },
       {
-        "title": "Olímpiada Roraimense de Filosofia vai premiar 18 estudantes na UERR nesta sexta-feira (30)",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMVNTNDRWNVdJLWRXeUZQS2pKbXRpYjluQ05WR1VNLXFjUkFsRFVZUVllVVZZSmpteGdUSlZxbFhKYXYyODFlbXpxTllPcWFLa2FPR3N0cU9XLTV5bm5OX0lZSVNHVjBwTnFXQVVnVXZUN3hub1hYWEE0Y2FhaF9VTS13T0thV25lUW1JUF9wRG45aGVMd2hrbklJeEk5SWxxZWFBLTNqMUNSUkdqVTIwc0hqMXB2aHlvRUxoMGNKVGNfZ2M?oc=5",
-        "source": "Folha BV",
-        "publishedAt": "2026-10-28T15:23:42.000Z",
-        "summary": "Olímpiada Roraimense de Filosofia vai premiar 18 estudantes na UERR nesta sexta-feira (30) Folha BV",
+        "title": "Tendo perdido a matrícula devido a um problema de saúde, o estudante refez o exame de admissão e tornou-se o primeiro colocado.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGxpejlqV0ZLeWU4cGxVZ0lrNFFqaTl1MGtfbWhEQ3pNSXFTY3VVXzZjdm94N1c4Vk14X3U5eERBaFo2ejNia2hLRUFPcmxSLXNiODJFY3ltcVFhcVZXUXNHSGZoU3BoUnBueWY1QkZtTWFfWDhvVmlOZFZ1c1RwTWZ6VUtpeURENW04TVBwcElSb3QyMi15MHVjTm9TdVI1d2Nr?oc=5",
+        "source": "Vietnam.vn",
+        "publishedAt": "2026-10-28T23:47:54.000Z",
+        "summary": "Tendo perdido a matrícula devido a um problema de saúde, o estudante refez o exame de admissão e tornou-se o primeiro colocado. Vietnam.vn",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.09,
-        "relevance": 4
-      },
-      {
-        "title": "Clóvis de Barros Filho lidera agenda da Citadel na Feira do Livro",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlZKa09NaUkyNzJDWWpPcHNDbnlnd2RlajA3SVNlckpJOTF6dmViemVlWVZDMzFWNW5QTU9mRmRpNldpTWhZa1N5dFFXaHg3MHJyNnNmZElfd3RpYUt6b0UwSmRBaXFJRmVZX2RyVC1XQnpWM05TcldwQmg5ZjhsUmxsV0hMZE1pYTU2bEZqQl9GLUhh0gGaAUFVX3lxTFBWNk0wdjZQby1PU2xIMU9NWVRFenFPN0xwZ1drQzZIMC14NDFORjZxUDEwbE5uWU42czZOeGlTVXZXQ1FubHpmYjBOUFNUa0l6T3lERzUxanBkaFVIRFg2OW1RS19ZMmhaMmJKWGxqRnh3MHFwMW44dk9DZnBIRHpJbk40cjV1Q0dXN0Q2cUtwM3prazM5bmpNT1E?oc=5",
-        "source": "Jornal O Sul",
-        "publishedAt": "2026-10-28T21:22:30.000Z",
-        "summary": "Clóvis de Barros Filho lidera agenda da Citadel na Feira do Livro Jornal O Sul",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.92,
+        "score": 2.57,
         "relevance": 3
-      },
-      {
-        "title": "Montaigne passou anos observando as próprias contradições e transformou esse hábito em uma das obras mais influentes da filosofia",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORkdBVVRfY0xjRXpkUnJ0dXJpQ29UQVgyMTk2UTNQT2hZRktZOENKRkpQT21lcUQ1WEJSOXkxYVdpdEtoejJLWWJwSzllQkw3ODZWQUhzOUZ5aFhTSDBwc0pSLXN3NExtZ29KS3dWMER3T3NJc0wzbEt1bThsZnJpQkl4NDVDV2gyN01VUFNSMzJmQ1ZaMXphODFBVnBTV293SGxmUGxoQ19udkxPcmFLMjN4Vkh0eVVwcjgwM1NrSTkwa1BMb2JKQVNnN2dJQlpJdXZzTnRCWUJha1ZXX005YUdpYno2UUlsTGpoZjQtOENMMVVsZFdKa1JGajFhZWtCYUU1cHZpVGk?oc=5",
-        "source": "Revista Oeste",
-        "publishedAt": "2026-10-28T03:05:00.000Z",
-        "summary": "Montaigne passou anos observando as próprias contradições e transformou esse hábito em uma das obras mais influentes da filosofia Revista Oeste",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 1.93,
-        "relevance": 4
-      },
-      {
-        "title": "Rodrigo Mora: «É divertido jogar com a filosofia de Gasperini»",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGpxVDNVZkFGcGdMZkxDYXhJRkNnTVlOcnhsanVWSHpYcUt2Mlc0UlVXS00zRjFPZHdYeEVCeHpVdU56Y3VMMjNqUEkzNWpsaVhzQUpndFpCY1lyMXF1QmptWGJqcXdkbmhiWFd1YUpKOGViYVdmR3RsTnBNMkR0NWY2dEhLRkJ6XzZ1QWVaZjhaVlRfMVBjN3BGNFFTSlhGZmowM3NYcUFFSnQzZGc?oc=5",
-        "source": "A Bola",
-        "publishedAt": "2026-10-27T22:43:00.000Z",
-        "summary": "Rodrigo Mora: «É divertido jogar com a filosofia de Gasperini» A Bola",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 1.63,
-        "relevance": 4
       }
     ],
     "cinema": [
+      {
+        "title": "Festival de Cinema Francês traz drama premiado em Cannes e comédia com Isabelle Huppert a SP",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaC1kNUlvSFhrS0NxdGRkdmI2N3B2VVdxZkJsOGNDblc0X0YzNDl2MFNHLV9VOF8xZTFXbG5kdDB0am9YdHZmQ2dwOGRzd2ZKNlhSYzN0dnFzYkptR2xjaURRWjJBcmdGRTdPQU9JTE96bk15WmRXSFo4V1ZyZ0tianFIcC1YQ2VBNF81MlRrcExpbC1JRThNMkJpekd0NTI3dzRPRGhZMU51dHV2SGhxdzNTT2VPZVU0UzVIOVc0S240OFp5aFBRYmp4c3lBTHc0NlkwSUlRSGx4LUU?oc=5",
+        "source": "Guia Folha",
+        "publishedAt": "2026-10-29T02:00:00.000Z",
+        "summary": "Festival de Cinema Francês traz drama premiado em Cannes e comédia com Isabelle Huppert a SP Guia Folha",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 6.54,
+        "relevance": 7
+      },
       {
         "title": "Netflix em novembro de 2026: veja calendário de filmes, séries e estreias",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yMWJiVlFhVE96ei1KQUtCR3pLSFlEZ09uVXVUeXFYVU1PUDRXQWZwMzdhNUZTU0x1eEJjRThtT3RIR05kMmV4SEJ6bWFnbUVZbTF2Sjk2U210b0lZYUdJQzZoVUNuVWY1Vm8xcmVtUGs?oc=5",
@@ -999,76 +1014,89 @@
         "topics": [
           "cinema"
         ],
-        "score": 7.73,
+        "score": 6.2,
         "relevance": 8
       },
       {
-        "title": "Festival de Cinema Francês começa em Ribeirão Preto com 19 filmes; saiba como assistir",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQlVlTVVVajh2U21BTEpYRTlmZnM4T2xRU0l3cGNYSnp1Rmg2MjNnX1hLVnlwelBwNDBzNXNQRVI0ZmszQzdVMkpZb0RIX3RWTmNmQ19QU01CSE1wVTRRWWwxdjQzNURpRDRkWlYxaTBfbllHRm1ETGlPSUV1eE9NcVpieUFHT1ozM0drQWYzUXJub0M1dS0wd2RpSnZWTnZxSWktalR3b21iRC10UUxTdV93SHpBMjNjRXRxcElVOWNQMFdyMVMwakpZcHFzY2dSdGhER01NaGlqUQ?oc=5",
-        "source": "ACidade ON",
-        "publishedAt": "2026-10-28T18:24:40.000Z",
-        "summary": "Festival de Cinema Francês começa em Ribeirão Preto com 19 filmes; saiba como assistir ACidade ON",
+        "title": "Top 10 da Netflix: 'Lupin' lidera entre as séries e 'Contra o Furacão' entre os filmes",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSmxKMnN2a1NocU1ndXJ1UXNXUFlzQkpSS045NV9RT21yR01ybmkxVGxLRDZmXzFEbFVVUkE4eXA4bUgtOFptUklZZWljOHhqYXBEZkJpNFA0QkVYMVVpV1c3SWJIZFZYZ1FZeG9mRmxtYkg0UkJTOHhpUkdOcTh2X01kS3RjV2pTVXVFZUxBbi10MXRVRThwU0dqcmJyN2ppLVAxTTBlRQ?oc=5",
+        "source": "Exame",
+        "publishedAt": "2026-10-29T00:22:27.000Z",
+        "summary": "Top 10 da Netflix: 'Lupin' lidera entre as séries e 'Contra o Furacão' entre os filmes Exame",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.95,
-        "relevance": 8
+        "score": 6.14,
+        "relevance": 7
       },
       {
-        "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Disney+, Prime e mais",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM05mTUVWaEZDOWlVbTlZVjhCQjBKMDk3SjJCMldwY3BRNm9CaFl4cUM1RVlJcE9HamN3OHROLWl1aVZ1azU0TU9xV0ZTVGt6MzRqS19UMm1KOTlhUWhGZzRZaEFSakNVQld3Smx6STVtNW12YU1KcXB4dlUwc1pYUjhDU0N3c0hvMEljMTZPYWdaa05XMjZWay1xcGFMY2U3OGo3VUdNWk8wVlZiU1RuOHlYTkd4cEdqSjhHbmZYSmtwa0dfdFVhUXFGbVBjZGtVRzh1dNIB2gFBVV95cUxQNXR0T0NVQ3NfbjR1RThVTW9uRTdaQ0FnTHJwYjE2VHhjMkZLaVIzb3N5cXU5TzMwTDAyTkw1YkVpcUs5NU9pSnlGNGt3UUtJLTZnSi1ZbDBoYlRDUHhhaUxtMmxlaFVMUk8yTGJqU3BLMnlxWXRUeUtjVFNhbWRQS0hsX0ZyeDBaN2h6cW81RjBqaXBiRWdXX1VrOHhwdUI1ZW5vQlJ5MEdKU1VkRGhTQ1B0MVpQT1B2WHlub1lFckl0d0Vta2RHN0hVanhGcEFwNE5YZjktV09Udw?oc=5",
-        "source": "Estadão",
-        "publishedAt": "2026-10-28T16:45:00.000Z",
-        "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Disney+, Prime e mais Estadão",
+        "title": "Cinema terá estreia de filmes e evento musical do BTS no fim de semana",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWRQSVFnRWtYYnNWci02TG9WQjE0N2dBOUxTTnBwX0lFZkQwNjFaTzM0OElCem1BbXllZDJJZDRVRGRCQUJyRmJFRmJKMjJCeGJxRm90N0QzaVVXWHdaMWxrbi02S0ZLNWhxX24yeWJKQzRCTUNLZVR0RDBvNm5TcVdSOUZIb1N3SmUtcFdpWlJNdmxfMXZ5cnFtVFRDMm1rdUJRQnEwVFNRWGNNVUNSLQ?oc=5",
+        "source": "A Crítica",
+        "publishedAt": "2026-10-28T23:46:25.000Z",
+        "summary": "Cinema terá estreia de filmes e evento musical do BTS no fim de semana A Crítica",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.52,
-        "relevance": 8
+        "score": 6,
+        "relevance": 7
       },
       {
-        "title": "Festival de Cinema Francês exibe 21 filmes na Paulo Amorim e no Cinesystem",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPdXJaUG5CTkVhTm1jWjNIaGlWUWdQRUFWU0R6WWluWlNkNWQwT3RCSmxDYUFkSDZOaGtlUmhUcDhPTHpfdnAwVHZqZnZYbzZHMkJSNUVaaHJRc2xDVmZDQmdBNno5SjhkT0NUR2ZWeVR4b3FIcFlXMUs1aGVsa1hUMGh6cG5KYkdIcWEwa2lRWGhHTFlVTnFfQVh2V0hiQ3JOLWxWU0I0UjdJSlNzNlZZUVVKc1ZaaTJuVW44VjlTLTQweXFfQW5TR1B6S3N4SGcwQ2Mwb1Z4UVloR25MRFdVM3o2TVVmbGpqNC0wUTJ1ZmNNbVlWLVBEblctbXRUNEo1?oc=5",
-        "source": "GZH",
-        "publishedAt": "2026-10-28T16:43:45.000Z",
-        "summary": "Festival de Cinema Francês exibe 21 filmes na Paulo Amorim e no Cinesystem GZH",
+        "title": "Filme ”As Dez Vantagens de Morrer Depois de Você” estreia nos cinemas de Goiânia",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmVHQU5LeGNMbUZiVEhYSHZESnpKMXRyLWdtNTNNRm10N3ktbEp1bEsxY25mRmRsNUdjcGY4amd0ZGM0U2pTSWNlNUx3dUVvLUhKNUdOYzZXVnctbVgxcVBidDY4QkdxOVg2dUVKNWl2ZHVjZVVpd01mYVdNeVFmODhPeXlMXzBnUFYyUW1qREM3aEZkWE5aWWtxZEUxMnczVVhyZlRR?oc=5",
+        "source": "A Redação",
+        "publishedAt": "2026-10-29T03:30:20.000Z",
+        "summary": "Filme ”As Dez Vantagens de Morrer Depois de Você” estreia nos cinemas de Goiânia A Redação",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.51,
-        "relevance": 8
+        "score": 5.94,
+        "relevance": 6
       },
       {
-        "title": "Festival do Cinema Brasileiro terá ingressos a R$ 12 em cinemas de Natal",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ25sM0FERFN0ZU5NX0tqZzB6SVlPZDdMYk40ZWY4SmVFM3NZR1JqZlNFZkc5dzNNc2FGd0dEYVBDUmd2bXVFNTdyREZrcEtCaHh2SHJYQzdRbnVHbzQwdFRmdnZRZTJUYmhDeTNLUl9Cdldmcm9LeDl5dlBwUVd4UmFfWklVRmtCdW8zR095ekN2S2cwSHJwUGd3ZjNGc05hQ3RmS24xY0U3WjN1SUNHeWN0SFRTZEZWemJTLUlEUEY0UDdGMmVHX1pDUVRTUEZnczVhdmh5WWlmb0N5dEh2blFnYngxRTBtTlFEQmdlUDVKWTM2elJXbjNDZXZIMEHSAY4CQVVfeXFMTUp4SGh3N0FJQjJfSjVNUV9oX2VSN3NkMXZKRWJhN183dVFkYldwNVEtRHNMUzFmd2RMTjNVcHRXRlNIVUc0eklXT3BGMXZoV1dvQ1FfSkF5d1UtVEFKV0oyUGd5RlRaSG1wMmNQMDFrX2NtYWdycE1ZeHdOOHZWVThBRFhCeFFpVmpCRzBydUo4QlFWNW85UmF2eHJzdzl2XzZhR3VOTXpBSXpxYWljRzVFd0ZiS18xTC1zZWd1anMxUlVMWUhkR0NHV3hVM1I3Q0FhaHY0YlJadWVtYVNVdHlvV0VxZXpMRGd0QjlwWXYtT2RPakRkbG93cldLVl9VU3RNdl9INHNUd0lnUHln?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-10-28T16:38:06.000Z",
-        "summary": "Festival do Cinema Brasileiro terá ingressos a R$ 12 em cinemas de Natal G1",
+        "title": "Confira as estreias e os filmes em cartaz nos cinemas de Goiânia e Aparecida de Goiânia",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZXNRME00MlpxaGJlU2hSdG90OFp6dlFaTXhXVl9QcGR4R0IzX05jcFprYzhuQVBKTGxYZU1DRlZJcmhndGdEaVhEaTJRUmI5QTNxcTdBbUhSWkZvY1ptSV81cU5SVzZDWktoS2FFMDgxN2dUTUFfU3NPbnNpVE1lVGtxZkhZMzVKZnl5OFFpdkJFaUotUG8xbktEZ3pNZ1hwd3dnelpnZU5Pb1NOTkVocm5Ib0I2aU00eXNsVzAzV0dlWmlHZlBJTHFR?oc=5",
+        "source": "O Popular",
+        "publishedAt": "2026-10-28T22:53:31.000Z",
+        "summary": "Confira as estreias e os filmes em cartaz nos cinemas de Goiânia e Aparecida de Goiânia O Popular",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.49,
-        "relevance": 8
-      },
-      {
-        "title": "A Netflix está em crise? O que está em jogo para seus filmes e séries",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcTNwYXRYWGNxUHdRSG1JSnlRN2FpSnNBdnZYajdja1VHM1JQem52Zkc4WHYydTJRTThzRC15VWFxb1dvOENJTnltNkRTZFVNeHpHN29lOV9hcGUxalFNSzVqYXJ2cWx1UVJFT1FzWXN5dlVROWJZNWtnLTlqT1NkdzNlTmFiME5MSVl2ektNSWN0dVMyaGpNU2E5YUZSWUJ0cHhxVURHcWl3eGZPMlh2YVp0RTVDRHFTMS1RZ25xNHoyYjJy?oc=5",
-        "source": "Catraca Livre",
-        "publishedAt": "2026-10-28T19:55:22.000Z",
-        "summary": "A Netflix está em crise? O que está em jogo para seus filmes e séries Catraca Livre",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 6.44,
+        "score": 5.8,
         "relevance": 7
       }
     ],
     "medicina": [
+      {
+        "title": "SUMMIT SAÚDE: veja como foi o evento que abordou principais desafios da saúde no Brasil. ⁣ ⁣ Encontro reuniu especialistas, autoridades e lideranças do setor em torno dos avanços da medicina, da prevenção, da inovação e do acesso a tratamentos.",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GZWw3UTR6dG1VcU9SaWNFdldYNThwUGFqUkNrMjdaTW92RFo2cTJOZnFmd0dfT20zZ3NpQ2VhSHBWajM4N3NKbXhSaGtRTGNiamVjNTlR?oc=5",
+        "source": "Instagram",
+        "publishedAt": "2026-10-29T01:25:01.000Z",
+        "summary": "SUMMIT SAÚDE: veja como foi o evento que abordou principais desafios da saúde no Brasil. ⁣ ⁣ Encontro reuniu especialistas, autoridades e lideranças do setor em torno dos avanços da medicina, da prevenção, da inovação e do acesso a tratamen",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 5.48,
+        "relevance": 6
+      },
+      {
+        "title": "Einstein e Fundação Champalimaud firmam parceria para avançar em pesquisa de câncer e medicina de precisão",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeEJub1FXY0tJLU9PVHR1bGc4N0lPYy1LRjI1YkN6Wjl1NFotblpSNlI0YXJ0dXkyUW81YUg1bFhQVFFNX1M5NFlMbWVmTUNtOWVULVY2dTBWTDdFY2RXcDJCVHFrS19JZjM5ZDU0SEN4VmhBNkRQTXJpa2ZfbVpNd2ZKMllaS05Ec1llQnBtYkNVc3RtaXZFMjBOaDA2dXNTSFp0dUdjN0xiT2Vfd3dZUFBMYnFLRDZOOHFMc3JYckQ?oc=5",
+        "source": "Futuro da Saúde",
+        "publishedAt": "2026-10-29T02:48:08.000Z",
+        "summary": "Einstein e Fundação Champalimaud firmam parceria para avançar em pesquisa de câncer e medicina de precisão Futuro da Saúde",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 5.2,
+        "relevance": 5.4
+      },
       {
         "title": "Hospital de Base recruta mulheres de 14 a 45 anos com acne moderada para estudo clínico",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWEdIMGpLMHV6OW40VllBTy1ocVZXNXNXUEEwM1ZBR0t0V01NY3pUSkZxMEtPMmljZXhhc1JrUVVjQUlNZVo2S2YwQWhfM3RNUm52RTJTeGJKdDRtRzY3T1FjaGExZk5EaVhVN21fbTBORlZDZnNwdkdST1dva1dsMVVmbFRkdGxPZ0cxTGxGaldJZVIyZkM4?oc=5",
@@ -1079,34 +1107,34 @@
         "topics": [
           "medicina"
         ],
-        "score": 5.88,
+        "score": 4.72,
         "relevance": 6
-      },
-      {
-        "title": "Adolfo Lutz identifica bactéria e parasita em água associada a mais de 2,6 mil casos de virose em Itapeva",
-        "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/28/adolfo-lutz-identifica-bacteria-e-parasita-em-agua-associada-a-mais-de-26-mil-casos-de-virose-em-itapeva.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-28T21:14:28.000Z",
-        "summary": "Câmara de Itapeva abre CPI sobre água da Sabesp após quase 3 mil casos de virose Uma análise feita pelo Instituto Adolto Lutz em Sorocaba (SP) apontou uma bactéria e um parasita na água que estava abastecendo a população em Itapeva (SP). A ",
-        "image": "https://s2-g1.glbimg.com/CY1qtzK58NrBvO2Nv2-0YC9w0Ts=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/N/b/PvYf5kStKuIf6nh61sMg/img-0825.new.01-frame-55.jpeg",
-        "topics": [
-          "medicina"
-        ],
-        "score": 5.62,
-        "relevance": 5.8
       },
       {
         "title": "O Resgate do Protagonismo Médico: Desafios, Saúde Mental e o Futuro da Medicina na Sociedade",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjRUWXo3QWpVdzR3eVpXRkJiamM5T21OVzVWQlNvdG5hRzF6cGQwWjNYckJwUU9jMC1pM2xONHNaX09ZRnR6QkxhcGptQzhrcUNSZmFzMm0xTGh1VWF3YWc5LWdPcGpKNVNxaThsaXlvWTg5aDNBN0JYWTdfWEFzZ1ZLdzN2dFpXVUdLM3ZxSWpvN0xwRUZqOXE1VjdDY1R0RFhiQWhaNFhfUzNySUU1UlR6d1hhUWdBS2p1dExOcHpwbF9pQmhF?oc=5",
         "source": "Diário MS News",
-        "publishedAt": "2026-10-28T20:00:05.000Z",
+        "publishedAt": "2026-10-28T20:39:57.000Z",
         "summary": "O Resgate do Protagonismo Médico: Desafios, Saúde Mental e o Futuro da Medicina na Sociedade Diário MS News",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 5.54,
+        "score": 4.56,
         "relevance": 6
+      },
+      {
+        "title": "A medicina precisa continuar fazendo perguntas – por Mauricio Younes Ibrahim",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNnVBREpWamFUcGZ3SUh1V2ZxSDJBbG1YcmlSWC11WkwtV2pxSnpBbVhNeTZWeG1DUkhiNV95R3ZzY3hSTmgxMmk5eEZuUEJwTTRWQ2kzajFQdWZSZ2RkSHlpa2VJekV3MWMzcmJodHMzLWVXeElIaklURXVVZm1PWEdabU1Na1ZMWGJoR2RMZ1lFOWs2QUE?oc=5",
+        "source": "Futuro da Saúde",
+        "publishedAt": "2026-10-29T02:15:00.000Z",
+        "summary": "A medicina precisa continuar fazendo perguntas – por Mauricio Younes Ibrahim Futuro da Saúde",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.15,
+        "relevance": 4.4
       },
       {
         "title": "Médicos e estudantes de medicina se reúnem no Ceará para debater o cuidado para além da doença",
@@ -1118,33 +1146,7 @@
         "topics": [
           "medicina"
         ],
-        "score": 5.13,
-        "relevance": 6
-      },
-      {
-        "title": "Maricá recebe estudantes do Passaporte Universitário para início do internato de medicina na rede de saúde",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMVRCREZKc010MGZ4RllvOU82aXRfeG1sU3JfTjlRSWU4bEpXTzMzakYtZzBmSkNqZFNQN2U5UTY3MnRkRmxFbGs3RGdOUWVnNTZ5MTBUTHE4SEU1TkVvUGV6ZDhqNmpCaGhLQkVhZzNmSWR2bkV0TDFkR0ZkaTNfTVg2MmE5bzExQko0LTJNOEpEY0lvQTh4a1lpZ1Bfa3JPMzEwdUtpdkRlcXhKUGxPTk9VRHhmS3dtcW1ISUl4dzhaMDY1UkJ2Y2Y0cjNHS016a1NEWlhRNUdVZ1pF?oc=5",
-        "source": "Prefeitura de Maricá",
-        "publishedAt": "2026-10-28T21:35:49.000Z",
-        "summary": "Maricá recebe estudantes do Passaporte Universitário para início do internato de medicina na rede de saúde Prefeitura de Maricá",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.91,
-        "relevance": 5
-      },
-      {
-        "title": "Medicina regenerativa amplia opções de tratamento para artrose no joelho",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRll5VkFqVFZOZjlQLWlBLVgyMHlmME0yMURCZFFlel9sSXBvVHdzM052RHV4M1F6d1NIU0hsOHRja0otMV9hbEVNZDhzLVNna2tHV3JoYzktdF9lUnJWQ05TeFVEbm5PTDB1bWtaRi1ac2ItbFYtVVdUSW5QVVE0NWpoMHA2Ry1yb0JycXNXMnI3ZUFaNU1WZThlYjY3YkpqbnFLRlpWUC1UbW9zT0VKdTFQd3JfUjE1X0VjVGQxU2NGTVE5SWlMY3BaRGlPOEQ4OXc?oc=5",
-        "source": "JC",
-        "publishedAt": "2026-10-28T15:26:15.000Z",
-        "summary": "Medicina regenerativa amplia opções de tratamento para artrose no joelho JC",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.65,
+        "score": 4.12,
         "relevance": 6
       }
     ]
