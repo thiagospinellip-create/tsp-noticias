@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T22:15:52.887Z",
+  "generatedAt": "2026-10-30T03:50:09.266Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -40,8 +40,34 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 10.42,
+      "score": 8.41,
       "relevance": 13.4
+    },
+    {
+      "title": "Banco Master: entenda como funcionou a fraude bilionária; PF indiciou 15 nesta semana",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/30/banco-master-entenda-como-funcionou-a-fraude-bilionaria-pf-indiciou-15-nesta-semana.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "Como o Banco Master chegou a movimentar bilhões de reais O Banco Master está no centro de uma investigação sobre operações bilionárias. Entenda no vídeo acima como o esquema funcionava. Nesta quarta (28), a Polícia Federal indiciou Daniel V",
+      "image": "https://s2-g1.glbimg.com/BBO7QfYs51RmtjzqOhxRlo5YAKA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/z/YgrxcuTLObKr9dBZJTvA/banco-master.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.94,
+      "relevance": 8.2
+    },
+    {
+      "title": "Dólar sobe 0,76% e fecha a R$ 5,39 em dia de cautela",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1dLVktoUEpNb280U0RESGFmUjVtNXZ0RkF6c2FaNU5NYUE4dEpFWkRaZkduamtXRFVhNlpaM1laRWJFeDdZc0NKNk9LRVVSQXhRczM4SmhoQTFVVHp6aHdlc1RjdVhpOU9QVkhPY2xfSWE4ZjIxbWRYVUVBTmJyS2hLcEl5Z2dZN2tuczNKWlVNNGtGeFdqQnZtSHpNNDA2WTlGczh1SQ?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-10-29T22:39:00.000Z",
+      "summary": "Dólar sobe 0,76% e fecha a R$ 5,39 em dia de cautela Agência Brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.53,
+      "relevance": 9.2
     },
     {
       "title": "Contas públicas têm déficit de R$ 5,5 bilhões em setembro; dívida soma 82,9% do PIB, maior nível em cinco anos e meio",
@@ -53,13 +79,39 @@
       "topics": [
         "negocios"
       ],
-      "score": 8.88,
+      "score": 7.17,
       "relevance": 10.8
+    },
+    {
+      "title": "Simples Nacional: empresas têm até esta sexta para escolher como pagar IBS e CBS; entenda",
+      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/30/simples-nacional-empresas-tem-ate-esta-sexta-para-escolher-como-pagar-ibs-e-cbs-entenda.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T03:00:01.000Z",
+      "summary": "O MEI deve fazer a declaração Anual do Simples Nacional (DASN-SIMEI) Divulgação/Sebrae Micro e pequenas empresas que fazem parte do Simples Nacional têm até esta sexta-feira (30) para decidir como vão pagar dois tributos criados pela reform",
+      "image": "https://s2-g1.glbimg.com/DIILVism1SSwTaUd3ZW9V52Hylw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/e/hiO7y9SXKi0oruhw3PBA/prazo-dasn-mei-2022-1170x780.jpg-p28303-cover-image-resized-1-.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.97,
+      "relevance": 7.2
+    },
+    {
+      "title": "O que a inteligência artificial tem a ver com o valor da sua conta de luz?",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/30/o-que-a-inteligencia-artificial-tem-a-ver-com-o-valor-da-sua-conta-de-luz.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "A IA pode deixar sua conta de luz mais cara? A inteligência artificial depende de grandes centros de dados, que reúnem milhares de chips e consomem muita eletricidade. A Agência Internacional de Energia estima que o consumo dos data centers",
+      "image": "https://s2-g1.glbimg.com/JSkg8YBLna0-AA25NHlGCMCBw0k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/A/h/ZdmrYDQ72nURwsRArdZA/adobestock-566449333.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.97,
+      "relevance": 7.2
     },
     {
       "title": "Google vai colocar anúncios nas respostas da inteligência artificial no Brasil ainda em 2026",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/10/29/google-vai-colocar-anuncios-nas-respostas-da-inteligencia-artificial-no-brasil-ainda-em-2026.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-10-29T21:25:39.000Z",
       "summary": "Alphabet, dona do Google, vai liberar uso de inteligência artificial para pesquisas que tenham fins militares Reprodução/TV Globo O Google planeja expandir a exibição de anúncios em seu Modo IA para o Brasil, o México e o Reino Unido nos pr",
       "image": "https://s2-g1.glbimg.com/BxZusOghdvRrfE50J2h0Pw9gBLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/5/B/EYa70ES4yHRUGzJlyhxQ/globo-canal-5-20250205-1654-frame-407305.jpeg",
@@ -67,7 +119,7 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 8.52,
+      "score": 6.88,
       "relevance": 8.8
     },
     {
@@ -80,61 +132,8 @@
       "topics": [
         "negocios"
       ],
-      "score": 8.35,
+      "score": 6.74,
       "relevance": 12.4
-    },
-    {
-      "title": "Colômbia registra 256 mortos e 973 desaparecidos na guerra entre Rússia e Ucrânia",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/29/colombia-registra-256-mortos-e-973-desaparecidos-na-guerra-entre-russia-e-ucrania.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-29T20:50:59.000Z",
-      "summary": "Realidade na linha de frente da guerra na Ucrânia é dura Oleg Petrasiuk/Ukrainian Armed Forces/REUTERS Um total de 256 colombianos morreram e 973 estão desaparecidos na guerra da Rússia contra a Ucrânia, anunciou o Ministério das Relações E",
-      "image": "https://s2-g1.glbimg.com/wfiOW7ueqic0QhWcKh_geMlFH1k=/s.glbimg.com/jo/g1/f/original/2015/01/05/2015-01-05t163144z_322616853_gm1eb16019a01_rtrmadp_3_ukraine-crisis.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 8.33,
-      "relevance": 8.8
-    },
-    {
-      "title": "Principal comandante militar dos EUA apresenta a Trump opções de ataque ao Irã, diz jornal",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/29/principal-comandante-militar-dos-eua-apresenta-a-trump-opcoes-de-ataque-ao-ira-diz-jornal.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-29T19:40:58.000Z",
-      "summary": "Presidente dos EUA, Donald Trump, durante comício na Flórida Umit Bektas/Reuters O presidente dos Estados Unidos, Donald Trump, teve uma reunião na Casa Branca com o principal comandante militar dos EUA nesta quinta-feira (29) para analisar",
-      "image": "https://s2-g1.glbimg.com/vv50cPv5jrQP21Pn4HkVsIikR3I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/u/1TAnFkSb29msTUcLJ9ug/2026-10-23t202915z-729126688-rc289oay8dlx-rtrmadp-3-usa-trump.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 8.33,
-      "relevance": 9.2
-    },
-    {
-      "title": "Nem petróleo, nem juros: por que a inteligência artificial virou o verdadeiro motor da economia global",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSm02Uk0xTTJrRTh5ZzJFQy1tbjdwY09Uc0psaG5ObFZTM2I5UWFocl8yU2J1RGNoc2VpMDRjcFk5VnY4NU9Ocm5Gd0Zja3NuSlpqd001dmxlMHJ2WURZcWZ5N3pEekp3NkF0Z3lLaE12WUowUmlHX2dxSnN4RlFrZEhKQndkWDVnY2hBb3FvSGVQd2kzbllCa3FjLWJvbEd5WnlibE9Bd3dfWmpLTWh3SG1lck50cXpGMVlrVHFWUUVUdklyMVBVUjBNc1dEQQ?oc=5",
-      "source": "NeoFeed",
-      "publishedAt": "2026-10-29T21:22:00.000Z",
-      "summary": "Nem petróleo, nem juros: por que a inteligência artificial virou o verdadeiro motor da economia global NeoFeed",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.73,
-      "relevance": 8
-    },
-    {
-      "title": "Inadimplência e endividamento das famílias são recorde em setembro, informa Banco Central",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/29/inadimplencia-e-endividamento-das-familias-sao-recorde-em-setembro-informa-banco-central.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-10-29T17:02:47.000Z",
-      "summary": "A taxa de inadimplência média total registrada pelos bancos nas operações de crédito permaneceu em 5% em setembro, informou nesta quinta-feira (29) o Banco Central (BC). Com isso, o valor continuou sendo o maior desde o início da série hist",
-      "image": "https://s2-g1.glbimg.com/3cQNzedkttriUNo4fsHhDT1c1LM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/K/2/v1Hah4RB2k6xAfgDhanQ/canal-4-28-frame-219279.jpeg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.36,
-      "relevance": 9
     }
   ],
   "items": [
@@ -149,8 +148,34 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 10.42,
+      "score": 8.41,
       "relevance": 13.4
+    },
+    {
+      "title": "Banco Master: entenda como funcionou a fraude bilionária; PF indiciou 15 nesta semana",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/30/banco-master-entenda-como-funcionou-a-fraude-bilionaria-pf-indiciou-15-nesta-semana.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "Como o Banco Master chegou a movimentar bilhões de reais O Banco Master está no centro de uma investigação sobre operações bilionárias. Entenda no vídeo acima como o esquema funcionava. Nesta quarta (28), a Polícia Federal indiciou Daniel V",
+      "image": "https://s2-g1.glbimg.com/BBO7QfYs51RmtjzqOhxRlo5YAKA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/z/YgrxcuTLObKr9dBZJTvA/banco-master.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.94,
+      "relevance": 8.2
+    },
+    {
+      "title": "Dólar sobe 0,76% e fecha a R$ 5,39 em dia de cautela",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1dLVktoUEpNb280U0RESGFmUjVtNXZ0RkF6c2FaNU5NYUE4dEpFWkRaZkduamtXRFVhNlpaM1laRWJFeDdZc0NKNk9LRVVSQXhRczM4SmhoQTFVVHp6aHdlc1RjdVhpOU9QVkhPY2xfSWE4ZjIxbWRYVUVBTmJyS2hLcEl5Z2dZN2tuczNKWlVNNGtGeFdqQnZtSHpNNDA2WTlGczh1SQ?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-10-29T22:39:00.000Z",
+      "summary": "Dólar sobe 0,76% e fecha a R$ 5,39 em dia de cautela Agência Brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.53,
+      "relevance": 9.2
     },
     {
       "title": "Contas públicas têm déficit de R$ 5,5 bilhões em setembro; dívida soma 82,9% do PIB, maior nível em cinco anos e meio",
@@ -162,13 +187,39 @@
       "topics": [
         "negocios"
       ],
-      "score": 8.88,
+      "score": 7.17,
       "relevance": 10.8
+    },
+    {
+      "title": "Simples Nacional: empresas têm até esta sexta para escolher como pagar IBS e CBS; entenda",
+      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/30/simples-nacional-empresas-tem-ate-esta-sexta-para-escolher-como-pagar-ibs-e-cbs-entenda.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T03:00:01.000Z",
+      "summary": "O MEI deve fazer a declaração Anual do Simples Nacional (DASN-SIMEI) Divulgação/Sebrae Micro e pequenas empresas que fazem parte do Simples Nacional têm até esta sexta-feira (30) para decidir como vão pagar dois tributos criados pela reform",
+      "image": "https://s2-g1.glbimg.com/DIILVism1SSwTaUd3ZW9V52Hylw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/e/hiO7y9SXKi0oruhw3PBA/prazo-dasn-mei-2022-1170x780.jpg-p28303-cover-image-resized-1-.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.97,
+      "relevance": 7.2
+    },
+    {
+      "title": "O que a inteligência artificial tem a ver com o valor da sua conta de luz?",
+      "link": "https://g1.globo.com/g1-explica/noticia/2026/10/30/o-que-a-inteligencia-artificial-tem-a-ver-com-o-valor-da-sua-conta-de-luz.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "A IA pode deixar sua conta de luz mais cara? A inteligência artificial depende de grandes centros de dados, que reúnem milhares de chips e consomem muita eletricidade. A Agência Internacional de Energia estima que o consumo dos data centers",
+      "image": "https://s2-g1.glbimg.com/JSkg8YBLna0-AA25NHlGCMCBw0k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/A/h/ZdmrYDQ72nURwsRArdZA/adobestock-566449333.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.97,
+      "relevance": 7.2
     },
     {
       "title": "Google vai colocar anúncios nas respostas da inteligência artificial no Brasil ainda em 2026",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/10/29/google-vai-colocar-anuncios-nas-respostas-da-inteligencia-artificial-no-brasil-ainda-em-2026.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-10-29T21:25:39.000Z",
       "summary": "Alphabet, dona do Google, vai liberar uso de inteligência artificial para pesquisas que tenham fins militares Reprodução/TV Globo O Google planeja expandir a exibição de anúncios em seu Modo IA para o Brasil, o México e o Reino Unido nos pr",
       "image": "https://s2-g1.glbimg.com/BxZusOghdvRrfE50J2h0Pw9gBLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/5/B/EYa70ES4yHRUGzJlyhxQ/globo-canal-5-20250205-1654-frame-407305.jpeg",
@@ -176,7 +227,7 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 8.52,
+      "score": 6.88,
       "relevance": 8.8
     },
     {
@@ -189,13 +240,13 @@
       "topics": [
         "negocios"
       ],
-      "score": 8.35,
+      "score": 6.74,
       "relevance": 12.4
     },
     {
       "title": "Colômbia registra 256 mortos e 973 desaparecidos na guerra entre Rússia e Ucrânia",
       "link": "https://g1.globo.com/mundo/noticia/2026/10/29/colombia-registra-256-mortos-e-973-desaparecidos-na-guerra-entre-russia-e-ucrania.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-10-29T20:50:59.000Z",
       "summary": "Realidade na linha de frente da guerra na Ucrânia é dura Oleg Petrasiuk/Ukrainian Armed Forces/REUTERS Um total de 256 colombianos morreram e 973 estão desaparecidos na guerra da Rússia contra a Ucrânia, anunciou o Ministério das Relações E",
       "image": "https://s2-g1.glbimg.com/wfiOW7ueqic0QhWcKh_geMlFH1k=/s.glbimg.com/jo/g1/f/original/2015/01/05/2015-01-05t163144z_322616853_gm1eb16019a01_rtrmadp_3_ukraine-crisis.jpg",
@@ -203,7 +254,7 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 8.33,
+      "score": 6.72,
       "relevance": 8.8
     },
     {
@@ -216,8 +267,21 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 8.33,
+      "score": 6.72,
       "relevance": 9.2
+    },
+    {
+      "title": "Dívida pública brasileira está no nível mais alto em 5 anos",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/10/29/divida-publica-brasileira-esta-no-nivel-mais-alto-em-5-anos.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T01:55:44.000Z",
+      "summary": "Dívida pública brasileira está no nível mais alto em cinco anos A dívida pública brasileira está no nível mais alto em cinco anos. E a Instituição Fiscal Independente faz uma previsão preocupante: estima que esse endividamento deve superar ",
+      "image": "https://s2-g1.glbimg.com/xqz7lK2sTdW65YPzKkMzjYxWH60=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/Z/ptiwC4SmG6klWTbBe8pA/globo-canal-4-20261029-2000-frame-83818.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.69,
+      "relevance": 7.2
     },
     {
       "title": "Nem petróleo, nem juros: por que a inteligência artificial virou o verdadeiro motor da economia global",
@@ -229,7 +293,33 @@
       "topics": [
         "negocios"
       ],
-      "score": 7.73,
+      "score": 6.24,
+      "relevance": 8
+    },
+    {
+      "title": "Semana da Inovação reúne tecnologia, agroindústria e negócios em Nova Mutum",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDJ2NDgwWC1uTmVRdDU5dVk2VWk0RzJmeEl5U19rakN0SkZ0NzYzaEo3Q204OE5JY284SXpTYlV4RFFHc0NzWFBKUTAyN1hWR0ZrTDlaWTh6UHF4bXNLdzY4U1V0UHdDRlhpREpLc0VMbEJQZm1ZeTlKRlAya21jSXBPcjRKcUhpZGlqQXJNZ3NLZ2pDYUt3NU1BcDN6ZmUyOV9IeEZFZFN1X2Y4N2M1M3NRWjQ?oc=5",
+      "source": "Só Notícias",
+      "publishedAt": "2026-10-29T21:01:00.000Z",
+      "summary": "Semana da Inovação reúne tecnologia, agroindústria e negócios em Nova Mutum Só Notícias",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.15,
+      "relevance": 8
+    },
+    {
+      "title": "Festival de Cinema Francês e representante do Brasil na corrida pelo Oscar estreiam no Cinema do Centro",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPREF5UTgwMUZ5M05mZlU0bF95NnN4eTgzcmNQRW8wWDJjNEdWa1dybndZNkJfQXlaYk5qOG9IWUpwUGJ3czJtdzVfQzA4RUFGMXByc2RiNVdwWTlRYWswSnVWaG5DOVJNTnlEVWVLaGM0WmFFanc3YS1zSzVYenowWkdrdDg4a1NyRU9CZ3YxU2U1VHJBbDRpVTVFSVhtWHF6cDExQjlNUVYxcGxfemhpd1dpY1J1N3N0RXc5bmhhelBIU0YzOFg0YnNKSkVqZW5MX3c?oc=5",
+      "source": "Fan F1",
+      "publishedAt": "2026-10-29T20:22:00.000Z",
+      "summary": "Festival de Cinema Francês e representante do Brasil na corrida pelo Oscar estreiam no Cinema do Centro Fan F1",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6,
       "relevance": 8
     },
     {
@@ -242,8 +332,34 @@
       "topics": [
         "negocios"
       ],
-      "score": 7.36,
+      "score": 5.94,
       "relevance": 9
+    },
+    {
+      "title": "ECONOMIA. Emissão de notas fiscais para empresas do Simples Nacional ocorrerá exclusivamente no Emissor Nacional a partir de novembro",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMU9iUkFuRGQxS3hZb1dqQlVoTUpvQThPT3ctdnIyazNKN21SQ0pRbVNEVVJ5TTdXWURmYzBSSE1xUFM2cE1hVGxEZUUyTm5iQzNLWldGa0JQWnRPWnFIbFRZTWZpSWZnMVhGN3ZmSE9GZHBNaVZ5WllyWGtmR0VxNUFVZ2x3OWJ4VGRWTk5CM25QbW9hYTlteW9kRkQ0QnZIcldRUW5VdlNwMXp1WmtzUnBCRVR2RFl6N1pkNDNpZzk0UGhHVmdNMGJoazRyTXBqNVU0bnowZjZISDFRR3luQUhVYTB6ZzJVaDdocGVZY0I1Mzg2eWhKVTdOc25ZU0VOZnM5TmFJWQ?oc=5",
+      "source": "Claudemir Pereira",
+      "publishedAt": "2026-10-30T03:04:00.000Z",
+      "summary": "ECONOMIA. Emissão de notas fiscais para empresas do Simples Nacional ocorrerá exclusivamente no Emissor Nacional a partir de novembro Claudemir Pereira",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.82,
+      "relevance": 6
+    },
+    {
+      "title": "Finados: dia 2 de novembro é feriado? Dá para emendar? Entenda os direitos de quem trabalha",
+      "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/30/finados-dia-2-de-novembro-e-feriado-da-para-emendar-entenda-os-direitos-de-quem-trabalha.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T03:00:01.000Z",
+      "summary": "Dia de Finados em cemitério de Estância Leonardo Barreto/TV Sergipe Muitos trabalhadores já estão de olho no tão esperado “feriadão”, que começa na próxima segunda-feira (2), Dia de Finados. A data é feriado nacional e, em regra, garante um",
+      "image": "https://s2-g1.glbimg.com/BVR-KT4jlrPYBenqAMWUJwPQgDI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/c/M/QejofbT6WYBBpiIYmEOQ/finados.jfif",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.81,
+      "relevance": 6
     },
     {
       "title": "Cinco filmes inéditos para assistir no Festival de Cinema Italiano no Brasil",
@@ -255,7 +371,7 @@
       "topics": [
         "cinema"
       ],
-      "score": 7.07,
+      "score": 5.71,
       "relevance": 8
     },
     {
@@ -268,7 +384,7 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.93,
+      "score": 5.59,
       "relevance": 7
     },
     {
@@ -281,7 +397,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.92,
+      "score": 5.58,
       "relevance": 8.2
     },
     {
@@ -294,7 +410,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.9,
+      "score": 5.57,
       "relevance": 10.6
     },
     {
@@ -307,7 +423,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.87,
+      "score": 5.54,
       "relevance": 7
     },
     {
@@ -320,21 +436,48 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.86,
+      "score": 5.54,
       "relevance": 8
     },
     {
       "title": "Órgão do Senado diz que medidas da campanha pioraram contas públicas e exigirão ajuste maior para reequilibrar economia",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOV3NWTXg0dU1EbXFYaU9WZW41UXJ1bWhPNC1NWWRDZlBmUk9ZTU5fSVRRQTBBUzNlbVRjU01FZmRKZHIzbDN6YmtiNEVyU1dfQzdGMTBHWkNnZk9wVG1BNkN2Y1pnc1JlTGh1ZGVfSUNab004TjNUV05XNE1uNXRQc1pRSmRQY0tvTnFweGFSdlF2ZG10WUVGdGYxRGctd195bG9IWW5UbWlmRzJON255NVY2WlZOTmhwYW44ajNDLWt1QS14Szh0MlIxbXM3MVQtT0dHSXRHaGZGMTY3NmQtM3VmSi02TVZVVWZGSXRqX2wwal9ZLVZnREttaDJpTk43UEVsbdIBkwJBVV95cUxQMTNJcGEweW82SmMwRkdtZzZ1enFfNGM1SzRMVmV6NVEyMlR3NklNc0ZoNTUtZU9GdWQ5QVdGYWJDNWp2N2dRUmNGRTBzR0tWZ3MwQ2NtX0JXeGlTOXQ5Q0tPSldpLVV4UUxnX0t1OUl0aUxhTU9nbjU0OFBJMUtXRzFsMFNhd2RkOVdjY0NGRHJPaWtyYkYtNmlMMUVsN1I0Z2VZYXpMMmhMdVpLaUFjRG9Dc0F4dkVHMm02a0Q1U2x6OU5HeE55RHBiTkpvMWNkeFFrZDNhTF9xMEhacVNyalRrRW0wVUlEQ2JXMUhNcU42WEt6S1RnNmZZMl90eXB4UFlCNXdwbGlkODA2a0twWHBJYw?oc=5",
-      "source": "G1",
+      "link": "https://g1.globo.com/economia/noticia/2026/10/29/orgao-do-senado-diz-que-medidas-da-campanha-pioraram-contas-publicas-e-exigirao-ajuste-maior-para-reequilibrar-economia.ghtml",
+      "source": "G1 Economia",
       "publishedAt": "2026-10-29T14:00:02.000Z",
-      "summary": "Órgão do Senado diz que medidas da campanha pioraram contas públicas e exigirão ajuste maior para reequilibrar economia G1",
+      "summary": "A Instituição Fiscal Independente (IFI), ligada ao Senado Federal, avaliou nesta quinta-feira (29) que as medidas anunciadas pelo governo eleito do presidente Luiz Inácio Lula da Silva (PT) durante a campanha presidencial agravaram a situaç",
       "image": "https://s2-g1.glbimg.com/oMCH-osbgqCFYmMvxYf73ho3D7c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/X/WGDRThRAu2sjzuBVBUxA/bolsafamilia.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 6.84,
+      "score": 5.52,
       "relevance": 9.4
+    },
+    {
+      "title": "Simples Nacional 2027: prazo para regularizar pendências termina nesta sexta; veja quem precisa agir",
+      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/30/simples-nacional-2027-prazo-para-regularizar-pendencias-termina-nesta-sexta-veja-quem-precisa-agir.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T03:00:02.000Z",
+      "summary": "Simples Nacional: empresas do PI têm até 30 de setembro para escolher novo modelo de tributação Divulgação Microempresas e empresas de pequeno porte que pediram para ingressar ou retornar ao Simples Nacional em 2027 têm até esta sexta-feira",
+      "image": "https://s2-g1.glbimg.com/LVu7D4LScyYCR8g6lnAfBIeHlsc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/n/JMz6ACQcGjAolHR4v9BQ/edicao-imagens-g1-56-.png",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.42,
+      "relevance": 5.6
+    },
+    {
+      "title": "Lula 4 aposta em pragmatismo para lidar com Trump, contornar atritos com Milei e ampliar alianças no mundo",
+      "link": "https://g1.globo.com/politica/noticia/2026/10/30/lula-4-aposta-em-pragmatismo-para-lidar-com-trump-contornar-atritos-com-milei-e-ampliar-aliancas-no-mundo.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "Antes de encerrar o terceiro mandato, na reta final de 2026, o presidente Luiz Inácio Lula da Silva (PT) ainda terá compromissos importantes na agenda internacional. Em novembro, por exemplo, o Brasil deixa a presidência da Conferência das ",
+      "image": "https://s2-g1.glbimg.com/G7fA--PKCHcQynmeRqbyIc_6-7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/q/DVHrj1RfAqUQogKPAaUA/bbc.webp",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 5.42,
+      "relevance": 5.6
     },
     {
       "title": "Receita da Coveo cresce com demanda por IA e empresa adquire Anglera - Investing.com Brasil",
@@ -346,8 +489,21 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.68,
+      "score": 5.39,
       "relevance": 6.8
+    },
+    {
+      "title": "Grupo INFORM cria EVOTESS para levar inteligência artificial à logística dos materiais de construção",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRHZQaHc0YUlEMzdMSHpsQUZQbHhCWnlRSGpWdFlXUzRfNDhQV0RRRy1jbk5VbzBVR1h6VnBGN1BMZnZSWGhiZF9faDk0bDVoNkZEWUtJa1ZXNXdEVmhob2tmZUU0N0hOVG9weHBZS2tUNXdYV2FzVWVkRUpuY3B6U3RmQU9oR2pLS3poQlVFOElqRDhxb0Zta21jb3BIRkpnaDJkVXdRbGxvVkVaajlua3Y0NzVuVzVxRkxzN3VpTDRyNC03NnlmV25UTHdNamlPV05xZlhOaEl0QQ?oc=5",
+      "source": "Jornal Económico",
+      "publishedAt": "2026-10-29T23:13:00.000Z",
+      "summary": "Grupo INFORM cria EVOTESS para levar inteligência artificial à logística dos materiais de construção Jornal Económico",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.36,
+      "relevance": 6.4
     },
     {
       "title": "Forte crescimento e a inflação pintam um quadro misto da economia a poucos dias das eleições de meio de mandato.",
@@ -359,20 +515,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.64,
-      "relevance": 7
-    },
-    {
-      "title": "Inteligência artificial em equipe? Entenda como agentes autônomos trabalham juntos nas empresas",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU2U1aXhGTHdrMlVYeXJ3QjZCLS1ldWF2MDgzMVhwNURLZ3dvekd1NXVjY19wdG9KM29taUZzaHF2VEM0R251bTlkSlUwcW9kV2phQ05tT1BMWnNIakFYOWFsTlgwRmtNR3ZlcTR4TUY1c01kU1RydUVFSDNMZkRSajlDRlpnUE5TU2NSUGpCSm1IV09RN1k2dUI0LVJMXy0tUkFkS1R5WE9DYThxUHdvdG94emtPMGFfOU5rWE1mYUhmRWl1OWNyYVI2cXNWODVMNEtF?oc=5",
-      "source": "Exame",
-      "publishedAt": "2026-10-29T20:22:00.000Z",
-      "summary": "Inteligência artificial em equipe? Entenda como agentes autônomos trabalham juntos nas empresas Exame",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.51,
+      "score": 5.36,
       "relevance": 7
     },
     {
@@ -385,8 +528,73 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.51,
+      "score": 5.26,
       "relevance": 8.2
+    },
+    {
+      "title": "Inteligência artificial em equipe? Entenda como agentes autônomos trabalham juntos nas empresas",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU2U1aXhGTHdrMlVYeXJ3QjZCLS1ldWF2MDgzMVhwNURLZ3dvekd1NXVjY19wdG9KM29taUZzaHF2VEM0R251bTlkSlUwcW9kV2phQ05tT1BMWnNIakFYOWFsTlgwRmtNR3ZlcTR4TUY1c01kU1RydUVFSDNMZkRSajlDRlpnUE5TU2NSUGpCSm1IV09RN1k2dUI0LVJMXy0tUkFkS1R5WE9DYThxUHdvdG94emtPMGFfOU5rWE1mYUhmRWl1OWNyYVI2cXNWODVMNEtF?oc=5",
+      "source": "Exame",
+      "publishedAt": "2026-10-29T20:22:00.000Z",
+      "summary": "Inteligência artificial em equipe? Entenda como agentes autônomos trabalham juntos nas empresas Exame",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.25,
+      "relevance": 7
+    },
+    {
+      "title": "A indústria de Manaus na disputa pelo próximo pneu da sua moto",
+      "link": "https://g1.globo.com/am/amazonas/amazonia-negocios/noticia/2026/10/29/a-industria-de-manaus-na-disputa-pelo-proximo-pneu-da-sua-moto.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T02:07:39.000Z",
+      "summary": "Produção de bicicletas na Zona Franca de Manaus (ZFM) Divulgação/Abraciclo Para quem precisa trocar o pneu da motocicleta, o preço pesa na decisão. Especialmente quando o veículo é instrumento de trabalho, qualquer despesa de manutenção dis",
+      "image": "https://s2-g1.glbimg.com/WXfcIKmIh0AWmgI-7RVeUig9ygA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/m/3/PGqKceQRKXQKTb3n88ug/producao-de-bicicletas-na-zona-franca-de-manaus-foto-divulgacao-abraciclo-1-.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.24,
+      "relevance": 5.6
+    },
+    {
+      "title": "Honda NSX usado por Ayrton Senna vai a leilão e pode passar de R$ 5 milhões",
+      "link": "https://g1.globo.com/carros/noticia/2026/10/30/honda-nsx-senna.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-10-30T03:00:01.000Z",
+      "summary": "Honda NSX 1991 de Ayrton Senna vai a leilão na Inglaterra. Divulgação / RM Sotheby's Um Honda NSX de 1991, usado por Ayrton Senna, será leiloado neste sábado (31), em Londres, na Inglaterra. O esportivo, que ficou conhecido por aparecer em ",
+      "image": "https://s2-g1.glbimg.com/zn29FhL4HYpwWPfdb8PFXr4WfFg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/V/2/E5CtupRAO2J6mggWVJ7A/1991-honda-nsx-senna-10-e1713884733842-1536x1024-1.webp",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.23,
+      "relevance": 5.4
+    },
+    {
+      "title": "Embrapa transforma campo experimental no Ceará em vitrine de tecnologias agrícolas, apresenta nove variedades de trigo e reúne 290 estandes em feira que espera movimentar R$ 50 milhões em negócios",
+      "link": "https://news.google.com/rss/articles/CBMi_wRBVV95cUxOXzJOMzhVUHVBdjNodVJaXzhlenFnYkFvWHBIdWpVTnI0NUVRRjNwNzBfQnZSZW9QWE9uZElfOERBU3J4VWFqNjdrX2Z1MzBoQkNuMFZCWmRNdG9oN3NiRzBNVjNHRm1VNHNGeVRvUzFqNzdnREtKRTV6WE8zeFpNNS1aVDFtR21fV2lpcVVjUW5KYWJqS3I5dFhScGZDdk5kZXlScU84MVJVdi1UMllKTmlGcWxSUGRlUGxOSWpwTkhvdF8yLTBpWlBCSm55SFFNaVFFdlVQOFFuVW9hZGxQTDIyN1piUk5PR1I3ZEVvUFpQeEI4UDU4bzVsbFhRN3VIUHJUdEh3Y3I5dkItRWdIZFBySmt6SklKMGRFUkNBUTRvdUpReFJIY1d3Wk13bFlzckVKQVNGckU1bWs2VE9tSVhPcXUwZzJud1RzR2F6c3phS0FkcmY1SWJJMWllZlYzTHhKTDNVWWhYb2h4MmkwRElEeGxiN2djS3VDS3hzd1FZLTd5QktpdnAzVlRCY0F4TDMzNnliZkQ0Z01Kc2NUWkpWUEN3Z3Z6bWhKTV9QM0RxQnZobnEwM1lnbm43aG85WWZNd1ZUVW9fbkxPdkZHUE1VLTgxRFZWOUxUXzdwOFMyZW4xUTBuU082X0FhZmhnUUlueVZneDhaWUZTVjhYazliOVdNU1hla3BlM0FNLUV3NXE5Zjg5YlZkU1JMdFFHdExvQzlRRWkteXI3UzBxLVc2NTVvWUtUSjZKNF9INnNiNDlmc0lja1p0NnRDZGphcE5jQU1EUjR5dmxmcmQ2eXR3Q19lWVpfSlFOUFF6VkVVeWdwYjJleWQwRWktV0E?oc=5",
+      "source": "CPG Click Petróleo e Gás",
+      "publishedAt": "2026-10-30T00:12:00.000Z",
+      "summary": "Embrapa transforma campo experimental no Ceará em vitrine de tecnologias agrícolas, apresenta nove variedades de trigo e reúne 290 estandes em feira que espera movimentar R$ 50 milhões em negócios CPG Click Petróleo e Gás",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.22,
+      "relevance": 6
+    },
+    {
+      "title": "Canal Like amplia programação e lança novos programas originais com foco em cinema, séries e cultura audiovisual",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2VoM3RJdXVKY3Zpd3lGOU1TUk9Sa1lwM0RyNUxyZWt3cGhfOTBuTzNzNkpNZzd6SXZBZF9ZakZtR2lPQTZWZFgyVXJEenZPdWVLeVBicUVxR19qNkhXWTdQVFBKc2JyczNBbUF1dnI1eUprVXJ6X3lNc1Y5bHNfYlVVS3J2SlN0THZBekRpZjM?oc=5",
+      "source": "Portal TV e Streaming",
+      "publishedAt": "2026-10-30T02:52:00.000Z",
+      "summary": "Canal Like amplia programação e lança novos programas originais com foco em cinema, séries e cultura audiovisual Portal TV e Streaming",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.2,
+      "relevance": 5.4
     },
     {
       "title": "Salesforce vai adquirir a empresa de tecnologia de defesa Rune, em uma iniciativa para expandir seus negócios no setor militar",
@@ -398,7 +606,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.42,
+      "score": 5.18,
       "relevance": 7
     },
     {
@@ -411,8 +619,21 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.37,
+      "score": 5.14,
       "relevance": 7.6
+    },
+    {
+      "title": "Filhas de Flávio Bolsonaro são alvo de post com menção a execução russa e empresa de tecnologia de SC demite autor",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONEYzb2FNNm5XZW5zUmFIclN5ZUROUThoSnhnd0o5NzZzaUVUSGhmeG5STGFWbzRnajdvUmNLWHpRZDJzNE5UZDF0YnZGTHNQdUdBQzRnVTNQYlRlbE0wMkEwZmwxRnNWQUpXS0M1N3Q0b1ZDMU1DTGd0RGdCVTl6YVNuUmV5M0EyWGZPUE0za0M3ZFZ6Vy1oOVI5OS14M2VJdXNFX2ZyRzIwOHgxV1pHWGdqbEpqZXNNMkRwVHdaeGpsNkZwTDViQ0J5NTRFQUUyXzFUUHBqQzc4QlR5cFg4?oc=5",
+      "source": "ND Mais",
+      "publishedAt": "2026-10-29T23:43:13.000Z",
+      "summary": "Filhas de Flávio Bolsonaro são alvo de post com menção a execução russa e empresa de tecnologia de SC demite autor ND Mais",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.12,
+      "relevance": 6
     },
     {
       "title": "Coreia do Norte lança cerca de 10 mísseis balísticos em direção ao mar na costa leste, afirma Seul",
@@ -424,7 +645,7 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 6.33,
+      "score": 5.1,
       "relevance": 8
     },
     {
@@ -437,230 +658,8 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.21,
+      "score": 5.01,
       "relevance": 7
-    },
-    {
-      "title": "Inteligência artificial trabalha seis vezes mais que humanos e muda perfil das contratações",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbWQxS2JxcGFNdFNIbndVOVVZR0xXbWNYTWVrNGQ0LUk1ZWZwaHZqSHR5Ti1tbTJRLVdVV3owS3hJcEszR2xpclhMN3lNZnBJS2g2MjlJeVRIeWIzZTkxSWdxWm1qTFZ0N0FyRzBpTTAwMHFUalVrRC15LUo3OGlDSC1NOWs2LWhWNmRQMFZSUHF4VUVlTkY1VTFndEo0WE9aeWl2MmtjWHc5LS12dVU1ZVFGM3RyUzhyWjFLMDJBakxXN09QUnk2WlFvTjcyZVU?oc=5",
-      "source": "MEON",
-      "publishedAt": "2026-10-29T19:00:00.000Z",
-      "summary": "Inteligência artificial trabalha seis vezes mais que humanos e muda perfil das contratações MEON",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.17,
-      "relevance": 7
-    },
-    {
-      "title": "Sabesp diz que fará novas análises em água contaminada com parasita em Itapeva",
-      "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/29/sabesp-diz-que-fara-novas-analises-em-agua-contaminada-com-parasita-em-itapeva.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-10-29T21:17:22.000Z",
-      "summary": "Aulas são suspensas em Itapeva após identificação de parasita na água A Companhia de Saneamento Básico de São Paulo (Sabesp) informou, nesta quinta-feira (29), que fará novas análises para identificar anomalias na água que abastece Itapeva ",
-      "image": "https://s2-g1.glbimg.com/M90vZGEzNMqrFtbO5jeplpjyHK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/W/wmVUTOTpeFpII8EZuNog/sor-tn1-link-agua-itapeva-291026-frame-3295.jpeg",
-      "topics": [
-        "medicina"
-      ],
-      "score": 6.16,
-      "relevance": 6.4
-    },
-    {
-      "title": "Queda da Bolsa pode favorecer investimentos de longo prazo, avalia Planejar",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNDQtNm0wSmRhNGMzbVU3TFdrdnFBdWxyOGZENUp1QXc2U2lua1V3UVFBUmxXREVjVkRXSHhmY205TkU1VFpvbFkwMnU1a1Viazc1YjF1eHhFSU90YWFFVnljMzRwQUtpRndhYWUzZGE2b2RuOHJ1MV9MWmh0akNTUjRVcV8zYXpIUEs1azRNOGFvNFFPc2xzMnFua3BkY0ZuVjJEQ3d5SmtYMXFYcmJZX2N2cVdnYUpWaGpZZ3RzTlpYd0ZHRlZOaDAwWk5wZnc2MDI0?oc=5",
-      "source": "Jornal do Comércio",
-      "publishedAt": "2026-10-29T21:13:47.000Z",
-      "summary": "Queda da Bolsa pode favorecer investimentos de longo prazo, avalia Planejar Jornal do Comércio",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.15,
-      "relevance": 6.4
-    },
-    {
-      "title": "Bunge fecha fábrica de amônia usada na produção de fertilizantes na Argentina",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/29/bunge-argentina-fertilizantes-fecha-fabrica.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-10-29T19:31:33.000Z",
-      "summary": "fabrica da bunge na argentina Reprodução redes A multinacional agroindustrial Bunge decidiu encerrar as operações industriais de uma fábrica em Campana, na província de Buenos Aires, na Argentina. A unidade produzia amônia e tiossulfato de ",
-      "image": "https://s2-g1.glbimg.com/7ClKWFWY6gFhstv4diD1wyLAWJM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/M/Ufu8KeQ0SA7S9xyx9JZg/689f3b04-bd55-4d93-97ab-8e25271bae6c.png",
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.12,
-      "relevance": 6.8
-    },
-    {
-      "title": "Economia melhora, mas população empobrece: por que reformas geram insatisfação em países emergentes?",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVVkyS2dhcTRrM21uMTJvRlRDc0dnZ285a0tNUmxYb2FiZmlVV3hCUFVnZmtPZ2FRcDZBVm9FMHFEbGhuM3U1V0VUWWp5eURDeUl5YmFyR1pTbHUtdDVmREM4aUF1bDlIS3RHdlJwY0o0cHYyU0RjUFR6dnVEaTdlcWZ6ZnlxWkVmWjI5RFJwTEFFZ2lYTmMzQnp6UTVlZVlKQjduTGRkNnAyVFh6M0E2TVBkWldKUWVINkhOVm8zX2JrQ3lwSWxMRENkSmQ4Q0Y4TllYQXZOU1ZrSjNCTjFzV3FfQkdYR2PSAfYBQVVfeXFMTmJMRFdleFZSdXZQdkY3cFB3bGx5T2tqemo2ZFNibHo0VWpxVlQxQzJOY294UUtzRXp0UHVQemtwR25vNXJ6VmVHWnk0Sk0tVmdqQUNmdE1qSUFyNnBkUi0yam5uekkwYmMya0YxcVRaV05peGRpX2tGWjRjTHNCSzBDYVJhS1FZMFpJdy10Z2VqZVozZm1ISFFRZ1A0TUFGeU9sUXVGNkc1Q1g3X3kwNEczek9XNkZBY2hnSjhCWGRMaHVYLXJ0aFg3TE01UVpZemJSZzhqY014ektGZUVlZmxlV29WR3BNYjd6ZFRtVjEzM3RkN1V3?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-10-29T08:00:00.000Z",
-      "summary": "Economia melhora, mas população empobrece: por que reformas geram insatisfação em países emergentes? G1",
-      "image": "https://s2-g1.glbimg.com/KPmjektpcOLd0Ln1DnxVsMSbCpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/I/Bxp808THAuzBIfBpXWsg/nvrmpvqvzbpcpcubw76ble2rje.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 6.12,
-      "relevance": 10.6
-    },
-    {
-      "title": "Dívida Pública sobe 0,97% em setembro e encosta em R$ 9,4 trilhões",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNTZudVppOWxFbG5NZkZqZWIycDVsaTEwNEV1SnhMQ2xXTmswTHdBc2ZId0YwSDlMeHM2Q0NZaVRyUHlBOVo5cmRnbEstcTNDZzJoV08xV19QSldLazgtSlpodFF0dzZhSnpkT1h5aDNJWHV1bU1QOWtETktidmY3RkxoN2NiU2l2Z0FmOEJhUFdXWDJxVzZaeG5scUozTlIzclFqcEVjTUVIdWVaRzQ4MWNmVWpvSXdhVGxoMg?oc=5",
-      "source": "Agência Brasil",
-      "publishedAt": "2026-10-29T21:00:00.000Z",
-      "summary": "Dívida Pública sobe 0,97% em setembro e encosta em R$ 9,4 trilhões Agência Brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.1,
-      "relevance": 6.4
-    },
-    {
-      "title": "'Três Horas para Viver', '100 dias' e mais três filmes estreiam nos cinemas de Boa Vista",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMXoybmRkbEtPZXB6Ti1aME5reFR1WFZsMUMyOF83Zjl4R240c0JHYjUwaUpjaERSMUFnamlSYlc5amZ4SHkyeUlZa2hleVZmeW8zT2drdHg2SzAtM0tYRHh6LWF6NU9XSDh2Ym85aENfUXFLbDA4MWw1OFN4LS1TaklSdFBuNkxHQVk3d1Z6T0dVMkR6Yl9iUFRieG9fZzREbnFtcEJxYml3cnhUQk93YXUyZm9kOTh5R21LZnBwT0lUaVlTTHFPVFhMLWhKUVFRTFNMZU1JTdIB5gFBVV95cUxOWGVIU3ptRjBINnRHeWZ1Wkp4Q1lxREtsU0M2eFFnalZabF80RTA3c21TdU5lR0RveFF0YWpHQ0FGdlg2Y2paN3N2TXctR0ZGV2lkN3NtSTNfYUpuQ3FTTTlZWFN4a3lReVM1V2lBWFhLRFZNNVIzSkd2dzJEcnh6NE5Lc2JtMTlhN3drbjF6Z2k5YUxuZmdGOGdlMWVMWUc1MEJWWlVpdi1GelNybVpOTk9IM3A5Sk0xREstb2xwejBvMlo5c2dDN0pkU0tkMXhSNk1GR0hiS2RqUlRQSEZnclo2WndnUQ?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-10-29T18:20:26.000Z",
-      "summary": "'Três Horas para Viver', '100 dias' e mais três filmes estreiam nos cinemas de Boa Vista G1",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 6.02,
-      "relevance": 7
-    },
-    {
-      "title": "Dívida pública fica em 82,9% do PIB, e déficit soma R$ 5,5 bilhões",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQenZCQV9Xam5vS2c0aExKNFY3SWdKRUNXZm1MODA3SjA3QnY2WDZybGg5SmNvR2xsZkV3WXRQbjRvUWVmQ1pVX1l3MDdKbUhlWnloWkR3R2FiVXN0UnhHanZmT0Y1YTF1cm1abnZjU25WWmVkNmZwTU9sUk04Qm53N1Ezd01fYzFCemRGbndzVDVJdjdOOHJRNjRaOWhxTlVZS09wdVJDQUJULThSYjQ3V244TGJvY3BUVG5F?oc=5",
-      "source": "Agência Brasil",
-      "publishedAt": "2026-10-29T19:49:00.000Z",
-      "summary": "Dívida pública fica em 82,9% do PIB, e déficit soma R$ 5,5 bilhões Agência Brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.01,
-      "relevance": 6.6
-    },
-    {
-      "title": "Pluto TV: Lançamentos de filmes, séries, esportes e canais ao vivo em novembro",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFVZQ1d3QXpuUG1yX2hLQzNtV0c2VXJWWElveWFZYkw4b0FSNWlCUXk4XzVwZTJvRGUzRFV4bzFKV0o5dTd2RExGRTdQNHRTTUlBei00VjRxcmJROWF2b3Z2YzcxWGpYVlBYbVZJZ0U1TmRROXE3bFdzZVQ5YV9HTGNkVm1XbzltY1BTeFJ5N1RrQXZVZDhzR1NUcTBobzB1?oc=5",
-      "source": "Portal TV e Streaming",
-      "publishedAt": "2026-10-29T20:35:00.000Z",
-      "summary": "Pluto TV: Lançamentos de filmes, séries, esportes e canais ao vivo em novembro Portal TV e Streaming",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 6,
-      "relevance": 6.4
-    },
-    {
-      "title": "Notícia: Cine Santa Tereza exibe filmes brasileiros no “Especial Cinema Negro”",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2trMG1BVHlJMHc4b1lFaFlKR3VsVmx0a2VMTFY2WlVZMnJONVZWbl8zamVHNHZBLWJJZnNiZnNBU1pXV05DNDFXRmZlaThETnN6X01JRlloYnJsRUh3NnUzOFRlcnZCNlplajV5VGp4THJrTFhYdTRiX285bnhtanU1bTZONDRJakJubHVEOEdVSWRFWXpXUFZ3Y0dIU2ZTVzNiQWhPUTR2dmRDRkwxNlRaeVNUdw?oc=5",
-      "source": "BH Eventos",
-      "publishedAt": "2026-10-29T22:10:37.000Z",
-      "summary": "Notícia: Cine Santa Tereza exibe filmes brasileiros no “Especial Cinema Negro” BH Eventos",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.98,
-      "relevance": 6
-    },
-    {
-      "title": "‘Não monto um portfólio sem IA’: a tecnologia é a maior aliada para vencer o emocional nos investimentos? BTG já aposta no mercado",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWowWlhwSDE0cERUd0NISWdxN2tCdzV0VkFCa2dEcG03bXJyRWVjWEN3N1ROX21hbl9IZkhfR1VfaDFZTzlKcGJKeUdVVi14V3pNdnFkVjIzUEp4eUJ4TVo1NUIydm8tQXhuNTBQSjZFYjVkVEtLaXZkdW95X0hVMmVYWkxud1d3SENKS3JYT1VzS2pOZ0JKTXQ4eWplX1pQakpCTHpVeXhjNE9jeHl1UG13WlQ?oc=5",
-      "source": "Money Times",
-      "publishedAt": "2026-10-29T18:02:00.000Z",
-      "summary": "‘Não monto um portfólio sem IA’: a tecnologia é a maior aliada para vencer o emocional nos investimentos? BTG já aposta no mercado Money Times",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.95,
-      "relevance": 7
-    },
-    {
-      "title": "A Selic não vai mais cair? Pausa nos cortes dos juros já lidera apostas para o próximo Copom e muda cenário da renda fixa",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZ3RuTk94VWFEUmFTRlUzMmlfSmVVLVhiSHVOVkdYMEQyc1k4Q3d4dW8zZzRxNWVVbTNMc0FXUkVPVTdoVHgzeENXMkVfV09SWkxfYTFvY3pvNGlxQkx5M2RYZmFNZHNpUUtsYWRZVXdSaFFkM1JZbUtQUG0wZFhQVGRIRS1ZbFcyY2NiMHVyNGVwZWhlUDN4ZU11LW83M2hSNmxueGxHT21lM2NacUFYY0JYV0FYcHN6Q0tBMkh4Q0tfOER2cl90SGFBZ0xocFFxVWFvUEtSbGNoRjg5?oc=5",
-      "source": "Seu Dinheiro",
-      "publishedAt": "2026-10-29T22:01:00.000Z",
-      "summary": "A Selic não vai mais cair? Pausa nos cortes dos juros já lidera apostas para o próximo Copom e muda cenário da renda fixa Seu Dinheiro",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.94,
-      "relevance": 6
-    },
-    {
-      "title": "Inflação, emprego, dólar, Ibovespa, mais agenda e pílulas da economia 29.10",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcnpWTUZJR0N4VHJWSDJFUE8zdjdMbXd2UlRKMlRzY2dHLUM4eFEyS2NFR1NkLV91UTI2NXdxSGtXajVZR1h0YWhWV1VZS2EyMnlaSGRNX3NGelFrMldpNnhhMTZQalAtSGg3MXBWWXRxZW9yb3BlUko1VFBpdEo3NEtZUHRtbXNtMzNNcUJidk43aWRJMGFLcDduUG9WYXhwQ1hyTksxeEpqck56djVFYnhjZ0dCVGwxNkhTT2JaeExyblBqa1NtejhTU285TnlvWjJqRHE4SFhqMEVQc1JCVXd5RnF1N2tZOEltQVhjQjRIR2otYXZJVU93Slp4Y25GN3pRUQ?oc=5",
-      "source": "GZH",
-      "publishedAt": "2026-10-29T11:11:57.000Z",
-      "summary": "Inflação, emprego, dólar, Ibovespa, mais agenda e pílulas da economia 29.10 GZH",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.88,
-      "relevance": 9
-    },
-    {
-      "title": "Festival do Cinema: confira três filmes nacionais imperdíveis para assistir a R$ 12",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWJxTHhVeV9UaUNWZ0VwRThDelZnTlVyYVFhZVFzUTg5TmZWcUxSc1hJUHpidWV2TGo3TkhKOWZneHBPd1djaUs4bzNjTDBmYVhBeEZXeEFFNVpJUEFGalc3T1Y4eVl3c1NrYnc4dkNKdDRxMVQ1WmlaRGFiM1VDajJiZWlycjBCNkU1bFFtZTZiWlc1MHJJMjlLNjktVVlFbmNtX0V2Z3FJQUlKN2RMWldnVlMzU1E?oc=5",
-      "source": "VEJA",
-      "publishedAt": "2026-10-29T21:34:39.000Z",
-      "summary": "Festival do Cinema: confira três filmes nacionais imperdíveis para assistir a R$ 12 VEJA",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.84,
-      "relevance": 6
-    },
-    {
-      "title": "Governo Trump demite principal estrategista do Exército dos EUA, diz revista",
-      "link": "https://g1.globo.com/mundo/noticia/2026/10/29/governo-americano-demite-principal-estrategista-do-exercito-diz-revista.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-10-29T09:51:35.000Z",
-      "summary": "Foto mostra major-general Brett Sylvia em uma cerimônia de passagem de comando da 101ª Divisão Aerotransportada em Fort Campbell, Kentucky, no dia 30 de maio de 2025. Sgt. Timothy Jackson/U.S. Army via AP O governo dos Estados Unidos demiti",
-      "image": "https://s2-g1.glbimg.com/RCfsl-TeAiT4kaReeT69PdxsqtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/G/UosANaTCuT09R7VtOzQg/captura-de-tela-2026-10-29-065334-1-1-.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.83,
-      "relevance": 9.4
-    },
-    {
-      "title": "Novo espaço de cinema no Centro de Campinas estreia no final de semana com exibição de filmes nacionais gratuitos",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOFRhdXJQeDVBamVSWGl1SXRueG1FTk9HT1lBRkxWRjFwTmNfNE9aVEswWnFuWWpKc1lpcnhQc2JsNmMxZklkV1E2c2pCYzFqUUNNYVNLSkc0d1RZVmNMcEdVdkhCclphNy1SdkZJTVNiRVpUQlBqanM1UzFqcjRRcHBnZTg3OGx6QmY5OFVCOFVLTUh5NnRHRm4wNFl2blR3Y2JiYWdDVTgxSGVRelR5T19LQVc0cUpQVldEN3JVTGp5SVNmb2c1Nmx6R09uRzNCdkkwaktuTzNBVk5OVTJKZHU2Q0ZiYUxfTEI4?oc=5",
-      "source": "www.portalporque.com.br",
-      "publishedAt": "2026-10-29T17:24:53.000Z",
-      "summary": "Novo espaço de cinema no Centro de Campinas estreia no final de semana com exibição de filmes nacionais gratuitos www.portalporque.com.br",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.81,
-      "relevance": 7
-    },
-    {
-      "title": "Selic vai cair? Mercado vê 63,1% de chance de pausa nos juros - Suno",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA4TE5XUWNVblJxcVJiMnpadnZIUFJiT1lRSnNNNnNCSzBveXpQOVRNUkQzZ3JQZEJhSVNyNVhmNmszYzJvazlEMUg0T2pfT1p3NF81dGViN1E3ZnFFNHEyTmRVaDN2anpzVjdFTS03QlBJZUxscjdPc3dNUS1pQdIBgwFBVV95cUxQRU1IajNOYmZTY1g3dENrRE1fMk80QWp3d1VpOWl2YkFVejFQWnc3TTVJaHJ6WGhrNDRxNUsxam5ySWs3NGhSa1BseWpvQTVkd2Q0T2ZPRWdRQVVUSXM4a0doTFNUa1NwUkZVTFpRUWxZZjhnRHZJM2FpMm1aaVg4Ukthaw?oc=5",
-      "source": "Investimentos Inteligentes",
-      "publishedAt": "2026-10-29T19:39:00.000Z",
-      "summary": "Selic vai cair? Mercado vê 63,1% de chance de pausa nos juros Suno - Investimentos Inteligentes",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.79,
-      "relevance": 6.4
     }
   ],
   "byTopic": {
@@ -675,8 +674,61 @@
         "topics": [
           "historia"
         ],
-        "score": 5.46,
+        "score": 4.4,
         "relevance": 6
+      },
+      {
+        "title": "Binance sofre ataque hacker estimado em US$ 6,3 bilhões, o maior da história",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTNyeDJ4MXN2NUlMcGtGVU5La1FTR0J0WVpUenJ4UGNzTHhhVkFFU19aSnhuVHlReUpDendvZDVFYkFSY0xncHZMODFBRmJyQlhENmpqWXc5Zlk0d1F1NFdNOC1McHpVVC1jOERiMEZLeUlmTGsyQm53MUVYbUl1dVJ0ckF5cjlRc3c1b09ybE9GSkxVNnhxNVpxWHA0ZzlrbVJsUzNmaDF3dFhR?oc=5",
+        "source": "Exame",
+        "publishedAt": "2026-10-30T03:45:00.000Z",
+        "summary": "Binance sofre ataque hacker estimado em US$ 6,3 bilhões, o maior da história Exame",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.99,
+        "relevance": 4
+      },
+      {
+        "title": "JPMorgan Chase & Co.: história, atuação, situação na atualidade",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VNXFqa0VRVUY0dko0LUJuX2c2elhkd2w1dDQtMERfUmo1OUR6UUVCdmxfN3p0dTkyY21ndnkzd1VZMTlvSmJaNDM3b3BjLUtKRms4NGFOZ3g4Zkhaa3JQaUF5dzdQWWdzNnVRUUFFaWNiZDllZk4yN1JB?oc=5",
+        "source": "Investidor Sardinha",
+        "publishedAt": "2026-10-30T03:20:22.000Z",
+        "summary": "JPMorgan Chase & Co.: história, atuação, situação na atualidade Investidor Sardinha",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.92,
+        "relevance": 4
+      },
+      {
+        "title": "Trilogia Duna fará história no cinema, diz Robert Pattinson",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDgzek40d20xRU8yTXBJY2xiOW10QUNXaUhVcmNjZ0NDdzZsZkQ1XzJKcVdzcUdtenVUcUxUbndvSVhjb1E4LTl1QjFTLUF3WlZ3ZmJaOWVzY0dOSUg5a0J6T2ZKV2pfTm5kOFdabC1pU0N2RWFSZXpDQTk2RzduOUhYemh3UERk?oc=5",
+        "source": "O Vício",
+        "publishedAt": "2026-10-30T02:49:22.000Z",
+        "summary": "Trilogia Duna fará história no cinema, diz Robert Pattinson O Vício",
+        "image": null,
+        "topics": [
+          "historia",
+          "cinema"
+        ],
+        "score": 3.85,
+        "relevance": 4
+      },
+      {
+        "title": "Death Stranding Isolations: animação recebe teaser e novos detalhes sobre história e personagens",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdHVkdXFtSWw0YTB4emlibGtLRExCVDJXVERtd3g1djBoUVFkeGlIZkh0MlhZRXl3c2IzUTFkOWNkakV5MlZqUkRocUd3YlB4VHFzcV9tN0p1bVkwYTFsSlg5VkkxNjRaZnNlVWpsRGRXRzhqbG1oblJUS2RGN0lzZUlhdk5aei00LUZaQjFqX1daMmJPVjFROWFTSHFtNEQ5NzgzREhwaFNYT0w5S1ZJN2VPbHJpZEdzNVE?oc=5",
+        "source": "GameBlast",
+        "publishedAt": "2026-10-30T02:22:09.000Z",
+        "summary": "Death Stranding Isolations: animação recebe teaser e novos detalhes sobre história e personagens GameBlast",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.78,
+        "relevance": 4
       },
       {
         "title": "Historiadores Mary Del Priore e Eduardo Paiva discutem as muitas faces da mestiçagem no Brasil",
@@ -688,61 +740,8 @@
         "topics": [
           "historia"
         ],
-        "score": 4.64,
+        "score": 3.74,
         "relevance": 5
-      },
-      {
-        "title": "Tecnologia 3D ajuda a documentar o patrimônio histórico e fortalece pesquisas na UFSM",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSnRCUW9zUWh3Rnk5VXBhSW1rV2lENF9GVTMzOFdSTEFLV2hDd1ljNzl3VDdyR3pHaE83V2VxOFdIQWY2eEl2cnVUOHhTaXI1WlM0amtDNW14aDlXdnBiVkM2V290SHYtQURNV0Q3UXNWNjUxZWhkVVBpeFhseDNMM21rbXFCZkhaUWNPb0N6Slo0WTJBTEREMDNxZVNqTUxXbS1kclVJVlhOSG01Qmw4SW4tbVQ4M3lGX1dOMC1jLXZBZ1JOUHEtREFJeF9wZHlPVllkSWlNNWhmeDFyS2U4bA?oc=5",
-        "source": "UFSM",
-        "publishedAt": "2026-10-29T17:13:05.000Z",
-        "summary": "Tecnologia 3D ajuda a documentar o patrimônio histórico e fortalece pesquisas na UFSM UFSM",
-        "image": null,
-        "topics": [
-          "historia",
-          "negocios"
-        ],
-        "score": 4.12,
-        "relevance": 5
-      },
-      {
-        "title": "“Viva, Campina”: Capitólio passa de um filme de terror para uma história de superação",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUhRZU9WZTBUdmk5M2ViRzRqUm5BeWVkSnphZUVPbGQ1NnJXMWp4djdYT3ZhNENyM0lzTXN3NXNEakt4d1FWMWFzZnV2bWlBb3VkTHJ6ZVdTcE1wdTVYLW13SzVkaTN4aW5iU1FTY2NfZW5ISWZLbC15Y0xEVWtPejEwNklpa0ZLbW1XZjhBQzU3Q0N2a1NCTFlpa01ibnYtdHUzYjROSGplcmJ6bUl5WlRB?oc=5",
-        "source": "Blog do Max Silva",
-        "publishedAt": "2026-10-29T21:50:32.000Z",
-        "summary": "“Viva, Campina”: Capitólio passa de um filme de terror para uma história de superação Blog do Max Silva",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.94,
-        "relevance": 4
-      },
-      {
-        "title": "Quando a comunidade tomou a dianteira em 1991: a história secreta da primeira reserva municipal que mudou para sempre o destino da serra",
-        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOOTV0akFOMVRNRG04MFU4Yl9GR0FhZTUwd0ZOaVFXeXNLT2tVbVhISHZYOVVqUmNMV3J1WTZSNGxUUERYbXZaa0ZlT29UUlNFUDdqbElvNWpfSHdCM3VQQmEySE5IeFA0RUtZUy1yRmJma2Z1YndnTGg3NjhxUG52d3UyVGJ3WTRROHZ1SGFrOTlrWFl0MTR0YXdYM3dxZ05nTG9ZTW00azRTcHBrZFpzU3ZOMXdpc2xfaW1zTGwtNlVWZlk4ZE0zMXZNbUZGbFhFUjZwc3JzOGRUek9FdlRKalNWNk9manNLMXNxNVNkTEtNaXR5SE40c251TklXZnFHZlA2TWJlMjJ1YnpCZ0c4MTZB?oc=5",
-        "source": "Brasil 247",
-        "publishedAt": "2026-10-29T21:15:00.000Z",
-        "summary": "Quando a comunidade tomou a dianteira em 1991: a história secreta da primeira reserva municipal que mudou para sempre o destino da serra Brasil 247",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.85,
-        "relevance": 4
-      },
-      {
-        "title": "Churrascaria Cristal celebra 15 anos de história em Araucária",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczdwbmZpdFFKbndwMDd6ODZiaVFWdHB2dDJaOENLbUxUWmg3elk2TzN0QWZCQ0pnb2ptbGFKUmFScGczMEktQS1adkVzY2JBaFNCR25RWEZickxGdXBNSF9EWXhRb0Rpd19Qa2xZXzJRU0lPV19DMkdrNENrYUhfVVpPQ0puRlN2WUt0MVJ6WlpkQQ?oc=5",
-        "source": "O Popular do Paraná",
-        "publishedAt": "2026-10-29T21:03:00.000Z",
-        "summary": "Churrascaria Cristal celebra 15 anos de história em Araucária O Popular do Paraná",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.82,
-        "relevance": 4
       }
     ],
     "geopolitica": [
@@ -757,13 +756,13 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 10.42,
+        "score": 8.41,
         "relevance": 13.4
       },
       {
         "title": "Colômbia registra 256 mortos e 973 desaparecidos na guerra entre Rússia e Ucrânia",
         "link": "https://g1.globo.com/mundo/noticia/2026/10/29/colombia-registra-256-mortos-e-973-desaparecidos-na-guerra-entre-russia-e-ucrania.ghtml",
-        "source": "G1",
+        "source": "G1 Mundo",
         "publishedAt": "2026-10-29T20:50:59.000Z",
         "summary": "Realidade na linha de frente da guerra na Ucrânia é dura Oleg Petrasiuk/Ukrainian Armed Forces/REUTERS Um total de 256 colombianos morreram e 973 estão desaparecidos na guerra da Rússia contra a Ucrânia, anunciou o Ministério das Relações E",
         "image": "https://s2-g1.glbimg.com/wfiOW7ueqic0QhWcKh_geMlFH1k=/s.glbimg.com/jo/g1/f/original/2015/01/05/2015-01-05t163144z_322616853_gm1eb16019a01_rtrmadp_3_ukraine-crisis.jpg",
@@ -771,7 +770,7 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 8.33,
+        "score": 6.72,
         "relevance": 8.8
       },
       {
@@ -784,8 +783,22 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 8.33,
+        "score": 6.72,
         "relevance": 9.2
+      },
+      {
+        "title": "Lula 4 aposta em pragmatismo para lidar com Trump, contornar atritos com Milei e ampliar alianças no mundo",
+        "link": "https://g1.globo.com/politica/noticia/2026/10/30/lula-4-aposta-em-pragmatismo-para-lidar-com-trump-contornar-atritos-com-milei-e-ampliar-aliancas-no-mundo.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-30T03:00:00.000Z",
+        "summary": "Antes de encerrar o terceiro mandato, na reta final de 2026, o presidente Luiz Inácio Lula da Silva (PT) ainda terá compromissos importantes na agenda internacional. Em novembro, por exemplo, o Brasil deixa a presidência da Conferência das ",
+        "image": "https://s2-g1.glbimg.com/G7fA--PKCHcQynmeRqbyIc_6-7o=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/q/DVHrj1RfAqUQogKPAaUA/bbc.webp",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 5.42,
+        "relevance": 5.6
       },
       {
         "title": "Coreia do Norte lança cerca de 10 mísseis balísticos em direção ao mar na costa leste, afirma Seul",
@@ -797,37 +810,50 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 6.33,
+        "score": 5.1,
         "relevance": 8
       },
       {
-        "title": "Governo Trump demite principal estrategista do Exército dos EUA, diz revista",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/29/governo-americano-demite-principal-estrategista-do-exercito-diz-revista.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-10-29T09:51:35.000Z",
-        "summary": "Foto mostra major-general Brett Sylvia em uma cerimônia de passagem de comando da 101ª Divisão Aerotransportada em Fort Campbell, Kentucky, no dia 30 de maio de 2025. Sgt. Timothy Jackson/U.S. Army via AP O governo dos Estados Unidos demiti",
-        "image": "https://s2-g1.glbimg.com/RCfsl-TeAiT4kaReeT69PdxsqtM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/G/UosANaTCuT09R7VtOzQg/captura-de-tela-2026-10-29-065334-1-1-.jpg",
+        "title": "Relembre tudo o que Trump falou sobre a fuga de Flávio Bolsonaro e sobre a eleição no Brasil",
+        "link": "https://g1.globo.com/mundo/noticia/2026/10/30/relembre-tudo-o-que-trump-falou-sobre-a-fuga-de-flavio-bolsonaro-e-sobre-a-eleicao-no-brasil.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-30T03:00:00.000Z",
+        "summary": "Flávio Bolsonaro, Donald Trump e Lula Montagem - Arte/g1 O presidente dos Estados Unidos, Donald Trump, foi questionado mais de uma vez nos últimos sobre o resultado das eleições no Brasil e sobre a fuga do senador Flávio Bolsonaro para os ",
+        "image": "https://s2-g1.glbimg.com/jpMKINyUIWMoYDTud_OWB34Twds=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/N/T3VXYfSkG7xQdeE6QhGg/montagem-horizontal-1200px-5-.jpg",
         "topics": [
           "geopolitica"
         ],
-        "score": 5.83,
-        "relevance": 9.4
-      },
-      {
-        "title": "Rússia testa míssil nuclear intercontinental disparado por submarino; VÍDEO",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/29/russia-testa-missil-nuclear-intercontinental-submarino-video.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-10-29T09:14:11.000Z",
-        "summary": "Rússia testa míssil nuclear intercontinental disparado por submarino A Rússia testou nesta semana um míssil balístico intercontinental nuclear em meio a uma escalada de tensões com a Europa e temores de uma nova escalada da guerra no Irã. ✅",
-        "image": "https://s2-g1.glbimg.com/jif_8SLome09AF9t5Wj-RAFWn6A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/I/yM8Aa0Txi2w07ue1RAow/design-sem-nome-2026-10-29t063354.841.jpg",
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 5.57,
-        "relevance": 9.2
+        "score": 4.84,
+        "relevance": 5
       }
     ],
     "negocios": [
+      {
+        "title": "Banco Master: entenda como funcionou a fraude bilionária; PF indiciou 15 nesta semana",
+        "link": "https://g1.globo.com/g1-explica/noticia/2026/10/30/banco-master-entenda-como-funcionou-a-fraude-bilionaria-pf-indiciou-15-nesta-semana.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-30T03:00:00.000Z",
+        "summary": "Como o Banco Master chegou a movimentar bilhões de reais O Banco Master está no centro de uma investigação sobre operações bilionárias. Entenda no vídeo acima como o esquema funcionava. Nesta quarta (28), a Polícia Federal indiciou Daniel V",
+        "image": "https://s2-g1.glbimg.com/BBO7QfYs51RmtjzqOhxRlo5YAKA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/z/YgrxcuTLObKr9dBZJTvA/banco-master.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 7.94,
+        "relevance": 8.2
+      },
+      {
+        "title": "Dólar sobe 0,76% e fecha a R$ 5,39 em dia de cautela",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR1dLVktoUEpNb280U0RESGFmUjVtNXZ0RkF6c2FaNU5NYUE4dEpFWkRaZkduamtXRFVhNlpaM1laRWJFeDdZc0NKNk9LRVVSQXhRczM4SmhoQTFVVHp6aHdlc1RjdVhpOU9QVkhPY2xfSWE4ZjIxbWRYVUVBTmJyS2hLcEl5Z2dZN2tuczNKWlVNNGtGeFdqQnZtSHpNNDA2WTlGczh1SQ?oc=5",
+        "source": "Agência Brasil",
+        "publishedAt": "2026-10-29T22:39:00.000Z",
+        "summary": "Dólar sobe 0,76% e fecha a R$ 5,39 em dia de cautela Agência Brasil",
+        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 7.53,
+        "relevance": 9.2
+      },
       {
         "title": "Contas públicas têm déficit de R$ 5,5 bilhões em setembro; dívida soma 82,9% do PIB, maior nível em cinco anos e meio",
         "link": "https://g1.globo.com/economia/noticia/2026/10/29/contas-publicas-tem-deficit-de-r-55-bilhoes-em-setembro-divida-segue-em-829percent-do-pib-maior-nivel-desde-2021.ghtml",
@@ -838,13 +864,39 @@
         "topics": [
           "negocios"
         ],
-        "score": 8.88,
+        "score": 7.17,
         "relevance": 10.8
+      },
+      {
+        "title": "Simples Nacional: empresas têm até esta sexta para escolher como pagar IBS e CBS; entenda",
+        "link": "https://g1.globo.com/empreendedorismo/noticia/2026/10/30/simples-nacional-empresas-tem-ate-esta-sexta-para-escolher-como-pagar-ibs-e-cbs-entenda.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-30T03:00:01.000Z",
+        "summary": "O MEI deve fazer a declaração Anual do Simples Nacional (DASN-SIMEI) Divulgação/Sebrae Micro e pequenas empresas que fazem parte do Simples Nacional têm até esta sexta-feira (30) para decidir como vão pagar dois tributos criados pela reform",
+        "image": "https://s2-g1.glbimg.com/DIILVism1SSwTaUd3ZW9V52Hylw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/e/hiO7y9SXKi0oruhw3PBA/prazo-dasn-mei-2022-1170x780.jpg-p28303-cover-image-resized-1-.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 6.97,
+        "relevance": 7.2
+      },
+      {
+        "title": "O que a inteligência artificial tem a ver com o valor da sua conta de luz?",
+        "link": "https://g1.globo.com/g1-explica/noticia/2026/10/30/o-que-a-inteligencia-artificial-tem-a-ver-com-o-valor-da-sua-conta-de-luz.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-30T03:00:00.000Z",
+        "summary": "A IA pode deixar sua conta de luz mais cara? A inteligência artificial depende de grandes centros de dados, que reúnem milhares de chips e consomem muita eletricidade. A Agência Internacional de Energia estima que o consumo dos data centers",
+        "image": "https://s2-g1.glbimg.com/JSkg8YBLna0-AA25NHlGCMCBw0k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/A/h/ZdmrYDQ72nURwsRArdZA/adobestock-566449333.jpeg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 6.97,
+        "relevance": 7.2
       },
       {
         "title": "Google vai colocar anúncios nas respostas da inteligência artificial no Brasil ainda em 2026",
         "link": "https://g1.globo.com/tecnologia/noticia/2026/10/29/google-vai-colocar-anuncios-nas-respostas-da-inteligencia-artificial-no-brasil-ainda-em-2026.ghtml",
-        "source": "G1",
+        "source": "G1 Economia",
         "publishedAt": "2026-10-29T21:25:39.000Z",
         "summary": "Alphabet, dona do Google, vai liberar uso de inteligência artificial para pesquisas que tenham fins militares Reprodução/TV Globo O Google planeja expandir a exibição de anúncios em seu Modo IA para o Brasil, o México e o Reino Unido nos pr",
         "image": "https://s2-g1.glbimg.com/BxZusOghdvRrfE50J2h0Pw9gBLQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/5/B/EYa70ES4yHRUGzJlyhxQ/globo-canal-5-20250205-1654-frame-407305.jpeg",
@@ -852,75 +904,23 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 8.52,
+        "score": 6.88,
         "relevance": 8.8
-      },
-      {
-        "title": "Ibovespa cai pelo 4º dia, e queda na semana passa de 17%; dólar sobe e fecha a R$ 5,38",
-        "link": "https://g1.globo.com/economia/noticia/2026/10/29/dolar-ibovespa.ghtml",
-        "source": "G1 Economia",
-        "publishedAt": "2026-10-29T12:00:22.000Z",
-        "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em alta de 0,89% nesta quinta-feira (29), cotado a R$ 5,3874. Na máxima do dia, chegou a R$ 5,4285. Já o Ibovespa, principal índice da bolsa brasileira, caiu 1,06%, aos 169.186",
-        "image": "https://s2-g1.glbimg.com/qJ7O_5T6hSs6HEsS6HwA-Vl1Otk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/2/s/iveHFATICeDrK8diFnLw/pexels-john-guccione-wwwadvergroupcom-3564390.jpg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 8.35,
-        "relevance": 12.4
-      },
-      {
-        "title": "Nem petróleo, nem juros: por que a inteligência artificial virou o verdadeiro motor da economia global",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSm02Uk0xTTJrRTh5ZzJFQy1tbjdwY09Uc0psaG5ObFZTM2I5UWFocl8yU2J1RGNoc2VpMDRjcFk5VnY4NU9Ocm5Gd0Zja3NuSlpqd001dmxlMHJ2WURZcWZ5N3pEekp3NkF0Z3lLaE12WUowUmlHX2dxSnN4RlFrZEhKQndkWDVnY2hBb3FvSGVQd2kzbllCa3FjLWJvbEd5WnlibE9Bd3dfWmpLTWh3SG1lck50cXpGMVlrVHFWUUVUdklyMVBVUjBNc1dEQQ?oc=5",
-        "source": "NeoFeed",
-        "publishedAt": "2026-10-29T21:22:00.000Z",
-        "summary": "Nem petróleo, nem juros: por que a inteligência artificial virou o verdadeiro motor da economia global NeoFeed",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 7.73,
-        "relevance": 8
-      },
-      {
-        "title": "Inadimplência e endividamento das famílias são recorde em setembro, informa Banco Central",
-        "link": "https://g1.globo.com/economia/noticia/2026/10/29/inadimplencia-e-endividamento-das-familias-sao-recorde-em-setembro-informa-banco-central.ghtml",
-        "source": "G1 Economia",
-        "publishedAt": "2026-10-29T17:02:47.000Z",
-        "summary": "A taxa de inadimplência média total registrada pelos bancos nas operações de crédito permaneceu em 5% em setembro, informou nesta quinta-feira (29) o Banco Central (BC). Com isso, o valor continuou sendo o maior desde o início da série hist",
-        "image": "https://s2-g1.glbimg.com/3cQNzedkttriUNo4fsHhDT1c1LM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/K/2/v1Hah4RB2k6xAfgDhanQ/canal-4-28-frame-219279.jpeg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 7.36,
-        "relevance": 9
-      },
-      {
-        "title": "Exportações beneficiadas por acordo com a União Europeia crescem 21% em cinco meses; mel e abacate são destaques",
-        "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/29/exportacoes-beneficiadas-por-acordo-com-a-uniao-europeia-crescem-21percent-em-cinco-meses-mel-e-abacate-sao-destaques.ghtml",
-        "source": "G1 Economia",
-        "publishedAt": "2026-10-29T17:51:32.000Z",
-        "summary": "Exportações beneficiadas por acordo com a União Europeia crescem 21% em cinco meses; mel e abacate são destaques. Freepik As exportações brasileiras de produtos beneficiados pelo acordo entre Mercosul e União Europeia cresceram 21% nos cinc",
-        "image": "https://s2-g1.glbimg.com/D6I0kplJAaSF1noSwPlQ7dCmXSc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/f/IWhjnJRKiv6OJQQQoISQ/22787.jpg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 6.92,
-        "relevance": 8.2
       }
     ],
     "filosofia": [
       {
-        "title": "Diógenes de Sinope, filósofo grego: como abandonar a necessidade de aprovação pode ajudar a repensar o sucesso e a liberdade",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQc0lmcVVCVlN4NjVTSUl0MFZ6YWU3N0lPVlgwelNMY1BUeGhCckplSW9INlJZOVJLNGRMRGJwZkZaLWpxX3RwQnA4Y1BpeEkxa25UUk9JLXFHby1ZcFdkT0NyQjFuNWRzeFJyYlBQWU81Qk9tcGxtZTRxTW52dGVCRVB2NG5BYnVEZkdWazB2d1IxX3NlZzhCaTgwdnZIY2FxOGwwS1NHb2lzbFB6UmFscjctNkw5SXg0eWNuR1lYYm5saDd5LTQxSmxCOVNvVjROb1loSnBCVWpqN080MXdBR3dsRGhOc2h0NlkwR0dra1o2bS03UXpkX0ln?oc=5",
-        "source": "Portal UAI",
-        "publishedAt": "2026-10-29T20:11:00.000Z",
-        "summary": "Diógenes de Sinope, filósofo grego: como abandonar a necessidade de aprovação pode ajudar a repensar o sucesso e a liberdade Portal UAI",
+        "title": "Hannah Arendt explica por que a liberdade está no centro da política e não pode ser reduzida apenas ao ato de obedecer às regras",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMjVBNW0yQUwzTkxlbjlmUWttQzF0UTZ3N05ZVlpZVTZjY3BObERQYTZTY1A3NTUtSkNaay13d1ZWcFlwRmJRSy1kMzRQYU5sWmRxekxBNXFmSnJma3VrQmhFWjFKdTZYSGVaT0hkV2RRWk9EcmY0b29KMHU1cnd0QTNqU0FxTWk5YXZTSThlclpXb1lIbTZRQzhCZVB3TXlV?oc=5",
+        "source": "Correio Braziliense",
+        "publishedAt": "2026-10-30T00:50:00.000Z",
+        "summary": "Hannah Arendt explica por que a liberdade está no centro da política e não pode ser reduzida apenas ao ato de obedecer às regras Correio Braziliense",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 4.61,
-        "relevance": 5
+        "score": 3.56,
+        "relevance": 4
       },
       {
         "title": "“A filosofia ocidental que se ensina tornou-se o pensamento único, que traz mais males do que bens”",
@@ -932,8 +932,21 @@
         "topics": [
           "filosofia"
         ],
-        "score": 4.3,
+        "score": 3.47,
         "relevance": 5
+      },
+      {
+        "title": "7 Falas de Picard que Revelam Sua Filosofia em Star Trek",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90NHdSUEFHcXg0dVA5T2szdDMwZW90bXhBS2VyTnllM0tZRHV0TTIyX1hYdEtlOU1CbzVkY3gwNElyMVhBdE42WDNRLTRreUxnOXpPcXVxVGEyRjE1cDhNMV9WOWpRVXBLM2VHWDJoVmR5Rk1QQW9oUUNzQkVnQQ?oc=5",
+        "source": "thunderwave.com.br",
+        "publishedAt": "2026-10-29T23:45:48.000Z",
+        "summary": "7 Falas de Picard que Revelam Sua Filosofia em Star Trek thunderwave.com.br",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.42,
+        "relevance": 4
       },
       {
         "title": "Cursos da Filosofia UniAcademia recebem quatro estrelas no Guia da Faculdade do Estadão",
@@ -945,7 +958,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.27,
+        "score": 2.64,
         "relevance": 4
       },
       {
@@ -959,37 +972,37 @@
           "negocios",
           "filosofia"
         ],
-        "score": 3.16,
+        "score": 2.55,
         "relevance": 4
       },
       {
-        "title": "Heru e Herança: Filosofia africana e a defesa da vida",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHdCclJhaVdzZkt0Rzc2SHJjamlvT2xfcnppZlRRM3gzam1xS1ZvRTFJX09yeEpnNGJjREZTOFllbUxOcFFIMjdzbzVINkZ5ZkM0TVpibXhSSjVaYk05QUk4cndlVUpzMnlOajF3YUNrQW1WblV3ZTdhOWRldmw1cHFjOHRDbk9KaU5SaDVYbU96TEU?oc=5",
-        "source": "Sesc São Paulo",
-        "publishedAt": "2026-10-29T15:21:21.000Z",
-        "summary": "Heru e Herança: Filosofia africana e a defesa da vida Sesc São Paulo",
+        "title": "Diógenes, filósofo grego: \"Quem precisa de pouco é livre; quem precisa de muito vive escravo\"",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjh3VGJ0cmlwZ0xvNW9xWkVjNzZncVNCdHlXOEZacXUzXzF3ZWhXTlNVQjF6S08zQndNR253TWtfSkZESnhTX29iLXl3RmtVU1k3aGpDeEN2dVFsMjJQbDlEaEhIVGo0S1FCNmdQTUlLbjdfcFl0SE41M0VjMHVFbWVYb2lfcjRMb212QzNlWkhjNUNYcGpnVnpxVzVJblZTcnNrTmd3?oc=5",
+        "source": "Correio do Estado",
+        "publishedAt": "2026-10-29T15:25:00.000Z",
+        "summary": "Diógenes, filósofo grego: \"Quem precisa de pouco é livre; quem precisa de muito vive escravo\" Correio do Estado",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.07,
-        "relevance": 4
-      },
-      {
-        "title": "Dia Mundial da Filosofia será celebrado em Natal com palestra de Lúcia Helena Galvão",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNW4wYTh5VHR3djM0bFJzOGRLRGpwbXZGUFNFNWwzcVRDVV9TbTJMRW1oRFdTeEw2c2VhME5Dd1ZLNjNEQ0pMSkIxRjlGRGtmRF9fMVNCeDR1Q2RTbVlNWGcyRjh2a0RnbUFSWmQzYy0tNXJxeHRtYklpR0Q4aENpcno1d2p6U1NTdExKejJhSF9iOGo0MFJLT2tGUVlNN1EzTWh5WHI3OTNIdEZqa08wVjhCTFRvVjJCd2JIRGl3R0xrWm5Ud3gyVVhET1JjOGxnMVE?oc=5",
-        "source": "Tribuna do Norte",
-        "publishedAt": "2026-10-29T15:00:23.000Z",
-        "summary": "Dia Mundial da Filosofia será celebrado em Natal com palestra de Lúcia Helena Galvão Tribuna do Norte",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 3.02,
+        "score": 2.48,
         "relevance": 4
       }
     ],
     "cinema": [
+      {
+        "title": "Festival de Cinema Francês e representante do Brasil na corrida pelo Oscar estreiam no Cinema do Centro",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPREF5UTgwMUZ5M05mZlU0bF95NnN4eTgzcmNQRW8wWDJjNEdWa1dybndZNkJfQXlaYk5qOG9IWUpwUGJ3czJtdzVfQzA4RUFGMXByc2RiNVdwWTlRYWswSnVWaG5DOVJNTnlEVWVLaGM0WmFFanc3YS1zSzVYenowWkdrdDg4a1NyRU9CZ3YxU2U1VHJBbDRpVTVFSVhtWHF6cDExQjlNUVYxcGxfemhpd1dpY1J1N3N0RXc5bmhhelBIU0YzOFg0YnNKSkVqZW5MX3c?oc=5",
+        "source": "Fan F1",
+        "publishedAt": "2026-10-29T20:22:00.000Z",
+        "summary": "Festival de Cinema Francês e representante do Brasil na corrida pelo Oscar estreiam no Cinema do Centro Fan F1",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 6,
+        "relevance": 8
+      },
       {
         "title": "Cinco filmes inéditos para assistir no Festival de Cinema Italiano no Brasil",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTVrYzJrckRNZGNBQzkwQlU0SjEtRHFIREVNaFpXbFd3VzNmalhuMXFRdlBWX2l2Tk1PdVhaamF0MzNSVXQtYk51ckQzUldrSzZkb3B0aUpnME9pMWgydWM4bU1CTjFWNlpQZjQ1UzBjXzAyTU1mYkNqRjZCQXpuRWhLazdmQTJDWFBzVFVuT0lMMjRDcHJJdUQxUXFZcUdQZ2kxMFpyR3hUTzMxZmtfNw?oc=5",
@@ -1000,7 +1013,7 @@
         "topics": [
           "cinema"
         ],
-        "score": 7.07,
+        "score": 5.71,
         "relevance": 8
       },
       {
@@ -1013,7 +1026,7 @@
         "topics": [
           "cinema"
         ],
-        "score": 6.93,
+        "score": 5.59,
         "relevance": 7
       },
       {
@@ -1026,8 +1039,21 @@
         "topics": [
           "cinema"
         ],
-        "score": 6.86,
+        "score": 5.54,
         "relevance": 8
+      },
+      {
+        "title": "Canal Like amplia programação e lança novos programas originais com foco em cinema, séries e cultura audiovisual",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2VoM3RJdXVKY3Zpd3lGOU1TUk9Sa1lwM0RyNUxyZWt3cGhfOTBuTzNzNkpNZzd6SXZBZF9ZakZtR2lPQTZWZFgyVXJEenZPdWVLeVBicUVxR19qNkhXWTdQVFBKc2JyczNBbUF1dnI1eUprVXJ6X3lNc1Y5bHNfYlVVS3J2SlN0THZBekRpZjM?oc=5",
+        "source": "Portal TV e Streaming",
+        "publishedAt": "2026-10-30T02:52:00.000Z",
+        "summary": "Canal Like amplia programação e lança novos programas originais com foco em cinema, séries e cultura audiovisual Portal TV e Streaming",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.2,
+        "relevance": 5.4
       },
       {
         "title": "Cinema no Shopping ViaNorte terá estreia de filmes e evento musical do BTS no fim de semana",
@@ -1039,77 +1065,37 @@
         "topics": [
           "cinema"
         ],
-        "score": 6.21,
+        "score": 5.01,
         "relevance": 7
-      },
-      {
-        "title": "'Três Horas para Viver', '100 dias' e mais três filmes estreiam nos cinemas de Boa Vista",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMXoybmRkbEtPZXB6Ti1aME5reFR1WFZsMUMyOF83Zjl4R240c0JHYjUwaUpjaERSMUFnamlSYlc5amZ4SHkyeUlZa2hleVZmeW8zT2drdHg2SzAtM0tYRHh6LWF6NU9XSDh2Ym85aENfUXFLbDA4MWw1OFN4LS1TaklSdFBuNkxHQVk3d1Z6T0dVMkR6Yl9iUFRieG9fZzREbnFtcEJxYml3cnhUQk93YXUyZm9kOTh5R21LZnBwT0lUaVlTTHFPVFhMLWhKUVFRTFNMZU1JTdIB5gFBVV95cUxOWGVIU3ptRjBINnRHeWZ1Wkp4Q1lxREtsU0M2eFFnalZabF80RTA3c21TdU5lR0RveFF0YWpHQ0FGdlg2Y2paN3N2TXctR0ZGV2lkN3NtSTNfYUpuQ3FTTTlZWFN4a3lReVM1V2lBWFhLRFZNNVIzSkd2dzJEcnh6NE5Lc2JtMTlhN3drbjF6Z2k5YUxuZmdGOGdlMWVMWUc1MEJWWlVpdi1GelNybVpOTk9IM3A5Sk0xREstb2xwejBvMlo5c2dDN0pkU0tkMXhSNk1GR0hiS2RqUlRQSEZnclo2WndnUQ?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-10-29T18:20:26.000Z",
-        "summary": "'Três Horas para Viver', '100 dias' e mais três filmes estreiam nos cinemas de Boa Vista G1",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 6.02,
-        "relevance": 7
-      },
-      {
-        "title": "Pluto TV: Lançamentos de filmes, séries, esportes e canais ao vivo em novembro",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFVZQ1d3QXpuUG1yX2hLQzNtV0c2VXJWWElveWFZYkw4b0FSNWlCUXk4XzVwZTJvRGUzRFV4bzFKV0o5dTd2RExGRTdQNHRTTUlBei00VjRxcmJROWF2b3Z2YzcxWGpYVlBYbVZJZ0U1TmRROXE3bFdzZVQ5YV9HTGNkVm1XbzltY1BTeFJ5N1RrQXZVZDhzR1NUcTBobzB1?oc=5",
-        "source": "Portal TV e Streaming",
-        "publishedAt": "2026-10-29T20:35:00.000Z",
-        "summary": "Pluto TV: Lançamentos de filmes, séries, esportes e canais ao vivo em novembro Portal TV e Streaming",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 6,
-        "relevance": 6.4
       }
     ],
     "medicina": [
       {
-        "title": "Sabesp diz que fará novas análises em água contaminada com parasita em Itapeva",
-        "link": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/10/29/sabesp-diz-que-fara-novas-analises-em-agua-contaminada-com-parasita-em-itapeva.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-29T21:17:22.000Z",
-        "summary": "Aulas são suspensas em Itapeva após identificação de parasita na água A Companhia de Saneamento Básico de São Paulo (Sabesp) informou, nesta quinta-feira (29), que fará novas análises para identificar anomalias na água que abastece Itapeva ",
-        "image": "https://s2-g1.glbimg.com/M90vZGEzNMqrFtbO5jeplpjyHK0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/W/wmVUTOTpeFpII8EZuNog/sor-tn1-link-agua-itapeva-291026-frame-3295.jpeg",
-        "topics": [
-          "medicina"
-        ],
-        "score": 6.16,
-        "relevance": 6.4
-      },
-      {
-        "title": "Médica é afastada de hospital em Vila Velha após ameaçar receitar remédios mais caros para pacientes",
-        "link": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/29/medica-e-afastada-de-hospital-em-vila-velha-apos-ameacar-receitar-remedios-mais-caros-para-pacientes.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-10-29T22:09:15.000Z",
-        "summary": "Cardiologista foi afastada de hospital no Espírito Santo após ameaçar trocar remédios de pacientes Reprodução/Redes sociais Uma cardiologista foi afastada do hospital que atua em Vila Velha, na Grande Vitória, após ameaçar trocar remédios d",
-        "image": "https://s2-g1.glbimg.com/FwrAIYiqBUaDQ8manfuD-bb0koA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/S/rGdTcHQ1yDxiKIPf29tA/thumb-fotos-2026-10-29t184246.957.jpg",
-        "topics": [
-          "medicina",
-          "negocios"
-        ],
-        "score": 5.58,
-        "relevance": 5.6
-      },
-      {
         "title": "Sociedade de Medicina e Cirurgia de Campinas realiza drive-thru de doações neste sábado",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSTJtNm1NVzgyVW5MQTlMZE1vUjNVV3dBOFU3d3U1MzVLazJMaUNLemM3TUdnWkxndlRmR1l5bE1Gd19sM1BtUXU2MG5ZMkFxcV95WS1PUkFYWmhwMjlKaS13aEtNb3ZEUVQ0ZU0tR3pMR0xBcW5RMkhiRTNnamZSbWU2SlpHT0ZzMnBvcnF6QllSbWh3NVdDOWhKQzMwZ2xVdm11aXJrOXgxLXpOeDY3VEFRMVZRYWZsOHpZ?oc=5",
         "source": "Campinas.com.br",
-        "publishedAt": "2026-10-29T19:03:29.000Z",
+        "publishedAt": "2026-10-30T01:03:29.000Z",
         "summary": "Sociedade de Medicina e Cirurgia de Campinas realiza drive-thru de doações neste sábado Campinas.com.br",
         "image": null,
         "topics": [
           "medicina",
           "negocios"
         ],
-        "score": 4.42,
+        "score": 4.49,
         "relevance": 5
+      },
+      {
+        "title": "Defesa da regulamentação da medicina leva à intervenção das autoridades",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcHlDSkEteVpLSGFyUmlVNERyQi1ldklYaEg4eUtfVVhFYzVpdW02SHRVMWp2MldWZWx4dzZKaXdibHR0cnB5SU9ZcV9LbU1pQ2hWWGZvV3RhOGlEamlmSnVJWDlTTjNnbEhBd0swZWI0bENTTVdNX0puUVdNWkxUZ2JZbFZROTZVV3F0aXdTTXZmRUVFNGlTU3dDUGM5aTJEMVZSYWhRYld1NGJGcmo0c2E0U2lNYXpCUmdtaHVVVkFnT0lIY0lOUzJDcDlxY0RpdXYzblJKYVVUNzhhS2NhVEVnZw?oc=5",
+        "source": "Correio do Povo",
+        "publishedAt": "2026-10-30T03:08:30.000Z",
+        "summary": "Defesa da regulamentação da medicina leva à intervenção das autoridades Correio do Povo",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.89,
+        "relevance": 4
       },
       {
         "title": "Médico veterano da Oftalmologia na Santa Casa de Curitiba é homenageado com honraria no Conselho Regional de Medicina do Paraná",
@@ -1121,7 +1107,7 @@
         "topics": [
           "medicina"
         ],
-        "score": 4.37,
+        "score": 3.53,
         "relevance": 5
       },
       {
@@ -1134,20 +1120,33 @@
         "topics": [
           "medicina"
         ],
-        "score": 4.32,
+        "score": 3.49,
         "relevance": 5
       },
       {
-        "title": "A medicina de excelência começa muito antes do consultório",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekRxU09VVm0yYUpnZjdDYU1pOU5HakFCbXFmcmNTTW9HcEZnRkw4TGs3dVVEdlA0dEJlY1ZUZnhZcXMwdVR4ck5ZUjNpSVM2YWRwdU8tOGdDYUJSMG9fYXJzVlNkNlYwaldERWhlTkZkNkNRRkJ3bmttbHpKNEp1YndtMC1nSHVtVmJnV0ZkSlpzejNGdzlmS2VBUGIzdW1FaDhJZWZwQnp4eEYyZTFLbw?oc=5",
-        "source": "VEJA RIO",
-        "publishedAt": "2026-10-29T21:57:26.000Z",
-        "summary": "A medicina de excelência começa muito antes do consultório VEJA RIO",
+        "title": "Justiça confirma laudo que aponta plena capacidade de mãe acusada de matar gêmeas no RS e mulher pode ir a júri",
+        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/10/30/justica-laudo-capacidade-mae-acusada-de-matar-gemeas-no-rs.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-10-30T03:00:00.000Z",
+        "summary": "Laudo descarta insanidade e mãe acusada de matar filhas gêmeas poderá responder por crime O laudo psiquiátrico judicial que concluiu que a mãe acusada de matar as filhas gêmeas tinha condições mentais de responder criminalmente pela morte d",
+        "image": "https://s2-g1.glbimg.com/l_fzJ83WharSjhRNAaWDMy1q_7g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/w/FH3vnnQAyQqIg8w0icgQ/g1-42-.jpg",
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.49,
+        "relevance": 3.6
+      },
+      {
+        "title": "NOTA DO ENEM PODE GARANTIR VAGA EM MEDICINA NA UNIFACS NO PRIMEIRO SEMESTRE DE 2027",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWjN6V1VPLTlUbTgyX19RRVpVNUlwTHNhaElDV2tHeUJEQTlwcHNDSUk1Y2xvMEdOdHpLcXpYN2xjeWF6UlRjUUJfdm44bE1QQ1hpUnRzX1pNWkpKeGhBVkNaUDVESm5WUkljelpTa0xkTng2d3BFNVdaQ0ZNLXVIQ0J1cmdFclN2eTNGb0FZd1U5cXVpOFVyZ1VzS2p5QWJ1eFFXWlRkVnZ6U1NGZUtmTGhURnBmR3gzRlZzTG9FOGhVaHJabHJLdFV4anR4Rkhf?oc=5",
+        "source": "Bahia Econômica",
+        "publishedAt": "2026-10-29T23:59:57.000Z",
+        "summary": "NOTA DO ENEM PODE GARANTIR VAGA EM MEDICINA NA UNIFACS NO PRIMEIRO SEMESTRE DE 2027 Bahia Econômica",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 3.95,
+        "score": 3.45,
         "relevance": 4
       }
     ]
