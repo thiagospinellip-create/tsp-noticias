@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:27:07.225Z",
+  "generatedAt": "2026-11-01T21:33:13.317Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -30,114 +30,320 @@
   ],
   "highlights": [
     {
-      "title": "Apple TV: confira as estreias de filmes e séries em novembro de 2026 no streaming",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkd4NHhIRmZYaS1mMmhSRzhrZnU0U1JoQWRrVlVhSlZINER0eXJ5MFdTOW4xVVlIN2t3cXo5NEJEajZpMGxpVW5vQXhqQUx0TmF1OURuY2RlMURkb3RfSEIyWEx6NGFIdEpiOVhBRG4zU3VDNXpieWpjV2gxYUt5b1VTUXJsN1ZxZXBQSGVRZjVKV1BVeHBCNE54UDZVMEg2SjJYcVA3RzFEMzZSMzZxQVZDZmFuVHBnUkpxdFppUUhFRjA3RERCampDNFNtMXg4dk84OEZuR0J2TWpMdkIyb3VB0gHwAUFVX3lxTE9GRTlaR2pXV1FqSERiMFZkWTBnV2dGVXlGZ1RlbFJxdzU3MVNTeWJFV0RudTZnSFVrdVgzMFJCbnZfWXlrc3RSRm1MRDk4aHRDZmNBMU04NjdwUnVxcjNBLTlXTTNXejd4S1BOeHlCOG9HUDQ1dDBTbzVPMnJuTncwbE8wdnFiR1JXcURuZlZuT0JTbUZiVDI0V2Vtc0ZtX0FnQzk4U29jMU9Ka1JObXltNjVLdDZ1R2hXcUtLVmtQVTZEZ1NRVy1ublNfUDg5TWw5S3ZlQ2o0eF9xcWZxVmJUNlp5b2hxVjRwS3ZpOEEzag?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-11-01T09:30:00.000Z",
-      "summary": "Apple TV: confira as estreias de filmes e séries em novembro de 2026 no streaming O GLOBO",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 8.03,
-      "relevance": 9
-    },
-    {
-      "title": "Inflação, emprego e PIB: os números da economia de Trump antes das eleições de meio de mandato nos EUA",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYk5EMXhUbVRjSVpyRGVaZm1LWXU1SFpvRjlDeVdoblZjckpQWGJRUFcwV3VQVE5GMkdGVnRZeEd3T1dWMUtubjh1RDNxSW1oVWR4Z3BUVDd4WXJDbkE0QjR5SkJUTC16UTNPamdfX0wyclVSTHJwdHBrVHphUDNFdnBtVEhKdldsTUQ1d1ZYTnhIMk45N0VpWmVieW5GNG5HT2VDcTJKaEhkdlJyc1d0bDl1X2NadlRoa1dkcjF1WVBYSkEzQnhzaURReU9Fek5fcTNGQThfNXMxTXBESy1Mc1JERVBoUmhHN1lF0gH6AUFVX3lxTE5OQTJIZjI3aXVLc0h0X1d4clFEb3ZKaWZDVURtRmdvcUZYTzk1cmdOcUNGRVJ2TURjdng0RWFyRWtMQ0ppR0JFWHhhTHZYbllNTmFxanRjNmVzei11U3E0bTRwNWZ1dW5hdnprME9GWGY5UkdneU5lZEd1cWZVVGFHX2lSdzlSa1U3cWZ5UDlGU1pQSjZMSVliREFrQlh1QS1jWjZEREtXSFJkMGh0RHhuZkhwMUhNbkVHLXVieUNrWVN0MTMxMmd5Y1hSTVp4TEw5MFVkOUVKMkh2N1hjYVE0TXQ4UExLYTZjc0tYVjd1d0JDUkdiYk9hRlE?oc=5",
-      "source": "Valor Econômico",
-      "publishedAt": "2026-11-01T11:00:00.000Z",
-      "summary": "Inflação, emprego e PIB: os números da economia de Trump antes das eleições de meio de mandato nos EUA Valor Econômico",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.94,
-      "relevance": 8.4
-    },
-    {
-      "title": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes",
-      "link": "https://g1.globo.com/saude/noticia/2026/11/01/comprimido-diario-alcanca-resultado-inedito-no-cancer-que-mais-mata-no-brasil-e-muda-futuro-de-pacientes.ghtml",
+      "title": "Acordo Mercosul-UE completa 6 meses com alta de 14,8% nas exportações do agro",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3F6SmhzVXVieUk4T0RYNmNWR0hLZTBIejNxVS1wNzBxbjAzbWpCa0NhSDV4Z3BrX0lQN3Ryc25JMzhkTUliQ0R5OEJrOFdQU1hwb1FsUUpSUDc5M2lHQXVmSGRKWVBZel9zZVhKaXphTTU0a3NwQWhSQnk0ckxhdW9CYUs3dnBxNUdFRFdnVTNhQTRPYVdUMDI1dUFDZGY3SzVBTtIBswFBVV95cUxOVUFSSDJGbGxyaEU4dzdQUFljZDlNQWxfRll4cm85aGFVMVNTZ2FfM0NfUFJmc1R4M1NIM1Z2eDdQQ01icUFGVm9VQ0hKM2pDbTVaSzNaQnlPd012QWxhVWJqNFY0dWNOZl9kSG5MS0JRX2JhSEh5MDByLUk0a0VjUFBWSWhscDNnLWZ4QkRlNkkzeUZIR1BoekpxcDN2SEoyeTRFdngyUndoU3lhZThzVnFhWQ?oc=5",
       "source": "G1",
-      "publishedAt": "2026-11-01T08:00:00.000Z",
-      "summary": "Antes e depois de três meses do tratamento com medicamento para câncer de pulmão Divulgação Durante décadas, o diagnóstico de câncer de pulmão avançado equivalia, na prática, a uma sentença de meses. Hoje, um comprimido tomado uma vez ao di",
-      "image": "https://s2-g1.glbimg.com/-niOJjdnT3ATzw3takQraZObTQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/b/BwemDcTLqhXTNMGGwrVg/design-sem-nome-4-.png",
-      "topics": [
-        "medicina",
-        "negocios"
-      ],
-      "score": 7.41,
-      "relevance": 8.8
-    },
-    {
-      "title": "Mercado revisa projeções para 2027 com queda no crescimento do PIB e aumento na inflação após reeleição de Lula",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORkNZRFZjWjNWWi0zd3Z6N291QU5nYVlIZVVoUF9jUk52b2FONTl2MXV0OGhMak1NWVc1dE1CdF9tZkRpOHhwTXJ1QmdidmRxdm5KMlNKZkJhY2xZcVZCR3l1akVueXprS216UUF2U2lDRldUZ051ZFBkUUFySDY4QjVSbDd0UzlUb1EwcA?oc=5",
-      "source": "Rádio Itatiaia",
-      "publishedAt": "2026-11-01T11:21:48.000Z",
-      "summary": "Mercado revisa projeções para 2027 com queda no crescimento do PIB e aumento na inflação após reeleição de Lula Rádio Itatiaia",
-      "image": null,
+      "publishedAt": "2026-11-01T18:14:59.000Z",
+      "summary": "Acordo Mercosul-UE completa 6 meses com alta de 14,8% nas exportações do agro G1",
+      "image": "https://s2-g1.glbimg.com/qTSMFWSRWB7it_uYgT4TAZZU4SY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/f/F/53ffZoRAauZt0D3F1leg/016-imagem-de-capa.jpeg",
       "topics": [
         "negocios"
       ],
-      "score": 7.1,
-      "relevance": 7.4
+      "score": 8.63,
+      "relevance": 9.8
     },
     {
-      "title": "Sebrae Rio e GrowHub promovem encontro para conectar startups e empresas de tecnologia da Região dos Lagos",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQakpBOUx2aGw3TzBud3NaUldXMTUza3lhNm1FS3U2cWh0RjI5RWhhSDNFSmU5TnVCX3ZwYl9RMlRIbmVqYnZzVlBvc08tMFIzYTd0M1loYkM2c1Q5aG1yUTR4XzRSa1ZIMnppYU1BdnZ0bUhRUV9XWGlRenJzZlZJM2E2SlJ3SzNwbGVYQkdfZG9CRWJQWDFKVDVSLXh0aFp6VXZJR2o5UXNpb3p3cUN4Zk5sNlpZOGhQOWlpajE0VFd6bkRwdjVWdmthT0diZw?oc=5",
-      "source": "BOMBA BOMBA",
-      "publishedAt": "2026-11-01T12:06:00.000Z",
-      "summary": "Sebrae Rio e GrowHub promovem encontro para conectar startups e empresas de tecnologia da Região dos Lagos BOMBA BOMBA",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.91,
-      "relevance": 7
-    },
-    {
-      "title": "ECONOMIA 💰 A combinação de juros elevados e incertezas sobre as contas públicas pode pressionar ainda mais as empresas brasileiras no próximo governo Lula. ⁣ ⁣ Segundo estudo, 26% das empresas de capital aberto não conseguem cobrir suas des",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tb3JYTW43T093VW1fbmJXbXNxbl9hc000clVNejNjODlwR2lWdVp0ZXFpVmMxeHlCSUFpZ3MxY2ZGQWk0Z0d3MnBfM01mSVE1bEE?oc=5",
-      "source": "Instagram",
-      "publishedAt": "2026-11-01T11:42:50.000Z",
-      "summary": "ECONOMIA 💰 A combinação de juros elevados e incertezas sobre as contas públicas pode pressionar ainda mais as empresas brasileiras no próximo governo Lula. ⁣ ⁣ Segundo estudo, 26% das empresas de capital aberto não conseguem cobrir suas de",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.8,
-      "relevance": 7
-    },
-    {
-      "title": "Empresário Roberto Santiago elogia Bolsa Família e diz que programa fortalece economia do Nordeste",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWEzeVVnc2hyby1hV09mMW02Ull2RWdjVmFfYUFGNmsxUUkyemVOM2sxeGQ0cFRqbk1PZnRSUFdBdzNfXzU5OWx4amxrZWVxSUp5cUpDZ2Z1UjRreVZZakJLNmlyWnN5TzFEWlhaMl9hdlBCY21lSWtQdWZ4Ul9oX3h4TVc3S1ZUNmpHZF91dm5OMUxXSF96QzQ3a1Jub2xUTzFJV1Q0Vmt5RXF3aVFhVW5yWVZZVC1NT19lck1KQUxCWk5jcVE?oc=5",
-      "source": "Poder Paraíba",
-      "publishedAt": "2026-11-01T11:29:41.000Z",
-      "summary": "Empresário Roberto Santiago elogia Bolsa Família e diz que programa fortalece economia do Nordeste Poder Paraíba",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.75,
-      "relevance": 7
-    },
-    {
-      "title": "Ataques deixam milhares sem luz na Ucrânia em meio a novas negociações de paz",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/ataques-ucrania-russia.ghtml",
+      "title": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjNzaVl0aF9xUVRHdzMyN09Pc3duakNDSldRTUFhdFVUUlZuajB1c3BZYzhZWFU1Vk4tWTJSc3pBUE56a3NpZVNRcjNiVnVEckJCa0YwVWEwSDFEYmMzdXNSdm5UNmExaHJzbkoxQmVMX0REZlZKaEd3VjBqcTJxb3NhaHlrbkpEYWJpOHpPdGR6T0pEZlNaQ25iOVBvOGlab2tzTVdQSWIxc1l0WHR5SWZNeE9SX0RFdVFiTWxLcELSAc8BQVVfeXFMT2tvQ1p0cWRQU1V6R0tpSmljajBldEY0NVlMS0lEOXpudUpsYXlzYkxOc253b1I5VDg5SFhhaGZoODRrWFpSVWMxRHpubHZUNWtycVdPSm9weHhQOGhzTFMzb3VYdUt4aWM0NE5CaDNCRTAyWVdfMWdBd25rdnRFQ2c0dzloNUE3S0JubzBaQk92VTZ6VmhUZW9xSTBuMUNmbDZMMzBkbUh6SXlnTk8xcGVESWNfeXozVVV3YXhQNFpSZF8wUVpLMUlkUGhTYVNF?oc=5",
       "source": "G1",
-      "publishedAt": "2026-11-01T10:12:46.000Z",
-      "summary": "O presidente da Ucrânia, Volodymyr Zelensky, durante entrevista coletiva em cúpula de líderes da União Europeia, em Bruxelas, na Bélgica, em 16 de outubro de 2026 Yves Herman/Reuters Centenas de milhares de casas ficaram sem energia elétric",
-      "image": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
+      "publishedAt": "2026-11-01T15:08:41.000Z",
+      "summary": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden G1",
+      "image": "https://s2-g1.glbimg.com/z1RtPuTb-1zUhP96XY4hFS1cLR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/l/ABGmomR5anjrrxUfqoug/fotojet-1-.png",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 7.5,
+      "relevance": 9.6
+    },
+    {
+      "title": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/como-a-falta-de-perspectiva-de-futuro-alimenta-protestos-de-jovens-na-europa.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-01T19:08:06.000Z",
+      "summary": "Manifestantes buscam proteção atrás de uma barricada enquanto a tropa de choque francesa utiliza canhões de água em meio a confrontos durante uma manifestação na Place de la République, em Paris Reuters De Milão a Marselha, passando por Mad",
+      "image": "https://s2-g1.glbimg.com/sHUOXgowH9I98lzZSdSW_GLSFAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/6jCXPmQWWrgAVN8xA0lg/montagem-horizontal-1280x720px-26-.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios",
+        "medicina"
+      ],
+      "score": 7.11,
+      "relevance": 7.8
+    },
+    {
+      "title": "Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/midterms-2026-trump-nao-esta-nas-urnas-mas-por-que-essa-eleicao-e-crucial-para-ele.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-01T16:41:31.000Z",
+      "summary": "Por que Trump está preocupado com as midterms? O presidente dos Estados Unidos, Donald Trump, está se esforçando para que o Partido Republicano saia vitorioso nas eleições de meio de mandato, marcadas para a próxima terça-feira (3). O resul",
+      "image": "https://s2-g1.glbimg.com/kdoxkPU3NOd6RfZxJHaqACl7gzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/P9J2u0S2qlMQ9qkV62oA/2026-10-13t154604z-775478900-rc2f2oaif0hr-rtrmadp-3-usa-trump.jpg",
       "topics": [
         "geopolitica",
         "negocios"
       ],
-      "score": 6.61,
-      "relevance": 7.2
+      "score": 6.8,
+      "relevance": 8.2
+    },
+    {
+      "title": "A crise de identidade que ameaça ambição dos democratas em eleição crucial para Trump",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/a-crise-de-identidade-que-ameaca-ambicao-dos-democratas-em-eleicao-crucial-para-trump.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-01T13:02:31.000Z",
+      "summary": "A visão convencional em Washington é que os democratas se encontram em posição favorável para assumir o controle da Câmara dos Representantes e, possivelmente, até do Senado Getty Images/via BBC James Stevens se autodenomina um socialista d",
+      "image": "https://s2-g1.glbimg.com/t0Tu4Ca4TAJ3xC6Ae3OIR0rt3J8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/t/768BfjTVSPbmgbYT9zlA/eua.png",
+      "topics": [
+        "geopolitica",
+        "negocios",
+        "medicina"
+      ],
+      "score": 6.77,
+      "relevance": 9.4
+    },
+    {
+      "title": "'Nova guerra pode ser mais longa', alerta Irã após novas ameaças de Trump",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/nova-guerra-pode-ser-mais-longa-alerta-ira-apos-novas-ameacas-de-trump.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-01T14:18:33.000Z",
+      "summary": "Presidente dos EUA, Donald Trump, e presidente do Irã, Masoud Pezeshkian Evelyn Hockstein/Reuters e Angelina Katsanis/AP Photo O Irã respondeu neste domingo (1º) às ameaças feitas pelo presidente dos Estados Unidos, Donald Trump. Em declara",
+      "image": "https://s2-g1.glbimg.com/cbopWzGrTeYVTJJQ1yClgDXTwlc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/D/QBTSkMRqq2A7jIC50daw/trump.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 6.66,
+      "relevance": 8.8
+    },
+    {
+      "title": "Exportações do agro brasileiro à União Europeia crescem 14,8% em receita após acordo com Mercosul",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObmhTRmpoYmN0MkNMTE9ianlITGlGbDdtYjR4MEtTR0NiUjlFdnBETTFsWC1kTUZERWNVUFlLWjVYTnhSSFM2OWpicl9WYWZXM2tIS2E5LXJqQ29YUXMyMUx2VHpucXAxS1kxcGlydVRZUEU3RzZOX09tUUt4aXo4b0hlbndlcF9xM1BMdzZKejdHbzBnMUFjTll6dWJ0S255S0U3RUtKVTlDRDBsLWNGa0hIZ1N5b0Y1MndGakRXeEQyOVJBckNtLTBVMERoNlhpRkhscWV2cC0tY21ROEHSAeMBQVVfeXFMUEM1elF0RVlPNFRuaklYSFhDUG81M1kyQTdiQXJSTFVEbGNGMVNDVlphY1JsYXg1NTduZTBBMFQ4UFptTFB5Z3BLTGxwNFJXeG5hT2ROY3Z2S1ZPd2l2VEdubWJhSG5XTC1Ea2FSVkVYS0dENHhGTXF2VTUyb1VoaFFXeUdCcGNzemVzZnBCeXJkc2NnSW9KWTY4UzItS1VkYjJReExVSDl3b1F2cTBfYWIxRElEVXBYREFIWV9vbEJwOGxNU2M0SHN0c0huN1hMVTJBbFV6Tm91RXYtOUpxLTY5VHc?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-11-01T19:22:00.000Z",
+      "summary": "Exportações do agro brasileiro à União Europeia crescem 14,8% em receita após acordo com Mercosul Estadão",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.43,
+      "relevance": 7
+    },
+    {
+      "title": "Brasil, oitava maior economia do mundo com o peso do agronegócio",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnR4dkptaW1hb3VkYWIzYlBtaG9qUUNrX3gwakZyQ29iTnI0YUo1MENBRXJuU0ZDUHVnOW5EblZySm1Uay1GMmdrNGtybnlCZkRhaEVSZ3J1cWRNWnhOYU05dS14cHhLNTczVXFBdDFjTnlReThuZC1FLVp1dnJjT3hYY2EwQnZGV2pqSkFjY3ZxVjQyeU4xZWpqXzcxejI4bXY2NA?oc=5",
+      "source": "Paraná Portal",
+      "publishedAt": "2026-11-01T18:57:09.000Z",
+      "summary": "Brasil, oitava maior economia do mundo com o peso do agronegócio Paraná Portal",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.33,
+      "relevance": 7
     }
   ],
   "items": [
     {
+      "title": "Acordo Mercosul-UE completa 6 meses com alta de 14,8% nas exportações do agro",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3F6SmhzVXVieUk4T0RYNmNWR0hLZTBIejNxVS1wNzBxbjAzbWpCa0NhSDV4Z3BrX0lQN3Ryc25JMzhkTUliQ0R5OEJrOFdQU1hwb1FsUUpSUDc5M2lHQXVmSGRKWVBZel9zZVhKaXphTTU0a3NwQWhSQnk0ckxhdW9CYUs3dnBxNUdFRFdnVTNhQTRPYVdUMDI1dUFDZGY3SzVBTtIBswFBVV95cUxOVUFSSDJGbGxyaEU4dzdQUFljZDlNQWxfRll4cm85aGFVMVNTZ2FfM0NfUFJmc1R4M1NIM1Z2eDdQQ01icUFGVm9VQ0hKM2pDbTVaSzNaQnlPd012QWxhVWJqNFY0dWNOZl9kSG5MS0JRX2JhSEh5MDByLUk0a0VjUFBWSWhscDNnLWZ4QkRlNkkzeUZIR1BoekpxcDN2SEoyeTRFdngyUndoU3lhZThzVnFhWQ?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-01T18:14:59.000Z",
+      "summary": "Acordo Mercosul-UE completa 6 meses com alta de 14,8% nas exportações do agro G1",
+      "image": "https://s2-g1.glbimg.com/qTSMFWSRWB7it_uYgT4TAZZU4SY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/f/F/53ffZoRAauZt0D3F1leg/016-imagem-de-capa.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.63,
+      "relevance": 9.8
+    },
+    {
+      "title": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjNzaVl0aF9xUVRHdzMyN09Pc3duakNDSldRTUFhdFVUUlZuajB1c3BZYzhZWFU1Vk4tWTJSc3pBUE56a3NpZVNRcjNiVnVEckJCa0YwVWEwSDFEYmMzdXNSdm5UNmExaHJzbkoxQmVMX0REZlZKaEd3VjBqcTJxb3NhaHlrbkpEYWJpOHpPdGR6T0pEZlNaQ25iOVBvOGlab2tzTVdQSWIxc1l0WHR5SWZNeE9SX0RFdVFiTWxLcELSAc8BQVVfeXFMT2tvQ1p0cWRQU1V6R0tpSmljajBldEY0NVlMS0lEOXpudUpsYXlzYkxOc253b1I5VDg5SFhhaGZoODRrWFpSVWMxRHpubHZUNWtycVdPSm9weHhQOGhzTFMzb3VYdUt4aWM0NE5CaDNCRTAyWVdfMWdBd25rdnRFQ2c0dzloNUE3S0JubzBaQk92VTZ6VmhUZW9xSTBuMUNmbDZMMzBkbUh6SXlnTk8xcGVESWNfeXozVVV3YXhQNFpSZF8wUVpLMUlkUGhTYVNF?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-01T15:08:41.000Z",
+      "summary": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden G1",
+      "image": "https://s2-g1.glbimg.com/z1RtPuTb-1zUhP96XY4hFS1cLR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/l/ABGmomR5anjrrxUfqoug/fotojet-1-.png",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 7.5,
+      "relevance": 9.6
+    },
+    {
+      "title": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/como-a-falta-de-perspectiva-de-futuro-alimenta-protestos-de-jovens-na-europa.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-01T19:08:06.000Z",
+      "summary": "Manifestantes buscam proteção atrás de uma barricada enquanto a tropa de choque francesa utiliza canhões de água em meio a confrontos durante uma manifestação na Place de la République, em Paris Reuters De Milão a Marselha, passando por Mad",
+      "image": "https://s2-g1.glbimg.com/sHUOXgowH9I98lzZSdSW_GLSFAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/6jCXPmQWWrgAVN8xA0lg/montagem-horizontal-1280x720px-26-.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios",
+        "medicina"
+      ],
+      "score": 7.11,
+      "relevance": 7.8
+    },
+    {
+      "title": "Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/midterms-2026-trump-nao-esta-nas-urnas-mas-por-que-essa-eleicao-e-crucial-para-ele.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-01T16:41:31.000Z",
+      "summary": "Por que Trump está preocupado com as midterms? O presidente dos Estados Unidos, Donald Trump, está se esforçando para que o Partido Republicano saia vitorioso nas eleições de meio de mandato, marcadas para a próxima terça-feira (3). O resul",
+      "image": "https://s2-g1.glbimg.com/kdoxkPU3NOd6RfZxJHaqACl7gzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/P9J2u0S2qlMQ9qkV62oA/2026-10-13t154604z-775478900-rc2f2oaif0hr-rtrmadp-3-usa-trump.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 6.8,
+      "relevance": 8.2
+    },
+    {
+      "title": "A crise de identidade que ameaça ambição dos democratas em eleição crucial para Trump",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/a-crise-de-identidade-que-ameaca-ambicao-dos-democratas-em-eleicao-crucial-para-trump.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-01T13:02:31.000Z",
+      "summary": "A visão convencional em Washington é que os democratas se encontram em posição favorável para assumir o controle da Câmara dos Representantes e, possivelmente, até do Senado Getty Images/via BBC James Stevens se autodenomina um socialista d",
+      "image": "https://s2-g1.glbimg.com/t0Tu4Ca4TAJ3xC6Ae3OIR0rt3J8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/t/768BfjTVSPbmgbYT9zlA/eua.png",
+      "topics": [
+        "geopolitica",
+        "negocios",
+        "medicina"
+      ],
+      "score": 6.77,
+      "relevance": 9.4
+    },
+    {
+      "title": "'Nova guerra pode ser mais longa', alerta Irã após novas ameaças de Trump",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/nova-guerra-pode-ser-mais-longa-alerta-ira-apos-novas-ameacas-de-trump.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-01T14:18:33.000Z",
+      "summary": "Presidente dos EUA, Donald Trump, e presidente do Irã, Masoud Pezeshkian Evelyn Hockstein/Reuters e Angelina Katsanis/AP Photo O Irã respondeu neste domingo (1º) às ameaças feitas pelo presidente dos Estados Unidos, Donald Trump. Em declara",
+      "image": "https://s2-g1.glbimg.com/cbopWzGrTeYVTJJQ1yClgDXTwlc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/D/QBTSkMRqq2A7jIC50daw/trump.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 6.66,
+      "relevance": 8.8
+    },
+    {
+      "title": "Exportações do agro brasileiro à União Europeia crescem 14,8% em receita após acordo com Mercosul",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObmhTRmpoYmN0MkNMTE9ianlITGlGbDdtYjR4MEtTR0NiUjlFdnBETTFsWC1kTUZERWNVUFlLWjVYTnhSSFM2OWpicl9WYWZXM2tIS2E5LXJqQ29YUXMyMUx2VHpucXAxS1kxcGlydVRZUEU3RzZOX09tUUt4aXo4b0hlbndlcF9xM1BMdzZKejdHbzBnMUFjTll6dWJ0S255S0U3RUtKVTlDRDBsLWNGa0hIZ1N5b0Y1MndGakRXeEQyOVJBckNtLTBVMERoNlhpRkhscWV2cC0tY21ROEHSAeMBQVVfeXFMUEM1elF0RVlPNFRuaklYSFhDUG81M1kyQTdiQXJSTFVEbGNGMVNDVlphY1JsYXg1NTduZTBBMFQ4UFptTFB5Z3BLTGxwNFJXeG5hT2ROY3Z2S1ZPd2l2VEdubWJhSG5XTC1Ea2FSVkVYS0dENHhGTXF2VTUyb1VoaFFXeUdCcGNzemVzZnBCeXJkc2NnSW9KWTY4UzItS1VkYjJReExVSDl3b1F2cTBfYWIxRElEVXBYREFIWV9vbEJwOGxNU2M0SHN0c0huN1hMVTJBbFV6Tm91RXYtOUpxLTY5VHc?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-11-01T19:22:00.000Z",
+      "summary": "Exportações do agro brasileiro à União Europeia crescem 14,8% em receita após acordo com Mercosul Estadão",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.43,
+      "relevance": 7
+    },
+    {
+      "title": "Brasil, oitava maior economia do mundo com o peso do agronegócio",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnR4dkptaW1hb3VkYWIzYlBtaG9qUUNrX3gwakZyQ29iTnI0YUo1MENBRXJuU0ZDUHVnOW5EblZySm1Uay1GMmdrNGtybnlCZkRhaEVSZ3J1cWRNWnhOYU05dS14cHhLNTczVXFBdDFjTnlReThuZC1FLVp1dnJjT3hYY2EwQnZGV2pqSkFjY3ZxVjQyeU4xZWpqXzcxejI4bXY2NA?oc=5",
+      "source": "Paraná Portal",
+      "publishedAt": "2026-11-01T18:57:09.000Z",
+      "summary": "Brasil, oitava maior economia do mundo com o peso do agronegócio Paraná Portal",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.33,
+      "relevance": 7
+    },
+    {
+      "title": "FBI acusa Coreia do Norte do maior roubo da história em criptomoedas",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQanpNSktCMnNnMEdfN01nU1VmVjBuNVFoeWNBWDJnN3U2Y2pvY050cTNkb1ZpYml0Q284UThicU9CdGcwUXZ2YWNlZFRLS2M1OENUSDdJRGFPN3QtdDRfZk02bjRMMjhhUU1LQXJoTlpkNDcxaUhfVldwdGdTRzZlV2Nxb1hBa0d0Y0dVd18yOTA0M3RKRGdRMnlrbEo5ZEx2ZlZkVTFvdlpHSFNfSDJja1p6dVlMdEN6YVhfck44RXBoNFIxZEwtVTF6MXhCU09hT0hiMUJRbzJzZw?oc=5",
+      "source": "UOL Notícias",
+      "publishedAt": "2026-11-01T14:42:00.000Z",
+      "summary": "FBI acusa Coreia do Norte do maior roubo da história em criptomoedas UOL Notícias",
+      "image": "https://s2-g1.glbimg.com/bdmnrkzkH-Ez5XHUVIqO7iLyH2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/AcfbByRrGDz98GphwNlA/kanchanara-wlvog4wcqru-unsplash.jpg",
+      "topics": [
+        "historia",
+        "negocios"
+      ],
+      "score": 6.3,
+      "relevance": 8.2
+    },
+    {
+      "title": "Moradores da Ucrânia recebem alertas de risco químico e nuclear; autoridades falam em ação hacker",
+      "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/01/moradores-da-ucrania-recebem-alerta-de-risco-quimico-e-nuclear-autoridades-falam-em-acao-hacker.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-01T21:16:27.000Z",
+      "summary": "Moradores de Kiev, capital da Ucrânia, receberam alertas de risco químico e nuclear nos celulares neste domingo (1º). A Administração Militar de Kiev afirmou que as notificações foram emitidas após uma provável invasão hacker ao sistema. De",
+      "image": null,
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 6.13,
+      "relevance": 6.2
+    },
+    {
+      "title": "ECONOMIA 💰 A combinação de juros elevados e incertezas sobre as contas públicas pode pressionar ainda mais as empresas brasileiras no próximo governo Lula. ⁣ ⁣ Segundo estudo, 26% das empresas de capital aberto não conseguem cobrir suas des",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tb3JYTW43T093VW1fbmJXbXNxbl9hc000clVNejNjODlwR2lWdVp0ZXFpVmMxeHlCSUFpZ3MxY2ZGQWk0Z0d3MnBfM01mSVE1bEE?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-11-01T17:47:26.000Z",
+      "summary": "ECONOMIA 💰 A combinação de juros elevados e incertezas sobre as contas públicas pode pressionar ainda mais as empresas brasileiras no próximo governo Lula. ⁣ ⁣ Segundo estudo, 26% das empresas de capital aberto não conseguem cobrir suas de",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.06,
+      "relevance": 7
+    },
+    {
+      "title": "5 filmes com Nicolas Cage que valem a pena assistir no streaming",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWtPSHU0REhvdm8zdHFSMlpwX2twZUt0NHFJWEFOaGxONl9WbjRReDUwSHZEQ3VzUFdISEh4U0xfeVJENjBkREQ1T285YVlzRUpJTGNUVnhDMGxOUmFzNkVaSUtaNlRfM3Ntd2VWVlJjbWZOdmFpYUE0V2ZnNjBNRHhDMV8?oc=5",
+      "source": "Séries em Cena",
+      "publishedAt": "2026-11-01T19:51:00.000Z",
+      "summary": "5 filmes com Nicolas Cage que valem a pena assistir no streaming Séries em Cena",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.99,
+      "relevance": 6.4
+    },
+    {
+      "title": "Festival de Cinema Francês chega ao ShoppingSantaÚrsula com 19 filmes",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjVDWk9RWXYzVVZrWC1BSU9HckNwMWpmOVZYLS1DZVRnbnk2OTdnR3lpSlNnZFZwOGV2bGxXcktIWmhmY1c5cEdXMnZlRnN4WmE1WWRCRUFBMndFWlRzMUNZTWpDWTlHQmplOFdhQkRLR3FIVEhrN0ZLTG5GTU5ZNFpVaklNQnhDTGlyb3ExMkwyeW5PaVdLZnktUWFiV3FvMVRWNHY0OTFRRkxTY2tfcjhqbTFoOW45cUpqd2NSQ1Ywdw?oc=5",
+      "source": "Jornal Tudo Aqui",
+      "publishedAt": "2026-11-01T13:58:00.000Z",
+      "summary": "Festival de Cinema Francês chega ao ShoppingSantaÚrsula com 19 filmes Jornal Tudo Aqui",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.97,
+      "relevance": 8
+    },
+    {
+      "title": "SALVADOR CELEBRA OS 525 ANOS DA BAÍA DE TODOS-OS-SANTOS COM AVANÇOS NA ECONOMIA DO MAR",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONmItYWJKSGE2RjNBcHNya1pjM3NKd3p1OXFKVGJ2RUxXc3lPVFhmRTlEazBPcXItbTdESDdNdDFpYmJ5a2NyNWt1ckoxd0xrOXI0V1M1QWpkM1JDWTBHUTZORDZ5NFo3OFdxaVBWOTBCTFJKY3JHOHZraVJocENsMVNJUFNCMWFqelA3azBfWVlGWFJJM0s1VEwyOFNRZnpUTk1RNEszblQ4QkdVLWpqYzFoalVIMklnMnpQUWlMbWx5MHNhdFNZZnhlSzhCVEd2ay1yVUNR?oc=5",
+      "source": "Bahia Econômica",
+      "publishedAt": "2026-11-01T21:20:40.000Z",
+      "summary": "SALVADOR CELEBRA OS 525 ANOS DA BAÍA DE TODOS-OS-SANTOS COM AVANÇOS NA ECONOMIA DO MAR Bahia Econômica",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.95,
+      "relevance": 6
+    },
+    {
+      "title": "Quem vai comandar a economia de Lula em 2027? O que o mercado espera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLURFejlrdkNoMUhZUHZrQ0FoTjl4UF9NUkZBOXI2NFE0TU1Cb3RzZWc3SUFwM0Mzc1Z1eGxfWFg1aEZxNEhqd253UHJPeUpPSjBKYzN3dnRWMFN3T29yNDRoWTB0UjRWY0RTQzItOEVaLVJsVVZqYnJTSmkxd0ZPcElua0ZmY3VOOGN0UTcxQjZsbjlRdVRBeVAxSGlpYndxaEdnS0NLREN5QdIBrwFBVV95cUxQQW94UUdHam11X2UyX3FyazJtNV9PVldHQnBJMW9QUHB4dGJvVS1Sd2lWWm92aUx0QThvMHpFU05WRUpPaWdiOURZcXVNemd3S2daTGFtcUhJUUdPMjBITTJBeEZ4N25TYWpzUVM4YzE2ZmNycG1Jei1nR2NLM1ZnRm9aRWxWcmdUdk9XOWNOZUVROEYyd3hQeVhtN1RmUXNkN0ZWLVdtS1lyTmpfZm00?oc=5",
+      "source": "InfoMoney",
+      "publishedAt": "2026-11-01T20:21:22.000Z",
+      "summary": "Quem vai comandar a economia de Lula em 2027? O que o mercado espera InfoMoney",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.73,
+      "relevance": 6
+    },
+    {
       "title": "Apple TV: confira as estreias de filmes e séries em novembro de 2026 no streaming",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkd4NHhIRmZYaS1mMmhSRzhrZnU0U1JoQWRrVlVhSlZINER0eXJ5MFdTOW4xVVlIN2t3cXo5NEJEajZpMGxpVW5vQXhqQUx0TmF1OURuY2RlMURkb3RfSEIyWEx6NGFIdEpiOVhBRG4zU3VDNXpieWpjV2gxYUt5b1VTUXJsN1ZxZXBQSGVRZjVKV1BVeHBCNE54UDZVMEg2SjJYcVA3RzFEMzZSMzZxQVZDZmFuVHBnUkpxdFppUUhFRjA3RERCampDNFNtMXg4dk84OEZuR0J2TWpMdkIyb3VB0gHwAUFVX3lxTE9GRTlaR2pXV1FqSERiMFZkWTBnV2dGVXlGZ1RlbFJxdzU3MVNTeWJFV0RudTZnSFVrdVgzMFJCbnZfWXlrc3RSRm1MRDk4aHRDZmNBMU04NjdwUnVxcjNBLTlXTTNXejd4S1BOeHlCOG9HUDQ1dDBTbzVPMnJuTncwbE8wdnFiR1JXcURuZlZuT0JTbUZiVDI0V2Vtc0ZtX0FnQzk4U29jMU9Ka1JObXltNjVLdDZ1R2hXcUtLVmtQVTZEZ1NRVy1ublNfUDg5TWw5S3ZlQ2o0eF9xcWZxVmJUNlp5b2hxVjRwS3ZpOEEzag?oc=5",
       "source": "O GLOBO",
@@ -147,8 +353,21 @@
       "topics": [
         "cinema"
       ],
-      "score": 8.03,
+      "score": 5.66,
       "relevance": 9
+    },
+    {
+      "title": "Mônica Bergamo: Festival de Cinema Brasileiro na Rússia terá comédia com Fernanda Montenegro",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMHBoel9HaUwxdXh2dTdnNjVNaERaQXhManN6R3V1aENrUU11cXR5d00yaWlOZ1V6Tm54S3JGSnhWNTdGNnBraHVuVTVGdV9WeXl1Z0FQS1JpcjhQWkxPRG1hVjlPZHFZWDNZbGN6Sm9RZlJnMTFXa0V3ZkFWS1ZIbWc2OFh0czRSZGRtTW1jUjUxaEdyQWVhd1VYN2VLdFlZM3BJVi1yZVdudHVMUEJRNTNVRWNoSVVPRG0xYWpROHZmbzVMM0NqcHNHdGxObXg4M2sySkRvZGNLQQ?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-11-01T20:00:00.000Z",
+      "summary": "Mônica Bergamo: Festival de Cinema Brasileiro na Rússia terá comédia com Fernanda Montenegro Folha de S.Paulo",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.65,
+      "relevance": 6
     },
     {
       "title": "Inflação, emprego e PIB: os números da economia de Trump antes das eleições de meio de mandato nos EUA",
@@ -160,22 +379,113 @@
       "topics": [
         "negocios"
       ],
-      "score": 7.94,
+      "score": 5.59,
       "relevance": 8.4
     },
     {
-      "title": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes",
-      "link": "https://g1.globo.com/saude/noticia/2026/11/01/comprimido-diario-alcanca-resultado-inedito-no-cancer-que-mais-mata-no-brasil-e-muda-futuro-de-pacientes.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-01T08:00:00.000Z",
-      "summary": "Antes e depois de três meses do tratamento com medicamento para câncer de pulmão Divulgação Durante décadas, o diagnóstico de câncer de pulmão avançado equivalia, na prática, a uma sentença de meses. Hoje, um comprimido tomado uma vez ao di",
-      "image": "https://s2-g1.glbimg.com/-niOJjdnT3ATzw3takQraZObTQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/b/BwemDcTLqhXTNMGGwrVg/design-sem-nome-4-.png",
+      "title": "Inteligência artificial e mercado de trabalho: quem está preparando as pessoas para essa transformação?",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVEdHd0VfZUM1UkZiOVhWbno4elRHcHZ4TEdzMk5QWWFVSV9TTy04RFJyajlnM3NEUHV2TWF3a1NkOF9udUFFbUM2SkNzVERUYThtdWl0dzdSMXZsNHdlYmtjMklUY0ZES0VGbFFXMXRNN2Jhd05YclRoQzBSYi10bFh5cjlUcTZISTNCU0hld3RuREdoSXBGMDRmS183TmhFTHJoekl0eV9UTDc2X3huMGFfUUROdFFWMnRlZzBhUENTc1BxMl95QTU5T3o?oc=5",
+      "source": "Tribuna Popular",
+      "publishedAt": "2026-11-01T15:32:53.000Z",
+      "summary": "Inteligência artificial e mercado de trabalho: quem está preparando as pessoas para essa transformação? Tribuna Popular",
+      "image": null,
       "topics": [
-        "medicina",
         "negocios"
       ],
-      "score": 7.41,
-      "relevance": 8.8
+      "score": 5.55,
+      "relevance": 7
+    },
+    {
+      "title": "CineSesc terá sessões gratuitas do Festival de Cinema Italiano em três cidades do Tocantins",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOE03ZFhpVUVxT25HOVNabmczY1c1aWdlUGptbWRxUkpGTUNCdWoyQnE4TFE1SXdQRzdLTmJ2NG9MZTJaTWVfdlFKN29wdGZwX1RDbWtaNF9HYlRVX2NYeDFwQXFpNFdaUURxdndnbkdpMUlhRW9pNlRseHdQMGJXbDFGRkR6SEhtX2ZJV2wtRmpBS2Zqbm5UdmtNakdIcDRWUzdDQ3I3Y1NKd0dGZnpiNGs3U3BXOEczUWJjVWNJeDhpdTJES3N1djBjUXFtZ21Xb2Z4OXJkdExWRHZ6Qnc?oc=5",
+      "source": "Jornal Opção | Tocantins",
+      "publishedAt": "2026-11-01T19:21:00.000Z",
+      "summary": "CineSesc terá sessões gratuitas do Festival de Cinema Italiano em três cidades do Tocantins Jornal Opção | Tocantins",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.51,
+      "relevance": 6
+    },
+    {
+      "title": "O que são as eleições de meio de mandato dos EUA e por que elas podem selar futuro de Trump?",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/o-que-sao-as-eleicoes-de-meio-de-mandato-dos-eua-e-por-que-elas-podem-selar-futuro-de-trump.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-01T14:06:32.000Z",
+      "summary": "Americanos vão às urnas para renovar o Congresso nas eleições de meio de mandato Faltam poucos dias para as eleições de meio de mandato nos Estados Unidos, as midterms, quando os eleitores participarão de uma votação que poderá ter um grand",
+      "image": "https://s2-g1.glbimg.com/KrlgA_LGNbMU2xKE3GtDEx5Oe10=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/y/VIkB4hQ0mKzp4mV1Hmyw/trump.png",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 5.41,
+      "relevance": 7.2
+    },
+    {
+      "title": "Bolsas americanas fecham em queda em meio a temor por investimentos em inteligência artificial",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1R6dVZiWUpmckVwZjVnVTBuYlhfVko0c2MwTjhacTBEMVhRUTJITXgxQzRXcDI5Rmd3VlllV2c3emNHQ21rNEpKLWZFaUx2c1JyN2g2Y1laM0Jmay0yRG1jcUxJanJaenMyYnhPd1E2SGMtTWFSMmMwbFFMY3RsSQ?oc=5",
+      "source": "Rádio Itatiaia",
+      "publishedAt": "2026-11-01T11:13:29.000Z",
+      "summary": "Bolsas americanas fecham em queda em meio a temor por investimentos em inteligência artificial Rádio Itatiaia",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.37,
+      "relevance": 8
+    },
+    {
+      "title": "Economia dos EUA cresce 3,4% no terceiro trimestre e inflação desacelera",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVl84bE91VGJsV3hVNnl4WXJLZHM4ZzdQT0cxNVdUVmVnNUJhdC16MlFWcXRIUHQ5aEpsMmpaVkVUT1JRR2tncTA5NDZybTJSbVl0YWVtWDNrLWF4Rk5yMmxFakRSQmJ5ck9LamYxTG1GZTA3M3pfY20yZFd6cGt1V0puX1hnZEJmWm1HOVZMSjNVd0pLR1RmbXAzcnZVSDlETzNzWUNXUQ?oc=5",
+      "source": "Times Brasil | CNBC",
+      "publishedAt": "2026-11-01T18:01:00.000Z",
+      "summary": "Economia dos EUA cresce 3,4% no terceiro trimestre e inflação desacelera Times Brasil | CNBC",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.24,
+      "relevance": 6
+    },
+    {
+      "title": "Minha Melhor Amiga: veja que horas o filme estreia na Netflix do Brasil",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0Y1cTJ3N2FXQU9jZFBjUWFmc1VtT0lRbkZxdmFFWXdGaHlUdk80cXZ2TFNmaGdrM2pMY2xPYWRqT3UybWtDdkhnRFFYRGhpTFFHQ3FOQTRGUnZDSUdwSW1NS093YXpmVlJNdE1famNVOGh5RF9pTzlhV1o5X2QzOTl1T3RYZTA?oc=5",
+      "source": "Séries em Cena",
+      "publishedAt": "2026-11-01T16:12:00.000Z",
+      "summary": "Minha Melhor Amiga: veja que horas o filme estreia na Netflix do Brasil Séries em Cena",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.21,
+      "relevance": 6.4
+    },
+    {
+      "title": "Affle assina acordo definitivo para adquirir a empresa de tecnologia publicitária Perion",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZWFUX3BXbU1ib3k4SjdfTU9TTTZlcTJ5eWpWWFNZUVFmR1RDMk5GOXhkd20tWXdnRkxNUld4UkZhaVV1TndId3FzVWdxXzhacnl5Z2N1Y0FkSmwyTUdYTzJkbS1DbDJiZi1XeVcyNGo0bU1ZU3d3RmVBQzNzSktwS2x4dXI0Tnc0aWJDQTJWSUtsRDk3UFE?oc=5",
+      "source": "Unite.AI",
+      "publishedAt": "2026-11-01T17:06:03.000Z",
+      "summary": "Affle assina acordo definitivo para adquirir a empresa de tecnologia publicitária Perion Unite.AI",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.05,
+      "relevance": 6
+    },
+    {
+      "title": "4° Festival de Mulheres no Cinema homenageia Carla Camurati | Filmes e Séries - Por Mattheus Goto",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOEdkaWhKWDZJbk9kLVhLUUtfTFlOVG9Mbm9yOHY0ZVZSZTZGV3Q1YzVNalktSUdrSFMwcGFaTUNhLWJBLWRic0NrRHBhSGJUNXZERlQyNkUySExZS1o1SFA3ZjJCZUZ0bTU5T2hjZXdIT3pNLS13T2tFdFpLU1djdWhnaTcxaEFOaDZQSEMxS2pIUTB3bVFWV21ub1lfbjJIOEl1ekkxUDZIVTJHR0ZDeXdYSFFEUQ?oc=5",
+      "source": "VEJA SÃO PAULO",
+      "publishedAt": "2026-11-01T13:00:52.000Z",
+      "summary": "4° Festival de Mulheres no Cinema homenageia Carla Camurati | Filmes e Séries - Por Mattheus Goto VEJA SÃO PAULO",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.04,
+      "relevance": 7
     },
     {
       "title": "Mercado revisa projeções para 2027 com queda no crescimento do PIB e aumento na inflação após reeleição de Lula",
@@ -187,8 +497,73 @@
       "topics": [
         "negocios"
       ],
-      "score": 7.1,
+      "score": 5,
       "relevance": 7.4
+    },
+    {
+      "title": "Em manifesto, economistas cobram nova regra fiscal, menos juros e mais investimentos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2xLdldxSi1yeFUyc0Z3LVVqOEFhM296amJ3N083RGNTeklRZjJpRlRpQ3JKRmxOSUZkU1Q1TXBxMnlybTZIU2ZaTkhlMHBxMmkxVXhqczRtZWhZVGRZQUg2cWhXbS1GWU03Ukk3U0k3WlphTTBzbWpla0R6M2hmeThVN09ZdmpjSWdONG84NG1BdFJsZ3FKNEdlYWRCTHRERU1NWHRvNTdJRmdyRVE?oc=5",
+      "source": "Hora do Povo",
+      "publishedAt": "2026-11-01T21:11:15.000Z",
+      "summary": "Em manifesto, economistas cobram nova regra fiscal, menos juros e mais investimentos Hora do Povo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.93,
+      "relevance": 5
+    },
+    {
+      "title": "“Razão e Sensibilidade”: nova versão de clássico de Jane Austen estreia nos cinemas de Roraima",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnZoYVBkWXBBc1BFTmVja1lNUnFLdXM1cDUxdDVVeUJZRklwUnZ6UkliU0lOMm1qWVNndmJkSHNkNkVCSGhfS3IzWlZ0ejdQaWVlS3dWUlJqdEpmakxHdTVaZEJRS3NEQjZVVnlJTnl1Zno5dmNZYm1sNjJFMUprMW1OTHY5Njd5WS1BcEphbWEtQ2tKd1plYXNwNms4bTJQbmkwWUl5QU9DMTVqcHNfYjI1WjZiZkxfNDdrSFpkb256d2JKb0JPTA?oc=5",
+      "source": "Folha BV",
+      "publishedAt": "2026-11-01T21:00:00.000Z",
+      "summary": "“Razão e Sensibilidade”: nova versão de clássico de Jane Austen estreia nos cinemas de Roraima Folha BV",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.89,
+      "relevance": 5
+    },
+    {
+      "title": "Proposta de Lara Resende para reduzir Selic a 7,5% chega ao radar de Lula e provoca apreensão no mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaEFyeHlaOUkxdlFDcy1zRnpLbWFScUFjbnUtLVk3Zkh3UHlaSzJUVTUyeWhvN3BGSDE0UTNTUmw3cWJwMkZ6VEhVb1I2RExaY0ZHcUdYVERNVTVWQ095WXB1bWVhQk5YYW9kNWl0TS1wSzNMWVZ3ZGVLLUw0Rko0Q21VRE52U2FjZFg1VzZLMnNVUnduWHNHSjF3ZVpZeTFMa2RqbGNDcVJsLXVHNGpXVkpZWW5DYlVtZXdkTzc1WTR6dnVLUXZET1hnd2c0MlQ3clA5UDUydVJibExyX2prSUt4UQ?oc=5",
+      "source": "Brasil 247",
+      "publishedAt": "2026-11-01T20:56:58.000Z",
+      "summary": "Proposta de Lara Resende para reduzir Selic a 7,5% chega ao radar de Lula e provoca apreensão no mercado financeiro Brasil 247",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.89,
+      "relevance": 5
+    },
+    {
+      "title": "Em Florianópolis, estudante cria tecnologia que identifica os maiores gastos de energia em condomínios e empresas",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU3BrdjdjZVZETnVVelFkeE44R2lQNmtOV3AxRHNqOFJSV2hCYUxVenNVUEJaNGFwYXNaNTBMLXlhMExESGZTcXFfVzJnQ2ZQVkVhV3p1M2JXcFJ2eVNXc3FBbkZPQkxZamN2enJrX0RydmJtalFFOTFqV3FCblFGNDF3QldERWJWRl9URkZrdU5Wb1IxQVh5U01WRmNrM21jaWFqczY3MkM5V2thNlpvN2d2V3pWTTRodUFqUk9GdkN0T3g4ZUktdWN4NWtiWi1QUlhfbnhaczM?oc=5",
+      "source": "Agora Floripa",
+      "publishedAt": "2026-11-01T16:07:39.000Z",
+      "summary": "Em Florianópolis, estudante cria tecnologia que identifica os maiores gastos de energia em condomínios e empresas Agora Floripa",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.87,
+      "relevance": 6
+    },
+    {
+      "title": "Mercado revisa inflação após disparada do dólar",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSV9yMlBKTTMzWGt2Q2VNZDEwMlh5TmZXV0tCVUJEVU4wME5EWk9ITE53NFEycGxOOFR2RkRzajFzZ3NfSm1jaHRyZjYyUjh4M1VzcEFPQkM2UVdGdWVWLVlHM0pUUUx2dnF6X1dqVWkxZnpkdW4zT25RemIxcjFtNjFDanlXVU5SSVE?oc=5",
+      "source": "Vero Notícias",
+      "publishedAt": "2026-11-01T14:22:45.000Z",
+      "summary": "Mercado revisa inflação após disparada do dólar Vero Notícias",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.86,
+      "relevance": 6.4
     },
     {
       "title": "Sebrae Rio e GrowHub promovem encontro para conectar startups e empresas de tecnologia da Região dos Lagos",
@@ -200,20 +575,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.91,
-      "relevance": 7
-    },
-    {
-      "title": "ECONOMIA 💰 A combinação de juros elevados e incertezas sobre as contas públicas pode pressionar ainda mais as empresas brasileiras no próximo governo Lula. ⁣ ⁣ Segundo estudo, 26% das empresas de capital aberto não conseguem cobrir suas des",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tb3JYTW43T093VW1fbmJXbXNxbl9hc000clVNejNjODlwR2lWdVp0ZXFpVmMxeHlCSUFpZ3MxY2ZGQWk0Z0d3MnBfM01mSVE1bEE?oc=5",
-      "source": "Instagram",
-      "publishedAt": "2026-11-01T11:42:50.000Z",
-      "summary": "ECONOMIA 💰 A combinação de juros elevados e incertezas sobre as contas públicas pode pressionar ainda mais as empresas brasileiras no próximo governo Lula. ⁣ ⁣ Segundo estudo, 26% das empresas de capital aberto não conseguem cobrir suas de",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.8,
+      "score": 4.86,
       "relevance": 7
     },
     {
@@ -226,689 +588,336 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.75,
+      "score": 4.75,
       "relevance": 7
     },
     {
-      "title": "Ataques deixam milhares sem luz na Ucrânia em meio a novas negociações de paz",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/ataques-ucrania-russia.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-01T10:12:46.000Z",
-      "summary": "O presidente da Ucrânia, Volodymyr Zelensky, durante entrevista coletiva em cúpula de líderes da União Europeia, em Bruxelas, na Bélgica, em 16 de outubro de 2026 Yves Herman/Reuters Centenas de milhares de casas ficaram sem energia elétric",
-      "image": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 6.61,
-      "relevance": 7.2
-    },
-    {
-      "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Disney+, Prime e mais",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2VCZ1B2QnZzRGlEa1FBRWVWcVRrU0pYdHRUMmZFOHZwTnZPODVnMjM5QkJJVVU2aEtab3VteVU5WHVWenFlWmh3REhyX3l1LXA3c0JRVFgycWhNelo3Y05tcEdRLXpKM1poaXBsWE9xTFR6SUJYb250Y21qVHBRdWozSHRKV3EwNWsxWC1Ya3VENmJVR1RsblFfaXNsM1Ixc0RDTUhWS2oxUE5ZZUlBSENQbXY0ME5naVMxamdENGlLQmhUbndSemxXeEVZaUcyWnJ5WUxuV0NIM2pVSnNj?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-01T07:06:34.000Z",
-      "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Disney+, Prime e mais Estadão",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 6.51,
-      "relevance": 8
-    },
-    {
-      "title": "Economia: Mercado prevê inflação de até 6,1% em 2027",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNURnTnpjU2VKU1hkU1hTWVQxQnVSVk8tS3I3c3FXN2dPdzQ3WjFIdzdzbENuVkw1bTl6UjBKNkZkN3lGWGRfRzJrcDlqQmUtcktXeHJXa3F0U2ttbmlKMnpWZ0s5QzREUzltOFhMS3NkMEh5YTY3ck1zb0drQ3hNcV9Vc0JCOGRQSjVTX1czOUMxOHExY3pV?oc=5",
-      "source": "Portal Terra da Luz",
-      "publishedAt": "2026-11-01T10:30:46.000Z",
-      "summary": "Economia: Mercado prevê inflação de até 6,1% em 2027 Portal Terra da Luz",
+      "title": "Klabin (KLBN11) está barata? Lucro cai 81% e dívida de R$ 24 bilhões preocupa investidores",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXhESzFWWXZoajZNTFNuTGoxNmh3MFNsdGluVXM0R1JPQ3VGN3ZtdlJsdVpKdkk1VkZ5Xy1Cd1J0QXJrUzJmZU9IN3VFMG5nZE1Dc2h4YUpOQVozdExQT0NCdkdfckxFYTRvTXBFM1ZXWEVoa3dOSUFMS0laNkVvMnRiQTI3ZmNaR2I5X3Faa2lOekFvc3Z4Wi0yckxUV3BRS2hxWVp4TXdwS2x1MXRlSg?oc=5",
+      "source": "O Petróleo",
+      "publishedAt": "2026-11-01T20:06:08.000Z",
+      "summary": "Klabin (KLBN11) está barata? Lucro cai 81% e dívida de R$ 24 bilhões preocupa investidores O Petróleo",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.5,
-      "relevance": 7
-    },
-    {
-      "title": "Filho de 15 anos de Javier Bardem e Penélope Cruz estreia como ator em filme favorito ao Oscar",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZHFQQkYyUzdVRXBDR1FnVlRFNjIxSndISU9qZGNWem01dzVQbUhUVXFkNTRWYVBoY2dqUkZNbUlaWERaeVdiN3hkbV9rMDVaSWRJNW5sek02SnBtTWdldFZqNHY4LXVLcVRMZVRPQjVBY1o3WlJYVjJnVExaZGx0MGpocHNicWhjelRoRzlWQnFGeHB6enRKSlJiT0U3eG9vWVMxR3R4LUFqelJWU01SVGNpRTVBeVpQcVhvZUJsWVFUcnlOazQwUkdSZS1EUk5VOWFZb09Uem43cGVqcTN4ODBkekhUN0NXOGfSAfgBQVVfeXFMUFdSOUxQMHVDNXJONjl1NmNuUW5nZnNJZlNab0VHNDU2cnFKRGJ1TTktSDlYa1NVUVk1RFN2a1I0VklSMjEyalZoNVJaWlI2STFZeXNWQWVHU01Pd3p2VmpzYXMtXzBoRUkxSWp5MkRJTlVUOUVYUDZSNTlGNmVhOTg1dUhsNEs1VlRqUlFVT3otUEhTa2pZNHJmdmRDWF9mVHZtcjFQMW1qT2c1dXpfdDNnZERXa0piUDZiVkJ3dS01M2RxQTZNODI1OXNyTGEwY1lzcXVRZzdJSTk1YzlwZDFEc2hXSlZCVk9zeHdJSmFVU0Y5Qy1NdnU?oc=5",
-      "source": "Globo",
-      "publishedAt": "2026-11-01T08:37:03.000Z",
-      "summary": "Filho de 15 anos de Javier Bardem e Penélope Cruz estreia como ator em filme favorito ao Oscar Globo",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 6.04,
-      "relevance": 7
-    },
-    {
-      "title": "Conflito Rússia-Ucrânia: Turquia emite alerta e insta ambos os lados a chegarem a um acordo de paz em breve.",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFXc2c4cmtQZUJ0WWlONUE1TUxqVUV0VmpwV2U3SUhpVVQxa0pGZXJPbUdZc2E3WkpWcU9Fdi0ycG1SZjZ6VU9wVURzUHJsbEVHMDNUR1htQmRGUjJhMU11allRblJVUlNfSDJZZzdaRjRyTVI5S2Vxejhab3lGTks3S1F2UXcxRFdrRkE3WVNzLWprVzhoTFJpeHpuWC15X09nSG5rWllIYzFydVhxUlAxdElaT3p6bFRvQ3Rn?oc=5",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-01T08:18:37.000Z",
-      "summary": "Conflito Rússia-Ucrânia: Turquia emite alerta e insta ambos os lados a chegarem a um acordo de paz em breve. Vietnam.vn",
-      "image": null,
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.97,
-      "relevance": 7
-    },
-    {
-      "title": "De 'GTA 6' a 'Jogos Vorazes': os lançamentos de filmes, séries, games e álbuns de novembro",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkpWaThlMWUxbTg1WGUyUVVseTVVSzA1Y3JWcFo0VU15bXhFR3ZpTUtaTU4zZm5DZnBqQ2xsRUw2Qk4tcEVKdDltSU9wRFdSVjk3LU94YzJ5eEZDOEJGeVdNZ3Q2UFVnQlpkQ001SGE0bmx3VGlpTy1mamhBYjBlNmJuQ0VPSUVkcjBRSEIzSElDalBHWUxvU1ZhMWxMLUU1VHRLQmhITC16dw?oc=5",
-      "source": "Exame",
-      "publishedAt": "2026-11-01T12:04:59.000Z",
-      "summary": "De 'GTA 6' a 'Jogos Vorazes': os lançamentos de filmes, séries, games e álbuns de novembro Exame",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.92,
-      "relevance": 6
-    },
-    {
-      "title": "Oscar 2027 - Santos recebe pré-estreia exclusiva de “Cavalo Selvagem 9” em Santos, filme premiado em Veneza e cotado para o Oscar 2027",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcjhhUFlTUFc4ekxkQWpZRk9yTVdhdHhQNDNZeEpicElKUHZ1MDhySC1xeFpVS2FBX0VVYVlEWEVib3VxSlhCQ3pGeWYyeVF5T21aZENmZUplbHM2N0lReXFoWTBIT0xxbGtIRUtsV2tPT0ZBcDBZS3E1TEVrODJHN1dENG0tNGxTREJ1THhJMldhMzNxSGQtZ01hT3lYR05ILWVuazJ1V1RabjQtakJmVFRMQm1MMWxGbWpHN0w5YjJ4dDFobXNDUW92ZE5Ud3c1Z0xhU1M3VEp6YXk3aWdWN0k5MllIYWZyemY2RzY1V0NDSDdrTG1ZejVpOHdqbWZsVG51LThuM1BDaGs?oc=5",
-      "source": "BS9",
-      "publishedAt": "2026-11-01T12:01:54.000Z",
-      "summary": "Oscar 2027 - Santos recebe pré-estreia exclusiva de “Cavalo Selvagem 9” em Santos, filme premiado em Veneza e cotado para o Oscar 2027 BS9",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.9,
-      "relevance": 6
-    },
-    {
-      "title": "A luta para salvar cidade canadense ameaçada pelas tarifas de Trump",
-      "link": "https://g1.globo.com/economia/noticia/2026/10/31/a-luta-para-salvar-cidade-canadense-ameacada-pelas-tarifas-de-trump.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-10-31T23:49:30.000Z",
-      "summary": "A fábrica de papel tem servido como motor econômico de Témiscaming por mais de um século BBC Ao atravessar o rio Ottawa em direção a Témiscaming, Quebec, a fábrica de papel ocupa grande parte da paisagem. A própria cidade foi construída há ",
-      "image": "https://s2-g1.glbimg.com/RYHNVOOZiNOww4WF-9YnT863wlo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/y/EZaCNGQ2APwzpxMcVqLQ/montagem-horizontal-1280x720px-23-.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 5.9,
-      "relevance": 9.6
-    },
-    {
-      "title": "PATRIMÔNIO HISTÓRICO DO ESTADO E MAIS DE UM SÉCULO DE HISTÓRIA: OS LEGADOS DO AMERICA FOOTBALL CLUB",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT05jSDIxZ0c5c3Nqd3RkX0VRNEhQakduVXZvTHdyQXlTdFFkM3E1d3R3Q0lWeVBBZmhTaDdQRGRhLXhtWWUyRGpkcmxKV2xzXzduazZPdzJlOUIzME94ZnNweUZYYzNtcW9KbFMwLVREQUp6QmU1NkhCQnF1UlN4VGU1azNQY3h0QmhkVUFUbG5ydzl2NEhRRjVXNUJQTklEdlh4Q2d3TjVlRGdUTFNwemZkQlF6LXA4ZGMyUUZ5bGJWb2R0VTZFODIzUVk?oc=5",
-      "source": "O Gonçalense",
-      "publishedAt": "2026-11-01T11:46:15.000Z",
-      "summary": "PATRIMÔNIO HISTÓRICO DO ESTADO E MAIS DE UM SÉCULO DE HISTÓRIA: OS LEGADOS DO AMERICA FOOTBALL CLUB O Gonçalense",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 5.84,
-      "relevance": 6
-    },
-    {
-      "title": "Selic, Focus e payroll: veja o que movimenta a economia nesta semana",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2lWdlVqOGtmbWc1bm9NWXJzWjhydmd2ZThCLUZKWFhUUnFiTHlOYXJ0UmZRUnRzWmtyNHN1ZU51WE5nQmdQMEpYWWVyejY0TVhLNThyYU1GMmp6N2xRRlR4N3ZWMHRmeG1OVmZNUWdvRmFJM3c1c0lWRkVYSHVaQXFsbVFNZw?oc=5",
-      "source": "tmc.com.br",
-      "publishedAt": "2026-11-01T11:45:48.000Z",
-      "summary": "Selic, Focus e payroll: veja o que movimenta a economia nesta semana tmc.com.br",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.84,
-      "relevance": 6
-    },
-    {
-      "title": "Os principais temas das eleições legislativas de meio de mandato nos EUA",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/os-principais-temas-das-eleicoes-legislativas-de-meio-de-mandato-nos-eua.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-01T04:00:00.000Z",
-      "summary": "Republicanos tentam se descolar de Trump antes das 'midterms' A guerra contra o Irã, o custo de vida, a inteligência artificial e a imigração estão entre os principais temas da campanha para as eleições de meio de mandato nos Estados Unidos",
-      "image": "https://s2-g1.glbimg.com/VnERSWg7aMhvHgesXYfOL6-ICEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Q/AQSVR9QBSCXBpYZGm02w/novo-projeto-24-.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 5.78,
-      "relevance": 8
-    },
-    {
-      "title": "Série de ficção científica da Netflix traz mistério envolvendo vulcão e pessoas desaparecidas",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ09CRnUtaXVxTzNWZU5EeWNsN1dfWjhmenFmOHZEN2NhY2FSVGxYeTVNcFdvVUdPcWxyMEo0YVc4NGF5TXJFeUVFa1RIazFrOXBDQnBwcGhLTUZKVUdSdG1VYklqbjdYMkN2QlJxYVQyS1pUSHdIZmV1TUNqTVhfMU9McXEwSEZFaV9NU01RRDc5a1VFOUt0Qm9GaVRmYjRkdlpsOUxWX3pYY1I0eVJ5eTVxTFJyY3FjYVJwR1NfM3JQaTNWZWhHQU5fZG5sQ05DcVU40gHYAUFVX3lxTE42UGg0UXpjMHRtd3hiX3lBb215U1NhTndibkRiaXFmQm5CSHpVWEs4SGZXamR5TnBmdjVvNncxclJodFUyZ0ZxQjZCX25ENnpDM3NwTzNEYkpnTFdyRXRuX3oxYWw4czc3ZEJVazlBNnY2RWNkUE9QSWpFRWRvQ0FVMHlNc2Nua3ZRZlNzQnpUV1BBNmhETjdxZXRJY2lFUkRyWEcwN1lZbkY3TWRFQXpJXy1QVmZ6UEVETVllQU5WN3dWWkUxbXlqRzNMQWhnV01pYUVvdERFTg?oc=5",
-      "source": "Observatório do Cinema",
-      "publishedAt": "2026-11-01T12:00:00.000Z",
-      "summary": "Série de ficção científica da Netflix traz mistério envolvendo vulcão e pessoas desaparecidas Observatório do Cinema",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.7,
-      "relevance": 5.8
-    },
-    {
-      "title": "Vitória de Lula sacode os mercados, abre incertezas e muda planos dos investidores",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVBJOXJwZmJGUnhrOXkzX2FTRUt0OFhZR3FQTC1FYTM1dmtXXzljQmdSRDVJbzl0RlAzVkFvZkJ3aDQxT18wZGJDaUZSZFhFQmNjdHdTMmwtMGRZQXRTVGVreWJnY2RRY3pmc1J0XzRUaWluNmpsRGJDdmpaaVdSMzhJZllHOXA2NlA3R1UxUmZ4a1ZPSHBjeVdHVE1jeWRjbDd0X29OTjYyTXpUZXJIdHZuWEhSdFM2?oc=5",
-      "source": "VEJA",
-      "publishedAt": "2026-11-01T11:00:54.000Z",
-      "summary": "Vitória de Lula sacode os mercados, abre incertezas e muda planos dos investidores VEJA",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.68,
-      "relevance": 6
-    },
-    {
-      "title": "Unicórnio de inteligência artificial Happy Robot estreia no Brasil",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFpxY2FLVDNBWEFfS0wxaGxtR1gtcE5ERXlSNV8xek5nekh4MUpLZEg0OEh4VFVKM3J1cWI1MmYwYTBJNzFMMUNjMktEVmFMMy1xLWltR0VFcmhVMHJjamlNMmJFMjlPVy1hN1B6dXFuSVBzeE82TERLVkZ5ZXVVaHUwR2l1ZUd3MUstLWd6UFkxXzhpdzljXy1NcW5PczA1RFh5QQ?oc=5",
-      "source": "VEJA",
-      "publishedAt": "2026-11-01T11:00:24.000Z",
-      "summary": "Unicórnio de inteligência artificial Happy Robot estreia no Brasil VEJA",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.68,
-      "relevance": 6
-    },
-    {
-      "title": "Jogos Vorazes, Rocky e Godzilla: as estreias do cinema e streaming em novembro",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcnRBbzJ5aWdNS1RPWU91cDhrbzRacmZNUF9HZzdnMzlldHloc0pjR2VjTGVGY1plUnRyWmM0WDlOZUFMQ1J3bVN5VERyZnlVSHphd21nNFhCNVVWUnVyUENtY3lqa01PUUdmQ2prNmM5VWtpaHBSV2dDcGVDSlNQR0liNkZSeEFnNjlDb2EwZEFES3RPTk1WOFA5VUZLaEpnRHkxal93Z1N4MnhqUzZtS2xFdS1GS0FLZ0I3bzloY1ZwZw?oc=5",
-      "source": "Folha Vitória",
-      "publishedAt": "2026-11-01T11:00:00.000Z",
-      "summary": "Jogos Vorazes, Rocky e Godzilla: as estreias do cinema e streaming em novembro Folha Vitória",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.67,
-      "relevance": 6
-    },
-    {
-      "title": "Câncer de próstata matou 50 homens por dia no país em 2025",
-      "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025",
-      "source": "Vitor Abdala – Repórter da Agência Brasil",
-      "publishedAt": "2026-11-01T11:12:00.000Z",
-      "summary": "Cerca de 18,5 mil homens morreram no Brasil em 2025 vítimas do câncer de próstata. Isso equivale a 50 mortes por dia, segundo dados do Ministério da Saúde, divulgados pela Sociedade Brasileira de Urologia (SBU). De acordo com a SBU, de 2017",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "topics": [
-        "medicina"
-      ],
-      "score": 5.53,
-      "relevance": 5.8
-    },
-    {
-      "title": "Binance retoma saques de bitcoin e ether após roubo de US$ 6,3 bilhões",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/01/binance-retoma-saques-apos-roubo-de-us-63-bilhoes.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-01T09:50:10.000Z",
-      "summary": "FBI acusa Coreia do Norte de roubar criptomoedas A Binance, maior corretora de criptomoedas do mundo, retomou neste domingo (1º) os saques de bitcoin, ether e algumas stablecoins e afirmou que outras criptomoedas serão liberadas gradualment",
-      "image": "https://s2-g1.glbimg.com/bdmnrkzkH-Ez5XHUVIqO7iLyH2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/AcfbByRrGDz98GphwNlA/kanchanara-wlvog4wcqru-unsplash.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 5.43,
-      "relevance": 6
-    },
-    {
-      "title": "Polymarket e Kalshi: por que apostas sobre as eleições preocupam especialistas nos EUA?",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/01/polymarket-e-kalshi-por-que-apostas-sobre-as-eleicoes-preocupam-especialistas-nos-eua.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-01T08:00:01.000Z",
-      "summary": "Midterms - Eleitora preenche cédula de votação em Harrisburg, na Pensilvânia (EUA) REUTERS/Mike Segar As eleições legislativas dos Estados Unidos acontecem em um momento de expansão dos chamados mercados de previsão, plataformas nas quais o",
-      "image": "https://s2-g1.glbimg.com/xEFF-Xfbvp8GscCYLTxV4MLzV9g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/w/O/PFSfA1TvyVd6BjHnOczg/2022-11-08t131839z-2077520762-rc2nhx94yqte-rtrmadp-3-usa-election-pennsylvania.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 5.39,
-      "relevance": 6.4
-    },
-    {
-      "title": "Financiamento de campanha: quem leva a vantagem nas midterms dos EUA?",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/financiamento-de-campanha-quem-leva-a-vantagem-nas-midterms-dos-eua.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-01T08:00:00.000Z",
-      "summary": "EUA se preparam para as eleições de meio de mandato As eleições de meio de mandato dos Estados Unidos, nesta terça-feira (3), devem ser as mais caras da história, segundo a imprensa americana. Partidos políticos investiram pesado para tenta",
-      "image": "https://s2-g1.glbimg.com/xSNBry6avKZwHOM07fC6sD0ywkY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/f/Ift1avRlqrLCLT5iu7sA/2026-02-25t022253z-61645690-rc2psja8ik34-rtrmadp-3-usa-trump-congress.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 5.39,
-      "relevance": 6.4
-    },
-    {
-      "title": "Por que o Honda CR-V é um sucesso nos EUA, mas quase não vende no Brasil? O g1 testou o SUV 'invisível'",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/01/teste-honda-cr-v.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-01T07:00:00.000Z",
-      "summary": "Honda CR-V Divulgação / Honda O Honda CR-V é um sucesso de vendas no mercado norte-americano. O modelo vendeu mais de 226 mil unidades no primeiro semestre deste ano, sendo 51% de versão com motor híbrido. No Brasil, a história é totalmente",
-      "image": "https://s2-g1.glbimg.com/JVMMs1rhshAAbN4x74yG51cLmJQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/A/3Z18BgSJWKyztoPHYaCg/fullsize-cr-v-2024-movimento-1-.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 5.35,
-      "relevance": 6.6
-    },
-    {
-      "title": "Cadê o 'Tiririca americano'? Candidatos 'meme' são raros nas eleições dos EUA; entenda por quê",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/01/cade-o-tiririca-americano-candidatos-meme-sao-raros-nas-eleicoes-dos-eua-entenda-por-que.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-01T09:00:01.000Z",
-      "summary": "Candidatos 'meme' são raros nas eleições dos EUA; entenda Tiririca, Cabo Daciolo, Enéas, Padre Kelmon: ao longo dos anos, as eleições do Brasil contaram com a participação de vários personagens caricatos, além de candidatos nem tão famosos,",
-      "image": "https://s2-g1.glbimg.com/yEdA_C1XKOwLej0KeyjZDN5Xbgg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/X/fxAUwAT7C5aJUhdEWRJQ/candidatos.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.25,
-      "relevance": 6
-    },
-    {
-      "title": "Economia da Arábia Saudita recua 3,8% com guerra afetando produção de petróleo - Investing.com Brasil",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdFFvR2JkRjUxUGlaOHFqZ2tJN1VZTUIyN0ZfZFlmNkdOZXZtTDZpYkZkSzljaTFhX3lfUUVkNGdsMTZtNU1TZzZPT2xBcnhLdzN3bXhQb2h3LUtIZVhRN25lZXhvcFU3ZjZqY1Rhd1NwMWw4bnBMdTJadnJqMVpnd19OMzVabzFsWVI3NGdKbk5jMW1fbWFfNk55T0NPM0JPMU5lVVQ3TUVjVi1vZTRTcjZLQW5DaVBOR3FSQmc3VTZ4WlBBaEE?oc=5",
-      "source": "Finanças, Câmbio e Investimentos",
-      "publishedAt": "2026-11-01T08:38:00.000Z",
-      "summary": "Economia da Arábia Saudita recua 3,8% com guerra afetando produção de petróleo Investing.com Brasil - Finanças, Câmbio e Investimentos",
-      "image": null,
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 5.01,
-      "relevance": 5.8
-    },
-    {
-      "title": "Macadâmia produzida no ES vira doces, biscoitos e gelato e chega ao mercado internacional",
-      "link": "https://g1.globo.com/es/espirito-santo/agronegocios/noticia/2026/11/01/macadamia-produzida-no-es-vira-doces-biscoitos-e-gelato-e-chega-ao-mercado-internacional.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-01T06:46:01.000Z",
-      "summary": "Macadâmia ganha espaço e vira fonte de renda para famílias no Espírito Santo Uma noz de casca dourada que atravessa gerações de agricultores ganha espaço em mercados internacionais e ainda vira doce, biscoito e gelato. Em São Mateus, no Nor",
-      "image": "https://s2-g1.glbimg.com/TRPnTbRg1xZx-882nM_SvhnmmoY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/4/cCDwHBQtAzBjIYxTbcDw/thumb-videos-g1-28-.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.98,
-      "relevance": 6.2
-    },
-    {
-      "title": "As 3 melhores séries desta semana na Netflix Portugal (18 outubro)",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWQteTV2QmIzQ01fMjhjMG95V3Jza1JqOUMtX2hYYmpvaC1teHFxcEVpVEFHQ1VlTUZCa2JTODE2T28yZWY1ZDdPaVFwTTNJT2dkNmJoaExfWHc2SkdpcGhVWWx3b1UzU3VERXdmbUt6U3J0TUk2dmI1bFBKUWZpX3RBQy1aeEtxYThMdGhuVWF4RUdC?oc=5",
-      "source": "Magazine.HD",
-      "publishedAt": "2026-11-01T12:00:44.000Z",
-      "summary": "As 3 melhores séries desta semana na Netflix Portugal (18 outubro) Magazine.HD",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 4.92,
+      "score": 4.73,
       "relevance": 5
     },
     {
-      "title": "VÍDEO: Pais raspam a cabeça em apoio à filha de 5 anos com leucemia rara em MG; família busca doador de medula óssea",
-      "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/01/video-pais-raspam-a-cabeca-em-apoio-a-filha-de-5-anos-com-leucemia-rara-em-mg-familia-busca-doador-de-medula-ossea.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-01T09:00:01.000Z",
-      "summary": "Pais raspam a cabeça com filha de 5 anos com leucemia em MG O casal Rayssa de Souza e Lucas Eduardo raspou a cabeça para demonstrar apoio à filha, Maria Fernanda, de 5 anos, que enfrenta uma leucemia rara e agressiva. Moradora de Divinópoli",
-      "image": "https://s2-g1.glbimg.com/7FANQ40tYtp9-oHviqW_hWjltbs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/M/OepzNfQr2Ec7a4dfBLXw/rayssa039.jpg",
-      "topics": [
-        "medicina"
-      ],
-      "score": 4.9,
-      "relevance": 5.6
-    },
-    {
-      "title": "Museu Parque das Águas: uma viagem pela história e pelas riquezas de São Lourenço",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTdieXN3ejRHUjJyQ2x6RFVoRm00SFQwc2NfdE5idEhYSVhhM2dtYWlxMFExeEt5bWNMUVBhaTgtZnF5cTRrVTRjNGtJV1pUMWlmdEgzd1NxM29UbXczaEhBcmhlYlczOFpEMDEyVVBxY3BXbVhwOWpyOWk3TjZ5ZWFBcE9nd0FkWW5IYUEtal9weVpucEUxUW5sOGUzeFQyWXRWbkI0c3VRZWZNeWdIbmh2b0dqSEE?oc=5",
-      "source": "Jornal Panorama Minas",
-      "publishedAt": "2026-11-01T11:48:04.000Z",
-      "summary": "Museu Parque das Águas: uma viagem pela história e pelas riquezas de São Lourenço Jornal Panorama Minas",
+      "title": "Redução do uso de NPK na cebola gera economia de R$ 62,47 milhões em Santa Catarina",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXlSZnc0LUZUOGQySFBRc1ZfcW9EM2YydkswWFZOWVpKakpVRXhKVWlOMk9RZ1NNcnYyQnFJYXpMclZZV0tBeUJNU2I0cXUtRlZRX2VuTjlZWWtjUV9rUDlncE9SYm1nMV93QVc1cHZaeFc3RUtCTnkxc0xIUjhhRm5EcVlWSWEyVm82NHZCNy03cWM2SjZ1V2l5My1hWjlzUGpyTmhPazU0Y3hJTEZDSldtYXVsY1ZpUkE?oc=5",
+      "source": "Canal Rural",
+      "publishedAt": "2026-11-01T20:03:00.000Z",
+      "summary": "Redução do uso de NPK na cebola gera economia de R$ 62,47 milhões em Santa Catarina Canal Rural",
       "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 4.88,
-      "relevance": 5
-    },
-    {
-      "title": "SUS avança na medicina de precisão com 100 mil genomas sequenciados no Brasil",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUNwMWxFSEhZUnFvWVA0YjZmRXBwY3Y2UEloYWhTY2s0MHJiR0xtdmY5MkI2cDRDNGVJaV9ER1c3N09RUmhISy1BNm1MVmlMQzJubVVrRDgxYkt4VVpMRGxQZzNuYmFSX2xFUTdYOFNodWR0Qlkycl9WOFh6SHJpWHRIWXVSblAtMG9yUTZ5THpQUFM0T2JhS19ZUWszeXJENnVsakZsdW5iVEdvMVFF?oc=5",
-      "source": "Brasil 247",
-      "publishedAt": "2026-11-01T11:42:44.000Z",
-      "summary": "SUS avança na medicina de precisão com 100 mil genomas sequenciados no Brasil Brasil 247",
-      "image": null,
-      "topics": [
-        "medicina"
-      ],
-      "score": 4.86,
-      "relevance": 5
-    },
-    {
-      "title": "Mercado revisa PIB para baixo e já vê inflação até 6% em 2027",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUtpNXE1UV9OQ2dxbHpZMUE0bzkwUWRhOUhDb1Y0VVRpWXdSQnNfSHdDSy0xVkR0djY0Y1d2OVVJVDUxU0hCY053VDlYeE9qUXVCZEo1ZnZvWTZzOXhjSVUwTXFCdjdpWEY0OXRibkI0cGp0ZW80ZEJOZnNIeFJfOWFBaWRSZFVpWTFYN0kyM1I2RnRBUWI3aU5EVGVDQjJvSEZJZkEwYTFqaGFEd2xWTXBnNA?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-11-01T07:00:22.000Z",
-      "summary": "Mercado revisa PIB para baixo e já vê inflação até 6% em 2027 CNN Brasil",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/06/BR_CNN_180626_ZOOM_MONEY_FELIPE_SALTO_frame_12461.jpeg?w=200",
       "topics": [
         "negocios"
       ],
-      "score": 4.86,
-      "relevance": 6
+      "score": 4.72,
+      "relevance": 5
     },
     {
-      "title": "Investidores reduzem apostas em crescimento dos EUA em meio a temores de exposição excessiva a IA",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOczl1dlZ6XzhVeXdfT1VwSFc3ZkNaUUx5Y2dUUkhpd0JNUkxpVDFidEVUUXpQUjJzbzFLYklSdzVlMHlUZHRXakJfRG45V2hjVGtjTGhvYW1sTG5UOG92S3VsTHBwQmRHaG03U3hjbHp3UFEwWjMtM3UwSnNUVjJkT1VSY0RmWDJ6UVJMaTZSa05YNVNmay1iRUt2alNEWGFsVFFYb2Myd09Hdk10OTd4SFR6VzhyNWZoeU40dTM4OE11dmVGV1RvRXhRd2pmRXpyYXdXYVh2VTBsVGJPbjRyUFBLcw?oc=5",
+      "title": "Da literatura ao streaming: 8 obras brasileiras que ganharão adaptações para o cinema e a TV",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVdVlmRUFXRHlLNUNBN25vNEJ3TEJBdlVkWXI3cFhkQmVJYk1yVnhWNndWNmdQcDgyV29keEdHWmlxY0lNcWdLelpqRmp0RXlKV3gtY3hUNUtuaTA2SGRqYzUxUnZjOTJwamJ1NWJWM2FqX1FkMXpvWQ?oc=5",
+      "source": "GPS Brasília",
+      "publishedAt": "2026-11-01T20:00:43.000Z",
+      "summary": "Da literatura ao streaming: 8 obras brasileiras que ganharão adaptações para o cinema e a TV GPS Brasília",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.71,
+      "relevance": 5
+    },
+    {
+      "title": "Dom de Iludir: a história real por trás da nova série da Netflix",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0FTa1hJMU03eVZXMlZWRkhCYXpfZ19BN3lmNmd6RHdZWF8yLVhGZUZBTTFPakFwaFFnal9qLUwxX3lOS1d2Y2NHTFp2VFpEanlnY1VoOUpScGs3ck9lSTBudUlKZ3hJN1oyRHVpYXhtWUZrRllXeDFISVotc0plMlhyeVBOWFIwSVQ4M1lNTGVRUEdrYm5kU0t4N2wzQnhvU1NlSWF1amNuS05fT045Y2xGbEhhUDBoQlI2UGVra0hoQQ?oc=5",
+      "source": "Aventuras na História",
+      "publishedAt": "2026-11-01T20:00:37.000Z",
+      "summary": "Dom de Iludir: a história real por trás da nova série da Netflix Aventuras na História",
+      "image": null,
+      "topics": [
+        "historia",
+        "cinema"
+      ],
+      "score": 4.71,
+      "relevance": 5
+    },
+    {
+      "title": "Série baseada em livro de Stephen King e Roda Viva: o que ver na TV e no streaming",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX0dzTnlob1VOOXI5S3hfS1dDa21HMVNIOFBUYnJnRGhCNEJyV24tdU5lcC1XV25TLWpEVXQyX2FjRUYzZlpMNkNXS19uOE94eW10ekp2Y0FYcWV5ZDBVNDNxZnBBUFl2NUZJYWV6QTUxMjFTaURNbXhSenRKSkR0bDk3VVlyMzlVY1pmWVRTeDVFZFJJeE1fdzVRZWhFbHU2UjFJd0ZSdEpPMGFTRFpTb0htMTV0RkUxcFFBeTNTWUVYdGkyeWtCQlpWb0FXanR4?oc=5",
       "source": "Folha de S.Paulo",
-      "publishedAt": "2026-11-01T07:00:00.000Z",
-      "summary": "Investidores reduzem apostas em crescimento dos EUA em meio a temores de exposição excessiva a IA Folha de S.Paulo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.86,
-      "relevance": 6
-    },
-    {
-      "title": "\"A Odisseia\" começa campanha para o Oscar 2027 com exibições especiais comandadas por Robert Downey Jr, Guillermo del Toro e Steven Spielberg! - Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNaWNTY2oycWFpNUxhUnI5b3MwbGlFZDR3RkZRdTlMcnUxdkRhNklCdkd1cmZvSUF2VVpzWWVTSWVtdGJvSzFSUHVsMFB5VWZmQWFTaGVyc2tmNFNubjc2aW92a0RYczZ3d0swOGhockUtVVhqTGhuNV9nMnFiR0hZRG84Vm1xenNCbGxpTEtxcmpaYWxjblZ1OXlCR1d3VnBtSmNIWmlOZWdiYmVsd0dEQ0owMWh3a3FCTk1TUmpmT0pFSE5udVZNdnhZZ3Jua3dCaDdQMzdocDlXYVJJcGIyd3pHanl1czdBRVZ3TzM2MWlJNS1XU2F0N3o5MkxNN3ZZWFdFV3hDcFlmc29tMEJPUEFwUnJHY2tla1Jjc3IyQnZJVzA1dDJkUQ?oc=5",
-      "source": "Candidatos, Indicados e Vencedores",
-      "publishedAt": "2026-11-01T11:38:53.000Z",
-      "summary": "\"A Odisseia\" começa campanha para o Oscar 2027 com exibições especiais comandadas por Robert Downey Jr, Guillermo del Toro e Steven Spielberg! Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022 - Candidatos, Indicados e Vencedores",
+      "publishedAt": "2026-11-01T20:00:00.000Z",
+      "summary": "Série baseada em livro de Stephen King e Roda Viva: o que ver na TV e no streaming Folha de S.Paulo",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 4.85,
+      "score": 4.71,
       "relevance": 5
     },
     {
-      "title": "Opinião - Marcelo Leite: Sonho da medicina de precisão alcança SUS",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjZGcXN0d09JNXpJSENfa0ZiUlNtSUpLZnphbU1OcWxZbzdGWmVTM1ZYTzg3NVlXcmE1RkoxS2ktQ2lDY1VmWE5ndVY3ZlpPLVpPUUk0eW44WGp4WVpfMWhsbTVENkxKUS0teFk5c01MQjZ2ZGZsU1ZLYnc5d2FpYjRCMXNVZ0xJeE5UWWhZY2p5cVZPQUJpeXFERlJ0WnlObzRHSEwwQzBOZw?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-11-01T11:30:00.000Z",
-      "summary": "Opinião - Marcelo Leite: Sonho da medicina de precisão alcança SUS Folha de S.Paulo",
-      "image": null,
-      "topics": [
-        "medicina"
-      ],
-      "score": 4.82,
-      "relevance": 5
-    },
-    {
-      "title": "Efeito Lula: Bolsa tem o pior mês desde 2022 e dólar vai às alturas",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDNvTDk4aVRzUUkySVpadEpJWDBCYmFPU3AtZ0p6aF9WdFJFbDJjcW9fQUJkellMdlh4QnJYb0U0cEY0T1B0Yi1SdldwRFpsdU9rX2xiM2V6RXV1ZW5YVlJnSkJKUy1udzFaOTVReDI5YkRnQ0J3d1pCSGVwcGwyLU5XWHZ2V1VVcE50SWlWYzF6SjFybzVCWVQxUFhuLUU?oc=5",
-      "source": "BeInCrypto",
-      "publishedAt": "2026-11-01T11:12:35.000Z",
-      "summary": "Efeito Lula: Bolsa tem o pior mês desde 2022 e dólar vai às alturas BeInCrypto",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 4.77,
-      "relevance": 5
-    },
-    {
-      "title": "Diretores de fotografia falam sobre uso do plano-sequência no cinema e nas séries; relembre cenas sem cortes marcantes",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOZFoyQ2xBUnozdnpYaE43ZmRBa0hxaE9wb29QYUo0cjRZVi1HSnNVWXNvSElMc0Q4Q29naFZadl9QblB2clJDTF85QXZiUFZoQnNCUEVIVVkybkVBNDYyUnh5RllkLWlUWWhXZVdaeDJiZmdxV0tQSnNDZzdFMnNuRUhuRC1VbER4NWVTdW9BT2doQ01VVDBGNzZ5TFVUWkItUFNzdVhyalNkMlNnOU5HMFV6VmtLT0ZVekp6OFZkdkd5Nlg4LS1mSm55U1hfTWZsZThfMFp5bXlWWVpCX2c2bEZpYS1wNVUtY2V5VFdNMUUtVnFIZ0dWUVhmaUxjeFkwX3FGSU5fMjRTTUdXa3Vr?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-11-01T06:30:01.000Z",
-      "summary": "Diretores de fotografia falam sobre uso do plano-sequência no cinema e nas séries; relembre cenas sem cortes marcantes O GLOBO",
+      "title": "Cine Tornado Festival traz filmes de dez países a Curitiba; Programe-se",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3lSeUVvTGZ4NnVPUWU3eW1qTV9TX1F3WEg0aGFRN25PdS1rOV8zQUhjZDliNHhaUjBtVndHUXE5eU14dnFDelNpNWZsSmJHM0pIQXhuRkhJTkgwV19FQU1jaDBxM1d5Ulc4NmZiZFljM2FlT2trejVKNS1UUHAxalFvbm5VOG5aelZyMnctUjRlVjdETnfSAZsBQVVfeXFMTnBzZXlVcTB4bUxUazRjRkE3X25vZnUxai1SRVFDdzZsRFVFd3hXZ0xSS2dBbmFwZTU1d25TVEM5Ujk5N3I1ejRJeVFTb2RfNjVrbXFFeGhBUW5XZW0zejd3bV9aVjVCeGliNGt0Wkp3TVRLOFctMU5MSUlwMUR2aWdTdXpkeGZWVTEyYThya2E0bzFVNlNOY0RGQkk?oc=5",
+      "source": "Tribuna do Paraná",
+      "publishedAt": "2026-11-01T19:44:00.000Z",
+      "summary": "Cine Tornado Festival traz filmes de dez países a Curitiba; Programe-se Tribuna do Paraná",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 4.77,
-      "relevance": 6
+      "score": 4.66,
+      "relevance": 5
     }
   ],
   "byTopic": {
     "historia": [
       {
+        "title": "Dois britânicos descobrem uma estrutura militar escondida desde a Segunda Guerra Mundial na Normandia, encontram objetos históricos preservados por décadas, mas acabam enfrentando um processo por causa das escavações realizadas no local",
+        "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNOHNwdVZLNEZuczdkczRTa2pwNUZKa05GS1JhMFlVMFNQS21YbHJiSzhwX010R1VPN2liVWlENFJGcVRfd3lBaGd0LVFlMGhiTGdJNVU5RVRtRWVOYWpqbFZ2WW9hUzZYUkhZSURNUmdKRXh3UUdZNVJ1SnF1VmE5cWQwNTZqTWtpZzhXTFdLbjlMcFZPMDJhSEFuRjY5U01iSzdfOE9OZDc3bUoyRFpWVFhLT2VsOGp1Uzlua3VlYzEwYXotODJ1YU50M0NfRS1PQmpJOF9aczBiejNlNFZSZVdaU2FWU2t4OFRTZnh5WkowdTVGWmI5b05HYU54dUZvRkQ3M0U5Mjl1Vl9sMFNrVVloSE0xV0E0V3Z5WUZKRDdrOUZHMFdNOUZtTFZPRjAzTVBleEduUVM3eXQxcVBHN2kwd1V0RXp2?oc=5",
+        "source": "Super Rádio Tupi",
+        "publishedAt": "2026-11-01T19:42:23.000Z",
+        "summary": "Dois britânicos descobrem uma estrutura militar escondida desde a Segunda Guerra Mundial na Normandia, encontram objetos históricos preservados por décadas, mas acabam enfrentando um processo por causa das escavações realizadas no local Sup",
+        "image": null,
+        "topics": [
+          "historia",
+          "negocios"
+        ],
+        "score": 4.66,
+        "relevance": 5
+      },
+      {
         "title": "PATRIMÔNIO HISTÓRICO DO ESTADO E MAIS DE UM SÉCULO DE HISTÓRIA: OS LEGADOS DO AMERICA FOOTBALL CLUB",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT05jSDIxZ0c5c3Nqd3RkX0VRNEhQakduVXZvTHdyQXlTdFFkM3E1d3R3Q0lWeVBBZmhTaDdQRGRhLXhtWWUyRGpkcmxKV2xzXzduazZPdzJlOUIzME94ZnNweUZYYzNtcW9KbFMwLVREQUp6QmU1NkhCQnF1UlN4VGU1azNQY3h0QmhkVUFUbG5ydzl2NEhRRjVXNUJQTklEdlh4Q2d3TjVlRGdUTFNwemZkQlF6LXA4ZGMyUUZ5bGJWb2R0VTZFODIzUVk?oc=5",
         "source": "O Gonçalense",
-        "publishedAt": "2026-11-01T11:46:15.000Z",
+        "publishedAt": "2026-11-01T11:46:02.000Z",
         "summary": "PATRIMÔNIO HISTÓRICO DO ESTADO E MAIS DE UM SÉCULO DE HISTÓRIA: OS LEGADOS DO AMERICA FOOTBALL CLUB O Gonçalense",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 5.84,
+        "score": 4.12,
         "relevance": 6
       },
       {
-        "title": "Museu Parque das Águas: uma viagem pela história e pelas riquezas de São Lourenço",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTdieXN3ejRHUjJyQ2x6RFVoRm00SFQwc2NfdE5idEhYSVhhM2dtYWlxMFExeEt5bWNMUVBhaTgtZnF5cTRrVTRjNGtJV1pUMWlmdEgzd1NxM29UbXczaEhBcmhlYlczOFpEMDEyVVBxY3BXbVhwOWpyOWk3TjZ5ZWFBcE9nd0FkWW5IYUEtal9weVpucEUxUW5sOGUzeFQyWXRWbkI0c3VRZWZNeWdIbmh2b0dqSEE?oc=5",
-        "source": "Jornal Panorama Minas",
-        "publishedAt": "2026-11-01T11:48:04.000Z",
-        "summary": "Museu Parque das Águas: uma viagem pela história e pelas riquezas de São Lourenço Jornal Panorama Minas",
+        "title": "Fuvest 2027 registra menor índice de abstenção da história: 6,4% faltaram à 1ª fase; candidatos relatam atraso por trem e casos de vômito",
+        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOalJ0NWtsT1NiZmw0a0MzclhpQ3JpTUl4cmdFSzY0UWY5MHUtR1h2ajFWM2VRY0dqZnpaOW50Tm1jd0g2T3dQY2V3UEN1YWF2RmtyRDg2a2dodkVFODUxeG9kY2dBQ0JOdVF6YXdpbzdURy1TbmUtWlg5cTV1bHBOaWx5US1KaXVFeUJBcTJMb2dYTkUyZWxYdjF5U3NXSVVTZFVXRlV1dzc3NEY3aDZNY2pBS21jZFFMdTQ2bXE5eXRqUnhCLVYtWTZuVnBXVlE3U0NhcXVpTzZmMmxtQjFpS1JVTGUxN0pScHFzNnI2Q2t0X19kdWlaOGlRekU4d2J6aldObHBCVlRiOGpCLTdDLXhTMFV5N29DZmFVcVhqbXhqRmNhSE1XVHFR0gG4AkFVX3lxTE5GYnB4NEVYclpWSTZFY3RVNjVMLThVMk40QXVzNkdKWkpLNnpMZlhYNVZPN25tR2dVTy02elIyTi1qR0RPZVpPbXkyZWl0XzFfNnZaNllSTjBIbUNzSE5lODRjQVRGVERvaVVhTVZjY1hNMV93eDVaTlJGV3V5RWgtOGsyQ3FzVjhaRzR1cmEwTXhjTWdGeWpmWUFXdDgzWi1FSmFvX0JGcVhHaVFkb01qRkJ3NlZfRWR4Z3VUNmhiSEJTdmp2MXpIY29keGlrTkpmbTRnQzRrOVNnMGQ2RXM3Q0pNaHhOQ2FGNFBwc0NZUHFRT2pncWlzdUx3Z2hha2p1Q3lLY2dLWFRjM3VWWmdubzlVbFMybUpFM0NENDJ6ZVhqSmY3NjR4QzRpVnNiYW8wWENVNFlqcw?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-11-01T21:14:20.000Z",
+        "summary": "Fuvest 2027 registra menor índice de abstenção da história: 6,4% faltaram à 1ª fase; candidatos relatam atraso por trem e casos de vômito G1",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.88,
+        "score": 3.95,
+        "relevance": 4
+      },
+      {
+        "title": "Bittar e Alysson: há uma história de afeto esperando uma conversa",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1hqQnVxaHpYaFp1U2lBLVJ0ZEVWMWFzQktTTEgxRlAwZVBQTzNRUVh1dVh2MlloNV80TFgxM1VqV1dBXy1oSW4wVTZQUjdqc0JhM0lFU1FCNWlkc0pLQTN1dUx5UV8wLXFMNHpzZUI0VFV6WHhoSnEyNmswYS1LdkswTFZYb3ZGdDRGNm5UWEQyclF6bnE4cUZsWGd1bGtBdnJUREVRTVZTNm8?oc=5",
+        "source": "ContilNet",
+        "publishedAt": "2026-11-01T21:09:19.000Z",
+        "summary": "Bittar e Alysson: há uma história de afeto esperando uma conversa ContilNet",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.94,
+        "relevance": 4
+      },
+      {
+        "title": "Carla Reis: oito anos de história com doces proteicos e deliciosos",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN2JoWEpuT1I0NGl2ZlN0OUxVb3FrRzZKeW9kdUZHUEgza01OeUsyd1JIa2JicEZUd25fU0J1Z2RhU3o2VFNfcXdaMUlGTm9ieUZiaHVpX1NnR2JWbU5ua1BRMGZYY3FCOVJVYTVwY2Zvb2NOaDVhRlowMmtybFZFdzFSa3RnTExmQTNqa1JYWUJ3NHRhODNva0MtaEN1ZS1Qc2lSTXVTVUNDQQ?oc=5",
+        "source": "A Crítica",
+        "publishedAt": "2026-11-01T20:50:15.000Z",
+        "summary": "Carla Reis: oito anos de história com doces proteicos e deliciosos A Crítica",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.89,
+        "relevance": 4
+      },
+      {
+        "title": "Museu Padre José Gaertner e os silêncios da história",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY0FGT3h5aTk5bGstMXFlaldxbWNPTnMtUTNvc3EyWjUtWkNuamlSV0lrTDlnOWdmcW9jQkNWbEVIcVZDaDVBM1g2anh1cDNYNW1VNUc2S0RUM1ZJQWFTVk90VXl6dG5PUU5HN29uU2EwX1hVQzFWLU9ZZVlPWVlvSnBNNGxUV25yZGZDb3lJMXYyZmdoX200TC1OQXVxX2J5QWlhMjk2ZTcyNUxxdEEzSzNHY20wNmJHVzFmN0xBZl9sZlJUZ2FDbHRGZGF4WHFN?oc=5",
+        "source": "Gazeta do Paraná",
+        "publishedAt": "2026-11-01T14:30:00.000Z",
+        "summary": "Museu Padre José Gaertner e os silêncios da história Gazeta do Paraná",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.81,
         "relevance": 5
-      },
-      {
-        "title": "Conheça arqueologia brasileira que levou o Brasil ao centro das pesquisas sobre o povoamento das Américas",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTHpUWTNxTEs1cGVPT2psWHhhMEtzOVdxVU5RNW5IdGZEamJfV3BzT293ZnJDYk5vWjNCb2ZQdE1BYmx0VHJjOUlIalhjWURrNEFJWGZaRjMxUE0zVFFBRVZyajh2N1o0cEVRTU9OV2RnZ0pOU2lvVXdZRGZkQ0xtQjc0b3VQeDdoZHQzNWY0N3JHWmt2emhlSGVyZDc3dURWY2xjY1NaYktrVERNZjEwc3hwS19Ec2RNbl9wckFLaGRMdS0zSVNLVjZtdWFUR2MxZml4VzA2Rzh5c2RfRldIRC1B?oc=5",
-        "source": "Diplomacia Business",
-        "publishedAt": "2026-11-01T08:23:31.000Z",
-        "summary": "Conheça arqueologia brasileira que levou o Brasil ao centro das pesquisas sobre o povoamento das Américas Diplomacia Business",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.28,
-        "relevance": 5
-      },
-      {
-        "title": "Uma nova vida na Itália: a história da Jaquinha em busca de tratamento de saúde",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ1ZqT252aG51QTVCWGtkaFVVblg2V3FNRUFKTUVYeHVDcnNLMk1ObGMwUDI0QnNMMllLYkRaenNIWFc3WHJYM0t1TjRXS1Z6WC1BWmdETzZlYWxYWERpWHRXM0pBSTRVWDJ3aE1aXzdnb2hhNVZpZG5YN3p3S0xrWnQtd2VVMHFOUHF4QnFtZVhxWjBCQzJ0SXpGMkF3XzVFM0huak9oVnBnOW1SVjluX2dRbF9PM3A5dnpndVpwU2lwOHRSa2Fzc2RCZlVyVmpHbmhTVFFCeVFtY2JUT2xXVXFrckxCX2FORWxGSnBydw?oc=5",
-        "source": "Terra",
-        "publishedAt": "2026-11-01T12:01:00.000Z",
-        "summary": "Uma nova vida na Itália: a história da Jaquinha em busca de tratamento de saúde Terra",
-        "image": null,
-        "topics": [
-          "historia",
-          "medicina"
-        ],
-        "score": 3.93,
-        "relevance": 4
-      },
-      {
-        "title": "Debate à presidência do Corinthians não será o primeiro da história",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcDlMRTBzcmxxbmdQY3pKeGduQURUcm15M0xyR3RsemFkYjRkY0ZzZFpXNzA2bWxQbHFZVlpQV1JJLXhrOGF1eVBsRmFwRExmd0dTSm5Oc2FKUjlzX25CaS1QQ1dUT05SV1ZqUzIxLVVKQk5hakU0YVRGWEl5dmlPb3RKeDhUem5Pbm9zZzNxUmtCTG5DeEpEUzZ4LWhqaGFhUTJLWnhfeFdSbzBSRHc?oc=5",
-        "source": "Blog do Paulinho",
-        "publishedAt": "2026-11-01T11:29:48.000Z",
-        "summary": "Debate à presidência do Corinthians não será o primeiro da história Blog do Paulinho",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.86,
-        "relevance": 4
-      },
-      {
-        "title": "Lá na Minha Terra: Conheça a história e os personagens da nova novela das 6 da Globo",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOXzJKMldnLXB0MVFlMEhuN1lxajJXaDh4QTdnQmdlbGVKWGpzRWhXT0o2WVdaZ3BwSkV0YU45N3FxNEg2NHJYUUVuVzFpTGRzRXRuRDNUT0xWSkM0WmlPdUxTM01uSXlJTEduZjVTX01NUDFmOVQwTTVxMENzUVpucDBRUkt6MzJZRUZ2a0dwbTc1NVk3NEYwUVNRZ0taQlZGR0JMZHF6UXhocmM4ZXNDOW15LU94OWZHRmZ3eWplS3p5Zmh1SEw0enJVTEpocW9EbmRGNmhGcw?oc=5",
-        "source": "O TEMPO",
-        "publishedAt": "2026-11-01T11:29:21.000Z",
-        "summary": "Lá na Minha Terra: Conheça a história e os personagens da nova novela das 6 da Globo O TEMPO",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.85,
-        "relevance": 4
       }
     ],
     "geopolitica": [
       {
-        "title": "Ataques deixam milhares sem luz na Ucrânia em meio a novas negociações de paz",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/01/ataques-ucrania-russia.ghtml",
+        "title": "Como a falta de perspectiva de futuro alimenta protestos de jovens na Europa",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/01/como-a-falta-de-perspectiva-de-futuro-alimenta-protestos-de-jovens-na-europa.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-01T10:12:46.000Z",
-        "summary": "O presidente da Ucrânia, Volodymyr Zelensky, durante entrevista coletiva em cúpula de líderes da União Europeia, em Bruxelas, na Bélgica, em 16 de outubro de 2026 Yves Herman/Reuters Centenas de milhares de casas ficaram sem energia elétric",
-        "image": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
+        "publishedAt": "2026-11-01T19:08:06.000Z",
+        "summary": "Manifestantes buscam proteção atrás de uma barricada enquanto a tropa de choque francesa utiliza canhões de água em meio a confrontos durante uma manifestação na Place de la République, em Paris Reuters De Milão a Marselha, passando por Mad",
+        "image": "https://s2-g1.glbimg.com/sHUOXgowH9I98lzZSdSW_GLSFAA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/B/6jCXPmQWWrgAVN8xA0lg/montagem-horizontal-1280x720px-26-.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios",
+          "medicina"
+        ],
+        "score": 7.11,
+        "relevance": 7.8
+      },
+      {
+        "title": "Midterms 2026: Trump não está nas urnas, mas por que essa eleição é crucial para ele?",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/01/midterms-2026-trump-nao-esta-nas-urnas-mas-por-que-essa-eleicao-e-crucial-para-ele.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-01T16:41:31.000Z",
+        "summary": "Por que Trump está preocupado com as midterms? O presidente dos Estados Unidos, Donald Trump, está se esforçando para que o Partido Republicano saia vitorioso nas eleições de meio de mandato, marcadas para a próxima terça-feira (3). O resul",
+        "image": "https://s2-g1.glbimg.com/kdoxkPU3NOd6RfZxJHaqACl7gzg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/A/P9J2u0S2qlMQ9qkV62oA/2026-10-13t154604z-775478900-rc2f2oaif0hr-rtrmadp-3-usa-trump.jpg",
         "topics": [
           "geopolitica",
           "negocios"
         ],
-        "score": 6.61,
-        "relevance": 7.2
+        "score": 6.8,
+        "relevance": 8.2
       },
       {
-        "title": "Conflito Rússia-Ucrânia: Turquia emite alerta e insta ambos os lados a chegarem a um acordo de paz em breve.",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOXFXc2c4cmtQZUJ0WWlONUE1TUxqVUV0VmpwV2U3SUhpVVQxa0pGZXJPbUdZc2E3WkpWcU9Fdi0ycG1SZjZ6VU9wVURzUHJsbEVHMDNUR1htQmRGUjJhMU11allRblJVUlNfSDJZZzdaRjRyTVI5S2Vxejhab3lGTks3S1F2UXcxRFdrRkE3WVNzLWprVzhoTFJpeHpuWC15X09nSG5rWllIYzFydVhxUlAxdElaT3p6bFRvQ3Rn?oc=5",
-        "source": "Vietnam.vn",
-        "publishedAt": "2026-11-01T08:18:37.000Z",
-        "summary": "Conflito Rússia-Ucrânia: Turquia emite alerta e insta ambos os lados a chegarem a um acordo de paz em breve. Vietnam.vn",
+        "title": "A crise de identidade que ameaça ambição dos democratas em eleição crucial para Trump",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/01/a-crise-de-identidade-que-ameaca-ambicao-dos-democratas-em-eleicao-crucial-para-trump.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-01T13:02:31.000Z",
+        "summary": "A visão convencional em Washington é que os democratas se encontram em posição favorável para assumir o controle da Câmara dos Representantes e, possivelmente, até do Senado Getty Images/via BBC James Stevens se autodenomina um socialista d",
+        "image": "https://s2-g1.glbimg.com/t0Tu4Ca4TAJ3xC6Ae3OIR0rt3J8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/t/768BfjTVSPbmgbYT9zlA/eua.png",
+        "topics": [
+          "geopolitica",
+          "negocios",
+          "medicina"
+        ],
+        "score": 6.77,
+        "relevance": 9.4
+      },
+      {
+        "title": "'Nova guerra pode ser mais longa', alerta Irã após novas ameaças de Trump",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/01/nova-guerra-pode-ser-mais-longa-alerta-ira-apos-novas-ameacas-de-trump.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-01T14:18:33.000Z",
+        "summary": "Presidente dos EUA, Donald Trump, e presidente do Irã, Masoud Pezeshkian Evelyn Hockstein/Reuters e Angelina Katsanis/AP Photo O Irã respondeu neste domingo (1º) às ameaças feitas pelo presidente dos Estados Unidos, Donald Trump. Em declara",
+        "image": "https://s2-g1.glbimg.com/cbopWzGrTeYVTJJQ1yClgDXTwlc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/D/QBTSkMRqq2A7jIC50daw/trump.jpg",
+        "topics": [
+          "geopolitica"
+        ],
+        "score": 6.66,
+        "relevance": 8.8
+      },
+      {
+        "title": "Moradores da Ucrânia recebem alertas de risco químico e nuclear; autoridades falam em ação hacker",
+        "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/01/moradores-da-ucrania-recebem-alerta-de-risco-quimico-e-nuclear-autoridades-falam-em-acao-hacker.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-01T21:16:27.000Z",
+        "summary": "Moradores de Kiev, capital da Ucrânia, receberam alertas de risco químico e nuclear nos celulares neste domingo (1º). A Administração Militar de Kiev afirmou que as notificações foram emitidas após uma provável invasão hacker ao sistema. De",
         "image": null,
         "topics": [
           "geopolitica"
         ],
-        "score": 5.97,
-        "relevance": 7
+        "score": 6.13,
+        "relevance": 6.2
       },
       {
-        "title": "Os principais temas das eleições legislativas de meio de mandato nos EUA",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/01/os-principais-temas-das-eleicoes-legislativas-de-meio-de-mandato-nos-eua.ghtml",
+        "title": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjNzaVl0aF9xUVRHdzMyN09Pc3duakNDSldRTUFhdFVUUlZuajB1c3BZYzhZWFU1Vk4tWTJSc3pBUE56a3NpZVNRcjNiVnVEckJCa0YwVWEwSDFEYmMzdXNSdm5UNmExaHJzbkoxQmVMX0REZlZKaEd3VjBqcTJxb3NhaHlrbkpEYWJpOHpPdGR6T0pEZlNaQ25iOVBvOGlab2tzTVdQSWIxc1l0WHR5SWZNeE9SX0RFdVFiTWxLcELSAc8BQVVfeXFMT2tvQ1p0cWRQU1V6R0tpSmljajBldEY0NVlMS0lEOXpudUpsYXlzYkxOc253b1I5VDg5SFhhaGZoODRrWFpSVWMxRHpubHZUNWtycVdPSm9weHhQOGhzTFMzb3VYdUt4aWM0NE5CaDNCRTAyWVdfMWdBd25rdnRFQ2c0dzloNUE3S0JubzBaQk92VTZ6VmhUZW9xSTBuMUNmbDZMMzBkbUh6SXlnTk8xcGVESWNfeXozVVV3YXhQNFpSZF8wUVpLMUlkUGhTYVNF?oc=5",
         "source": "G1",
-        "publishedAt": "2026-11-01T04:00:00.000Z",
-        "summary": "Republicanos tentam se descolar de Trump antes das 'midterms' A guerra contra o Irã, o custo de vida, a inteligência artificial e a imigração estão entre os principais temas da campanha para as eleições de meio de mandato nos Estados Unidos",
-        "image": "https://s2-g1.glbimg.com/VnERSWg7aMhvHgesXYfOL6-ICEc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/Q/AQSVR9QBSCXBpYZGm02w/novo-projeto-24-.jpg",
+        "publishedAt": "2026-11-01T15:08:41.000Z",
+        "summary": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden G1",
+        "image": "https://s2-g1.glbimg.com/z1RtPuTb-1zUhP96XY4hFS1cLR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/l/ABGmomR5anjrrxUfqoug/fotojet-1-.png",
         "topics": [
-          "geopolitica",
-          "negocios"
-        ],
-        "score": 5.78,
-        "relevance": 8
-      },
-      {
-        "title": "Financiamento de campanha: quem leva a vantagem nas midterms dos EUA?",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/01/financiamento-de-campanha-quem-leva-a-vantagem-nas-midterms-dos-eua.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-01T08:00:00.000Z",
-        "summary": "EUA se preparam para as eleições de meio de mandato As eleições de meio de mandato dos Estados Unidos, nesta terça-feira (3), devem ser as mais caras da história, segundo a imprensa americana. Partidos políticos investiram pesado para tenta",
-        "image": "https://s2-g1.glbimg.com/xSNBry6avKZwHOM07fC6sD0ywkY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/f/Ift1avRlqrLCLT5iu7sA/2026-02-25t022253z-61645690-rc2psja8ik34-rtrmadp-3-usa-trump-congress.jpg",
-        "topics": [
-          "geopolitica",
-          "negocios"
-        ],
-        "score": 5.39,
-        "relevance": 6.4
-      },
-      {
-        "title": "Cadê o 'Tiririca americano'? Candidatos 'meme' são raros nas eleições dos EUA; entenda por quê",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/01/cade-o-tiririca-americano-candidatos-meme-sao-raros-nas-eleicoes-dos-eua-entenda-por-que.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-01T09:00:01.000Z",
-        "summary": "Candidatos 'meme' são raros nas eleições dos EUA; entenda Tiririca, Cabo Daciolo, Enéas, Padre Kelmon: ao longo dos anos, as eleições do Brasil contaram com a participação de vários personagens caricatos, além de candidatos nem tão famosos,",
-        "image": "https://s2-g1.glbimg.com/yEdA_C1XKOwLej0KeyjZDN5Xbgg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/X/fxAUwAT7C5aJUhdEWRJQ/candidatos.jpg",
-        "topics": [
+          "negocios",
           "geopolitica"
         ],
-        "score": 5.25,
-        "relevance": 6
-      },
-      {
-        "title": "Plano do governo Trump de deportar afegãos gera temor de represálias do Talibã; entenda",
-        "link": "https://g1.globo.com/mundo/noticia/2026/10/31/plano-do-governo-trump-de-deportar-afegaos-gera-temor-de-represalias-do-taliba-entenda.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-10-31T23:10:54.000Z",
-        "summary": "Carro de patrulha da ICE procura imigrantes ilegais nas ruas dos Estados Unidos (imagem ilustrativa) Octavio Jones/Reuters O governo do presidente Donald Trump planeja deportar afegãos detidos nos EUA de volta para seu país de origem, via P",
-        "image": "https://s2-g1.glbimg.com/FSmgfSvI8FuaJC9f-dZkAQTTvzY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/9/ScMZBNRTSIQsFO0yXoMg/ice.jpg",
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 4.44,
-        "relevance": 7.4
+        "score": 7.5,
+        "relevance": 9.6
       }
     ],
     "negocios": [
       {
-        "title": "Inflação, emprego e PIB: os números da economia de Trump antes das eleições de meio de mandato nos EUA",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYk5EMXhUbVRjSVpyRGVaZm1LWXU1SFpvRjlDeVdoblZjckpQWGJRUFcwV3VQVE5GMkdGVnRZeEd3T1dWMUtubjh1RDNxSW1oVWR4Z3BUVDd4WXJDbkE0QjR5SkJUTC16UTNPamdfX0wyclVSTHJwdHBrVHphUDNFdnBtVEhKdldsTUQ1d1ZYTnhIMk45N0VpWmVieW5GNG5HT2VDcTJKaEhkdlJyc1d0bDl1X2NadlRoa1dkcjF1WVBYSkEzQnhzaURReU9Fek5fcTNGQThfNXMxTXBESy1Mc1JERVBoUmhHN1lF0gH6AUFVX3lxTE5OQTJIZjI3aXVLc0h0X1d4clFEb3ZKaWZDVURtRmdvcUZYTzk1cmdOcUNGRVJ2TURjdng0RWFyRWtMQ0ppR0JFWHhhTHZYbllNTmFxanRjNmVzei11U3E0bTRwNWZ1dW5hdnprME9GWGY5UkdneU5lZEd1cWZVVGFHX2lSdzlSa1U3cWZ5UDlGU1pQSjZMSVliREFrQlh1QS1jWjZEREtXSFJkMGh0RHhuZkhwMUhNbkVHLXVieUNrWVN0MTMxMmd5Y1hSTVp4TEw5MFVkOUVKMkh2N1hjYVE0TXQ4UExLYTZjc0tYVjd1d0JDUkdiYk9hRlE?oc=5",
-        "source": "Valor Econômico",
-        "publishedAt": "2026-11-01T11:00:00.000Z",
-        "summary": "Inflação, emprego e PIB: os números da economia de Trump antes das eleições de meio de mandato nos EUA Valor Econômico",
-        "image": null,
+        "title": "Acordo Mercosul-UE completa 6 meses com alta de 14,8% nas exportações do agro",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR3F6SmhzVXVieUk4T0RYNmNWR0hLZTBIejNxVS1wNzBxbjAzbWpCa0NhSDV4Z3BrX0lQN3Ryc25JMzhkTUliQ0R5OEJrOFdQU1hwb1FsUUpSUDc5M2lHQXVmSGRKWVBZel9zZVhKaXphTTU0a3NwQWhSQnk0ckxhdW9CYUs3dnBxNUdFRFdnVTNhQTRPYVdUMDI1dUFDZGY3SzVBTtIBswFBVV95cUxOVUFSSDJGbGxyaEU4dzdQUFljZDlNQWxfRll4cm85aGFVMVNTZ2FfM0NfUFJmc1R4M1NIM1Z2eDdQQ01icUFGVm9VQ0hKM2pDbTVaSzNaQnlPd012QWxhVWJqNFY0dWNOZl9kSG5MS0JRX2JhSEh5MDByLUk0a0VjUFBWSWhscDNnLWZ4QkRlNkkzeUZIR1BoekpxcDN2SEoyeTRFdngyUndoU3lhZThzVnFhWQ?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-11-01T18:14:59.000Z",
+        "summary": "Acordo Mercosul-UE completa 6 meses com alta de 14,8% nas exportações do agro G1",
+        "image": "https://s2-g1.glbimg.com/qTSMFWSRWB7it_uYgT4TAZZU4SY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/f/F/53ffZoRAauZt0D3F1leg/016-imagem-de-capa.jpeg",
         "topics": [
           "negocios"
         ],
-        "score": 7.94,
-        "relevance": 8.4
+        "score": 8.63,
+        "relevance": 9.8
       },
       {
-        "title": "Mercado revisa projeções para 2027 com queda no crescimento do PIB e aumento na inflação após reeleição de Lula",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORkNZRFZjWjNWWi0zd3Z6N291QU5nYVlIZVVoUF9jUk52b2FONTl2MXV0OGhMak1NWVc1dE1CdF9tZkRpOHhwTXJ1QmdidmRxdm5KMlNKZkJhY2xZcVZCR3l1akVueXprS216UUF2U2lDRldUZ051ZFBkUUFySDY4QjVSbDd0UzlUb1EwcA?oc=5",
-        "source": "Rádio Itatiaia",
-        "publishedAt": "2026-11-01T11:21:48.000Z",
-        "summary": "Mercado revisa projeções para 2027 com queda no crescimento do PIB e aumento na inflação após reeleição de Lula Rádio Itatiaia",
-        "image": null,
+        "title": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjNzaVl0aF9xUVRHdzMyN09Pc3duakNDSldRTUFhdFVUUlZuajB1c3BZYzhZWFU1Vk4tWTJSc3pBUE56a3NpZVNRcjNiVnVEckJCa0YwVWEwSDFEYmMzdXNSdm5UNmExaHJzbkoxQmVMX0REZlZKaEd3VjBqcTJxb3NhaHlrbkpEYWJpOHpPdGR6T0pEZlNaQ25iOVBvOGlab2tzTVdQSWIxc1l0WHR5SWZNeE9SX0RFdVFiTWxLcELSAc8BQVVfeXFMT2tvQ1p0cWRQU1V6R0tpSmljajBldEY0NVlMS0lEOXpudUpsYXlzYkxOc253b1I5VDg5SFhhaGZoODRrWFpSVWMxRHpubHZUNWtycVdPSm9weHhQOGhzTFMzb3VYdUt4aWM0NE5CaDNCRTAyWVdfMWdBd25rdnRFQ2c0dzloNUE3S0JubzBaQk92VTZ6VmhUZW9xSTBuMUNmbDZMMzBkbUh6SXlnTk8xcGVESWNfeXozVVV3YXhQNFpSZF8wUVpLMUlkUGhTYVNF?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-11-01T15:08:41.000Z",
+        "summary": "Por que Trump enfrenta o mesmo problema econômico que derrubou Biden G1",
+        "image": "https://s2-g1.glbimg.com/z1RtPuTb-1zUhP96XY4hFS1cLR0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/l/ABGmomR5anjrrxUfqoug/fotojet-1-.png",
         "topics": [
-          "negocios"
+          "negocios",
+          "geopolitica"
         ],
-        "score": 7.1,
-        "relevance": 7.4
+        "score": 7.5,
+        "relevance": 9.6
       },
       {
-        "title": "Sebrae Rio e GrowHub promovem encontro para conectar startups e empresas de tecnologia da Região dos Lagos",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQakpBOUx2aGw3TzBud3NaUldXMTUza3lhNm1FS3U2cWh0RjI5RWhhSDNFSmU5TnVCX3ZwYl9RMlRIbmVqYnZzVlBvc08tMFIzYTd0M1loYkM2c1Q5aG1yUTR4XzRSa1ZIMnppYU1BdnZ0bUhRUV9XWGlRenJzZlZJM2E2SlJ3SzNwbGVYQkdfZG9CRWJQWDFKVDVSLXh0aFp6VXZJR2o5UXNpb3p3cUN4Zk5sNlpZOGhQOWlpajE0VFd6bkRwdjVWdmthT0diZw?oc=5",
-        "source": "BOMBA BOMBA",
-        "publishedAt": "2026-11-01T12:06:00.000Z",
-        "summary": "Sebrae Rio e GrowHub promovem encontro para conectar startups e empresas de tecnologia da Região dos Lagos BOMBA BOMBA",
+        "title": "Exportações do agro brasileiro à União Europeia crescem 14,8% em receita após acordo com Mercosul",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObmhTRmpoYmN0MkNMTE9ianlITGlGbDdtYjR4MEtTR0NiUjlFdnBETTFsWC1kTUZERWNVUFlLWjVYTnhSSFM2OWpicl9WYWZXM2tIS2E5LXJqQ29YUXMyMUx2VHpucXAxS1kxcGlydVRZUEU3RzZOX09tUUt4aXo4b0hlbndlcF9xM1BMdzZKejdHbzBnMUFjTll6dWJ0S255S0U3RUtKVTlDRDBsLWNGa0hIZ1N5b0Y1MndGakRXeEQyOVJBckNtLTBVMERoNlhpRkhscWV2cC0tY21ROEHSAeMBQVVfeXFMUEM1elF0RVlPNFRuaklYSFhDUG81M1kyQTdiQXJSTFVEbGNGMVNDVlphY1JsYXg1NTduZTBBMFQ4UFptTFB5Z3BLTGxwNFJXeG5hT2ROY3Z2S1ZPd2l2VEdubWJhSG5XTC1Ea2FSVkVYS0dENHhGTXF2VTUyb1VoaFFXeUdCcGNzemVzZnBCeXJkc2NnSW9KWTY4UzItS1VkYjJReExVSDl3b1F2cTBfYWIxRElEVXBYREFIWV9vbEJwOGxNU2M0SHN0c0huN1hMVTJBbFV6Tm91RXYtOUpxLTY5VHc?oc=5",
+        "source": "Estadão",
+        "publishedAt": "2026-11-01T19:22:00.000Z",
+        "summary": "Exportações do agro brasileiro à União Europeia crescem 14,8% em receita após acordo com Mercosul Estadão",
         "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 6.91,
+        "score": 6.43,
         "relevance": 7
+      },
+      {
+        "title": "Brasil, oitava maior economia do mundo com o peso do agronegócio",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZnR4dkptaW1hb3VkYWIzYlBtaG9qUUNrX3gwakZyQ29iTnI0YUo1MENBRXJuU0ZDUHVnOW5EblZySm1Uay1GMmdrNGtybnlCZkRhaEVSZ3J1cWRNWnhOYU05dS14cHhLNTczVXFBdDFjTnlReThuZC1FLVp1dnJjT3hYY2EwQnZGV2pqSkFjY3ZxVjQyeU4xZWpqXzcxejI4bXY2NA?oc=5",
+        "source": "Paraná Portal",
+        "publishedAt": "2026-11-01T18:57:09.000Z",
+        "summary": "Brasil, oitava maior economia do mundo com o peso do agronegócio Paraná Portal",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 6.33,
+        "relevance": 7
+      },
+      {
+        "title": "FBI acusa Coreia do Norte do maior roubo da história em criptomoedas",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQanpNSktCMnNnMEdfN01nU1VmVjBuNVFoeWNBWDJnN3U2Y2pvY050cTNkb1ZpYml0Q284UThicU9CdGcwUXZ2YWNlZFRLS2M1OENUSDdJRGFPN3QtdDRfZk02bjRMMjhhUU1LQXJoTlpkNDcxaUhfVldwdGdTRzZlV2Nxb1hBa0d0Y0dVd18yOTA0M3RKRGdRMnlrbEo5ZEx2ZlZkVTFvdlpHSFNfSDJja1p6dVlMdEN6YVhfck44RXBoNFIxZEwtVTF6MXhCU09hT0hiMUJRbzJzZw?oc=5",
+        "source": "UOL Notícias",
+        "publishedAt": "2026-11-01T14:42:00.000Z",
+        "summary": "FBI acusa Coreia do Norte do maior roubo da história em criptomoedas UOL Notícias",
+        "image": "https://s2-g1.glbimg.com/bdmnrkzkH-Ez5XHUVIqO7iLyH2c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/A/AcfbByRrGDz98GphwNlA/kanchanara-wlvog4wcqru-unsplash.jpg",
+        "topics": [
+          "historia",
+          "negocios"
+        ],
+        "score": 6.3,
+        "relevance": 8.2
       },
       {
         "title": "ECONOMIA 💰 A combinação de juros elevados e incertezas sobre as contas públicas pode pressionar ainda mais as empresas brasileiras no próximo governo Lula. ⁣ ⁣ Segundo estudo, 26% das empresas de capital aberto não conseguem cobrir suas des",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tb3JYTW43T093VW1fbmJXbXNxbl9hc000clVNejNjODlwR2lWdVp0ZXFpVmMxeHlCSUFpZ3MxY2ZGQWk0Z0d3MnBfM01mSVE1bEE?oc=5",
         "source": "Instagram",
-        "publishedAt": "2026-11-01T11:42:50.000Z",
+        "publishedAt": "2026-11-01T17:47:26.000Z",
         "summary": "ECONOMIA 💰 A combinação de juros elevados e incertezas sobre as contas públicas pode pressionar ainda mais as empresas brasileiras no próximo governo Lula. ⁣ ⁣ Segundo estudo, 26% das empresas de capital aberto não conseguem cobrir suas de",
         "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 6.8,
-        "relevance": 7
-      },
-      {
-        "title": "Empresário Roberto Santiago elogia Bolsa Família e diz que programa fortalece economia do Nordeste",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWEzeVVnc2hyby1hV09mMW02Ull2RWdjVmFfYUFGNmsxUUkyemVOM2sxeGQ0cFRqbk1PZnRSUFdBdzNfXzU5OWx4amxrZWVxSUp5cUpDZ2Z1UjRreVZZakJLNmlyWnN5TzFEWlhaMl9hdlBCY21lSWtQdWZ4Ul9oX3h4TVc3S1ZUNmpHZF91dm5OMUxXSF96QzQ3a1Jub2xUTzFJV1Q0Vmt5RXF3aVFhVW5yWVZZVC1NT19lck1KQUxCWk5jcVE?oc=5",
-        "source": "Poder Paraíba",
-        "publishedAt": "2026-11-01T11:29:41.000Z",
-        "summary": "Empresário Roberto Santiago elogia Bolsa Família e diz que programa fortalece economia do Nordeste Poder Paraíba",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 6.75,
-        "relevance": 7
-      },
-      {
-        "title": "Economia: Mercado prevê inflação de até 6,1% em 2027",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNURnTnpjU2VKU1hkU1hTWVQxQnVSVk8tS3I3c3FXN2dPdzQ3WjFIdzdzbENuVkw1bTl6UjBKNkZkN3lGWGRfRzJrcDlqQmUtcktXeHJXa3F0U2ttbmlKMnpWZ0s5QzREUzltOFhMS3NkMEh5YTY3ck1zb0drQ3hNcV9Vc0JCOGRQSjVTX1czOUMxOHExY3pV?oc=5",
-        "source": "Portal Terra da Luz",
-        "publishedAt": "2026-11-01T10:30:46.000Z",
-        "summary": "Economia: Mercado prevê inflação de até 6,1% em 2027 Portal Terra da Luz",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 6.5,
+        "score": 6.06,
         "relevance": 7
       }
     ],
@@ -923,12 +932,38 @@
         "topics": [
           "filosofia"
         ],
-        "score": 4.44,
+        "score": 3.13,
         "relevance": 5
       },
       {
+        "title": "O que significa o provérbio da filosofia chinesa: a vida nasce da aflição e a morte vem do conforto, a lição de Mêncio sobre os tempos difíceis",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPX0psVUFSRExmTDJYZWowMzBhRExGcE9aTUhxdFFFMUpWVTd4MmlwVmtpaF80SlVqMTdsdS03M0pObmZBUnpHRV9FemhkdlBQdS1oRlZwSGQ2T19jZURPdExVVWlrRkc0RGNLdm1laHBWOXFIQWsycTQ3RFN2NEFLOFJ0d3ZPRGp2eVNENldmaVUzNXlhR1pPRTVEZnBIcHhzYWVPbWhackg5d0tzWG9xUUczaWItc2NxMjFQMkFxLXpTVnV1aU1RTXlTZGF1MW00MTRfdzF5dmlvaVoyMEtVN1hNNURGODc3LWVTbWVVT3UyMm5ZeUE2RElVSVlxLUtiR1NWRlA1ODJ0TTNOMVQ3OEoySlRrN0J6?oc=5",
+        "source": "Revista Oeste",
+        "publishedAt": "2026-11-01T14:06:00.000Z",
+        "summary": "O que significa o provérbio da filosofia chinesa: a vida nasce da aflição e a morte vem do conforto, a lição de Mêncio sobre os tempos difíceis Revista Oeste",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3,
+        "relevance": 4
+      },
+      {
+        "title": "Camus imaginou Sísifo empurrando a mesma pedra sem parar: a resposta filosófica ao absurdo que não promete felicidade fácil",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVmFkQUI4N3RLeUswMGhwXzh6dGJtaWJaWUZqZFNTbEY5NDc2UlFRTXFfTUVmMzRPUC11Z3lNWFVUclZ6Rkw2bzFxR2ZHU0EzYnZmSk5SaEJBM3gyamtKU01vQldKcTRNOFBZM2Jra3BqZmw3dnhSek5FWlBhMHY1ZWlWXzQ5Zm5JUWZaTnpxbXdpd3JQeURxSHhvVnU4MjFfOFM5Nnh0SVkyQXNPVG80ZTJmWlltbnRBS2pQTkt2N2s0Skw2OVFyNVljcThjcjdHMmZhWS1LTEhNMlpQVHF4MWpjVk1WdHR3dnc3WlI5ZDJYd1ZjWGo3aE5B?oc=5",
+        "source": "Portal UAI",
+        "publishedAt": "2026-11-01T20:11:00.000Z",
+        "summary": "Camus imaginou Sísifo empurrando a mesma pedra sem parar: a resposta filosófica ao absurdo que não promete felicidade fácil Portal UAI",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 2.85,
+        "relevance": 3
+      },
+      {
         "title": "Lao Tsé, filósofo chinês, sobre a felicidade: \"Quem não é feliz com pouco, não o será com muito.\"",
-        "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQeW5OZURiMVJNRVpkZFZaUHZlemdVOFVONWFQbkNXNGZTTTFRUjdDeTRWUWlDaWhtOGwyaFN5T0hSUThnZkFvRE5kWVlMNVR5UXJ6R01wbjRUWml3MXFGN19ZNWNvNldOQnFRRmJBRmdUU2taeFZjZEZjTDhzb0NUOWdpSjRHZmRhR1ZVemM3Q29fSGh6RlA3YlVEUzdmcnVyeExhRFRvaTFVSElCRnE5ZUdycHRlLW9peUpaWFNnRkdWMGFPRDctRHRtdXRSUWF0eFUwbTVqSDZjWmE4RWZka2g0S2xCZXpwZ2lVcEdkck9TRS0yTGVlR0JnbVNrNkhsTGJhVDBRUlFuankwVFAwaTVkeUQtQWlqVGloOGJadDlLVU5ySDVpaGFWYUdzZi0tYW9VdGpmU0o2cm1ESDhoUWNVTGtEVUJLTEZNOU93cFM3NE93VW54Mm0zcGlVY1RpWTlRczMtbzBvUkZlaVFUcklTNm5aZVZQSXZrZmFrRUxRclFW?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmpCTURDZW91WXRjMW9OOXQyMk5iT0VWOFhkejJac2d5b3hxNHdPWTgyLVNQNFJOQWdaQVVSejVZZ3ozWXNMcjZ4MXRzMXhVTU1qU21SRDdIYlBzZEw2SW1MM2FjRTMtZ01ZejJOVkxiTkFxdENHQndsTDU3aEJKeUwweXJPRWsxMWplNjdxaWpNYWstM1dWTEE0NHpLYWVQV1lSTF9UTE5aamNEZWo5WDl1clM0S2FBd2I2LXM3bFBha2k4YXBj?oc=5",
         "source": "Catraca Livre",
         "publishedAt": "2026-11-01T11:54:05.000Z",
         "summary": "Lao Tsé, filósofo chinês, sobre a felicidade: \"Quem não é feliz com pouco, não o será com muito.\" Catraca Livre",
@@ -936,63 +971,63 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.92,
+        "score": 2.76,
         "relevance": 4
+      },
+      {
+        "title": "Edgar Allan Poe deixou uma reflexão sobre as quatro condições para ser feliz",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEhjRTR6RFlfU2lyWmFua2xnWk0teEVHcVkzckxOV3QxM0NSQ3g0TjdhZ0MzSWhtOG9PZS1yajVxakpOeFI1WFlPVnJMMFhocUttMlU4QWl6c29GdWFETGR5dUFTTDNwZ09SNjhUZXBRWTBNenVMTURXcHR2WXAyaDBRdnlocGZfYmZxbmZSZDc0RVRza196LTlZLVhhSUxTWnE5VFM0WWJ4Q2FHbnhXbEdrMnhndw?oc=5",
+        "source": "Correio do Estado",
+        "publishedAt": "2026-11-01T18:16:00.000Z",
+        "summary": "Edgar Allan Poe deixou uma reflexão sobre as quatro condições para ser feliz Correio do Estado",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 2.64,
+        "relevance": 3
       },
       {
         "title": "Dia Mundial do Veganismo: conheça a filosofia que vai além da alimentação e propõe um novo olhar sobre os animais",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdVVmOVRvOW5sZ1F6T0hSMHBnZGFfWDBSbkpYcFF0b0hoT215VWRTak10MmcxY3RpV3l2SmZMWF9sTEQ5SHZJRFNnLURGeV8zN2htR1M1aEJCMnE5Y0VBejE3ZC1tOVpyS2I2MTRPcXVJeEZNNXRvQ1lvMVljWnczTGxpMUdtaEN6RXM5bGJSdUVBT2NFOHRIVkRYV2xVXzNVZVVGSG1SaVZGb0VzRXpiZHJZRmljRTZSZDRnQ0dvM3duNVp5YV9qOFNRdVp5RmREeHY4?oc=5",
-        "source": "bomdiasc.com.br",
+        "source": "Bom Dia SC",
         "publishedAt": "2026-11-01T10:00:00.000Z",
-        "summary": "Dia Mundial do Veganismo: conheça a filosofia que vai além da alimentação e propõe um novo olhar sobre os animais bomdiasc.com.br",
+        "summary": "Dia Mundial do Veganismo: conheça a filosofia que vai além da alimentação e propõe um novo olhar sobre os animais Bom Dia SC",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.64,
+        "score": 2.56,
         "relevance": 4
-      },
-      {
-        "title": "Proposta para integrar valores e conhecimentos filosóficos na educação geral.",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRTdPOUk4bmJVNlNXSUF0cTNrVE5SZWxiTDZJYmI1XzBMbUdxYW9hZEw1ZHhKX2lQY0J0T1c3dDRDMkpOU01TOVNfLWt3THB0eFlETmR1c1J4Ym56dXhhMWdkc2c4QzRqV1pTNTZlOHBPUjRtOHBoVkRNbDFsblZpNjk1S3AwNlhPbFNHQ0dzSUlYSk9iUUdQdkFFMA?oc=5",
-        "source": "Vietnam.vn",
-        "publishedAt": "2026-11-01T08:36:37.000Z",
-        "summary": "Proposta para integrar valores e conhecimentos filosóficos na educação geral. Vietnam.vn",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 3.45,
-        "relevance": 4
-      },
-      {
-        "title": "Friedrich Nietzsche, filósofo alemão: “A capacidade intelectual de uma pessoa é medida pela quantidade de humor que consegue utilizar”",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdDVlX09lbHpUbU1jZUpKVFRVUGdXdGtLX0I2c2lqSGZQa29fMDVHNGFpUWJBTFRXOVlIS1FuUEJWMExUNzlnS3IwRWQ2MkdnQjZKVEdLUF9Yd3Z2THVqTjM3bS1OTEVRcEtyR1FxMVNvdFpLY0pTRy1qY2I2Z2hQcGFjQjV1NVVDUlVmXzBwTVRWY0lHNFZGenQyclRoMXJ0cjBmSnlFR3BRT01Ha2FxLWFSRkVURXZBUzdfNW1uMlF6OURPczVoa05yTHVBbnk2MHZjSF9lVzRTbDR0bEc5a3l5cDFqWjlRMmdsRGJpVEVLM0tJTnRaalhPZXRCbGV5TXhBNmtzRVQ5dw?oc=5",
-        "source": "Revista Oeste",
-        "publishedAt": "2026-11-01T01:50:00.000Z",
-        "summary": "Friedrich Nietzsche, filósofo alemão: “A capacidade intelectual de uma pessoa é medida pela quantidade de humor que consegue utilizar” Revista Oeste",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 3.32,
-        "relevance": 5
-      },
-      {
-        "title": "Kierkegaard, filósofo dinamarquês: \"A ansiedade diante das possibilidades é a prova mais clara da liberdade humana.\"",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeVEwVmFzOE4wa2J5U2g1WWxleHZSc3dtNkQtQVBNM2dHMUxSbVRmZVd0Z0wydDIwMkZSaW95a1lES0RBMFlmSDdmSGZBZTFiaVI2R0E0X3VnWGdIb08yNVB2Z3d4eGhUeGRabVRlbWVaX3hkdDNTNkstRHdOZmxGcmgwYVMtd1puYWJvRUxWVVpBWFZKbTRGbw?oc=5",
-        "source": "Correio Braziliense",
-        "publishedAt": "2026-10-31T22:47:00.000Z",
-        "summary": "Kierkegaard, filósofo dinamarquês: \"A ansiedade diante das possibilidades é a prova mais clara da liberdade humana.\" Correio Braziliense",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.95,
-        "relevance": 5
       }
     ],
     "cinema": [
+      {
+        "title": "5 filmes com Nicolas Cage que valem a pena assistir no streaming",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYWtPSHU0REhvdm8zdHFSMlpwX2twZUt0NHFJWEFOaGxONl9WbjRReDUwSHZEQ3VzUFdISEh4U0xfeVJENjBkREQ1T285YVlzRUpJTGNUVnhDMGxOUmFzNkVaSUtaNlRfM3Ntd2VWVlJjbWZOdmFpYUE0V2ZnNjBNRHhDMV8?oc=5",
+        "source": "Séries em Cena",
+        "publishedAt": "2026-11-01T19:51:00.000Z",
+        "summary": "5 filmes com Nicolas Cage que valem a pena assistir no streaming Séries em Cena",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.99,
+        "relevance": 6.4
+      },
+      {
+        "title": "Festival de Cinema Francês chega ao ShoppingSantaÚrsula com 19 filmes",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbjVDWk9RWXYzVVZrWC1BSU9HckNwMWpmOVZYLS1DZVRnbnk2OTdnR3lpSlNnZFZwOGV2bGxXcktIWmhmY1c5cEdXMnZlRnN4WmE1WWRCRUFBMndFWlRzMUNZTWpDWTlHQmplOFdhQkRLR3FIVEhrN0ZLTG5GTU5ZNFpVaklNQnhDTGlyb3ExMkwyeW5PaVdLZnktUWFiV3FvMVRWNHY0OTFRRkxTY2tfcjhqbTFoOW45cUpqd2NSQ1Ywdw?oc=5",
+        "source": "Jornal Tudo Aqui",
+        "publishedAt": "2026-11-01T13:58:00.000Z",
+        "summary": "Festival de Cinema Francês chega ao ShoppingSantaÚrsula com 19 filmes Jornal Tudo Aqui",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.97,
+        "relevance": 8
+      },
       {
         "title": "Apple TV: confira as estreias de filmes e séries em novembro de 2026 no streaming",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQkd4NHhIRmZYaS1mMmhSRzhrZnU0U1JoQWRrVlVhSlZINER0eXJ5MFdTOW4xVVlIN2t3cXo5NEJEajZpMGxpVW5vQXhqQUx0TmF1OURuY2RlMURkb3RfSEIyWEx6NGFIdEpiOVhBRG4zU3VDNXpieWpjV2gxYUt5b1VTUXJsN1ZxZXBQSGVRZjVKV1BVeHBCNE54UDZVMEg2SjJYcVA3RzFEMzZSMzZxQVZDZmFuVHBnUkpxdFppUUhFRjA3RERCampDNFNtMXg4dk84OEZuR0J2TWpMdkIyb3VB0gHwAUFVX3lxTE9GRTlaR2pXV1FqSERiMFZkWTBnV2dGVXlGZ1RlbFJxdzU3MVNTeWJFV0RudTZnSFVrdVgzMFJCbnZfWXlrc3RSRm1MRDk4aHRDZmNBMU04NjdwUnVxcjNBLTlXTTNXejd4S1BOeHlCOG9HUDQ1dDBTbzVPMnJuTncwbE8wdnFiR1JXcURuZlZuT0JTbUZiVDI0V2Vtc0ZtX0FnQzk4U29jMU9Ka1JObXltNjVLdDZ1R2hXcUtLVmtQVTZEZ1NRVy1ublNfUDg5TWw5S3ZlQ2o0eF9xcWZxVmJUNlp5b2hxVjRwS3ZpOEEzag?oc=5",
@@ -1003,154 +1038,129 @@
         "topics": [
           "cinema"
         ],
-        "score": 8.03,
+        "score": 5.66,
         "relevance": 9
       },
       {
-        "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Disney+, Prime e mais",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa2VCZ1B2QnZzRGlEa1FBRWVWcVRrU0pYdHRUMmZFOHZwTnZPODVnMjM5QkJJVVU2aEtab3VteVU5WHVWenFlWmh3REhyX3l1LXA3c0JRVFgycWhNelo3Y05tcEdRLXpKM1poaXBsWE9xTFR6SUJYb250Y21qVHBRdWozSHRKV3EwNWsxWC1Ya3VENmJVR1RsblFfaXNsM1Ixc0RDTUhWS2oxUE5ZZUlBSENQbXY0ME5naVMxamdENGlLQmhUbndSemxXeEVZaUcyWnJ5WUxuV0NIM2pVSnNj?oc=5",
-        "source": "Estadão",
-        "publishedAt": "2026-11-01T07:06:34.000Z",
-        "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Disney+, Prime e mais Estadão",
+        "title": "Mônica Bergamo: Festival de Cinema Brasileiro na Rússia terá comédia com Fernanda Montenegro",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMHBoel9HaUwxdXh2dTdnNjVNaERaQXhManN6R3V1aENrUU11cXR5d00yaWlOZ1V6Tm54S3JGSnhWNTdGNnBraHVuVTVGdV9WeXl1Z0FQS1JpcjhQWkxPRG1hVjlPZHFZWDNZbGN6Sm9RZlJnMTFXa0V3ZkFWS1ZIbWc2OFh0czRSZGRtTW1jUjUxaEdyQWVhd1VYN2VLdFlZM3BJVi1yZVdudHVMUEJRNTNVRWNoSVVPRG0xYWpROHZmbzVMM0NqcHNHdGxObXg4M2sySkRvZGNLQQ?oc=5",
+        "source": "Folha de S.Paulo",
+        "publishedAt": "2026-11-01T20:00:00.000Z",
+        "summary": "Mônica Bergamo: Festival de Cinema Brasileiro na Rússia terá comédia com Fernanda Montenegro Folha de S.Paulo",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.51,
-        "relevance": 8
-      },
-      {
-        "title": "Filho de 15 anos de Javier Bardem e Penélope Cruz estreia como ator em filme favorito ao Oscar",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZHFQQkYyUzdVRXBDR1FnVlRFNjIxSndISU9qZGNWem01dzVQbUhUVXFkNTRWYVBoY2dqUkZNbUlaWERaeVdiN3hkbV9rMDVaSWRJNW5sek02SnBtTWdldFZqNHY4LXVLcVRMZVRPQjVBY1o3WlJYVjJnVExaZGx0MGpocHNicWhjelRoRzlWQnFGeHB6enRKSlJiT0U3eG9vWVMxR3R4LUFqelJWU01SVGNpRTVBeVpQcVhvZUJsWVFUcnlOazQwUkdSZS1EUk5VOWFZb09Uem43cGVqcTN4ODBkekhUN0NXOGfSAfgBQVVfeXFMUFdSOUxQMHVDNXJONjl1NmNuUW5nZnNJZlNab0VHNDU2cnFKRGJ1TTktSDlYa1NVUVk1RFN2a1I0VklSMjEyalZoNVJaWlI2STFZeXNWQWVHU01Pd3p2VmpzYXMtXzBoRUkxSWp5MkRJTlVUOUVYUDZSNTlGNmVhOTg1dUhsNEs1VlRqUlFVT3otUEhTa2pZNHJmdmRDWF9mVHZtcjFQMW1qT2c1dXpfdDNnZERXa0piUDZiVkJ3dS01M2RxQTZNODI1OXNyTGEwY1lzcXVRZzdJSTk1YzlwZDFEc2hXSlZCVk9zeHdJSmFVU0Y5Qy1NdnU?oc=5",
-        "source": "Globo",
-        "publishedAt": "2026-11-01T08:37:03.000Z",
-        "summary": "Filho de 15 anos de Javier Bardem e Penélope Cruz estreia como ator em filme favorito ao Oscar Globo",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 6.04,
-        "relevance": 7
-      },
-      {
-        "title": "De 'GTA 6' a 'Jogos Vorazes': os lançamentos de filmes, séries, games e álbuns de novembro",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkpWaThlMWUxbTg1WGUyUVVseTVVSzA1Y3JWcFo0VU15bXhFR3ZpTUtaTU4zZm5DZnBqQ2xsRUw2Qk4tcEVKdDltSU9wRFdSVjk3LU94YzJ5eEZDOEJGeVdNZ3Q2UFVnQlpkQ001SGE0bmx3VGlpTy1mamhBYjBlNmJuQ0VPSUVkcjBRSEIzSElDalBHWUxvU1ZhMWxMLUU1VHRLQmhITC16dw?oc=5",
-        "source": "Exame",
-        "publishedAt": "2026-11-01T12:04:59.000Z",
-        "summary": "De 'GTA 6' a 'Jogos Vorazes': os lançamentos de filmes, séries, games e álbuns de novembro Exame",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.92,
+        "score": 5.65,
         "relevance": 6
       },
       {
-        "title": "Oscar 2027 - Santos recebe pré-estreia exclusiva de “Cavalo Selvagem 9” em Santos, filme premiado em Veneza e cotado para o Oscar 2027",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPcjhhUFlTUFc4ekxkQWpZRk9yTVdhdHhQNDNZeEpicElKUHZ1MDhySC1xeFpVS2FBX0VVYVlEWEVib3VxSlhCQ3pGeWYyeVF5T21aZENmZUplbHM2N0lReXFoWTBIT0xxbGtIRUtsV2tPT0ZBcDBZS3E1TEVrODJHN1dENG0tNGxTREJ1THhJMldhMzNxSGQtZ01hT3lYR05ILWVuazJ1V1RabjQtakJmVFRMQm1MMWxGbWpHN0w5YjJ4dDFobXNDUW92ZE5Ud3c1Z0xhU1M3VEp6YXk3aWdWN0k5MllIYWZyemY2RzY1V0NDSDdrTG1ZejVpOHdqbWZsVG51LThuM1BDaGs?oc=5",
-        "source": "BS9",
-        "publishedAt": "2026-11-01T12:01:54.000Z",
-        "summary": "Oscar 2027 - Santos recebe pré-estreia exclusiva de “Cavalo Selvagem 9” em Santos, filme premiado em Veneza e cotado para o Oscar 2027 BS9",
+        "title": "CineSesc terá sessões gratuitas do Festival de Cinema Italiano em três cidades do Tocantins",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOE03ZFhpVUVxT25HOVNabmczY1c1aWdlUGptbWRxUkpGTUNCdWoyQnE4TFE1SXdQRzdLTmJ2NG9MZTJaTWVfdlFKN29wdGZwX1RDbWtaNF9HYlRVX2NYeDFwQXFpNFdaUURxdndnbkdpMUlhRW9pNlRseHdQMGJXbDFGRkR6SEhtX2ZJV2wtRmpBS2Zqbm5UdmtNakdIcDRWUzdDQ3I3Y1NKd0dGZnpiNGs3U3BXOEczUWJjVWNJeDhpdTJES3N1djBjUXFtZ21Xb2Z4OXJkdExWRHZ6Qnc?oc=5",
+        "source": "Jornal Opção | Tocantins",
+        "publishedAt": "2026-11-01T19:21:00.000Z",
+        "summary": "CineSesc terá sessões gratuitas do Festival de Cinema Italiano em três cidades do Tocantins Jornal Opção | Tocantins",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.9,
+        "score": 5.51,
         "relevance": 6
       },
       {
-        "title": "Série de ficção científica da Netflix traz mistério envolvendo vulcão e pessoas desaparecidas",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZ09CRnUtaXVxTzNWZU5EeWNsN1dfWjhmenFmOHZEN2NhY2FSVGxYeTVNcFdvVUdPcWxyMEo0YVc4NGF5TXJFeUVFa1RIazFrOXBDQnBwcGhLTUZKVUdSdG1VYklqbjdYMkN2QlJxYVQyS1pUSHdIZmV1TUNqTVhfMU9McXEwSEZFaV9NU01RRDc5a1VFOUt0Qm9GaVRmYjRkdlpsOUxWX3pYY1I0eVJ5eTVxTFJyY3FjYVJwR1NfM3JQaTNWZWhHQU5fZG5sQ05DcVU40gHYAUFVX3lxTE42UGg0UXpjMHRtd3hiX3lBb215U1NhTndibkRiaXFmQm5CSHpVWEs4SGZXamR5TnBmdjVvNncxclJodFUyZ0ZxQjZCX25ENnpDM3NwTzNEYkpnTFdyRXRuX3oxYWw4czc3ZEJVazlBNnY2RWNkUE9QSWpFRWRvQ0FVMHlNc2Nua3ZRZlNzQnpUV1BBNmhETjdxZXRJY2lFUkRyWEcwN1lZbkY3TWRFQXpJXy1QVmZ6UEVETVllQU5WN3dWWkUxbXlqRzNMQWhnV01pYUVvdERFTg?oc=5",
-        "source": "Observatório do Cinema",
-        "publishedAt": "2026-11-01T12:00:00.000Z",
-        "summary": "Série de ficção científica da Netflix traz mistério envolvendo vulcão e pessoas desaparecidas Observatório do Cinema",
+        "title": "Minha Melhor Amiga: veja que horas o filme estreia na Netflix do Brasil",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb0Y1cTJ3N2FXQU9jZFBjUWFmc1VtT0lRbkZxdmFFWXdGaHlUdk80cXZ2TFNmaGdrM2pMY2xPYWRqT3UybWtDdkhnRFFYRGhpTFFHQ3FOQTRGUnZDSUdwSW1NS093YXpmVlJNdE1famNVOGh5RF9pTzlhV1o5X2QzOTl1T3RYZTA?oc=5",
+        "source": "Séries em Cena",
+        "publishedAt": "2026-11-01T16:12:00.000Z",
+        "summary": "Minha Melhor Amiga: veja que horas o filme estreia na Netflix do Brasil Séries em Cena",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.7,
-        "relevance": 5.8
+        "score": 5.21,
+        "relevance": 6.4
       }
     ],
     "medicina": [
       {
-        "title": "Comprimido diário alcança resultado inédito no câncer que mais mata no Brasil e muda futuro de pacientes",
-        "link": "https://g1.globo.com/saude/noticia/2026/11/01/comprimido-diario-alcanca-resultado-inedito-no-cancer-que-mais-mata-no-brasil-e-muda-futuro-de-pacientes.ghtml",
+        "title": "Confins confirma primeiro caso de mpox; Minas Gerais registra 33 casos da doença em 2026",
+        "link": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/01/confins-confirma-primeiro-caso-de-mpox-minas-gerais-registra-33-casos-da-doenca-em-2026.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-01T08:00:00.000Z",
-        "summary": "Antes e depois de três meses do tratamento com medicamento para câncer de pulmão Divulgação Durante décadas, o diagnóstico de câncer de pulmão avançado equivalia, na prática, a uma sentença de meses. Hoje, um comprimido tomado uma vez ao di",
-        "image": "https://s2-g1.glbimg.com/-niOJjdnT3ATzw3takQraZObTQ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/b/BwemDcTLqhXTNMGGwrVg/design-sem-nome-4-.png",
+        "publishedAt": "2026-11-01T21:04:53.000Z",
+        "summary": "Fachada da Prefeitura de Confins, na Grande BH Reprodução/TV Globo A Prefeitura de Confins, na Região Metropolitana de Belo Horizonte, confirmou nesse sábado (31) o primeiro caso de mpox no município. A informação foi divulgada pela Secreta",
+        "image": "https://s2-g1.glbimg.com/TRcEGTX1Pu4Ps0SL94JLl2LZ8U8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/b/g/xUBTMHSZGeqMEByBkH3A/confins.jpeg",
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.52,
+        "relevance": 4.6
+      },
+      {
+        "title": "SIG Saúde da População Negra: Intelectualidades Negras e Políticas Antirracistas: desafios e perspectivas na Faculdade de Medicina da UFMG",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWTZXMWpQUmhmNG5QRUNmUlRNdlhMNVgzQkJ2dEhjMmloeTVteU5UVUNpbmVoMVYxdXVWWE5YZUVGdVQyd2lQbWJteENZVEZoZ1RwR2pLQTRRVUdzVTRJSUQ3TTFodEtvc05va012U2pWOWg3Tm5ZLUFwWlZuQzRNVWFzYnNBb2lkWmhBZ0ZBcVRYVlRmdUd0MFhBM1VPT3BpNnNhSGpwWE1DX2w3bXNBQmNqdmJoVWJ1UnAzOEJSMHFUb29pS1c3RmFPeW90ZVFLR1A0YVNkZUNtVmhTMkFKT3l1Sk5PYzNqcm1xdUFJdzlYSjhNWGFLaEdR?oc=5",
+        "source": "Faculdade de Medicina da UFMG",
+        "publishedAt": "2026-11-01T16:40:02.000Z",
+        "summary": "SIG Saúde da População Negra: Intelectualidades Negras e Políticas Antirracistas: desafios e perspectivas na Faculdade de Medicina da UFMG Faculdade de Medicina da UFMG",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.14,
+        "relevance": 5
+      },
+      {
+        "title": "Anvisa aprova 5 novas canetas para tratamento de diabetes e obesidade",
+        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-aprova-5-novas-canetas-para-tratamento-de-diabetes-e-obesidade",
+        "source": "Alex Rodrigues – Repórter da Agência Brasil",
+        "publishedAt": "2026-11-01T15:56:00.000Z",
+        "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou o registro de cinco novos medicamentos injetáveis para o tratamento de diabetes tipo 2 e obesidade. Os produtos serão comercializados na forma de canetas aplicadoras contendo semag",
+        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
         "topics": [
           "medicina",
           "negocios"
         ],
-        "score": 7.41,
-        "relevance": 8.8
+        "score": 4.03,
+        "relevance": 5
       },
       {
-        "title": "Câncer de próstata matou 50 homens por dia no país em 2025",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/cancer-de-prostata-matou-50-homens-por-dia-no-pais-em-2025",
-        "source": "Vitor Abdala – Repórter da Agência Brasil",
-        "publishedAt": "2026-11-01T11:12:00.000Z",
-        "summary": "Cerca de 18,5 mil homens morreram no Brasil em 2025 vítimas do câncer de próstata. Isso equivale a 50 mortes por dia, segundo dados do Ministério da Saúde, divulgados pela Sociedade Brasileira de Urologia (SBU). De acordo com a SBU, de 2017",
-        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-        "topics": [
-          "medicina"
-        ],
-        "score": 5.53,
-        "relevance": 5.8
-      },
-      {
-        "title": "VÍDEO: Pais raspam a cabeça em apoio à filha de 5 anos com leucemia rara em MG; família busca doador de medula óssea",
-        "link": "https://g1.globo.com/mg/centro-oeste/noticia/2026/11/01/video-pais-raspam-a-cabeca-em-apoio-a-filha-de-5-anos-com-leucemia-rara-em-mg-familia-busca-doador-de-medula-ossea.ghtml",
+        "title": "Expedicionários da Saúde voltam a Iauaretê após 22 anos e iniciam projeto de atendimento a indígenas no AM",
+        "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/01/expedicionarios-da-saude-voltam-a-iauarete-apos-22-anos-e-iniciam-projeto-de-atendimento-a-indigenas-no-am.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-01T09:00:01.000Z",
-        "summary": "Pais raspam a cabeça com filha de 5 anos com leucemia em MG O casal Rayssa de Souza e Lucas Eduardo raspou a cabeça para demonstrar apoio à filha, Maria Fernanda, de 5 anos, que enfrenta uma leucemia rara e agressiva. Moradora de Divinópoli",
-        "image": "https://s2-g1.glbimg.com/7FANQ40tYtp9-oHviqW_hWjltbs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/M/OepzNfQr2Ec7a4dfBLXw/rayssa039.jpg",
+        "publishedAt": "2026-11-01T18:34:05.000Z",
+        "summary": "Expedicionários da Saúde voltam a Iauaretê após 22 anos e iniciam projeto de atendimento a indígenas no AM Divulgação Os Expedicionários da Saúde (EDS) iniciaram no sábado (31) uma nova expedição médica em Iauaretê, em São Gabriel da Cachoe",
+        "image": "https://s2-g1.glbimg.com/d85D9SbcPXgJkH5CzGNGC-95FWM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/e/W0GlBeQ7ukjyOLxwqrgg/expedicionarios-da-saude-voltam-a-iauarete-apos-22-anos-e-iniciam-projeto-de-atendimento-a-indigenas-no-am-foto-divulgacao.jpeg",
         "topics": [
-          "medicina"
+          "medicina",
+          "negocios"
         ],
-        "score": 4.9,
-        "relevance": 5.6
+        "score": 3.74,
+        "relevance": 4.2
       },
       {
-        "title": "SUS avança na medicina de precisão com 100 mil genomas sequenciados no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZUNwMWxFSEhZUnFvWVA0YjZmRXBwY3Y2UEloYWhTY2s0MHJiR0xtdmY5MkI2cDRDNGVJaV9ER1c3N09RUmhISy1BNm1MVmlMQzJubVVrRDgxYkt4VVpMRGxQZzNuYmFSX2xFUTdYOFNodWR0Qlkycl9WOFh6SHJpWHRIWXVSblAtMG9yUTZ5THpQUFM0T2JhS19ZUWszeXJENnVsakZsdW5iVEdvMVFF?oc=5",
-        "source": "Brasil 247",
-        "publishedAt": "2026-11-01T11:42:44.000Z",
-        "summary": "SUS avança na medicina de precisão com 100 mil genomas sequenciados no Brasil Brasil 247",
+        "title": "Urologista afirma que \"o maior desafio ainda é fazer o homem cuidar da própria saúde\"",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMUExTGRBRjZoWFBvSVJ4LWRYMVdxbzVacElMN3d3ZjlyZE1xemZQZktYMzlhV0dadnJmdmNDY29qZlpJZW9Fa2xrcW9lLXlTYjRCTXlCeFFTLWF3Tmd3RlBSaFpadUxGLVJ6Z3NzbFJMa1dMcV9FeDhyNjh1YWlnUnhLcTlJNGNYR004OWFxSXpCSDJhX2VJZlkzLWZJSXF3RnRSVUtCMHNhcXBvcVozdG9vZzRKVE5qN3dWc3NyUUxEMGNaYXlYag?oc=5",
+        "source": "Click Guarulhos",
+        "publishedAt": "2026-11-01T19:49:15.000Z",
+        "summary": "Urologista afirma que \"o maior desafio ainda é fazer o homem cuidar da própria saúde\" Click Guarulhos",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.86,
-        "relevance": 5
+        "score": 3.74,
+        "relevance": 4
       },
       {
-        "title": "Opinião - Marcelo Leite: Sonho da medicina de precisão alcança SUS",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjZGcXN0d09JNXpJSENfa0ZiUlNtSUpLZnphbU1OcWxZbzdGWmVTM1ZYTzg3NVlXcmE1RkoxS2ktQ2lDY1VmWE5ndVY3ZlpPLVpPUUk0eW44WGp4WVpfMWhsbTVENkxKUS0teFk5c01MQjZ2ZGZsU1ZLYnc5d2FpYjRCMXNVZ0xJeE5UWWhZY2p5cVZPQUJpeXFERlJ0WnlObzRHSEwwQzBOZw?oc=5",
-        "source": "Folha de S.Paulo",
-        "publishedAt": "2026-11-01T11:30:00.000Z",
-        "summary": "Opinião - Marcelo Leite: Sonho da medicina de precisão alcança SUS Folha de S.Paulo",
+        "title": "Sydney Brenner, Prémio Nobel da Medicina: “A busca interminável de conhecimento continuará enquanto existirem seres humanos”",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMjFGTklLRVZBaGNFb0FrU2g4N0duV09OQ1E5dkhBNkpuUVR5ZzRpQTExaXVVVzE2NlB0WFdxRWdKODRtX2pnY0FQUlBBX1RwLVMxU25HMDhGV2ZEOHZZc3FuZEZaeFI3U0l0ajl4alFxZ25mbkJGMWRHQ3VzVDlfTF81X01fekpfTTd0RUcyalFaVy00RVBpSjRvOVRVODRIYjB2RkM2eDBPVE9hYU40VnUtQk9xa0lhVlI3RlNqYWhmRnBQYjAxNDJwSXpOUzZVTGswaXVfaFR0cm1nQWc5UlJlRFVobmJDdGJBbnZaQ3U?oc=5",
+        "source": "National Geographic Portugal",
+        "publishedAt": "2026-11-01T19:05:41.000Z",
+        "summary": "Sydney Brenner, Prémio Nobel da Medicina: “A busca interminável de conhecimento continuará enquanto existirem seres humanos” National Geographic Portugal",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.82,
-        "relevance": 5
-      },
-      {
-        "title": "Câncer de intestino: avanços da medicina trazem novas opções de tratamento",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDZXaFJETFZiRzAtWlNsaHoyZHdUVmdTZGNfVVhKQXdsc3NKTVl4T2NLajB1UlhOektVLTZjRmVxbzZfX2RrV3VEQ0hzaV83cVdYSUNhRlF4RXVYck1tSmVwU3E2azVIdDhSSnYwRDhMal9EdEhIdTVHb1VzeXZYNmdlZWNaVFdtc19ndDNMRGctbkw4NDNNNFMzNG9XUXhtUl8xYk1iUnZISkVZbnd1ZW02QkJPdVB6NWNWZGViekIwVEtDUGw1bm9ZX1U?oc=5",
-        "source": "R7",
-        "publishedAt": "2026-11-01T05:00:00.000Z",
-        "summary": "Câncer de intestino: avanços da medicina trazem novas opções de tratamento R7",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.5,
-        "relevance": 6
+        "score": 3.64,
+        "relevance": 4
       }
     ]
   }
