@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T13:23:36.080Z",
+  "generatedAt": "2026-11-03T22:45:15.447Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -30,139 +30,217 @@
   ],
   "highlights": [
     {
-      "title": "Dólar abre em alta e vai a R$ 5,51, com eleições nos EUA e juros no radar",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yNHd6TThuaEpRTERJeGw1SzlfdG04aGY5UUQteVNKMTJnYUlBcHB1TjBZRnBONGxaQWp1SzRqbkNqNTU4UWhfV2hhX2YzeGg5SjFqRTFuajBmNlRyLXNDN09TeklsT1hsQXJBNmZ4WXhXYXFoeDVxTNIBhwFBVV95cUxPX19vSjZpdjFyQVdSNWZBOHdqeTJEZEJaaGFWdy1qUGtlZUxpY1RZc2g0U2dqRkFEb09MN2FpbUptc0tGMjBtWW1uNFI3SURnRUtfS1NCUXNGQXNCeXJ5ZGxic05lSDdmMm96eEVGaWFjM3RQUkJKZmtMZnlpalFxOFdEOXlsWTg?oc=5",
-      "source": "G1",
+      "title": "Dólar sobe a R$ 5,48 com eleições nos EUA e juros no radar; Ibovespa cai aos 165 mil pontos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/03/dolar-ibovespa.ghtml",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-03T12:00:19.000Z",
-      "summary": "Dólar abre em alta e vai a R$ 5,51, com eleições nos EUA e juros no radar G1",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar encerrou esta terça-feira (3) em alta de 0,79%, cotado a R$ 5,4871. Durante o pregão, a moeda americana chegou a R$ 5,5151 na máxima do dia. Já o Ibovespa, principal índice da bolsa b",
       "image": "https://s2-g1.glbimg.com/WWDRGDMxGNQZCy9ypuF1ackcQ90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/S/u3TO0vRgyBsplTZYCmeA/2025-02-04t203004z-2-lynxmpel130tf-rtroptp-4-usa-trump-migration-colombia.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 10.81,
-      "relevance": 11.4
+      "score": 8.73,
+      "relevance": 13.2
+    },
+    {
+      "title": "ECONOMIA | Após a reeleição do presidente Luiz Inácio Lula da Silva (PT), o mercado financeiro revisou para pior suas expectativas para a economia brasileira, elevando as projeções de inflação, juros e dólar e reduzindo as estimativas de crescimento eco",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbC1tTVpSZFJxTzJxZmJTZFRSSHJUZjZ4bHg3MVBMWHJERzRVUkV0cEs2WnJsOWM1T09OWjByLUtNeFpWUVRvRkhHMFlGYVhBNlJxeTlrVUM4QjZkSWVLWTNJWElkWVBKNldkamhkbWRIY0hfa0JLZnVCdHo3bUJWQmcwZVl2VmNHT2NzazVjOGc2ZWZCRHdWX1FoQUJ0LTJnaWRpcFdUb0ZlUGhLTUJ2aEtaakx4cDBrT19ua1dNOGVXS2FjTkc1N2diVHF5MF9HbG52MS1yM2QzQ3FuQTR1WXBGNmxGdDdndngtbk1Jd2g?oc=5",
+      "source": "Facebook",
+      "publishedAt": "2026-11-03T17:48:42.000Z",
+      "summary": "ECONOMIA | Após a reeleição do presidente Luiz Inácio Lula da Silva (PT), o mercado financeiro revisou para pior suas expectativas para a economia brasileira, elevando as projeções de inflação, juros e dólar e reduzindo as estimativas de cr",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.27,
+      "relevance": 10
+    },
+    {
+      "title": "Dólar sobe 0,74% e aproxima-se de R$ 5,50 em dia de cautela fiscal",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX01NTEthMTJhbnVCWjBjQkVrVjZtZ1paVWM2LTJfX3hFWU9sekJvdkFUaUlQYzAwY21hSjczNGs5Y2VzXzlyM0wyMjlLdDdhbjhWQjhkaVFKMWY2UzVCSmZfc0hwYW1jdW9lX2EtejlaX1p4ekwxcFBrSWREN1NjOC16azdUQ2xYdlhYSkJjYlV1Rk9JWk5DSnVwanh0N2Nhc29FY0dacVFuOWhvZ0h5QWFZUG1zYWFzQm1kdw?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-11-03T21:59:00.000Z",
+      "summary": "Dólar sobe 0,74% e aproxima-se de R$ 5,50 em dia de cautela fiscal Agência Brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.15,
+      "relevance": 8.4
+    },
+    {
+      "title": "Rússia lança ataque com centenas de drones e mísseis contra rede elétrica da Ucrânia às vésperas de negociações de paz",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/russia-lanca-ataque-com-centenas-de-drones-e-misseis-contra-rede-eletrica-da-ucrania-as-vesperas-de-negociacoes-de-paz.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-03T17:38:14.000Z",
+      "summary": "Papa faz apelo por paz em meio a negociação entre Rússia e Ucrânia A Rússia lançou uma série de ataques contra a infraestrutura energética da Ucrânia nesta terça-feira (3), com dezenas de mísseis e centenas de drones. Segundo a Reuters, os ",
+      "image": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 8.05,
+      "relevance": 9.8
+    },
+    {
+      "title": "O mercado financeiro brasileiro fechou esta terça-feira (3) em queda. O Ibovespa, principal índice da Bolsa, recuou 1,42%, aos 165.528 pontos. O dólar comercial subiu 0,79%, encerrando o dia cotado a R$ 5,4871. A pressão veio principalmente das preocup",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TdC1PTXo3YjRDRTR2XzBvSGNnMkNzY3ZSeXZJZUl2OERJNmkxMnprdklMNTNVVE40R1Z2b0xNNEJlaVBpLWlkaVhVaVNXM2hCeVVQMDVn?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-11-03T22:04:57.000Z",
+      "summary": "O mercado financeiro brasileiro fechou esta terça-feira (3) em queda. O Ibovespa, principal índice da Bolsa, recuou 1,42%, aos 165.528 pontos. O dólar comercial subiu 0,79%, encerrando o dia cotado a R$ 5,4871. A pressão veio principalmente",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.8,
+      "relevance": 8
+    },
+    {
+      "title": "Copom deve manter Selic em 13,75% em novembro diante de pressão fiscal e inflação persistente",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcE1IOFJ6enpwbzBhbHc3QXI0RWRpRDdubFBSeURfV21mMk5LdFl2aVMySVZPTXhHenpyVUcxZWFhWFE2SkJZMWhHcDVua3Z4QnM3UVk5SWxzYTRCbGs0X1lDTUkzbjFHeEVENlJqYTE2TzRkZjZYR1ZRX2l5cTV0MUdySG1FOEVfRzVndjc0X3ZfT2lic3Y4QmI3endpV05vclpSMWlOamhOM2JzTXdCM3ZlaWxqN2VlWndTdmJXYzlKLTc4X0RzT1BKTDNFZmlKTUZpVVlQQ0haNVBHa0U4ZlFDdDVpSUdrbW5RamhNYnc1Mmh1SDV0M2tiY3c?oc=5",
+      "source": "Portal do Agronegócio",
+      "publishedAt": "2026-11-03T22:20:00.000Z",
+      "summary": "Copom deve manter Selic em 13,75% em novembro diante de pressão fiscal e inflação persistente Portal do Agronegócio",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.67,
+      "relevance": 7.8
+    },
+    {
+      "title": "Empresas brasileiras unem inteligência artificial e previsões climáticas para proteger operações de petróleo e gás contra eventos extremos",
+      "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNTUdzWE11R1pRQVpXSlJVb0RRWGhxcVkxRnJHb1psdFdfdWZPandES25od0VkNjdNQ2xHU2pqelN5U3NXdnhDZnlJcHFtNlg0QU1BblFSQVR6Qk5RTjdlVEVmWFpOS1RlVGFEbG5aLTlBSHZXOS15U1FRb2gwMi1RN25uUFVqZU1hTF9telZDT2UzVnhaWllIOGpkM3BPUUsxemhfaFRSS3IzYzVXaVJyck5vVDdGNVE3blJsb09PX2dmOHVLOXVUNlk2d21NSnJoeVZXLWZqNnY0dXBXYm4waUFzN01wWTRtU0RCTlp6T0J2WUFPUkNONDJJYlZZTTV3WElRNDAtZElQLWFUN0JYclNYbklocGxLdG9YZHFjRlg0Um1TeFZVQXZlcWF3MzZBdWhtWW5uazJ0QXlLUHVRSVZfeHNpQWItQ2FvMVZzbWw1SEozaUFOUE5DS3BZTVFEaXA3WXhJUVRvQjZnb3ZpRklidWdKWk9WeGdHNE5sSkhncms1RW5rV1RIZW1hSVF1NEs1MjVOUTN0R0I2NXF0RlRKSVI3V1J2WUc3VTJnbFpnTncyemJaSk5GN3NtVXd3RVF6S0RzSVJaOEhCcHY5N1k5NG05T1QyUFJweTROcmkzOHdDUnBJWUIzY1pkNUFCYnBHUVNSV01LYThyUzV5RF9MWWlYWms?oc=5",
+      "source": "CPG Click Petróleo e Gás",
+      "publishedAt": "2026-11-03T20:09:00.000Z",
+      "summary": "Empresas brasileiras unem inteligência artificial e previsões climáticas para proteger operações de petróleo e gás contra eventos extremos CPG Click Petróleo e Gás",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.24,
+      "relevance": 8
     },
     {
       "title": "Aliados querem que Lula use pronunciamento para afastar rumores sobre nova política econômica e defender equilíbrio",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/03/aliados-querem-que-lula-use-pronunciamento-para-afastar-rumores-sobre-nova-politica-economica-e-defender-equilibrio.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-03T13:07:50.000Z",
       "summary": "Depois de ruídos no último fim de semana, sobre sugestões de mudanças na política econômica, aliados do presidente Lula defendem que ele use o prometido pronunciamento desta semana sobre a vitória nas urnas para garantir o equilíbrio fiscal",
       "image": "https://s2-g1.glbimg.com/bjcYWe0ae5iJye-3Mmm0YR62h2k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/J/8eZmKyQvq3x8m8SkBa0Q/55249070125-d993e54025-k.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 10.3,
+      "score": 7.18,
       "relevance": 10.4
-    },
-    {
-      "title": "Após reeleição de Lula, mercado financeiro vê inflação mais alta e piora previsão para taxa de juros e dólar",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWVczMlQyck1uVFprMm50NDVLaDVqWVFSWjdDYU5rbnZjZTJucmQ0a0loOGpyQnRiLXJMakJPdVo5Q1oydTZSVkpBZlY0SjEtbVhGQmlZcXRfZDFRLUlLMGdERnlXd2NFMHRhcUtzTXE1QjV5NEJPVWlhN0h1UWtFQmNoaUhQV2cxaFFtM3RQNnR6MU02N2w3Y1NMTmVTTlMzczUzbjktZlV0R0VobC1kNGU4YlZrdmYxVUVGQ3NFUks2cVI0dEVhYzdlOWxfY3JxX0tHRXBGbW9XX1VyRkJPVG9YQWNiN2tab2fSAfgBQVVfeXFMT1NwYWt3aXVvYWZ4VnNCN1BZblJZOVNyZmxFMFRwT0R6eGtXc2ZsaVljX084MElXWUtmTGRfd2dSUHBncjlvSW8tQXBQeWI2N0hvay1EVXgyWEYza1psaTBTQ19xVFFEb29xNzIwTHBOdW5EMlVoSG56REJpdnBzVmk0RXFzTnYxWDlMWXBmU3VSb3pIUXEtd29MTGp6cnFWRmVXejNTXzktVEFVYkJWRHRhVmh4Tzd4WnVmZXktd1hpQ2J6THJIeG1WRGM1eWhNS3ZpcFlCRXEweTF0SWZCcUM0RjB2YldzRFl1cVM0SFhNTThEM1dMR2w?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-03T11:31:14.000Z",
-      "summary": "Após reeleição de Lula, mercado financeiro vê inflação mais alta e piora previsão para taxa de juros e dólar G1",
-      "image": "https://s2-g1.glbimg.com/2rIaQ2wiBqrOP0Obgn3HFFYXJug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/b/A8IGA6SdAAIsLKWtdgOg/imagem-destaque-g1-dinheiro.png",
-      "topics": [
-        "negocios"
-      ],
-      "score": 10.23,
-      "relevance": 11
-    },
-    {
-      "title": "Melania Trump vai receber representantes da Rússia e Ucrânia juntos, diz Casa Branca",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/melania-trump-russia-ucrania-casa-branca.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-03T13:11:17.000Z",
-      "summary": "Primeira-dama dos EUA, Melania Trump, faz anúncio na Casa Branca Reuters A Casa Branca anunciou nesta terça-feira (3) que a primeira-dama dos Estados Unidos, Melania Trump, reunirá pessoalmente representantes da Rússia e da Ucrânia juntos e",
-      "image": "https://s2-g1.glbimg.com/SAR6whS0JqM_3EsuTDCoZZ_fQyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/8/OxTMTDQ42y6gubv1iAfg/imagem1.png",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 9.33,
-      "relevance": 9.4
-    },
-    {
-      "title": "Diante de forte deterioração das expectativas do mercado, Durigan promete melhorar contas públicas sem recorrer a 'narrativa fácil'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/03/diante-de-forte-deterioracao-das-expectativas-do-mercado-durigan-promete-melhorar-contas-publicas-sem-recorrer-a-narrativa-facil.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-03T13:03:47.000Z",
-      "summary": "Com a piora das expectativas do mercado financeiro, reflexo da reeleição do presidente Luiz Inácio Lula da Silva para o próximo mandato, o ministro da Fazenda, Dario Durigan, prometeu continuar melhorando a trajetória das contas públicas br",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 9.28,
-      "relevance": 9.4
-    },
-    {
-      "title": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
-      "link": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Brasil",
-      "publishedAt": "2026-11-03T09:35:49.000Z",
-      "summary": "As preocupações com o apoio dos Estados Unidos a Israel estão motivando eleitores de ambos os lados da questão em uma das campanhas mais disputadas das eleições americanas de meio de mandato.",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b1c/live/ab230d00-d3ad-11f1-b441-2b33b063138f.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 9.16,
-      "relevance": 10.6
-    },
-    {
-      "title": "Custo de vida, 'fator Trump' e guerra no Irã: as 9 preocupações dos eleitores dos EUA nas midterms",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/nove-preocupacoes-que-estao-na-cabeca-dos-eleitores-dos-eua-antes-das-eleicoes-de-meio-de-mandato.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-03T12:54:15.000Z",
-      "summary": "Moradores de Manchester, em New Hampshire, nos Estados Unidos, votando nas midterms em 3 de novembro de 2026. Reuters O aumento do custo de vida será a principal preocupação dos americanos ao irem às urnas nas eleições de meio de mandato de",
-      "image": "https://s2-g1.glbimg.com/cy5ZW5YM8f9TwYhx1b445DkbDfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/M/g50jAuSUyvv5ZFS5UgLg/reuters-20261103-0800-frame-1717.jpeg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 8.44,
-      "relevance": 8.6
-    },
-    {
-      "title": "Mercado financeiro prevê inflação mais alta e crescimento menor da economia brasileira em 2026 e 2027",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNlk4RjZfTTRmNmVsazVUbF9PaGxRREhDM3FwcE4xdU9kMWFrd1lLM1dOc0FOWnJBMy1qdXozLWt2dGJsUFE1SFB6SWJkUDlnM3dhel82SVExM29aQlJ4SW5Oc2lPZUUwTDg2YVNUSXNGa28tR2tBT1BOUlRBNkhYWmNvbnd4TkdDcm55RGZvZlhTUVFJMTlrZnpIc3RnV3poLS1fai1iUGZqY0ljTC1Ucl81ZGxUVUZBM2dsNl9ScWZBRWJ5SzZWQw?oc=5",
-      "source": "TV Pampa",
-      "publishedAt": "2026-11-03T12:38:45.000Z",
-      "summary": "Mercado financeiro prevê inflação mais alta e crescimento menor da economia brasileira em 2026 e 2027 TV Pampa",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.77,
-      "relevance": 8
     }
   ],
   "items": [
     {
-      "title": "Dólar abre em alta e vai a R$ 5,51, com eleições nos EUA e juros no radar",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yNHd6TThuaEpRTERJeGw1SzlfdG04aGY5UUQteVNKMTJnYUlBcHB1TjBZRnBONGxaQWp1SzRqbkNqNTU4UWhfV2hhX2YzeGg5SjFqRTFuajBmNlRyLXNDN09TeklsT1hsQXJBNmZ4WXhXYXFoeDVxTNIBhwFBVV95cUxPX19vSjZpdjFyQVdSNWZBOHdqeTJEZEJaaGFWdy1qUGtlZUxpY1RZc2g0U2dqRkFEb09MN2FpbUptc0tGMjBtWW1uNFI3SURnRUtfS1NCUXNGQXNCeXJ5ZGxic05lSDdmMm96eEVGaWFjM3RQUkJKZmtMZnlpalFxOFdEOXlsWTg?oc=5",
-      "source": "G1",
+      "title": "Dólar sobe a R$ 5,48 com eleições nos EUA e juros no radar; Ibovespa cai aos 165 mil pontos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/03/dolar-ibovespa.ghtml",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-03T12:00:19.000Z",
-      "summary": "Dólar abre em alta e vai a R$ 5,51, com eleições nos EUA e juros no radar G1",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar encerrou esta terça-feira (3) em alta de 0,79%, cotado a R$ 5,4871. Durante o pregão, a moeda americana chegou a R$ 5,5151 na máxima do dia. Já o Ibovespa, principal índice da bolsa b",
       "image": "https://s2-g1.glbimg.com/WWDRGDMxGNQZCy9ypuF1ackcQ90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/S/u3TO0vRgyBsplTZYCmeA/2025-02-04t203004z-2-lynxmpel130tf-rtroptp-4-usa-trump-migration-colombia.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 10.81,
-      "relevance": 11.4
+      "score": 8.73,
+      "relevance": 13.2
+    },
+    {
+      "title": "ECONOMIA | Após a reeleição do presidente Luiz Inácio Lula da Silva (PT), o mercado financeiro revisou para pior suas expectativas para a economia brasileira, elevando as projeções de inflação, juros e dólar e reduzindo as estimativas de crescimento eco",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbC1tTVpSZFJxTzJxZmJTZFRSSHJUZjZ4bHg3MVBMWHJERzRVUkV0cEs2WnJsOWM1T09OWjByLUtNeFpWUVRvRkhHMFlGYVhBNlJxeTlrVUM4QjZkSWVLWTNJWElkWVBKNldkamhkbWRIY0hfa0JLZnVCdHo3bUJWQmcwZVl2VmNHT2NzazVjOGc2ZWZCRHdWX1FoQUJ0LTJnaWRpcFdUb0ZlUGhLTUJ2aEtaakx4cDBrT19ua1dNOGVXS2FjTkc1N2diVHF5MF9HbG52MS1yM2QzQ3FuQTR1WXBGNmxGdDdndngtbk1Jd2g?oc=5",
+      "source": "Facebook",
+      "publishedAt": "2026-11-03T17:48:42.000Z",
+      "summary": "ECONOMIA | Após a reeleição do presidente Luiz Inácio Lula da Silva (PT), o mercado financeiro revisou para pior suas expectativas para a economia brasileira, elevando as projeções de inflação, juros e dólar e reduzindo as estimativas de cr",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.27,
+      "relevance": 10
+    },
+    {
+      "title": "Dólar sobe 0,74% e aproxima-se de R$ 5,50 em dia de cautela fiscal",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX01NTEthMTJhbnVCWjBjQkVrVjZtZ1paVWM2LTJfX3hFWU9sekJvdkFUaUlQYzAwY21hSjczNGs5Y2VzXzlyM0wyMjlLdDdhbjhWQjhkaVFKMWY2UzVCSmZfc0hwYW1jdW9lX2EtejlaX1p4ekwxcFBrSWREN1NjOC16azdUQ2xYdlhYSkJjYlV1Rk9JWk5DSnVwanh0N2Nhc29FY0dacVFuOWhvZ0h5QWFZUG1zYWFzQm1kdw?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-11-03T21:59:00.000Z",
+      "summary": "Dólar sobe 0,74% e aproxima-se de R$ 5,50 em dia de cautela fiscal Agência Brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.15,
+      "relevance": 8.4
+    },
+    {
+      "title": "Rússia lança ataque com centenas de drones e mísseis contra rede elétrica da Ucrânia às vésperas de negociações de paz",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/russia-lanca-ataque-com-centenas-de-drones-e-misseis-contra-rede-eletrica-da-ucrania-as-vesperas-de-negociacoes-de-paz.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-03T17:38:14.000Z",
+      "summary": "Papa faz apelo por paz em meio a negociação entre Rússia e Ucrânia A Rússia lançou uma série de ataques contra a infraestrutura energética da Ucrânia nesta terça-feira (3), com dezenas de mísseis e centenas de drones. Segundo a Reuters, os ",
+      "image": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 8.05,
+      "relevance": 9.8
+    },
+    {
+      "title": "O mercado financeiro brasileiro fechou esta terça-feira (3) em queda. O Ibovespa, principal índice da Bolsa, recuou 1,42%, aos 165.528 pontos. O dólar comercial subiu 0,79%, encerrando o dia cotado a R$ 5,4871. A pressão veio principalmente das preocup",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TdC1PTXo3YjRDRTR2XzBvSGNnMkNzY3ZSeXZJZUl2OERJNmkxMnprdklMNTNVVE40R1Z2b0xNNEJlaVBpLWlkaVhVaVNXM2hCeVVQMDVn?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-11-03T22:04:57.000Z",
+      "summary": "O mercado financeiro brasileiro fechou esta terça-feira (3) em queda. O Ibovespa, principal índice da Bolsa, recuou 1,42%, aos 165.528 pontos. O dólar comercial subiu 0,79%, encerrando o dia cotado a R$ 5,4871. A pressão veio principalmente",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.8,
+      "relevance": 8
+    },
+    {
+      "title": "Copom deve manter Selic em 13,75% em novembro diante de pressão fiscal e inflação persistente",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcE1IOFJ6enpwbzBhbHc3QXI0RWRpRDdubFBSeURfV21mMk5LdFl2aVMySVZPTXhHenpyVUcxZWFhWFE2SkJZMWhHcDVua3Z4QnM3UVk5SWxzYTRCbGs0X1lDTUkzbjFHeEVENlJqYTE2TzRkZjZYR1ZRX2l5cTV0MUdySG1FOEVfRzVndjc0X3ZfT2lic3Y4QmI3endpV05vclpSMWlOamhOM2JzTXdCM3ZlaWxqN2VlWndTdmJXYzlKLTc4X0RzT1BKTDNFZmlKTUZpVVlQQ0haNVBHa0U4ZlFDdDVpSUdrbW5RamhNYnc1Mmh1SDV0M2tiY3c?oc=5",
+      "source": "Portal do Agronegócio",
+      "publishedAt": "2026-11-03T22:20:00.000Z",
+      "summary": "Copom deve manter Selic em 13,75% em novembro diante de pressão fiscal e inflação persistente Portal do Agronegócio",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.67,
+      "relevance": 7.8
+    },
+    {
+      "title": "Empresas brasileiras unem inteligência artificial e previsões climáticas para proteger operações de petróleo e gás contra eventos extremos",
+      "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNTUdzWE11R1pRQVpXSlJVb0RRWGhxcVkxRnJHb1psdFdfdWZPandES25od0VkNjdNQ2xHU2pqelN5U3NXdnhDZnlJcHFtNlg0QU1BblFSQVR6Qk5RTjdlVEVmWFpOS1RlVGFEbG5aLTlBSHZXOS15U1FRb2gwMi1RN25uUFVqZU1hTF9telZDT2UzVnhaWllIOGpkM3BPUUsxemhfaFRSS3IzYzVXaVJyck5vVDdGNVE3blJsb09PX2dmOHVLOXVUNlk2d21NSnJoeVZXLWZqNnY0dXBXYm4waUFzN01wWTRtU0RCTlp6T0J2WUFPUkNONDJJYlZZTTV3WElRNDAtZElQLWFUN0JYclNYbklocGxLdG9YZHFjRlg0Um1TeFZVQXZlcWF3MzZBdWhtWW5uazJ0QXlLUHVRSVZfeHNpQWItQ2FvMVZzbWw1SEozaUFOUE5DS3BZTVFEaXA3WXhJUVRvQjZnb3ZpRklidWdKWk9WeGdHNE5sSkhncms1RW5rV1RIZW1hSVF1NEs1MjVOUTN0R0I2NXF0RlRKSVI3V1J2WUc3VTJnbFpnTncyemJaSk5GN3NtVXd3RVF6S0RzSVJaOEhCcHY5N1k5NG05T1QyUFJweTROcmkzOHdDUnBJWUIzY1pkNUFCYnBHUVNSV01LYThyUzV5RF9MWWlYWms?oc=5",
+      "source": "CPG Click Petróleo e Gás",
+      "publishedAt": "2026-11-03T20:09:00.000Z",
+      "summary": "Empresas brasileiras unem inteligência artificial e previsões climáticas para proteger operações de petróleo e gás contra eventos extremos CPG Click Petróleo e Gás",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.24,
+      "relevance": 8
     },
     {
       "title": "Aliados querem que Lula use pronunciamento para afastar rumores sobre nova política econômica e defender equilíbrio",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/03/aliados-querem-que-lula-use-pronunciamento-para-afastar-rumores-sobre-nova-politica-economica-e-defender-equilibrio.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-03T13:07:50.000Z",
       "summary": "Depois de ruídos no último fim de semana, sobre sugestões de mudanças na política econômica, aliados do presidente Lula defendem que ele use o prometido pronunciamento desta semana sobre a vitória nas urnas para garantir o equilíbrio fiscal",
       "image": "https://s2-g1.glbimg.com/bjcYWe0ae5iJye-3Mmm0YR62h2k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/J/8eZmKyQvq3x8m8SkBa0Q/55249070125-d993e54025-k.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 10.3,
+      "score": 7.18,
       "relevance": 10.4
     },
     {
@@ -175,591 +253,526 @@
       "topics": [
         "negocios"
       ],
-      "score": 10.23,
+      "score": 7.14,
       "relevance": 11
     },
     {
-      "title": "Melania Trump vai receber representantes da Rússia e Ucrânia juntos, diz Casa Branca",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/melania-trump-russia-ucrania-casa-branca.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-03T13:11:17.000Z",
-      "summary": "Primeira-dama dos EUA, Melania Trump, faz anúncio na Casa Branca Reuters A Casa Branca anunciou nesta terça-feira (3) que a primeira-dama dos Estados Unidos, Melania Trump, reunirá pessoalmente representantes da Rússia e da Ucrânia juntos e",
-      "image": "https://s2-g1.glbimg.com/SAR6whS0JqM_3EsuTDCoZZ_fQyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/8/OxTMTDQ42y6gubv1iAfg/imagem1.png",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 9.33,
-      "relevance": 9.4
-    },
-    {
-      "title": "Diante de forte deterioração das expectativas do mercado, Durigan promete melhorar contas públicas sem recorrer a 'narrativa fácil'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/03/diante-de-forte-deterioracao-das-expectativas-do-mercado-durigan-promete-melhorar-contas-publicas-sem-recorrer-a-narrativa-facil.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-03T13:03:47.000Z",
-      "summary": "Com a piora das expectativas do mercado financeiro, reflexo da reeleição do presidente Luiz Inácio Lula da Silva para o próximo mandato, o ministro da Fazenda, Dario Durigan, prometeu continuar melhorando a trajetória das contas públicas br",
+      "title": "Netflix conclui gravações de 'Melhor do que nos Filmes'; estreia prevista para 2027",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVG81UUZZbjlfU0hEMlI5ajNSc2JiVkN2ZXNCaFkxZlR6a05VLThpOWpSd285NnRpNG40ZVBUVDY0LXZHT2I0Tjc3N1FDdl9MUVVDV05WWFdZdVRJSzN3M0JFUnN6Z2RJdmVYc01CbHpSUnBZZjE5Y3JkME1Ja0taWG1rS3JVT0Q1dm1IOV8tdlBvcnJXOWVhQm1EbS1XTi1LQW5LWGxRa0JfU2tWNnVLZ3hKR0lEMWxwU3RFYzBraGpJVnBIdElWaHdqR2F2TV9ZbjE0Vl84aFhON0NqMDN1M204NlRLUXB3VFc1S3lMcG9nQQ?oc=5",
+      "source": "Terra",
+      "publishedAt": "2026-11-03T22:11:00.000Z",
+      "summary": "Netflix conclui gravações de 'Melhor do que nos Filmes'; estreia prevista para 2027 Terra",
       "image": null,
       "topics": [
+        "cinema",
         "negocios"
       ],
-      "score": 9.28,
-      "relevance": 9.4
-    },
-    {
-      "title": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
-      "link": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Brasil",
-      "publishedAt": "2026-11-03T09:35:49.000Z",
-      "summary": "As preocupações com o apoio dos Estados Unidos a Israel estão motivando eleitores de ambos os lados da questão em uma das campanhas mais disputadas das eleições americanas de meio de mandato.",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b1c/live/ab230d00-d3ad-11f1-b441-2b33b063138f.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 9.16,
-      "relevance": 10.6
-    },
-    {
-      "title": "Custo de vida, 'fator Trump' e guerra no Irã: as 9 preocupações dos eleitores dos EUA nas midterms",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/nove-preocupacoes-que-estao-na-cabeca-dos-eleitores-dos-eua-antes-das-eleicoes-de-meio-de-mandato.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-03T12:54:15.000Z",
-      "summary": "Moradores de Manchester, em New Hampshire, nos Estados Unidos, votando nas midterms em 3 de novembro de 2026. Reuters O aumento do custo de vida será a principal preocupação dos americanos ao irem às urnas nas eleições de meio de mandato de",
-      "image": "https://s2-g1.glbimg.com/cy5ZW5YM8f9TwYhx1b445DkbDfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/M/g50jAuSUyvv5ZFS5UgLg/reuters-20261103-0800-frame-1717.jpeg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 8.44,
-      "relevance": 8.6
-    },
-    {
-      "title": "Mercado financeiro prevê inflação mais alta e crescimento menor da economia brasileira em 2026 e 2027",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNlk4RjZfTTRmNmVsazVUbF9PaGxRREhDM3FwcE4xdU9kMWFrd1lLM1dOc0FOWnJBMy1qdXozLWt2dGJsUFE1SFB6SWJkUDlnM3dhel82SVExM29aQlJ4SW5Oc2lPZUUwTDg2YVNUSXNGa28tR2tBT1BOUlRBNkhYWmNvbnd4TkdDcm55RGZvZlhTUVFJMTlrZnpIc3RnV3poLS1fai1iUGZqY0ljTC1Ucl81ZGxUVUZBM2dsNl9ScWZBRWJ5SzZWQw?oc=5",
-      "source": "TV Pampa",
-      "publishedAt": "2026-11-03T12:38:45.000Z",
-      "summary": "Mercado financeiro prevê inflação mais alta e crescimento menor da economia brasileira em 2026 e 2027 TV Pampa",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.77,
-      "relevance": 8
-    },
-    {
-      "title": "Disney planeja milhares de demissões e cobra redução de 20% nos custos",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY2dKQXdaWU9pblZ4Z0x2RWhqQnQxOW5PTU9CQ0JJWlJMUkxPbFJuVGpRUTVjdzhHTEpVOU0zelFQa0ZPSWxJdVlPY1VObFJTUXpLUWZZczhhVGxxVEhtSGZMckUzS0JoRlFKeVQwQVN2SkZOakZDRUZNNTEyc1pvdXlYUWJleWEwN1U1SlVIb1dSRXRiZENIVVdWeGF4eG1DcWpxYVVHNHByS1hveFNyaWU5ZXphY0VCOEpFNHdYbE52ZjBCdG5yRXI3NnJwTWotWC1OcGVmb9IB5gFBVV95cUxOQjEwNGxKOEVvTjBsSExUZ25QY2F1bWxZQUt5QmRWT3ZNQml5dC03QkxTbHZERUFJaGtuVFBsM040WUNwcDg4aC1MMVJaNjVoNzM4MndVdVBQdW9FcWxjR0hSR05DYTdQb3B4RTRlT2xYLVo0NmVLQ1JCSW9UeFBNLXVEaXpWNjVKZzZodjhxM0VMekphQUp5VzZ5aFgzeUl2RVNVdUx5aTRrTzVlSWk4RzhPVGVzWWQwQWlhUTZPNmUweTlqbHcxNHVpQVJhS1RLTGV0UTdnQUlGZEI3MFlfNkx3YWc5Zw?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-03T13:15:49.000Z",
-      "summary": "Disney planeja milhares de demissões e cobra redução de 20% nos custos G1",
-      "image": "https://s2-g1.glbimg.com/hugB0nbCeOgxURyYD4pqlJ7gj6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/p/pFcG8ASaAZARcWAfruYA/2026-04-09t003229z-596821154-rc281gabapjq-rtrmadp-3-disney-layoffs.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.36,
-      "relevance": 7.4
-    },
-    {
-      "title": "Eleição EUA, juro, feirão de empregos, dólar, Ibovespa, mais agenda e pílulas da economia 03.11",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPQ3lYWG93dzlsU2VDYWJFUG1GNVpaNWVib2FYRS1yd3BjTkRJaFVvdTN2dWY4WU82emNrVkFmc09iUU43NG1BNHZXcUFqODZLaXgxNFkxX3hoSXk5R2ROeWFBd1ZraW54SzdEVm5mZVdjUzdaazQzX084RUROc3BCNWdxMnpsNWxkRlZoZEs5V1liQWlESTVkbnFzeU1vSllBS2Z3SUZPYy1OY0NBanJZSk9Gd2swRTlVY3ozWlB0Q1BtT09ncnhqTzdoemZtNk8zUE1ZYlhVWnEzbEl5ZmtpVUtLa2FpdTRtUktuUHc2cXQzbnhoS2NwTDByajNXbnZobnV5aTlSMkoyaV8yUGdiNXpSaVNPbkhHM3NRQml3?oc=5",
-      "source": "GZH",
-      "publishedAt": "2026-11-03T10:58:21.000Z",
-      "summary": "Eleição EUA, juro, feirão de empregos, dólar, Ibovespa, mais agenda e pílulas da economia 03.11 GZH",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.29,
-      "relevance": 8
-    },
-    {
-      "title": "Inflação, desemprego e PIB: como está a economia dos EUA no dia da eleição?",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmpEekdIcUNaMHZOeWFYbjBfdzhqZUMwSkJibEcxSWUzTXVpQTVTMHlDeUI1OGlBZDNhMS1SYzFmZzl4VkJlR2tUNFFPWVJvTm1NS1RZQ05KY1ZoSmxra1FGaDNxRUY4anNyOXJGZ2xua0J2VVhuWGJwSHhYUklIYUpTNXk?oc=5",
-      "source": "Rádio Itatiaia",
-      "publishedAt": "2026-11-03T07:04:01.000Z",
-      "summary": "Inflação, desemprego e PIB: como está a economia dos EUA no dia da eleição? Rádio Itatiaia",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.05,
-      "relevance": 9
-    },
-    {
-      "title": "Ministro diz que proposta para 'imposto do pecado' deve ser enviada nesta terça ao Congresso; objetivo é manter carga em 2027",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/03/ministro-da-fazenda-diz-que-proposta-para-o-imposto-do-pecado-pode-ser-enviada-hoje-ao-congresso-objetivo-e-manter-carga-atual-em-2027.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-03T12:15:24.000Z",
-      "summary": "O ministro da Fazenda, Dario Durigan, informou nesta terça-feira (3) que tem reunião agendada hoje com o presidente Luiz Inácio Lula da Silva (PT) para discutir a medida provisória (MP) do Imposto Seletivo, também conhecido como \"imposto do",
-      "image": "https://s2-g1.glbimg.com/ppm1HTAMp3YCt8xS6-7zbYx0nRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/t/4sBFwdQoa22AJ8iWwfLA/55615784085-00c6cb3c26-k.jpg",
-      "topics": [
-        "negocios",
-        "medicina"
-      ],
-      "score": 6.89,
-      "relevance": 7.2
-    },
-    {
-      "title": "OVALE: Ator jundiaiense conquista 1º lugar em festival de cinema",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbURtNjRKSDNQSWJxWDJlZGw2UE5xbFhsaTNKRUJXdXV0TEZlZ1RiWmFBWUtpS05ZT1hkUTkyZGJUMUFWaEpUZFJXZEEwNEZvb1BhRl9DekRpLTZuQlV2WU95S3ZmZFhoZ242eTFZWlVHanh6OHRyaTlEU2o3M2JiWXBlRERKbUp6aXlEcGU3Q1RESzJmREdJWS1lejNzVzdWRnFjazJHWnJPcTlLSE85cTFCZnJPcG8?oc=5",
-      "source": "sampi.net.br",
-      "publishedAt": "2026-11-03T12:45:42.000Z",
-      "summary": "OVALE: Ator jundiaiense conquista 1º lugar em festival de cinema sampi.net.br",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 6.83,
+      "score": 6.85,
       "relevance": 7
     },
     {
-      "title": "Depois da 6×1, a inteligência artificial deixa de ser coisa de grande empresa",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMFJNcG84Wk53bko5dk81eGtsUzJIMVNMcmlLQ3FvOHBnRElsMlpyblpBWHlLNmZFbll2bzkwMXNOeUhacGxBSzRWVWtqejNXRzI1YUN5LWdMOWRwX1JwYWozVmVhNTJQeWprVFpYT09WZ2xYdk5zQ1N2YXhnRXZUNUdiNTJXWUZIazdQeUVpWFlBX2pzUGVVY2psUms4dEgwTDVORUhZaVJTVlBfS3pMRmRXRkQ2ejFI?oc=5",
-      "source": "jornaltribuna.com.br",
-      "publishedAt": "2026-11-03T12:45:32.000Z",
-      "summary": "Depois da 6×1, a inteligência artificial deixa de ser coisa de grande empresa jornaltribuna.com.br",
+      "title": "Mercado aposta em manutenção da Selic em 13,75% pós reunião do Copom",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0VFb2RmbkxqcTFTV2x5QjlGaEUtZUV5bElLb0VJcDZNOXZRWXlEUGNsZjZZWDhnYk0wTi0zQ1VrbjlpWkJxaUp6eWtNZGkwMjRaTGs4RXpLUl9NMk9HYkM2UlItOEIydGtiV0R2YUhTRXB2RTJjWGljOGZMRENmc3RhTHpzQlhCNnMxaGFFVHk5RkZKd0xZNDZrYlRUZTl5bjhRTGpWSV9zX01IVXNZ?oc=5",
+      "source": "Poder360",
+      "publishedAt": "2026-11-03T21:08:30.000Z",
+      "summary": "Mercado aposta em manutenção da Selic em 13,75% pós reunião do Copom Poder360",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.83,
+      "score": 6.58,
       "relevance": 7
     },
     {
-      "title": "Economistas sobem previsão da inflação, juros e dólar até 2029 no primeiro Focus com impacto de vitória de Lula",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQ2JsVVY1LVJGb0FTNzVMVHNIQmNDN1A4Rjh4b2N0cGJoZ3JTbU9YUHp5M2ROS3UzamZScmZlOUtEYmpNYmdtWjM5SkYxSGZ2aWcyTzNXd2hUV3J2TV92blpRYzBsX1VCMm9LTjVSdjJ2ZjdlMGRnVVE0VGwtT1MwX2V6bU5xMEJ4TDlFVHBaMEctNE9RRFppUUdRaDlQdXhWQkNIRUZaalBrOTRmcGdGdmtCSzNLdXdDYTFLc3BMWDVyajV0SHdTTHVrcVN3c3h3X3pVbS1NeWtNSlVlbWxVZFFmMnJHS2JsWF9QYUZ0WWhNeGZM?oc=5",
+      "title": "Brasil espera proposta dos EUA sobre tarifas até semana que vem, diz ministro",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXNfcWpWMVEyWWFHLVRwM3hrR3Q2dU5CSjlmNzJZR0Y4Sy1BVlY5UzdDLTE5UVdqM21LVGtPVmpoNmVCaVdrZ2xhQ3c5eDBocmtGU1JtRm5tczN2NjVXcWQwM2FrVG9KUVFrVU13Q0ZNdUFMVzBLQXhEX1drZzV1M0NtSjRvTTdFVnBNLXRocXp1bGgzVHpLV2VRSXJuNDdTMFlrTGlUUDI1UHdsa1dFcVRYV2NzcmFHYjBJckMwaGY1SWxXQzBN?oc=5",
       "source": "Folha de S.Paulo",
-      "publishedAt": "2026-11-03T12:41:00.000Z",
-      "summary": "Economistas sobem previsão da inflação, juros e dólar até 2029 no primeiro Focus com impacto de vitória de Lula Folha de S.Paulo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.81,
-      "relevance": 7
-    },
-    {
-      "title": "Pressão de Lula sobre Banco Central por corte de juros",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd2RMbUxRRnEwbDRyaUxjc2w3bDZRc1k3aFpmc1FZSk1hLVBvOTR3bkhNYThHN1pSX09LRFZyZWVCelN5TVZCN0dtTnBkb1dycjRnLUtVcU12aXFQMFRScHFJQ0l1Zi1RX3ZWcUFMRmlwZTdMM2hfNHlmTlkyUlpZUUlRcw?oc=5",
-      "source": "Acia Araçatuba",
-      "publishedAt": "2026-11-03T11:04:47.000Z",
-      "summary": "Pressão de Lula sobre Banco Central por corte de juros Acia Araçatuba",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.77,
-      "relevance": 7.4
-    },
-    {
-      "title": "Ataque russo contra escola na Ucrânia deixa 31 mortos; Zelensky acusa Rússia de bombardeio duplo",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/bombardeio-russo-escola-ucrania-mortos.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-03T10:42:51.000Z",
-      "summary": "Equipes de resgate retiram um civil feriado de um prédio residencial após ataque aéreo russo. Serviço de Emergência da Ucrânia via AP Um ataque russo contra uma escola que servia de distribuição de ajuda humanitária no sul da Ucrânia deixou",
-      "image": "https://s2-g1.glbimg.com/MrDEhpOBGCmq_eXzFUWWhuQrkr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/Aok17XSFA4JkzdlpfzYQ/ap26307327730564.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 6.67,
-      "relevance": 7.4
-    },
-    {
-      "title": "O que se sabe sobre nova onda de ciberataques a supermercados europeus",
-      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/03/o-que-se-sabe-sobre-nova-onda-de-ciberataques-a-supermercados-europeus.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-03T11:12:35.000Z",
-      "summary": "Novo ataque hacker afeta refrigeração de supermercados em 6 países da Europa Uma nova onda de ataques cibernéticos a supermercados europeus se espalhou pelo continente nesta segunda-feira (02/11), afetando sistemas de refrigeração na Suécia",
-      "image": "https://s2-g1.glbimg.com/oKxfGhMTVN-yaHL_AvM6KrqggE4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/r/X/nELGrDSw2uZofHPGGpmQ/79831414-1004.webp",
+      "publishedAt": "2026-11-03T21:00:00.000Z",
+      "summary": "Brasil espera proposta dos EUA sobre tarifas até semana que vem, diz ministro Folha de S.Paulo",
+      "image": "https://s2-g1.glbimg.com/Gz-Gbu5Mxn8J05kPm80caU-IGWw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/k/AXxvTPSRy3iBf4jayOcw/55227748493-7951e3623d-o.jpg",
       "topics": [
         "negocios",
         "geopolitica"
-      ],
-      "score": 6.62,
-      "relevance": 7.2
-    },
-    {
-      "title": "Boletim Focus: mercado eleva projeções para Selic, dólar e inflação",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SalNzN0tieDB4d3B3SHM1UFVUZUN0NUlkcDQzV1ZUOTRvZG0yRVdjQVliMG1tcm5yVjFsVHRRal9pV0U5VXlWUGlRWFcyYUhYcC16NGVyeDJ3NVEzUUFGWXRXVllXaW5zc1BjRmN2bXRnMDEzUmdldWhNb9IBgAFBVV95cUxQMlhabjRYckhITm94ZXRVUzVTZnhmT1NXQlQ3VkFHU0hsZEFqSGFiTUJhdjhoMG0wcWJmN1F4TlhsZGxROWliWHVYVVdOWVItZU5Uc2pNZnROaGhfTVU0ejNVd2FxcTRnMlMxajc5ZnI2dU1VS1lMZEJjS2kyT1R0eQ?oc=5",
-      "source": "InfoMoney",
-      "publishedAt": "2026-11-03T11:37:03.000Z",
-      "summary": "Boletim Focus: mercado eleva projeções para Selic, dólar e inflação InfoMoney",
-      "image": null,
-      "topics": [
-        "negocios"
       ],
       "score": 6.54,
       "relevance": 7
     },
     {
-      "title": "Morre paciente que tocou violão e cantou Legião Urbana durante cirurgia para retirada de tumor no cérebro",
-      "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/03/morre-paciente-que-tocou-violao-e-cantou-legiao-urbana-durante-cirurgia-para-retirada-de-tumor-no-cerebro.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-03T12:50:27.000Z",
-      "summary": "Fábio toca violão e canta Tempo Perdido do Legião Urbana enquanto passa por cirurgia para retirar um tumor cerebral Santa Casa de Marília/Reprodução Morreu nesta segunda-feira (2), o paciente que foi submetido a uma cirurgia de retirada de ",
-      "image": "https://s2-g1.glbimg.com/5ySipexFqfHswVEdFn_TnyAmd7A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/a/2B5nTpS32VXSLY78356w/19.png",
+      "title": "Melania Trump vai receber representantes da Rússia e Ucrânia juntos, diz Casa Branca",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/melania-trump-russia-ucrania-casa-branca.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-03T13:11:17.000Z",
+      "summary": "Primeira-dama dos EUA, Melania Trump, faz anúncio na Casa Branca Reuters A Casa Branca anunciou nesta terça-feira (3) que a primeira-dama dos Estados Unidos, Melania Trump, reunirá pessoalmente representantes da Rússia e da Ucrânia juntos e",
+      "image": "https://s2-g1.glbimg.com/SAR6whS0JqM_3EsuTDCoZZ_fQyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/8/OxTMTDQ42y6gubv1iAfg/imagem1.png",
       "topics": [
-        "medicina"
+        "geopolitica"
       ],
-      "score": 6.46,
-      "relevance": 6.6
+      "score": 6.5,
+      "relevance": 9.4
     },
     {
-      "title": "AI Lighthouse Awards 2026 vai revelar as empresas brasileiras que se destacam no uso estratégico da inteligência artificial | TI INSIDE Online",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWEdQRU91SkxpbHl3NG5PMFhETDgxMmF0c04yVGdwamN5bU5jVGlKUEplaWs2cVdIVjFWYnBBdEN1MGFUekl3ZGN4WHh0VUtZc3gzM2ZYU0wxU0RrcV9VVWtOWDBCV1RVM3g5dy1xVDlxRGUyNXJBSWdTRTNJNnIzYVVwNVhzUHUxX1VNZ0psRWlYbWx3Q09Lb0JtZTF1dkdrOUFDOWFIc05RcVB1VlJXOHJzbUJxeThKLW1sOG9HZGxUejVNR04yM3AyN3VJRFVzc2xxRjI5SUhONGhPQjdVMmFiTFpaMGFycEt2a3NjSUs?oc=5",
-      "source": "TI INSIDE Online",
-      "publishedAt": "2026-11-03T11:14:57.000Z",
-      "summary": "AI Lighthouse Awards 2026 vai revelar as empresas brasileiras que se destacam no uso estratégico da inteligência artificial | TI INSIDE Online TI INSIDE Online",
+      "title": "Focus: analistas veem risco fiscal limitando cortes da Selic após mercado elevar projeções de inflação e juros",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPY3FlY1BhdE9rVnFGS3I2SkZieXR5Mno5dl9PamZlcVBWenZpNkJ3dW0ybVlVTnRnYjZqSHFLb1lMWlhTZ3FDa2ctaWFtck5pei0tZnN5V3o5ZjVPTllJTG9HUFN4NHNfeHZUbEUySExBM20xbkI2SEU1bVdGcks2enlyUHBwZVd2TnBuNk9WMC02YlVhdUY2V3pDOGIzZENobTE5a1Q4QVpOYmFyMm9IWjRvc0JISnB0M2cySmFBejBHLWJ6U0hoVk1lbW9RUDQ5SlpEbmZmS09Nbm1Kd0V2dElDM0FfVGtmdHpnQ0RJODBLMXJXdkUzY255LXHSAYsCQVVfeXFMUGxNa0lLQzVWb2NVamFEUzZnR0NDMDRCTDc4QkMzZVJUNDNqT0FvRXladDAtd3kxTW0yTVdFd2pGZjNyZHVMbTJCc3h5QnVBN09IWFVjVVRhcnhWOWp1U1BHaFJXM2ZDQ2pHQk9Fenlqc09kcVlEZlM2NTlRV01vT29fSzdvOW1XTnNva1RRTFI4QUh4SHZRdUh6SHVnenI2YjRLRlVkQjRFRldSblJYUk9QNzhCS1l0YlNENTRLQ3NLSmwzSWh3YlFaZkE5VGtJUzhNM0h1UDJNZGZPYVhWaGMzdGQ4WHBVUnBaVEU1eFBTZW1BdVA2RU9tNmRnNDJzdVNkMUhnXzhkWXQw?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-11-03T20:43:45.000Z",
+      "summary": "Focus: analistas veem risco fiscal limitando cortes da Selic após mercado elevar projeções de inflação e juros O GLOBO",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.45,
+      "score": 6.47,
       "relevance": 7
     },
     {
-      "title": "Mercado eleva projeções da inflação e vê juros mais altos nos próximos anos",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDhFdzRuVF9JODJjaW5LYVB0QWdiWl9GT3hZRGtMVHhlT2MxMXZDMjZmWUN6RnlZb1lvOHoyNXBMUkJkNmZxTk9rcXA0UU5vSjJmR1RkTUtSbzFJTzR3cUZXTmFmX1JPSU8wUzZNN1dObEtGTFZiSjI1dVZHeExTQlZDa2VsaGlhZkZLd3pYNVg1aHdKb0k1cjd3ZGk0YWc?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-11-03T11:46:28.000Z",
-      "summary": "Mercado eleva projeções da inflação e vê juros mais altos nos próximos anos UOL Economia",
-      "image": null,
+      "title": "Diante da piora nas expectativas do mercado, Durigan fala em melhorar contas públicas sem recorrer a 'narrativa fácil'",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUUVVS3Y3ZThDZHBoc1BOXzFrd0tsb3gxQ0ZETjlwdFl1TEdXOE1PVE5YV3BMQzIyZWZ5NXpmbnJQM014dHFoMGJHdkp3WEZwUkRnQWNsRkZIZHJ0TlUwNzJQRE42ZkFJS3o4eFpQeXBublRXYldQaUJSNy16Mjc0dnNrUUZoTjJUOF9ka3FkZkxCZjl1bUdwcmFPVmFmRmlFdkpNTUlIdXNxekE3eTl6NEtKSlB1RlUzSmRZaGVZUFVOUzI1VEJjWnJKdFI4ZzBBQWhvOHFHa2N6dUItX2N3eURlRTVCVUVRdDlsM1JVejhHMnVBVzNMR3UyVkVZZnctcHllSThyQ041dVhMVmh4V9IBnwJBVV95cUxQdWh0dTJwbVIzb2RRSEpJY1M0cnBDck1TNWJScGVySWtBZXhLN2owdkFBelo5WHNOTEpMWWU0MDBUcFFlQ1lLR3pmWTY1bTh5TjhrSFpKY2pGXzVVbl9ZcndGc3M0RFoySGJLS0J0Zm13UkNfRWlNYkJKc2VBb2ZWMjRuWWhmSUZITVR5YUNtWm5NbG1VaXVUVXZrWW5sQ1hhc08wSW9IMWhiWFN6NU4xT2E5dExNaE9yZ2pQYU1mTTR3SWx5bjJ4eXNLZzB4NzA0ZGNieUwtUnVtcHlQV01JSUh6TGRpUjJnNjZOSWJNTzRvTVVoN3pJWXQ5MG5zd3NicHVsUTZNUDNpUFBFNmw4NHFqaGRsVl9yRlN1Skl4RQ?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-03T13:03:47.000Z",
+      "summary": "Diante da piora nas expectativas do mercado, Durigan fala em melhorar contas públicas sem recorrer a 'narrativa fácil' G1",
+      "image": "https://s2-g1.glbimg.com/ppm1HTAMp3YCt8xS6-7zbYx0nRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/t/4sBFwdQoa22AJ8iWwfLA/55615784085-00c6cb3c26-k.jpg",
       "topics": [
+        "negocios"
+      ],
+      "score": 6.47,
+      "relevance": 9.4
+    },
+    {
+      "title": "Eleições nos EUA: como apoio a Israel e guerra em Gaza afetam disputa ao Senado",
+      "link": "https://www.bbc.com/portuguese/articles/cqx29rkmp87ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Brasil",
+      "publishedAt": "2026-11-03T09:35:49.000Z",
+      "summary": "As preocupações com o apoio dos Estados Unidos a Israel estão motivando eleitores de ambos os lados da questão em uma das campanhas mais disputadas das eleições americanas de meio de mandato.",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab98/live/556f3d10-d7d7-11f1-8cb0-d304936875f3.jpg",
+      "topics": [
+        "geopolitica",
         "negocios"
       ],
       "score": 6.39,
-      "relevance": 6.8
+      "relevance": 10.6
     },
     {
-      "title": "Zoox apresenta o próximo capítulo da inteligência artificial nas empresas",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNemwwSkh0eVFzYzhlTDd5THdsdUpkV2pQVFVkZ1M2OEFPeWYxbHBZQUdYTHR5YnQ4S1ZhSHJvRDd2S0xwaEE4eGZEZ2tXVmVSZUhpVTBoRVNtSWdBLUdVN1o2RENPa0F2NDJ4anJzR3dWMWU2NWNnUmpzQ3psNks5cm1uQW9sUDFOeGFBUWhWNWpVRUxLTmw4SDhGRnVPQ2g1UE1vUWhzZ1pnY1YwdDR2UEdjYkdxc2VPTm5yYjNVaEJLcXhpV3hTUElSSko?oc=5",
-      "source": "NeoFeed",
-      "publishedAt": "2026-11-03T10:52:00.000Z",
-      "summary": "Zoox apresenta o próximo capítulo da inteligência artificial nas empresas NeoFeed",
+      "title": "Encontro reúne empresas de tecnologia e startups da Região dos Lagos nesta quarta-feira (4)",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc0lSM3B6WUFVWTdUMUlyT1J2R0dHUzNMTm5xWHEzWTlWZ1JzSFRKajF4SkNEcnIwcjhYd1dtNkV0RnlNUTdnUkhNYUtpb0lmY19ZdGJ1OEJhVWotTGpMaVJueW15TFhjaVZEMlB3RTJrdDBhYnBsSG5NS0lWOER3bXRfS0t1bEtGM3lSSm9yY3AxMWZZb2c0Z1hBWERwZ09ZMS1JclV3bGkzUExtZVJ6bXR6OUM4SjZNcjQzZEtRUTY?oc=5",
+      "source": "O Diário 24H",
+      "publishedAt": "2026-11-03T20:01:23.000Z",
+      "summary": "Encontro reúne empresas de tecnologia e startups da Região dos Lagos nesta quarta-feira (4) O Diário 24H",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.35,
+      "score": 6.3,
       "relevance": 7
     },
     {
-      "title": "Mercado Bitcoin bloqueia US$ 11 milhões após ataque hacker",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRDF5aGxxRmhiVUZkXzNuQkJtX2NvT2JBMl9XVFdjV2xreE9zbFNIMmFKN3RPS0J4N0lFbjZFMU9MTGs0Q1JwTVpQdjVvczZZLVozWmRXWFc1cnhXS3N3QU1mMW9IN09PTHZFUmtuTXRXWmdoV19hRFlINmFjY1FnUWczdlFtS3d3VDBmQjFQNy1kU1owLUtud1dEVUJTNTZiNXVlcWpVeFN4cTV6VHFSWTF2TE5oT2pXbEtacQ?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-11-03T12:45:46.000Z",
-      "summary": "Mercado Bitcoin bloqueia US$ 11 milhões após ataque hacker UOL Economia",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.25,
-      "relevance": 6.4
-    },
-    {
-      "title": "Festival de Cinema de Paraty reúne 55 filmes em exibição por toda cidade",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYV9NTmgtcWxyX2lYcXBxbi13ZmxQNUJ5UGRVc1BxR2lVVGVjMThqdUhsbFZ1b1NUUWVYNFd1UzFjZWlaanJuSWVPTjVsR2pBRUpqSFFFeTZCNnNVQ1dxcUFqYUp3WElkZGNLY2dfR2wxYmNTVWpqVWdDNmNadkdiV1VUa0dFQ0RQWEtMMnVxUlVCTGJRNks2V3JYalpMN1JGT1R3ZW1kb2NBYnRVUkRfb3VIdkR2TGZ3Vm9iODRla0hZZjZnS1RhQy1INWZfc2lkM2hDaGEyR0c5S2doeVHSAewBQVVfeXFMTTFTeG85UDZFY3Uxb0JZNjZObnMxdGtaZGV3b0xnSWFoNnJfUTdlYmx0dzdublJ3cjZta19ILVc2YzN6VUN5TGxpc2x4bTZlVDBIcE5SNHVNaHp5X3k5ZXB6OC1XYU0zeTFvd2J1clZLa3kyMlJobm91dlp4VHFrZkhyNVhVd1lJNnVTZHBPMWVkQVRxM29RTmVXMFRITEdKcVN2eXI4dzgyWUk5Ujd4YWtsRVhJNE5mc1JmVlhLeTVuaXJiOFpwZmdKV0drM0pPWWJtZlU3OGtBXzBvZXZfNm5ZY2RqRExLS1pfTWg?oc=5",
-      "source": "Extra online",
-      "publishedAt": "2026-11-03T06:59:01.000Z",
-      "summary": "Festival de Cinema de Paraty reúne 55 filmes em exibição por toda cidade Extra online",
+      "title": "Aos 88 anos, esta lenda de Hollywood com dois Oscars acaba de confirmar seu novo trabalho: Um filme de ficção científica pós-apocalíptica",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xNTBiR2VIVGZYZXVUMUd6dWtIenMyR0lSRWVpZHZ2YTkzZUw3OG8tbmNqNm9JdzdkTkNGZUY0WTEwMTdmaXV0LVNCMHdFTHltRWxZYXN3SmwtZjUtWVVGSXRORy0xNGtOUmxWZmdXNzPSAXZBVV95cUxPQVlRSmZQMzJMa29MTWhSbnNWTWNpOXBodEN0aER6MnpQMEoyN2llSEJLbExyTWI1YktrYUFKOUo1SXJqa1VQQ0MzZ1ZXNlA1cm82ZDFQanVwengzak1GS3pzbEtIRGRacHVYVXVVZlVBSnVFREFn?oc=5",
+      "source": "AdoroCinema",
+      "publishedAt": "2026-11-03T22:00:00.000Z",
+      "summary": "Aos 88 anos, esta lenda de Hollywood com dois Oscars acaba de confirmar seu novo trabalho: Um filme de ficção científica pós-apocalíptica AdoroCinema",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 6.25,
-      "relevance": 8
-    },
-    {
-      "title": "Durigan quer revisar benefícios fiscais em 2027 para reduzir alíquota do imposto sobre consumo do governo federal",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/03/durigan-quer-revisar-beneficios-fiscais-em-2027-para-reduzir-aliquota-do-imposto-sobre-o-consumo-do-governo-federal.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-03T12:19:00.000Z",
-      "summary": "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira (3) que buscará discutir com o Congresso Nacional, no decorrer do ano de 2027, uma revisão dos benefícios fiscais previstos na reforma tributária sobre o consumo. O objetivo, s",
-      "image": "https://s2-g1.glbimg.com/ChUmYO_MvMRlZI6N3oI7nA6AFCE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/x/D8DofCRniIHB6Nti0XIg/55371248682-dc417a1a3e-k.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.14,
+      "score": 6.22,
       "relevance": 6.4
     },
     {
-      "title": "Mercado financeiro prevê corte na taxa Selic na reunião do Copom?",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEJ0VnNNVUdScDd6eW91WFVqRXItZmVucGdaRlZwd2swYjJuLXhkVThGYnVfd29iZ1RFNUQ3cGtwMEFPNnNzV25Sbi1xeFlDdC1QTXdXUzc1MVdWenJPanhRSDFzQzU1cFE4QmdrdlhRM3dHbHM3enVuWEJKWHdJNDJmQzlxOUtKTEducUhTWFVtTlhhZlI3RkN0cldzY0xQdGxJM2NHWHNFX2NkZ1E?oc=5",
-      "source": "O TEMPO",
-      "publishedAt": "2026-11-03T10:00:00.000Z",
-      "summary": "Mercado financeiro prevê corte na taxa Selic na reunião do Copom? O TEMPO",
+      "title": "Especialista analisa a separação da Ucrânia da Rússia como estratégia geopolítica",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVXBBQXlzQUd1LWRQNWI1ZmMxeE5FbmRVY19obGRyUGliUkZLZi1ocFhWWC10X254M21SMmVhOGtVRmVBLXVWUi13YlNqMDBmemxmLVpUWjVVUWNUWUp5Z29lWC1YeEtVaGFjc09GSlo2cDRTampqMk5McVRCUmFQVEtqbXJHUWltY0F6c0NsV3FSc2lDcTdQZHc3RXNkdlI4NGRMblJEUW90UjFIWXo0b2kwVVBXNGhxbVA0eTlpLVlfUHBZOXcwSXQxbkhldFRnUFFkT1p0UERVUQ?oc=5",
+      "source": "Tribuna do Agreste",
+      "publishedAt": "2026-11-03T19:34:00.000Z",
+      "summary": "Especialista analisa a separação da Ucrânia da Rússia como estratégia geopolítica Tribuna do Agreste",
+      "image": null,
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 6.19,
+      "relevance": 7
+    },
+    {
+      "title": "Ibovespa volta do feriado com a sexta queda seguida; Petrobras (PETR4) cai quase 4% e dólar dispara - Suno",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE56MnI0X1pDZktSQTg2Q2drQjd6aXlzRUZsYndiS1BPV2JZSHdqV3VGQTFsRDRaRi1BM3pVel9WZ29zd1BJdHVVOUVqZ3hlRnBzQlhIaWE5VnRJZlFDdUx5ZlVjWGJqM18zdmZmVXRmeVkxT25sZGlRN0NB0gF_QVVfeXFMTlYwYU9oc2JtNnhsejhCSjQtYTJiVnRxVnZvNlBYY1Q2bUoxSFNPMGlnVGxfdHRvYmhJSFJSYzZFcjhMV0tTZmd2aGZNUkVfQ20xSXFjeEJsaDUzWndIWTdoSkFUU09ydy1OU1pTSmNUTW96MkpFN1JmTTJQNE5hQQ?oc=5",
+      "source": "Investimentos Inteligentes",
+      "publishedAt": "2026-11-03T21:51:09.000Z",
+      "summary": "Ibovespa volta do feriado com a sexta queda seguida; Petrobras (PETR4) cai quase 4% e dólar dispara Suno - Investimentos Inteligentes",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.14,
+      "score": 6.18,
+      "relevance": 6.4
+    },
+    {
+      "title": "TIM amplia atuação no mercado corporativo e aposta em inteligência artificial para impulsionar negócios",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWEQ4NzR6Zy1lWHNoTEdFNUMyY2FWVmtNbWQxV1dTSXV0S3VKMEFVdHZJazFxelFjVDMyeGdfckRDOU4yWndvMDZDQjRkRjFQOVhYS0RBMi1UUklsbWVwZDRlbFZVVW1VTkFUYlhycE1OR2lHbGtDUGxwSEFNbnJ6MWpwZXhTa0szc0pfN3pSN3NpSjFpc1NFNko2ZVVFT1g0WHNVOExYdGttOFBtUGlzS1ItcGxjUl9JUWt3Q3gyVjB1WmJzTEgzdFJjQ0p0WWxxVmY5UEZpMURLSHFId2JMNDQzaUhmdw?oc=5",
+      "source": "Times Brasil | CNBC",
+      "publishedAt": "2026-11-03T15:48:00.000Z",
+      "summary": "TIM amplia atuação no mercado corporativo e aposta em inteligência artificial para impulsionar negócios Times Brasil | CNBC",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.12,
+      "relevance": 8
+    },
+    {
+      "title": "Festival de cinema em Fortaleza abre laboratório gratuito para cineastas",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDBaUXhjUFVlYzlKQWdkRmZQdWo4ckhwZzZoM1Y0VWRSUThIWHFUN1lLTmw5T1l5dnBCQlZJZXNTNEVwM3RRUElJVjBqbGpFdzkxQ1IwT2dBNExQVEJselhwU1doODl5bjZuUnJjYW05Z0FWU1lQdzczQXNYTDBLUi1mQU5KRmJjTEtGYkFyZDhramgtUmIxTHNlUkpIVmJ4ZWY4cnV0ZlhNWTZuTWZhRWxDeU5ycEZVTkdGNEtEQTRDWW9WMnlweUQ1U3d4SHZsc2J1Xw?oc=5",
+      "source": "Portal GIRO",
+      "publishedAt": "2026-11-03T19:12:08.000Z",
+      "summary": "Festival de cinema em Fortaleza abre laboratório gratuito para cineastas Portal GIRO",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.11,
       "relevance": 7
     },
     {
-      "title": "Mercado aposta que taxa Selic pare de cair e teme soluções heterodoxas na economia",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeUgxdXpxY3Nzenl4ZHNnbTd6VzBiaHJFeGlMTHFybF90aS1pU0MwcUkwMGd6aTlJNzJDWFEtY1Zrc1UxbTB2WkxoXzhEeGs5QnE5RU1XWkdUMXhoRUduN1pLTEllYXo3STBJZ1NmM3FCSHhMdlJDclNmZTRhWUhfWEZkM2hGeVpxTUJ0bnZhTVNDcTBLMzVKaFZuTUtUWUpxT2EwUGs1Z0p0U2xFekFqeDF4M0lSUE4zaVhhN0JZMGxsTHdJOWJ5VUltQ09Hb29oeDVHWkVPMNIB5gFBVV95cUxObEJnVVBjVTVPakhTNFlPbWpwYTN1S0NXeXRNYzNoNTc3RjZCb3lVNlhZV3EyaGRCSmpHX3BZemxuSmphczRYMV9HN1RENS0xS01hMmFJbTRMdDdyNDdkN21iTUpNbUFxd0Z0WXAwd3V4R29vR1FxSWR5TFNndWg4QlUtWE1rbHloOTJXYmQ2NDY0c205aXhpRmVEbGRkaDNEYUc1ZzdSRjRscnhvNk5jNEZaZXJJSDRYSHNMZjRhUGFjZWN2ams1OFI0X2RQWHhXLUNScjVIdG9qN0d5aTYyeVl6UkpXQQ?oc=5",
+      "title": "Empresário brasileiro desenvolve metodologia que integra marketing, tecnologia e vendas para melhorar resultados de empresas",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNd2RhUUQ5R0lwMndfal9aX3FZYW5TZ3g2bU9RaFozTlV0NXE1WmtqaXF4TU1XQ2d4aVlQM1h6NVFPZWdZeGJsa2toVDNSSXZDb2tQWk9CSFF5eHVfSlBIend1TDBMSE1HOFl0OXZuRlNmWWZIOUluNXZjSDJxZ0RsSmtIR3NQeHZncGRYckpaaXdOOGNEeFhQLXBrblZHRUJiSGZCdkF4Z0d2SU5fQ29xUGxFOERQekl6cGxab0s1eWtKLW5hTUx3UnZRTXVLMWY4RXV5RGFrV1A5VVA5MlE0S0toYlFUNzFfRXE5a1l6OU5PLXYxLU9HdXF3Sm1kV29BejlnSU12UTIyaXFkMHhnZ0JFeFRKbllBeGlMSGIyTUg2YXPSAbICQVVfeXFMUEpkUjNDcThxUXR2ckVFSHFhMWxLWHpqVDJQc01nSXB5c0J6YmZkT1M5dkpSanRRb3pRNVRYSTdxcnNnUzhsLW9KWG1Kb3BVWldqcE9VZDZfU1NHTnJwT0Vsc2FKcWZpOFh5LTctRWJ2MWNaTmV1LU1wUGNyeGRkUHVlMjFUZzY5SU9DcS1FQzlPSW9MdmxHV3pOeGQ4U09aLWY5ZnE0YTc0d3N0U0NSR0N0NXdZMEtnQlhGVWJSVHZNUGlXMDU4b2piRzd6ZjhCbmpwZHhmRUxpeV93dWRwX0ZIMG9JVmQybXhZU0JKX2ZRUEZkQ2gzRUI4ZXZWUkE4UjV4aHRwSmFLaHFOR0w3V3NFbGtJTUFwYUt6ZlNrMGZwT3hnM1gtMDZsLWVrek5tRmpR?oc=5",
       "source": "Valor Econômico",
-      "publishedAt": "2026-11-03T08:00:01.000Z",
-      "summary": "Mercado aposta que taxa Selic pare de cair e teme soluções heterodoxas na economia Valor Econômico",
+      "publishedAt": "2026-11-03T21:06:30.000Z",
+      "summary": "Empresário brasileiro desenvolve metodologia que integra marketing, tecnologia e vendas para melhorar resultados de empresas Valor Econômico",
       "image": null,
       "topics": [
         "negocios"
       ],
       "score": 6.01,
-      "relevance": 7.4
+      "relevance": 6.4
     },
     {
-      "title": "Mercado financeiro eleva previsão de inflação e Selic no fim de 2026",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT2xWTDlaTEg1a3dURnNhZHkwQ3hJNll0aU1hRHVHRmtRSlkxN1F1dWVKbHBUcDN6WW1FOWstT1JZSkc5dTJyTER6aC1jV1cwWWJyYUNpM0JWeXh5S3VoUWF3ZHNmRm5hbzdBQWoxeUJoZDZrUWh3bnRFSmZ3bFZ2Nk5KdG1QME41aDRPbXE3S3R5RzY3NVpKeGFGTTYzV0t4ZzVHbGNVQ1dqbkJuWHd1VWE2aThKc3VMakdjZnRn?oc=5",
-      "source": "band.com.br",
-      "publishedAt": "2026-11-03T13:07:15.000Z",
-      "summary": "Mercado financeiro eleva previsão de inflação e Selic no fim de 2026 band.com.br",
+      "title": "Trump diz que vai cortar ajuda a Israel em 2027 e que está próximo de acordo com o Canadá",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/trump-apoio-israel.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-03T14:19:16.000Z",
+      "summary": "Aprovação do governo Trump se mantém em 32%, às vésperas de eleição nos EUA O presidente dos Estados Unidos, Donald Trump, afirmou nesta terça-feira (3), dia de eleições, que interromperá a ajuda financeira que dá a Israel em 2027. Em entre",
+      "image": "https://s2-g1.glbimg.com/aP8G98jHhJ7sx9guyRIAKd1BzD4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/T/piz5KuTFCseBPdea3R5w/2026-10-29t174613z-292374100-rc25doazkjy1-rtrmadp-3-usa-trump.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 5.93,
+      "relevance": 8.2
+    },
+    {
+      "title": "Mercado eleva projeção para inflação, juros e dólar em 2026",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTG9BTnRFOTh0Vmx2eEtEOGRYUGNOZFlncHBwUXJ3NXhqbGNpN1JpVk81UG5ENUdaNjYtbDByU1JtaTNpc0plWVJONV95SGVyLTN2dVBOX2QxWDhuT2FWQjRmVDJCcTdxaTVUUW5OeFFaVVlaVlM4WUczWWxsQzVHYVFxSUsxMWtkZ3hBZm1aS09WMUtzNzJvaUhsSkdmbXpuc1hKQWVhTVZpbHhPUTUxeVRMMGRxaWM?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-11-03T13:43:00.000Z",
+      "summary": "Mercado eleva projeção para inflação, juros e dólar em 2026 Agência Brasil",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.94,
-      "relevance": 6
+      "score": 5.93,
+      "relevance": 8.4
     },
     {
-      "title": "Caneta emagrecedora eletrônica: empresa de tecnologia cria versão do medicamento que age com eletrodos no cérebro",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQcmxSSTFxVFYzZHpaaFJKOWNSWWU4OXYycngzQW12d2QxX2R0b1BDeXI5RkhUd29VbXpqSHBWd19IcFpNaXpLM3V4dlh0STRRQmZEQXJCUmxnYjFLSkowNmpwYXZFdHMxVU9HT2VfWnhaNXB0RmhudGhkUnVBMEduMU9UMi11TFpGUFZudXNaT0ZhcDN6dUNBa0xQdTRLLWlGNWkwdkVBY0JCRzJ2cUl0c3k1U0NEcHFKTEVKSWFxRW55bzhkMnpkQWNxOTg0T2YzSFNQcmhsQmowdFVfU0RhVG1oOUFUVE5FR2NYalRyRWg0YW5BUWxHUVBLbnfSAYsCQVVfeXFMTjFFelBBckctNlIxQnAxM2Q5bTBNc2ZFdm9sZ3UtYnIzNGNsOUc0VElqeEZUTTJySWpKejJ2M0k5V3BTSElGOUROVzNXc2hWMk9ZNEtGRXVGNmZ0QzVUYno4Ykt5a3Jza2ZkeDl5VFNjTG5kcTE1WnU5UG0xTUtIYk9RYXZGeTAwZnRRRktnbFNtOXdkSVNXbjc4bkdXci1NUXd1d3ZiTlJUdm5TS0U5VHhsMWZtcnh1My1XQ2JhNXRGZFRweTVVbjNPUkVwYlRDeDFrRWoyanJPc3hBd0NEdzNDNjd4Z1lhQ2pGQWlNRzRSZncxT21pa21YdGlDWXN2b3FHOWRsMHV1VVp3?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-11-03T13:01:12.000Z",
-      "summary": "Caneta emagrecedora eletrônica: empresa de tecnologia cria versão do medicamento que age com eletrodos no cérebro O GLOBO",
-      "image": null,
+      "title": "Eleições nos EUA: com orações e cultos na Casa Branca, Trump coloca cristianismo no centro de campanha",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/oracoes-e-cultos-na-casa-branca-cristianismo-vira-peca-chave-para-governo-trump-nas-midterms.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-03T16:12:11.000Z",
+      "summary": "O presidente dos EUA, Donald Trump, durante culto realizado na Casa Branca, em 9 de setembro de 2025. Divulgação/ Casa Branca Orações diárias, cultos em pleno Pentágono, um escritório da fé dentro da Casa Branca, candidatos e influenciadore",
+      "image": "https://s2-g1.glbimg.com/4VQXXbD6qfw8UlSLy8WwEuLrBXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/G/B81yBaSyinH1BuWYBdsQ/foto-1200x800.jpg",
       "topics": [
-        "negocios",
-        "medicina"
+        "geopolitica",
+        "negocios"
       ],
       "score": 5.91,
-      "relevance": 6
+      "relevance": 7.6
     },
     {
-      "title": "Festival de Cinema Italiano chega à 21ª edição com sessões no CCBB São Paulo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHcyVFJTYkxKNlA4MVNwbXIzY015ZmxNTDdsYlgtVjZCeEhXWDBTdlVEOTBOVE5oN3o1M09jUkowNHRxQVItajdiMzlsOTFIUmFMMkVtQ3czZ2xVdmZ2a1k0MFJHRTdSbW1ydEd4UnZjR251ZTdSSEpnTXpXM2ViUHp1djhROVhRU044QVdTS0V2dw?oc=5",
-      "source": "Canal Tadeu Ramos",
-      "publishedAt": "2026-11-03T12:54:00.000Z",
-      "summary": "Festival de Cinema Italiano chega à 21ª edição com sessões no CCBB São Paulo Canal Tadeu Ramos",
+      "title": "Cinema/Inclusão – Festival de Cinema exibe em Brasília filme para crianças cegas, surdas e com deficiência intelectual",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS2o0djRCYTRkbmFqLUlFeDJvX05SZUhDTlRNYXdFMDlHVVlOOTl5enBaNFA1YmllRjVxZTVRaHE3MXkwYi1GRWZSc0tDSDAwSkl3WGVfRHZwR2ZnSGxmTmlDU3ZFNk5OUERzUndMcmN6Vk5peU9ldjhOYjV6TGVVTXpqSXFvdEpLcnBicTlGUU14TDdDTUU1WkMyVUZDMl9LMkNwLVdnRUxDR3JYdnQwcUtWbzhxWEk2ZlJWM0hxTDFYYVhXT28zQlViaUY2SFpzYlFTLUJKZ19aUThBWGNJ?oc=5",
+      "source": "Blog do Amarildo",
+      "publishedAt": "2026-11-03T18:15:25.000Z",
+      "summary": "Cinema/Inclusão – Festival de Cinema exibe em Brasília filme para crianças cegas, surdas e com deficiência intelectual Blog do Amarildo",
       "image": null,
       "topics": [
         "cinema"
       ],
       "score": 5.89,
-      "relevance": 6
+      "relevance": 7
     },
     {
-      "title": "IA é ‘tsunami’ que vai afetar 40% dos empregos na economia mundial, diz diretora do FMI",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSXhJTTdOVHpZaTVFTjI5U29GX3dVdUZ2NWNsZzRCcUlEWDROQ050cEZQSEl1cDNObjZER0Q1NnhDdml1R09fSTBoNmRGcTNNbVhwX0JyQ1pPeTlaQUtjTHlIRThsUjVCSmV3OGtDLTR3NWNrRzhramJPUWRKaDBnV3pkZXB6czNWQXNhSjNLZkVaeVhMaktWLTFB?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-03T12:49:41.000Z",
-      "summary": "IA é ‘tsunami’ que vai afetar 40% dos empregos na economia mundial, diz diretora do FMI Estadão",
-      "image": null,
+      "title": "Custo de vida, 'fator Trump' e guerra no Irã: as 9 preocupações dos eleitores dos EUA nas midterms",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/03/nove-preocupacoes-que-estao-na-cabeca-dos-eleitores-dos-eua-antes-das-eleicoes-de-meio-de-mandato.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-03T12:54:15.000Z",
+      "summary": "Urnas abrem em mais de 8 estados dos EUA para eleições de meio de mandato O aumento do custo de vida é a principal preocupação dos cidadãos dos Estados Unidos e que podem influenciar seu voto nessas eleições de meio de mandato, que ocorrem ",
+      "image": "https://s2-g1.glbimg.com/cy5ZW5YM8f9TwYhx1b445DkbDfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/M/g50jAuSUyvv5ZFS5UgLg/reuters-20261103-0800-frame-1717.jpeg",
       "topics": [
+        "geopolitica",
         "negocios"
       ],
-      "score": 5.87,
-      "relevance": 6
+      "score": 5.89,
+      "relevance": 8.6
     },
     {
-      "title": "ECONOMIA DESACELERA E CONGRESSO MAIS À DIREITA VAI PRESSIONAR LULA, PREVÊ EMPRESA DE CONSULTORIA E RISCO POLÍTICO",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU3ZaZWM1TXoxeE40Q2ZQQkVVbUlkYWcweTFsb1ljaFJ2S0psREE1UlFkWHpNTFdVcFF0MmExNXhQX1dsbUxJWmdfNGFWOEJ1V3RRYTRMdzg2MkplWEJmRzBsUTdCdlBoVmgxS3ZoX2x0OG4wSU5SanlKaWNmMjlZdGEwVF9nYlJNa2U5STRfMlRpWTkzc1ItekMwLWptRjBmSWRVTFZCT3JTYnFfbTZoMW5KRmZTdEE1cExUSnV1UzJwZFh2ak1TUEVlR3QzQTdZR1VJbGsyWGV2R1VtY2U5R3ZKcw?oc=5",
-      "source": "Diário 360",
-      "publishedAt": "2026-11-03T12:39:00.000Z",
-      "summary": "ECONOMIA DESACELERA E CONGRESSO MAIS À DIREITA VAI PRESSIONAR LULA, PREVÊ EMPRESA DE CONSULTORIA E RISCO POLÍTICO Diário 360",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.83,
-      "relevance": 6
-    },
-    {
-      "title": "Copa da Ásia de 2027 é adiada por conflitos no Oriente Médio",
-      "link": "https://www.poder360.com.br/poder-sportsmkt/copa-da-asia-de-2027-e-adiada-por-conflitos-no-oriente-medio/",
-      "source": "\n\t\t\t\t\tPoder360 · PODER360\n\t\t\t\t",
-      "publishedAt": "2026-11-03T12:27:37.000Z",
-      "summary": "Torneio de futebol continental vai passar de janeiro para dezembro do ano que vem por causa de ataques na Arábia Saudita",
-      "image": null,
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.79,
-      "relevance": 6
-    },
-    {
-      "title": "CrowdStrike anuncia aquisição da Dreadnode, empresa de segurança em IA - Investing.com Brasil",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcWhyc1FoRk5BUVZ2OThhSWRTYlNvY09tbmlHcHVDeVE0aFQwY3VhdEJtVmVDOFZ2dTMtZjZmUTdCNHpYdnlja0ItQnNtMEo4RWFFQ3E2eHBqVV9nbHl6TW5UZi02SEpPcnJ4UW1tdlJpeE9ydFdKVWJYMU96Qjc4ZDJkNzRZZ21HRUlTSlZFZWVIQXp1QVdzbExOWE9kM1hJRnNrSW03WjJsbmwwbGp3cTFNd1pPSkEyR251OEg5N2x4cFE?oc=5",
-      "source": "Finanças, Câmbio e Investimentos",
-      "publishedAt": "2026-11-03T09:05:00.000Z",
-      "summary": "CrowdStrike anuncia aquisição da Dreadnode, empresa de segurança em IA Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "title": "Startups brasileiras buscam investidores e novos mercados em evento global de tecnologia",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUJSbTFVbVVzbjVta2tmVlFGV3NvejBkdGZFMjVUWDhUZGx6UFlOcW1LTkVyUkJLSllneXI5SzFRSlFzYTA2TXNVZkxCNHVoUEs1TDRHMEZEMkFzd0VHT1hwdVZpb00xRlJZT3FEa3dhM0c4dW9kWkp0ZURDcVF2RmxHVlhvNlhkUnpFQjRjWUxVd2o4cUxVd1NTSm5ySXgtZ2cwVkN4U1dZeWNhTlZscmw5VlpBS2xyUlZ2SVpOY2ZnQWU3?oc=5",
+      "source": "Brasil 247",
+      "publishedAt": "2026-11-03T14:14:43.000Z",
+      "summary": "Startups brasileiras buscam investidores e novos mercados em evento global de tecnologia Brasil 247",
       "image": null,
       "topics": [
         "negocios"
       ],
       "score": 5.76,
-      "relevance": 6.8
+      "relevance": 8
     },
     {
-      "title": "Menos cortes nos juros, mais inflação: Focus muda de cara às vésperas do Copom",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcjJvN1NyajFPYnZ1WGF2QWsyN0lHNFBvenM5SWJHUHkwTXdfVXlCODNtX3V2TXp6a2VVc3cxZmFBODlpQnlrNnl0QXppcnpPXzVtYzNTV0xXSEp3eFlRTDFrQnkxb1NnNFhhZGhDSjRNOWN1R1FNcXpEOEU1VXVMMW1wd0lnZS04dENHT2tSWndBVzctcmhyeTcwalFzbVRUZXdFZk5XeVFYZE5VRkM2dmZ0V0E?oc=5",
-      "source": "Seu Dinheiro",
-      "publishedAt": "2026-11-03T12:10:48.000Z",
-      "summary": "Menos cortes nos juros, mais inflação: Focus muda de cara às vésperas do Copom Seu Dinheiro",
+      "title": "Inteligência artificial no mercado imobiliário: como a tecnologia ajuda a prever a demanda e atender clientes",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNVpmdWU0Z2xEd25CWG5tVjk5dUhaVGptdHVHNkRYRGZKZ2pXVzNvUHhGTUlNTjdMb0x2RzVkdU1vOXBSOGJkTlhlanYyUUVGaV85QTQyOXZkYnJFU194Tm52c0R5VzlRZ3NwNmhOWGpvQ0ZaUTBISV9kcmt5OFNSZVAyNHE4WWZDZjUweFBvRGhtbnJqeDVDRTg4d0lUbjNCM1JPLUROSUxaX29VazljZ29DT2Fmd2hzQnJ6b3hIOGVXM1h1N2RHTU5zM0R4Nm9DQTV4Q1ExMzU4QjJES1BvTDc2Zy1aNDl0SkhF?oc=5",
+      "source": "Rádio Itatiaia",
+      "publishedAt": "2026-11-03T14:00:20.000Z",
+      "summary": "Inteligência artificial no mercado imobiliário: como a tecnologia ajuda a prever a demanda e atender clientes Rádio Itatiaia",
       "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.73,
-      "relevance": 6
-    },
-    {
-      "title": "Honda City 2027 muda pouco e não baixa preços para enfrentar os chineses; veja o teste",
-      "link": "https://g1.globo.com/carros/noticia/2026/11/03/honda-city-2027-muda-pouco-e-nao-baixa-precos-para-enfrentar-os-chineses-veja-o-teste.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-03T13:00:00.000Z",
-      "summary": "Honda City 2027. Divulgação / Honda A Honda apresentou a linha 2027 do City sem reduzir os preços para enfrentar a concorrência dos carros chineses. As versões custam entre R$ 117 mil e R$ 156 mil. A fabricante aposta na fidelidade de seus ",
-      "image": "https://s2-g1.glbimg.com/w9YnH_gL4QPSY0bXClIbo7RgMI4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/v/pnRFB9QxS1ENQfxazbbQ/mva-1548.jpg",
       "topics": [
         "negocios"
       ],
       "score": 5.71,
-      "relevance": 5.8
+      "relevance": 8
     },
     {
-      "title": "Dia do Cinema Brasileiro? Confira 8 filmes nacionais sensacionais",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TSWkxRUhCQUo2OHFFdmVrVzMyZkpJTjdQZjdBMlpLMUlFdjVaOWNuZDlVdldudU4taVlvbW9FVGJxWmJNSFZRUm5tcVZ2SWswWXRJX3RRbkJyVGpLWXk0aEp3elFEUUJFaEFTdWxqQVNjUm15RElYcw?oc=5",
-      "source": "Vivente Andante",
-      "publishedAt": "2026-11-03T11:43:22.000Z",
-      "summary": "Dia do Cinema Brasileiro? Confira 8 filmes nacionais sensacionais Vivente Andante",
+      "title": "Mercado vê inflação, juros e dólar mais altos e reduz previsão do PIB",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEpIRTlEZEY2NGNfOGtFSzRWMFppSWVTbVJ3T3RMZW90MGVOeFZ6dVVnMmFIaW9ENm5hcFo2cEZqZ2k5TDJ4RFZrTEdxaFVHbFZsb2lZMmJCMWRKeW91VWhVTFVoekdrSzVXQ3pZWXo2MGZ2aXIzTlcza0YxVnI0dHVJel8zWjBvVXFuRXp2dlowN1hKVlE?oc=5",
+      "source": "Contec Brasil",
+      "publishedAt": "2026-11-03T13:55:45.000Z",
+      "summary": "Mercado vê inflação, juros e dólar mais altos e reduz previsão do PIB Contec Brasil",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.7,
+      "relevance": 8
+    },
+    {
+      "title": "21º Festival de Cinema Italiano no Brasil acontece entre os dias 06 e 28/11 em Sorocaba",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd1FScmFMUDBDWUZyMG1tdWRkY3JoSUZJNkFjSFNyakpuSWJPTk1HNVY3MHpORWp6ZTBPZklVU2NMYnRTQS1MMGxPSTdDeHIxTUVpUy1hLUZ5XzdtQXZZU0ljMXVCU3ZhV0Z1RnR5azlJeEk4V3FmUlc4cVBkeHBzeTBkOFhPMkJJS040Qk9PS0prNVVNbmhFX2VOWmpRbFh0RlduVkx3Z1ZIWVJFMTFDXzJRXzZUVnRXWmJZemdlV2xCeXBPYWs5Z3ExN29pb1Vt?oc=5",
+      "source": "Agenda Sorocaba",
+      "publishedAt": "2026-11-03T20:55:05.000Z",
+      "summary": "21º Festival de Cinema Italiano no Brasil acontece entre os dias 06 e 28/11 em Sorocaba Agenda Sorocaba",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 5.63,
+      "score": 5.59,
       "relevance": 6
     },
     {
-      "title": "Outro patamar: Ibovespa volta do feriado com petróleo, juros, resultado do Itaú e eleições nos EUA no radar",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORjdpSHZ4enJ6RjFQQktsRFM2a3lLOGN1ZFBfbGRGN25sWU9TSkxWSVd6ZWpWVFhFWVhNdk5hdnpCNjQ2emNER0M1Z0V5dk55WXhQbURub2F1cnN4VlRnVE5ya1dnbUl6RkRKbHBoamNrbnBDMTdXMkdNSktJMWRrZUs4S3R1SXJObjJvZEtqTmp3UzZjSlViUzlUN2NzcEdQT3VoMzBKWGFGbFducWVwcGFfaXVZWlhXb3RiT3lmcWxPS0NkNjRxU1BxS0diTE1tNFJrbWFn?oc=5",
-      "source": "Seu Dinheiro",
-      "publishedAt": "2026-11-03T11:34:53.000Z",
-      "summary": "Outro patamar: Ibovespa volta do feriado com petróleo, juros, resultado do Itaú e eleições nos EUA no radar Seu Dinheiro",
+      "title": "Netflix recebe novos filmes e séries para ver na semana (02 a 08/11)",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1V5MWZjeFFoNE44bjdsMC1iOThPSjdRS2I4bHhDWExBWkUzZkxaSmduV1BUUk1udWxkbk95bExDbVBDV0VDaGdFaE5DN0xZZjE2dVVCQURFak8zRURvWVFkVG5BNDdFUy1KbXVqcXA4NEFxajdta3ZfaGl3Mk1Yd1RtM1JTeFliSU5yOHJUSmRCbXNVRFpva0FQUkc0VG13NHNaMkVPbzk4d9IBsgFBVV95cUxOY1J4WWlOUG9sYkEtd3pUal9qVHphSkE3ZUE5c282eW1tZXUzZVhFT1ZKbElpU1lhakNEYzE5c1BHOEduQkZ6d3h5c0N2T0hnNGlXX0Nndm0zTm1aY2U3cTlpSHhIVFZGLW1JSl9zX3lqTGVjc2FUbmpuazVLSzBqWUU1LWNIcU5tbnZ6RVp2UXBDb1Ntak1GVGI0dk5DT2tRTGVNb2Z1UUhPR1R4RzNqWHd3?oc=5",
+      "source": "A TARDE",
+      "publishedAt": "2026-11-03T16:52:12.000Z",
+      "summary": "Netflix recebe novos filmes e séries para ver na semana (02 a 08/11) A TARDE",
       "image": null,
       "topics": [
-        "negocios",
-        "geopolitica"
+        "cinema"
       ],
-      "score": 5.6,
+      "score": 5.58,
+      "relevance": 7
+    },
+    {
+      "title": "Como investimento federal pode expandir games brasileiros no mercado internacional",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcG9GMEU1VkVZQkNhU1FtVmVsUi1pNlJ5Z0tPSnRpc19senYzODJqcVUzQzV3WTdDOGZ2RFZrTXhnVFRSRlJvaUJlaV9ZVDVXVlNVOGdORFdLVjdPN1V3dDZVcXB3Z1l2TUZSNFdSd3o0a0I1UXNTb09rbGIyWWlLSHBQelB5WTc1Y0RpeXpNdmZvRUVhcWdxSHhsa1BsWUdKRWk4aXJDaXc3MkZRM2hoUHkwaF95Zw?oc=5",
+      "source": "Monitor Mercantil",
+      "publishedAt": "2026-11-03T20:46:06.000Z",
+      "summary": "Como investimento federal pode expandir games brasileiros no mercado internacional Monitor Mercantil",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.56,
       "relevance": 6
     },
     {
-      "title": "Apresentação pública da “Peça do Mês” do Museu Municipal de Arqueologia",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcjI4clVNRmNjZS1YSGQ2TFlSTzk0YzNyMnFSenBMd2dBR2t0NGFUZEhuWnZyak81d3ViLWFmblFSNmlpaHpPem85clA3U3RBaXdXVEpkVTB4djdqNzNMZzRBVFQxWG1vZ3FyYlBWSEVGdWpZbFJRRTA0dDBzdTRQRXgxMkZhWHVzX09ZQnJFbW9Ca2Q5TUhqcklFdllYQ1h1QmhENVpVbDg4M09WeVJXS3E5REZlMDFiVnY1R1FtWU9XeWlJbThHMnRTUkJFQzA?oc=5",
-      "source": "Câmara Municipal de Serpa",
-      "publishedAt": "2026-11-03T11:31:17.000Z",
-      "summary": "Apresentação pública da “Peça do Mês” do Museu Municipal de Arqueologia Câmara Municipal de Serpa",
+      "title": "Inteligência Artificial é 'tsunami lento' que ameaça empregos em economias avançadas, alerta presidente do FMI",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPOWlrN0VjdFYzRE5tLUZOT0ZqOFRnMFNoT005blZZZ19WQjJSckRwVUpnRGdoOWQtUTJjNERoQmV5NHJCMGhLTnhQVUNScEYzOEZka2dxMHNzcDZiX0FwLWw0bk9lQWJkazJTN282SUhOZTYwa28wbmdrelFocFU1SlVaQ2ZwM2xIRVVuckJtU1V5MGlYNVVWT09vMklManhRdGtzMlZaSVQ2ZTdwc0dIcExYMFdtWkQ3cG91bkxmWkRXOEFGUlB3V1doQWV1dWR4bU1LMER2WGJKUmdvWmF2dXVNbHRFOElpS1g3WEJkZ21jNmhORjZkR2pn0gGIAkFVX3lxTFBlMzUyNXRYZnNHNGJqZkxIcmFwX3U5eUdSYUI4N3V4N1NhdXNNclp1YWhaOTVaY2xaejJiZURCVWJSOTktNUhJRmxtV0FkN3VOYmhzRFBkeWxNeEhoMFRldDYwS25DR2ZZWGtEVTJoZkUwQXdrb0RhMzUyaXlBZThncEdXU0VfTFhMSVBkTHYwcGFMVVJ2NXdxd2R5eWN3enBnQ2dsY3R1ZnJCX1NvSnY0SURlLWhjOFZneEpmUUNzbFZKYUUyR2FyYXFRMHVldXNCaENIYXdLUW5MS3ZiZElvTUZlRFFoNnZCc1d3aXc4QmQxZEZVbnR5dHRZTXBNSVMxdGswQnAxWQ?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-11-03T13:19:22.000Z",
+      "summary": "Inteligência Artificial é 'tsunami lento' que ameaça empregos em economias avançadas, alerta presidente do FMI O GLOBO",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.56,
+      "relevance": 8
+    },
+    {
+      "title": "Disney cumpre sua promessa e traz de volta a animação 2D para seu novo filme: O resultado lembra os melhores filmes da empresa",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuVjRMNFduT3MzWmwwOVh5bWNXdHdQUjFwTVdlVWNOVDVhSUxFRFRzVWcwZFZXVkk1X2U3QTZzV2VsM3dyNUxoRl9Pb0pBQmdWSHJQaEZCQnJ1UEN3c1lYZFdCUHNEY3ZXTGdsRU5OcVPSAXZBVV95cUxNWEtySVRmdkI4R3JOLXMwbU0xX2YzZjNfQzBsd2ZSNEU0TWtSaUpqdnM4d2xTU2ZpYjA2ZF9nY044NnN4c1FnSWhCdHRlS0lyeXdLcjd4REp2clZJNTkzTzZFTk55b25sUnV4SVNXMDU4d0V5WkZn?oc=5",
+      "source": "AdoroCinema",
+      "publishedAt": "2026-11-03T18:58:28.000Z",
+      "summary": "Disney cumpre sua promessa e traz de volta a animação 2D para seu novo filme: O resultado lembra os melhores filmes da empresa AdoroCinema",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.53,
+      "relevance": 6.4
+    },
+    {
+      "title": "UFJF funda nova sede do Museu de Arqueologia e Etnologia Americana",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3FaalRQMzV6Yi1WWEl6dWJJUk9lbkN3c1hNZWlXUTlUNDVrWTBDaGl6RHVHRkFsTnliazZ4SDdFTlU2WE1BQ3p6RVVzamNNN19hbGU3VGhSbmt1X3pWVFk0ZHk4bDZqZUFPWGVhR2pKcDFmLUgzMmV2QU9CRk8tSm4xVkFwVGtxeGlNek5tZi1FQi0ydnl3d0J3YXp0UDhtYkNSbXRwcVE5QQ?oc=5",
+      "source": "www.radiocatedraljf.com.br",
+      "publishedAt": "2026-11-03T20:30:42.000Z",
+      "summary": "UFJF funda nova sede do Museu de Arqueologia e Etnologia Americana www.radiocatedraljf.com.br",
       "image": null,
       "topics": [
         "historia"
       ],
-      "score": 5.58,
+      "score": 5.5,
       "relevance": 6
+    },
+    {
+      "title": "Hackers usaram entrevista de emprego falsa para invadir sistema e roubar US$ 6,3 bi da Binance",
+      "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/03/hackers-binance-entrevista-de-emprego.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-03T16:58:54.000Z",
+      "summary": "Binance teve US$ 6,3 bilhões em ativos de criptomoedas roubados. REUTERS/Dado Ruvic/Ilustração A Binance afirmou nesta terça-feira (3) que hackers usaram uma falsa entrevista de emprego para comprometer um computador e uma ferramenta intern",
+      "image": "https://s2-g1.glbimg.com/uFxcT6H10eC6k3x6MmMTbuVwiHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/Q/OErXq2Q4Crc8URBjiyUg/2026-10-27t145741z-1217147951-rc27jx99ilqc-rtrmadp-3-cryptocurrency-binance-russia.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.44,
+      "relevance": 6.8
+    },
+    {
+      "title": "Mercado financeiro prevê inflação mais alta e crescimento menor da economia brasileira em 2026 e 2027",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa0ljaWxRM2l4X1VTbkZacU5VQ1BTMktqdERnR0RRYVVJVVEwc0pqTEd4cXlrVTNKR2hTSTdoNkR1cU8tcEtlNVFVb2NuX0c3cEtkS1lydjhZRjQxNEFnYk9wMzQ2QUduWm41cVZXdEZvSTFZQ3RrTWxIWUZqekFBZ0s1SF9OY1EwYUZQVEtncjFuMGJ4eTA1aFVrbU9kQnl0V3dPQUl4a2hJUmVIZE5vZ3IxWmtUSkNqOHVTUlIwNm5qb1lC0gHKAUFVX3lxTE1NQkRLQ2U3bWZ2QS1icVVGekhaMi12SERMQTVWYk81VHNSRnYtZFR6QUVZNURxN2cyYlpsY3pTQWZadlcxbHRBUm95Z0NwTHRkUHVWalNmQUo0ZmhpOHBjTFVWRFdnVjRmNmNRaDlJNTMtc3EzVmZPMzEybTA5TGI4dl85RFYwR0tDa2IyTUQxSUtNVU81cUR0RHIyTEU1enNnU3hRVWNLcU1tbFVjTDJhY1llSW13UGNWVlVnWmFUSmppRU5KeTNnakE?oc=5",
+      "source": "Jornal O Sul",
+      "publishedAt": "2026-11-03T12:43:19.000Z",
+      "summary": "Mercado financeiro prevê inflação mais alta e crescimento menor da economia brasileira em 2026 e 2027 Jornal O Sul",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.44,
+      "relevance": 8
+    },
+    {
+      "title": "Ibovespa cai abaixo dos 165 mil pontos na volta do feriado com Petrobras e preocupações sobre economia - Investing.com Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQVFXdVUzTFNYRGdwSWZueGljdnFxX21RbnBzNlZkOXJBbloyX05GQVllYWxCLWJUMEk2UmVOM2xmZGVhbWRJUC1lZHFTREVhNnhWUVZ1cnk4T2IyVV9BclQtLUEzdGtUYjlVbHJNS2trS2tlcTR3X1UtcFJ2NFFpZWZ3b1Z1X1ZLWUZQSHUtdXF4M0p4eUxMTVR0clVHbnh4MmFITzBERHZ3R3JUX3VhUUdPMXY2NG85MW5oZW4yZDJOVEJvZVJfWjlRclR2N2FTc1JPOFpYRXlRV2duRkFYLURHMlVkYVJU?oc=5",
+      "source": "Finanças, Câmbio e Investimentos",
+      "publishedAt": "2026-11-03T13:21:00.000Z",
+      "summary": "Ibovespa cai abaixo dos 165 mil pontos na volta do feriado com Petrobras e preocupações sobre economia Investing.com Brasil - Finanças, Câmbio e Investimentos",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.43,
+      "relevance": 7.8
     }
   ],
   "byTopic": {
     "historia": [
       {
-        "title": "Apresentação pública da “Peça do Mês” do Museu Municipal de Arqueologia",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcjI4clVNRmNjZS1YSGQ2TFlSTzk0YzNyMnFSenBMd2dBR2t0NGFUZEhuWnZyak81d3ViLWFmblFSNmlpaHpPem85clA3U3RBaXdXVEpkVTB4djdqNzNMZzRBVFQxWG1vZ3FyYlBWSEVGdWpZbFJRRTA0dDBzdTRQRXgxMkZhWHVzX09ZQnJFbW9Ca2Q5TUhqcklFdllYQ1h1QmhENVpVbDg4M09WeVJXS3E5REZlMDFiVnY1R1FtWU9XeWlJbThHMnRTUkJFQzA?oc=5",
-        "source": "Câmara Municipal de Serpa",
-        "publishedAt": "2026-11-03T11:31:17.000Z",
-        "summary": "Apresentação pública da “Peça do Mês” do Museu Municipal de Arqueologia Câmara Municipal de Serpa",
+        "title": "UFJF funda nova sede do Museu de Arqueologia e Etnologia Americana",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3FaalRQMzV6Yi1WWEl6dWJJUk9lbkN3c1hNZWlXUTlUNDVrWTBDaGl6RHVHRkFsTnliazZ4SDdFTlU2WE1BQ3p6RVVzamNNN19hbGU3VGhSbmt1X3pWVFk0ZHk4bDZqZUFPWGVhR2pKcDFmLUgzMmV2QU9CRk8tSm4xVkFwVGtxeGlNek5tZi1FQi0ydnl3d0J3YXp0UDhtYkNSbXRwcVE5QQ?oc=5",
+        "source": "www.radiocatedraljf.com.br",
+        "publishedAt": "2026-11-03T20:30:42.000Z",
+        "summary": "UFJF funda nova sede do Museu de Arqueologia e Etnologia Americana www.radiocatedraljf.com.br",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 5.58,
+        "score": 5.5,
         "relevance": 6
       },
       {
-        "title": "Mação recebe conferência sobre o futuro da arqueologia na era da inteligência artificial",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUG1MelhvWF9vejZVTG9vVzVNMWxkbHpvcGNUdjJ4a1FZTXB2Rm1CSW5tZnNuSlhTMGdHWmdIb3JRTDh3NEowa3pwd0dMQXNHUXFueGV0QnJTVFphT1VVX21iVXJUNGVhNFRCTXhndklGcDREUjY1eWhRTEkwSEpHS0JrX0ZNNVJmYU5UWVc2SE9EUGxBM0o2QzFkNjhrNXhhLWJMT2dEQklaMWJ4QUp1Zg?oc=5",
-        "source": "Médio Tejo",
-        "publishedAt": "2026-11-03T10:11:29.000Z",
-        "summary": "Mação recebe conferência sobre o futuro da arqueologia na era da inteligência artificial Médio Tejo",
+        "title": "Museu de Mação acolhe palestra sobre o impacto da Inteligência Artificial no futuro da Arqueologia",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdlE5bUh1aDJkMUdIMXdCbEhobXhaTERHSF9jcWdkc09TOElsamlPV01LZ1BaNlZBV1NId1ZzQ2V2eGxEMHlwQzJ2OG1PTXQ0bjdMSjE5UDN0OUdkOTRwWGp0dHhvLVU3NlJpck5ZdjUxb2Z2anU2eUxNWHFDdFU3QzFnT3VnSlp3NDJKY1c1X2IydHVIbGphblZvQWNPUjZoMFNZSGw3cnBNRzdwbG5hRDFEeFhmcVhpY25QbmFPRF8?oc=5",
+        "source": "oRegiões",
+        "publishedAt": "2026-11-03T18:30:01.000Z",
+        "summary": "Museu de Mação acolhe palestra sobre o impacto da Inteligência Artificial no futuro da Arqueologia oRegiões",
         "image": null,
         "topics": [
           "historia",
           "negocios"
         ],
-        "score": 5.3,
+        "score": 5.09,
         "relevance": 6
       },
       {
-        "title": "Em Congonhas, homem é preso por danificar patrimônio histórico tombado pela Unesco",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVXJsNGJPUVpYS2EtYlFDR0xYR1RwNFBlUXF2MkdPY3lXazUycUtPNnNPTWR5aUttdlg2TUZwTjJ1S1F5ZDJTQUduZ3ZiVU1lWFB6N3dZZmF6SXNCTGk2MUo0aUJnZjVQa0FGQXlqb25KdnVxcElBZDJGU1ctUnYySERXQlV6RHkyRUZaY1dyRzducUxmMUJ3MkZZRXNJVW5jS2pXWTBzQmRLc1diV1dOYWZUWlpZNGxLS19LeEg1NmlXOWR1S3Y2dFlPR2U?oc=5",
-        "source": "Barbacena Online",
-        "publishedAt": "2026-11-03T13:16:17.000Z",
-        "summary": "Em Congonhas, homem é preso por danificar patrimônio histórico tombado pela Unesco Barbacena Online",
+        "title": "Rádio MEC do Rio agora é Patrimônio Histórico e Cultural Imaterial",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVFdfYkJzNGU0QWV5ODBvU1NXTEFqdUs3Q0lyNGV6R2N4Zm1FSm1ZT2xRNklma0FpTzh5QjZsWW9BdU1KaGR4Wldud2ZUM1B3ZG14akExUUZqbnl1bDNpRVFqQUdVbWtYTDNMVTl3YWxOSlJoelJiSFNJZmwyd1kwbC1TRzhvYzVRWXdGeUgzRG5ZOXI5LTdsRk1CeTd3QmlNZVE?oc=5",
+        "source": "Diário da Guanabara",
+        "publishedAt": "2026-11-03T21:08:40.000Z",
+        "summary": "Rádio MEC do Rio agora é Patrimônio Histórico e Cultural Imaterial Diário da Guanabara",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.98,
+        "score": 4.7,
         "relevance": 5
       },
       {
-        "title": "Descoberto povoado romano do século I no sítio arqueológico de San Esteban em Múrcia",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV21UZW1KTVUyeEZMRzJSZVlJVVFvWG5uVTl4Y3V4RTRTUDdZOHJRVERQYkJnQ1dwM0lJbDNuQldxRkZwTGRQRlB3NTFWaHdxSUU0WTR6RVZwakJ0d2owMUlfdWo2U0IydzRfN1FNTlJqdDZvSk5Ia3FzZHpFYnFWLUE2M3pwSjZiWUJjd1lCNVZLdGl2T1g5dXhpN3p5QlJDeHdrMm1aQXhTR0paYTlVdXJYbVkwUGlzU1E?oc=5",
-        "source": "Observador",
-        "publishedAt": "2026-11-03T07:10:00.000Z",
-        "summary": "Descoberto povoado romano do século I no sítio arqueológico de San Esteban em Múrcia Observador",
+        "title": "Violação de túmulos causa danos ao patrimônio histórico do Cemitério da Candelária",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11SUlGR3laSE1pWERXaWpTLTlXc2JWeFJQWHhPUFEwd1pCSW1sbHVIZ3RjeDhpUHFYN3dyOTBIZjlIcWN5cllqNVZGQ0dTX2k3Uy1XQndDLWxYeFFWczd3Yg?oc=5",
+        "source": "Prefeitura de Porto Velho",
+        "publishedAt": "2026-11-03T17:48:00.000Z",
+        "summary": "Violação de túmulos causa danos ao patrimônio histórico do Cemitério da Candelária Prefeitura de Porto Velho",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.72,
-        "relevance": 6
+        "score": 4.13,
+        "relevance": 5
       },
       {
-        "title": "Killing apoia a restauração de 164 anos de história",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQjZ2b0k0MHdTV2JxQ25Idm9pbzA4MWdGTEJfQkhQRG1UcWNaZHo3WHBnbFB3WHMwNl9iclFyMmdrLTBLVTc2cWF6WG9PUjY2a3doUVdRRXBfQWYwYnVQa2l3Rl9HbGxCVHlKX3B6TWQ0UkR3dUd0LXFHN2doU1E?oc=5",
-        "source": "Rádio Guaíba",
-        "publishedAt": "2026-11-03T13:15:00.000Z",
-        "summary": "Killing apoia a restauração de 164 anos de história Rádio Guaíba",
+        "title": "Segunda edição da Vitoriata reúne música, cultura e valorização do patrimônio histórico de São Cristóvão - Prefeitura Municipal de São Cristóvão",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOd2Rxa1FHcHpzdmFBZE9UZGdOcXhPcGVsc2RMS0s4bzlEVlB2aHc5Zi15UU5HNG10dGh0aVNjeW1OLVJvMzU4dHBHRnhDX3BNLTRwSXNqVE8tb1laNFVfSU0wbGZ0VVJRZ3JHMlhFMS1ib1R3aFE1M0JQN1ZmUS1uTXI2UUg1d28xcmk5NU5wRGdTV0UweVdocXlQQnYwNFZHam5wT0FzUjdpNEZ4TWhXT283eHZKSjJXczQ1eTJpZ1ZWN0JHZktNZnJkbl9YMEdidDhLb0ZRbkJ6LUh2STVF?oc=5",
+        "source": "SE",
+        "publishedAt": "2026-11-03T17:05:44.000Z",
+        "summary": "Segunda edição da Vitoriata reúne música, cultura e valorização do patrimônio histórico de São Cristóvão Prefeitura Municipal de São Cristóvão - SE",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 4.02,
+        "relevance": 5
+      },
+      {
+        "title": "Homem é preso após danificar patrimônio histórico tombado pela Unesco, em Congonhas",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZXlfTmNqaGtnZjZVWF9kWDV6cmR4YXRjMllxWm9fZDN6amY1VmJCOS1mV2hIUWItemZzS3hqLTMxdU9yQjJhN2RySXZKQ3I5VFlmRDRrSlpsU21EV1VvTU0wcW1lbmhITFZ6QWdpTGE3aWY5a05qLWN4RGdlc0trdlVzOXZVZ09uT0ltcFBmekFoanhwS2sxSl9iTFRrYThtSmY3SFZsQWpKNk13d3JGbzR2R1lLX1do?oc=5",
+        "source": "Vertentes das Gerais",
+        "publishedAt": "2026-11-03T16:49:37.000Z",
+        "summary": "Homem é preso após danificar patrimônio histórico tombado pela Unesco, em Congonhas Vertentes das Gerais",
         "image": null,
         "topics": [
           "historia"
         ],
         "score": 3.98,
-        "relevance": 4
-      },
-      {
-        "title": "Rafael Reis: CR7 ainda é o 'trintão' mais caro da história do futebol; confira o top 10",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUlpWMmF5ak5tS0hHZVVQSTZZcUJwdnBtNC1QdXlnT3dYNHlMRk9pR0xNSnRhdEZPSW9FZnoxRUNDdTFYck1udk4zNjFLdnNScnM2MXNIVTZ6WmVEV05xSlZ2Q2I1VmxCQ0ZjMXBrcWtVR0xSdmNVbGEtTlh3Y1A5UXE1Rk9TQTRlNnNKemR3OEdZcXF3Z2pQMEhZcEhQRmFrNGdYQm9iWklnVmtsQ0FwTjFUZW1wQXBqQ25mM185NEpFcGFDT21paVRFQnZBbnpQM2FhS0pWSXpiVEdXbWc?oc=5",
-        "source": "UOL",
-        "publishedAt": "2026-11-03T13:10:20.000Z",
-        "summary": "Rafael Reis: CR7 ainda é o 'trintão' mais caro da história do futebol; confira o top 10 UOL",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.97,
-        "relevance": 4
+        "relevance": 5
       }
     ],
     "geopolitica": [
       {
+        "title": "Rússia lança ataque com centenas de drones e mísseis contra rede elétrica da Ucrânia às vésperas de negociações de paz",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/03/russia-lanca-ataque-com-centenas-de-drones-e-misseis-contra-rede-eletrica-da-ucrania-as-vesperas-de-negociacoes-de-paz.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-03T17:38:14.000Z",
+        "summary": "Papa faz apelo por paz em meio a negociação entre Rússia e Ucrânia A Rússia lançou uma série de ataques contra a infraestrutura energética da Ucrânia nesta terça-feira (3), com dezenas de mísseis e centenas de drones. Segundo a Reuters, os ",
+        "image": "https://s2-g1.glbimg.com/NTn9aNpnpXwFoNy_KjF1VIHS1Es=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/A/oVvtAoSZK3vJZYCgkexw/2026-10-17t130823z-833036998-rc2c4oat4p98-rtrmadp-3-ukraine-crisis-ze-enskiy-trilateral.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 8.05,
+        "relevance": 9.8
+      },
+      {
         "title": "Melania Trump vai receber representantes da Rússia e Ucrânia juntos, diz Casa Branca",
         "link": "https://g1.globo.com/mundo/noticia/2026/11/03/melania-trump-russia-ucrania-casa-branca.ghtml",
-        "source": "G1",
+        "source": "G1 Mundo",
         "publishedAt": "2026-11-03T13:11:17.000Z",
         "summary": "Primeira-dama dos EUA, Melania Trump, faz anúncio na Casa Branca Reuters A Casa Branca anunciou nesta terça-feira (3) que a primeira-dama dos Estados Unidos, Melania Trump, reunirá pessoalmente representantes da Rússia e da Ucrânia juntos e",
         "image": "https://s2-g1.glbimg.com/SAR6whS0JqM_3EsuTDCoZZ_fQyM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/a/8/OxTMTDQ42y6gubv1iAfg/imagem1.png",
         "topics": [
           "geopolitica"
         ],
-        "score": 9.33,
+        "score": 6.5,
         "relevance": 9.4
       },
       {
@@ -768,389 +781,375 @@
         "source": "BBC Brasil",
         "publishedAt": "2026-11-03T09:35:49.000Z",
         "summary": "As preocupações com o apoio dos Estados Unidos a Israel estão motivando eleitores de ambos os lados da questão em uma das campanhas mais disputadas das eleições americanas de meio de mandato.",
-        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3b1c/live/ab230d00-d3ad-11f1-b441-2b33b063138f.jpg",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab98/live/556f3d10-d7d7-11f1-8cb0-d304936875f3.jpg",
         "topics": [
           "geopolitica",
           "negocios"
         ],
-        "score": 9.16,
+        "score": 6.39,
         "relevance": 10.6
       },
       {
-        "title": "Custo de vida, 'fator Trump' e guerra no Irã: as 9 preocupações dos eleitores dos EUA nas midterms",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/03/nove-preocupacoes-que-estao-na-cabeca-dos-eleitores-dos-eua-antes-das-eleicoes-de-meio-de-mandato.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-03T12:54:15.000Z",
-        "summary": "Moradores de Manchester, em New Hampshire, nos Estados Unidos, votando nas midterms em 3 de novembro de 2026. Reuters O aumento do custo de vida será a principal preocupação dos americanos ao irem às urnas nas eleições de meio de mandato de",
-        "image": "https://s2-g1.glbimg.com/cy5ZW5YM8f9TwYhx1b445DkbDfQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/M/g50jAuSUyvv5ZFS5UgLg/reuters-20261103-0800-frame-1717.jpeg",
-        "topics": [
-          "geopolitica",
-          "negocios"
-        ],
-        "score": 8.44,
-        "relevance": 8.6
-      },
-      {
-        "title": "Ataque russo contra escola na Ucrânia deixa 31 mortos; Zelensky acusa Rússia de bombardeio duplo",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/03/bombardeio-russo-escola-ucrania-mortos.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-03T10:42:51.000Z",
-        "summary": "Equipes de resgate retiram um civil feriado de um prédio residencial após ataque aéreo russo. Serviço de Emergência da Ucrânia via AP Um ataque russo contra uma escola que servia de distribuição de ajuda humanitária no sul da Ucrânia deixou",
-        "image": "https://s2-g1.glbimg.com/MrDEhpOBGCmq_eXzFUWWhuQrkr4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/c/Aok17XSFA4JkzdlpfzYQ/ap26307327730564.jpg",
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 6.67,
-        "relevance": 7.4
-      },
-      {
-        "title": "Copa da Ásia de 2027 é adiada por conflitos no Oriente Médio",
-        "link": "https://www.poder360.com.br/poder-sportsmkt/copa-da-asia-de-2027-e-adiada-por-conflitos-no-oriente-medio/",
-        "source": "\n\t\t\t\t\tPoder360 · PODER360\n\t\t\t\t",
-        "publishedAt": "2026-11-03T12:27:37.000Z",
-        "summary": "Torneio de futebol continental vai passar de janeiro para dezembro do ano que vem por causa de ataques na Arábia Saudita",
+        "title": "Especialista analisa a separação da Ucrânia da Rússia como estratégia geopolítica",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVXBBQXlzQUd1LWRQNWI1ZmMxeE5FbmRVY19obGRyUGliUkZLZi1ocFhWWC10X254M21SMmVhOGtVRmVBLXVWUi13YlNqMDBmemxmLVpUWjVVUWNUWUp5Z29lWC1YeEtVaGFjc09GSlo2cDRTampqMk5McVRCUmFQVEtqbXJHUWltY0F6c0NsV3FSc2lDcTdQZHc3RXNkdlI4NGRMblJEUW90UjFIWXo0b2kwVVBXNGhxbVA0eTlpLVlfUHBZOXcwSXQxbkhldFRnUFFkT1p0UERVUQ?oc=5",
+        "source": "Tribuna do Agreste",
+        "publishedAt": "2026-11-03T19:34:00.000Z",
+        "summary": "Especialista analisa a separação da Ucrânia da Rússia como estratégia geopolítica Tribuna do Agreste",
         "image": null,
         "topics": [
           "geopolitica"
         ],
-        "score": 5.79,
-        "relevance": 6
+        "score": 6.19,
+        "relevance": 7
       },
       {
-        "title": "Cheque de U$ 5 mil, ataques às urnas e EUA 'queimando': veja as polêmicas de Trump na campanha para as midterms",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/03/polemicas-trump-midterms-eua.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-03T12:33:26.000Z",
-        "summary": "Como eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula Reuters O presidente dos Estados Unidos, Donald Trump, colecionou polêmicas e falas inflamatórias durante campanha pelo seu partido, o",
-        "image": "https://s2-g1.glbimg.com/yqyoyJSUjvH__rIsBnzIIQ615CM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/T/AZxCxNRjGyeMMkVnJ73g/c8b90d54-52cc-4e65-bd2a-57f55e2cd664.jpg",
+        "title": "Trump diz que vai cortar ajuda a Israel em 2027 e que está próximo de acordo com o Canadá",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/03/trump-apoio-israel.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-03T14:19:16.000Z",
+        "summary": "Aprovação do governo Trump se mantém em 32%, às vésperas de eleição nos EUA O presidente dos Estados Unidos, Donald Trump, afirmou nesta terça-feira (3), dia de eleições, que interromperá a ajuda financeira que dá a Israel em 2027. Em entre",
+        "image": "https://s2-g1.glbimg.com/aP8G98jHhJ7sx9guyRIAKd1BzD4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/T/piz5KuTFCseBPdea3R5w/2026-10-29t174613z-292374100-rc25doazkjy1-rtrmadp-3-usa-trump.jpg",
         "topics": [
           "geopolitica"
         ],
-        "score": 5.42,
-        "relevance": 5.6
+        "score": 5.93,
+        "relevance": 8.2
+      },
+      {
+        "title": "Eleições nos EUA: com orações e cultos na Casa Branca, Trump coloca cristianismo no centro de campanha",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/03/oracoes-e-cultos-na-casa-branca-cristianismo-vira-peca-chave-para-governo-trump-nas-midterms.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-03T16:12:11.000Z",
+        "summary": "O presidente dos EUA, Donald Trump, durante culto realizado na Casa Branca, em 9 de setembro de 2025. Divulgação/ Casa Branca Orações diárias, cultos em pleno Pentágono, um escritório da fé dentro da Casa Branca, candidatos e influenciadore",
+        "image": "https://s2-g1.glbimg.com/4VQXXbD6qfw8UlSLy8WwEuLrBXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/G/B81yBaSyinH1BuWYBdsQ/foto-1200x800.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 5.91,
+        "relevance": 7.6
       }
     ],
     "negocios": [
       {
-        "title": "Dólar abre em alta e vai a R$ 5,51, com eleições nos EUA e juros no radar",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8yNHd6TThuaEpRTERJeGw1SzlfdG04aGY5UUQteVNKMTJnYUlBcHB1TjBZRnBONGxaQWp1SzRqbkNqNTU4UWhfV2hhX2YzeGg5SjFqRTFuajBmNlRyLXNDN09TeklsT1hsQXJBNmZ4WXhXYXFoeDVxTNIBhwFBVV95cUxPX19vSjZpdjFyQVdSNWZBOHdqeTJEZEJaaGFWdy1qUGtlZUxpY1RZc2g0U2dqRkFEb09MN2FpbUptc0tGMjBtWW1uNFI3SURnRUtfS1NCUXNGQXNCeXJ5ZGxic05lSDdmMm96eEVGaWFjM3RQUkJKZmtMZnlpalFxOFdEOXlsWTg?oc=5",
-        "source": "G1",
+        "title": "Dólar sobe a R$ 5,48 com eleições nos EUA e juros no radar; Ibovespa cai aos 165 mil pontos",
+        "link": "https://g1.globo.com/economia/noticia/2026/11/03/dolar-ibovespa.ghtml",
+        "source": "G1 Economia",
         "publishedAt": "2026-11-03T12:00:19.000Z",
-        "summary": "Dólar abre em alta e vai a R$ 5,51, com eleições nos EUA e juros no radar G1",
+        "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar encerrou esta terça-feira (3) em alta de 0,79%, cotado a R$ 5,4871. Durante o pregão, a moeda americana chegou a R$ 5,5151 na máxima do dia. Já o Ibovespa, principal índice da bolsa b",
         "image": "https://s2-g1.glbimg.com/WWDRGDMxGNQZCy9ypuF1ackcQ90=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/a/S/u3TO0vRgyBsplTZYCmeA/2025-02-04t203004z-2-lynxmpel130tf-rtroptp-4-usa-trump-migration-colombia.jpg",
         "topics": [
           "negocios",
           "geopolitica"
         ],
-        "score": 10.81,
-        "relevance": 11.4
+        "score": 8.73,
+        "relevance": 13.2
       },
       {
-        "title": "Aliados querem que Lula use pronunciamento para afastar rumores sobre nova política econômica e defender equilíbrio",
-        "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/03/aliados-querem-que-lula-use-pronunciamento-para-afastar-rumores-sobre-nova-politica-economica-e-defender-equilibrio.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-03T13:07:50.000Z",
-        "summary": "Depois de ruídos no último fim de semana, sobre sugestões de mudanças na política econômica, aliados do presidente Lula defendem que ele use o prometido pronunciamento desta semana sobre a vitória nas urnas para garantir o equilíbrio fiscal",
-        "image": "https://s2-g1.glbimg.com/bjcYWe0ae5iJye-3Mmm0YR62h2k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/J/8eZmKyQvq3x8m8SkBa0Q/55249070125-d993e54025-k.jpg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 10.3,
-        "relevance": 10.4
-      },
-      {
-        "title": "Após reeleição de Lula, mercado financeiro vê inflação mais alta e piora previsão para taxa de juros e dólar",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWVczMlQyck1uVFprMm50NDVLaDVqWVFSWjdDYU5rbnZjZTJucmQ0a0loOGpyQnRiLXJMakJPdVo5Q1oydTZSVkpBZlY0SjEtbVhGQmlZcXRfZDFRLUlLMGdERnlXd2NFMHRhcUtzTXE1QjV5NEJPVWlhN0h1UWtFQmNoaUhQV2cxaFFtM3RQNnR6MU02N2w3Y1NMTmVTTlMzczUzbjktZlV0R0VobC1kNGU4YlZrdmYxVUVGQ3NFUks2cVI0dEVhYzdlOWxfY3JxX0tHRXBGbW9XX1VyRkJPVG9YQWNiN2tab2fSAfgBQVVfeXFMT1NwYWt3aXVvYWZ4VnNCN1BZblJZOVNyZmxFMFRwT0R6eGtXc2ZsaVljX084MElXWUtmTGRfd2dSUHBncjlvSW8tQXBQeWI2N0hvay1EVXgyWEYza1psaTBTQ19xVFFEb29xNzIwTHBOdW5EMlVoSG56REJpdnBzVmk0RXFzTnYxWDlMWXBmU3VSb3pIUXEtd29MTGp6cnFWRmVXejNTXzktVEFVYkJWRHRhVmh4Tzd4WnVmZXktd1hpQ2J6THJIeG1WRGM1eWhNS3ZpcFlCRXEweTF0SWZCcUM0RjB2YldzRFl1cVM0SFhNTThEM1dMR2w?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-11-03T11:31:14.000Z",
-        "summary": "Após reeleição de Lula, mercado financeiro vê inflação mais alta e piora previsão para taxa de juros e dólar G1",
-        "image": "https://s2-g1.glbimg.com/2rIaQ2wiBqrOP0Obgn3HFFYXJug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/b/A8IGA6SdAAIsLKWtdgOg/imagem-destaque-g1-dinheiro.png",
-        "topics": [
-          "negocios"
-        ],
-        "score": 10.23,
-        "relevance": 11
-      },
-      {
-        "title": "Diante de forte deterioração das expectativas do mercado, Durigan promete melhorar contas públicas sem recorrer a 'narrativa fácil'",
-        "link": "https://g1.globo.com/economia/noticia/2026/11/03/diante-de-forte-deterioracao-das-expectativas-do-mercado-durigan-promete-melhorar-contas-publicas-sem-recorrer-a-narrativa-facil.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-03T13:03:47.000Z",
-        "summary": "Com a piora das expectativas do mercado financeiro, reflexo da reeleição do presidente Luiz Inácio Lula da Silva para o próximo mandato, o ministro da Fazenda, Dario Durigan, prometeu continuar melhorando a trajetória das contas públicas br",
+        "title": "ECONOMIA | Após a reeleição do presidente Luiz Inácio Lula da Silva (PT), o mercado financeiro revisou para pior suas expectativas para a economia brasileira, elevando as projeções de inflação, juros e dólar e reduzindo as estimativas de crescimento eco",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbC1tTVpSZFJxTzJxZmJTZFRSSHJUZjZ4bHg3MVBMWHJERzRVUkV0cEs2WnJsOWM1T09OWjByLUtNeFpWUVRvRkhHMFlGYVhBNlJxeTlrVUM4QjZkSWVLWTNJWElkWVBKNldkamhkbWRIY0hfa0JLZnVCdHo3bUJWQmcwZVl2VmNHT2NzazVjOGc2ZWZCRHdWX1FoQUJ0LTJnaWRpcFdUb0ZlUGhLTUJ2aEtaakx4cDBrT19ua1dNOGVXS2FjTkc1N2diVHF5MF9HbG52MS1yM2QzQ3FuQTR1WXBGNmxGdDdndngtbk1Jd2g?oc=5",
+        "source": "Facebook",
+        "publishedAt": "2026-11-03T17:48:42.000Z",
+        "summary": "ECONOMIA | Após a reeleição do presidente Luiz Inácio Lula da Silva (PT), o mercado financeiro revisou para pior suas expectativas para a economia brasileira, elevando as projeções de inflação, juros e dólar e reduzindo as estimativas de cr",
         "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 9.28,
-        "relevance": 9.4
+        "score": 8.27,
+        "relevance": 10
       },
       {
-        "title": "Mercado financeiro prevê inflação mais alta e crescimento menor da economia brasileira em 2026 e 2027",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNlk4RjZfTTRmNmVsazVUbF9PaGxRREhDM3FwcE4xdU9kMWFrd1lLM1dOc0FOWnJBMy1qdXozLWt2dGJsUFE1SFB6SWJkUDlnM3dhel82SVExM29aQlJ4SW5Oc2lPZUUwTDg2YVNUSXNGa28tR2tBT1BOUlRBNkhYWmNvbnd4TkdDcm55RGZvZlhTUVFJMTlrZnpIc3RnV3poLS1fai1iUGZqY0ljTC1Ucl81ZGxUVUZBM2dsNl9ScWZBRWJ5SzZWQw?oc=5",
-        "source": "TV Pampa",
-        "publishedAt": "2026-11-03T12:38:45.000Z",
-        "summary": "Mercado financeiro prevê inflação mais alta e crescimento menor da economia brasileira em 2026 e 2027 TV Pampa",
+        "title": "Dólar sobe 0,74% e aproxima-se de R$ 5,50 em dia de cautela fiscal",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX01NTEthMTJhbnVCWjBjQkVrVjZtZ1paVWM2LTJfX3hFWU9sekJvdkFUaUlQYzAwY21hSjczNGs5Y2VzXzlyM0wyMjlLdDdhbjhWQjhkaVFKMWY2UzVCSmZfc0hwYW1jdW9lX2EtejlaX1p4ekwxcFBrSWREN1NjOC16azdUQ2xYdlhYSkJjYlV1Rk9JWk5DSnVwanh0N2Nhc29FY0dacVFuOWhvZ0h5QWFZUG1zYWFzQm1kdw?oc=5",
+        "source": "Agência Brasil",
+        "publishedAt": "2026-11-03T21:59:00.000Z",
+        "summary": "Dólar sobe 0,74% e aproxima-se de R$ 5,50 em dia de cautela fiscal Agência Brasil",
+        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 8.15,
+        "relevance": 8.4
+      },
+      {
+        "title": "O mercado financeiro brasileiro fechou esta terça-feira (3) em queda. O Ibovespa, principal índice da Bolsa, recuou 1,42%, aos 165.528 pontos. O dólar comercial subiu 0,79%, encerrando o dia cotado a R$ 5,4871. A pressão veio principalmente das preocup",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TdC1PTXo3YjRDRTR2XzBvSGNnMkNzY3ZSeXZJZUl2OERJNmkxMnprdklMNTNVVE40R1Z2b0xNNEJlaVBpLWlkaVhVaVNXM2hCeVVQMDVn?oc=5",
+        "source": "Instagram",
+        "publishedAt": "2026-11-03T22:04:57.000Z",
+        "summary": "O mercado financeiro brasileiro fechou esta terça-feira (3) em queda. O Ibovespa, principal índice da Bolsa, recuou 1,42%, aos 165.528 pontos. O dólar comercial subiu 0,79%, encerrando o dia cotado a R$ 5,4871. A pressão veio principalmente",
         "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 7.77,
+        "score": 7.8,
         "relevance": 8
       },
       {
-        "title": "Disney planeja milhares de demissões e cobra redução de 20% nos custos",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY2dKQXdaWU9pblZ4Z0x2RWhqQnQxOW5PTU9CQ0JJWlJMUkxPbFJuVGpRUTVjdzhHTEpVOU0zelFQa0ZPSWxJdVlPY1VObFJTUXpLUWZZczhhVGxxVEhtSGZMckUzS0JoRlFKeVQwQVN2SkZOakZDRUZNNTEyc1pvdXlYUWJleWEwN1U1SlVIb1dSRXRiZENIVVdWeGF4eG1DcWpxYVVHNHByS1hveFNyaWU5ZXphY0VCOEpFNHdYbE52ZjBCdG5yRXI3NnJwTWotWC1OcGVmb9IB5gFBVV95cUxOQjEwNGxKOEVvTjBsSExUZ25QY2F1bWxZQUt5QmRWT3ZNQml5dC03QkxTbHZERUFJaGtuVFBsM040WUNwcDg4aC1MMVJaNjVoNzM4MndVdVBQdW9FcWxjR0hSR05DYTdQb3B4RTRlT2xYLVo0NmVLQ1JCSW9UeFBNLXVEaXpWNjVKZzZodjhxM0VMekphQUp5VzZ5aFgzeUl2RVNVdUx5aTRrTzVlSWk4RzhPVGVzWWQwQWlhUTZPNmUweTlqbHcxNHVpQVJhS1RLTGV0UTdnQUlGZEI3MFlfNkx3YWc5Zw?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-11-03T13:15:49.000Z",
-        "summary": "Disney planeja milhares de demissões e cobra redução de 20% nos custos G1",
-        "image": "https://s2-g1.glbimg.com/hugB0nbCeOgxURyYD4pqlJ7gj6Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/p/pFcG8ASaAZARcWAfruYA/2026-04-09t003229z-596821154-rc281gabapjq-rtrmadp-3-disney-layoffs.jpg",
+        "title": "Copom deve manter Selic em 13,75% em novembro diante de pressão fiscal e inflação persistente",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOcE1IOFJ6enpwbzBhbHc3QXI0RWRpRDdubFBSeURfV21mMk5LdFl2aVMySVZPTXhHenpyVUcxZWFhWFE2SkJZMWhHcDVua3Z4QnM3UVk5SWxzYTRCbGs0X1lDTUkzbjFHeEVENlJqYTE2TzRkZjZYR1ZRX2l5cTV0MUdySG1FOEVfRzVndjc0X3ZfT2lic3Y4QmI3endpV05vclpSMWlOamhOM2JzTXdCM3ZlaWxqN2VlWndTdmJXYzlKLTc4X0RzT1BKTDNFZmlKTUZpVVlQQ0haNVBHa0U4ZlFDdDVpSUdrbW5RamhNYnc1Mmh1SDV0M2tiY3c?oc=5",
+        "source": "Portal do Agronegócio",
+        "publishedAt": "2026-11-03T22:20:00.000Z",
+        "summary": "Copom deve manter Selic em 13,75% em novembro diante de pressão fiscal e inflação persistente Portal do Agronegócio",
+        "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 7.36,
-        "relevance": 7.4
+        "score": 7.67,
+        "relevance": 7.8
+      },
+      {
+        "title": "Empresas brasileiras unem inteligência artificial e previsões climáticas para proteger operações de petróleo e gás contra eventos extremos",
+        "link": "https://news.google.com/rss/articles/CBMihwRBVV95cUxNTUdzWE11R1pRQVpXSlJVb0RRWGhxcVkxRnJHb1psdFdfdWZPandES25od0VkNjdNQ2xHU2pqelN5U3NXdnhDZnlJcHFtNlg0QU1BblFSQVR6Qk5RTjdlVEVmWFpOS1RlVGFEbG5aLTlBSHZXOS15U1FRb2gwMi1RN25uUFVqZU1hTF9telZDT2UzVnhaWllIOGpkM3BPUUsxemhfaFRSS3IzYzVXaVJyck5vVDdGNVE3blJsb09PX2dmOHVLOXVUNlk2d21NSnJoeVZXLWZqNnY0dXBXYm4waUFzN01wWTRtU0RCTlp6T0J2WUFPUkNONDJJYlZZTTV3WElRNDAtZElQLWFUN0JYclNYbklocGxLdG9YZHFjRlg0Um1TeFZVQXZlcWF3MzZBdWhtWW5uazJ0QXlLUHVRSVZfeHNpQWItQ2FvMVZzbWw1SEozaUFOUE5DS3BZTVFEaXA3WXhJUVRvQjZnb3ZpRklidWdKWk9WeGdHNE5sSkhncms1RW5rV1RIZW1hSVF1NEs1MjVOUTN0R0I2NXF0RlRKSVI3V1J2WUc3VTJnbFpnTncyemJaSk5GN3NtVXd3RVF6S0RzSVJaOEhCcHY5N1k5NG05T1QyUFJweTROcmkzOHdDUnBJWUIzY1pkNUFCYnBHUVNSV01LYThyUzV5RF9MWWlYWms?oc=5",
+        "source": "CPG Click Petróleo e Gás",
+        "publishedAt": "2026-11-03T20:09:00.000Z",
+        "summary": "Empresas brasileiras unem inteligência artificial e previsões climáticas para proteger operações de petróleo e gás contra eventos extremos CPG Click Petróleo e Gás",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 7.24,
+        "relevance": 8
       }
     ],
     "filosofia": [
       {
-        "title": "Frase do dia da Filosofia: “Quem tem um motivo para viver consegue suportar quase qualquer dificuldade”, uma reflexão de Nietzsche sobre encontrar forças mesmo nos momentos mais difíceis",
-        "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPR21ESVlCb1N3U0JqeGpNYW1kTWZTbnZnQTFIQ0JuRUpBbXBSSUFsWWFLdGlQbDd3c3ZvTlgyRUUyeWU1RU45bEVxSDZQVVo5aVNjUGhoN1F1RUwzTGdaQUNjbXFLUjJWNmZSdGZiZzI4UTF3d0d5ZHJhUjJia3dVOTFPYWpxZzR1NjJ3cmdGV2I0WHVWTHpfZ0NKSlBYSWN6TW90M244aGJJM3hfTXRaYnR5YWxKZFMyWmpqYXBpdTg2OTIyOVpjSFRXN1c3azJybXJaOWpwV2hmMDFsc2tMaDY2UlFFNUVMMUlGbDRUVm1wczJIVnJQUHM2d29KQ2FJTFB3X0xDdTE0MTNxQXZsQXJBM0loX3dYeTBreUhLV1lmQl9Lc0VDSmx6d2UyTG5teTMxRmlMdG5WejQ?oc=5",
-        "source": "Portal 6",
-        "publishedAt": "2026-11-03T09:00:37.000Z",
-        "summary": "Frase do dia da Filosofia: “Quem tem um motivo para viver consegue suportar quase qualquer dificuldade”, uma reflexão de Nietzsche sobre encontrar forças mesmo nos momentos mais difíceis Portal 6",
+        "title": "Cícero, filósofo romano: Contentar-se com o que se tem é a mais segura e melhor das riquezas",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdWtFU2hqQWtyTHFHYmFSQjNzN2d0X2w0NFk4MG44YUlrZUdSV3l6OFdwS19Xd290aWkxRUlzQk9IUHlfT3YtZGdxN2ljbGRHYzR5WlNWazYtWkRSQ2ZseDRxWWxnNUQ0NFJzTVF3bWFYSmRZRHh6MF9tVEREQjJOU1lmUXlPTHhtUHNvRjJ1TVVZNDhqZFlQTlFoMldJMGlsMmRQUk5LNG4wNTFXTG1qQmNLekNuQzFLUEFsQ0xKRmI4TXpEVV9yNmRYODdZV09DVURB?oc=5",
+        "source": "Correio Braziliense",
+        "publishedAt": "2026-11-03T18:58:00.000Z",
+        "summary": "Cícero, filósofo romano: Contentar-se com o que se tem é a mais segura e melhor das riquezas Correio Braziliense",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 4.22,
-        "relevance": 5
+        "score": 3.46,
+        "relevance": 4
       },
       {
-        "title": "Mandando Bem no Enem: estudar Filosofia vai além de decorar nomes e conceitos",
-        "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPOVJqZjhQUnNFM2p2b2pzNWJZTFZ6UWQ0dEd4anQtVWFGdGx3VU9jQjBOUVV1TFFWajIwLVBlMWZ0aXVuUmJpMU5hN2ZrbU9qS1JMWlhYblhHcmUxZDRGd2xvTmVJV3U1WW5TUWwxLXpmTVAySEtEMDNDbW54NnlabDhyZnZyMTRYVkJiUloxZ25PR1JMTlJLb3lfTThWdlR2U3JMWGpUaVBDNTA0RnJmdkMyYXMyTVZzdDJ3WC1hRG5rQXJPd2Z0ZjFtbzA2dHlOYlY0UG5KendHTEt1eS1ILU1aWm1rNC1YMFJRNzV0cnNtY3VEQmY5S0h3dVNQSnppblJ5REhrZzZET0s2Tk8tZFFrcENaRnNzQXpkSVBEOHJDWUE0YjJEQ0NCd9IBugJBVV95cUxNd0MtLVVLSmtfUXdjempmaVdtcWt1ZjdYeGxPWmhlakxXaF8wR0FSa1FzVjhBYndCYUlfd0p4aGppQ1lWTWlYWFVqZURQRnFwNlY5Z0llQW5ydE55YWRSMmhTaFBzd0Rhb2szb2tob3prSWFQZWpiVXhLVGR1WmZZR0J6TDRRa3pwUU9obk1IUkI0djBrMG1LSlNZR3Baa3FqNkJxUGgwb014d0JSMUgxMHkwV01SekNRdzk3bWhDWmlpUUQ0OE1ZRGctMmFHTFBDeDgzZlZ4UGFZNC1DNldfUXdTYnpqS2t1TVpRcFBFYVJ1MktUSEZMb3lZRXp6TUxGTHUwYUNDdFFlRmhWUmlVNW43cXh0dTFoOTEwSWtrOTl2QnYxajNOY0daZDhMbWxwUi1hVGZjbF95dw?oc=5",
+        "title": "O professor de Filosofia e crítico de arte Flávio Rocha de Deus (@flaviodeus_), natural de #Lençóis, na Chapada Diamantina, conquistou o terceiro lugar no Incentive Prize for Art Critics 2026, promovido pela Associação Internacional de Críticos de Arte (@ai",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41U1BDM1lKS2MxWmlRU0ZvUTh2aEE3TW9HWl9WTl9nRWFFeE1JSW5rYzBTRl9MQ2Q4WVJoc20tUEd3ZFgwRVVhZnB5UWNLTGV5WUE?oc=5",
+        "source": "Instagram",
+        "publishedAt": "2026-11-03T17:11:24.000Z",
+        "summary": "O professor de Filosofia e crítico de arte Flávio Rocha de Deus (@flaviodeus_), natural de #Lençóis, na Chapada Diamantina, conquistou o terceiro lugar no Incentive Prize for Art Critics 2026, promovido pela Associação Internacional de Crít",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.23,
+        "relevance": 4
+      },
+      {
+        "title": "III Ensaios em Filosofia divulga programação atualizada para 5 de novembro",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVUk2bjRsN0gtY3l3SEVnWUVrTTgzYjdhM1gySXVBaTd3TUtoZUY2TWxTVnNFVkI1UzlVU29TOHg5SmhfSnRWc1hKVFdHNWxRODA3UFhZVXpXcFFtb1pPbEZjcldtOHRtTExNbnBGVUJzeWE5OUh3OXRKbzZTeWk3ckRESDFyckJScndLWktva0p1LVZnUjRzeUk0Q21FLVl2UkcydU4tXzIwNmhUMDVmU0lYenRINVVnTm5pSlJxSG9xaThUWXJDWjRSRXVubGdFalB2QU5YcDU0bEQxaUdrX9IB4AFBVV95cUxOVUk2bjRsN0gtY3l3SEVnWUVrTTgzYjdhM1gySXVBaTd3TUtoZUY2TWxTVnNFVkI1UzlVU29TOHg5SmhfSnRWc1hKVFdHNWxRODA3UFhZVXpXcFFtb1pPbEZjcldtOHRtTExNbnBGVUJzeWE5OUh3OXRKbzZTeWk3ckRESDFyckJScndLWktva0p1LVZnUjRzeUk0Q21FLVl2UkcydU4tXzIwNmhUMDVmU0lYenRINVVnTm5pSlJxSG9xaThUWXJDWjRSRXVubGdFalB2QU5YcDU0bEQxaUdrXw?oc=5",
+        "source": "UFSM",
+        "publishedAt": "2026-11-03T16:59:23.000Z",
+        "summary": "III Ensaios em Filosofia divulga programação atualizada para 5 de novembro UFSM",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.2,
+        "relevance": 4
+      },
+      {
+        "title": "Nova Acrópole celebra a Filosofia e a Ciência no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYWt0UDlKUm1oRGQ1RzZFN0ZxTjd0RU5oNjF3WEJSSUhrU2FQTkphSUpQRUFoZ1FSZmZrOFpzMy1VUlZEN1NRY05qalpPbzMya01FX0wxRF9vNkUxWFltQ3VoV29VRHhXaHVlSEc3ODJMLUktSWhDcDFUTnpZSkNCRHFKa2FMSXhHdFA1RlowZU5IS0FiSlNvemFxZ3RHNEtFa2RybEhnckZOZ2M1UjZNc1NYaUpNa0pJSHQ3VVlMMjZzMXM1dzlRbXA2cDJSdlpqYWZZdEtNa1N5Ui1wV202WDNjc01fdkNVZHZLMl9Xbw?oc=5",
+        "source": "Portal UAI",
+        "publishedAt": "2026-11-03T14:32:00.000Z",
+        "summary": "Nova Acrópole celebra a Filosofia e a Ciência no Brasil Portal UAI",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 2.91,
+        "relevance": 4
+      },
+      {
+        "title": "Professor dá dicas de filosofia para o Enem 2026 no Bom Dia Pará",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObTRyWW5EdzJxRE85RzlZdGdWWTBDcnBXWDFKcmdBWTY3VnpfUVRtWThxZHJCQi1iTlJROEtTYmxGamRDMHp4RzZRcDNoR0FFTEQ5cTRPZDJ1N0MweFM4cmYxZHlXUlFxYk90aUhZYmxmcVJaVXh0LWdHbHZwd2VhcHB6bVZmRUxmOHFkRWlNNVBHMnhIMl9henBUeHItNXF6UEJadlZET2FFV3hiUV91aVBoMFlmMTNmQ3RWUjd3Mi1pVG9RRkVTSGczMnFxVDDSAd4BQVVfeXFMUDByUVR3V0hJV1kyZ0NHYXRMcElpa1BFOTItN01VazFZY2RCWnVWRmhLeVZDZjFyZEZJbnlUdUpXRjJaalBta1Jta05icUFnU1pueUFNeXFCcm5OZ2plaU84S3FBSzg5RzJkbW9Yd0hZYzhjVGpUQTZmZmhnUXVxRFBSV0gzR1JlbFhmRjBBTWJHYWxVMDhVbUk1eUlfZWFGYmVwbWRRYzZyczN6V3NyWVhrUDIwdGdPcE83VUFVZWtuWjQ5cUhhdWlaQjkxT1FQOTlGNmR0a3ZWbjI1QVBn?oc=5",
         "source": "G1",
-        "publishedAt": "2026-11-03T12:43:28.000Z",
-        "summary": "Mandando Bem no Enem: estudar Filosofia vai além de decorar nomes e conceitos G1",
-        "image": "https://s2-g1.glbimg.com/uZXceebVyKxSCZQkG3LF0un7D08=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/K/h05SuMR3CDEBuU4caWOw/filosofia.jpg",
+        "publishedAt": "2026-11-03T14:13:38.000Z",
+        "summary": "Professor dá dicas de filosofia para o Enem 2026 no Bom Dia Pará G1",
+        "image": null,
         "topics": [
-          "filosofia",
-          "negocios"
+          "filosofia"
         ],
-        "score": 3.9,
+        "score": 2.88,
         "relevance": 4
       },
       {
-        "title": "Vinny Bonotto completa 60 anos: da balada dos anos 90 à filosofia e à retomada da música",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUlfNDMtNGd3Y0hKZGZMV2U3UFYyc1JVQXMzZGNwTFpQS29VOWlFNTRRSTdDMFowd0JISGZIbnVLWmhsM0NGZzExVTlSVXM3cGtnTkQ4Z0xPNzJqUnBNaXBubGRIU2ZzTHlEc0xiZDhGWUlIMk5uZHJrNXJVVC1jMDJDQjlmMHVLU3lTRFI3Mkg0UzBzR1RuNU55NmVNdTBUZkJWb1IzT3k2TndoVXZURDVFeV9BdzNSZ0FhTU0yRDZRMTZUTWU5RFNrUE9rZw?oc=5",
-        "source": "www.bra1.com.br",
-        "publishedAt": "2026-11-03T11:20:00.000Z",
-        "summary": "Vinny Bonotto completa 60 anos: da balada dos anos 90 à filosofia e à retomada da música www.bra1.com.br",
+        "title": "UNESP abre concurso para professor titular na Faculdade de Filosofia e Ciências de Marília - SP",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRGVoSnJJTjhyTTZ3VGVhQnJFblI3bkIyS0tUbGZpUUx1aVdJSjM5QmZ3VHA0d2hIclZFSTI1MHJnQ3dSaUg2RzVDYjdOSjJGVkhET3BIbGtqbWxiWXdUWWlpMHRyQ0puUFRYQjZGSE1WUmFYTHpzb2swSEZjU0d2ZDl0eW9BU2JPUzZYcHRLemJnQUVqRHhEeFFrZFhMaTFVTnlQcUZKbldpOU40UnZ5c0NkcEdZNHVBRDhCRVBzUWJaSnRhMkxHNkhrVnMtRFE?oc=5",
+        "source": "PCI Concursos",
+        "publishedAt": "2026-11-03T13:04:55.000Z",
+        "summary": "UNESP abre concurso para professor titular na Faculdade de Filosofia e Ciências de Marília - SP PCI Concursos",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.69,
-        "relevance": 4
-      },
-      {
-        "title": "Festival de Filosofia de Abrantes regressa em novembro para debater “O Poder da Verdade”",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZFJOcnJoWGFaYjFXNG5SSVQyLV94d0dhZ05PWkV1NkhIV0hOSHlDOG9WZmRULWRsZklHNFBDTFBLLS1VZWxRLXk4RHJIaUZFNGtlTi1pV0kyMDU4X0M2b0tGWjlpVmJpWDB1U2VaNGFEQk93czhBRGY0Z2oxY0F1cGE0VDllTUZKMDhQdG5Ea2l4bEtaV19yVS1Mc254YlFNeU9yNzRSdG00UE9SaHJlOHJUdXBkTENJTk8tVndaV1ZoZHdVNHIxeQ?oc=5",
-        "source": "EntroncamentoOnline",
-        "publishedAt": "2026-11-02T18:48:04.000Z",
-        "summary": "Festival de Filosofia de Abrantes regressa em novembro para debater “O Poder da Verdade” EntroncamentoOnline",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.44,
-        "relevance": 5
-      },
-      {
-        "title": "Viva a Filosofia! Mas o que é isso?",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aUE96dG02MTJFTmNBVHJKWkVXSllldERxQlBldnF2QWFhaWdjVW5pV2dfam9ZeC1iY2tTbkJncU4zSGZJOXdnVEVJYlJNSzAzR080a2laMk5xQ1FSamk2cGJxUS1yZzdQTHpTSExveFFKQQ?oc=5",
-        "source": "Observador",
-        "publishedAt": "2026-11-02T23:02:00.000Z",
-        "summary": "Viva a Filosofia! Mas o que é isso? Observador",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.3,
-        "relevance": 4
-      },
-      {
-        "title": "Governo de Goiás promove formação ética para estudantes da rede pública estadual",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazNsNGFFLUNVZml2MjVUd2lvcXZhOEFORzhKNlJFRXAxSzk3VUM5TzJBZXZlVHc3MmVtaTRHQzBKZ05Rd3ZEMFN0ZXBQWDFmRF8wTVI0czZzVUx0ajhmU3ZISGp0eDV1WGZGdUVTYU5OWW5WeUYwTkRDWW02NFo2ZUpBbTlYNjQxemRjempMUUJFbzhBVkUwVEpEQURnQ1pCbXJ5bDJ5X3pGTE1oUHEw?oc=5",
-        "source": "Diário da Manhã",
-        "publishedAt": "2026-11-02T17:38:00.000Z",
-        "summary": "Governo de Goiás promove formação ética para estudantes da rede pública estadual Diário da Manhã",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 1.87,
+        "score": 2.76,
         "relevance": 4
       }
     ],
     "cinema": [
       {
-        "title": "OVALE: Ator jundiaiense conquista 1º lugar em festival de cinema",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbURtNjRKSDNQSWJxWDJlZGw2UE5xbFhsaTNKRUJXdXV0TEZlZ1RiWmFBWUtpS05ZT1hkUTkyZGJUMUFWaEpUZFJXZEEwNEZvb1BhRl9DekRpLTZuQlV2WU95S3ZmZFhoZ242eTFZWlVHanh6OHRyaTlEU2o3M2JiWXBlRERKbUp6aXlEcGU3Q1RESzJmREdJWS1lejNzVzdWRnFjazJHWnJPcTlLSE85cTFCZnJPcG8?oc=5",
-        "source": "sampi.net.br",
-        "publishedAt": "2026-11-03T12:45:42.000Z",
-        "summary": "OVALE: Ator jundiaiense conquista 1º lugar em festival de cinema sampi.net.br",
+        "title": "Netflix conclui gravações de 'Melhor do que nos Filmes'; estreia prevista para 2027",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVG81UUZZbjlfU0hEMlI5ajNSc2JiVkN2ZXNCaFkxZlR6a05VLThpOWpSd285NnRpNG40ZVBUVDY0LXZHT2I0Tjc3N1FDdl9MUVVDV05WWFdZdVRJSzN3M0JFUnN6Z2RJdmVYc01CbHpSUnBZZjE5Y3JkME1Ja0taWG1rS3JVT0Q1dm1IOV8tdlBvcnJXOWVhQm1EbS1XTi1LQW5LWGxRa0JfU2tWNnVLZ3hKR0lEMWxwU3RFYzBraGpJVnBIdElWaHdqR2F2TV9ZbjE0Vl84aFhON0NqMDN1M204NlRLUXB3VFc1S3lMcG9nQQ?oc=5",
+        "source": "Terra",
+        "publishedAt": "2026-11-03T22:11:00.000Z",
+        "summary": "Netflix conclui gravações de 'Melhor do que nos Filmes'; estreia prevista para 2027 Terra",
         "image": null,
         "topics": [
-          "cinema"
+          "cinema",
+          "negocios"
         ],
-        "score": 6.83,
+        "score": 6.85,
         "relevance": 7
       },
       {
-        "title": "Festival de Cinema de Paraty reúne 55 filmes em exibição por toda cidade",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYV9NTmgtcWxyX2lYcXBxbi13ZmxQNUJ5UGRVc1BxR2lVVGVjMThqdUhsbFZ1b1NUUWVYNFd1UzFjZWlaanJuSWVPTjVsR2pBRUpqSFFFeTZCNnNVQ1dxcUFqYUp3WElkZGNLY2dfR2wxYmNTVWpqVWdDNmNadkdiV1VUa0dFQ0RQWEtMMnVxUlVCTGJRNks2V3JYalpMN1JGT1R3ZW1kb2NBYnRVUkRfb3VIdkR2TGZ3Vm9iODRla0hZZjZnS1RhQy1INWZfc2lkM2hDaGEyR0c5S2doeVHSAewBQVVfeXFMTTFTeG85UDZFY3Uxb0JZNjZObnMxdGtaZGV3b0xnSWFoNnJfUTdlYmx0dzdublJ3cjZta19ILVc2YzN6VUN5TGxpc2x4bTZlVDBIcE5SNHVNaHp5X3k5ZXB6OC1XYU0zeTFvd2J1clZLa3kyMlJobm91dlp4VHFrZkhyNVhVd1lJNnVTZHBPMWVkQVRxM29RTmVXMFRITEdKcVN2eXI4dzgyWUk5Ujd4YWtsRVhJNE5mc1JmVlhLeTVuaXJiOFpwZmdKV0drM0pPWWJtZlU3OGtBXzBvZXZfNm5ZY2RqRExLS1pfTWg?oc=5",
-        "source": "Extra online",
-        "publishedAt": "2026-11-03T06:59:01.000Z",
-        "summary": "Festival de Cinema de Paraty reúne 55 filmes em exibição por toda cidade Extra online",
+        "title": "Aos 88 anos, esta lenda de Hollywood com dois Oscars acaba de confirmar seu novo trabalho: Um filme de ficção científica pós-apocalíptica",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xNTBiR2VIVGZYZXVUMUd6dWtIenMyR0lSRWVpZHZ2YTkzZUw3OG8tbmNqNm9JdzdkTkNGZUY0WTEwMTdmaXV0LVNCMHdFTHltRWxZYXN3SmwtZjUtWVVGSXRORy0xNGtOUmxWZmdXNzPSAXZBVV95cUxPQVlRSmZQMzJMa29MTWhSbnNWTWNpOXBodEN0aER6MnpQMEoyN2llSEJLbExyTWI1YktrYUFKOUo1SXJqa1VQQ0MzZ1ZXNlA1cm82ZDFQanVwengzak1GS3pzbEtIRGRacHVYVXVVZlVBSnVFREFn?oc=5",
+        "source": "AdoroCinema",
+        "publishedAt": "2026-11-03T22:00:00.000Z",
+        "summary": "Aos 88 anos, esta lenda de Hollywood com dois Oscars acaba de confirmar seu novo trabalho: Um filme de ficção científica pós-apocalíptica AdoroCinema",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.25,
-        "relevance": 8
+        "score": 6.22,
+        "relevance": 6.4
       },
       {
-        "title": "Festival de Cinema Italiano chega à 21ª edição com sessões no CCBB São Paulo",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHcyVFJTYkxKNlA4MVNwbXIzY015ZmxNTDdsYlgtVjZCeEhXWDBTdlVEOTBOVE5oN3o1M09jUkowNHRxQVItajdiMzlsOTFIUmFMMkVtQ3czZ2xVdmZ2a1k0MFJHRTdSbW1ydEd4UnZjR251ZTdSSEpnTXpXM2ViUHp1djhROVhRU044QVdTS0V2dw?oc=5",
-        "source": "Canal Tadeu Ramos",
-        "publishedAt": "2026-11-03T12:54:00.000Z",
-        "summary": "Festival de Cinema Italiano chega à 21ª edição com sessões no CCBB São Paulo Canal Tadeu Ramos",
+        "title": "Festival de cinema em Fortaleza abre laboratório gratuito para cineastas",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDBaUXhjUFVlYzlKQWdkRmZQdWo4ckhwZzZoM1Y0VWRSUThIWHFUN1lLTmw5T1l5dnBCQlZJZXNTNEVwM3RRUElJVjBqbGpFdzkxQ1IwT2dBNExQVEJselhwU1doODl5bjZuUnJjYW05Z0FWU1lQdzczQXNYTDBLUi1mQU5KRmJjTEtGYkFyZDhramgtUmIxTHNlUkpIVmJ4ZWY4cnV0ZlhNWTZuTWZhRWxDeU5ycEZVTkdGNEtEQTRDWW9WMnlweUQ1U3d4SHZsc2J1Xw?oc=5",
+        "source": "Portal GIRO",
+        "publishedAt": "2026-11-03T19:12:08.000Z",
+        "summary": "Festival de cinema em Fortaleza abre laboratório gratuito para cineastas Portal GIRO",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 6.11,
+        "relevance": 7
+      },
+      {
+        "title": "Cinema/Inclusão – Festival de Cinema exibe em Brasília filme para crianças cegas, surdas e com deficiência intelectual",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOS2o0djRCYTRkbmFqLUlFeDJvX05SZUhDTlRNYXdFMDlHVVlOOTl5enBaNFA1YmllRjVxZTVRaHE3MXkwYi1GRWZSc0tDSDAwSkl3WGVfRHZwR2ZnSGxmTmlDU3ZFNk5OUERzUndMcmN6Vk5peU9ldjhOYjV6TGVVTXpqSXFvdEpLcnBicTlGUU14TDdDTUU1WkMyVUZDMl9LMkNwLVdnRUxDR3JYdnQwcUtWbzhxWEk2ZlJWM0hxTDFYYVhXT28zQlViaUY2SFpzYlFTLUJKZ19aUThBWGNJ?oc=5",
+        "source": "Blog do Amarildo",
+        "publishedAt": "2026-11-03T18:15:25.000Z",
+        "summary": "Cinema/Inclusão – Festival de Cinema exibe em Brasília filme para crianças cegas, surdas e com deficiência intelectual Blog do Amarildo",
         "image": null,
         "topics": [
           "cinema"
         ],
         "score": 5.89,
-        "relevance": 6
+        "relevance": 7
       },
       {
-        "title": "Dia do Cinema Brasileiro? Confira 8 filmes nacionais sensacionais",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TSWkxRUhCQUo2OHFFdmVrVzMyZkpJTjdQZjdBMlpLMUlFdjVaOWNuZDlVdldudU4taVlvbW9FVGJxWmJNSFZRUm5tcVZ2SWswWXRJX3RRbkJyVGpLWXk0aEp3elFEUUJFaEFTdWxqQVNjUm15RElYcw?oc=5",
-        "source": "Vivente Andante",
-        "publishedAt": "2026-11-03T11:43:22.000Z",
-        "summary": "Dia do Cinema Brasileiro? Confira 8 filmes nacionais sensacionais Vivente Andante",
+        "title": "21º Festival de Cinema Italiano no Brasil acontece entre os dias 06 e 28/11 em Sorocaba",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd1FScmFMUDBDWUZyMG1tdWRkY3JoSUZJNkFjSFNyakpuSWJPTk1HNVY3MHpORWp6ZTBPZklVU2NMYnRTQS1MMGxPSTdDeHIxTUVpUy1hLUZ5XzdtQXZZU0ljMXVCU3ZhV0Z1RnR5azlJeEk4V3FmUlc4cVBkeHBzeTBkOFhPMkJJS040Qk9PS0prNVVNbmhFX2VOWmpRbFh0RlduVkx3Z1ZIWVJFMTFDXzJRXzZUVnRXWmJZemdlV2xCeXBPYWs5Z3ExN29pb1Vt?oc=5",
+        "source": "Agenda Sorocaba",
+        "publishedAt": "2026-11-03T20:55:05.000Z",
+        "summary": "21º Festival de Cinema Italiano no Brasil acontece entre os dias 06 e 28/11 em Sorocaba Agenda Sorocaba",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.63,
+        "score": 5.59,
         "relevance": 6
       },
       {
-        "title": "Barbara Barrie, atriz indicada ao Oscar, morre aos 95 anos - Papo de Cinema",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2aWJ1OGZyTlZwZTl1TmdCc010WjV0a1BnVlVORVNDTlc3amlkOXJLSWU2ZHZnSG9hX2t5aFM0bjdtejhHRjhFUkhxZW9QRVNtUFJ6UXdKZnZzYWN2cW40bEl1OE1xR3PSAWdBVV95cUxQNmlidThmck5WcGU5dU5nQnNNdFo1dGtQZ1ZVTkVTQ05XN2ppZDlyS0llNmR2Z0hvYV9reWhTNG43bXo4R0Y4RVJIcWVvUEVTbVBSelF3SmZ2c2FjdnFuNGxJdThNcUdz?oc=5",
-        "source": "Papo de Cinema",
-        "publishedAt": "2026-11-03T11:28:12.000Z",
-        "summary": "Barbara Barrie, atriz indicada ao Oscar, morre aos 95 anos - Papo de Cinema Papo de Cinema",
+        "title": "Netflix recebe novos filmes e séries para ver na semana (02 a 08/11)",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb1V5MWZjeFFoNE44bjdsMC1iOThPSjdRS2I4bHhDWExBWkUzZkxaSmduV1BUUk1udWxkbk95bExDbVBDV0VDaGdFaE5DN0xZZjE2dVVCQURFak8zRURvWVFkVG5BNDdFUy1KbXVqcXA4NEFxajdta3ZfaGl3Mk1Yd1RtM1JTeFliSU5yOHJUSmRCbXNVRFpva0FQUkc0VG13NHNaMkVPbzk4d9IBsgFBVV95cUxOY1J4WWlOUG9sYkEtd3pUal9qVHphSkE3ZUE5c282eW1tZXUzZVhFT1ZKbElpU1lhakNEYzE5c1BHOEduQkZ6d3h5c0N2T0hnNGlXX0Nndm0zTm1aY2U3cTlpSHhIVFZGLW1JSl9zX3lqTGVjc2FUbmpuazVLSzBqWUU1LWNIcU5tbnZ6RVp2UXBDb1Ntak1GVGI0dk5DT2tRTGVNb2Z1UUhPR1R4RzNqWHd3?oc=5",
+        "source": "A TARDE",
+        "publishedAt": "2026-11-03T16:52:12.000Z",
+        "summary": "Netflix recebe novos filmes e séries para ver na semana (02 a 08/11) A TARDE",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.57,
-        "relevance": 6
-      },
-      {
-        "title": "Streaming: Netflix desvenda lista completa de estreias para novembro",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSXR0andmUUd0RDdoTHZFeGV3bWVveGhMVjQwZVZZY0RWblhNV1pRQk1fUVB1Z055Z3ZfMkNGOWxDYm9pNmRSZkdnMjFfVDFQd0tOejNIaVplU1VHN0RyWkdQaXIyeTlQNVRPYVZpeDEweEJ2WklFZkkwR1FWdWRuSjZwVVBWTEtCV1Bz?oc=5",
-        "source": "e24.pt",
-        "publishedAt": "2026-11-03T10:41:59.000Z",
-        "summary": "Streaming: Netflix desvenda lista completa de estreias para novembro e24.pt",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.41,
-        "relevance": 6
+        "score": 5.58,
+        "relevance": 7
       }
     ],
     "medicina": [
       {
-        "title": "Morre paciente que tocou violão e cantou Legião Urbana durante cirurgia para retirada de tumor no cérebro",
-        "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2026/11/03/morre-paciente-que-tocou-violao-e-cantou-legiao-urbana-durante-cirurgia-para-retirada-de-tumor-no-cerebro.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-03T12:50:27.000Z",
-        "summary": "Fábio toca violão e canta Tempo Perdido do Legião Urbana enquanto passa por cirurgia para retirar um tumor cerebral Santa Casa de Marília/Reprodução Morreu nesta segunda-feira (2), o paciente que foi submetido a uma cirurgia de retirada de ",
-        "image": "https://s2-g1.glbimg.com/5ySipexFqfHswVEdFn_TnyAmd7A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/a/2B5nTpS32VXSLY78356w/19.png",
-        "topics": [
-          "medicina"
-        ],
-        "score": 6.46,
-        "relevance": 6.6
-      },
-      {
-        "title": "Criança morre por sarampo em Nova York e estado registra primeira morte pela doença em mais de 30 anos",
-        "link": "https://g1.globo.com/saude/noticia/2026/11/03/eua-confirmam-6a-morte-por-sarampo-este-ano-e-tem-pior-quadro-de-sarampo-em-mais-de-30-anos-entenda.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-03T12:59:35.000Z",
-        "summary": "Uma criança morreu de sarampo no Condado de Lewis, no norte do estado de Nova York. É a primeira morte pela doença no estado em mais de 30 anos e a sexta no país em 2026. Com o registro, os Estados Unidos têm o maior número de mortes pela d",
-        "image": "https://s2-g1.glbimg.com/0lWiBUHOahIyrrGyuTZKB1-b4io=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/U/IqdfmiTOiiWsPIp6QrFA/4511052b-585e-4539-910b-385948f36067.gif",
-        "topics": [
-          "medicina",
-          "geopolitica"
-        ],
-        "score": 5.32,
-        "relevance": 5.4
-      },
-      {
-        "title": "Membro da Academia Nacional de Medicina é punido pelo MEC por baixa qualidade na formação de novos médicos",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxORU5MazdESlpIVW5uOHJjS1FURjRMVnA4Y2l5NThOM3ZITlVWT0ZWWGtFWGF5dk9KY21aOVNxVnY4TElSY0xNYW9fa1pPVThjNnozMGtmdTh5cjdzRTJXMlMxemNMZVJWaGY2eWZuRUxkZFFoXzk2YWp0WDRZR2tvRXhZc3RobC1CbXNmQl9iVEFidE8wbDV6TXVKRUpzSk8zYmFHNkZuYndqdWpVdDF2U1Y1UGhuNE01X3FkaFJIcWhLOThtUG1GRVphakFoemhkZWtFZXJmdHFrMFpOVjc1WUNieXhYbC1GYkRtbE5VYlNQMWRrNm12Yk1kN3Q5bE5nalBaU0Y4cWVUbWxaNFE?oc=5",
-        "source": "www.correiodamanha.com.br",
-        "publishedAt": "2026-11-03T11:56:00.000Z",
-        "summary": "Membro da Academia Nacional de Medicina é punido pelo MEC por baixa qualidade na formação de novos médicos www.correiodamanha.com.br",
+        "title": "Telessaúde muda o acesso à medicina no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRXZjWEZnYWkzQUV2S2RPdVMtS3pWRl9rWU01aklWWWxBNmFrUlpVUnhzVUJLS3NIeExOZjZxQmVKM2JSY25CWGJmVW9XSHdyOE42VjlrQ3MwY05RNkRmbTZ3Yjk1bFZpRllkck9MOFZ3UlRTQ2YzblhNWC1BUFZqQnBWLTF6WXhSYkxHZGxUaG5YYWhmMUNaY2VrcUYyNE9CNGwtWnNwNmJsVFlr?oc=5",
+        "source": "Correio dos Municípios",
+        "publishedAt": "2026-11-03T21:47:15.000Z",
+        "summary": "Telessaúde muda o acesso à medicina no Brasil Correio dos Municípios",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.73,
+        "score": 4.82,
         "relevance": 5
       },
       {
-        "title": "Organoides podem antecipar resposta ao tratamento no câncer de cabeça e pescoço",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTXdBV3lFRjBSSjVRLVI2SGFXbEhmeE9FZzl3TkdDWlY2czhZSXlzcEY3UlhlSEhfcVhvY2dQSW1vWEpRRlFMcmpHMmhmYzk4ZXQ0UXJPLXBHTTdlN0JzaVZNbkNGWjlMUzAzbDFQYU5EMmxtMzlKRWpqeHpTdHRuZVJzUjQtaDBBN0hVSVFYazZNVUxaMEtzTzN3b2NjZGtQa2FMcUE4VUM?oc=5",
-        "source": "Medscape",
-        "publishedAt": "2026-11-03T11:27:42.000Z",
-        "summary": "Organoides podem antecipar resposta ao tratamento no câncer de cabeça e pescoço Medscape",
+        "title": "Lula sanciona ‘OAB da Medicina’ que muda as regras para diploma de novos médicos",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZzN0RVE1S0kzd2l1WFZHUlhMTXFPWExnQWRYOHV5YU1UaHFNWDBMV01ucVI4RFpZSnlKSkZtb2gxbWplQy01ekxtdHBtY2NEWXgwdVJveVI5THp3VnRTT1BnM2NQc3R3WkVIN2RnRDhNTl9VSi11SXNETlEzSWkxaGgwRURzUVdmX3VGeGZUY19oOXY4LXFpag?oc=5",
+        "source": "SCC10",
+        "publishedAt": "2026-11-03T21:13:21.000Z",
+        "summary": "Lula sanciona ‘OAB da Medicina’ que muda as regras para diploma de novos médicos SCC10",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.64,
+        "score": 4.71,
         "relevance": 5
       },
       {
-        "title": "'Mais tatuado do Brasil' pede namorada em casamento antes de 2ª sessão de quimioterapia contra câncer na bexiga",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/03/mais-tatuado-do-brasil-quimioterapia-2-sessao.ghtml",
+        "title": "Estado e Vigilância Sanitária apuram suspeita de surto após mortes no setor de hemodiálise do CHS em Sorocaba",
+        "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/03/investigacao-setor-hemodialise-chs-sorocaba.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-03T13:07:53.000Z",
-        "summary": "'Mais tatuado do Brasil' compartilha diagnóstico de 'câncer maligno agressivo' Um mês depois de ser diagnosticado com um câncer na bexiga, o fotógrafo e influenciador Leandro de Souza, que já foi considerado o \"homem mais tatuado do Brasil\"",
-        "image": "https://s2-g1.glbimg.com/4T9xm-dvxwRiscfNUXj4xHPd_dA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/i/NNupgyRHGTb7xeXtbYGA/g1-13-.jpg",
+        "publishedAt": "2026-11-03T22:16:18.000Z",
+        "summary": "Conjunto Hospitalar de Sorocaba (CHS) é referência em captação de órgãos Reprodução/TV TEM A Vigilância Sanitária e a Secretaria de Estado da Saúde de São Paulo (SES) investigam um possível surto de infecção no setor de hemodiálise do Conju",
+        "image": "https://s2-g1.glbimg.com/hfXOOmuzlImKIHqhCoosqyXIXoU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/8/P/ye7qMRRue6OGamP6C87Q/sor-serie-transplantes-2-260925-frame-12592.jpeg",
         "topics": [
           "medicina"
         ],
-        "score": 4.55,
-        "relevance": 4.6
+        "score": 4.71,
+        "relevance": 4.8
       },
       {
-        "title": "Estudante de medicina, o CFM quer ouvir você. Participe do I Encontro",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZnRXLXNmb3FKMWtCYWRBS0l1a1BZM0dydFVnS2JBQjZkRk1zVWVIRElvb2ZZOW1xOGZKTXlZc01BdTNIeEE5V1BwTHB4dFIwRFpyTXJwVUpxVUdlYndXQlNSVGpub2lfYjFuS0FhQ2pkTGthY29lenhjbkRiZnhTcENRcE45UzB0LWJjSDIwZ253ZE9sekdQLXRFbnFySUhNdVU0WnVXMV9KdjUzWk1VM2N6YXhYR0JkNGtCNm0xUEliM2xpTHkzbGEzOA?oc=5",
-        "source": "Portal Médico",
-        "publishedAt": "2026-11-03T13:12:15.000Z",
-        "summary": "Estudante de medicina, o CFM quer ouvir você. Participe do I Encontro Portal Médico",
+        "title": "Empagliflozina ganha genérico no Brasil: o que muda para quem tem diabetes",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcElidTlBQkxibWxpb1d1ZjdWRmI0b29uc3NVV0owa09IMkZGRWNJc2l2UGRzZURxRGVFZi1fQU8zSF85dF9lYUxIZ2pjamdrUlV0VzdTTWIwcnJlaGtsMGhIV2EyM242Xzk4Q0xhaEx0UWdYS2gtUUNqdDdUMUZOdHBGY1p1UVdsSjBndWF5b0pOd21mQzVXMzZrVzI1SjNIMGxSYjFNYk9vTHo0NjRv?oc=5",
+        "source": "Assine Abril",
+        "publishedAt": "2026-11-03T20:30:08.000Z",
+        "summary": "Empagliflozina ganha genérico no Brasil: o que muda para quem tem diabetes Assine Abril",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.37,
-        "relevance": 4.4
+        "score": 4.58,
+        "relevance": 5
+      },
+      {
+        "title": "Da assistência hospitalar à gestão de clínica própria: médica constrói trajetória voltada à saúde e ao empreendedorismo em Minas Gerais",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQREROSXktNm5yMWM0QUY3VHd0Qk5aZ0xYVWJCVW9aUTJTQnFSamRPVmlweGpOZWt1bHFOTkpPb3A1Q2hfRFZOWlBXYlVhZGVqZUxaQlhMWmxzYzIzOXBUYzVYWlhLSkMtMzFDZFgwVjRIa0pCQVV2Ump4MHVtanVwN1VIVzRTS2l4SFFoY3RWQlRZcHJzcFFLdmtVenhQR0hUN21RalVSSEVyV2RCWFkxZFVYbWxnX3g3Uk81am45X1R6eU5MYlN2TWY5SnVaSnd6YUctbnBZMFc2R2QwbGdfdGc5dHNBTWIyNXZxa1pGLVMzaXctcXZObHdKWXZIaEw3UTV3WUI4X3ZEdk0zTFB1OFNqOGs4VXJSaFAtRWdFU3JXdjM0eV9xTVhJSnZQdGVwNnfSAcACQVVfeXFMTlJBc2NzcVFTLVVfSTBzYktnNUFvS2NTeG01cHlWbWNkU3Z5eXU1UDNwZ2FQTDBNSXVRVWhpZDVmOWRURE5YRG9pSUJkY2FqaXQwNU1jdnVIb0VhVmVJajhiejU3bWRYc09ZRjN5a1Q1WW1OSnNGeGp3SFVQNEVsMXBXRzcxb1d3a1hfSmhoX3cxemNCVW91UGI3cWR5UWxPZ2Z4ZjZMMVpnNldYODZ4Vm1JR0NrWmdSS0xTTk9KUVBmazNCQzl3VUozNmR1LVI1bGJ1VXZ3WGw4aEhrYlREaVBpZUxxQUJHMUV4UVd2S0x6V05OeUVSS2VDbmliZFV4cDFWTTZPV00yZ2RXVkZFS0pDYUFVZ0ViMkNuSEt2OTVFN0VIZkd1bTNjRzB4MnR3U20xbVdDVE84d0NfR1NiYVA?oc=5",
+        "source": "Valor Econômico",
+        "publishedAt": "2026-11-03T15:27:13.000Z",
+        "summary": "Da assistência hospitalar à gestão de clínica própria: médica constrói trajetória voltada à saúde e ao empreendedorismo em Minas Gerais Valor Econômico",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.53,
+        "relevance": 6
+      },
+      {
+        "title": "Medicina da USP de Bauru realiza evento voltado à saúde da mulher",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGlfX2NHWkVNTzVjZ3hBMkZSZ3lDel8wQUl0RDVYNnVYWmlSbGNOVklOSGFUalpwNkhJcnE3SXE1RmxsT19ZWlVVUFhqdy02LWpMWDVPYmJNNW1VeGxNSFk4WVZiak41a3hVNVJaOVljVkY3WDVJRmJmQzVpUHRjRG9nNVZ4TFBITVM1TjJpdy1ndkdhc00wRnhMNE1TbkdHVkdWTnVQenNQS00?oc=5",
+        "source": "Jornal da USP",
+        "publishedAt": "2026-11-03T19:24:00.000Z",
+        "summary": "Medicina da USP de Bauru realiza evento voltado à saúde da mulher Jornal da USP",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.39,
+        "relevance": 5
       }
     ]
   }
