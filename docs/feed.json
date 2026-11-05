@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T04:33:51.199Z",
+  "generatedAt": "2026-11-05T13:48:44.995Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -30,122 +30,264 @@
   ],
   "highlights": [
     {
-      "title": "Trump perde o Congresso: o que muda para o Brasil e para os conflitos no mundo?",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/05/trump-perde-o-congresso-o-que-muda-para-o-brasil-e-para-os-conflitos-no-mundo.ghtml",
+      "title": "Dólar tem volatilidade após Copom manter Selic inalterada e com dados dos EUA no foco",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/05/dolar-ibovespa.ghtml",
       "source": "G1",
-      "publishedAt": "2026-11-05T03:00:01.000Z",
-      "summary": "Trump reconhece derrota, mas diz que vai usar poder de veto Com a derrota do presidente dos Estados Unidos, Donald Trump, nas eleições de meio de mandato (midterms), realizadas nesta terça-feira (3), a expectativa histórica de que o republi",
-      "image": "https://s2-g1.glbimg.com/kqG5WMZrG44ALgxjxDhcHDk0BRw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/I/ltAvmBQCAWKB5wqbHrfw/2026-11-02t210212z-1507412749-rc2vfoal1whc-rtrmadp-3-usa-trump-lincolnmemorial.jpg",
+      "publishedAt": "2026-11-05T12:00:34.000Z",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quinta-feira (5) com volatilidade e marcava leve alta de 0,03% perto das 9h, cotado a R$ 5,4532. Já as negociações do Ibovespa, principal índice da bolsa brasilei",
+      "image": "https://s2-g1.glbimg.com/qJ7O_5T6hSs6HEsS6HwA-Vl1Otk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/2/s/iveHFATICeDrK8diFnLw/pexels-john-guccione-wwwadvergroupcom-3564390.jpg",
       "topics": [
-        "geopolitica",
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 11.57,
+      "relevance": 12.4
+    },
+    {
+      "title": "PT e parte da equipe de Lula atacam BC após Copom interromper ciclo de corte de juros por dúvidas sobre ajuste fiscal",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/05/pt-e-parte-da-equipe-de-lula-atacam-bc-apos-copom-interromper-ciclo-de-corte-de-juros-por-duvidas-sobre-ajuste-fiscal.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-05T13:24:49.000Z",
+      "summary": "O PT e parte da equipe do presidente Lula estão atacando o Banco Central, dizendo que o Copom se rendeu ao mercado e parou de cortar a taxa Selic, que ficou em 13,75% ao ano. Entre petistas e uma ala do governo, há quem defenda, inclusive, ",
+      "image": "https://s2-g1.glbimg.com/-A7pgTgjRSkyK4Q_u1rOIbAk5L4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/N/CqiB4MRnqkRVIYzBQGig/globo-canal-4-20260429-2000-frame-24226.jpeg",
+      "topics": [
         "negocios"
       ],
-      "score": 10.55,
-      "relevance": 11.2
+      "score": 9.26,
+      "relevance": 9.4
     },
     {
-      "title": "Copom mantém taxa básica de juros da economia em 13,75% ao ano",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVJScGdNUWUtY29fZXczLVZldDVGX1FtZ0Z0em91QjFJbDU5ZDdLRHFiN1UtTG9XY2g2YXZqN2NfTVRKWk5talM1ZV9NNnNWNW9lTDluQmNueDhrNWZ0VWRjRkl2WExyNS1sdTJ4Y3VzR1NNQnk4RWZtQnoxVVJGa2RMbkhZaldfSC1rZ3dBMVJHR2hXV3NhWmVzZzRwQmlfcVF1RXlGWXZCWU40OTNrYm1aMjJyRHllZGhDb2NnQdIBzgFBVV95cUxOODBaVlh0OVE1STZlbkZLS1kwbWpTYmpFQkoxWU11dkRVWmRnbGd3S1hOSEVQY1pVMGl1MTlTTHM4S3g3Vk9NRmhHYzdHTHBtSERCbVZBdlQ1ajBPdTNsTFZoZVFDWWNMVUc1b3l3RVBZWkY3cmJpOVdPR0dXZ0pNMnlTVkEzVFU2NkxfNlJndWFaZi0wQzJ0ZTZTSXRMUUNiMG5lR3Vtc0FlYy1GWGVUenRacldMZFUwRnR3Y0ZucFRRQ2hVNFMwSUVmV0UwQQ?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-04T21:31:43.000Z",
-      "summary": "Copom mantém taxa básica de juros da economia em 13,75% ao ano G1 Banco Central surpreende e mantém juros básicos em 13,75% ao ano Agência Brasil Selic fica em 13,75%: entenda em 8 pontos a decisão do BC de interromper os cortes de juros no",
-      "image": "https://s2-g1.glbimg.com/be4usyjPCD19kJSybeRYxMXNpVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/W/6Y4qERTSOg1kq30qJphA/261104-grafico-selic-a-trajetoria-da-taxa-basica.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 9.3,
-      "relevance": 12.2
-    },
-    {
-      "title": "Brasil amplia distância e segue com o maior juro real do mundo após Copom manter Selic; veja ranking",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmZmQWFCeHVxd0ljWmF6XzJ4cUdaZWZ3blZzTGVKdVV4UnJKR05MeWxLbXliY1FNSTItdEhzWW9PTXlGMGIwUTd4Y3ZBN0JlTURIdzdSZzhPdWVuVXkyQk03MVg5dDlWWGJUXzJFUjF0UXBWN0RLV1pYZE8zZ2VULVdzZk5DT0l10gGXAUFVX3lxTE55X0NMclp6YTM4NzBKYzZiSkgxRUUwQjRSdHZIS2hSQVltRTdkRncwRnVqTHVhQU1LZ0RWZFZwcURQQ2dqMWNITkRlSHpqR1EwekN2cWJyYV90NTdGTjRaU0xtNVBnWDhzdW4xcEZoc0podng1VklwbEItY0hpcFBJRU4tWE8tbWtlcklRQml4MmMwcnJUOUE?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-04T21:31:45.000Z",
-      "summary": "Brasil amplia distância e segue com o maior juro real do mundo após Copom manter Selic; veja ranking G1",
-      "image": "https://s2-g1.glbimg.com/GK6lw7tr8M3TWoHrHmrLkDh58vg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/s/K/eBdJ5MRCOs4XjL8VpiOA/48002099586-2939bac18b-k.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 7.32,
-      "relevance": 9.6
-    },
-    {
-      "title": "De guerra no Irã a regras para IA: o que a vitória democrata pode mudar na economia dos EUA",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/04/vitoria-democrata-nos-eua-ameaca-planos-de-trump-para-economia-e-ia-entenda.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-04T14:00:54.000Z",
-      "summary": "Democratas conquistam controle do Congresso nos Estados Unidos A vitória dos democratas nas eleições de meio de mandato dos Estados Unidos colocou mais um fator de incerteza no radar dos investidores. O resultado ocorre em um momento em que",
-      "image": "https://s2-g1.glbimg.com/MvYE_OGwUny5qym_IPF6Shl_Pc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/o/tCSzecRfq3JhOYnwcOhA/2026-11-02t044535z-1973786666-rc2ffoa0ad2u-rtrmadp-3-usa-trump-kansas.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 6.74,
-      "relevance": 11.8
-    },
-    {
-      "title": "Latinos, guerra, voto antecipado: os fatores da 'onda azul', que deu aos democratas uma vitória histórica nos EUA",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/latinos-guerra-votacao-antecipada-o-que-explica-a-onda-azul-que-deu-ao-partido-democrata-uma-vitoria-historica-nos-eua.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-04T17:46:31.000Z",
-      "summary": "Marcelo Lins analisa derrota do partido de Donald Trump nas eleições dos EUA Uma espécie de tempestade perfeita está na raiz da vitória histórica conquistada pelo Partido Democrata, de oposição a Donald Trump, nas chamadas midterms, eleiçõe",
-      "image": "https://s2-g1.glbimg.com/diFY7lm4qs2gQKcWx-a3N3Yaqzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/O/nSbkTgTtila83VASY0GA/2026-11-02t203404z-53214534-rc2vfoa5byp8-rtrmadp-3-usa-trump-lincolnmemorial.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 6.73,
-      "relevance": 10.2
-    },
-    {
-      "title": "Banco Central mantém taxa de juros da Selic em 13,75%",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0Rod3kxVGtVWkxLRTlLbS1rMzc3aDEyMm5tTHNHUVpRZHd2Zk8ycWxDYzF5OGp3WVNqaWtKTXBLN3BkZUpTNkZtN0o1RlRrV1hnUFdFWHJsVWxvWDFBMWZtdW1fOUE5LVZ2VjdVYkxqOU5tVmtMMHZSU2FIbUlHd1RIUHVfc1poTkIxUmkwOUFfZVE?oc=5",
-      "source": "A Tribuna RJ",
-      "publishedAt": "2026-11-04T23:49:00.000Z",
-      "summary": "Banco Central mantém taxa de juros da Selic em 13,75% A Tribuna RJ",
+      "title": "Banco Central mantém Selic em 13,75%, e mercado já prevê juros altos até 2027",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXBOQ2hwZmNaS2xTcGxyV2w0RFRETm1jYU41VVROYUUyYU9tdE9RTTFiX1BoME95VXp2ZVZaQmpTNC1pQklYU3lQVzNPeF9nM1prT19GdFlYM1R3U0JNUHJhN3lTSEk5cTJMN2xzRW93SkFCQ091S19vUXNLd25wSC1lUzBqYnZwVG1VLS1oVVA5MDZCd01KNFJ0SEJMbWxJN25VVkpZbDMtX0RaQ0hfZ0xuaHVvc2UxSjllWTc0azQ1YnhOR0ZaQzlOTFowdmJQRGltTkRYR1VYUQ?oc=5",
+      "source": "Goiás 246",
+      "publishedAt": "2026-11-05T12:33:00.000Z",
+      "summary": "Banco Central mantém Selic em 13,75%, e mercado já prevê juros altos até 2027 Goiás 246",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.66,
-      "relevance": 8
+      "score": 8.95,
+      "relevance": 9.4
     },
     {
-      "title": "Dólar cai e fecha a R$ 5,45 após vitória democrata no Congresso dos EUA; Ibovespa sobe",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/04/dolar-ibovespa.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-04T12:01:09.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em queda de 0,64% nesta quarta-feira (4), cotado a R$ 5,4518. Já o Ibovespa, principal índice da bolsa brasileira, teve alta de 1,23%, aos 167.563 pontos. O mercado reagiu à vi",
-      "image": "https://s2-g1.glbimg.com/flrGTzCGA7rcqIkU-pbLKhRAjM8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/H/q/DVW4KVTAm4HtV81KBWKg/pexels-karolina-grabowska-4386431.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 6.56,
-      "relevance": 12.4
-    },
-    {
-      "title": "Midterms nos EUA: vitória democrata ameaça planos de Trump e pode afetar dólar e juros no Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNXFDZEpFVnlKWVdBY25UQnNPRFhqWlVqdFN6MkVvWlFCbmNtQURDaXBCMVJ5WXE2eXAtV05raVJSVEUxX1M3UGVhSkc3THBUUm9VTHlIZDRPRUJrWU5yZmc5LXdYdlhwb1N6ODA0S0diQ2o1WmhRR2N0bUw1b1NDQlBFWFNvN0c4cFlYUzdrX1FzRlJUeGVZejFkanFzMTBFaHgyRmJRTHVHMzVCR08tbFNlOFk4WEozakt2clQ3bE9MT2QzNUt5OHA2SURoZ3o2QVhha3FqYTR3U3ZlRWJNT2xFSnPSAfMBQVVfeXFMTlgwUXp0V0JKUVh0YVZmaWZZY1dCZFFFVlNDekVoMTZNQTF3ZW13WWRPZ2d1MnVjTGc2U2xDMFEyRktrS2lIcjlXa2JsYjAwVVZlQ1dBdzlLUEVMYkg4MkpWZnNBY3JneEdWc2ZRazVZUzRNRENLdG5LSlgyNXRqUEJjY0xnN096RGFjWS15WWEyMkJjQzEyZWdsWi1wRWJ4bGFLNE52MlhiTDZrLTgzN3FNeU1FSlpDTjdPSjVycmVMOFFHdUtkVGcwQnBuelNhZmpxak1HRHFaaV9MTjBmdVNubmlTa29SdGxORGJRUFRURkZN?oc=5",
+      "title": "Petróleo opera abaixo de US$ 100 após revés de Trump elevar apostas no fim da guerra com Irã",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/05/petroleo-abaixo-de-us-100-apos-reves-de-trump-elevar-apostas-no-fim-da-guerra-com-ira.ghtml",
       "source": "G1",
-      "publishedAt": "2026-11-04T11:02:43.000Z",
-      "summary": "Midterms nos EUA: vitória democrata ameaça planos de Trump e pode afetar dólar e juros no Brasil G1",
-      "image": "https://s2-g1.glbimg.com/1-B3_OzIhDAOho2006H8AJOaV9U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/0/BBon1hQYCBaRv5dmEACw/2026-10-24t224431z-105027597-rc2w9oazeoor-rtrmadp-3-usa-trump.jpg",
+      "publishedAt": "2026-11-05T12:22:06.000Z",
+      "summary": "Petróleo é termômetro que mede a temperatura das tensões globais Jornal Nacional/ Reprodução Os preços do petróleo operam abaixo de US$ 100 nesta quinta-feira (5), após a commodity registrar queda de mais de 8% na véspera e atingir o menor ",
+      "image": "https://s2-g1.glbimg.com/y8rbiMW9_iaWJtLXXW1KqCmslzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Y/sKAQ4aQnWpOLz59euTFQ/globo-canal-4-20260803-2000-frame-99220.jpeg",
       "topics": [
-        "negocios",
-        "geopolitica"
+        "geopolitica",
+        "negocios"
       ],
-      "score": 6.52,
-      "relevance": 12.8
+      "score": 8.89,
+      "relevance": 9.4
+    },
+    {
+      "title": "Durigan diz que taxa de juros é muito alta no Brasil, mas evita criticar decisão do BC de interromper ciclo de corte da Selic",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPM2Z2LXdfQ0Z6cThvbE05SkhMTTZTNUxRc1JHbzM0ZFYzQjBIT1Z6R2x5RlpfNEhZalNpZ3E2Q1QyVnF3X0lPdUxQWFpoYllWeE1idURaRkxkRWJjMldLUm0zcTFzdWRnNFZGNHNqdWwtUEwxTDBaTjZ5QlM0R09DOUFjWFlNbG9MSWkzQVdNOGR4eUZGenRaLW5VdF9TemVFd1VMLTBJaS1nMEVldFpYaVpRNzltMDFQaV9OTDBLZmNDcTd5d1dqdmJSajFsN3JZVlVEYUFJekZ0NlR0cnZrbHVVX0NlM2VLbkdCTU8zczBhcU8tVFYtUFNJQWRydDVuRHFobTNfYWQ3YWPSAZoCQVVfeXFMT25BUHdsRmJvUTRUQTU0SFVOSGVLY3JEQWh3MjlrcVcyOHJBMGJVZC1oQk9aeGt5QTJCbGRJNkkyVlV0X0J3T2k3MmdUYnMwcjhoR21EWVp0dGNSWFZBTjJpNTVheFBRNWx3OS1PN0hHV2U4WnZoUWR5VTdOa3ppWklPVHFYbExDQ0ZmREFhNkdBdEdvRmhXZWVfaTkzSEZ5ZHZIOUdYUi1QLXN4dWZDelZZdEwyY0x5d0dLOTdXSFVhMWczOXdycUlHc1pGMDVORDIyY0Q1SnA5TEYtZE1Od2VoaHBVNmI5WEVtNG9kZUpFV1ZDUUlDdjdpOVdpQ3FnbjByMXdGMUVla01rcFpiLVpWaE9iWV9PMm1B?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-05T12:20:51.000Z",
+      "summary": "Durigan diz que taxa de juros é muito alta no Brasil, mas evita criticar decisão do BC de interromper ciclo de corte da Selic G1",
+      "image": "https://s2-g1.glbimg.com/b5d4-8d94KCWtuVrP079E4ixGjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/S/qdkNArTzuhhYA31GzvRw/55615371946-d00d02ff99-k.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.51,
+      "relevance": 9
+    },
+    {
+      "title": "Melania Trump recebe representantes da Ucrânia e Rússia na Casa Branca em  meio a negociações de paz",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/05/melania-trump-recebe-representantes-da-ucrania-e-russia-na-casa-branca-em-meio-a-negociacoes-de-paz.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-05T10:56:33.000Z",
+      "summary": "Melania Trump se reunirá com representantes da Ucrânia e da Rússia antes de rodada de negociações entre os países. Reuters/Evan Vucci A primeira-dama dos Estados Unidos, Melania Trump, recebe nesta quinta-feira (5) na Casa Branca representa",
+      "image": "https://s2-g1.glbimg.com/gs7khhnnHH4bzLeBmcQCj44vQ3Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/5/RasCNRR4qDl7o6eityGg/2026-04-09t184157z-1982216527-rc2ulkax1cmw-rtrmadp-3-usa-trump-melania.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 8.42,
+      "relevance": 9.4
+    },
+    {
+      "title": "Binance e agora banco francês: como hackers desviaram tanto dinheiro? Entenda as diferenças entre os casos",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/05/binance-e-agora-banco-frances-como-hackers-desviaram-tanto-dinheiro-entenda-as-diferencas-entre-os-casos.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-05T13:07:07.000Z",
+      "summary": "FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da A Binance, maior corretora de criptomoedas do mundo, e o banco francês Crédit Mutuel Arkéa foram alvos de ataques hackers em um intervalo de quase um",
+      "image": "https://s2-g1.glbimg.com/1GKdAsyhoQymdThTL-BG3grQ0S8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/r/xsPBLCTnOci4Knbnuc4w/2026-11-03t223624z-2077831532-rc2jdoa4ji7j-rtrmadp-3-finance-crypto-binance-northkorea.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.98,
+      "relevance": 8.2
+    },
+    {
+      "title": "Banco Central deve manter juros altos por mais tempo, diz especialista",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYm1WOFNCSjllQVhxQWwwcnZuYXgtU0dEamNicVBXdGtjY2lTYjIzaUJ6RHZ0Vk5HM0lBbGxpQzhsRVZtV0p5Uzk0SUtxblgtdHcxRWkzS0hnSDNfaHVXN3c2WFo4OTVtTkd0WmVLUHF4bV9xa0VWZkpnNmFzdjl2VTFFamdFenJyS2RVYXpsZ2otb2pydjdZYlVGZ0s0d1l2dTZv?oc=5",
+      "source": "BPMoney",
+      "publishedAt": "2026-11-05T12:58:10.000Z",
+      "summary": "Banco Central deve manter juros altos por mais tempo, diz especialista BPMoney",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.74,
+      "relevance": 8
     }
   ],
   "items": [
     {
+      "title": "Dólar tem volatilidade após Copom manter Selic inalterada e com dados dos EUA no foco",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/05/dolar-ibovespa.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-05T12:00:34.000Z",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quinta-feira (5) com volatilidade e marcava leve alta de 0,03% perto das 9h, cotado a R$ 5,4532. Já as negociações do Ibovespa, principal índice da bolsa brasilei",
+      "image": "https://s2-g1.glbimg.com/qJ7O_5T6hSs6HEsS6HwA-Vl1Otk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/2/s/iveHFATICeDrK8diFnLw/pexels-john-guccione-wwwadvergroupcom-3564390.jpg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 11.57,
+      "relevance": 12.4
+    },
+    {
+      "title": "PT e parte da equipe de Lula atacam BC após Copom interromper ciclo de corte de juros por dúvidas sobre ajuste fiscal",
+      "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/05/pt-e-parte-da-equipe-de-lula-atacam-bc-apos-copom-interromper-ciclo-de-corte-de-juros-por-duvidas-sobre-ajuste-fiscal.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-05T13:24:49.000Z",
+      "summary": "O PT e parte da equipe do presidente Lula estão atacando o Banco Central, dizendo que o Copom se rendeu ao mercado e parou de cortar a taxa Selic, que ficou em 13,75% ao ano. Entre petistas e uma ala do governo, há quem defenda, inclusive, ",
+      "image": "https://s2-g1.glbimg.com/-A7pgTgjRSkyK4Q_u1rOIbAk5L4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/N/CqiB4MRnqkRVIYzBQGig/globo-canal-4-20260429-2000-frame-24226.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 9.26,
+      "relevance": 9.4
+    },
+    {
+      "title": "Banco Central mantém Selic em 13,75%, e mercado já prevê juros altos até 2027",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXBOQ2hwZmNaS2xTcGxyV2w0RFRETm1jYU41VVROYUUyYU9tdE9RTTFiX1BoME95VXp2ZVZaQmpTNC1pQklYU3lQVzNPeF9nM1prT19GdFlYM1R3U0JNUHJhN3lTSEk5cTJMN2xzRW93SkFCQ091S19vUXNLd25wSC1lUzBqYnZwVG1VLS1oVVA5MDZCd01KNFJ0SEJMbWxJN25VVkpZbDMtX0RaQ0hfZ0xuaHVvc2UxSjllWTc0azQ1YnhOR0ZaQzlOTFowdmJQRGltTkRYR1VYUQ?oc=5",
+      "source": "Goiás 246",
+      "publishedAt": "2026-11-05T12:33:00.000Z",
+      "summary": "Banco Central mantém Selic em 13,75%, e mercado já prevê juros altos até 2027 Goiás 246",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.95,
+      "relevance": 9.4
+    },
+    {
+      "title": "Petróleo opera abaixo de US$ 100 após revés de Trump elevar apostas no fim da guerra com Irã",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/05/petroleo-abaixo-de-us-100-apos-reves-de-trump-elevar-apostas-no-fim-da-guerra-com-ira.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-05T12:22:06.000Z",
+      "summary": "Petróleo é termômetro que mede a temperatura das tensões globais Jornal Nacional/ Reprodução Os preços do petróleo operam abaixo de US$ 100 nesta quinta-feira (5), após a commodity registrar queda de mais de 8% na véspera e atingir o menor ",
+      "image": "https://s2-g1.glbimg.com/y8rbiMW9_iaWJtLXXW1KqCmslzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Y/sKAQ4aQnWpOLz59euTFQ/globo-canal-4-20260803-2000-frame-99220.jpeg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 8.89,
+      "relevance": 9.4
+    },
+    {
+      "title": "Durigan diz que taxa de juros é muito alta no Brasil, mas evita criticar decisão do BC de interromper ciclo de corte da Selic",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPM2Z2LXdfQ0Z6cThvbE05SkhMTTZTNUxRc1JHbzM0ZFYzQjBIT1Z6R2x5RlpfNEhZalNpZ3E2Q1QyVnF3X0lPdUxQWFpoYllWeE1idURaRkxkRWJjMldLUm0zcTFzdWRnNFZGNHNqdWwtUEwxTDBaTjZ5QlM0R09DOUFjWFlNbG9MSWkzQVdNOGR4eUZGenRaLW5VdF9TemVFd1VMLTBJaS1nMEVldFpYaVpRNzltMDFQaV9OTDBLZmNDcTd5d1dqdmJSajFsN3JZVlVEYUFJekZ0NlR0cnZrbHVVX0NlM2VLbkdCTU8zczBhcU8tVFYtUFNJQWRydDVuRHFobTNfYWQ3YWPSAZoCQVVfeXFMT25BUHdsRmJvUTRUQTU0SFVOSGVLY3JEQWh3MjlrcVcyOHJBMGJVZC1oQk9aeGt5QTJCbGRJNkkyVlV0X0J3T2k3MmdUYnMwcjhoR21EWVp0dGNSWFZBTjJpNTVheFBRNWx3OS1PN0hHV2U4WnZoUWR5VTdOa3ppWklPVHFYbExDQ0ZmREFhNkdBdEdvRmhXZWVfaTkzSEZ5ZHZIOUdYUi1QLXN4dWZDelZZdEwyY0x5d0dLOTdXSFVhMWczOXdycUlHc1pGMDVORDIyY0Q1SnA5TEYtZE1Od2VoaHBVNmI5WEVtNG9kZUpFV1ZDUUlDdjdpOVdpQ3FnbjByMXdGMUVla01rcFpiLVpWaE9iWV9PMm1B?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-05T12:20:51.000Z",
+      "summary": "Durigan diz que taxa de juros é muito alta no Brasil, mas evita criticar decisão do BC de interromper ciclo de corte da Selic G1",
+      "image": "https://s2-g1.glbimg.com/b5d4-8d94KCWtuVrP079E4ixGjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/S/qdkNArTzuhhYA31GzvRw/55615371946-d00d02ff99-k.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.51,
+      "relevance": 9
+    },
+    {
+      "title": "Melania Trump recebe representantes da Ucrânia e Rússia na Casa Branca em  meio a negociações de paz",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/05/melania-trump-recebe-representantes-da-ucrania-e-russia-na-casa-branca-em-meio-a-negociacoes-de-paz.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-05T10:56:33.000Z",
+      "summary": "Melania Trump se reunirá com representantes da Ucrânia e da Rússia antes de rodada de negociações entre os países. Reuters/Evan Vucci A primeira-dama dos Estados Unidos, Melania Trump, recebe nesta quinta-feira (5) na Casa Branca representa",
+      "image": "https://s2-g1.glbimg.com/gs7khhnnHH4bzLeBmcQCj44vQ3Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/5/RasCNRR4qDl7o6eityGg/2026-04-09t184157z-1982216527-rc2ulkax1cmw-rtrmadp-3-usa-trump-melania.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 8.42,
+      "relevance": 9.4
+    },
+    {
+      "title": "Binance e agora banco francês: como hackers desviaram tanto dinheiro? Entenda as diferenças entre os casos",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/05/binance-e-agora-banco-frances-como-hackers-desviaram-tanto-dinheiro-entenda-as-diferencas-entre-os-casos.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-05T13:07:07.000Z",
+      "summary": "FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da A Binance, maior corretora de criptomoedas do mundo, e o banco francês Crédit Mutuel Arkéa foram alvos de ataques hackers em um intervalo de quase um",
+      "image": "https://s2-g1.glbimg.com/1GKdAsyhoQymdThTL-BG3grQ0S8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/r/xsPBLCTnOci4Knbnuc4w/2026-11-03t223624z-2077831532-rc2jdoa4ji7j-rtrmadp-3-finance-crypto-binance-northkorea.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.98,
+      "relevance": 8.2
+    },
+    {
+      "title": "Banco Central deve manter juros altos por mais tempo, diz especialista",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYm1WOFNCSjllQVhxQWwwcnZuYXgtU0dEamNicVBXdGtjY2lTYjIzaUJ6RHZ0Vk5HM0lBbGxpQzhsRVZtV0p5Uzk0SUtxblgtdHcxRWkzS0hnSDNfaHVXN3c2WFo4OTVtTkd0WmVLUHF4bV9xa0VWZkpnNmFzdjl2VTFFamdFenJyS2RVYXpsZ2otb2pydjdZYlVGZ0s0d1l2dTZv?oc=5",
+      "source": "BPMoney",
+      "publishedAt": "2026-11-05T12:58:10.000Z",
+      "summary": "Banco Central deve manter juros altos por mais tempo, diz especialista BPMoney",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.74,
+      "relevance": 8
+    },
+    {
+      "title": "Unidades do Sesc PR recebem exibições de filmes da 21ª edição do Festival de Cinema Italiano",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjhYcTBiUjVzZ1QzeGZrVzhrQUdkSUphT3N0Slk0R2g0S05pUUR3Yy13cnp3VjNUTUFjUDBScWhzTVBjd2R0SUU1VTNBZmZudlZBN0VPVml6MUVjY05xb3dKZ0J4eUJEVW5SQmhlZ3FndGpZeUlnWnpPd0ZVdXhqSV9jRmZGTUFmZ2RTU0pzRzZDOGR4VkNSZ3EzUWc5ak5qaXprOFFHQnB6ZFVlb3ZELVlJYWRHYURnWHh2STR3MEwtUzRXN3c?oc=5",
+      "source": "Sesc Paraná",
+      "publishedAt": "2026-11-05T12:51:36.000Z",
+      "summary": "Unidades do Sesc PR recebem exibições de filmes da 21ª edição do Festival de Cinema Italiano Sesc Paraná",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 7.71,
+      "relevance": 8
+    },
+    {
+      "title": "Festival de Cinema Italiano no Brasil 2026 :: 21ª edição começa hoje com filmes gratuitos em todo o país.",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ra2R4bVQzMnB5Uzh1Y0JhbWlVVzJJNDNJUmpqdGpjaHNxMGktY2JYYTFzZm9TOXJXSzdMdmdjcEhYUmpGWnBKOF9RcWdCOWNoVlBhcjFjd01xWXBkQnI3czhteWNoVURINXdfOXVFRVBQaWEzbHk40gF8QVVfeXFMTUJ0STBIamxCN29iRzdGZDBjdDlWLTY2QlFPMnpFa3I0Z2t5LVZFQks2M3lkZGozTkN4ckh1VmFqd0x6VTVFc29nU0IxV0IyTkhiNmNtcVUwWUZOMWVKMEVoajdVZWx0SEFuVTdyQkJSSDRnNVFXVkwybEluYw?oc=5",
+      "source": "Papo de Cinema",
+      "publishedAt": "2026-11-05T12:35:54.000Z",
+      "summary": "Festival de Cinema Italiano no Brasil 2026 :: 21ª edição começa hoje com filmes gratuitos em todo o país. Papo de Cinema",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 7.63,
+      "relevance": 8
+    },
+    {
+      "title": "Nem os mais ricos escapam: inadimplência dispara quase 40% em um ano entre brasileiros de alta renda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/05/inadimplencia-alta-renda.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-05T13:30:00.000Z",
+      "summary": "Mulher checando informações do cartão de crédito Reprodução Freepik Nem as famílias de renda mais alta escaparam do avanço da inadimplência no último ano. Dados do Sistema de Informações de Créditos (SCR) do Banco Central (BC) mostram que, ",
+      "image": "https://s2-g1.glbimg.com/wTVi70KmDCaWhSgwR5zAxSUCfyw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/J/y2QLIhSAadT0Kxkxg5Sg/woman-paying-online-with-credit-card.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.51,
+      "relevance": 7.6
+    },
+    {
       "title": "Trump perde o Congresso: o que muda para o Brasil e para os conflitos no mundo?",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/05/trump-perde-o-congresso-o-que-muda-para-o-brasil-e-para-os-conflitos-no-mundo.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-11-05T03:00:01.000Z",
       "summary": "Trump reconhece derrota, mas diz que vai usar poder de veto Com a derrota do presidente dos Estados Unidos, Donald Trump, nas eleições de meio de mandato (midterms), realizadas nesta terça-feira (3), a expectativa histórica de que o republi",
       "image": "https://s2-g1.glbimg.com/kqG5WMZrG44ALgxjxDhcHDk0BRw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/I/ltAvmBQCAWKB5wqbHrfw/2026-11-02t210212z-1507412749-rc2vfoal1whc-rtrmadp-3-usa-trump-lincolnmemorial.jpg",
@@ -153,615 +295,494 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 10.55,
+      "score": 7.39,
       "relevance": 11.2
     },
     {
+      "title": "Empresas que investiram na inteligência Artificial dependem três vezes menos de um único fornecedor de tecnologia, revela estudo da consultora KPMG - RNA",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPVzk4cTV3U1FxQWJibHZMQXlOdjYwWHNvYm9TREZFY256c2EzSHlYS3VZTG04X1BMZ0g5X19yb3pod29kNTZnS1UwSEt1d055XzVacGdvS2VoQlF4VnF0SldOMGdjRnlHTjRCQ2VocTNQSGw3cVdhNzVPdy03RXFCZFN6OVQ3Y00wQ3o0dVNkNGlhR3NsRTR6RGZTS2NvTVFUc01qRFlITE9jd2ZFOUZwTXdBWFNTSC05bjkyazd0ZVpRTEVENG1BRGcwUzNMaV9jYU56a09kWmd3ODZ0aGcwYjVHTHd2TjQ4U3NQVUpCeGJyRWdHc0p3M0VTYnhpQTVSYWRTY0FscUhsV1ZSNkNrOG9Ddk10c29IMUtTSUNpbXdld2IwSF9nLTFTQTZOUVN5?oc=5",
+      "source": "Unimos o País",
+      "publishedAt": "2026-11-05T07:02:07.000Z",
+      "summary": "Empresas que investiram na inteligência Artificial dependem três vezes menos de um único fornecedor de tecnologia, revela estudo da consultora KPMG RNA - Unimos o País",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.93,
+      "relevance": 9
+    },
+    {
+      "title": "Inteligência artificial nas empresas exige preparo das equipes",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb1I0b0J3T25aZ251djM0bXVxNk9TdlI5YmNmSWk5bUJ2ZnUyT2ZqajluX21fTEF0a010MHZYcUdsMW52LW80X2VMS3ZDVVZtZ0g1WjJ0Q0pfTGc3NXNQOWR0Ul9VbWQ0SFZVV3FkdE5IV0c0N2V3eHRPSXhVMGpLWDFtdi11Z29wNHBDZWRxODhIZE5ZVFZNTVhpQnRUaHJHU3l1YWdmYXM3d3BfOW9kRw?oc=5",
+      "source": "Gazeta do Povo",
+      "publishedAt": "2026-11-05T13:25:00.000Z",
+      "summary": "Inteligência artificial nas empresas exige preparo das equipes Gazeta do Povo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.89,
+      "relevance": 7
+    },
+    {
+      "title": "Mercado financeiro eleva previsão de inflação e juros e reduz expectativa de crescimento do Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdk5ILTktNnl3cUZRWlljUmdieUdqNkJEUTFfTVNlYjV6TGgtWDBja2ZKaHBIN1Nod0JfM3pCVW43TlVVMDlVelNOSGUtWlhHOEhHT2ptRXczVVk4d0FLdWJRdGdEd3pJTVN1M1Nxa092RkUtOFN2a3d0V0o3UUpxUS1SRC1iak1ESlExSUJTVFR6bTdyeVBTVzdqZklYQ0NYWHNTdVRxME9QREVodUs3eXRLdk5ELTktU01mczlCbExjZElMVzJUcV9lWXI0WHZYbWhMUElDemdhdkVBalJKdFhOMFZ6TVpIaFE?oc=5",
+      "source": "Jornal Gazeta de Varginha",
+      "publishedAt": "2026-11-05T13:09:38.000Z",
+      "summary": "Mercado financeiro eleva previsão de inflação e juros e reduz expectativa de crescimento do Brasil Jornal Gazeta de Varginha",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.83,
+      "relevance": 7
+    },
+    {
+      "title": "Empresa quer usar inteligência artificial para proteger satélites no espaço",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yZlVIWFItTzhPQ2hpalFrazg4M1RJQW1qNEU0SkNKbmtZSWgzYkkxQnBqSkFnRVBhZXYzV2laMWxYLTNHaGc4X3F3RGs0eWU2a2NLSS1LVy11cWpuOHJDMTFIRVRoaENXVFd5U0pGQ01Hdw?oc=5",
+      "source": "SINDPD",
+      "publishedAt": "2026-11-05T13:01:48.000Z",
+      "summary": "Empresa quer usar inteligência artificial para proteger satélites no espaço SINDPD",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.79,
+      "relevance": 7
+    },
+    {
+      "title": "Como Trump reagiu à 'onda azul'? Presidente culpa guerra, ataca TV e diz que 'faria tudo de novo'",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/05/como-trump-reagiu-a-onda-azul-presidente-culpa-guerra-ataca-tv-e-diz-que-faria-tudo-de-novo.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-05T08:00:04.000Z",
+      "summary": "Trump: Derrota é, em parte por causa da Guerra O presidente dos Estados Unidos, Donald Trump, reagiu de diferentes maneiras à derrota do Partido Republicano nas eleições de meio de mandato, as chamadas midterms, realizadas na terça-feira (3",
+      "image": "https://s2-g1.glbimg.com/MvYE_OGwUny5qym_IPF6Shl_Pc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/o/tCSzecRfq3JhOYnwcOhA/2026-11-02t044535z-1973786666-rc2ffoa0ad2u-rtrmadp-3-usa-trump-kansas.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 6.72,
+      "relevance": 8.4
+    },
+    {
       "title": "Copom mantém taxa básica de juros da economia em 13,75% ao ano",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVJScGdNUWUtY29fZXczLVZldDVGX1FtZ0Z0em91QjFJbDU5ZDdLRHFiN1UtTG9XY2g2YXZqN2NfTVRKWk5talM1ZV9NNnNWNW9lTDluQmNueDhrNWZ0VWRjRkl2WExyNS1sdTJ4Y3VzR1NNQnk4RWZtQnoxVVJGa2RMbkhZaldfSC1rZ3dBMVJHR2hXV3NhWmVzZzRwQmlfcVF1RXlGWXZCWU40OTNrYm1aMjJyRHllZGhDb2NnQdIBzgFBVV95cUxOODBaVlh0OVE1STZlbkZLS1kwbWpTYmpFQkoxWU11dkRVWmRnbGd3S1hOSEVQY1pVMGl1MTlTTHM4S3g3Vk9NRmhHYzdHTHBtSERCbVZBdlQ1ajBPdTNsTFZoZVFDWWNMVUc1b3l3RVBZWkY3cmJpOVdPR0dXZ0pNMnlTVkEzVFU2NkxfNlJndWFaZi0wQzJ0ZTZTSXRMUUNiMG5lR3Vtc0FlYy1GWGVUenRacldMZFUwRnR3Y0ZucFRRQ2hVNFMwSUVmV0UwQQ?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-04T21:31:43.000Z",
-      "summary": "Copom mantém taxa básica de juros da economia em 13,75% ao ano G1 Banco Central surpreende e mantém juros básicos em 13,75% ao ano Agência Brasil Selic fica em 13,75%: entenda em 8 pontos a decisão do BC de interromper os cortes de juros no",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa2ZOZXVCa215SFFoc253WUtfaXJYTHktQ05fY1lxZ3RWcXpBM2lVdTltMm1LeS1ERUEzVkVHcm1zbENuZ3BzZjE3R0FnbjAtb1JaQjM2WVMxbTBvY1ZCV25fSmprR1FsRHZKbmxNQ0FWSnhGVHBuQUdhV2dySUFUakJuNW1DWkRpV2ZldUM5Zjk2cnkxNFdnWEdiZEQxUGZ5MW9sanV5d0RlMDVhV3c?oc=5",
+      "source": "Portal do Cooperativismo Financeiro",
+      "publishedAt": "2026-11-04T22:15:04.000Z",
+      "summary": "Copom mantém taxa básica de juros da economia em 13,75% ao ano Portal do Cooperativismo Financeiro",
       "image": "https://s2-g1.glbimg.com/be4usyjPCD19kJSybeRYxMXNpVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/W/6Y4qERTSOg1kq30qJphA/261104-grafico-selic-a-trajetoria-da-taxa-basica.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 9.3,
+      "score": 6.7,
       "relevance": 12.2
     },
     {
-      "title": "Brasil amplia distância e segue com o maior juro real do mundo após Copom manter Selic; veja ranking",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmZmQWFCeHVxd0ljWmF6XzJ4cUdaZWZ3blZzTGVKdVV4UnJKR05MeWxLbXliY1FNSTItdEhzWW9PTXlGMGIwUTd4Y3ZBN0JlTURIdzdSZzhPdWVuVXkyQk03MVg5dDlWWGJUXzJFUjF0UXBWN0RLV1pYZE8zZ2VULVdzZk5DT0l10gGXAUFVX3lxTE55X0NMclp6YTM4NzBKYzZiSkgxRUUwQjRSdHZIS2hSQVltRTdkRncwRnVqTHVhQU1LZ0RWZFZwcURQQ2dqMWNITkRlSHpqR1EwekN2cWJyYV90NTdGTjRaU0xtNVBnWDhzdW4xcEZoc0podng1VklwbEItY0hpcFBJRU4tWE8tbWtlcklRQml4MmMwcnJUOUE?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-04T21:31:45.000Z",
-      "summary": "Brasil amplia distância e segue com o maior juro real do mundo após Copom manter Selic; veja ranking G1",
-      "image": "https://s2-g1.glbimg.com/GK6lw7tr8M3TWoHrHmrLkDh58vg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/s/K/eBdJ5MRCOs4XjL8VpiOA/48002099586-2939bac18b-k.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 7.32,
-      "relevance": 9.6
-    },
-    {
-      "title": "De guerra no Irã a regras para IA: o que a vitória democrata pode mudar na economia dos EUA",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/04/vitoria-democrata-nos-eua-ameaca-planos-de-trump-para-economia-e-ia-entenda.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-04T14:00:54.000Z",
-      "summary": "Democratas conquistam controle do Congresso nos Estados Unidos A vitória dos democratas nas eleições de meio de mandato dos Estados Unidos colocou mais um fator de incerteza no radar dos investidores. O resultado ocorre em um momento em que",
-      "image": "https://s2-g1.glbimg.com/MvYE_OGwUny5qym_IPF6Shl_Pc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/o/tCSzecRfq3JhOYnwcOhA/2026-11-02t044535z-1973786666-rc2ffoa0ad2u-rtrmadp-3-usa-trump-kansas.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 6.74,
-      "relevance": 11.8
-    },
-    {
-      "title": "Latinos, guerra, voto antecipado: os fatores da 'onda azul', que deu aos democratas uma vitória histórica nos EUA",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/latinos-guerra-votacao-antecipada-o-que-explica-a-onda-azul-que-deu-ao-partido-democrata-uma-vitoria-historica-nos-eua.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-04T17:46:31.000Z",
-      "summary": "Marcelo Lins analisa derrota do partido de Donald Trump nas eleições dos EUA Uma espécie de tempestade perfeita está na raiz da vitória histórica conquistada pelo Partido Democrata, de oposição a Donald Trump, nas chamadas midterms, eleiçõe",
-      "image": "https://s2-g1.glbimg.com/diFY7lm4qs2gQKcWx-a3N3Yaqzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/O/nSbkTgTtila83VASY0GA/2026-11-02t203404z-53214534-rc2vfoa5byp8-rtrmadp-3-usa-trump-lincolnmemorial.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 6.73,
-      "relevance": 10.2
-    },
-    {
-      "title": "Banco Central mantém taxa de juros da Selic em 13,75%",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0Rod3kxVGtVWkxLRTlLbS1rMzc3aDEyMm5tTHNHUVpRZHd2Zk8ycWxDYzF5OGp3WVNqaWtKTXBLN3BkZUpTNkZtN0o1RlRrV1hnUFdFWHJsVWxvWDFBMWZtdW1fOUE5LVZ2VjdVYkxqOU5tVmtMMHZSU2FIbUlHd1RIUHVfc1poTkIxUmkwOUFfZVE?oc=5",
-      "source": "A Tribuna RJ",
-      "publishedAt": "2026-11-04T23:49:00.000Z",
-      "summary": "Banco Central mantém taxa de juros da Selic em 13,75% A Tribuna RJ",
+      "title": "Dólar opera estável após Copom manter Selic em 13,75%; Ibovespa futuro sobe",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRFhZUHpSVWpMemYyXzVoYXU1TlFCVHloTUQtOUhvWHRoLU9vaDd0c2lCOUtyTWp1YzBxdUZkVU84Q1NMRjdselFMbG9SS1l1Nm5xWURkYmljdERfSnV0N1ZXRWlRRTZvUXNQdlhkS0EyYTB5WFZOTUZsNnNDeEhQWlVJejdNa0R5VG9wVTFveFc5dmh4UkV4NVBDUEt6RC1icWlpcA?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-11-05T12:35:47.000Z",
+      "summary": "Dólar opera estável após Copom manter Selic em 13,75%; Ibovespa futuro sobe CNN Brasil",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.66,
-      "relevance": 8
-    },
-    {
-      "title": "Dólar cai e fecha a R$ 5,45 após vitória democrata no Congresso dos EUA; Ibovespa sobe",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/04/dolar-ibovespa.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-04T12:01:09.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em queda de 0,64% nesta quarta-feira (4), cotado a R$ 5,4518. Já o Ibovespa, principal índice da bolsa brasileira, teve alta de 1,23%, aos 167.563 pontos. O mercado reagiu à vi",
-      "image": "https://s2-g1.glbimg.com/flrGTzCGA7rcqIkU-pbLKhRAjM8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/H/q/DVW4KVTAm4HtV81KBWKg/pexels-karolina-grabowska-4386431.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 6.56,
-      "relevance": 12.4
-    },
-    {
-      "title": "Midterms nos EUA: vitória democrata ameaça planos de Trump e pode afetar dólar e juros no Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNXFDZEpFVnlKWVdBY25UQnNPRFhqWlVqdFN6MkVvWlFCbmNtQURDaXBCMVJ5WXE2eXAtV05raVJSVEUxX1M3UGVhSkc3THBUUm9VTHlIZDRPRUJrWU5yZmc5LXdYdlhwb1N6ODA0S0diQ2o1WmhRR2N0bUw1b1NDQlBFWFNvN0c4cFlYUzdrX1FzRlJUeGVZejFkanFzMTBFaHgyRmJRTHVHMzVCR08tbFNlOFk4WEozakt2clQ3bE9MT2QzNUt5OHA2SURoZ3o2QVhha3FqYTR3U3ZlRWJNT2xFSnPSAfMBQVVfeXFMTlgwUXp0V0JKUVh0YVZmaWZZY1dCZFFFVlNDekVoMTZNQTF3ZW13WWRPZ2d1MnVjTGc2U2xDMFEyRktrS2lIcjlXa2JsYjAwVVZlQ1dBdzlLUEVMYkg4MkpWZnNBY3JneEdWc2ZRazVZUzRNRENLdG5LSlgyNXRqUEJjY0xnN096RGFjWS15WWEyMkJjQzEyZWdsWi1wRWJ4bGFLNE52MlhiTDZrLTgzN3FNeU1FSlpDTjdPSjVycmVMOFFHdUtkVGcwQnBuelNhZmpxak1HRHFaaV9MTjBmdVNubmlTa29SdGxORGJRUFRURkZN?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-04T11:02:43.000Z",
-      "summary": "Midterms nos EUA: vitória democrata ameaça planos de Trump e pode afetar dólar e juros no Brasil G1",
-      "image": "https://s2-g1.glbimg.com/1-B3_OzIhDAOho2006H8AJOaV9U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/0/BBon1hQYCBaRv5dmEACw/2026-10-24t224431z-105027597-rc2w9oazeoor-rtrmadp-3-usa-trump.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 6.52,
-      "relevance": 12.8
-    },
-    {
-      "title": "Setor produtivo critica manutenção da Selic em 13,75% ao ano",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZndIMks5Yml3cTYtZ3NKTVdTYjUwMHRQdTRFQkMzaElYY2t2cTZLVVUtY2N6SVNKTHRzN2VZQjBUOUFKZVhLX2lRaWJldkNmckZLd2l0cjlQUkNYTFYxMjNVZTlEeWR3MUpaVi1jT2lNdE1SQXlFZTNYSHJ6TS10ZlFjbDIwT1FtNDRWazdRWWVIWnFnWXAxM1ZUMmIwNkhPU2NvVkdnX1JnV1NyWmc0NU9xR1V3bFU?oc=5",
-      "source": "Agência Brasil",
-      "publishedAt": "2026-11-04T22:34:00.000Z",
-      "summary": "Setor produtivo critica manutenção da Selic em 13,75% ao ano Agência Brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.51,
-      "relevance": 8.2
-    },
-    {
-      "title": "Selic a 13,75%: Sem ajuste fiscal, mercado vê juros travando a economia até 2027",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS0x5YTluZmFPX0tjYzJHV0JiclRyOXBobmdOaGtoSXlXWGZyZ0xpSGItT1A5QlFrdmtXQW4ydThIQnVXbTlFSzU1OHNXQXduMFJDUkVBUW82Sk1uYWFSbmNxd1ZhUElIVjhmclFOdzVqdU9reXdfeC1qdk8wemhnd2pB0gGHAUFVX3lxTE1LeXN1UW9TOXkxUllhYWM1TjZBUm5FSEFMWUJjSHVuVGdIYzQwSmJFRWppd0NfbEd2ZDdBVVpjQ19XQ0dtNW9GMjNlZWtyc2RsdkM4dUFSQXNMOE5VQkdLR1BWVG1HSEJFNVRNeGxmMHJTLWoyRUdTSUlFVGF2VXpHYWl3bnpHNA?oc=5",
-      "source": "InfoMoney",
-      "publishedAt": "2026-11-04T23:08:58.000Z",
-      "summary": "Selic a 13,75%: Sem ajuste fiscal, mercado vê juros travando a economia até 2027 InfoMoney",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.49,
-      "relevance": 8
-    },
-    {
-      "title": "Banco Central decide manter Selic em 13,75% e surpreende mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWEFnT3pmOGxfQnZ6TzBDSG14NXd0UmV5THVNWkdjRTdGcWF3Tkh4bjRoaXBVRUZWV21ZYlEzQXRtN2tSVmlvTjdZTDcwNU4wVXFPLThxZUZCY2k5X1N0Zm5wR2JZYTVoc0QzSndZZS1VNjJmWF9zSlh0Qnd2eVlna3FDcTIzZFlyblRiTjZ6RVc1NmZFZEltakRkdVoyeDVnZkFkLTNKVjc3ajlqcWIyN3dfNkFMRGZJWEhua1cwRWljZXM3Y204?oc=5",
-      "source": "Movimento Econômico",
-      "publishedAt": "2026-11-04T21:50:57.000Z",
-      "summary": "Banco Central decide manter Selic em 13,75% e surpreende mercado financeiro Movimento Econômico",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.49,
-      "relevance": 8.4
-    },
-    {
-      "title": "Banco Central não se dobra a pressões políticas e mantém juros com piora do cenário para a inflação",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0ZVMHgwd25Ed3ZpY0ttNzdwSVgxRXFNdlZBcmZpVUh0ZmJ1UnZqMXlJdU92YU1MSVpnTVFrTGt4cDc3N2lFX3lkRW5UdVVOa25oNnlwWUhzSVowRjlDRjB5bkNoaGJoaTBWUEVwR09KaS0weVM4dUJRd2lray05WVZ4ckJsRDFob1dHdVFISnB3Y1dJNUNESmtFZHpMdGhUN3F5LThKYVlzSXJFcDhOYkFTejhjYUFONUpma0tyaWdvQVZlLVh0c2phZ2V4RXhSejNOc0UtS0hJNDNqMU9NaXAtQnnSAeoBQVVfeXFMTXBSMkVOMVJzclNVVHZ5U1M4UWg1bnNYdkZqbUUtaGl5Q2FmcXIwLUU3Y0tLRUhWa3BpeGRkY0FNdFFVNmctOTNKLVJsek1SR1pvVm53TmJNX2pMUGdvTmVyWENRZFlOZ2pJWjZPeWJaUXZpby1VbFduQmtDUHIwOU92ME9YSTU3THpaXzFybmZITUFibE1OSUlOMDJhaUNtbGlKUmRYWlJoanZXYWxlYnRlNHFPTUhibUlvSkVld2JNOTk1U0xVZG82emxwMXFiOVNsTG1wREQtTVN4T1kxbUJQYUpKN1BYNV9B?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-04T23:00:00.000Z",
-      "summary": "Banco Central não se dobra a pressões políticas e mantém juros com piora do cenário para a inflação Estadão",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.46,
-      "relevance": 8
-    },
-    {
-      "title": "Filme brasileiro que levou mais de 6 milhões aos cinemas estreia na Netflix e reúne Mônica Martelli e Ingrid Guimarães",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdGNJVWZCRnNPRnY1Mno3N2gwYlJYVTBNYUFTc1BITWFkcE1Kc3VpQ3B3QXlOQmRhMi1NNUJRMEtBZENrN1lKUXRvSllDQkhaQ01rVjJ3QzFPRU9WQkpJd2VGV3EtVmF2X3otS2VkZWdkRnZJdERpMWRCX3g0ekpXdzNITDk3ZG5sTGFZODVpRWd6TEVQRjhyakY3SkhRQXpSTkJQaXFuR0d5dnozaTUxZXctSjdjS3kwWlBuQnkzMDhhcUh4azJtUnQ2cnF2SmR0RDlSS2N0cHh2MFFlSTFxY1VfcFFvLXF0NGpsMGRYanpOalFs?oc=5",
-      "source": "Gazeta de São Paulo",
-      "publishedAt": "2026-11-05T02:00:00.000Z",
-      "summary": "Filme brasileiro que levou mais de 6 milhões aos cinemas estreia na Netflix e reúne Mônica Martelli e Ingrid Guimarães Gazeta de São Paulo",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 6.34,
+      "score": 6.68,
       "relevance": 7
     },
     {
-      "title": "Vitória dos democratas no Congresso dos EUA vai colocar fim à Doutrina Donroe?",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/vitoria-dos-democratas-no-congresso-dos-eua-pora-fim-a-doutrina-donroe.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-04T22:00:43.000Z",
-      "summary": "Vista da cúpula do Capitólio dos Estados Unidos. Kent Nishimura / Reuters Com uma ampla maioria no Congresso dos Estados Unidos, os democratas vão tentar frear a ambiciosa agenda de segurança de Washington na América Latina e no Caribe, que",
-      "image": "https://s2-g1.glbimg.com/Jtju9p3OTDe_lQ3DR8JAdqEu7no=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/lBYwlrQBOZpsejvtW1Xw/2026-04-22t011358z-236832966-rc22vgag3pzm-rtrmadp-3-usa-election-virginia-redistricting.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 6.22,
-      "relevance": 8
-    },
-    {
-      "title": "Apenas 12% das empresas medem consistentemente o retorno da inteligência artificial, revela KPMG",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTnpQbUUtSnFuazd5UU1Pa0pleElZdThxYWkxT2RXTHY4MzVEcExnTGxNUy1MNXBtVDF3cEY4Rnd5NTVhak1fSVNEdWZOaGFIQ1JqSFhOeWFBSnkwcDl1Z2NyX1JvUU9ja0ViNG9NMTdHRVdTMUNvNjN4YXVsazlyOEh3N0VBN1RQMldXQjY2T2FEbFdoTGtsY1VkSUp4d0NfZW1mZjdNZ1dqdGF1eXVsbXlRNlI3SU01TGxMNUhodUdrZ1Q5OVFIMnNBdmlKS3pYN0E?oc=5",
-      "source": "Jornal Económico",
-      "publishedAt": "2026-11-05T00:00:00.000Z",
-      "summary": "Apenas 12% das empresas medem consistentemente o retorno da inteligência artificial, revela KPMG Jornal Económico",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.21,
-      "relevance": 7.4
-    },
-    {
-      "title": "Dólar cai a R$ 5,45 após eleições nos EUA e antes do Copom",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3ZRRVVSaEUzeG93NXN5QzNlUXhfR0libHZReUNmeFpkcTc3OFN6SUwxRml3aFNWMnoxVzZmVGQwMTNqdkZUSW5HQXR1M2Z0X2t6dElzaF9RLS1XOGVoM3MwRjVyN05GOWQ2ekxXR09SY3g1T0ZwdC1OSTB0M1otVmd2U3dXX2twZERKbV9hRVVlQmpOaUl1ZXp4SEdDd3FQTGs4RGczclJJNUVEMEpGU1RR?oc=5",
-      "source": "Agência Brasil",
-      "publishedAt": "2026-11-04T23:17:00.000Z",
-      "summary": "Dólar cai a R$ 5,45 após eleições nos EUA e antes do Copom Agência Brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 6.2,
-      "relevance": 7.6
-    },
-    {
-      "title": "Cinemateca Paulo Amorim tem estreia de filmes brasileiros e Festival de Cinema Francês",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVXh1c1FqU05JemYzUkI5ak43RUVzQVVQc3ltTlFMQjhfWmg5REl0UV9vUVhlZ2NTTWJOZUtqYmJKSTA4M2Jiby1DUFdUS1ZLYVppekRmR1NCYXRGVlktQmNSdHZxNGw4SkU1RTlpQlRGTzdnTVJkNXFJay1yeGFmOExCSGU4SzJsUEwzME9MTnFuZTJ3S2dsdkpuakdLU1BTT3c1SkJFanJZVWZDWklBcjdQOTN0NXc1RUNBcmpBVUkxejNzUF85T1Bn?oc=5",
-      "source": "Sul 21",
-      "publishedAt": "2026-11-04T18:54:00.000Z",
-      "summary": "Cinemateca Paulo Amorim tem estreia de filmes brasileiros e Festival de Cinema Francês Sul 21",
+      "title": "Cine Walmir Almeida apresenta estreia de 'Feito Pipa' e recebe segunda semana do Festival de Cinema Francês",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2d0VXpNRnNFdFhNQVBuWVQtNzZab2NFeWJFTGJrdmtfTGFVS2FUZjVvcTUwVkhtUjM4bDIwYm11ckpXcXZmNXhoMXlwYk4xSy1XWEFYZGhRQ21HWUJSMThGd203NGxwTTQ3eW5MVUZrblBtcXljY3JrTldkcWFDc01LMThDYmM1RXpFSmVZeFo0eXNNYW5nUk5MNEZIQ3BIUGJPMTZLVWVVTi1RTV9uQVdJeXF5NzlkNnZfR0RSQXEwXzZJaXFYeXg4ZHBvbXF4THhjc1VnT2gtclRFTHl0cjFQVXBVZw?oc=5",
+      "source": "Prefeitura de Aracaju",
+      "publishedAt": "2026-11-05T12:26:58.000Z",
+      "summary": "Cine Walmir Almeida apresenta estreia de 'Feito Pipa' e recebe segunda semana do Festival de Cinema Francês Prefeitura de Aracaju",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 6.2,
-      "relevance": 9
+      "score": 6.64,
+      "relevance": 7
     },
     {
-      "title": "Banco Central mantém Selic em 13,75% enquanto mercado financeiro faz pressão especulativa",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9MVDVEUWo5ZlBFZHNTeFV0SHNZVTY2R254SEI1WUJKcHVHcHhibEV6OHNadWRKVVdjQ242ZER4aUhlYktHbkl6TmlLTGlhelF4NFRDSjR5MnpUbDY4aHJPVGU0elFCMWF3YkpVX3NLMHJDeHhmcHRpRDQ2SQ?oc=5",
-      "source": "Sindicato dos Bancários",
-      "publishedAt": "2026-11-04T21:34:47.000Z",
-      "summary": "Banco Central mantém Selic em 13,75% enquanto mercado financeiro faz pressão especulativa Sindicato dos Bancários",
+      "title": "Selic mantida em 13,75%: Copom interrompe os cortes diante de uma inflação mais desafiadora",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRk5rOWEyVXdIeE5obHFRLVdxRWViR251c1BOdE9kUnV4cmc0Y29BZzlKTzM1VlUwRGlzd3NHMlRjdEdFQXM2V2psbFhweGtpa1k2QjBSeWZYSVpCYk1yWWdGQWZLbWN3ODQxbVFZUTBzanJudXBWdlBETmZxZHU4OEFn?oc=5",
+      "source": "Riconnect",
+      "publishedAt": "2026-11-05T11:58:32.000Z",
+      "summary": "Selic mantida em 13,75%: Copom interrompe os cortes diante de uma inflação mais desafiadora Riconnect",
       "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.52,
+      "relevance": 7
+    },
+    {
+      "title": "Inteligência artificial na justiça: o que as decisões do STJ ensinam às empresas",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOHlFWllyd0dBOUlBS3JGaTlJU2hzUm1oUDBCOFhBdVhSLWxGOUFBNFRSNjgwQ0syZGpOVG90MkZHSENFUkJmVXZZNGdnVDllbHdFVjlUQUVkQmlJMXVUSU94WUd6VmNKeDVKcW5rMmVJSU10Y3A3dkhReGFnUEFySTRCZHNSdmFJQnkyYlZjeHppa3VndEQ3QlJiTEYzUm8wdzlOeTNycWZseHZxWFhtYjdydkw3RjN2eGFmcHlFRVBvemVnVDhHMERDbjM?oc=5",
+      "source": "Blog do Gustavo Negreiros",
+      "publishedAt": "2026-11-05T11:54:08.000Z",
+      "summary": "Inteligência artificial na justiça: o que as decisões do STJ ensinam às empresas Blog do Gustavo Negreiros",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.5,
+      "relevance": 7
+    },
+    {
+      "title": "OpenAI e Anthropic entram em guerra de preços para conquistar empresas com inteligência artificial mais barata",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdlI1MG9kZmtPWDkyVFhTb3dsUzBjaFVneDFPWGk1MnQzREtwTXdUVUtXUC15MjFaVGdMWndjVFEtRUF1dXk0bTg1LXFVMEY5Rmg5bHdGWlo1Z3dGVWFCaXIzWmlWZlN4Wm5tOFNnVUVrY3REM1lEWGJnNnNHdkNqQUlfX2lHYW12WHJSZERuTk9XSDdiTnJaYmFRY1hLdnRyQnhmOXlVZ2RPeWNlbkxTLU1PNjBmRi0xc3ZkcWlUUXZJYlVHVThWTkR3MTVPNWUzT2xocm1CMnlZdWc?oc=5",
+      "source": "Gizmodo Brasil",
+      "publishedAt": "2026-11-05T11:50:15.000Z",
+      "summary": "OpenAI e Anthropic entram em guerra de preços para conquistar empresas com inteligência artificial mais barata Gizmodo Brasil",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.49,
+      "relevance": 7
+    },
+    {
+      "title": "O recado do Banco Central que Lula não queria receber",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTzZXN0tfbkFhZUxIeUZYUTVYNVB5WkdyM0lyU2xGdzl3VTlCNjhUUHYxN29BbGpiemFMbTZrNFc2RnJvMXJzMEgzblBOWGpQWHh4eHpHaDNDOGVZc284Y3VwWko5YU8yMEJnSERjRDY5VF8wWE83VzYzVjRxLWpCbG5PeWQtblkwMXBKREtBNXVOOEk?oc=5",
+      "source": "VEJA",
+      "publishedAt": "2026-11-05T11:30:18.000Z",
+      "summary": "O recado do Banco Central que Lula não queria receber VEJA",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.4,
+      "relevance": 7
+    },
+    {
+      "title": "Remédio falsificado alvo de operação em SP é o mesmo indicado ao papa Leão XIV; laudo encontrou só sódio e cloro",
+      "link": "https://g1.globo.com/saude/noticia/2026/11/05/remedio-falsificado-alvo-de-operacao-em-sp-e-o-mesmo-indicado-ao-papa-leao-xiv.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-05T12:39:58.000Z",
+      "summary": "Operação contra a falsificação de medicamentos oncológicos Reprodução O frasco de Keytruda que chegou ao Hospital IGESP tinha caixa, rótulo, bula e lacre parecidos com os do original. Faltava o essencial: o pembrolizumabe, anticorpo que faz",
+      "image": "https://s2-g1.glbimg.com/qXq3U8unoakL0D8ZIpjeuWm_iJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/b/v3CoD6Qiqwsj02YPpRMg/whatsapp-image-2026-11-05-at-07.08.15.jpeg",
+      "topics": [
+        "medicina",
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 6.32,
+      "relevance": 6.6
+    },
+    {
+      "title": "Inteligência Artificial no varejo: chega de vender acesso à tecnologia; está na hora de entregar resultados",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTkVmQ21DeUFraFV3V2hzd2lKY25SdnBWOEQ1U2EtTkJCUnVZdHFGMFAtbDl5QWc5UTdmNk1qN3ZFZGQwZ0tmN1B0dUxiNW5yclo0WHdrQkFkdjROVmh4alcyOXVDZVc1NEVsenBMWDBQSkZVa293dW5DSXZsUTdvM3FIdHd4YkE2bEwzQmhRMUZPMG90aWNudTRHZy1VR3BfcVk1cFNCYWZMMnYtV2owdmY3R3YwLUYwV2hoZ1U4NnhDbzh6LS1fTnFHQkxVWWxEVzNXV3lfNGl1cHY2MWM2d1pDTERwZHNJRTZ6S3BjZ0RWUU0yeW4w0gH8AUFVX3lxTE1LMkNsWVFmMm1UdXZpSDJpRDE2UzJzbHZHenNZUjBEMHRMUlFYVDY3SWNob0V3bEtOeEQ1QXROZE93UGpDWnhtVk16NXNzRTZJMlRidGxRSGdoZkNzcGlpdlkyR3E3MjRYMG1LcW5DbWxlS3l0RkdHTWU1MWd6THBzRkV3dkNYanVLVHM0VUo2Z3d5cVliS1ZGaUpqXzM3dDM0eHE3TFNBRnBQQnpybmhVTzZpX3g3NjhPOHZVcEJBTzdWTWNUenFjZHUxUFBQM0JlV20xQXVsSHh3dUo5cENabmZmNVVlRy1JZWZyeVQxalEta18zUmJRT2pFNQ?oc=5",
+      "source": "Mercado&Consumo",
+      "publishedAt": "2026-11-05T06:01:26.000Z",
+      "summary": "Inteligência Artificial no varejo: chega de vender acesso à tecnologia; está na hora de entregar resultados Mercado&Consumo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.22,
+      "relevance": 8.4
+    },
+    {
+      "title": "Brasileiro eleito na Flórida critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/05/brasileiro-eleito-na-florida-critica-abrigo-a-flavio-bolsonaro-e-diz-se-espelhar-em-erika-hilton.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-05T12:02:25.000Z",
+      "summary": "Felipe Sousa-Lazaballet Divulgação Felipe Sousa-Lazaballet, 40 anos, gargalhou quando soube que virou meme por ser de Duque de Caxias, na Baixada Fluminense. Eleito deputado estadual na Flórida, nos Estados Unidos, ele será o primeiro brasi",
+      "image": "https://s2-g1.glbimg.com/m1TSWsdmAz708TqQM3TiCT8rmyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/G/Tu9nw0SamB7FkdB1BPtw/felipe1.webp",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 6.16,
+      "relevance": 6.6
+    },
+    {
+      "title": "Inteligência artificial amplia possibilidades de análise, prevenção de fraudes e atendimento no mercado de seguros",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUWJ3RkRVWGJsaTFOcFBITkVRWU9wZjN3NEwta04wdVZZZjI4SEwtUXA0cmltbVFDTHRwLTFNTnhRYWg3LUU2YW8xeGNnSERBVlBQc1ZRdDdkaGtib01VakxETmF3RFVpekNiVjhwV28xdF9sTUtIaXBXNG91Wm1GUnpMbG1OcVp1NEpWZ29iX1JYS1h6ZGpvcjl0RHkyOGhhOFN5eFdzQWJ4SF8yZDNBamZWU3BjQUFOZFZVbE9kUTE3blp1RlA0d3FuVzFvNjNuSGR6Z0w5SnlnQQ?oc=5",
+      "source": "CQCS",
+      "publishedAt": "2026-11-05T10:25:25.000Z",
+      "summary": "Inteligência artificial amplia possibilidades de análise, prevenção de fraudes e atendimento no mercado de seguros CQCS",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.14,
+      "relevance": 7
+    },
+    {
+      "title": "Ibovespa oscila após manutenção da Selic pelo Copom; dólar cai",
+      "link": "https://www.cnnbrasil.com.br/economia/money/mercado/mercado-financeiro-ibovespa-dolar-5-novembro-2026/",
+      "source": "pedroz",
+      "publishedAt": "2026-11-05T12:35:47.000Z",
+      "summary": "Banco Central pontou, em seu comunicado, para as expectativas desancoradas e o ambiente incerto; avaliação do mercado é de juros em patamares mais elevados por mais tempo",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/03/rum.png?w=200",
       "topics": [
         "negocios"
       ],
       "score": 6.11,
-      "relevance": 8
+      "relevance": 6.4
     },
     {
-      "title": "Startups têm vantagem na adoção de inteligência artificial - Times Brasil | CNBC",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSV9MdWN0TnU3SV9uM1Z5aFBoMERlczZteFVscXdFcXRfcGYyZDlrZFFrbWloR2llSk85MTVxeGRhOU5tZXpzYnk3NmpHX0dMVUdPNGVqdXFBRzJ1dXppSUUza0ctMnFrcFRvTzdvTlJyMy0zR3lISkdBSUFiMVNOYUU0b2JQZlpWcVJ5cEhybUlhSWxkdXNHc1B6S1A3V05BOVlQSGN2LUcyOHIteXJ1M3cxa3pocHZlcnpOd2J4WHBuWjRlWmxj?oc=5",
-      "source": "Times Brasil | CNBC",
-      "publishedAt": "2026-11-05T00:44:00.000Z",
-      "summary": "Startups têm vantagem na adoção de inteligência artificial - Times Brasil | CNBC Times Brasil | CNBC",
+      "title": "Indústria da inteligência artificial negocia instalação de data centers no ES",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMWllbDlybmJaSmpjTkx2NFJNc29sWjVFZXNncXBCMFBkZzBUdUNzSVpCVTI5OVVLRldhRzYwX3E2R2cyUnFKV1dsS3RtUTNsOHBXNXhFNE1oWXZWQkJLWUxRWnItTUY1eDdFaWtpREhtWGVlUC1BSDQ0Zk04TVlrd3lNaFJuNGY3bW9FSGt0RVdQQTB4Z2pvZTl4TFBUelQ3Qi1PbnpkU0c3c1hFT3dLTThNdWl4SWtaMFZCbHJFc9IBxwFBVV95cUxOQnh0cFBRWHJTdkpQRDBOR3Vzb0RTbUFOd2M3emI5eV9YWXlJUnJVZVRrQ3BCYjZMOUFtTm5hT05WOFRxRXdNRG5tUHM1b3N0UWdBQ0ZjNGdmTnQwTmJ2VHFWb0ViWDVYY1h3U3c3RHNwN3ZqcE93Q3R6Tk5ydHFUQk03VENCakxNSnFkUnpuZktGZkl3cVJZMExhQ3pLejdxdlkxZDFQcEhZcDNQT0E3VkV0WHNxSHkzUGdMNWEtQkJIeW1QYXk0?oc=5",
+      "source": "Tribuna Online",
+      "publishedAt": "2026-11-05T10:12:14.000Z",
+      "summary": "Indústria da inteligência artificial negocia instalação de data centers no ES Tribuna Online",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.04,
+      "score": 6.09,
       "relevance": 7
     },
     {
-      "title": "Governo edita medida provisória que define alíquotas do 'imposto do pecado'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/04/governo-edita-medida-provisoria-que-define-aliquotas-do-imposto-do-pecado.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-05T01:16:39.000Z",
-      "summary": "O governo federal publicou nesta quarta-feira (4) a medida provisória (MP) do Imposto Seletivo, também conhecido como \"imposto do pecado\". A medida foi publicada em edição extra do Diário Oficial da União na noite desta quarta. A proposta p",
-      "image": "https://s2-g1.glbimg.com/uxqam0E9eBoOASWhjDQEYFDKelU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/A/3/YrqftWRoyWmrAjfV0LIA/pexels-clam-lo-3355400.jpg",
+      "title": "Novale Hub promove evento gratuito sobre inteligência artificial responsável nas empresas",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFhDSWxZY3Vyb1hpZ3hvMHozYl9XRmQ5SjFtc3hObVdfM2h3QzF3aU1VMnpGU1cyNFVfNllVaTNnQWhrSWNydjJRT1Z4dExrampVaDcwS3dmTm8zN2toV1RTSDRRSVZJai1zbGJhVG5NMWd3dm90VVNRMHg4MkZ6V2N5SmpnOXBfX3p2NUZkUi1LZVowZkk1Ul9lVzBSSkplZEU3dVV1XzB6N3dfRkZSbnAyWTE5ejlr?oc=5",
+      "source": "OCP News",
+      "publishedAt": "2026-11-05T10:04:55.000Z",
+      "summary": "Novale Hub promove evento gratuito sobre inteligência artificial responsável nas empresas OCP News",
+      "image": null,
       "topics": [
-        "negocios",
-        "medicina"
+        "negocios"
       ],
-      "score": 5.99,
-      "relevance": 6.8
+      "score": 6.06,
+      "relevance": 7
     },
     {
-      "title": "Copom mantém a taxa Selic em 13,75% diante da piora nas expectativas de inflação",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRXZCUWxaWFhmUm92VlVwQmtpRkFwTnFCUHdVbEthZzB3ZE84YmRZcDZRR3lXd2NCZkF0MVR0ZG5sRmJTaUZaeUdGQzVMR3p0RW9XMUg2anl6ZkJTYTVfZTNVZW04a181QjlZR01DN0JYZmxkTXpJVWZ1Nk00WUs1QzdsWWJJUVRCMGRfYTR5UUFGZnl1MkFnQ2JjNHpxaHc2YzNaRlRseHJOTDE4WmEwUG5veURwbkJP?oc=5",
-      "source": "XP Investimentos",
-      "publishedAt": "2026-11-04T22:53:16.000Z",
-      "summary": "Copom mantém a taxa Selic em 13,75% diante da piora nas expectativas de inflação XP Investimentos",
+      "title": "Americanos vencem Nobel de Economia por modelo para entender decisões de famílias e empresas",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbXV3UGg1RVNHcXZUMHZaQzlZUFFFaXRsbkt4cm9WUjNQZE8wQ1hleUstZGVDNHRnX3k4a3BSd1lvWHRGOVRKNUdxcDRfZVdHTmp6bWhTMHJLTDRIOW1xcG9oRk1iM3FDS3V5UkpfWDNzNnZlVTBUUUhmUFhXS2dVOFZvb2E1QUlRLXI2M0F3Ql9QWm5KNTBuQnpsRUdKOTd4QzFRb2ZsMVZ0V0VfTGR6VzNLcjlDSVJ5ZlNiVlBSOVVzWWgxa0lIRHJXXzEwYkptSVZkYWdHbnQwVjk0Z2c?oc=5",
+      "source": "O POVO",
+      "publishedAt": "2026-11-05T13:37:34.000Z",
+      "summary": "Americanos vencem Nobel de Economia por modelo para entender decisões de famílias e empresas O POVO",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.96,
+      "relevance": 6
+    },
+    {
+      "title": "A BSR está fortalecendo a cooperação em pesquisa, aplicação e transferência de tecnologia para gerar avanços na produção e nos negócios.",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTUttNS16b3NFQWRud2l1OXF5U3pFSGdfVmwxM0hicUZhRVp6SVBhQ3VuaWJBMGhaVm1EVFBialpHNURlcHJVbGFITUl1M2ZTWDRqcFpBM0taWlJWSTVKMHgzVllXZzJOcnZELThDTXloZGVzUWJXVlBVelFJbTJqYUU2VDctMjNLelh3U1J3Vl9zX3FDY1ZleERwbi1KVnAxalNpRVJ4VHNydEhwaER3WDlQTkI0VWgwUjAzazNvX1NsR053Y0Y2WWRKOFI?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-05T13:36:51.000Z",
+      "summary": "A BSR está fortalecendo a cooperação em pesquisa, aplicação e transferência de tecnologia para gerar avanços na produção e nos negócios. Vietnam.vn",
       "image": null,
       "topics": [
         "negocios"
       ],
       "score": 5.95,
-      "relevance": 7.4
+      "relevance": 6
     },
     {
-      "title": "Trump admite que guerra contra o Irã contribuiu para derrota republicana, mas diz que ‘faria de novo’",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/04/trump-sobre-onda-azul-nas-eleicoes-provavelmente-me-darei-bem-com-os-democratas.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-04T18:13:41.000Z",
-      "summary": "Trump: Derrota é, em parte, por causa da guerra O presidente dos Estados Unidos, Donald Trump, afirmou que a guerra contra o Irã contribuiu para a derroda do partido Republicano nas midterms, eleições de meio de mandato que definem a Câmara",
-      "image": "https://s2-g1.glbimg.com/mesqCQ5l2Zewi7lowNXH1LRP7Q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/u/6ANGckSzS7XBC4jhrMvQ/2026-11-04t180337z-404388910-rc24hoac4cg4-rtrmadp-3-usa-trump.jpg",
+      "title": "Lula convoca ministro da Fazenda e economistas do PT para discutir medidas para economia após BC parar corte de juros",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxONFRFRTVBdHZOOWJSakd3VGhDc3pjSlRlTm9KT2tta2FkU3lkRDFlRlNEYi1LT21jLTJBNk5oNDF2T25QNzFsUUpNOTBNNUFnV2dreGNPRWdxSlBHNVptMUJtSGtJMGUwcUhJMHk4bWJ6cWZLTFhCUXM2b3laNnV4aE1jSnhlWUstdFRYU1B2V3dRalZMRVNkMlhJSUJQZnFGRDdLd25PZ2IyTHZUZm9XaWFCOGtiREszQWVkUmEzQ0I3MG1yRVJZZjhHNkZmQTlBVWc0T3RhRzE1SVlxQ2tKRDU5UzR3cUhEcHZObFhtQW5MWEhlNEtzZmVyZ0VSSEZDRWhqUkExcnA4Q3ZRY1Z2LUtKd9IBogJBVV95cUxNbmRBS1c2TlItTW5LbTRlbWY2VURnajNORUppcjlJc0xDYVVqOEZXQ3pPSmpmOHhiSzNQX1ZfQkZkZS0tamhSZy1SSWIwMFRDa2Njdlk0eGk0N2pIMjd4M2F0OHhUVEVOS19sbUNWeDQwYnhEc3ZsUHBmREhmdWdtWUZwdXFTOU5Kclh3WlZTdmlqVHE4cWhBTWNBTi0wd28ySVdKaS1XZnh1VjBuS2ZEb29vS3pUQ0pfVFpZZXFfRkE5UDV5Y1E0YmtLbnZrZDVlNlR2cWZ0YVktS3hpaUF1cFA0b21mdG1CV3RhbE5ndVJVZW82M3ktTWpNMlFEYXk4cnY0QXY3RHZ4WUZLb3JKS2Z4bFpOWm4wUmtUR0FqbWxTUQ?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-05T13:33:29.000Z",
+      "summary": "Lula convoca ministro da Fazenda e economistas do PT para discutir medidas para economia após BC parar corte de juros G1",
+      "image": "https://s2-g1.glbimg.com/bjcYWe0ae5iJye-3Mmm0YR62h2k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/J/8eZmKyQvq3x8m8SkBa0Q/55249070125-d993e54025-k.jpg",
       "topics": [
-        "geopolitica",
         "negocios"
       ],
-      "score": 5.91,
-      "relevance": 8.8
+      "score": 5.94,
+      "relevance": 6
     },
     {
-      "title": "IX Mostra Sesc de Cinema exibe filmes mineiros gratuitos em BH",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iVTlXc3J4Nk1CdG1kUldtQko1V1BqNWdGeXRLVUpacjBTVjFGRWxPNWN4U1BaM1VJS2h1SHU0T3VUZkkwR1dZLUY4RUpfd1pIdy1JdEpQTEtCUVlmYXc?oc=5",
-      "source": "Culturadoria",
-      "publishedAt": "2026-11-05T03:54:47.000Z",
-      "summary": "IX Mostra Sesc de Cinema exibe filmes mineiros gratuitos em BH Culturadoria",
+      "title": "Dia do Cinema: filmes que transformaram Salvador e a Bahia em cenários de filmes",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTW56bzVHUDdDUldKMFYweG1tQld0WWNvZHBkTnd1ckNkQkpEN00yT0pZTTVmN19oeGcxZ0NfSlRiTjl3dGIzMDNVdFl1MmpGTkVEU0hVcEVKdFlnSFFHYTN3ci1STHZDRWpZc2M0empKdFdOZGx5TXR6bDJZaG5kM3lEUDFhZ1pHMXBZbmFmSDIzNGJfRGVIWjVHS21TLVJuUFFmdUNYUUxsZUFuM1ppV3hzRlRUWGhWSEpNX0k2SXpTdw?oc=5",
+      "source": "Alô Alô Bahia",
+      "publishedAt": "2026-11-05T13:30:00.000Z",
+      "summary": "Dia do Cinema: filmes que transformaram Salvador e a Bahia em cenários de filmes Alô Alô Bahia",
       "image": null,
       "topics": [
         "cinema"
+      ],
+      "score": 5.93,
+      "relevance": 6
+    },
+    {
+      "title": "BC está encurralado entre economia fraca e inflação em alta, diz Volpon",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYzVtUVhzckhvZ2xlRzYtLUFoaVVndUMzdi1TLXhkYUFSblcwYm9zT1FoUmdyNDIwZ20yNlFQWElaQ09FUlRiY0JOUTloWnQ0RU9mZWJBUVJRelZBSGNWQXpiYXdwMGtfaDBSUTl3ZFV2SnloRHgzOVFGLVd3SG9sUjJPendNRWdSZlVlVFlkSTVyQVBERE5PMHRkaUEza1VDN2RtZ0gxbXAtX2F2aUM2cmQ0M1RaX0RGeG9qQU1Ca2VyS0ZrY3h3a3Bn?oc=5",
+      "source": "UOL Economia",
+      "publishedAt": "2026-11-05T13:21:39.000Z",
+      "summary": "BC está encurralado entre economia fraca e inflação em alta, diz Volpon UOL Economia",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.9,
+      "relevance": 6
+    },
+    {
+      "title": "Sinédoque 2026: Rio é palco de festival de cinema dedicado a curtas documentais",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdnBXS2xxTzI1LUNwVTV2M0tQU19SSlBxRDF2RWdJYW9nVWNaU25UcXhHMjZ3UXFudUw3OXpRSTBHOVFvdFFJVmNkdC1UcFJWbG93VDRVU1RCc0VkVDBabzl2RkZsaWdMTHZOMGVwamJ6NE56Qk9pX2VJQnRvMVk0SjJ3d1JsNG5XSXVSdUhvY2dDWGxGbGhsOXlucGxpSDR4M3J1U2xkTlprMTdfTjhOSzhzamYzbXl5MFVrMjlENVJaNHJrUDRPVW45Z1N2S3JIUFdtQ2VpSHdyU0nSAeoBQVVfeXFMTTVMZUg2TVg5OFZzdXJESmk3TXZfc2lxV1dnSWsxd0E1aVpGV2FmWjVQWVhlaktBRjhKZmE1T2xyX0FoWmRSWnNVOWF3elZaS3NKOXVXWFVvWmtoN0MzS294X0NSc29mV0lpS3Vac2dSYUhfNEZkTjFBSjktSDJ3cC03YzNxLVVSUHhGbWVQbTNIYV96VEcza2xFUWEtNi1Pd1NJQlBOYnhUZ1g4S3dfaVlTNnNmdjNaeHN1cUtISzBhdDBmZDUtYzVwYXVfdGkzc3F2WjRoRHh4WEZOVHhpUHlXOExUSURhdDBn?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-11-05T13:19:22.000Z",
+      "summary": "Sinédoque 2026: Rio é palco de festival de cinema dedicado a curtas documentais O GLOBO",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.89,
+      "relevance": 6
+    },
+    {
+      "title": "ESIG Group é a 12ª melhor empresa de Tecnologia do Brasil para se trabalhar no Brasil, segundo GPTW!",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOT0RqaVJsems0ZFBYd1ktTmFWT196SmNoRnA2SXhxTVRtY0J3bzg3M0xhYU9sTXZKQTBmblZYYVdsVVVzMDlQY2lIc0NyNk5jS01SSmNhZEFoYTM0cmdhNW5EajVQS1U0eEZoOWFhNnJmTHNOeTFaOHA0X0pONW40SG91OG5hUFh0VU5HMFNQREpLX3lKRkljMTlqdDJka1pIVkY3ZTVneWFBemxwSHpiSkFiQXdQOFhlalc5czRUVlY4aEJxMkJNS3RiMFY5VFVpaUF6MHlFYXZ2c3RPbnRYRU9SZXM?oc=5",
+      "source": "Tribuna do Norte",
+      "publishedAt": "2026-11-05T13:13:44.000Z",
+      "summary": "ESIG Group é a 12ª melhor empresa de Tecnologia do Brasil para se trabalhar no Brasil, segundo GPTW! Tribuna do Norte",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.87,
+      "relevance": 6
+    },
+    {
+      "title": "Agility é a primeira empresa de robôs humanóides puros no mercado de ações",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZklfWGVOcnhZQWVFX2ZKT25qc3ZUczQyTVBCVzZiV25GbG4zWnM0R3hxUHNQajhKaHg1Vk5iZ2Q4Sm5UWTdsUURIelRMUjlQVHNmTnU3ZVdXTDBPZlprU3M3M2Zlc05ITlVWYXdqUEtOREE1RC0tbHdwZDlaZ1R5SjFkQ2dVSmhWZXdGZlF0Y1ZFcmg0Q2NNcld5VjRjWU9NMTVCb1FXTnR6Z3hkekt5Rzh3?oc=5",
+      "source": "Boa Informação",
+      "publishedAt": "2026-11-05T13:10:04.000Z",
+      "summary": "Agility é a primeira empresa de robôs humanóides puros no mercado de ações Boa Informação",
+      "image": null,
+      "topics": [
+        "negocios"
       ],
       "score": 5.85,
       "relevance": 6
     },
     {
-      "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, HBO, Prime e mais",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWW1qa3hBZkh4eXExdnh1eUdoeTVOYkJuUmFJVU1oVktGS0hqOW1vNWFrOF9TVFVQMTEyLXNSbURxTXJmNUJ4cFRqWFJ5NWo0UUdUZTVGdTMxVnBvcXJneXJ3ajdkNDhVdHpkQUNMcGd4UEFDSzZZeW1iY002VHhUVjlaTWk2cmdPVVlPTWo2U2ZQQXRKRXRaem5DSnRIVldOYW1meFlEckIycjVvQThBaWdoQ2pzM3ZFN2N4LUJnLUxXYWVXb292NTdlSEtydmZE0gHWAUFVX3lxTE1MSEFmSGJwaEEyOTZQcXRaZmZMeHNDRVk3dElNZXROdEVhMU45TU91RU1YZzM5T0dDTVFCZ3FOOEo5SjdIMDNwaUtkX3NnSEVTeVpQWUtjVzdwVDRFVnNONGNVMjl6NmZWc3hqSGxNbFJaRGVpd3gxVU5majNtYy1mVV9iV1lwa0pFcm1lSkUtZG1la3Q2QXk1cFkyWXRMVnpFcUZDYm5TRVBNMFJKUFpfZmlMUmtzUktfbVNEWTRnd29FaW12WXRmd2RGcGNxRVVhM0N1aEE?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-04T20:15:00.000Z",
-      "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, HBO, Prime e mais Estadão",
+      "title": "Festival de Cinema Italiano terá 16 sessões gratuitas em Jundiaí",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTJ3N1BjZm1MenY4dHdWbk4wQVBuQnByU0ZQbmR6dXA4NDJqWG5RMVRhbzFYajlFZ3YyQUFqWlo4VHA2ZENlZnZLenNhMzVBZllvTVhkNkZwQ2VRejFfclBaVXpDbUFsWldfRUVTZjNZcHdfaEFSWThBb2tTd3kwTVU4VVV3djZrNkdmcXBmVDR5cDkwalRmR3NqUXFjdE40T3U3dHE3T0hLOGoyMFE?oc=5",
+      "source": "TVTEC Jundiaí",
+      "publishedAt": "2026-11-05T13:06:00.000Z",
+      "summary": "Festival de Cinema Italiano terá 16 sessões gratuitas em Jundiaí TVTEC Jundiaí",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 5.81,
-      "relevance": 8
-    },
-    {
-      "title": "Maior financiador republicano, Musk perde mais de R$ 200 bilhões após derrota eleitoral de aliados de Trump",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/04/musk-perde-bilhoes-apos-derrota-eleitoral-de-aliados-de-trump.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-04T20:14:32.000Z",
-      "summary": "Musk lidera doações em eleições nos EUA A ressaca das eleições de meio de mandato nos Estados Unidos chegou rápido para Elon Musk. Horas depois da apuração, investidores passaram a reavaliar os riscos políticos para os negócios do bilionári",
-      "image": "https://s2-g1.glbimg.com/gmv6hEAjiDp2BilGS4olSNdbeMA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/P/RwXUAOQpmf04VZatnuAQ/2026-09-29t201915z-2132221499-rc28tna0tjl1-rtrmadp-3-usa-trump.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 5.81,
-      "relevance": 8
-    },
-    {
-      "title": "Lucro recorde do Itaú alivia setor financeiro na bolsa",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTEhCMXdzVU4xOExkMXpsVm1GWWJqSWVKOXRicU1VZXUxWkZ1OEhYYVV3VnlscEpndW4yQjhZa1FLRFI5QWdGekVqUDMtbEVZWGs5Nks5S3hSSHh1UVFULUExNjBIdEJYajlFWkNaSlVaMHVVVjF4UTRkb3RzSk1NRTlPbw?oc=5",
-      "source": "Acia Araçatuba",
-      "publishedAt": "2026-11-05T03:36:20.000Z",
-      "summary": "Lucro recorde do Itaú alivia setor financeiro na bolsa Acia Araçatuba",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.78,
-      "relevance": 6
-    },
-    {
-      "title": "Filme ”Os Farofeiros 3” estreia nos cinemas de Goiânia",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNajc1Sy15eW5FMGJtSjdSVUt4ZHhWQU9CR2FuTlpwM3Z4ZUhvM0lLUEZ1MFoxTnJYalRlWWZMY0dsdVdJcWtlUkRJX0hkcFJ2Y1V5dFdKa1hyYTduWXQzZ1QzcDhYVnY5LUo0Q3JEMi1kVHcyM1VFa2xteUFibEF0Ulh5MA?oc=5",
-      "source": "A Redação",
-      "publishedAt": "2026-11-05T03:30:47.000Z",
-      "summary": "Filme ”Os Farofeiros 3” estreia nos cinemas de Goiânia A Redação",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.76,
-      "relevance": 6
-    },
-    {
-      "title": "Lindbergh Farias diz que manutenção da Selic é ‘vergonha’ e chama mercado de ‘barões da Faria Lima’",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakFRYU4yR0RhdlVRdjRmSDdIdTVuTjJDNUVkX3doS0ZlaDZHTVVmNURDSmVPX2dySkZjZGVjVEc3dmo5X0lKaGVYXzFFRS1aVFRSeGwzT0NSVmtGdGc4bjNBNUF0WE91aE8xd0JVOUkzdWMzbGd0V3VKTTBiRjlLQmlsbzRBeE4zUGhsckN2SXBVV0I2dGpCT2FOLS1RSXhuUWpUVWVXQ2xfX09ieUs5NFVjTTRXa3Ryb3BJZUtsdkhhaXA5c3FCYmpjZXBDbV9OUUQtamZ3ZUJhRlBSMldmTEJR0gHwAUFVX3lxTFBFNDNkOHpPWVZfWWY3ZVlNbG5YbWlMYTdjM0FiOWI4TFVCUUptaUg1eXRkeHZSZzZZVERscnZ4QVE0cDgySWlMQTMyRm51aW1mNmthYTU2WUJvR3VxSHYyZzdiTjQ3WnZWMUxmRllsYXNVR0lDZGowZjNITUJKTXZjTURlbW94cENfZUFhdnBqa3pVWkhZYnIyamhQVU1KZHlYRkd3cng4ZUVCTEdldnEyU0VkSUpyanZYa0NHRTV1Rl96a0pSUjVhWU04M3JaNzdLZi1hVDdsUzBnQjFHTEh1R2kxaXJkUlpvSVZtbWxwQQ?oc=5",
-      "source": "Valor Econômico",
-      "publishedAt": "2026-11-05T01:29:17.000Z",
-      "summary": "Lindbergh Farias diz que manutenção da Selic é ‘vergonha’ e chama mercado de ‘barões da Faria Lima’ Valor Econômico",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.69,
-      "relevance": 6.4
-    },
-    {
-      "title": "Manutenção da taxa Selic em 13,75% e juros elevados penalizam a economia real, aponta APAS",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOR1hzaGprVy1kTnB5VjEyYWZBUTlzc01YRG15bjBjRzh1WWQtRlpIcHVVQW9aVWZDVEZRQmx4SHFxanRxZUgtY2RnaThWU2hfQjFoYVJLVU9tUHRYbld4dk9jMkd2UFFlbHBUZ3NzY3U0QXg4dFNSSjA5RVNFQ3otZl95M21rU24tVTMzVFhLQXJGbEtzcXQ4N2xwaHpVSHR6Z2MtQWpVLVc2VGZOQlQ5bDAtZjcyZ2gwd3lodXVtdEpmMzNic0sxUi1KOUZPdWNOVmVzTkZkS3F1Zw?oc=5",
-      "source": "Hojemais.com.br",
-      "publishedAt": "2026-11-04T23:09:56.000Z",
-      "summary": "Manutenção da taxa Selic em 13,75% e juros elevados penalizam a economia real, aponta APAS Hojemais.com.br",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.69,
-      "relevance": 7
-    },
-    {
-      "title": "Selic: por que o Banco Central pode parar de cortar juros após a reeleição de Lula?",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/04/selic-por-que-o-banco-central-pode-parar-de-cortar-juros-apos-a-reeleicao-de-lula.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-04T03:00:01.000Z",
-      "summary": "Copom reduz taxa de juros, e o FED mantém Jornal Nacional/ Reprodução O Banco Central chega à reunião do Comitê de Política Monetária (Copom) nesta quarta-feira (4) diante de um cenário mais complicado para decidir o futuro da taxa básica d",
-      "image": "https://s2-g1.glbimg.com/-A7pgTgjRSkyK4Q_u1rOIbAk5L4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/N/CqiB4MRnqkRVIYzBQGig/globo-canal-4-20260429-2000-frame-24226.jpeg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.68,
-      "relevance": 15.2
-    },
-    {
-      "title": "'Imposto do pecado': o que é e como vai funcionar a tributação sobre produtos prejudiciais à saúde",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/05/imposto-do-pecado-o-que-e-e-como-vai-funcionar.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-05T03:00:02.000Z",
-      "summary": "Bebidas alcóolicas terão incidência do 'imposto do pecado'. Rafael Leal/g1 O presidente Luiz Inácio Lula da Silva (PT) assinou nesta quarta-feira (4) e enviou ao Congresso Nacional a medida provisória (MP) que define as regras de cobrança d",
-      "image": "https://s2-g1.glbimg.com/KcyJKR23dG9yIoQ2Kvm4erWxXTw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/x/h/oLAmgBTquWbMoXhC0nSQ/microsoftteams-image-11-.png",
-      "topics": [
-        "negocios",
-        "medicina"
-      ],
-      "score": 5.65,
-      "relevance": 6
-    },
-    {
-      "title": "Dia do Cinema Nacional: 5 filmes brasileiros imperdíveis para assistir no cinema",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQkxpZnpRblBwckljdzFXaFhHUHM4N3NJQkdjQkViaEVFQm9xQ293M0FpeU8zVjBsRzRTV1lmeTZ3NjN5SHkyZU5GOGQ4dlNuOVFuaGJfbzFhQVdRcDhnckUwTnZZeTRXNlJEUDYySHc4Qlg0Y2tSTzVpTkJTLUJGQ19vTWQ2b01TblYwZEpQZ2JjX1BlblVMbkFoZzd1OFRGSEowakxuVlBLT1Eyc0tBVkVBWXZ6VWtwbVpnRVA4RGpZMVZXRFhpa3JTNUxKVFhEYXFCTVc5MWx3bHI3RTQtazhlOE1rU3Q3NmdKOVpYNE5VLTVh0gGDAkFVX3lxTE40Tm9WYVdwRk43YnFNbFRWU2lrX2lQYTljWlhaa2hsdE9yOEFyRnhfWmJtSUlnNnBvNGhTeUlVUjBuaXFXMVFwcUdzbDlVNkd5RUVWc2N6WmdORnRmbjJMMDgybmVWN0RkZzByNjVwV2Fid3FWeWY1WlQ4X1lUTWVRTFk3clpxNVN1LTg5S3J2eURFX21CcEp5cVFwV0c0T0hHa0xRbjdoQ29Ia3lrNUMyLWFVZWg5a0x1R3Bza1R5bkh4THc0dy1QVkhQMHlBaUR5UVlrdU5mQmtBN0Q0UjFOTnRXTjk5THZhQ0NBWHhvSkpsZGFWSHlEdUFqUW1iXzMxaG8?oc=5",
-      "source": "Globo",
-      "publishedAt": "2026-11-05T03:00:00.000Z",
-      "summary": "Dia do Cinema Nacional: 5 filmes brasileiros imperdíveis para assistir no cinema Globo",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.65,
-      "relevance": 6
-    },
-    {
-      "title": "Banco Central surpreende e mantém juros básicos em 13,75% ao ano",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0FpY3VSWGM5cGFQUEN5Zmh4YmpzSUdMM09fdHlmdEtRRGhNTVRnNkpQX2FKTjVqRVh6WDVBbVpxZkJUT3dBYzJNLU9qUERxN2hfM1VnNkZLTmlWaHYwOVNrSVFsSmZBQXkzS1ZDcEVERHZvUUVsdlhWX0NScDkwU0xuNVg3ZmZDbndvSzhISzdWY3VrVGxqWk9kZnZQRXVIZDFwMW9RdGJNUjVZR3c?oc=5",
-      "source": "Agência Brasil",
-      "publishedAt": "2026-11-04T21:33:00.000Z",
-      "summary": "Banco Central surpreende e mantém juros básicos em 13,75% ao ano Agência Brasil",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.65,
-      "relevance": 7.4
-    },
-    {
-      "title": "BC interrompe corte de juros e mantém a taxa Selic em 13,75% ao ano",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUd3bmZkTTB2MkIybG9fUkg3SXNuM2JPLTVIdFpEak9mVVl1QWVjTzdTSmM5bzFvRHdhT1F1OW1hMXk5R2NqQjFKazNTM3N5YktIMUo2U2pNQVp4NWVQS3hkb2lubmRNMUwwVDVXb0l0akVpNVZxeHVyN25sNExlMTdOSnkzeF9YX3NfVmkxY0hKTm82YWpLcm9qZU5rTVBp?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-11-05T02:31:48.000Z",
-      "summary": "BC interrompe corte de juros e mantém a taxa Selic em 13,75% ao ano UOL Economia",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.55,
-      "relevance": 6
-    },
-    {
-      "title": "'Feito Pipa', representante do Brasil na disputa por vaga no Oscar, estreia nos cinemas de São Paulo",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMGM3OG5LV2JPeW1ZSWpaNkE5T2ozek9JQlpwMmpHVlhNQkFvWHlpTGJFOEpVeVhfeHBzQjVDU2xjYmRCSnJjNmNFd0JDd3ozMGE4VEFyQzJ4WDRvZVFiU0NkZjVlQllfQ3RsZFRsQ2UxaFUxNndTaEFUZkVFNlROTGR6Q294RDVGUzNnQy1fOVRINDZRZVpGUm44YU5rbWpMOU5GSlM2cDdUc3VSUlZMQlBLekZySTZHeURqal8zYXA1ZWhHcGtFNElQcndjQS1BVTVGb3NfeFVNOU1qX1d6SA?oc=5",
-      "source": "Guia Folha",
-      "publishedAt": "2026-11-05T02:00:00.000Z",
-      "summary": "'Feito Pipa', representante do Brasil na disputa por vaga no Oscar, estreia nos cinemas de São Paulo Guia Folha",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.44,
-      "relevance": 6
-    },
-    {
-      "title": "F5.SUMMIT reúne inteligência artificial, tecnologia e negócios neste sábado em Cachoeira do Sul",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMUVvemZ1bWgzbVFwYlRfVWZqOEdTakJzNlhQVVU2MWNIdFRTSG9jV3hpQlptbV9hbGw3cW44N182TEpOMVJ1eFRTOHBsWjMtTmRtZmFDUk8zM1pOMVJuUWlEOXV4WGpVcVNaY2FVaFpFSjFUU01jZGgzbjkxdjFlejk4RjZuRnpOdzVsMV90dFRNcEJDcW1WT09yWkZ3a2hQb055RE1CTExUZTBINmc2WDJmd2ZSS2FYV1RmWTBqQlEtdXFyWHo4N1hVWXBzam5MbWhad3g3dDBqcFlhM19lNHQwQ091ZjRBMVE?oc=5",
-      "source": "Fatos 24h",
-      "publishedAt": "2026-11-04T18:24:55.000Z",
-      "summary": "F5.SUMMIT reúne inteligência artificial, tecnologia e negócios neste sábado em Cachoeira do Sul Fatos 24h",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.41,
-      "relevance": 8
-    },
-    {
-      "title": "Hora do cineminha: confira as estreias e os filmes em cartaz nos cinemas de Goiânia e Aparecida",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUnp4clI1VUJ2RVVBZ1FYT2I0akdPM0FQbHRaN2dUQkUtaENhbklKRHRuWDdHRHJKdFRrbzNzcFZsVVJTMzFlX3NSNDU2TlRFT2MzdHZNWlF1ZEpNWGxQWFVoZVdLbzMzaEp4cmI5WHk1LTFGenliaWtzbkc4aWtfOHRYTkVmODc4TXBDMlRPU3pER0xoX2VRQ0J3ZmpVbGVyODZvQTFrQ2dfWWZVVlk3QnkwZzFleWxMUGlpaWZXZzRLdlFhQXhDS3JWX0tFeTRvQ2tN?oc=5",
-      "source": "O Popular",
-      "publishedAt": "2026-11-04T21:48:05.000Z",
-      "summary": "Hora do cineminha: confira as estreias e os filmes em cartaz nos cinemas de Goiânia e Aparecida O Popular",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.4,
-      "relevance": 7
-    },
-    {
-      "title": "Tecnologia amplia possibilidades de negócios e fortalece o corretor de seguros",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmxxRGtoYnpMdGRCTkxwVklCUWVxTEJyZHp4WHZ6ZWI4WFJnQ3I3WXZEa3ZjZkRDN2lCOVJLQ2oxVVFxM3E1VnRkOTBwUFZCaWlWVkd0TXRIVTBreDNocmJKTm01d1FKRjdPSVFsWHpVbHBFSjB6Mk9yVWIxMjhfVW5CaGdueTJCY194bzhVRWNTcmVMN3lndU1wc3phQ2Rmb19Ma0NNajZoS2s?oc=5",
-      "source": "CQCS",
-      "publishedAt": "2026-11-05T01:44:55.000Z",
-      "summary": "Tecnologia amplia possibilidades de negócios e fortalece o corretor de seguros CQCS",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.38,
-      "relevance": 6
-    },
-    {
-      "title": "Van com inteligência artificial consegue detectar buracos antes que eles se agravem",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc1pvQUoxYnF3UUNCV0JpRTVOVHlYTS1JZWJLSE9XazhBNmFOdXN4MWczLUFXMUZFWjBRREgyQTNBS1RYV1VMMkQ3WXd3MG5Va2hRYUxQNDRjakNKRURiYnBPaFU0eVlIamRrd0RWUTlwUmVOSnV1ZGhnLTRvYlZzU0NkNTlGaDhfQW5lZWNEWGo4N3lfUjlwbmcyY0ZnOU1CcVJhMG93Tk5OTHVMaTljaTlFMEZmS0hkZzhyQzFoZ2xWZTIwTzNHLVcwMWVOMFcyeU9oVTJaVjRvTHM?oc=5",
-      "source": "Times Brasil | CNBC",
-      "publishedAt": "2026-11-05T01:30:00.000Z",
-      "summary": "Van com inteligência artificial consegue detectar buracos antes que eles se agravem Times Brasil | CNBC",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.33,
-      "relevance": 6
-    },
-    {
-      "title": "Wind of Change, filme sobre o Scorpions, ganha previsão de estreia nos cinemas para 2027",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX0ltMUJVOEJCOUhnVUJrUUxFOGhuTWpiWkZuYmpaWlFlVVZHODUxZE1uZTh1QXhPZy1wc0NtZG9IZmlPWi02eTFrcjdfSmprMlVaQWFBM2FwdUdtWUFQQ2hvdTlUUkR6SU1FbV80UFQwOVpZbkJyVVl5SVU2OFF3ZlVmbTFEeUlIbnlxV1BhcXVKRk5lZW41dGtTclA4LXNMZ2gxN2pCQVZ0bHNxdEJoLUJtZ1VDZGJOazdrVVVKSk9VelZWR0c0NF93?oc=5",
-      "source": "Teoria Cultural",
-      "publishedAt": "2026-11-05T01:21:09.000Z",
-      "summary": "Wind of Change, filme sobre o Scorpions, ganha previsão de estreia nos cinemas para 2027 Teoria Cultural",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.3,
+      "score": 5.84,
       "relevance": 6
     }
   ],
   "byTopic": {
     "historia": [
       {
-        "title": "Historiador defende valorização do legado histórico da monarquia",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU2V4SGoyTVpXb2c1c2VNcmRGaXM5MXgtOFlFS2JKNkI5R2lJbkdrcUV2cUpPdG5naWJUcFJobV9fT2M0b3FwNDk3SnhxUmtZVnVHeURiZE5kUnRwUGltbExGd0tTbWROa0hnVE9iVjU1VWxBbXM4M3lhNjlFeV8waXM2WGdGY2tkTDZZbV9DLTV0bGR5QkJpRktKTi12TTV6Mmk2NDJXcGtNbmZXdVRPMEkyMXplVy12bVlLM3ZEVEnSAcYBQVVfeXFMUG0xWkZVQWZBYTRub0M3NUtSZHl6c0ZQSjdKMmIxOVlvamRMWExSMHpkRktuTkx4RWRnbTZ4MWhGalNQU1Fqem9yVWtsYkZVaDRBRnBDVHl3cWJtMDEtNnAyc0NvUG1nQ3RSUUwyd0J4UWl2THN3d1RfdzhjWG5FbVdXSVY3LUdROXdoUjdvTGRRVVBMcEQxeTZPYkN1NEhBcUpjVEZ6ME0xWTdHMlRKU3NkLXBHb25ZcGJPYWZtVTIwR21XNmhn?oc=5",
-        "source": "O Dia",
-        "publishedAt": "2026-11-04T22:11:20.000Z",
-        "summary": "Historiador defende valorização do legado histórico da monarquia O Dia",
+        "title": "(Multimídia) Pôster: A 9ª CIIE reúne 4.142 empresas estrangeiras, o maior número da história",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdnJlZ0ZqNWFVTE1vNGV4bXd5akE4QWt2WDZBeTVCeGJnZkgwNDBfc2E5UDVlRDBVTFg3MnVRc0NJNkVjOGZWR3hiLU5GaTlsUzIwZGZZVmdTdTk3TUpyLUV5VEZDbERRYndBNnU1czZUVy1EYjE2dUhWbWQzM3Y2U3R5RDNBcFgxMFhydG54SEl3Y1JBR2VSdC1kUmtrVmJUMlFBTmFDc01nRnFnOTdqS2JPLWg4YTBvVjZvS01Ccw?oc=5",
+        "source": "Brasil 247",
+        "publishedAt": "2026-11-05T13:36:02.000Z",
+        "summary": "(Multimídia) Pôster: A 9ª CIIE reúne 4.142 empresas estrangeiras, o maior número da história Brasil 247",
         "image": null,
         "topics": [
-          "historia"
+          "historia",
+          "negocios"
         ],
-        "score": 4.69,
-        "relevance": 6
-      },
-      {
-        "title": "Do papel ao digital: exposição em Condeixa mostra como mudou a forma de fazer arqueologia",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXRIWTlGTVRzZXlyM0haTFd3dlY0YTVQU01xbk1mbjdHbzVCLUQ0Z0FJR01vMTdITDVKdDNRVmRuTDFldjVEYzV6UFpxMXdSQUlVX3J4UWJQb2RMNVpYTldITlBJYmtWa09BSVhvY2JmanNyYWNzeFhkUlY5LTNKd21jQ3FycnRhQ2dycTR2enNxUnRORl8wRHBIUF9XSFlubXdXSi1OZV9IUUhKTTR2R3FJZlRPUFVNUDE2VXlidw?oc=5",
-        "source": "Notícias de Coimbra",
-        "publishedAt": "2026-11-05T01:30:08.000Z",
-        "summary": "Do papel ao digital: exposição em Condeixa mostra como mudou a forma de fazer arqueologia Notícias de Coimbra",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.44,
-        "relevance": 5
-      },
-      {
-        "title": "Vendido na História",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DaldSYm04UmxidmgxSFU5Y1otdG1INkRqd1Izb0dpRHo0dDBkSU5sbFlmcGxMVXl3N2N3OUhvd2RONjJhOWFKSkE5M25kMGk1U1AzWVJJb9IBXEFVX3lxTE8wZG9UZGxiSXpYX0ZScUJnVEp0MkVicjJuOHAyWFJCMGxMUmdINDA0Tko2Mk9LeFRhQjFITFBhbTNlaExJaWNWWXpMX3lXaTh6X3d5Q01DSzFPY3F4?oc=5",
-        "source": "Jornal O Sul",
-        "publishedAt": "2026-11-05T03:07:53.000Z",
-        "summary": "Vendido na História Jornal O Sul",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.79,
+        "score": 3.97,
         "relevance": 4
       },
       {
-        "title": "Recursos obtidos pelo MPMG vão viabilizar projetos de proteção animal, educação ambiental e preservação do patrimônio histórico em Ouro Preto | Portal",
-        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNbWRfNVVJZHpZSTdyaDNvX3FYckpfdzNsdjdQTzFRWll6ejFJYV8xOW9VYjZhdW9zTkJYWnFOak1yVE04aktlekFILUd6V0E4eHIyWUVhTF9BTmNfMDVGRlpNNXZMX1ZleHZoTnJYUVNRMFphcVlmVldMUzZZVlo3NzdDSk5iXzRSQ1lmTUhrUWhoZVBRalBnQXo1OHQ0T3dsUlRsWERqUk9nXzNndk9YRVJQd1hjb2Y0bEVuVTBjMmlHRUo4QTdKVEdaclZxN3BoUWJjay1hcUNZTkV6ZEliNzNCX0FJU1VYb0dPRlBIcXQzNDFITTlYaktSQlhEZlFmckVHTk5sb29YTGloUHd1ZEhrM0hMWDExSTEzNEg2MHdwYzBHMXc1VG5B?oc=5",
-        "source": "MPMG",
-        "publishedAt": "2026-11-04T21:18:00.000Z",
-        "summary": "Recursos obtidos pelo MPMG vão viabilizar projetos de proteção animal, educação ambiental e preservação do patrimônio histórico em Ouro Preto | Portal MPMG",
+        "title": "Um homem, duas irmãs: conheça a história das gêmeas de Goiás que encontraram no mesmo amor uma forma de não se separar",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRXZvVVRyZC1mWlVnTnZBQm1UMVJjS0V4STdEZEMzWEdQcVdNWkk2R01XeGh6dzZlcDRVb2FiMnNyN3Iwc1hfeTNPMFRzZ0NlM0lEZ1FvZUJmY1NZVTFSdktRZWNjeHZsMVpYY2piXzUzRmFoMzB0SDZnZXp0VDRQSzRaQlFNTWg1VXp0NEVVUTBlWGk4QjNlZ3JsekVicUVqLUI2ZUJVWE0zOU9jMUJFdS02YVB2Vm45ZVhYWFBGLVk3UUtaUVdvWVNsbVAzTE5lWjhTM3RZVjZ1SXJkODhkWFpqek5RejBJWFdQYUZaX2thVUNseHB0d2ZvbXpMTzJVOTRQRXhn?oc=5",
+        "source": "Jornal Opção",
+        "publishedAt": "2026-11-05T13:35:00.000Z",
+        "summary": "Um homem, duas irmãs: conheça a história das gêmeas de Goiás que encontraram no mesmo amor uma forma de não se separar Jornal Opção",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.78,
-        "relevance": 5
+        "score": 3.96,
+        "relevance": 4
       },
       {
-        "title": "Projeto de Laguna sobre memória e patrimônio histórico é apresentado no COMAC 2026, em Balneário Camboriú - Prefeitura de Laguna -",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYVZvc0JUR1k5T29YcnJwV0YwcXBoLXBPSEItb044eUZYbHpiVDEySmtNc0E3bElMenZnSUhNQWtzQlFDekItUHJqRGs0SDlMRWgxMHNSNW9QbXhuc09pYm92MWV1NndSZm1xUk1sUFpxcUo3bk4yZFNQeDl3dzA2c0NmYWoxOXhwQVZLZGN5WmYxYUpoYXJ4cGJmb1lTR1pDazcxTEJkRnF2LXppb1MzZ1k2ekdPNlJ0SVdKWUVpWDFHem1OMnE2dnVB?oc=5",
-        "source": "Google Notícias",
-        "publishedAt": "2026-11-04T20:42:37.000Z",
-        "summary": "Projeto de Laguna sobre memória e patrimônio histórico é apresentado no COMAC 2026, em Balneário Camboriú Prefeitura de Laguna -",
+        "title": "Egresso do curso de História da Uniube lança livro sobre reprodução simulada de crimes",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdk9SQlJZT2stOFQ2QzlEcnc5cURBajNhN3Y4b2pUcndTYVhFeWdoSkNEaDRFTmVZZXBCc050Z3JzRXJEWnA1LWIyVklyTTR1cDZHWE5zVTNISk91cW9SX3dwWEszWTUtU1FwS3A4ZXp2ODNPbERBUGlHSjBxQ0Y5WUFLQjZ0X1BHWjliRE9GUnk0c0xoS2x2aW9qSXpLcUc0ZzQxYVdMeHdsTmRsVXF6eV93?oc=5",
+        "source": "Uniube",
+        "publishedAt": "2026-11-05T13:32:54.000Z",
+        "summary": "Egresso do curso de História da Uniube lança livro sobre reprodução simulada de crimes Uniube",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.7,
-        "relevance": 5
+        "score": 3.96,
+        "relevance": 4
       },
       {
-        "title": "Livro e documentário celebram 50 anos de história do Sesi em Mato Grosso",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWE1Xb254N2RRaHVwMHJldk1GTnJ6ZS1HNHlrN0xZX3E4ODFOSUVYcDRaSHlzMWsxclpQZzMtc2VZeTRQMThOTUxDQmk0MjRCZFpjbkpXWWU0YnF6WkFzUmVUT2xTYlpkRTNmME5uaXlUNVJ0anVwaTZBTnJEbUxfTkw0cnlYM0J6djMxYXRFM1lqUWFaMm9acWh5dTItQQ?oc=5",
-        "source": "O Mato Grosso",
-        "publishedAt": "2026-11-05T02:30:00.000Z",
-        "summary": "Livro e documentário celebram 50 anos de história do Sesi em Mato Grosso O Mato Grosso",
+        "title": "Marc Márquez perto da história no Catar: confira matemática do título da MotoGP",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORElmNllVNzBKWFR0VWFPRWFPUERBeHU1UTEtVWo2UnExT2V3aW5oRG4zb1RHekZES09pRWRqbWRzNWxPUzJHX1FWSFZmMTZab1B6THdQOTFOQ1dhTkZGQlFDam9ZRlp4X0pPakc1WGVBT0hYOXgzQkEyUkhFd3VqSS1TY3gzRDk3TUFUMm51RGd1aDlTZDFTSUZYQUk5VzcwMzdCUjZ3Y3RVeHFYUWppWFZNX3o?oc=5",
+        "source": "Grande Prêmio",
+        "publishedAt": "2026-11-05T13:00:00.000Z",
+        "summary": "Marc Márquez perto da história no Catar: confira matemática do título da MotoGP Grande Prêmio",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.69,
+        "score": 3.88,
+        "relevance": 4
+      },
+      {
+        "title": "De cadela de rua a pioneira espacial: a trágica história de Laika, o primeiro ser vivo a orbitar a Terra — em uma missão sem volta",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdDNMcVFUQXR6NzdIbVZhVUxsd0g3NmVUWExybnFobk5zNHp2ZTJEeHgwTVFpSVROalg1czJ4YzhMT3VLYTdmM3p4NGhLQmVKTl9MbnVOVjNqV2VCekhMOXA0c1dQa09vc3pkUW9HOWVOdXBSUVMtWEhaY3hsUFR2bVNZckNGX3BpSnFqOGdIMW5BSUY2MkEwNHdOQlB1MVhVTlVKbVJwaF9WdVlNUHpoR3gwLUFjTlZjZU1iMXdXZXZiS0hDRGE4dXFFUWk2ZzZhTW01SGdRUkdTaE1LUnBHVDBsNVZSR0l6SDczbUVNazk3VXBuU0xLT1hveHZDUQ?oc=5",
+        "source": "CNN Brasil",
+        "publishedAt": "2026-11-05T12:50:51.000Z",
+        "summary": "De cadela de rua a pioneira espacial: a trágica história de Laika, o primeiro ser vivo a orbitar a Terra — em uma missão sem volta CNN Brasil",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.85,
+        "relevance": 4
+      },
+      {
+        "title": "Documentário sobre arquitetura e história de Palmas concorre ao Cinetoca 2026",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2xWUGZhWnJnOUJqcEVhRWxrZzczUzFwS0p5eXNJUHVpeWx6Sjh6SnNCV2MwWVlySTUtQ1Bmcmh2SmdiNUxvdGJwZkFjVHdkcndXS1lLaENYNlN4Qm9jVDlfQmN2ZGlPR3JORXNRczg4NDl4NHJwNFZtODhkWmxZa1VTMW5hWkZMQUsxQ1N3TVNveWhzSzMwZk9tbVVfRERZeExzTWVNOTQ2VTk3WmM0UWhyMzdJX2VMQ1E?oc=5",
+        "source": "Gazeta do Cerrado",
+        "publishedAt": "2026-11-05T12:35:13.000Z",
+        "summary": "Documentário sobre arquitetura e história de Palmas concorre ao Cinetoca 2026 Gazeta do Cerrado",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.82,
         "relevance": 4
       }
     ],
     "geopolitica": [
       {
+        "title": "Petróleo opera abaixo de US$ 100 após revés de Trump elevar apostas no fim da guerra com Irã",
+        "link": "https://g1.globo.com/economia/noticia/2026/11/05/petroleo-abaixo-de-us-100-apos-reves-de-trump-elevar-apostas-no-fim-da-guerra-com-ira.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-05T12:22:06.000Z",
+        "summary": "Petróleo é termômetro que mede a temperatura das tensões globais Jornal Nacional/ Reprodução Os preços do petróleo operam abaixo de US$ 100 nesta quinta-feira (5), após a commodity registrar queda de mais de 8% na véspera e atingir o menor ",
+        "image": "https://s2-g1.glbimg.com/y8rbiMW9_iaWJtLXXW1KqCmslzM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/Y/sKAQ4aQnWpOLz59euTFQ/globo-canal-4-20260803-2000-frame-99220.jpeg",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 8.89,
+        "relevance": 9.4
+      },
+      {
+        "title": "Melania Trump recebe representantes da Ucrânia e Rússia na Casa Branca em  meio a negociações de paz",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/05/melania-trump-recebe-representantes-da-ucrania-e-russia-na-casa-branca-em-meio-a-negociacoes-de-paz.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-05T10:56:33.000Z",
+        "summary": "Melania Trump se reunirá com representantes da Ucrânia e da Rússia antes de rodada de negociações entre os países. Reuters/Evan Vucci A primeira-dama dos Estados Unidos, Melania Trump, recebe nesta quinta-feira (5) na Casa Branca representa",
+        "image": "https://s2-g1.glbimg.com/gs7khhnnHH4bzLeBmcQCj44vQ3Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/5/RasCNRR4qDl7o6eityGg/2026-04-09t184157z-1982216527-rc2ulkax1cmw-rtrmadp-3-usa-trump-melania.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 8.42,
+        "relevance": 9.4
+      },
+      {
         "title": "Trump perde o Congresso: o que muda para o Brasil e para os conflitos no mundo?",
         "link": "https://g1.globo.com/mundo/noticia/2026/11/05/trump-perde-o-congresso-o-que-muda-para-o-brasil-e-para-os-conflitos-no-mundo.ghtml",
-        "source": "G1",
+        "source": "G1 Mundo",
         "publishedAt": "2026-11-05T03:00:01.000Z",
         "summary": "Trump reconhece derrota, mas diz que vai usar poder de veto Com a derrota do presidente dos Estados Unidos, Donald Trump, nas eleições de meio de mandato (midterms), realizadas nesta terça-feira (3), a expectativa histórica de que o republi",
         "image": "https://s2-g1.glbimg.com/kqG5WMZrG44ALgxjxDhcHDk0BRw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/I/ltAvmBQCAWKB5wqbHrfw/2026-11-02t210212z-1507412749-rc2vfoal1whc-rtrmadp-3-usa-trump-lincolnmemorial.jpg",
@@ -769,167 +790,198 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 10.55,
+        "score": 7.39,
         "relevance": 11.2
       },
       {
-        "title": "Latinos, guerra, voto antecipado: os fatores da 'onda azul', que deu aos democratas uma vitória histórica nos EUA",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/04/latinos-guerra-votacao-antecipada-o-que-explica-a-onda-azul-que-deu-ao-partido-democrata-uma-vitoria-historica-nos-eua.ghtml",
+        "title": "Como Trump reagiu à 'onda azul'? Presidente culpa guerra, ataca TV e diz que 'faria tudo de novo'",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/05/como-trump-reagiu-a-onda-azul-presidente-culpa-guerra-ataca-tv-e-diz-que-faria-tudo-de-novo.ghtml",
         "source": "G1 Mundo",
-        "publishedAt": "2026-11-04T17:46:31.000Z",
-        "summary": "Marcelo Lins analisa derrota do partido de Donald Trump nas eleições dos EUA Uma espécie de tempestade perfeita está na raiz da vitória histórica conquistada pelo Partido Democrata, de oposição a Donald Trump, nas chamadas midterms, eleiçõe",
-        "image": "https://s2-g1.glbimg.com/diFY7lm4qs2gQKcWx-a3N3Yaqzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/5/O/nSbkTgTtila83VASY0GA/2026-11-02t203404z-53214534-rc2vfoa5byp8-rtrmadp-3-usa-trump-lincolnmemorial.jpg",
+        "publishedAt": "2026-11-05T08:00:04.000Z",
+        "summary": "Trump: Derrota é, em parte por causa da Guerra O presidente dos Estados Unidos, Donald Trump, reagiu de diferentes maneiras à derrota do Partido Republicano nas eleições de meio de mandato, as chamadas midterms, realizadas na terça-feira (3",
+        "image": "https://s2-g1.glbimg.com/MvYE_OGwUny5qym_IPF6Shl_Pc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/o/tCSzecRfq3JhOYnwcOhA/2026-11-02t044535z-1973786666-rc2ffoa0ad2u-rtrmadp-3-usa-trump-kansas.jpg",
         "topics": [
           "geopolitica",
           "negocios"
         ],
-        "score": 6.73,
-        "relevance": 10.2
+        "score": 6.72,
+        "relevance": 8.4
       },
       {
-        "title": "Vitória dos democratas no Congresso dos EUA vai colocar fim à Doutrina Donroe?",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/04/vitoria-dos-democratas-no-congresso-dos-eua-pora-fim-a-doutrina-donroe.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-04T22:00:43.000Z",
-        "summary": "Vista da cúpula do Capitólio dos Estados Unidos. Kent Nishimura / Reuters Com uma ampla maioria no Congresso dos Estados Unidos, os democratas vão tentar frear a ambiciosa agenda de segurança de Washington na América Latina e no Caribe, que",
-        "image": "https://s2-g1.glbimg.com/Jtju9p3OTDe_lQ3DR8JAdqEu7no=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/B/lBYwlrQBOZpsejvtW1Xw/2026-04-22t011358z-236832966-rc22vgag3pzm-rtrmadp-3-usa-election-virginia-redistricting.jpg",
-        "topics": [
-          "geopolitica",
-          "negocios"
-        ],
-        "score": 6.22,
-        "relevance": 8
-      },
-      {
-        "title": "Trump admite que guerra contra o Irã contribuiu para derrota republicana, mas diz que ‘faria de novo’",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/04/trump-sobre-onda-azul-nas-eleicoes-provavelmente-me-darei-bem-com-os-democratas.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-04T18:13:41.000Z",
-        "summary": "Trump: Derrota é, em parte, por causa da guerra O presidente dos Estados Unidos, Donald Trump, afirmou que a guerra contra o Irã contribuiu para a derroda do partido Republicano nas midterms, eleições de meio de mandato que definem a Câmara",
-        "image": "https://s2-g1.glbimg.com/mesqCQ5l2Zewi7lowNXH1LRP7Q8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/o/u/6ANGckSzS7XBC4jhrMvQ/2026-11-04t180337z-404388910-rc24hoac4cg4-rtrmadp-3-usa-trump.jpg",
-        "topics": [
-          "geopolitica",
-          "negocios"
-        ],
-        "score": 5.91,
-        "relevance": 8.8
-      },
-      {
-        "title": "Aborto, atletas trans e taxa para bilionários: veja resultados de referendos polêmicos nos EUA",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/05/aborto-atletas-trans-e-taxa-para-bilionarios-veja-resultados-de-referendos-polemicos-nos-eua.ghtml",
+        "title": "Brasileiro eleito na Flórida critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/05/brasileiro-eleito-na-florida-critica-abrigo-a-flavio-bolsonaro-e-diz-se-espelhar-em-erika-hilton.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-05T03:00:01.000Z",
-        "summary": "Aborto, armas, direitos trans: eleições nos EUA tem referendos em 39 estados Eleitores de diferentes estados dos Estados Unidos aprovaram medidas para restringir a participação de mulheres e meninas trans em equipes esportivas femininas, en",
-        "image": "https://s2-g1.glbimg.com/HA_d6wqyqfQjDxeXuXaqb3J0Sgk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/F/L/DB8CtFTqyRAAsJpi9xlQ/bandeira-trans.jpg",
-        "topics": [
-          "geopolitica",
-          "negocios",
-          "medicina"
-        ],
-        "score": 5.27,
-        "relevance": 5.6
-      },
-      {
-        "title": "Com avanço democrata, Trump terá dificuldade em seguir com política externa atual, avaliam integrantes do governo Lula",
-        "link": "https://g1.globo.com/politica/noticia/2026/11/04/com-avanco-democrata-trump-tera-dificuldade-em-seguir-com-tarifas-e-doutrina-donroe-avaliam-integrantes-do-governo-lula.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-04T19:05:00.000Z",
-        "summary": "Governo Lula: eleição deu recado aos americanos Após a vitória expressiva dos democratas nas eleições legislativas nos Estados Unidos, integrantes do governo brasileiro veem dificuldades no futuro de Donald Trump. A expectativa é que o pres",
-        "image": "https://s2-g1.glbimg.com/09a5uHuDyxeaUu2hrPOdJ_28kkw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/R/aVqevpRXWCcgsBibBWuQ/2026-11-04t043758z-144949608-rc2rgoau1u5b-rtrmadp-3-usa-election-texas.jpg",
+        "publishedAt": "2026-11-05T12:02:25.000Z",
+        "summary": "Felipe Sousa-Lazaballet Divulgação Felipe Sousa-Lazaballet, 40 anos, gargalhou quando soube que virou meme por ser de Duque de Caxias, na Baixada Fluminense. Eleito deputado estadual na Flórida, nos Estados Unidos, ele será o primeiro brasi",
+        "image": "https://s2-g1.glbimg.com/m1TSWsdmAz708TqQM3TiCT8rmyY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/G/Tu9nw0SamB7FkdB1BPtw/felipe1.webp",
         "topics": [
           "geopolitica",
           "negocios"
         ],
-        "score": 5.14,
-        "relevance": 7.4
+        "score": 6.16,
+        "relevance": 6.6
+      },
+      {
+        "title": "Deputados dos EUA podem votar impeachment do chefe do Pentágono, diz TV; Trump diz que quer manter Hegseth",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/05/apos-derrota-midterms-governo-trump-deputados-podem-votar-impeachment-hegseth-diz-tv.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-05T11:15:58.000Z",
+        "summary": "O secretário de Defesa dos Estados Unidos, Pete Hegseth, fala durante uma declaração à imprensa ao chegar para uma reunião de ministros da defesa da OTAN na sede da organização em Bruxelas, quinta-feira, 18 de junho de 2026. AP Photo/Virgin",
+        "image": "https://s2-g1.glbimg.com/Ujpa_NFznFZmrOa6taYbzxs5ryM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/I/e/GzxWF7QzK89nn2ClWYjA/design-sem-nome-2026-11-05t084409.372.jpg",
+        "topics": [
+          "geopolitica"
+        ],
+        "score": 5.8,
+        "relevance": 6.4
       }
     ],
     "negocios": [
       {
-        "title": "Copom mantém taxa básica de juros da economia em 13,75% ao ano",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVJScGdNUWUtY29fZXczLVZldDVGX1FtZ0Z0em91QjFJbDU5ZDdLRHFiN1UtTG9XY2g2YXZqN2NfTVRKWk5talM1ZV9NNnNWNW9lTDluQmNueDhrNWZ0VWRjRkl2WExyNS1sdTJ4Y3VzR1NNQnk4RWZtQnoxVVJGa2RMbkhZaldfSC1rZ3dBMVJHR2hXV3NhWmVzZzRwQmlfcVF1RXlGWXZCWU40OTNrYm1aMjJyRHllZGhDb2NnQdIBzgFBVV95cUxOODBaVlh0OVE1STZlbkZLS1kwbWpTYmpFQkoxWU11dkRVWmRnbGd3S1hOSEVQY1pVMGl1MTlTTHM4S3g3Vk9NRmhHYzdHTHBtSERCbVZBdlQ1ajBPdTNsTFZoZVFDWWNMVUc1b3l3RVBZWkY3cmJpOVdPR0dXZ0pNMnlTVkEzVFU2NkxfNlJndWFaZi0wQzJ0ZTZTSXRMUUNiMG5lR3Vtc0FlYy1GWGVUenRacldMZFUwRnR3Y0ZucFRRQ2hVNFMwSUVmV0UwQQ?oc=5",
+        "title": "Dólar tem volatilidade após Copom manter Selic inalterada e com dados dos EUA no foco",
+        "link": "https://g1.globo.com/economia/noticia/2026/11/05/dolar-ibovespa.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-04T21:31:43.000Z",
-        "summary": "Copom mantém taxa básica de juros da economia em 13,75% ao ano G1 Banco Central surpreende e mantém juros básicos em 13,75% ao ano Agência Brasil Selic fica em 13,75%: entenda em 8 pontos a decisão do BC de interromper os cortes de juros no",
-        "image": "https://s2-g1.glbimg.com/be4usyjPCD19kJSybeRYxMXNpVU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/W/6Y4qERTSOg1kq30qJphA/261104-grafico-selic-a-trajetoria-da-taxa-basica.jpg",
+        "publishedAt": "2026-11-05T12:00:34.000Z",
+        "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar abriu a sessão desta quinta-feira (5) com volatilidade e marcava leve alta de 0,03% perto das 9h, cotado a R$ 5,4532. Já as negociações do Ibovespa, principal índice da bolsa brasilei",
+        "image": "https://s2-g1.glbimg.com/qJ7O_5T6hSs6HEsS6HwA-Vl1Otk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/2/s/iveHFATICeDrK8diFnLw/pexels-john-guccione-wwwadvergroupcom-3564390.jpg",
         "topics": [
           "negocios",
           "geopolitica"
         ],
-        "score": 9.3,
-        "relevance": 12.2
+        "score": 11.57,
+        "relevance": 12.4
       },
       {
-        "title": "Brasil amplia distância e segue com o maior juro real do mundo após Copom manter Selic; veja ranking",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmZmQWFCeHVxd0ljWmF6XzJ4cUdaZWZ3blZzTGVKdVV4UnJKR05MeWxLbXliY1FNSTItdEhzWW9PTXlGMGIwUTd4Y3ZBN0JlTURIdzdSZzhPdWVuVXkyQk03MVg5dDlWWGJUXzJFUjF0UXBWN0RLV1pYZE8zZ2VULVdzZk5DT0l10gGXAUFVX3lxTE55X0NMclp6YTM4NzBKYzZiSkgxRUUwQjRSdHZIS2hSQVltRTdkRncwRnVqTHVhQU1LZ0RWZFZwcURQQ2dqMWNITkRlSHpqR1EwekN2cWJyYV90NTdGTjRaU0xtNVBnWDhzdW4xcEZoc0podng1VklwbEItY0hpcFBJRU4tWE8tbWtlcklRQml4MmMwcnJUOUE?oc=5",
+        "title": "PT e parte da equipe de Lula atacam BC após Copom interromper ciclo de corte de juros por dúvidas sobre ajuste fiscal",
+        "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/05/pt-e-parte-da-equipe-de-lula-atacam-bc-apos-copom-interromper-ciclo-de-corte-de-juros-por-duvidas-sobre-ajuste-fiscal.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-04T21:31:45.000Z",
-        "summary": "Brasil amplia distância e segue com o maior juro real do mundo após Copom manter Selic; veja ranking G1",
-        "image": "https://s2-g1.glbimg.com/GK6lw7tr8M3TWoHrHmrLkDh58vg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/s/K/eBdJ5MRCOs4XjL8VpiOA/48002099586-2939bac18b-k.jpg",
+        "publishedAt": "2026-11-05T13:24:49.000Z",
+        "summary": "O PT e parte da equipe do presidente Lula estão atacando o Banco Central, dizendo que o Copom se rendeu ao mercado e parou de cortar a taxa Selic, que ficou em 13,75% ao ano. Entre petistas e uma ala do governo, há quem defenda, inclusive, ",
+        "image": "https://s2-g1.glbimg.com/-A7pgTgjRSkyK4Q_u1rOIbAk5L4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/N/CqiB4MRnqkRVIYzBQGig/globo-canal-4-20260429-2000-frame-24226.jpeg",
         "topics": [
-          "negocios",
-          "geopolitica"
+          "negocios"
         ],
-        "score": 7.32,
-        "relevance": 9.6
+        "score": 9.26,
+        "relevance": 9.4
       },
       {
-        "title": "De guerra no Irã a regras para IA: o que a vitória democrata pode mudar na economia dos EUA",
-        "link": "https://g1.globo.com/economia/noticia/2026/11/04/vitoria-democrata-nos-eua-ameaca-planos-de-trump-para-economia-e-ia-entenda.ghtml",
-        "source": "G1 Economia",
-        "publishedAt": "2026-11-04T14:00:54.000Z",
-        "summary": "Democratas conquistam controle do Congresso nos Estados Unidos A vitória dos democratas nas eleições de meio de mandato dos Estados Unidos colocou mais um fator de incerteza no radar dos investidores. O resultado ocorre em um momento em que",
-        "image": "https://s2-g1.glbimg.com/MvYE_OGwUny5qym_IPF6Shl_Pc4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/o/tCSzecRfq3JhOYnwcOhA/2026-11-02t044535z-1973786666-rc2ffoa0ad2u-rtrmadp-3-usa-trump-kansas.jpg",
-        "topics": [
-          "negocios",
-          "geopolitica"
-        ],
-        "score": 6.74,
-        "relevance": 11.8
-      },
-      {
-        "title": "Banco Central mantém taxa de juros da Selic em 13,75%",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb0Rod3kxVGtVWkxLRTlLbS1rMzc3aDEyMm5tTHNHUVpRZHd2Zk8ycWxDYzF5OGp3WVNqaWtKTXBLN3BkZUpTNkZtN0o1RlRrV1hnUFdFWHJsVWxvWDFBMWZtdW1fOUE5LVZ2VjdVYkxqOU5tVmtMMHZSU2FIbUlHd1RIUHVfc1poTkIxUmkwOUFfZVE?oc=5",
-        "source": "A Tribuna RJ",
-        "publishedAt": "2026-11-04T23:49:00.000Z",
-        "summary": "Banco Central mantém taxa de juros da Selic em 13,75% A Tribuna RJ",
+        "title": "Banco Central mantém Selic em 13,75%, e mercado já prevê juros altos até 2027",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRXBOQ2hwZmNaS2xTcGxyV2w0RFRETm1jYU41VVROYUUyYU9tdE9RTTFiX1BoME95VXp2ZVZaQmpTNC1pQklYU3lQVzNPeF9nM1prT19GdFlYM1R3U0JNUHJhN3lTSEk5cTJMN2xzRW93SkFCQ091S19vUXNLd25wSC1lUzBqYnZwVG1VLS1oVVA5MDZCd01KNFJ0SEJMbWxJN25VVkpZbDMtX0RaQ0hfZ0xuaHVvc2UxSjllWTc0azQ1YnhOR0ZaQzlOTFowdmJQRGltTkRYR1VYUQ?oc=5",
+        "source": "Goiás 246",
+        "publishedAt": "2026-11-05T12:33:00.000Z",
+        "summary": "Banco Central mantém Selic em 13,75%, e mercado já prevê juros altos até 2027 Goiás 246",
         "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 6.66,
-        "relevance": 8
+        "score": 8.95,
+        "relevance": 9.4
       },
       {
-        "title": "Dólar cai e fecha a R$ 5,45 após vitória democrata no Congresso dos EUA; Ibovespa sobe",
-        "link": "https://g1.globo.com/economia/noticia/2026/11/04/dolar-ibovespa.ghtml",
-        "source": "G1 Economia",
-        "publishedAt": "2026-11-04T12:01:09.000Z",
-        "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em queda de 0,64% nesta quarta-feira (4), cotado a R$ 5,4518. Já o Ibovespa, principal índice da bolsa brasileira, teve alta de 1,23%, aos 167.563 pontos. O mercado reagiu à vi",
-        "image": "https://s2-g1.glbimg.com/flrGTzCGA7rcqIkU-pbLKhRAjM8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/H/q/DVW4KVTAm4HtV81KBWKg/pexels-karolina-grabowska-4386431.jpg",
-        "topics": [
-          "negocios",
-          "geopolitica"
-        ],
-        "score": 6.56,
-        "relevance": 12.4
-      },
-      {
-        "title": "Midterms nos EUA: vitória democrata ameaça planos de Trump e pode afetar dólar e juros no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNXFDZEpFVnlKWVdBY25UQnNPRFhqWlVqdFN6MkVvWlFCbmNtQURDaXBCMVJ5WXE2eXAtV05raVJSVEUxX1M3UGVhSkc3THBUUm9VTHlIZDRPRUJrWU5yZmc5LXdYdlhwb1N6ODA0S0diQ2o1WmhRR2N0bUw1b1NDQlBFWFNvN0c4cFlYUzdrX1FzRlJUeGVZejFkanFzMTBFaHgyRmJRTHVHMzVCR08tbFNlOFk4WEozakt2clQ3bE9MT2QzNUt5OHA2SURoZ3o2QVhha3FqYTR3U3ZlRWJNT2xFSnPSAfMBQVVfeXFMTlgwUXp0V0JKUVh0YVZmaWZZY1dCZFFFVlNDekVoMTZNQTF3ZW13WWRPZ2d1MnVjTGc2U2xDMFEyRktrS2lIcjlXa2JsYjAwVVZlQ1dBdzlLUEVMYkg4MkpWZnNBY3JneEdWc2ZRazVZUzRNRENLdG5LSlgyNXRqUEJjY0xnN096RGFjWS15WWEyMkJjQzEyZWdsWi1wRWJ4bGFLNE52MlhiTDZrLTgzN3FNeU1FSlpDTjdPSjVycmVMOFFHdUtkVGcwQnBuelNhZmpxak1HRHFaaV9MTjBmdVNubmlTa29SdGxORGJRUFRURkZN?oc=5",
+        "title": "Durigan diz que taxa de juros é muito alta no Brasil, mas evita criticar decisão do BC de interromper ciclo de corte da Selic",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPM2Z2LXdfQ0Z6cThvbE05SkhMTTZTNUxRc1JHbzM0ZFYzQjBIT1Z6R2x5RlpfNEhZalNpZ3E2Q1QyVnF3X0lPdUxQWFpoYllWeE1idURaRkxkRWJjMldLUm0zcTFzdWRnNFZGNHNqdWwtUEwxTDBaTjZ5QlM0R09DOUFjWFlNbG9MSWkzQVdNOGR4eUZGenRaLW5VdF9TemVFd1VMLTBJaS1nMEVldFpYaVpRNzltMDFQaV9OTDBLZmNDcTd5d1dqdmJSajFsN3JZVlVEYUFJekZ0NlR0cnZrbHVVX0NlM2VLbkdCTU8zczBhcU8tVFYtUFNJQWRydDVuRHFobTNfYWQ3YWPSAZoCQVVfeXFMT25BUHdsRmJvUTRUQTU0SFVOSGVLY3JEQWh3MjlrcVcyOHJBMGJVZC1oQk9aeGt5QTJCbGRJNkkyVlV0X0J3T2k3MmdUYnMwcjhoR21EWVp0dGNSWFZBTjJpNTVheFBRNWx3OS1PN0hHV2U4WnZoUWR5VTdOa3ppWklPVHFYbExDQ0ZmREFhNkdBdEdvRmhXZWVfaTkzSEZ5ZHZIOUdYUi1QLXN4dWZDelZZdEwyY0x5d0dLOTdXSFVhMWczOXdycUlHc1pGMDVORDIyY0Q1SnA5TEYtZE1Od2VoaHBVNmI5WEVtNG9kZUpFV1ZDUUlDdjdpOVdpQ3FnbjByMXdGMUVla01rcFpiLVpWaE9iWV9PMm1B?oc=5",
         "source": "G1",
-        "publishedAt": "2026-11-04T11:02:43.000Z",
-        "summary": "Midterms nos EUA: vitória democrata ameaça planos de Trump e pode afetar dólar e juros no Brasil G1",
-        "image": "https://s2-g1.glbimg.com/1-B3_OzIhDAOho2006H8AJOaV9U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/0/0/BBon1hQYCBaRv5dmEACw/2026-10-24t224431z-105027597-rc2w9oazeoor-rtrmadp-3-usa-trump.jpg",
+        "publishedAt": "2026-11-05T12:20:51.000Z",
+        "summary": "Durigan diz que taxa de juros é muito alta no Brasil, mas evita criticar decisão do BC de interromper ciclo de corte da Selic G1",
+        "image": "https://s2-g1.glbimg.com/b5d4-8d94KCWtuVrP079E4ixGjQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/S/qdkNArTzuhhYA31GzvRw/55615371946-d00d02ff99-k.jpg",
         "topics": [
-          "negocios",
-          "geopolitica"
+          "negocios"
         ],
-        "score": 6.52,
-        "relevance": 12.8
+        "score": 8.51,
+        "relevance": 9
+      },
+      {
+        "title": "Binance e agora banco francês: como hackers desviaram tanto dinheiro? Entenda as diferenças entre os casos",
+        "link": "https://g1.globo.com/tecnologia/noticia/2026/11/05/binance-e-agora-banco-frances-como-hackers-desviaram-tanto-dinheiro-entenda-as-diferencas-entre-os-casos.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-05T13:07:07.000Z",
+        "summary": "FBI acusa Coreia do Norte por ataque à Binance, considerado maior roubo de criptomoedas da A Binance, maior corretora de criptomoedas do mundo, e o banco francês Crédit Mutuel Arkéa foram alvos de ataques hackers em um intervalo de quase um",
+        "image": "https://s2-g1.glbimg.com/1GKdAsyhoQymdThTL-BG3grQ0S8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/r/xsPBLCTnOci4Knbnuc4w/2026-11-03t223624z-2077831532-rc2jdoa4ji7j-rtrmadp-3-finance-crypto-binance-northkorea.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 7.98,
+        "relevance": 8.2
+      },
+      {
+        "title": "Banco Central deve manter juros altos por mais tempo, diz especialista",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYm1WOFNCSjllQVhxQWwwcnZuYXgtU0dEamNicVBXdGtjY2lTYjIzaUJ6RHZ0Vk5HM0lBbGxpQzhsRVZtV0p5Uzk0SUtxblgtdHcxRWkzS0hnSDNfaHVXN3c2WFo4OTVtTkd0WmVLUHF4bV9xa0VWZkpnNmFzdjl2VTFFamdFenJyS2RVYXpsZ2otb2pydjdZYlVGZ0s0d1l2dTZv?oc=5",
+        "source": "BPMoney",
+        "publishedAt": "2026-11-05T12:58:10.000Z",
+        "summary": "Banco Central deve manter juros altos por mais tempo, diz especialista BPMoney",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 7.74,
+        "relevance": 8
       }
     ],
     "filosofia": [
+      {
+        "title": "Café com Filosofia Budista — Aula experimental com Mauro M. Nakamura",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHBOV0ZlbGxYdXRaX0RBa2w0YXI3TlVDVUxObmhCX2FnTkNzQ1JzdGNSNG44Z0d0SzFDYWg4ajJPbExUeUhOU0pGRnhPMXVlQlZuYks4TExIYmpDeTQ0OEk3TVpNZVRQekxqMFQzV1BSS19LVnBkaU0xeEc0SDB1X3VyTVJsWUpiWWZkRGNuVXBaSlRVc1hTbXZKMnJtMkRfVzFLZHBWN0dnQQ?oc=5",
+        "source": "Agenda Cultural do Porto",
+        "publishedAt": "2026-11-05T13:40:42.000Z",
+        "summary": "Café com Filosofia Budista — Aula experimental com Mauro M. Nakamura Agenda Cultural do Porto",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.98,
+        "relevance": 4
+      },
+      {
+        "title": "Da herança filosófica à era digital: 50 anos de desenvolvimento e integração da filosofia vietnamita.",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObV9HdW9HN3RIWGVOS3NBUjFJSkhCVkpiakNyMERGUUsyTmtOWXpvQ0RwcnNIVGRsMzdPU2NtSHdzdnhzaWpzVUVfNnFEaERveVU1Z1BObG9EQzlxTUt1MnVYZGoxVUdYWGo3VGI4aWJkc1cxWVlMUy13OFlJay1HWXVQRGg2MTlnUXhGa191WV9ubWVnQmQyb2xuSTJiUnNkbmRpQjlQRGZ0WTluY3h4U0lDUWs?oc=5",
+        "source": "Vietnam.vn",
+        "publishedAt": "2026-11-05T12:49:40.000Z",
+        "summary": "Da herança filosófica à era digital: 50 anos de desenvolvimento e integração da filosofia vietnamita. Vietnam.vn",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.85,
+        "relevance": 4
+      },
+      {
+        "title": "Miguel de Unamuno e a reflexão sobre quem repete o que todos pensam: “O senso comum pode ocupar o lugar do pensamento próprio”",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcGtqbkg5bUFXSkFHTm1QbkIxanV2bmhPOU9USlV0OUpqLUlISHZsT2o3SHhuSEZqcHNCM1ZSTlRNNlhCdFhZeFcyVWNBdnA5akYweFNlM3d6eWtuM1FRSjdxLXJZT3dLU2tMMVVGUzZ1RE5PSG1KWUtIeVdJYWlLZk01LVlEa3czSjg4a1RXYmt4SUZQZ2x3cWZMaUhpdUE5eHc4MnBQVDYtY0tweVoxUFZRenlJV19DM3FsNUY3Z0lpRUg5Wm55enlCbUpjSWNsVklRQWRkTW9kZmhkMG9WSzlFR19jcXA4YTZTeGx5THBJaGRvWmNKRUxGTlBOX2pr?oc=5",
+        "source": "Revista Oeste",
+        "publishedAt": "2026-11-05T07:35:00.000Z",
+        "summary": "Miguel de Unamuno e a reflexão sobre quem repete o que todos pensam: “O senso comum pode ocupar o lugar do pensamento próprio” Revista Oeste",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.15,
+        "relevance": 4
+      },
+      {
+        "title": "“Eu mesmo sou o assunto do meu livro”: a frase de Montaigne que transformou a própria vida em matéria de reflexão filosófica",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlFDdy1OZG1JenZQdUdXMnoxM0lKSWNzSG9RanBhbUNiSml0a0xHb2pzMnJZY2NaNFZINHY3d0FNYXBoMTNkNkZwSEZiclowbk5jMEJTeW1QaHA3dUozYWxlcmcyYW92NF9DMEo1QnRiWG0temhZeTZ1T00xVzRtNVFFN3IteEZBczZWWTAzQXhHNGczWF9VRjlqRQ?oc=5",
+        "source": "Correio Braziliense",
+        "publishedAt": "2026-11-05T13:30:00.000Z",
+        "summary": "“Eu mesmo sou o assunto do meu livro”: a frase de Montaigne que transformou a própria vida em matéria de reflexão filosófica Correio Braziliense",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 2.96,
+        "relevance": 3
+      },
+      {
+        "title": "Como a Grécia Antiga ainda influencia o mundo atual",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeEpzYWV4S3BFb3VYbFNrSnZ5MXFLVDdkVnVjR1k0MFY4UWpxSDZPUEhjTzF5T2dFb21UMGVzZWJ6Y2t1Nm1RbGtUWHJMOFFaR21fY2FmVDI2MEd1X05KVlB2U05GenZZU2N0cHlKam0zMWc0ZXA0UVY0T0lUakl0eW5QUXdJeF9HRnNBLW9PT2phaEdaZDd6X2wxSVRXWHc?oc=5",
+        "source": "Jornal Noroeste",
+        "publishedAt": "2026-11-05T12:37:28.000Z",
+        "summary": "Como a Grécia Antiga ainda influencia o mundo atual Jornal Noroeste",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 2.87,
+        "relevance": 3
+      },
       {
         "title": "Nova Acrópole Cuiabá promove palestra sobre a relação entre ciência, filosofia e a busca pela verdade no início de novembro",
         "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOX1BXcGpsQ1BtcWxKNUZvSnI3VkZhOXpGTjlxZ2NObEJ5aFRVZVFDU3V0aTBQWnhWNm1zaFpucTRhYTVXaHJnSnpNQzZMWkxnV284U1dFNktzVU5jWWVvRGo4OXNzWTNqVHByT3JiTE9Yb3JkcWE0ZXlKaXc5cUpDM0pCaFoyT3NRTG9ZalkwZjc3ZVkyVWFWWVQ0Ny0tQ2hnTkJzX0xDdEZIU0NEY3dReDRQenJBcGJGS2MteUN3R0ZmZTVNLVZtekhBY3VaZmpGanhTMThRWGwwdHVEWEhJLS1rZlp2T2VnNy1TM0NjRFIwUlFiME5MdFE2QjdSdlRDblJRQUVSWmg0WVZyaU9ybjJR?oc=5",
@@ -940,234 +992,169 @@
         "topics": [
           "filosofia"
         ],
-        "score": 2.88,
+        "score": 2.02,
         "relevance": 5
-      },
-      {
-        "title": "APP-Sindicato defende Filosofia e Sociologia no Ensino Médio - APP-Sindicato",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQazRFV2tNM1c3WE1CUzRNVjU3VUhsOU9qRlkxVnlsb2lWQWlhZUxiMTRyM253R2l1OHNuWldNUERtYWpXeXh4ZVVMYVJYdGlMZkFILWFxejltT1RSZ010clRMX3AwSHlDQ29rdkYzMlRER2tLT0ppTEtDbDJFaWNHZm9vcmhIUWhkazI0ZlRVMW9nN09rVGtvdkNWN2N1US1ISHhsSFRWVm5oS3R5?oc=5",
-        "source": "Google Notícias",
-        "publishedAt": "2026-11-04T17:35:28.000Z",
-        "summary": "APP-Sindicato defende Filosofia e Sociologia no Ensino Médio APP-Sindicato",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.62,
-        "relevance": 4
-      },
-      {
-        "title": "Filósofo João Guilherme Nalon ministra palestra sobre a relação entre o ser humano e o tempo em Goiânia",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU2h3TlpzRjBOTjM1NEdkaTZucjlRb2U4cXRscVEyejJMbEh5SXZ0QW4ySnpuTGJza3hIN0djcDBDOTBQeHVqMXFKN1FqS1JCYmpOdTFQaHJlVlAtQW4zV2Q2TkxLeHBYU0Z2ZUd2c3l2LVhBaVFMUmJ6MGg1UXpuZ1FfcjFrTDF0bDg3OTkxS0tLZUNHY1JrZGhZbUliX3ZtOHNTdFVPZTJaMG1kNHRFbDhQazRVMVA5YTR6WndfempkUVYySHhHTHR6TDNKcGZscVN6NEU4RXA?oc=5",
-        "source": "panoramagocomunicacao.com.br",
-        "publishedAt": "2026-11-04T17:19:58.000Z",
-        "summary": "Filósofo João Guilherme Nalon ministra palestra sobre a relação entre o ser humano e o tempo em Goiânia panoramagocomunicacao.com.br",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.6,
-        "relevance": 4
-      },
-      {
-        "title": "“Quando não há tigres na montanha, o macaco vira rei”: A sabedoria de um provérbio chinês milenar que inspirou o ditado popular sobre liderança",
-        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQTTZJaVA3MWNHeklTSTZUZzNtSERHTjRrWmN4cFJSd1RhSFVCZzFuRWFxYUcwV1NGTlJxQ1lDSXZ6dE92dGxodjFqdElDSE5nTlhCWGtXb3VnTkVMVDhQUEhYS1NRWERqT3AxWjlJdF9rczJOZFVXWkxZeW9jb3pYNUNpUXo3RlhtQ3J6R2ZGaFdkc3pubGdHWUpOQ0tRMk5iTnJlNnVrSUNwNmp1WHVMeEdYSkU4WGd0SEF6WWRSM1J0QjVhem03NjlBTzRuUlJsa1RZNEhVRXFpbS0ycHIySDNpb09JUVVSdDNUbE5fTGZuazRHdWF2VF9TTl9hdHZSSWFvYmlYTVRic29OT0hER1ZRTE1GejQ?oc=5",
-        "source": "Brasil 247",
-        "publishedAt": "2026-11-04T21:45:00.000Z",
-        "summary": "“Quando não há tigres na montanha, o macaco vira rei”: A sabedoria de um provérbio chinês milenar que inspirou o ditado popular sobre liderança Brasil 247",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.31,
-        "relevance": 3
-      },
-      {
-        "title": "Liliana Rodrigues lança livro sobre filosofia, educação e política - BOM DIA",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcU1uVUVlMFRqZUtPMnJ3YUg3S0hoS1dRcU5aQzJ3V0VDTk0zWUw3TnRYTG9UWW9abm1adUpoRGw2Q1l1dVNrU1RxMEROT3VDaWNXcC1mZFBWd2V0RGgzMGJwV0xuYUFvSmJRVlVvUVY1X1h1bjNhU3hWTzMtSXNHR1J4bVVxNVp2V05XVQ?oc=5",
-        "source": "Portugal no Mundo",
-        "publishedAt": "2026-11-04T14:04:14.000Z",
-        "summary": "Liliana Rodrigues lança livro sobre filosofia, educação e política BOM DIA - Portugal no Mundo",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.29,
-        "relevance": 4
-      },
-      {
-        "title": "CTB defende revogação da reforma do ensino médio e mais aulas de História, Filosofia e Sociologia - CTB",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdzVic0QyWmhiTVlObUFxRXVTVDZySWpiaElQZEo5cC0tbUkyc2FiWUx0dUc0MV9JZXoweGxDX1BKYjBJV2tmQ2E2b1NSMGo3X3JfQUFzNHZwc3FTWUg5OUNGUTdXYjRnLWdqUnZCOHk0M1BsTmJkbHFfajJJaldIS3kyaHRKdUJOV2xzWGd0czNWZlA4WlFSY2dacDZfZW5Na3RDUjNObHM3RzB6c1M1dEc2TTBXWndUV29qTERPUHgtUV85RVYwNE9zQQ?oc=5",
-        "source": "Central dos Trabalhadores e Trabalhadoras do Brasil",
-        "publishedAt": "2026-11-04T14:00:00.000Z",
-        "summary": "CTB defende revogação da reforma do ensino médio e mais aulas de História, Filosofia e Sociologia CTB - Central dos Trabalhadores e Trabalhadoras do Brasil",
-        "image": null,
-        "topics": [
-          "historia",
-          "filosofia"
-        ],
-        "score": 2.28,
-        "relevance": 4
       }
     ],
     "cinema": [
       {
-        "title": "Filme brasileiro que levou mais de 6 milhões aos cinemas estreia na Netflix e reúne Mônica Martelli e Ingrid Guimarães",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPdGNJVWZCRnNPRnY1Mno3N2gwYlJYVTBNYUFTc1BITWFkcE1Kc3VpQ3B3QXlOQmRhMi1NNUJRMEtBZENrN1lKUXRvSllDQkhaQ01rVjJ3QzFPRU9WQkpJd2VGV3EtVmF2X3otS2VkZWdkRnZJdERpMWRCX3g0ekpXdzNITDk3ZG5sTGFZODVpRWd6TEVQRjhyakY3SkhRQXpSTkJQaXFuR0d5dnozaTUxZXctSjdjS3kwWlBuQnkzMDhhcUh4azJtUnQ2cnF2SmR0RDlSS2N0cHh2MFFlSTFxY1VfcFFvLXF0NGpsMGRYanpOalFs?oc=5",
-        "source": "Gazeta de São Paulo",
-        "publishedAt": "2026-11-05T02:00:00.000Z",
-        "summary": "Filme brasileiro que levou mais de 6 milhões aos cinemas estreia na Netflix e reúne Mônica Martelli e Ingrid Guimarães Gazeta de São Paulo",
+        "title": "Unidades do Sesc PR recebem exibições de filmes da 21ª edição do Festival de Cinema Italiano",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdjhYcTBiUjVzZ1QzeGZrVzhrQUdkSUphT3N0Slk0R2g0S05pUUR3Yy13cnp3VjNUTUFjUDBScWhzTVBjd2R0SUU1VTNBZmZudlZBN0VPVml6MUVjY05xb3dKZ0J4eUJEVW5SQmhlZ3FndGpZeUlnWnpPd0ZVdXhqSV9jRmZGTUFmZ2RTU0pzRzZDOGR4VkNSZ3EzUWc5ak5qaXprOFFHQnB6ZFVlb3ZELVlJYWRHYURnWHh2STR3MEwtUzRXN3c?oc=5",
+        "source": "Sesc Paraná",
+        "publishedAt": "2026-11-05T12:51:36.000Z",
+        "summary": "Unidades do Sesc PR recebem exibições de filmes da 21ª edição do Festival de Cinema Italiano Sesc Paraná",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.34,
-        "relevance": 7
-      },
-      {
-        "title": "Cinemateca Paulo Amorim tem estreia de filmes brasileiros e Festival de Cinema Francês",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVXh1c1FqU05JemYzUkI5ak43RUVzQVVQc3ltTlFMQjhfWmg5REl0UV9vUVhlZ2NTTWJOZUtqYmJKSTA4M2Jiby1DUFdUS1ZLYVppekRmR1NCYXRGVlktQmNSdHZxNGw4SkU1RTlpQlRGTzdnTVJkNXFJay1yeGFmOExCSGU4SzJsUEwzME9MTnFuZTJ3S2dsdkpuakdLU1BTT3c1SkJFanJZVWZDWklBcjdQOTN0NXc1RUNBcmpBVUkxejNzUF85T1Bn?oc=5",
-        "source": "Sul 21",
-        "publishedAt": "2026-11-04T18:54:00.000Z",
-        "summary": "Cinemateca Paulo Amorim tem estreia de filmes brasileiros e Festival de Cinema Francês Sul 21",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 6.2,
-        "relevance": 9
-      },
-      {
-        "title": "IX Mostra Sesc de Cinema exibe filmes mineiros gratuitos em BH",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1iVTlXc3J4Nk1CdG1kUldtQko1V1BqNWdGeXRLVUpacjBTVjFGRWxPNWN4U1BaM1VJS2h1SHU0T3VUZkkwR1dZLUY4RUpfd1pIdy1JdEpQTEtCUVlmYXc?oc=5",
-        "source": "Culturadoria",
-        "publishedAt": "2026-11-05T03:54:47.000Z",
-        "summary": "IX Mostra Sesc de Cinema exibe filmes mineiros gratuitos em BH Culturadoria",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.85,
-        "relevance": 6
-      },
-      {
-        "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, HBO, Prime e mais",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWW1qa3hBZkh4eXExdnh1eUdoeTVOYkJuUmFJVU1oVktGS0hqOW1vNWFrOF9TVFVQMTEyLXNSbURxTXJmNUJ4cFRqWFJ5NWo0UUdUZTVGdTMxVnBvcXJneXJ3ajdkNDhVdHpkQUNMcGd4UEFDSzZZeW1iY002VHhUVjlaTWk2cmdPVVlPTWo2U2ZQQXRKRXRaem5DSnRIVldOYW1meFlEckIycjVvQThBaWdoQ2pzM3ZFN2N4LUJnLUxXYWVXb292NTdlSEtydmZE0gHWAUFVX3lxTE1MSEFmSGJwaEEyOTZQcXRaZmZMeHNDRVk3dElNZXROdEVhMU45TU91RU1YZzM5T0dDTVFCZ3FOOEo5SjdIMDNwaUtkX3NnSEVTeVpQWUtjVzdwVDRFVnNONGNVMjl6NmZWc3hqSGxNbFJaRGVpd3gxVU5majNtYy1mVV9iV1lwa0pFcm1lSkUtZG1la3Q2QXk1cFkyWXRMVnpFcUZDYm5TRVBNMFJKUFpfZmlMUmtzUktfbVNEWTRnd29FaW12WXRmd2RGcGNxRVVhM0N1aEE?oc=5",
-        "source": "Estadão",
-        "publishedAt": "2026-11-04T20:15:00.000Z",
-        "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, HBO, Prime e mais Estadão",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.81,
+        "score": 7.71,
         "relevance": 8
       },
       {
-        "title": "Filme ”Os Farofeiros 3” estreia nos cinemas de Goiânia",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNajc1Sy15eW5FMGJtSjdSVUt4ZHhWQU9CR2FuTlpwM3Z4ZUhvM0lLUEZ1MFoxTnJYalRlWWZMY0dsdVdJcWtlUkRJX0hkcFJ2Y1V5dFdKa1hyYTduWXQzZ1QzcDhYVnY5LUo0Q3JEMi1kVHcyM1VFa2xteUFibEF0Ulh5MA?oc=5",
-        "source": "A Redação",
-        "publishedAt": "2026-11-05T03:30:47.000Z",
-        "summary": "Filme ”Os Farofeiros 3” estreia nos cinemas de Goiânia A Redação",
+        "title": "Festival de Cinema Italiano no Brasil 2026 :: 21ª edição começa hoje com filmes gratuitos em todo o país.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ra2R4bVQzMnB5Uzh1Y0JhbWlVVzJJNDNJUmpqdGpjaHNxMGktY2JYYTFzZm9TOXJXSzdMdmdjcEhYUmpGWnBKOF9RcWdCOWNoVlBhcjFjd01xWXBkQnI3czhteWNoVURINXdfOXVFRVBQaWEzbHk40gF8QVVfeXFMTUJ0STBIamxCN29iRzdGZDBjdDlWLTY2QlFPMnpFa3I0Z2t5LVZFQks2M3lkZGozTkN4ckh1VmFqd0x6VTVFc29nU0IxV0IyTkhiNmNtcVUwWUZOMWVKMEVoajdVZWx0SEFuVTdyQkJSSDRnNVFXVkwybEluYw?oc=5",
+        "source": "Papo de Cinema",
+        "publishedAt": "2026-11-05T12:35:54.000Z",
+        "summary": "Festival de Cinema Italiano no Brasil 2026 :: 21ª edição começa hoje com filmes gratuitos em todo o país. Papo de Cinema",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.76,
+        "score": 7.63,
+        "relevance": 8
+      },
+      {
+        "title": "Cine Walmir Almeida apresenta estreia de 'Feito Pipa' e recebe segunda semana do Festival de Cinema Francês",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNN2d0VXpNRnNFdFhNQVBuWVQtNzZab2NFeWJFTGJrdmtfTGFVS2FUZjVvcTUwVkhtUjM4bDIwYm11ckpXcXZmNXhoMXlwYk4xSy1XWEFYZGhRQ21HWUJSMThGd203NGxwTTQ3eW5MVUZrblBtcXljY3JrTldkcWFDc01LMThDYmM1RXpFSmVZeFo0eXNNYW5nUk5MNEZIQ3BIUGJPMTZLVWVVTi1RTV9uQVdJeXF5NzlkNnZfR0RSQXEwXzZJaXFYeXg4ZHBvbXF4THhjc1VnT2gtclRFTHl0cjFQVXBVZw?oc=5",
+        "source": "Prefeitura de Aracaju",
+        "publishedAt": "2026-11-05T12:26:58.000Z",
+        "summary": "Cine Walmir Almeida apresenta estreia de 'Feito Pipa' e recebe segunda semana do Festival de Cinema Francês Prefeitura de Aracaju",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 6.64,
+        "relevance": 7
+      },
+      {
+        "title": "Dia do Cinema: filmes que transformaram Salvador e a Bahia em cenários de filmes",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTW56bzVHUDdDUldKMFYweG1tQld0WWNvZHBkTnd1ckNkQkpEN00yT0pZTTVmN19oeGcxZ0NfSlRiTjl3dGIzMDNVdFl1MmpGTkVEU0hVcEVKdFlnSFFHYTN3ci1STHZDRWpZc2M0empKdFdOZGx5TXR6bDJZaG5kM3lEUDFhZ1pHMXBZbmFmSDIzNGJfRGVIWjVHS21TLVJuUFFmdUNYUUxsZUFuM1ppV3hzRlRUWGhWSEpNX0k2SXpTdw?oc=5",
+        "source": "Alô Alô Bahia",
+        "publishedAt": "2026-11-05T13:30:00.000Z",
+        "summary": "Dia do Cinema: filmes que transformaram Salvador e a Bahia em cenários de filmes Alô Alô Bahia",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.93,
         "relevance": 6
       },
       {
-        "title": "Dia do Cinema Nacional: 5 filmes brasileiros imperdíveis para assistir no cinema",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQkxpZnpRblBwckljdzFXaFhHUHM4N3NJQkdjQkViaEVFQm9xQ293M0FpeU8zVjBsRzRTV1lmeTZ3NjN5SHkyZU5GOGQ4dlNuOVFuaGJfbzFhQVdRcDhnckUwTnZZeTRXNlJEUDYySHc4Qlg0Y2tSTzVpTkJTLUJGQ19vTWQ2b01TblYwZEpQZ2JjX1BlblVMbkFoZzd1OFRGSEowakxuVlBLT1Eyc0tBVkVBWXZ6VWtwbVpnRVA4RGpZMVZXRFhpa3JTNUxKVFhEYXFCTVc5MWx3bHI3RTQtazhlOE1rU3Q3NmdKOVpYNE5VLTVh0gGDAkFVX3lxTE40Tm9WYVdwRk43YnFNbFRWU2lrX2lQYTljWlhaa2hsdE9yOEFyRnhfWmJtSUlnNnBvNGhTeUlVUjBuaXFXMVFwcUdzbDlVNkd5RUVWc2N6WmdORnRmbjJMMDgybmVWN0RkZzByNjVwV2Fid3FWeWY1WlQ4X1lUTWVRTFk3clpxNVN1LTg5S3J2eURFX21CcEp5cVFwV0c0T0hHa0xRbjdoQ29Ia3lrNUMyLWFVZWg5a0x1R3Bza1R5bkh4THc0dy1QVkhQMHlBaUR5UVlrdU5mQmtBN0Q0UjFOTnRXTjk5THZhQ0NBWHhvSkpsZGFWSHlEdUFqUW1iXzMxaG8?oc=5",
-        "source": "Globo",
-        "publishedAt": "2026-11-05T03:00:00.000Z",
-        "summary": "Dia do Cinema Nacional: 5 filmes brasileiros imperdíveis para assistir no cinema Globo",
+        "title": "Sinédoque 2026: Rio é palco de festival de cinema dedicado a curtas documentais",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdnBXS2xxTzI1LUNwVTV2M0tQU19SSlBxRDF2RWdJYW9nVWNaU25UcXhHMjZ3UXFudUw3OXpRSTBHOVFvdFFJVmNkdC1UcFJWbG93VDRVU1RCc0VkVDBabzl2RkZsaWdMTHZOMGVwamJ6NE56Qk9pX2VJQnRvMVk0SjJ3d1JsNG5XSXVSdUhvY2dDWGxGbGhsOXlucGxpSDR4M3J1U2xkTlprMTdfTjhOSzhzamYzbXl5MFVrMjlENVJaNHJrUDRPVW45Z1N2S3JIUFdtQ2VpSHdyU0nSAeoBQVVfeXFMTTVMZUg2TVg5OFZzdXJESmk3TXZfc2lxV1dnSWsxd0E1aVpGV2FmWjVQWVhlaktBRjhKZmE1T2xyX0FoWmRSWnNVOWF3elZaS3NKOXVXWFVvWmtoN0MzS294X0NSc29mV0lpS3Vac2dSYUhfNEZkTjFBSjktSDJ3cC03YzNxLVVSUHhGbWVQbTNIYV96VEcza2xFUWEtNi1Pd1NJQlBOYnhUZ1g4S3dfaVlTNnNmdjNaeHN1cUtISzBhdDBmZDUtYzVwYXVfdGkzc3F2WjRoRHh4WEZOVHhpUHlXOExUSURhdDBn?oc=5",
+        "source": "O GLOBO",
+        "publishedAt": "2026-11-05T13:19:22.000Z",
+        "summary": "Sinédoque 2026: Rio é palco de festival de cinema dedicado a curtas documentais O GLOBO",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.65,
+        "score": 5.89,
+        "relevance": 6
+      },
+      {
+        "title": "Festival de Cinema Italiano terá 16 sessões gratuitas em Jundiaí",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTJ3N1BjZm1MenY4dHdWbk4wQVBuQnByU0ZQbmR6dXA4NDJqWG5RMVRhbzFYajlFZ3YyQUFqWlo4VHA2ZENlZnZLenNhMzVBZllvTVhkNkZwQ2VRejFfclBaVXpDbUFsWldfRUVTZjNZcHdfaEFSWThBb2tTd3kwTVU4VVV3djZrNkdmcXBmVDR5cDkwalRmR3NqUXFjdE40T3U3dHE3T0hLOGoyMFE?oc=5",
+        "source": "TVTEC Jundiaí",
+        "publishedAt": "2026-11-05T13:06:00.000Z",
+        "summary": "Festival de Cinema Italiano terá 16 sessões gratuitas em Jundiaí TVTEC Jundiaí",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.84,
         "relevance": 6
       }
     ],
     "medicina": [
       {
-        "title": "Apesar do diagnóstico, meu filho tem direitos, diz mãe de criança com doença rara",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOeG9CNE9mckJnX3N4eFFSOXFDZ2JqT1lUT3I1Z2p5ZTRfNjlzUlE3M19RM194Rk41aUw0eUpfSnhnbEZNRTc2WklNOHRLZkRaSUx6b2VEZlUtbExoSGdaT2lJMUctWGVVUUdJNkU4ejNtVnQwUGxIZUxiY284UHRMSFV3ZFlCSEREVG91ZVlWNUxoRl9JdGx2VlVCUm9vWFA4QW9Da2k3M0hxT0VZNkVPUllicGUwWFV0SkxEczA0LXFFa0V6bXQtcmc4N0NXWTJnMkJkRlNJZmk?oc=5",
-        "source": "Folha de S.Paulo",
-        "publishedAt": "2026-11-05T02:00:00.000Z",
-        "summary": "Apesar do diagnóstico, meu filho tem direitos, diz mãe de criança com doença rara Folha de S.Paulo",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.53,
-        "relevance": 5
-      },
-      {
-        "title": "CRM da PB vai apurar possível atuação de falso médico em unidades de saúde do estado após prisão no RN",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNUlRazBON194MUZ3eTkxc29FNGdKbWVyUWtaeUhCR1k3MDdQUHFIQWNkRDBFZGgydENIWjJVNmQyREJ6Q1pJUzJrWTVQc2p5MlRQcjlnM1h1Z091X0U5UUVoSGJNMXhhUXA5WjA4alJxMzZ4cFZpTjdZY2ZCU3V5bk9pRWVwMFFSZDFGUHpFUzRFVEF4UFo1eTZwa0JEZkZUZzk0Ym40allzQWV1SThCM0tXLThINDVyV2hkNkpiQlFGQjk2TkFUMGdEaDJ5ZGFiUW5ra0lab2pjWWFfRDFOZnU3ZTdEMEtDZkNid0RjTlXSAf8BQVVfeXFMTnNLWGVkbG1LczdWaV8tODF1Wm5MLWZfYzdtOV9HM1VWQTNwOURFVk90cGUyaHk0b1d3cEdYajV0OEM5RXR6WXlHcVROcmdRSklDZ3V6aVBNUWtkR1A5VFVrRFc3S3EzcktRNWlGc1BjYnBfeVMzNXljbXBZelE1VTZDVDFodDlERmRZWG1pVFRpemIyQ0lQeVdBLW43OUswOFJfMHNRenNiUkdyQlRPZHVPdjZ2X09nUWR0YlhRWjJ5bk5zNWJSSEpZcG1td3JyS0NmTjVpMmtyTk01bDNpaVB3NVJoTzhyNHl0a0Y4NTZ4cjNsUGdrUHpfWEY2b3gw?oc=5",
+        "title": "Remédio falsificado alvo de operação em SP é o mesmo indicado ao papa Leão XIV; laudo encontrou só sódio e cloro",
+        "link": "https://g1.globo.com/saude/noticia/2026/11/05/remedio-falsificado-alvo-de-operacao-em-sp-e-o-mesmo-indicado-ao-papa-leao-xiv.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-04T20:46:44.000Z",
-        "summary": "CRM da PB vai apurar possível atuação de falso médico em unidades de saúde do estado após prisão no RN G1",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 3.7,
-        "relevance": 5
-      },
-      {
-        "title": "SUS e Einstein desenvolvem IA para identificação de doenças de pele",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/sus-e-einstein-desenvolvem-ia-para-identificacao-de-doencas-de-pele",
-        "source": "Bruno Bocchni - Repórter da Agência Brasil",
-        "publishedAt": "2026-11-04T23:47:00.000Z",
-        "summary": "Uma parceria entre o Ministério da Saúde e o Einstein Hospital Israelita desenvolveu um sistema com inteligência artificial para apoiar profissionais de saúde pública na triagem e identificação de doenças de pele. A iniciativa, chamada CUTI",
-        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+        "publishedAt": "2026-11-05T12:39:58.000Z",
+        "summary": "Operação contra a falsificação de medicamentos oncológicos Reprodução O frasco de Keytruda que chegou ao Hospital IGESP tinha caixa, rótulo, bula e lacre parecidos com os do original. Faltava o essencial: o pembrolizumabe, anticorpo que faz",
+        "image": "https://s2-g1.glbimg.com/qXq3U8unoakL0D8ZIpjeuWm_iJA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/b/v3CoD6Qiqwsj02YPpRMg/whatsapp-image-2026-11-05-at-07.08.15.jpeg",
         "topics": [
           "medicina",
-          "negocios"
+          "negocios",
+          "geopolitica"
         ],
-        "score": 3.66,
-        "relevance": 4.4
+        "score": 6.32,
+        "relevance": 6.6
       },
       {
-        "title": "Estudante de Medicina de Mogi das Cruzes tem pesquisa sobre câncer de mama selecionada para congresso mundial",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXdLWV84OGNqVXNZZDFoUjY4YTFKR19ISlFRaFhZdjhLMXZUVlZiTFJBVEZzdXBMQUloUFR6Wk9pYy00bWZkRTExRWR4X0d2ejBpbEVVSEZWaUUxVE9PLVdqcF8yYjY4SVY4aFJiN2dMVEFMSnVoY2c3TW94X1loTEE3RkdzdERwZGZlaTFJRVBDb3Nxbi0xR2JiUVRCRzhkNDV4c0YzRXl1SW9qVGVOeFZEVHNPaWxMSEd3Zzl5WnkwelhYSHVxTkpnRThzMXRpRHBzSFZ2MG9sb1pm?oc=5",
-        "source": "Hoje Diário",
-        "publishedAt": "2026-11-04T19:31:09.000Z",
-        "summary": "Estudante de Medicina de Mogi das Cruzes tem pesquisa sobre câncer de mama selecionada para congresso mundial Hoje Diário",
+        "title": "A influência da genética nas particularidades do câncer de próstata",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfY1pZMFNZVWNhdjJaQlFKNnNDSm1NNWF4ODgyZ3RrN0dmcWpWMEI4NDdwUW0wVFR2dHEwUmNtS2Yzb2xKcEg2WElqU0UydTE3VHBmTjlteEN4ZVlDNFB1ZQ?oc=5",
+        "source": "Medicina S/A",
+        "publishedAt": "2026-11-05T08:10:37.000Z",
+        "summary": "A influência da genética nas particularidades do câncer de próstata Medicina S/A",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 3.53,
+        "score": 5.15,
+        "relevance": 6.4
+      },
+      {
+        "title": "Do diagnóstico ao pódio: o que Zverev ensina sobre o diabetes tipo 1",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQWtxeElRdUNEOXM4Mm43VVJ2NVNIUHJmRGpqWEV2RFdSRDNMcFBkUC1oVG9ET1o3WV9waTZmc0JUZVBjSE96SzMwa2NqbVd6OUdSaFdlQmZqTXMyMkw5Z2RkcDNhU1RoSUdVYmJOemczTVh1ZHpxRXNoeDR4TUotOXFmc0tZRVNHTUtHZlJhVE55Z3dYanZ5RHM1ZnNocTdhMy1iZHV1dDZLZWZ0b05Gd2hDd1QzNzg?oc=5",
+        "source": "Assine Abril",
+        "publishedAt": "2026-11-05T13:15:47.000Z",
+        "summary": "Do diagnóstico ao pódio: o que Zverev ensina sobre o diabetes tipo 1 Assine Abril",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.9,
         "relevance": 5
       },
       {
-        "title": "Lula deve sancionar até sexta a “OAB da Medicina”: aprovação no Enamed será exigida para novos médicos terem registro",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNcFkyOVl3SWxOdGpacm9QU09PcGJhX2x6NkFhZ2lSbUViN0Q2eU5VNmJveElOb0ZnWlBGYXpPWTNReU43bEVpWkROcTk4MnV0M2NJSHROOXdTNUtlQlU5YUgyRkJNbGk4R2JCZ1NqdXFtSjlySTA0ZmdMTmdYR0lWZUZUVzUta3BHQXFHTmFUOHl6ckNodUpfdlJXcWx1Y1BZczNNMTA3VWpkZVRjVm5BX0pZVXlaVm44RnpxdnBBVmRiNEw3SHpZcW53VVh2WGJ1QndGWDZ6Q3I4UktyUkktOTkxOFV2NGpQSFdZalN6bVhROHNxSklJVXVxTkQ0Z09ZRmZxcWJ3Wnp1aldnMEdaQmtyZjcxUQ?oc=5",
-        "source": "Eu Ideal",
-        "publishedAt": "2026-11-04T18:04:00.000Z",
-        "summary": "Lula deve sancionar até sexta a “OAB da Medicina”: aprovação no Enamed será exigida para novos médicos terem registro Eu Ideal",
+        "title": "Medicina, Psicologia, Direito e Ciência da Computação são os cursos mais procurados no Vestibular Unesp 2027",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLW54bTRJM1pqRGZmODMyZFczWm1fOV8yVlM2QkRxVVBxWTZEUXh2eHprcTctWll1aS0yMVZqX0phMGVVQ0xaTDRIdDJLeGZkTmpTYmRnVVJTcEVzUExkNHdGR0JkV1FhMzRucmxnVDJBeDZIUFJSRHJjb1N2eXRucXZqaw?oc=5",
+        "source": "O NORTÃO",
+        "publishedAt": "2026-11-05T12:44:00.000Z",
+        "summary": "Medicina, Psicologia, Direito e Ciência da Computação são os cursos mais procurados no Vestibular Unesp 2027 O NORTÃO",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 3.34,
+        "score": 4.8,
         "relevance": 5
       },
       {
-        "title": "Homem suspeito de usar registro profissional de médico da PB para atuar no RN é preso",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRjJsQmVQUG9RdkFHdFFEY0V1bS1TN2hhbDhkYU1ydnpScTNWVzJhZ0JoMzBVYjh5bGhpTVNiQ3d4bWV1NVNhVWhRY0lXenBjZVpGSGxMSWNkNWFSWFg3NDBFbW9Sa3lFeEE5VWVMS29wcEJQOXB0aDFjcThXY3dUa0NVWmFQRjlqLVpUYUhrY3hxVk5TU1lvOEpseVhmeDFxUzdXYjNXdUs2VXZTZUlMVE9yV1dLOG5UVlBwZE5ZREUzMVd00gHMAUFVX3lxTE81dFhoSWtWell4cjlsMkpuTzFXNmIzSXRzYXlTVTB2a1A2Wm56SDJrNUxBSVhpRmpBTzg1eUF4U2VORUc5UW1xTHkzWnllOEVVc08zVks0dW1oZ3dQMXZSb0pqZjA2cXRLc3oyN2g4T2hTVmlKMUdxUUp2X1kwc25OMG1BR29MMVRxV1BYTUc2ODdYNlJJMUx4M0F0Zkk1Mkg0NFJzbmNCamdqN3cxUVVfaFJBcHYtNTh6WE1ZOU40VHFoSHUwbE5uTm93Zg?oc=5",
-        "source": "Jornal da Paraíba",
-        "publishedAt": "2026-11-04T17:48:13.000Z",
-        "summary": "Homem suspeito de usar registro profissional de médico da PB para atuar no RN é preso Jornal da Paraíba",
+        "title": "Estudo revela impacto financeiro do câncer na vida dos pacientes",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWRZYnVZcl8tVnliazAwUnQ5RGVYaVZoRl9EdWFqeGVscWo1ckpTcGdtdTZYcEpUWlF3c1RRYnVSOVBsZ1FVVTYwUXJBcUlLVG5aa1h3T01wV282c2hCTHZVdko0WkZDeUxtXzVkRGV6NXVNMkxnUzFZSGZObmJMSU5zcFRXV2VYY3V4cXIzTkp0Z1doeXJIaFVaY29Fb1A4?oc=5",
+        "source": "The Conversation",
+        "publishedAt": "2026-11-05T12:00:57.000Z",
+        "summary": "Estudo revela impacto financeiro do câncer na vida dos pacientes The Conversation",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 3.3,
+        "score": 4.67,
+        "relevance": 5
+      },
+      {
+        "title": "Médico preso em Caaporã será investigado pelo Conselho Regional de Medicina da Paraíba",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTVdXcDhWTFVWLWk1WXlJS3BPMjRTUGJabmJWcTFNUG5TSndSclBhR2swMlYzMTFxVGpva1cwNVZQbk9mTGJMcnRGc2pGVFg0b0M4R1lOQWQ3dEJHUVRhYXFnQUwtVENPek1VSEZZYjdXclpUdFBNZkVTMm1zYzF0VlZSeEhnRWVJeVN4UFl3?oc=5",
+        "source": "WSCOM",
+        "publishedAt": "2026-11-05T11:27:48.000Z",
+        "summary": "Médico preso em Caaporã será investigado pelo Conselho Regional de Medicina da Paraíba WSCOM",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.57,
         "relevance": 5
       }
     ]
