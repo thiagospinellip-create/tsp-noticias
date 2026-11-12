@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T23:55:01.299Z",
+  "generatedAt": "2026-11-12T05:12:11.140Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -40,8 +40,34 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 9.35,
+      "score": 7.63,
       "relevance": 14.8
+    },
+    {
+      "title": "Senado deve votar pacote de medidas fiscais nesta quinta; governo fala em um impacto de até R$ 60 bi",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/12/senado-deve-votar-pacote-de-medidas-fiscais-nesta-quinta-governo-fala-em-um-impacto-de-ate-r-60-bi.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-12T03:00:00.000Z",
+      "summary": "Governo envia ao Senado projeto com medidas de ajuste fiscal que prevê economia de até R$ 60 bilhões em 2027 Jornal Nacional/ Reprodução O Senado deve votar nesta quinta-feira (12) o Projeto de Lei Complementar (PLP) com as medidas de ajust",
+      "image": "https://s2-g1.glbimg.com/aFyt9atNwn8z10EZHJs52x38SCQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/J/du7getRTiSIxK0RB3KeA/globo-canal-4-20261111-2000-frame-56675.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.17,
+      "relevance": 7.8
+    },
+    {
+      "title": "Lucro líquido do Banco do Brasil cai 65,6% no 3º trimestre, para R$ 1,3 bi",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOE5vN18tTUYwcjBqTEVzUlZmcUxCeVEtN3NlcDlhajZ4U2J3dm9OaXlQdFBBdTFUWF9qNnVvWXN4T29VZjVzVmhnVzVlTFNQSlVMN0ZQY1FTSHhTeU5xVTlGYjJ3dDFtWlRwY1huOUtBRHNTSHh6VXZ2RVZFa1JfYnZVeG55blJsc3d3aDZFdlFYYmJCN0NSMFo1Z1hia3lnSlZ1NnJueGtzcUFkTHRPaThyQQ?oc=5",
+      "source": "UOL Economia",
+      "publishedAt": "2026-11-11T22:41:27.000Z",
+      "summary": "Lucro líquido do Banco do Brasil cai 65,6% no 3º trimestre, para R$ 1,3 bi UOL Economia",
+      "image": "https://s2-g1.glbimg.com/R4ggIHKWYztueiRDHfdHnd-61f4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/H/lsZOTVQ469nfB0PF2iXA/montagem-horizontal-1280x720px-28-.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7,
+      "relevance": 9
     },
     {
       "title": "Presidente da Turquia chama guerra em Gaza de 'ecocídio' durante cúpula climática da ONU",
@@ -53,13 +79,13 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 8.46,
+      "score": 6.9,
       "relevance": 10.6
     },
     {
       "title": "CEO da Nvidia teve outro caso extraconjugal, com executiva da empresa, diz jornal",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/nvidia-novo-caso-ceo.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-11T22:09:58.000Z",
       "summary": "Affair, espionagem e chips: entenda a polêmica envolvendo o CEO da Nvidia O presidente-executivo da Nvidia, Jensen Huang, teria mantido outro relacionamento extraconjugal, desta vez com uma executiva da própria empresa e que responde direta",
       "image": "https://s2-g1.glbimg.com/KHAYXnFNw9TMiNyASv2as4vHkqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/S/TKeMkiRcKerUXLt8uFiQ/ap26312766429671.jpg",
@@ -67,74 +93,48 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 8.04,
+      "score": 6.56,
       "relevance": 8.6
     },
     {
-      "title": "Galípolo cita incertezas e diz que BC decidirá sobre juros 'reunião a reunião'",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWY4MnVYRktqMWwwcWRuWlFGUHBBVVVlcEdVb0RtNXlFLVpVb3FwYi0zYjFYcm45R3FHNTgwNEFvaE1UYWVLY3VqVFZhSHIxUXIzYndYUnZFRUw0S3BOclJLNWJpcTRndFkySlVQY3hBSDZpSmRrb09wOGMtQUVWZ3AzeFNHWmZEdGNEZtIBmwFBVV95cUxPZGRLUFRPcXo5clNVVGtNajNWdUh4ZnNJM3JfNDBBcDhudlRQZjhVSkl6Q0R5RjVobE9VdVlIeFJtVVo3cHduenhlVy1IM2xid0dOcmhpSWFyZ3hxa3hfdnBfZXlab090RkRTVGw5YW5WcnhHaTdVUjJWSXBvRGVoVy1Wbm5HNmhnV2x0SFdQOGJOVzAzNlJQNkpVRQ?oc=5",
+      "title": "Diretor vencedor de dois Oscars fala dos efeitos da ficção sobre a realidade em seu novo filme: 'Como fake news'",
+      "link": "https://g1.globo.com/pop-arte/cinema/noticia/2026/11/12/diretor-vencedor-de-dois-oscars-fala-dos-efeitos-da-ficcao-sobre-a-realidade-em-seu-novo-filme-como-fake-news.ghtml",
       "source": "G1",
-      "publishedAt": "2026-11-11T20:12:49.000Z",
-      "summary": "Galípolo cita incertezas e diz que BC decidirá sobre juros 'reunião a reunião' G1",
-      "image": "https://s2-g1.glbimg.com/P3B69GSs-Jw9Lu241vXPo9fklzI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/X/myvw7UR5GDkKTcY3j6ew/55195216496-a7642f0565-k.jpg",
+      "publishedAt": "2026-11-12T05:00:00.000Z",
+      "summary": "O cineasta iraniano Asghar Farhadi, vencedor de dois Oscars de Melhor Filme Internacional por \"A Separação\" (2011) e \"O Apartamento (2016)\", discute os limites entre realidade e ficção em seu novo filme, \"Contos Paralelos\". Esse é o seu pri",
+      "image": "https://s2-g1.glbimg.com/CV6J8VJUNFhacD4mmPsLPpjxTuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/2/rK3u5hREKqx88PxsWitg/parallel-f02cor-2026117533.jpg",
       "topics": [
-        "negocios"
+        "cinema"
       ],
-      "score": 7.8,
-      "relevance": 9
+      "score": 6.55,
+      "relevance": 6.6
     },
     {
-      "title": "Quem era Alexander Darchiev, embaixador russo nos EUA que morreu 'repentinamente' aos 66 anos",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/11/quem-era-alexander-darchiev-embaixador-russo-nos-eua-que-morreu-repentinamente-aos-66-anos.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-11T18:15:53.000Z",
-      "summary": "Alexander Darchiev, embaixador da Rússia nos EUA Divulgação/Embaixada da Rússia nos EUA Alexander Darchiev, o embaixador da Rússia nos Estados Unidos que morreu \"repentinamente\" enquanto ocupava o cargo, foi nomeado para a posição em 2025. ",
-      "image": "https://s2-g1.glbimg.com/bPyMKT_3sFUpj5jHOzclPNXgMDw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/a/TKHyyqQPemXw2LfnLncg/fotojet-2026-11-11t134101.295.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 7.56,
-      "relevance": 9.4
-    },
-    {
-      "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime, Apple TV e mais",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORlFVbDYwbzFjclNOWXRkYVRGX1JMUG5rOUtheHgxVnpETzEySWkyaExJRllYaFlRc2MwZFdqUXN2VHVua1NZbXhGeEh4VklaUHpoZ1QtMUJoZEtlSUFrQi1RX2VjYzhWZDV3MVJCbGFxV3FLN3Z1cnBiWGluY19INkpvTTBXOFRmVHlUNEw4TDRXZEMzRmtlNFB6YlRidUo4eUExVHJNby16aXJITUt2Vkt5MmtYZ0N2RmgzY0RjN2pYc2ViT1dqVWFEUTd3MTViNVozSXZZVdIB3AFBVV95cUxQS003YVM0bFpYY2s5UHFXMGJUMmk5dnpSM0ZxSk5RMjlCWnowU1hrbHV2Y0xlRFI5T1BvYXdVVzFMMGVoLTZ6VjFTZU5xdHhSaWh5anl2TmRVdHFXQV8wbjhOSHpWRTRjVkVUUmdZZVNVMHlWRDhsSXU0enc4Vk9HTUtzM3dCblRHZl9ld2p1eHotN3h6bVB4YjV0Ml8tOXowUGxnYUtBV0JkbC15dnZvN3MwbVJzSkJqekFrS3ZqSXp4ckJ0REN5d09VUFZmLWZJVjFrRTktbUVHUmlT?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-11T22:15:00.000Z",
-      "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime, Apple TV e mais Estadão",
+      "title": "O que assistir no cinema? Confira os filmes que estreiam nesta semana",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1E1ZWplaTNjYmp2Sm44TXBudFhqREVYV1pQckJJUWN5Y25uTE9BQWN6eEl5VDlpWGhsZjBXNUVuejl2aTdmWHBHSlV1QzdyMDkwMzFlaHgycGFNVDcwNkJlNGFGWjRLU2gxQV9PZ3kyQU1sSFVuTEhoc3UxOTNJdmYwM0ZxUjVJUWFpMFdSMjRvRHJkeFBrUWUwemtJQWZJTm0wOG5PMy1RSGFjVzdjUVBCYjRud3NySmpXdkdiUHRxSkNhZUg3YmctMVYxQ3poaVFKZjZlX3ZOa0xVZVR5TlBGOXdQZmcy?oc=5",
+      "source": "GZH",
+      "publishedAt": "2026-11-12T03:11:15.000Z",
+      "summary": "O que assistir no cinema? Confira os filmes que estreiam nesta semana GZH",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 7.5,
-      "relevance": 8
+      "score": 6.48,
+      "relevance": 7
     },
     {
-      "title": "OAB/MS debate novo marco do Banco Central e economia digital na Rota Bioceânica",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmQ4RkZqOUJqb05JcGJLVUcxTDJoZ2k4NWNyVGp0Sm16aWRPYzdyZXVfa3RiUC1TbjZlTnNEYjlwXzJNb3NtTU50dXBUT3lWTndVY054VGF6S0ZJZnltX0FkdVZzaWo1WFlYZmFnN0RXeU95ZkFKZzVBZVJQMEs5ZE1LOGpDMDNKeWpZX29qaVExUVJfb1VRaWpDc0owWmNFWkFZby1YMmR3R2ZLNEVvMERVZC1ZT0p4MFRGLXBMeG1JS25DNEVEYzlUclRlNHpRQ3BBQVRzaTJtakc5ZGVMTEdrMFpINnpC0gH3AUFVX3lxTFB6VXVickFtTnBPMjBSbkdiN1VJNDNLeU52SXJjS091dld3ZE1jdmtHekMtVXhWczJSak5YaU8tWFNWdXViOHByZEZiUTk4emJ6alJIRVFId1pVV3ZCOXRXVnZTTno4TDRxVmtTZ0ZGTzdpdkRITmprX1o3dnk3NFJOanJscndabWZtNnpGSjNSWmF0SnE0Z0lMQWlNWmlXSi1feDR2OGxuZ1BzUHN4dEJpUnNwbjhuT0ZKXzQ0RC1GM3ZIdGxzdWdSaTRFTDRqYXZCblRPV3Y2MTNGbFFidUFQUUI2UUFNcVFONXZkc3daU2N1TW4yTVE?oc=5",
-      "source": "Valor Econômico",
-      "publishedAt": "2026-11-11T20:18:30.000Z",
-      "summary": "OAB/MS debate novo marco do Banco Central e economia digital na Rota Bioceânica Valor Econômico",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.31,
-      "relevance": 8.4
-    },
-    {
-      "title": "The Economist pede saída de CEO da Nvidia após caso extraconjugal com suposta espiã chinesa",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/the-economist-caso-huang-nvidia.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-11T20:45:02.000Z",
-      "summary": "Jensen Huang, CEO da Nvidia, durante evento em Washington Julia Demaree Nikhinson/AP Photo A revista britânica The Economist publicou nesta quarta-feira (11) um artigo de opinião em que pede a saída de Jensen Huang do cargo de CEO da Nvidia",
-      "image": "https://s2-g1.glbimg.com/KHAYXnFNw9TMiNyASv2as4vHkqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/S/TKeMkiRcKerUXLt8uFiQ/ap26312766429671.jpg",
+      "title": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnEwMHJBWmdMWkJCNUk5UUdkcm45ei1lMExHNVNCS25LcWlSNEFaNTBzWFBhaUV0dzRqcmpXTldnSEEwT3l1MklMeURZUUpqdENXcXQtV3R0b0dKeEY1SGxVTUpWRW42Uldic2dTRjdTU3VXc0lIR2EySFBEdjBMamd3bkNvaFVDaERTTEY1eGlZYVpvcWZIU1BuVW9penlvNFJYa0JDTm5fZE0?oc=5",
+      "source": "BOM DIA SOROCABA",
+      "publishedAt": "2026-11-12T03:06:00.000Z",
+      "summary": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro BOM DIA SOROCABA",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 7.08,
-      "relevance": 8
+      "score": 6.46,
+      "relevance": 7
     }
   ],
   "items": [
@@ -149,8 +149,34 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 9.35,
+      "score": 7.63,
       "relevance": 14.8
+    },
+    {
+      "title": "Senado deve votar pacote de medidas fiscais nesta quinta; governo fala em um impacto de até R$ 60 bi",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/12/senado-deve-votar-pacote-de-medidas-fiscais-nesta-quinta-governo-fala-em-um-impacto-de-ate-r-60-bi.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-12T03:00:00.000Z",
+      "summary": "Governo envia ao Senado projeto com medidas de ajuste fiscal que prevê economia de até R$ 60 bilhões em 2027 Jornal Nacional/ Reprodução O Senado deve votar nesta quinta-feira (12) o Projeto de Lei Complementar (PLP) com as medidas de ajust",
+      "image": "https://s2-g1.glbimg.com/aFyt9atNwn8z10EZHJs52x38SCQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/J/du7getRTiSIxK0RB3KeA/globo-canal-4-20261111-2000-frame-56675.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.17,
+      "relevance": 7.8
+    },
+    {
+      "title": "Lucro líquido do Banco do Brasil cai 65,6% no 3º trimestre, para R$ 1,3 bi",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOE5vN18tTUYwcjBqTEVzUlZmcUxCeVEtN3NlcDlhajZ4U2J3dm9OaXlQdFBBdTFUWF9qNnVvWXN4T29VZjVzVmhnVzVlTFNQSlVMN0ZQY1FTSHhTeU5xVTlGYjJ3dDFtWlRwY1huOUtBRHNTSHh6VXZ2RVZFa1JfYnZVeG55blJsc3d3aDZFdlFYYmJCN0NSMFo1Z1hia3lnSlZ1NnJueGtzcUFkTHRPaThyQQ?oc=5",
+      "source": "UOL Economia",
+      "publishedAt": "2026-11-11T22:41:27.000Z",
+      "summary": "Lucro líquido do Banco do Brasil cai 65,6% no 3º trimestre, para R$ 1,3 bi UOL Economia",
+      "image": "https://s2-g1.glbimg.com/R4ggIHKWYztueiRDHfdHnd-61f4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/H/lsZOTVQ469nfB0PF2iXA/montagem-horizontal-1280x720px-28-.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7,
+      "relevance": 9
     },
     {
       "title": "Presidente da Turquia chama guerra em Gaza de 'ecocídio' durante cúpula climática da ONU",
@@ -162,13 +188,13 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 8.46,
+      "score": 6.9,
       "relevance": 10.6
     },
     {
       "title": "CEO da Nvidia teve outro caso extraconjugal, com executiva da empresa, diz jornal",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/nvidia-novo-caso-ceo.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-11T22:09:58.000Z",
       "summary": "Affair, espionagem e chips: entenda a polêmica envolvendo o CEO da Nvidia O presidente-executivo da Nvidia, Jensen Huang, teria mantido outro relacionamento extraconjugal, desta vez com uma executiva da própria empresa e que responde direta",
       "image": "https://s2-g1.glbimg.com/KHAYXnFNw9TMiNyASv2as4vHkqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/S/TKeMkiRcKerUXLt8uFiQ/ap26312766429671.jpg",
@@ -176,8 +202,74 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 8.04,
+      "score": 6.56,
       "relevance": 8.6
+    },
+    {
+      "title": "Diretor vencedor de dois Oscars fala dos efeitos da ficção sobre a realidade em seu novo filme: 'Como fake news'",
+      "link": "https://g1.globo.com/pop-arte/cinema/noticia/2026/11/12/diretor-vencedor-de-dois-oscars-fala-dos-efeitos-da-ficcao-sobre-a-realidade-em-seu-novo-filme-como-fake-news.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-12T05:00:00.000Z",
+      "summary": "O cineasta iraniano Asghar Farhadi, vencedor de dois Oscars de Melhor Filme Internacional por \"A Separação\" (2011) e \"O Apartamento (2016)\", discute os limites entre realidade e ficção em seu novo filme, \"Contos Paralelos\". Esse é o seu pri",
+      "image": "https://s2-g1.glbimg.com/CV6J8VJUNFhacD4mmPsLPpjxTuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/2/rK3u5hREKqx88PxsWitg/parallel-f02cor-2026117533.jpg",
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.55,
+      "relevance": 6.6
+    },
+    {
+      "title": "O que assistir no cinema? Confira os filmes que estreiam nesta semana",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1E1ZWplaTNjYmp2Sm44TXBudFhqREVYV1pQckJJUWN5Y25uTE9BQWN6eEl5VDlpWGhsZjBXNUVuejl2aTdmWHBHSlV1QzdyMDkwMzFlaHgycGFNVDcwNkJlNGFGWjRLU2gxQV9PZ3kyQU1sSFVuTEhoc3UxOTNJdmYwM0ZxUjVJUWFpMFdSMjRvRHJkeFBrUWUwemtJQWZJTm0wOG5PMy1RSGFjVzdjUVBCYjRud3NySmpXdkdiUHRxSkNhZUg3YmctMVYxQ3poaVFKZjZlX3ZOa0xVZVR5TlBGOXdQZmcy?oc=5",
+      "source": "GZH",
+      "publishedAt": "2026-11-12T03:11:15.000Z",
+      "summary": "O que assistir no cinema? Confira os filmes que estreiam nesta semana GZH",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.48,
+      "relevance": 7
+    },
+    {
+      "title": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnEwMHJBWmdMWkJCNUk5UUdkcm45ei1lMExHNVNCS25LcWlSNEFaNTBzWFBhaUV0dzRqcmpXTldnSEEwT3l1MklMeURZUUpqdENXcXQtV3R0b0dKeEY1SGxVTUpWRW42Uldic2dTRjdTU3VXc0lIR2EySFBEdjBMamd3bkNvaFVDaERTTEY1eGlZYVpvcWZIU1BuVW9penlvNFJYa0JDTm5fZE0?oc=5",
+      "source": "BOM DIA SOROCABA",
+      "publishedAt": "2026-11-12T03:06:00.000Z",
+      "summary": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro BOM DIA SOROCABA",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 6.46,
+      "relevance": 7
+    },
+    {
+      "title": "Tormenta nas ações de tecnologia reduz ambições bilionárias de Anthropic e OpenAI e aumenta cautela de investidores",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQN1JPVnpra0V5YTJ6Y3pPTy1pZFA3ZWRYODNyN2NnU3NqV213UzRRNDVDSHFfdlNMbnRzWVdxN2tjLWlPNFhXOGgxVlBZTGVQT1g1OVgtaWdKY3lFZ1JaMDRaZVBWUDgzUlJqR2hCOGoyXzYzc1JZU1JwYXZpVHlHRjZSMVY1bkx5eHR6NWJUbThMWkJGWnlLOFBna1A3R3N2MzJKYjJlY2ZkZUhfdmFvRnpQaGxTTk9OelJLSXM3Q1Y4VTF3N0owYWVtdTVHa05jeHBrRVhBaW94WHBLV2NLbTczZUZEY2g5RmZnWDRmQ09MdGlFYkhtQ1BRak9yY3pkcTVtbWlsdHhnRi15Ty1OTNIBnwJBVV95cUxNOHdPdHdUSk9ELXM0MnJSVmsyV3pMMnN3V2hpdjByVURBY29GYXFKa0dJcXotX0lXQUVLX1IwN05fRjdCTHBEekd3dUh2UnFoMC1rcGF4N1pwUVZzdzU2dnVsZDNIeUdGV24wWFpyOFVRWXUwajlxWmpYUFFBVzEta3BwakFvWjA3TXhUNkV4UExSRkVpR3hkeUdGdGcyVklheGg3Ri1KdzJKM3JGak1QcnBDam5hT2lXUHZnZXZtcFlUYmFvQ2Rid2RJWHJoNmJtSTZJWjE1WUlNODNRbWliT0F2N2NqT3FrRzNnMy1nWTRTSExYMVFuZTdQNHh4Yzh6RWxjNllfZ1QtY2VXdm1aeml2cUFjaTRyajhYOW5uOA?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-11-12T03:00:00.000Z",
+      "summary": "Tormenta nas ações de tecnologia reduz ambições bilionárias de Anthropic e OpenAI e aumenta cautela de investidores O GLOBO",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.43,
+      "relevance": 7
+    },
+    {
+      "title": "Programa abre inscrições para negócios da bioeconomia na Amazônia com investimento de R$ 7 milhões",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/11/programa-abre-inscricoes-para-negocios-da-bioeconomia-na-amazonia-com-investimento-de-r-7-milhoes.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-12T02:11:46.000Z",
+      "summary": "Programa abre inscrições para negócios da bioeconomia na Amazônia com investimento de R$ 7 milhões. Divulgação A Jornada Amazônia abriu inscrições para uma nova fase do programa Sinergia, voltado ao apoio de negócios inovadores ligados à bi",
+      "image": "https://s2-g1.glbimg.com/ehXDXPPawB3Rbk0H2150vhoZr4Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/r/yWL8WGSfKpflGPlsfbtw/whatsapp-image-2026-11-11-at-21.01.07.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.41,
+      "relevance": 7.2
     },
     {
       "title": "Galípolo cita incertezas e diz que BC decidirá sobre juros 'reunião a reunião'",
@@ -189,7 +281,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 7.8,
+      "score": 6.37,
       "relevance": 9
     },
     {
@@ -202,7 +294,7 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 7.56,
+      "score": 6.17,
       "relevance": 9.4
     },
     {
@@ -215,7 +307,7 @@
       "topics": [
         "cinema"
       ],
-      "score": 7.5,
+      "score": 6.12,
       "relevance": 8
     },
     {
@@ -228,8 +320,21 @@
       "topics": [
         "negocios"
       ],
-      "score": 7.31,
+      "score": 5.96,
       "relevance": 8.4
+    },
+    {
+      "title": "Sicredi Recife e Movimento Econômico fazem evento sobre economia e investimentos",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOczZaenhyRFhJYlZuWHFsZXhNcjVkZjZER1JPOXpEVjRMVkxrQ2pMYzk3YkhjR0ZUQ28xZ2JtUWhqREY3dndSSDZiUXIxWVNpM0ZybDV3d2FiVHFQc1J5aUdwT2diUVY0UVRaS3RMMVJXWkFDNkRFTm9vdHo3RHhVVGlQVGFrZnd0TVotcjFGNUFqWWx2UjBQbnV3QzB2Q1E4WTk3UzRmSFJNaHVaTE56UU1wdUUzRUVfNGpSSjdDNXhRQm9ncFdtbENNSTV3MDQ?oc=5",
+      "source": "Movimento Econômico",
+      "publishedAt": "2026-11-12T00:54:12.000Z",
+      "summary": "Sicredi Recife e Movimento Econômico fazem evento sobre economia e investimentos Movimento Econômico",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.93,
+      "relevance": 7
     },
     {
       "title": "The Economist pede saída de CEO da Nvidia após caso extraconjugal com suposta espiã chinesa",
@@ -242,22 +347,60 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 7.08,
+      "score": 5.78,
       "relevance": 8
     },
     {
-      "title": "Exército Brasileiro reúne coronel e empresa de defesa para discutir como a inteligência artificial pode transformar decisões na guerra",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQWhaelZDbUJQVU00THQyYk5LSlFCa1JHVmtHMWU0dmF4c0x6VVF2Z0RzLWxHT1Y1SzNUMXRpMU80V0xTVnhxd09UNDZOSHJFcGVUaHkteW94QkswYjdKbmo2QjRDRlZDWjRZb2NCRndpbDZvdDlRSkJxZ0c2d1c3bVNWNVRCR2tCT0dRd2F2WW9aYXE4UXktaWRtd3lyUEx2RV9fbTVNampXczR3ZW5lTkdQVExYUjdMVUZSaWExLTNKZDhCclMwZndodmxzMGhPRHlZMWV3cktpRHZkdG1ZUFQ1UmlwRk9GTC1KWmV3ZDRzQXA3UGpPNWp1MV9yOUg0ME01SnQ3d1BTWVRm?oc=5",
-      "source": "Revista Sociedade Militar",
-      "publishedAt": "2026-11-11T23:44:00.000Z",
-      "summary": "Exército Brasileiro reúne coronel e empresa de defesa para discutir como a inteligência artificial pode transformar decisões na guerra Revista Sociedade Militar",
-      "image": null,
+      "title": "Casa Branca diz que investigar governo Trump pode ser crime e ameaça democratas",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/12/casa-branca-diz-que-investigar-governo-trump-pode-ser-crime-e-ameaca-democratas.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-12T05:00:01.000Z",
+      "summary": "Donald Trump REUTERS/Evan Vucci A Casa Branca advertiu o deputado democrata Robert Garcia, que deve assumir a presidência do Comitê de Supervisão da Câmara dos Representantes dos Estados Unidos, que investigações contra o governo de Donald ",
+      "image": "https://s2-g1.glbimg.com/_ySC3AJPAaBv7HIHuZ7ifRv55FA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/K/U6aRy9SYK029x6BuqWvQ/2026-11-04t181903z-2063892830-rc25hoadtk1m-rtrmadp-3-usa-trump.jpg",
       "topics": [
-        "negocios",
         "geopolitica"
       ],
-      "score": 6.95,
-      "relevance": 7
+      "score": 5.75,
+      "relevance": 5.8
+    },
+    {
+      "title": "Americanas tem prejuízo de R$ 352 milhões no 3º trimestre",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KRlRLRlNnNXFza2FWR29mNTRDVDhjbXJlTm8yZXp6WklaMUI5ZUd0MEt2WlhpODZtang2OHVHZHNOdl9XX3o1WlpEdjc3LTc5dDFtT2VyWnRlMU03cEJjZjFvcDNSWW1UN3pDZUxTTjU3YUJSb1pRVVRzY3h0ZFXSAY4BQVVfeXFMT3JIYU5sSGNTZFRqT1VQTkp5ZkRUX2dzbTQxYWpaejNadms5cUR0VmRfQ3JTT3BVbzRUc0gwOTltZktBM0VSd1NGUFJpUXBPQm4zdHlKWjNTV2U1NVNrSVpSNnd2aktfLXdzcEg4MS00RDgwVGtvaE90WkowUGw5SEdyOWxUR2F3V1RHVk96Zw?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-12T01:15:50.000Z",
+      "summary": "Americanas tem prejuízo de R$ 352 milhões no 3º trimestre G1",
+      "image": "https://s2-g1.glbimg.com/4IG-veu1XWSrheIAsU7RWbOw2_A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/m/j/Yyd6iURFC27KBmNzNpJw/whatsapp-image-2023-11-24-at-07.30.15.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.67,
+      "relevance": 6.6
+    },
+    {
+      "title": "Unifique (FIQE3): operações em linha, com lucro beneficiado pelo resultado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2s1SDM1ZzBjb0ZDMVV6ZDU1LW85VW4zZTRzRUtGMDh6N2cydUtYTU5rYUR6THd6TzF6OWdBZlVBMnN2RlVUcExSV1loNWFZMlN1Z3lxblhTamQ0dVQzQ2MzSFNma3dkNjkzbU40cGs0VlMxQTE4Wm5XbFFhWXdGYmZya182NlBCY1cxTlBCWE95VzBNX25wRGQzcWZILWRGZDh1U2ZNeVlHVDZWa3NQQ0RtODY5YlM5WUtKT0lDeHU1b2VHUG1r?oc=5",
+      "source": "XP Investimentos",
+      "publishedAt": "2026-11-12T01:55:28.000Z",
+      "summary": "Unifique (FIQE3): operações em linha, com lucro beneficiado pelo resultado financeiro XP Investimentos",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.64,
+      "relevance": 6.4
+    },
+    {
+      "title": "Filme ”Ebenezer e os Fantasmas do Natal” estreia nos cinemas de Goiânia",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbmxRQVRjbDlGbVl6dVpzWEx4YjhNa2cxdkZ3dHJnSVZUd3lWV2tyQTZ5VUFuMlB5STJTRzBCdWJoYVluWlU1aklZX1lhcjYwaEZGV21RU01aY2plUnJxdmJPQnl2bkZaM1FKQmpWcExOeTBJSk44a2FHMk1keUJMSUdBUlY2RHI2b0pGUmdFS1hpbEZsSlA0NVV3?oc=5",
+      "source": "A Redação",
+      "publishedAt": "2026-11-12T03:30:53.000Z",
+      "summary": "Filme ”Ebenezer e os Fantasmas do Natal” estreia nos cinemas de Goiânia A Redação",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.62,
+      "relevance": 6
     },
     {
       "title": "Irã ameaça atacar bases dos EUA na Europa se forem usadas contra o país",
@@ -269,21 +412,21 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 6.87,
+      "score": 5.6,
       "relevance": 8.4
     },
     {
-      "title": "Lucro do Banco do Brasil cai 66,5% no 3º trimestre, para R$ 1,27 bilhão",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/11/banco-do-brasil-bb-resultados-3t26.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-11T23:03:11.000Z",
-      "summary": "Banco do Brasil Divulgação O Banco do Brasil registrou lucro líquido ajustado de R$ 1,27 bilhão no terceiro trimestre, uma queda de 66,5% em relação ao mesmo período do ano passado. O resultado ficou abaixo das expectativas do mercado. Proj",
-      "image": "https://s2-g1.glbimg.com/R4ggIHKWYztueiRDHfdHnd-61f4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/H/lsZOTVQ469nfB0PF2iXA/montagem-horizontal-1280x720px-28-.jpg",
+      "title": "Prefeitura traz para o balneário Cassino o Festival de Cinema Francês do Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMWpEZzFRdllwWVo1M0NuMTFicC1qZGJCR2txaERQcVNJa0FpcUxCdzVDX2tsdTZhUmpudmRBQzFQUHR3ME04Mzg1Z0FoUlVvcWRnSFFWZE5PMkxxakMtbVJyeWlBUEYxVXpVWUxyN0NkTnNCX2xabXRTLTNMRE4zT1BXckdRejNYZFVxTDVhSzFkRUZ2T0o1WnZ4a1dqS0prZ1VyYjJpOW9SSDNDMHFZaktMUXlzUVBmZXU3R1JLb3lma2lqVlBwUEF0ak1XSk1RM0tyRnhGbnpGN0ZlRjJLRHpn?oc=5",
+      "source": "Prefeitura Municipal de Rio Grande/RS",
+      "publishedAt": "2026-11-12T03:12:28.000Z",
+      "summary": "Prefeitura traz para o balneário Cassino o Festival de Cinema Francês do Brasil Prefeitura Municipal de Rio Grande/RS",
+      "image": null,
       "topics": [
-        "negocios"
+        "cinema"
       ],
-      "score": 6.77,
-      "relevance": 7
+      "score": 5.56,
+      "relevance": 6
     },
     {
       "title": "BScash Empresas leva fintech do Grupo BSPAR ao mercado de pagamentos de pequenos negócios",
@@ -295,48 +438,61 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.77,
+      "score": 5.52,
       "relevance": 7
     },
     {
+      "title": "Prêmio de Cinema apresenta cinco filmes nesta quarta-feira em Campo Grande",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2NfNDBBX1JsbUtjSEdDbFhaUmV3MkdKVkRmRXd3bmlQbDJBV05haTA2Um85UGJGV1BPUGw2cm1RYmItd0ljdHZLOEFCbjMteDhBd2lOdGRjb1gydTYtR08yTFFaU2wxd3RNR2xlZjZqbWRubEVTeEQxOTNWOVk0dHJUNm9PYkpYZU9RekU2YmlEakpfUGpSWHhXdUpsYUVJSDFJWkFtQkRRMmVJ?oc=5",
+      "source": "REDE BRASIL DE TELEVISÃO",
+      "publishedAt": "2026-11-12T02:44:07.000Z",
+      "summary": "Prêmio de Cinema apresenta cinco filmes nesta quarta-feira em Campo Grande REDE BRASIL DE TELEVISÃO",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.46,
+      "relevance": 6
+    },
+    {
+      "title": "Projeto DJ Classic forma novos DJs e impulsiona a economia criativa no Distrito Federal",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOb1R4cmQ5N2dyRU5IT3V6Ujl3bWpKQUM4LVd3VWxoZ0JxR0VZcjZVeEdfRnI3T3JrNGRndW9MRDY2VzYzRkFFUzljMmNIQ3Nfb3cydzVNUWppYWcxZ3U3ZlFibzNSakFfUVE2OU5hOTkwVENlVlpCdUFOVFFMbmYzZG1mOHg5WHpfODJHZy1rVGhTSXV0dVRiV0VhYzVHM3VXTmFhY2dXSWlaLVVzTUlvaTNHT2pOQTk0WUc1YS1WQ2lxU1lZ?oc=5",
+      "source": "Visite Brasília",
+      "publishedAt": "2026-11-12T02:22:03.000Z",
+      "summary": "Projeto DJ Classic forma novos DJs e impulsiona a economia criativa no Distrito Federal Visite Brasília",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.38,
+      "relevance": 6
+    },
+    {
       "title": "Limite de supersalários, mudanças no piso da saúde; veja as medidas do governo para ajuste fiscal de até R$ 60 bilhões",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUjFRMEU4bFN1ZVIyd045eDVSdGFBSm1sSjZIaHdwamRsYUE5eXBRbDhyRk5SeGdOMmNSUnlUMGtocHRXQ0xYVzRrTG1sZ2lKZWxvd085c1QwVXFFNnQyeklSamNsVmZTQkk5ZmF1Zy15M25YNFRTZlgzZU9nYUVUTEltVXN4VXlPN0JlbVJHZXdNSTVvSnYxNU1VUS1udnBETmhMMUk5T3JwbFVSemIxZ2FuMllHUk8tQmJHV1VGMVVFc0FKSzV1YVRicjVCSWNORHRabmNBOUF6X1JsRHF3VDBXbkg2NDQ4Zjlfb0xXS0FxVjlObUkzc1hSc1kwMEXSAY4CQVVfeXFMUEU3bUZfLTZMTFpPYm9adVVJVEZ6ZGNzM3JwbWpzSXVWSU4xeDFRZnp6VjJIaW8zdGRMVTJheUxXNmY0dGJ0MGlueWZjQVZ4WTUzQ0ZTY21XY3VtcTJlbWx1ZF9OMUI1QjZRSzZBeW0wS2FvVmV1UnJaOFdaMmc3aXltWEZFM2MwT1NMTXVsUDdIN1RVMWVoZUFsSWFFUXFiMzk3YndvUW96NXVZQnFsT2JYcjE2S2VPN08ta2d5bmFPc29ybUxzMDZXdHVSVTlEb0w5Q013T194ajM5ZGZNekMwYXNLbmFhV0FBNDFhcG5paV9vSU9QelFCbnkyME1KajJmakhybnU4U3Jmc1VB?oc=5",
-      "source": "G1",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/11/limite-de-supersalarios-mudancas-no-piso-da-saude-veja-as-medidas-do-governo-para-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-11T22:03:09.000Z",
-      "summary": "Limite de supersalários, mudanças no piso da saúde; veja as medidas do governo para ajuste fiscal de até R$ 60 bilhões G1",
+      "summary": "Fazenda: ajuste fiscal sem estelionato eleitoral O senador Jaques Wagner (PT-BA) apresentou nesta quarta-feira (11) um projeto com medidas propostas pelo governo do presidente Luiz Inácio Lula da Silva (PT) de ajuste das contas públicas. A ",
       "image": "https://s2-g1.glbimg.com/wzhUpv_3D2f9m3uoUQq2dx6fSMI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/o/y/29JELRQFA3z5v34XwFJw/foto-paulo-h-carvalho-1920x1280.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 6.52,
+      "score": 5.32,
       "relevance": 7
     },
     {
-      "title": "O que assistir no cinema? Confira os filmes que estreiam nesta semana",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN25FYW13azk4ZUpaNk9CbmxaRmYxMHJqTTNVTlBSY1ZXOU5JWDBCN1NxczA1NzBtUURKcm9zVGlFUmVDdUdPSk9YREI4bmw4M28yWEE1elVoMmx6RVBZSkZxVWtJVWQ3dmxiZl92NmQxZ21RSU5WS05Fb2tWaExScXlFU0tOLUliYUloaUVpblRvMGJpeHdoNHFCSThIZjk3TkZNTnlnMC1vVFdnLVdkbTJTZzVCTDhtQ1hRdERIbnp1R2RWb2gxSFczVlUyNzVSa1pDYWoyZGxaWEktT1BNTW5XTS12b3ZSZ0lWbUkzc0drdw?oc=5",
-      "source": "Terra",
-      "publishedAt": "2026-11-11T22:01:00.000Z",
-      "summary": "O que assistir no cinema? Confira os filmes que estreiam nesta semana Terra",
+      "title": "Dia do Cinema Nacional | Cinemark dedica 100% de sua programação aos filmes brasileiros, com ingressos a R$ 10",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUnV2OC1RN3ZReWFOSEQtSGlRTHBXb0NPODNpVHdJd3NUTVRGejh4bTRjS21PYl96bkF4UjhhYnp6ZkRueUQ3VWR1eTBhYXZ0Uk5Tb1MtTk44YUtrMTl1dklTN0pycVhtRGs0WmpVSHdwNlIzcV9YQk5QTDFZSzlnSXk5bm04cktBb194Z0o4UHd2ajJBTVFCU2hhMkNJeTRhNVlzay1oMUQtR2Fqb25KZ2ljbVljRlZSWmdkalZrLTVvMi1WamxERGRKTVRXaEZHTVoyMVdhbWRwVWlXNFJYZjNR?oc=5",
+      "source": "Poltrona Nerd",
+      "publishedAt": "2026-11-12T01:38:58.000Z",
+      "summary": "Dia do Cinema Nacional | Cinemark dedica 100% de sua programação aos filmes brasileiros, com ingressos a R$ 10 Poltrona Nerd",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 6.51,
-      "relevance": 7
-    },
-    {
-      "title": "Bancos sem apps e ‘agentes de IA traders’: como a tecnologia vai mudar o mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaGxrbnpwZFZLVkhiNXRscVF1VDhEVGNvdXUwRVZUUy13d25VZ0ZiMWJzNUluTEJJUU5YYmtRbmZnTVVfZldQblNUTnYtdGZCd0pjOGRPOVY3VUJGOFlLdlQxUS16c2ZzX3lBQXZvTWNVT0I0TVJpMEpPUkVBbEJvVWl0VUp1aUFpY2xMTHJraS1Sa3hTaHhuYlQ0clRRUC1Ta0toNkdUN2JRbi1vSUplcHdqSjV3LU1WeDdLbGFZSXUtSjE2NUNvOTlMV0VuYThna0NNYVNCMEFBeXdWaUxFUUdxLVJDel9WVlNB?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-11T21:26:05.000Z",
-      "summary": "Bancos sem apps e ‘agentes de IA traders’: como a tecnologia vai mudar o mercado financeiro Estadão",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.36,
-      "relevance": 7
+      "score": 5.23,
+      "relevance": 6
     },
     {
       "title": "Festival de cinema gratuito em Curitiba tem sessões de filmes de dez países",
@@ -348,7 +504,7 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.36,
+      "score": 5.19,
       "relevance": 8
     },
     {
@@ -361,7 +517,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.33,
+      "score": 5.17,
       "relevance": 7.4
     },
     {
@@ -374,7 +530,7 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.22,
+      "score": 5.07,
       "relevance": 7
     },
     {
@@ -387,20 +543,46 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.18,
+      "score": 5.04,
       "relevance": 8.6
     },
     {
+      "title": "Lucro do BB tomba 66%, surpreende mercado, e banco corta projeções pela metade; dividendos na mínima",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWU9iZmZpSkFGOGQ3enNtdm13RVZVQ0Y3NExWT3o4cXViX01oQzRHWTF6X2tTQmQ2eXgtdmVTLVZPM2NUMFZ0RE9uOW83a1gtN2poZFM2by0yWUlCX2ZQNEJRVTRVWVJIRnAwSUxDYk5aV0tzUDl3dGk5cDVfUEo4cVJOMHJwZDlpTF9NeVFQbWphazR4NFhNdTNXcDFwcGczRUVyNGg2YlNBdUxkb2lUZG1sb2xWMU9uUlloaFFXVUVnOFAxYVow0gHMAUFVX3lxTE9rNHl2RmJnYVV2R2JpT3A3N1ZjVTc2V3Fuc0Z5LTR5cFdWNEd2V0MxUF9MeXJQNFMzM2NuYTNOQzZFZk9qTWV1dlVsaElwT2FsTHhvdWlRZlJIY3FHN0pTSGJRbk1aMkxiTVhkM0NFNFZpZDZXUXBRR3BhSEMzRm9vN1VqZjlNUGlzQkE0eldiekVXbTdBV3hwVEl4MDBSTU5LSEVUbzdYSlRIa2RTNXotT0EtcmpYM255T0dGVnFndVB6UTJ0Q1JUQnVTQQ?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-11-12T00:22:59.000Z",
+      "summary": "Lucro do BB tomba 66%, surpreende mercado, e banco corta projeções pela metade; dividendos na mínima Estadão",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.98,
+      "relevance": 6
+    },
+    {
+      "title": "“Entrando Numa Grande Fria”: ordem dos filmes da franquia e onde assistir",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSFRKV2tvQndLZG1lRzAxX09YbnlaNy0yWEVHTk9IT2Q1RXVobVRnTnNZZkptNC1Pck1EMk44RGtzWXRIeUVRQTRRNkN3NUEyQXdodTl6aVY0bnhCNEhoeU90Z2UtQnJOMzFmTzNWM2ZsUWVyQVNobm1YU2M1UjVoNndkZXRUTVZoVGc?oc=5",
+      "source": "escutai",
+      "publishedAt": "2026-11-12T04:59:14.000Z",
+      "summary": "“Entrando Numa Grande Fria”: ordem dos filmes da franquia e onde assistir escutai",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.96,
+      "relevance": 5
+    },
+    {
       "title": "CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/11/cbs-e-ibs-entenda-os-novos-impostos-da-reforma-tributaria.ghtml",
-      "source": "G1 Economia",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkptUEVQY1U0Vkt5STNhNzVkLU5sZDNKLUxvd0hLMENsMWpvam5qUXhhMTdlN2tRclNscUxGR0d2bFhhazNrQzZlM2czUVctclhEWDdJZXQ0N3duY2QyQ3lJbnFZLUpaZmxhdGhyVjhrTmtSWVZwekNBRlo0bEs5TmY0aWVfNkJlaTlBckRsMG80NW9kVDFlZHR0QTlQVE9oMkxoblhTdkY0UE5XeG5IMk9R0gHAAUFVX3lxTE9hZzVkUGY1N2JzWmY4aW1CWnVudjVodk4wVmdlejV5QXhTTlBramVGT1IyZTVIRkNWa2cyd2ZrWEp2RFJhaUVXWVFmSmRtQjdXWVEyN3Z1cmpLRUppaFAxclYtSGlZdVJHVzY2SnZjLU5BRmhuVmtaTTZBQXBleFdYYmVjSHdEcExTcVFHZUpqeDBlMEdvV3pnVVRjZGpCeVJ4VUNJLUVjUXZGbG9VOWhPMXFzdDlwWWNUN2JUck1CRQ?oc=5",
+      "source": "G1",
       "publishedAt": "2026-11-11T18:39:57.000Z",
-      "summary": "O secretário da Receita Federal, Robinson Barreirinhas, confirmou nesta quarta-feira (11) que os dois novos tributos criados pela reforma tributária — a Contribuição sobre Bens e Serviços (CBS) e o Imposto sobre Bens e Serviços (IBS) — come",
+      "summary": "CBS e IBS: entenda os novos impostos da reforma tributária e o que muda em 2027 G1",
       "image": "https://s2-g1.glbimg.com/yS5Kss6yRRXHhyGYAMyxCDotNNk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/9/f/b5nXIOTiWg7BBCp47ZLA/globo-canal-4-20260102-2000-frame-121032.jpeg",
       "topics": [
         "negocios"
       ],
-      "score": 6.05,
+      "score": 4.93,
       "relevance": 7.4
     },
     {
@@ -413,7 +595,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.02,
+      "score": 4.91,
       "relevance": 8.8
     },
     {
@@ -426,8 +608,34 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 5.97,
+      "score": 4.87,
       "relevance": 8.6
+    },
+    {
+      "title": "13º salário vai injetar R$ 11 bilhões na economia cearense, aponta Dieese",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdkNsOXFYQVNRUWVYdWpBLUl5Ny1QUnRmV254ekpSREhONW5UelQ5YUxwcDZWODg0a3FndmV6YktmMmlwNzB3Zjdrd3FGMWdUaFZUc2l1bzVLd3BQVExVcWxGRVB2NGlpYzBPNk9rVDF4c2kzeHA3Mk5sTkliSVhaaEM0UFg2MC0xZ2EwWFJMWVdnLUFEQjlXdGUxVEVZVndOZWtscmRPUDJGbF9oX3hicFBzWkl2SGR4bTlFd2NpODRnVUdZRTVvdw?oc=5",
+      "source": "O POVO+",
+      "publishedAt": "2026-11-12T04:15:00.000Z",
+      "summary": "13º salário vai injetar R$ 11 bilhões na economia cearense, aponta Dieese O POVO+",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.82,
+      "relevance": 5
+    },
+    {
+      "title": "Mercados brasileiros avançam com pacote fiscal e apoio de Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOekc4M2gwbXlBWGZVeV9iRFNIYUUzR09qcWpCaUd6R3dCMXltR1QySnpBSUxEM3FnQm9YRmFZanRPZEVkMjVqODRQRmdPUmhGSXB1bGNPQnJrVjZVYlhKZ1BYc3lQRjdoT0h2UnNWOXpIZ01OWmZsSlN5NkZZeXRhTHRZcjVNR0hiWjE5aE1HTE0tcC05RHVEOXFSTWtSNDhIUmFR?oc=5",
+      "source": "Paraíba Business",
+      "publishedAt": "2026-11-11T23:30:00.000Z",
+      "summary": "Mercados brasileiros avançam com pacote fiscal e apoio de Wall Street Paraíba Business",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 4.82,
+      "relevance": 6
     },
     {
       "title": "13 filmes que chegam aos cinemas nos próximos meses e você vai querer assistir",
@@ -439,7 +647,7 @@
       "topics": [
         "cinema"
       ],
-      "score": 5.9,
+      "score": 4.81,
       "relevance": 6
     },
     {
@@ -453,297 +661,88 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 5.89,
+      "score": 4.8,
       "relevance": 9.8
-    },
-    {
-      "title": "Senado aprova MP que renegocia dívidas rurais e retira mudanças em regras propostas pela Câmara sobre cigarros eletrônicos",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/11/senado-aprova-mp-que-renegocia-dividas-rurais-e-retira-mudancas-em-regras-propostas-pela-camara-sobre-cigarros-eletronicos.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-11T21:41:25.000Z",
-      "summary": "No limite do prazo, o Senado aprovou nesta quarta-feira (11) a Medida Provisória (MP) que renegocia as dívidas rurais. A aprovaçãfoi feita de maneira simbólica. 🔎Caso a MP não tivesse sido aprovada até esta quarta, a medida – editada em ju",
-      "image": "https://s2-g1.glbimg.com/PI3WxRZic2ohX9IiPgeu5gouUXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/v/GFMrZoQZqj0ZDmuAulOQ/renato-araujo-camara-dos-deputados-2.jpeg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.87,
-      "relevance": 6.4
-    },
-    {
-      "title": "Data confirmada: após arrecadar 122 milhões de dólares nos cinemas, o filme considerado o sucessor de 'Jurassic Park' chega ao streaming",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNR0JFajlOQ25uQjVlejVVektiY3BSU2ozUmloLUJraVhRSi03ZDlvcUFiNURkXy05aG5nT1pWN0w4RnNQOExaU05BbHk5VWl4YmhfMXU0cTYxNEhsTUUzQXFGdl8tT05lSV91T1dDT2Q3RkhrWkJtNFBCempqb25PdzM4aklyXzZCdTFUZTBTLXNyVWc2U1RzNWR1YmdGckh1RExOaTJ5WDlTeEZILU14U3BoZk80ajZoQU5ZTVlfLWp1WTRJVlBHcDdHVjlSYXN5VFQ4Z3d3YXN1T242RDlSY0xsbkZ6ZmFOY2dnNDNlalJwS2dXMFFCUWZwLUNfSTFhVUQwNGpnVjFqeHBxMEdQOHR0NjhGWGNjLWZJOGJhY1Bqa0oxSTZ6aDlEbFdYOFpvV25jc251ZjUxek0?oc=5",
-      "source": "Terra",
-      "publishedAt": "2026-11-11T23:19:00.000Z",
-      "summary": "Data confirmada: após arrecadar 122 milhões de dólares nos cinemas, o filme considerado o sucessor de 'Jurassic Park' chega ao streaming Terra",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.86,
-      "relevance": 6
-    },
-    {
-      "title": "“Ainda Estou Aqui” ganha data de estreia na Netflix",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMT2FsZXFWcE5Tb1FtMnhiNFEycFA2cVBZajZiRnMwVUVwOGZ0QUNseWJrc1F0UjZEdXBqTG5VZ1BPRkUzOGpGWlRTOGRlV0Z2Ym42ell5aGpyc2RHZTZ5NnBlNDQxSEU?oc=5",
-      "source": "Mix FM",
-      "publishedAt": "2026-11-11T22:45:46.000Z",
-      "summary": "“Ainda Estou Aqui” ganha data de estreia na Netflix Mix FM",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.74,
-      "relevance": 6
-    },
-    {
-      "title": "Governo envia ao Senado projeto com medidas de ajuste fiscal que prevê economia de até R$ 60 bilhões em 2027",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/11/governo-envia-ao-senado-projeto-com-medidas-de-ajuste-fiscal-que-preve-economia-de-ate-r-60-bilhoes-em-2027.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-11T23:49:57.000Z",
-      "summary": "Governo Federal envia ao Senado projeto de ajuste das contas públicas O governo enviou ao Senado um projeto de lei complementar de ajuste das contas públicas. Entre as medidas estão a revisão de benefícios fiscais e a contenção de despesas.",
-      "image": "https://s2-g1.glbimg.com/aFyt9atNwn8z10EZHJs52x38SCQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/J/du7getRTiSIxK0RB3KeA/globo-canal-4-20261111-2000-frame-56675.jpeg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.58,
-      "relevance": 5.6
-    },
-    {
-      "title": "MS Agro 2026 traz à Capital duas grandes referências em economia global",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQamhsZE9VVUM5ZXotd3plNDhMYTBRMXc1Ynk5eEE0TWdaSVFnRVJkTHFmS0NrR1BTZVlBbWpJRWdZMDVNSVNmd2RxY1M2M2ZleW1Fc1EybGJMTGdXVzVGM0pIMzl1aUU0ZGtYUlVydnRxVE9wVFJkZ0I0RUIyYm1pVFIwbW1tOFNhaF9nb1dMOVVQd21kVHZYVDdIYTVscTNkS0dvZVpzQjNaNGFLWi1YNm5Ka9IBswFBVV95cUxNb1BGM0JwYVZlVkZmNHRlRXFzdG1DRWdqQWhNczhuV284YjZjc0Y0amJjVEpPMUpqeHRfM0tHREhmRlowSFVZeVpsWnFWWWhBajNlOERYcXJaMHJCbVlvSzJzdV9lYm40OG5kU1JCZWJVUHFZejhjRDgyMzBWelU5dUp2R3FfMnIydFR0WWR1NG9VcnpxVVRwWlRBbWp0dUl4ekI2Zl96VUQxLVdpTjA2cVNiRQ?oc=5",
-      "source": "diariodigital.com.br",
-      "publishedAt": "2026-11-11T22:02:00.000Z",
-      "summary": "MS Agro 2026 traz à Capital duas grandes referências em economia global diariodigital.com.br",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.58,
-      "relevance": 6
-    },
-    {
-      "title": "Netflix prepara 5 filmes de Natal para novembro de 2026, com comédia de cachorro, musical de Tyler Perry e romance com Leighton Meester",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQVHlpT2o2NFZUV1VYQjlfalFIQzRRQWp5cEdJRGRsR3ZEeWYtaXlWcm9iZThxT1djeG1jSkppbDVwelNndHY4SFdjM1BJLTF1OGRJczFtbkJFNWFPOUZaZEVaSWNIci05ZW5LeE1zU3ljbldndHM2b0pQcXkyMTY2bW9TbDVuZnN6ZWJqYXhPaE1oUF92dGNjd1UzMnpyc0dYQXc0ZVIwTTlhMkFadkxHRWpiaFRHT24xYldKT1JNWUp5cFd1THA2MEFnajVHSUFPMkF3T21DaW5SQjk4WTAySFdpSUczSHExQWxRM0daeFdWME1zV3lFM3c0WE9uenVrVlE5SE9Pbw?oc=5",
-      "source": "Midiamax",
-      "publishedAt": "2026-11-11T21:45:00.000Z",
-      "summary": "Netflix prepara 5 filmes de Natal para novembro de 2026, com comédia de cachorro, musical de Tyler Perry e romance com Leighton Meester Midiamax",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.52,
-      "relevance": 6
-    },
-    {
-      "title": "Bolsas da Europa fecham em alta com recuperação da tecnologia e juros no radar",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MY1luWVRudnFnbjhvRFhxaDBzSTVoSGxMTEFiVkp1eEpBVVcyLWgtSGpYWGNQR2N4b3FRT0kzSGJoYVAwcEhEQkg0Uk1iY1FaSVB6M3JlZjA?oc=5",
-      "source": "TradeMap",
-      "publishedAt": "2026-11-11T17:30:00.000Z",
-      "summary": "Bolsas da Europa fecham em alta com recuperação da tecnologia e juros no radar TradeMap",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.47,
-      "relevance": 7
-    },
-    {
-      "title": "Festival de Cinema de Carazinho começa nesta quinta-feira",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQblpZUDlxYk5ZTUhzSDBVTFNoZU56QTl6V2NYUEVrbEdhSWtpVzJ0Y1d5cU1DZHJzTWlIZGZ2VnQzTmhsSVlBbjlET1JobWpCa2N5azdXMENQamRtUDZWd0hUNlkyTWZPNzFzQi0ybWRfUDdVTWZYWk1WS21yWUhtMGZuaU1zLVY3LUQzVDlXYWpleGdfYXNDN0pzYWZkR3M5RnVTUDVubXNLNmFPU05OUg?oc=5",
-      "source": "Correio do Povo",
-      "publishedAt": "2026-11-11T21:26:36.000Z",
-      "summary": "Festival de Cinema de Carazinho começa nesta quinta-feira Correio do Povo",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.45,
-      "relevance": 6
-    },
-    {
-      "title": "Casarões de arquitetura colonial na Rua de Nazaré estão desocupados e ameaçam conservação do patrimônio histórico",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZVNRMlZTVktJam1VNW94VVBveTZCMmNqRWhxUExMalV5SVlJblZGU3pERU5tZUJJbHduczJuM0s3UnE4cUQzZm5jVUkwaU1TaXEyT2lwSmFVNWxFSElWXzhMektuNXlQdDJ1dk5kLWtROURKOW9oV3hxVHNiNXlIWEV4bHZHeDJrYmQ4LXFjQjlRZlhNUkc1WXozay0tbDVxUVROQkRETGtYaE1NZWhJZl9CN0oyZnpnbng4SXVuRnhOazhZMDBoSW5nZU04bExXdUE?oc=5",
-      "source": "Maranhão Hoje",
-      "publishedAt": "2026-11-11T21:21:12.000Z",
-      "summary": "Casarões de arquitetura colonial na Rua de Nazaré estão desocupados e ameaçam conservação do patrimônio histórico Maranhão Hoje",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 5.44,
-      "relevance": 6
-    },
-    {
-      "title": "BB e banco alemão farão aporte de 100 milhões de euros em bioeconomia",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeGE1RnZEdHU3VEpFUVN4QjVhWmVVQVlyckl1Wk5xUG9CZ0NlS0ZwY3N1U0FxQkVZZmkyTHNiUkp5ZjFBTkVYdGFtUEsxQ3B4MDk4MGpkVG52TXpzemE1bjlFV3RFSDRfMW5nRGJ0dHBueWN1VHgwdTRIV01TS0NvRUpHQXFsdVlVYmNJYnFETE9ad0hIcTRBZEpYMTZtc0tmekEzTHVHNkp1Yl8yeVNNLVVzbmt3dGxxcWJ1NEU4RHBxUTMxT2c?oc=5",
-      "source": "Agência Brasil",
-      "publishedAt": "2026-11-11T21:21:00.000Z",
-      "summary": "BB e banco alemão farão aporte de 100 milhões de euros em bioeconomia Agência Brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.44,
-      "relevance": 6
-    },
-    {
-      "title": "Lula se reúne com Delcy Rodríguez e discute tarifas, petróleo e relação diplomática com Venezuela",
-      "link": "https://g1.globo.com/politica/noticia/2026/11/11/lula-se-reune-com-presidente-interina-da-venezuela-na-turquia.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-11T17:52:15.000Z",
-      "summary": "O presidente Lula e a presidente interina da Venezuela, Delcy Rodríguez, durante bilateral na Turquia Ricardo Stuckert/Presidência da República O presidente Luiz Inácio Lula da Silva (PT) se reuniu com a presidente interina da Venezuela, De",
-      "image": "https://s2-g1.glbimg.com/xiR8gkKnEW_9FvcvfF9-_pbaRgU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/W/mw3GaLRAm1zJMJZAcABQ/lula-delcy.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 5.39,
-      "relevance": 6.8
-    },
-    {
-      "title": "Opinião - De Grão em Grão: Vale a pena investir em empresas que estão fora da Bolsa?",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb0pVdGFieHl3dHFlVXFOUGJqejFXZUhlM05HbWdmQVQzeFV2dUd1b040eFY2S2U4dldOR3FNWGtiSnoxMWpiVldZTTBmZXZBTkFuV3RZUGlyMHQ3dGRuZE1kT2FtZU9lWjQtRW9vZXNINjBmM2U0dzc5YkxGWUpCMy1SaVVoR19MYXlVS0dEaWpoTnpVb3lQM3pGb2FzNjRHbmtrUDAxek1rZ0lITTRDWXVxWFphYWFlcXdkLW5EZw?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-11-11T21:00:00.000Z",
-      "summary": "Opinião - De Grão em Grão: Vale a pena investir em empresas que estão fora da Bolsa? Folha de S.Paulo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.36,
-      "relevance": 6
-    },
-    {
-      "title": "A urgência que a economia impõe à regulação dos mercados digitais",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUV9iTS1odFFqVENoWTNXUS00clVjVXRqUXMzdk5Fd2xIa05xdTQ0VUNNTWpDNTVDaU1LSUZ0bEM5YXRwdS1pd28xQlZJR2QzN1pqeXdjZXc5S0ZtbUQ1QThQTkJ6SWpnbHJRaUp6U3hnQjNTX2RVblhCc2xQaFlWX2R0bEs0ZGJIbnp3b004N3RNWm92aUF6aUJzVVJlUzBScmlFdURBUHNIeEZjS0Y5QjVSZw?oc=5",
-      "source": "JOTA Info",
-      "publishedAt": "2026-11-11T20:58:23.000Z",
-      "summary": "A urgência que a economia impõe à regulação dos mercados digitais JOTA Info",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.36,
-      "relevance": 6
-    },
-    {
-      "title": "Festival de Cinema Francês terá sessões gratuitas na Casa de Cultura – CGNotícias",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1phTDVGeTllMWpuaW91TnRVemZhMmtJU3Iwb0dFQUdHYlQ3RFJKckwwaTRCQjR6NktUNDdOTzVTejkzVy05UDc4dlR2WnJmaE51ZjJ5cDJjeTVBQ3hfbGtlN29nVnlFb0U5Y0ZPVzZKa1lGX1dKT0pzVmd0Wmtob01DVnhDS0ItMFN6cHdvSElMeGZuekRJNWNGa0dDR1VITmszTzNWaTVoRy0tczZ1cUcxemhsQ3dFaGdqejZsNA?oc=5",
-      "source": "Prefeitura de Campo Grande",
-      "publishedAt": "2026-11-11T20:54:00.000Z",
-      "summary": "Festival de Cinema Francês terá sessões gratuitas na Casa de Cultura – CGNotícias Prefeitura de Campo Grande",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.34,
-      "relevance": 6
-    },
-    {
-      "title": "Golpe com vozes clonadas por inteligência artificial teria desviado US$ 129 milhões de empresas",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVmtuY3BsS2RxNjR5eVRLbVNLbE9vcjhQeWR2RWRVVjBxeTJvNVdCY3BqMDJSSkVkT2huOFdTUmkwckVRZlBuRzJ2NDhpcEZyUF9rZnpCNG5yVzlFU2VRQ05Ba3hvbzJtcGRUbi14SkJXSVFya2hLNlZndmZRTVYyU3d2QWVSbDhuYl9RYmFIbFdJVDBHUHVQY2s2bzViM2NVM05qdzRIeXp1R0doUFp1RWNielFtaVhlaWI3ZEpfdWp6WXdpWUE?oc=5",
-      "source": "Gizmodo Brasil",
-      "publishedAt": "2026-11-11T16:46:31.000Z",
-      "summary": "Golpe com vozes clonadas por inteligência artificial teria desviado US$ 129 milhões de empresas Gizmodo Brasil",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.32,
-      "relevance": 7
-    },
-    {
-      "title": "Último encontro do ano do CCI aborda informalidade, economia subterrânea e relações de trabalho",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNQlRqeElqV3k4bjRJMjBuSXBnb3drTWVYNmRCVkt1U0gteXd1RG1NMnJYRkJrZGhOR1VOaXE1TVlqQ2FQaUJYSk9GRFlIZHdmM1Fwc3loOUpqLXpzQXVTZEpVTS1zdG1kZFkxYi1WWU1TWG93al9LOG54OXN1N01wXzBQcktXMFl2d190ZDRCWFhLWEliVU5HcHBjMEJ5RUV2bUZkLXNORk51eEFIODRweTBUU3p5WGxLM2QzdWJ3WHgzOFlYYTZiUUFmWlpzMnBUcUpMX2pkUk9pdTRRaGJNNkNJa3gtWHZCZjkzWmtFVzJSZlN6ekZtcWhDM2w5WDdKWnRPb0w0a3lBN0NueElOanlfejFtNWdyY3c?oc=5",
-      "source": "Fecomércio RS",
-      "publishedAt": "2026-11-11T18:43:08.000Z",
-      "summary": "Último encontro do ano do CCI aborda informalidade, economia subterrânea e relações de trabalho Fecomércio RS",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.24,
-      "relevance": 6.4
     }
   ],
   "byTopic": {
     "historia": [
       {
-        "title": "Casarões de arquitetura colonial na Rua de Nazaré estão desocupados e ameaçam conservação do patrimônio histórico",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZVNRMlZTVktJam1VNW94VVBveTZCMmNqRWhxUExMalV5SVlJblZGU3pERU5tZUJJbHduczJuM0s3UnE4cUQzZm5jVUkwaU1TaXEyT2lwSmFVNWxFSElWXzhMektuNXlQdDJ1dk5kLWtROURKOW9oV3hxVHNiNXlIWEV4bHZHeDJrYmQ4LXFjQjlRZlhNUkc1WXozay0tbDVxUVROQkRETGtYaE1NZWhJZl9CN0oyZnpnbng4SXVuRnhOazhZMDBoSW5nZU04bExXdUE?oc=5",
-        "source": "Maranhão Hoje",
-        "publishedAt": "2026-11-11T21:21:12.000Z",
-        "summary": "Casarões de arquitetura colonial na Rua de Nazaré estão desocupados e ameaçam conservação do patrimônio histórico Maranhão Hoje",
+        "title": "Hai Phong: Desvendando o potencial do turismo costeiro e do patrimônio histórico",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLTFGMFNFLWxQaHdJZ3BaQzBsakt0VmRqYmlERF9IVmpGRE9oRWRhYVZ5NXFGbGZ6R1pmVUJrb2d4OWtrSzQzOTVkaFRsMHljUFNXbWdQb2VBOXhGUWhDMWE3MHlnLUdmZjBhZ0xpS2w3a1QzR004aGVWcVhxaEdTbA?oc=5",
+        "source": "Vietnam.vn",
+        "publishedAt": "2026-11-12T01:38:03.000Z",
+        "summary": "Hai Phong: Desvendando o potencial do turismo costeiro e do patrimônio histórico Vietnam.vn",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 5.44,
-        "relevance": 6
-      },
-      {
-        "title": "Museu Nacional De Arqueologia Leva 15 Peças A Exposição Internacional Em Mérida",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSVZCTHppYlIwQ2NkV1RZUTBldWFwTXdvelZxY2JDdGlvT0xKelZUUE91VTdvSGVkaGFfaHJqNUlSd1ZsTkpZbzJLMDlpamJ6TWFtTWs2REtuVklMMUNCOURfZ25tWS1oRjFCaWRmak5ONFlLRDBUdFRfRmozY1lqSGQ0bkhoNlUtWlhwNzRzRkN5M204NDNsS2U1UDRhOHc?oc=5",
-        "source": "ensaio.pt",
-        "publishedAt": "2026-11-11T14:57:53.000Z",
-        "summary": "Museu Nacional De Arqueologia Leva 15 Peças A Exposição Internacional Em Mérida ensaio.pt",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.25,
-        "relevance": 6
-      },
-      {
-        "title": "Angola: a independência que não trouxe a paz",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNckMtVXlUWnRVUjhOLUtISENGNmU1ekVGRkhoVzNOUHhKLTdYMHBoQTRBUUJqR01rOXVjV0hha1REcjlnRWxKLTlITVFCZWoxWWQ4RnQtbERuTTJMclp2M1NyLWlEaVROYnBoR1hpOVZZLVRLTi1DWGdjQUZqeTJxajdNazNJUnFxNFFKcFNSSWZVaS1sOVl1T2tjQ3FLaE45RUxCZktjM0I?oc=5",
-        "source": "Aventuras na História",
-        "publishedAt": "2026-11-11T22:00:16.000Z",
-        "summary": "Angola: a independência que não trouxe a paz Aventuras na História",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.09,
-        "relevance": 4.4
-      },
-      {
-        "title": "Arquivo Público do Ceará recebe palestra sobre negritude e políticas de preservação do patrimônio histórico",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRnMwbkQ5ZXN0ZGVnX3ljR3V0WGdrN1RsMGFhRTFHbFl1Vkc3VzRGcjRvWkFlX3h6U1Z0VE9XVndtczl1ZWJqS0VSM3JTX1otWmFVby1kbXJQc1pEV1lUYkZkR3dIckU4b0huWDhfV3NRdkRLRHJjck1qZ0hKaU4tNElWcWFST3pUdUozYnUySGQtTTYzendZaW5OSWRfcjRaWDB4ZDhYUml4Y1YxS1FpSUJ3LTU2QXRpdE8yMk5TRE1Na24wRGlQYUMxREtzQzBETWhfLXVQVWxYWTVBR3FIZkF3?oc=5",
-        "source": "Governo do Estado do Ceará",
-        "publishedAt": "2026-11-11T18:20:19.000Z",
-        "summary": "Arquivo Público do Ceará recebe palestra sobre negritude e políticas de preservação do patrimônio histórico Governo do Estado do Ceará",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.03,
+        "score": 4.36,
         "relevance": 5
       },
       {
-        "title": "Memória Amazônica: exposição revela histórias da região pela arqueologia",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNU1RmOEtBMjk0STZjSGZpQmkzX0xTNnlOZlZzbnVmaV9LYkZQZk1aYTNBOF9YYk1ERnlwY2lwSXNYV2FKNmNIOVVDX2l6LTgxQUtpUWc3aXE2WjVYWERISDYydVlteGluSWxlelZYeGlKb1dlZlZ1WThkUDFRVGdFNWVBdnpIdFBJWFFUcE84SExYekN2YXJZRW4zRnVTcjJpbTFpME9UTnNEX3AyTmRlMExNd1ZqWVBzV1BrM2ZEd0lIbU1NdG5iUnZqWXZDNk50ZmsyMmhRcTVfTHJyN09EcC1BNDFZV2lQTEJr0gH6AUFVX3lxTE1EN1UzY3hRS0ZqeGlIYks2enJhZ1ZIZWR1SXpVU052S0U4NVM1WEY0ZjVjVjJhMG9pOFdReTRDOThvV0Nsei1RN0szN0tfNXkwa3NWZUh5elphLUR5eDJjYjQzZXp0cjlPaEhMbm1LLUNTV21hRm5EQmxjU3M3aUszRy16bHpfclEzaUYtY3JhMjNLZUI1X0FxZC1qNkhSMVJfeGxUUHpCRGtNWlRramhncThFRjJxdGIwZk9wVjJldi1VMENYRlZjUmdFeHcwWGV0NGttZHJaRzBfN2VnSHBWYUIwOVg1Ym9oOEVIbC16QnNZMFpPc3JFRVE?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-11-11T13:19:18.000Z",
-        "summary": "Memória Amazônica: exposição revela histórias da região pela arqueologia G1",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.99,
-        "relevance": 6
-      },
-      {
-        "title": "Havayanas Usadas promove aula sobre a história e as raízes do Ijexá – 13/11",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUQ0VzY5enctSjkyM3h2YmhneHFnSEVHTWJzZ1hlaTVfV3BuZjlrajFib3NNNWdyU25PVGEzTzE5SkFRUThoRnV2MDJqQ3lIUFdKc3d6bTZUd1RVQ0hFN3JpZzJqODlpenRfb1RwTFNvYUM4Wk0xbTZxcEQ3c0ljOERPUWp5SU9MZExvWnl0RGd3bXV0WnFCYzFON3JUdmFtQndJZ1NLblg?oc=5",
-        "source": "Agenda BH",
-        "publishedAt": "2026-11-11T23:39:23.000Z",
-        "summary": "Havayanas Usadas promove aula sobre a história e as raízes do Ijexá – 13/11 Agenda BH",
+        "title": "Série sobre astronomia explora a história da observação de Vênus, considerado irmão gêmeo da Terra",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOG9LQ2dtbUFpcm5HVXl5UmE5Rll4NFdRNXNXd0FoRjZzLTNJdEs2ZFhoNmpIbmNfUjBIelVzcVIzMGYzWW9HQ3NRRmtpeGJKTVdLZ01PbmlHLU45bU9VM041QzdnWVppUVVIUjJ6cldqRWtVckg3QmNjeE51ejhkLVF3d0c1aThTU2xrOV9rTVEzWGdlLVUwYVcwMEpGUVV6eG9BNUUzWk9wVlN3VU9YVmxRSkFqY2xDbzk2czZac3hvb3gtd0taYVo1Wno?oc=5",
+        "source": "Jornal da USP",
+        "publishedAt": "2026-11-12T04:58:00.000Z",
+        "summary": "Série sobre astronomia explora a história da observação de Vênus, considerado irmão gêmeo da Terra Jornal da USP",
         "image": null,
         "topics": [
           "historia"
         ],
         "score": 3.96,
+        "relevance": 4
+      },
+      {
+        "title": "Arqueólogos encontram uma antiga escola escondida dentro de um complexo de templos egípcios e descobrem desenhos, jogos e objetos utilizados no aprendizado, revelando como funcionava a transmissão de conhecimento há milhares de anos",
+        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOek9wbTk3RHgtZmxYMzRtekNOaGRsT2t6YVk1MWNJdlR5cEd6Z1J6X2oyeVJSZGRncnhvMUk5emt0YUtJTVNJQjg3YnBDM1hWQUVRdVptU28tc2JNYUp2MENJMnZENTNKTmd0QmhDSkZPZW5sOUJRMmlBbWZHWmxFUTg1UmpSRW1RZl9QOUppdVVCY3JqRUJ4X1FHNzBiblNYMkRDYmQzNWVjcGNOUk1uYUlwbjViakFYRXlCcXFWRE9TLWRjSm14V010bnI0aFBETHR1Q1FoWGs3d0pub25BOHhOekRlRnliSVdZYjdsY1VSalRrbkFFREVwVjlRalZsamxnQ2dCQXBVTWd3RWFvU01nUl9PNDFZU096Vk1kNHJpbDlBNkhUOFhBdW9QbzZVdjk4bzVKZHFjLU1NMzg3YnRySEZqSFE?oc=5",
+        "source": "Super Rádio Tupi",
+        "publishedAt": "2026-11-12T04:51:29.000Z",
+        "summary": "Arqueólogos encontram uma antiga escola escondida dentro de um complexo de templos egípcios e descobrem desenhos, jogos e objetos utilizados no aprendizado, revelando como funcionava a transmissão de conhecimento há milhares de anos Super R",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.95,
+        "relevance": 4
+      },
+      {
+        "title": "Cássio Alves detalha a sua curiosa história em Córdoba, contra o Talleres",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOVBWRlNQVFhhZjlkbzl5dUJ0NkhTNURqbEFtS090aEtwUVhNZ3dMWUlZRENwRXF1bmYwbzV2OWNac1YzNHZ5LU9WdGVaYjg2aUM5aEdVQ1lYSl9tM2JwMXZteXQ1aWplektRbEsyM1lUVVJMNmZWZW9OVDFwdFNpdFc0OVN2M2lFOHVBX3BiV3lJbUkxaVd4TTliLVhjSWRMUkc0UUVJNkRCNi1XM3RIRW02SVnSAcMBQVVfeXFMTnB1MDMzb1o1ek96bkVuZEoyZjNjalVvWUNUS1NQSkdLT3p6b3FiQmdvdW5EOWFZWkZwSHlPcXpMd0E3VTFvbWpiNkZiSU5Lc1pDbHFJUXFiaGtzZW9pVElONURqR296QjVlOXJTWDFfaFhuUnRncFBUdHM4QTByNWRYVkNGNkxHcHM4NjEzZmw2aF9Md2R0QkRNQzdVTHMxaFNnbmZZTklwRmFBY0tVVFdGZ0g0dTFvTDBnTERLNGdiWnlj?oc=5",
+        "source": "ge",
+        "publishedAt": "2026-11-12T04:38:33.000Z",
+        "summary": "Cássio Alves detalha a sua curiosa história em Córdoba, contra o Talleres ge",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.91,
+        "relevance": 4
+      },
+      {
+        "title": "Tier list: qual foi o maior camisa 10 da história? - Zona Mista",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQkltUkVFR1RJRldaVWdzS2ptY0R1Q0FKOFVUVTVYV1p3Z0s5MlVQR0VQZzVTVEY1MFhOcUJlNzVQT0Z6TFR2dG5oVGQ3Ukg4aTk0aUlOZllXUks3blIyOUVQN2N1OEhDVjQ4N0JFanpZMkNZb2VvMmdQR2pnU3VBWm5ISlU5cEFxRWl1dE90SDZjckQyTW50Vlk3bTBzcFJqMG5EZi1YRU4zbGZRTXppSmdoLW1aTnZYVk82LVY4TlQ5aTlwSHBR?oc=5",
+        "source": "GZH",
+        "publishedAt": "2026-11-12T03:04:13.000Z",
+        "summary": "Tier list: qual foi o maior camisa 10 da história? - Zona Mista GZH",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.68,
+        "relevance": 4
+      },
+      {
+        "title": "Preciosidades do acervo Assis Ângelo – O cego na História (81)",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc3QwQXdjRW9YTGtUYmJmQWVDZU9Ha2NacGxxQmVUTzM5OTM4QlJNOFJScFFZZ05lZmsxLTNVaHFWZ01CNmRzYW5LeFN1Q1lzV05pcXBkSHRNd2dJZGgwTnhqNS12dHZTU1ViOFlyZ2FIVWZ1eXdMdjFVX2M4dUZ3T01jNGt0YlRkRGM2UGZFUUlNczE0elprcXdxYTkzOVc5?oc=5",
+        "source": "Portal dos Jornalistas",
+        "publishedAt": "2026-11-12T02:00:05.000Z",
+        "summary": "Preciosidades do acervo Assis Ângelo – O cego na História (81) Portal dos Jornalistas",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.54,
         "relevance": 4
       }
     ],
@@ -758,7 +757,7 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 8.46,
+        "score": 6.9,
         "relevance": 10.6
       },
       {
@@ -771,8 +770,21 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 7.56,
+        "score": 6.17,
         "relevance": 9.4
+      },
+      {
+        "title": "Casa Branca diz que investigar governo Trump pode ser crime e ameaça democratas",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/12/casa-branca-diz-que-investigar-governo-trump-pode-ser-crime-e-ameaca-democratas.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-12T05:00:01.000Z",
+        "summary": "Donald Trump REUTERS/Evan Vucci A Casa Branca advertiu o deputado democrata Robert Garcia, que deve assumir a presidência do Comitê de Supervisão da Câmara dos Representantes dos Estados Unidos, que investigações contra o governo de Donald ",
+        "image": "https://s2-g1.glbimg.com/_ySC3AJPAaBv7HIHuZ7ifRv55FA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/K/U6aRy9SYK029x6BuqWvQ/2026-11-04t181903z-2063892830-rc25hoadtk1m-rtrmadp-3-usa-trump.jpg",
+        "topics": [
+          "geopolitica"
+        ],
+        "score": 5.75,
+        "relevance": 5.8
       },
       {
         "title": "Irã ameaça atacar bases dos EUA na Europa se forem usadas contra o país",
@@ -784,7 +796,7 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 6.87,
+        "score": 5.6,
         "relevance": 8.4
       },
       {
@@ -797,7 +809,7 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 5.97,
+        "score": 4.87,
         "relevance": 8.6
       },
       {
@@ -811,22 +823,8 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 5.89,
+        "score": 4.8,
         "relevance": 9.8
-      },
-      {
-        "title": "Lula se reúne com Delcy Rodríguez e discute tarifas, petróleo e relação diplomática com Venezuela",
-        "link": "https://g1.globo.com/politica/noticia/2026/11/11/lula-se-reune-com-presidente-interina-da-venezuela-na-turquia.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-11T17:52:15.000Z",
-        "summary": "O presidente Lula e a presidente interina da Venezuela, Delcy Rodríguez, durante bilateral na Turquia Ricardo Stuckert/Presidência da República O presidente Luiz Inácio Lula da Silva (PT) se reuniu com a presidente interina da Venezuela, De",
-        "image": "https://s2-g1.glbimg.com/xiR8gkKnEW_9FvcvfF9-_pbaRgU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/C/W/mw3GaLRAm1zJMJZAcABQ/lula-delcy.jpg",
-        "topics": [
-          "geopolitica",
-          "negocios"
-        ],
-        "score": 5.39,
-        "relevance": 6.8
       }
     ],
     "negocios": [
@@ -841,13 +839,39 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 9.35,
+        "score": 7.63,
         "relevance": 14.8
+      },
+      {
+        "title": "Senado deve votar pacote de medidas fiscais nesta quinta; governo fala em um impacto de até R$ 60 bi",
+        "link": "https://g1.globo.com/politica/noticia/2026/11/12/senado-deve-votar-pacote-de-medidas-fiscais-nesta-quinta-governo-fala-em-um-impacto-de-ate-r-60-bi.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-12T03:00:00.000Z",
+        "summary": "Governo envia ao Senado projeto com medidas de ajuste fiscal que prevê economia de até R$ 60 bilhões em 2027 Jornal Nacional/ Reprodução O Senado deve votar nesta quinta-feira (12) o Projeto de Lei Complementar (PLP) com as medidas de ajust",
+        "image": "https://s2-g1.glbimg.com/aFyt9atNwn8z10EZHJs52x38SCQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/J/du7getRTiSIxK0RB3KeA/globo-canal-4-20261111-2000-frame-56675.jpeg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 7.17,
+        "relevance": 7.8
+      },
+      {
+        "title": "Lucro líquido do Banco do Brasil cai 65,6% no 3º trimestre, para R$ 1,3 bi",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOE5vN18tTUYwcjBqTEVzUlZmcUxCeVEtN3NlcDlhajZ4U2J3dm9OaXlQdFBBdTFUWF9qNnVvWXN4T29VZjVzVmhnVzVlTFNQSlVMN0ZQY1FTSHhTeU5xVTlGYjJ3dDFtWlRwY1huOUtBRHNTSHh6VXZ2RVZFa1JfYnZVeG55blJsc3d3aDZFdlFYYmJCN0NSMFo1Z1hia3lnSlZ1NnJueGtzcUFkTHRPaThyQQ?oc=5",
+        "source": "UOL Economia",
+        "publishedAt": "2026-11-11T22:41:27.000Z",
+        "summary": "Lucro líquido do Banco do Brasil cai 65,6% no 3º trimestre, para R$ 1,3 bi UOL Economia",
+        "image": "https://s2-g1.glbimg.com/R4ggIHKWYztueiRDHfdHnd-61f4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/H/lsZOTVQ469nfB0PF2iXA/montagem-horizontal-1280x720px-28-.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 7,
+        "relevance": 9
       },
       {
         "title": "CEO da Nvidia teve outro caso extraconjugal, com executiva da empresa, diz jornal",
         "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/nvidia-novo-caso-ceo.ghtml",
-        "source": "G1",
+        "source": "G1 Economia",
         "publishedAt": "2026-11-11T22:09:58.000Z",
         "summary": "Affair, espionagem e chips: entenda a polêmica envolvendo o CEO da Nvidia O presidente-executivo da Nvidia, Jensen Huang, teria mantido outro relacionamento extraconjugal, desta vez com uma executiva da própria empresa e que responde direta",
         "image": "https://s2-g1.glbimg.com/KHAYXnFNw9TMiNyASv2as4vHkqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/S/TKeMkiRcKerUXLt8uFiQ/ap26312766429671.jpg",
@@ -855,61 +879,34 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 8.04,
+        "score": 6.56,
         "relevance": 8.6
       },
       {
-        "title": "Galípolo cita incertezas e diz que BC decidirá sobre juros 'reunião a reunião'",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWY4MnVYRktqMWwwcWRuWlFGUHBBVVVlcEdVb0RtNXlFLVpVb3FwYi0zYjFYcm45R3FHNTgwNEFvaE1UYWVLY3VqVFZhSHIxUXIzYndYUnZFRUw0S3BOclJLNWJpcTRndFkySlVQY3hBSDZpSmRrb09wOGMtQUVWZ3AzeFNHWmZEdGNEZtIBmwFBVV95cUxPZGRLUFRPcXo5clNVVGtNajNWdUh4ZnNJM3JfNDBBcDhudlRQZjhVSkl6Q0R5RjVobE9VdVlIeFJtVVo3cHduenhlVy1IM2xid0dOcmhpSWFyZ3hxa3hfdnBfZXlab090RkRTVGw5YW5WcnhHaTdVUjJWSXBvRGVoVy1Wbm5HNmhnV2x0SFdQOGJOVzAzNlJQNkpVRQ?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-11-11T20:12:49.000Z",
-        "summary": "Galípolo cita incertezas e diz que BC decidirá sobre juros 'reunião a reunião' G1",
-        "image": "https://s2-g1.glbimg.com/P3B69GSs-Jw9Lu241vXPo9fklzI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/X/myvw7UR5GDkKTcY3j6ew/55195216496-a7642f0565-k.jpg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 7.8,
-        "relevance": 9
-      },
-      {
-        "title": "OAB/MS debate novo marco do Banco Central e economia digital na Rota Bioceânica",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcmQ4RkZqOUJqb05JcGJLVUcxTDJoZ2k4NWNyVGp0Sm16aWRPYzdyZXVfa3RiUC1TbjZlTnNEYjlwXzJNb3NtTU50dXBUT3lWTndVY054VGF6S0ZJZnltX0FkdVZzaWo1WFlYZmFnN0RXeU95ZkFKZzVBZVJQMEs5ZE1LOGpDMDNKeWpZX29qaVExUVJfb1VRaWpDc0owWmNFWkFZby1YMmR3R2ZLNEVvMERVZC1ZT0p4MFRGLXBMeG1JS25DNEVEYzlUclRlNHpRQ3BBQVRzaTJtakc5ZGVMTEdrMFpINnpC0gH3AUFVX3lxTFB6VXVickFtTnBPMjBSbkdiN1VJNDNLeU52SXJjS091dld3ZE1jdmtHekMtVXhWczJSak5YaU8tWFNWdXViOHByZEZiUTk4emJ6alJIRVFId1pVV3ZCOXRXVnZTTno4TDRxVmtTZ0ZGTzdpdkRITmprX1o3dnk3NFJOanJscndabWZtNnpGSjNSWmF0SnE0Z0lMQWlNWmlXSi1feDR2OGxuZ1BzUHN4dEJpUnNwbjhuT0ZKXzQ0RC1GM3ZIdGxzdWdSaTRFTDRqYXZCblRPV3Y2MTNGbFFidUFQUUI2UUFNcVFONXZkc3daU2N1TW4yTVE?oc=5",
-        "source": "Valor Econômico",
-        "publishedAt": "2026-11-11T20:18:30.000Z",
-        "summary": "OAB/MS debate novo marco do Banco Central e economia digital na Rota Bioceânica Valor Econômico",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 7.31,
-        "relevance": 8.4
-      },
-      {
-        "title": "The Economist pede saída de CEO da Nvidia após caso extraconjugal com suposta espiã chinesa",
-        "link": "https://g1.globo.com/tecnologia/noticia/2026/11/11/the-economist-caso-huang-nvidia.ghtml",
-        "source": "G1 Economia",
-        "publishedAt": "2026-11-11T20:45:02.000Z",
-        "summary": "Jensen Huang, CEO da Nvidia, durante evento em Washington Julia Demaree Nikhinson/AP Photo A revista britânica The Economist publicou nesta quarta-feira (11) um artigo de opinião em que pede a saída de Jensen Huang do cargo de CEO da Nvidia",
-        "image": "https://s2-g1.glbimg.com/KHAYXnFNw9TMiNyASv2as4vHkqk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/S/TKeMkiRcKerUXLt8uFiQ/ap26312766429671.jpg",
+        "title": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQnEwMHJBWmdMWkJCNUk5UUdkcm45ei1lMExHNVNCS25LcWlSNEFaNTBzWFBhaUV0dzRqcmpXTldnSEEwT3l1MklMeURZUUpqdENXcXQtV3R0b0dKeEY1SGxVTUpWRW42Uldic2dTRjdTU3VXc0lIR2EySFBEdjBMamd3bkNvaFVDaERTTEY1eGlZYVpvcWZIU1BuVW9penlvNFJYa0JDTm5fZE0?oc=5",
+        "source": "BOM DIA SOROCABA",
+        "publishedAt": "2026-11-12T03:06:00.000Z",
+        "summary": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro BOM DIA SOROCABA",
+        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
         "topics": [
           "negocios",
           "geopolitica"
         ],
-        "score": 7.08,
-        "relevance": 8
+        "score": 6.46,
+        "relevance": 7
       },
       {
-        "title": "Exército Brasileiro reúne coronel e empresa de defesa para discutir como a inteligência artificial pode transformar decisões na guerra",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQWhaelZDbUJQVU00THQyYk5LSlFCa1JHVmtHMWU0dmF4c0x6VVF2Z0RzLWxHT1Y1SzNUMXRpMU80V0xTVnhxd09UNDZOSHJFcGVUaHkteW94QkswYjdKbmo2QjRDRlZDWjRZb2NCRndpbDZvdDlRSkJxZ0c2d1c3bVNWNVRCR2tCT0dRd2F2WW9aYXE4UXktaWRtd3lyUEx2RV9fbTVNampXczR3ZW5lTkdQVExYUjdMVUZSaWExLTNKZDhCclMwZndodmxzMGhPRHlZMWV3cktpRHZkdG1ZUFQ1UmlwRk9GTC1KWmV3ZDRzQXA3UGpPNWp1MV9yOUg0ME01SnQ3d1BTWVRm?oc=5",
-        "source": "Revista Sociedade Militar",
-        "publishedAt": "2026-11-11T23:44:00.000Z",
-        "summary": "Exército Brasileiro reúne coronel e empresa de defesa para discutir como a inteligência artificial pode transformar decisões na guerra Revista Sociedade Militar",
+        "title": "Tormenta nas ações de tecnologia reduz ambições bilionárias de Anthropic e OpenAI e aumenta cautela de investidores",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQN1JPVnpra0V5YTJ6Y3pPTy1pZFA3ZWRYODNyN2NnU3NqV213UzRRNDVDSHFfdlNMbnRzWVdxN2tjLWlPNFhXOGgxVlBZTGVQT1g1OVgtaWdKY3lFZ1JaMDRaZVBWUDgzUlJqR2hCOGoyXzYzc1JZU1JwYXZpVHlHRjZSMVY1bkx5eHR6NWJUbThMWkJGWnlLOFBna1A3R3N2MzJKYjJlY2ZkZUhfdmFvRnpQaGxTTk9OelJLSXM3Q1Y4VTF3N0owYWVtdTVHa05jeHBrRVhBaW94WHBLV2NLbTczZUZEY2g5RmZnWDRmQ09MdGlFYkhtQ1BRak9yY3pkcTVtbWlsdHhnRi15Ty1OTNIBnwJBVV95cUxNOHdPdHdUSk9ELXM0MnJSVmsyV3pMMnN3V2hpdjByVURBY29GYXFKa0dJcXotX0lXQUVLX1IwN05fRjdCTHBEekd3dUh2UnFoMC1rcGF4N1pwUVZzdzU2dnVsZDNIeUdGV24wWFpyOFVRWXUwajlxWmpYUFFBVzEta3BwakFvWjA3TXhUNkV4UExSRkVpR3hkeUdGdGcyVklheGg3Ri1KdzJKM3JGak1QcnBDam5hT2lXUHZnZXZtcFlUYmFvQ2Rid2RJWHJoNmJtSTZJWjE1WUlNODNRbWliT0F2N2NqT3FrRzNnMy1nWTRTSExYMVFuZTdQNHh4Yzh6RWxjNllfZ1QtY2VXdm1aeml2cUFjaTRyajhYOW5uOA?oc=5",
+        "source": "O GLOBO",
+        "publishedAt": "2026-11-12T03:00:00.000Z",
+        "summary": "Tormenta nas ações de tecnologia reduz ambições bilionárias de Anthropic e OpenAI e aumenta cautela de investidores O GLOBO",
         "image": null,
         "topics": [
-          "negocios",
-          "geopolitica"
+          "negocios"
         ],
-        "score": 6.95,
+        "score": 6.43,
         "relevance": 7
       }
     ],
@@ -924,7 +921,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 4.33,
+        "score": 3.53,
         "relevance": 5
       },
       {
@@ -937,7 +934,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 4.2,
+        "score": 3.42,
         "relevance": 6
       },
       {
@@ -950,7 +947,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.95,
+        "score": 3.22,
         "relevance": 4
       },
       {
@@ -963,7 +960,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.69,
+        "score": 3.01,
         "relevance": 4
       },
       {
@@ -976,24 +973,51 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.68,
+        "score": 3.01,
         "relevance": 4
       },
       {
-        "title": "Filosofia na Praia \"João Cabral: O Poeta e sua Sombra – Sobre a desumanização da arte\" - Leme | 11h",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmNQUnRCRldmVUkta2xaLVhYUl84TnJLSjdxa3pBMHo1OTctdDQwQkxxM3lkYVlERGtJRGhIQm1mUUtnaVVHdC1iaVlnTnNXMUFqTmN2OERoSkxTR1dBNktqRUtSLXhKNDhoUkFrZGQ1NzR5b2MxYUozZ01rYmxURXl4SUJMQnc2VDNJSnJSLW54VEJFRTBYOUh4RG04eEdBMUZucnBBZ3RxdUM2OHB2dG8ybmh3NXBIWU1sOTNianJidUk?oc=5",
-        "source": "Orla Rio",
-        "publishedAt": "2026-11-11T20:50:38.000Z",
-        "summary": "Filosofia na Praia \"João Cabral: O Poeta e sua Sombra – Sobre a desumanização da arte\" - Leme | 11h Orla Rio",
+        "title": "Deputado federal Idilvan Alencar articula votação do PL 1466/2026 e aponta resistência da direita à obrigatoriedade de Filosofia e Sociologia no ensino médio",
+        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdjBTRmtka2ZLVnlVQkttOVQyVElQXzFSdXVQWmtlMmV1aHEwTjlsMWxaUjljTFNQOHZmNE1pSWtwcnMxN3VtYnJyZFhyZnRBdnVjSHIteWhLelgxNVNXY2dwN2xSam5Va1pzbUpGZG11WndsTjliOHNTNnhTbU01YUZBMm1TSmQwRUVmaFJpUWxYdkhmZC13NDdJUTEtWF83RUI0OVpzOFNXY2dPdWNmREpfdF9SaVBtVFdGQkI1SVpTSU9JSWRTTFEwSVcyNmZNTW4zemNTOW40M1I3cUl2b1ZtU1lpTGNqRmFKd0E5Rm5RaWRVYklCaGV5YkpsN0ZzV3pMYnI4Sy1OdXEyWEwtdlFTa0ZDWEhReUVGa2J3?oc=5",
+        "source": "programa do rubão",
+        "publishedAt": "2026-11-11T20:58:09.000Z",
+        "summary": "Deputado federal Idilvan Alencar articula votação do PL 1466/2026 e aponta resistência da direita à obrigatoriedade de Filosofia e Sociologia no ensino médio programa do rubão",
         "image": null,
         "topics": [
-          "filosofia"
+          "filosofia",
+          "negocios"
         ],
-        "score": 3.55,
+        "score": 2.91,
         "relevance": 4
       }
     ],
     "cinema": [
+      {
+        "title": "Diretor vencedor de dois Oscars fala dos efeitos da ficção sobre a realidade em seu novo filme: 'Como fake news'",
+        "link": "https://g1.globo.com/pop-arte/cinema/noticia/2026/11/12/diretor-vencedor-de-dois-oscars-fala-dos-efeitos-da-ficcao-sobre-a-realidade-em-seu-novo-filme-como-fake-news.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-12T05:00:00.000Z",
+        "summary": "O cineasta iraniano Asghar Farhadi, vencedor de dois Oscars de Melhor Filme Internacional por \"A Separação\" (2011) e \"O Apartamento (2016)\", discute os limites entre realidade e ficção em seu novo filme, \"Contos Paralelos\". Esse é o seu pri",
+        "image": "https://s2-g1.glbimg.com/CV6J8VJUNFhacD4mmPsLPpjxTuM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/2/rK3u5hREKqx88PxsWitg/parallel-f02cor-2026117533.jpg",
+        "topics": [
+          "cinema"
+        ],
+        "score": 6.55,
+        "relevance": 6.6
+      },
+      {
+        "title": "O que assistir no cinema? Confira os filmes que estreiam nesta semana",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1E1ZWplaTNjYmp2Sm44TXBudFhqREVYV1pQckJJUWN5Y25uTE9BQWN6eEl5VDlpWGhsZjBXNUVuejl2aTdmWHBHSlV1QzdyMDkwMzFlaHgycGFNVDcwNkJlNGFGWjRLU2gxQV9PZ3kyQU1sSFVuTEhoc3UxOTNJdmYwM0ZxUjVJUWFpMFdSMjRvRHJkeFBrUWUwemtJQWZJTm0wOG5PMy1RSGFjVzdjUVBCYjRud3NySmpXdkdiUHRxSkNhZUg3YmctMVYxQ3poaVFKZjZlX3ZOa0xVZVR5TlBGOXdQZmcy?oc=5",
+        "source": "GZH",
+        "publishedAt": "2026-11-12T03:11:15.000Z",
+        "summary": "O que assistir no cinema? Confira os filmes que estreiam nesta semana GZH",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 6.48,
+        "relevance": 7
+      },
       {
         "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime, Apple TV e mais",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORlFVbDYwbzFjclNOWXRkYVRGX1JMUG5rOUtheHgxVnpETzEySWkyaExJRllYaFlRc2MwZFdqUXN2VHVua1NZbXhGeEh4VklaUHpoZ1QtMUJoZEtlSUFrQi1RX2VjYzhWZDV3MVJCbGFxV3FLN3Z1cnBiWGluY19INkpvTTBXOFRmVHlUNEw4TDRXZEMzRmtlNFB6YlRidUo4eUExVHJNby16aXJITUt2Vkt5MmtYZ0N2RmgzY0RjN2pYc2ViT1dqVWFEUTd3MTViNVozSXZZVdIB3AFBVV95cUxQS003YVM0bFpYY2s5UHFXMGJUMmk5dnpSM0ZxSk5RMjlCWnowU1hrbHV2Y0xlRFI5T1BvYXdVVzFMMGVoLTZ6VjFTZU5xdHhSaWh5anl2TmRVdHFXQV8wbjhOSHpWRTRjVkVUUmdZZVNVMHlWRDhsSXU0enc4Vk9HTUtzM3dCblRHZl9ld2p1eHotN3h6bVB4YjV0Ml8tOXowUGxnYUtBV0JkbC15dnZvN3MwbVJzSkJqekFrS3ZqSXp4ckJ0REN5d09VUFZmLWZJVjFrRTktbUVHUmlT?oc=5",
@@ -1004,101 +1028,63 @@
         "topics": [
           "cinema"
         ],
-        "score": 7.5,
+        "score": 6.12,
         "relevance": 8
       },
       {
-        "title": "O que assistir no cinema? Confira os filmes que estreiam nesta semana",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN25FYW13azk4ZUpaNk9CbmxaRmYxMHJqTTNVTlBSY1ZXOU5JWDBCN1NxczA1NzBtUURKcm9zVGlFUmVDdUdPSk9YREI4bmw4M28yWEE1elVoMmx6RVBZSkZxVWtJVWQ3dmxiZl92NmQxZ21RSU5WS05Fb2tWaExScXlFU0tOLUliYUloaUVpblRvMGJpeHdoNHFCSThIZjk3TkZNTnlnMC1vVFdnLVdkbTJTZzVCTDhtQ1hRdERIbnp1R2RWb2gxSFczVlUyNzVSa1pDYWoyZGxaWEktT1BNTW5XTS12b3ZSZ0lWbUkzc0drdw?oc=5",
-        "source": "Terra",
-        "publishedAt": "2026-11-11T22:01:00.000Z",
-        "summary": "O que assistir no cinema? Confira os filmes que estreiam nesta semana Terra",
+        "title": "Filme ”Ebenezer e os Fantasmas do Natal” estreia nos cinemas de Goiânia",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbmxRQVRjbDlGbVl6dVpzWEx4YjhNa2cxdkZ3dHJnSVZUd3lWV2tyQTZ5VUFuMlB5STJTRzBCdWJoYVluWlU1aklZX1lhcjYwaEZGV21RU01aY2plUnJxdmJPQnl2bkZaM1FKQmpWcExOeTBJSk44a2FHMk1keUJMSUdBUlY2RHI2b0pGUmdFS1hpbEZsSlA0NVV3?oc=5",
+        "source": "A Redação",
+        "publishedAt": "2026-11-12T03:30:53.000Z",
+        "summary": "Filme ”Ebenezer e os Fantasmas do Natal” estreia nos cinemas de Goiânia A Redação",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.51,
-        "relevance": 7
-      },
-      {
-        "title": "Festival de cinema gratuito em Curitiba tem sessões de filmes de dez países",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3UtRTdwX0tMWjgteDl4N2kzUlhqanFuSFJIYXBZQlktNWRmZ05lZWlodUdBMDF0a3ltNm9yYzhOQUswd1Y4X1dOb3RNcUJfWkpCUnAwVkFYNWZoS0phSG84OGZQZGNYdW1aV0hTTE1ZN1V0ZXlETFRrTFk3M25BYjZIMXVOUjZTYnZabHZFMHNwUFpDVG1KRTFVOXVmNmNnaEhacE1uNkl4U0JqdzBPUzBRSdIBuAFBVV95cUxQV3pYRnFlTnU2RU9OQktBa3JhZENXNFRVRXNEcFpSS3Ezb1djWGFzV2FyMGJuaUJ1X1BZYlVYNE1FeXBqRE41SXp5TjFiR1c5ZXJlN2dGOE1NYnhtb3E1YWlwRjFyZDVEMlo0djRDS2ZzemFlYmFSZzNDalBISnBoUEg2WkVtQmxjWEIySzI4RWRLSF9oTi1VRDhHLU9NekZrcnhvU3NYYnE3R19GV0N0STB6WDZBczh6?oc=5",
-        "source": "Bem Paraná",
-        "publishedAt": "2026-11-11T17:58:00.000Z",
-        "summary": "Festival de cinema gratuito em Curitiba tem sessões de filmes de dez países Bem Paraná",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 6.36,
-        "relevance": 8
-      },
-      {
-        "title": "Programação da Cinemateca Paulo Amorim reúne três estreias e filmes em últimas exibições",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYUxnUFQzTlI0YWFxOWNuOE05SHk4NXEzMVk0Si1VZExSbkRVWE1tOWRpLUlOMHduSGlaVHhlUjZUR0I1SjVXSDlnTUg2eWVYUlhoOXVIZXJTbWRUMFVfWEFjZERnRGVuQnlHbVd5eXZRRFVhaHFabE5meGtfMlJBdzhWem94aVJFQVpzNmk0T3JXWjAxckJGMkZ6Nk01OGtXamVVNGwxRUdrX1hDbWgyN0h6V2E3M3hpVG9YTTh6LTZzb00wektydW5hZU0tREts?oc=5",
-        "source": "Sul 21",
-        "publishedAt": "2026-11-11T20:51:00.000Z",
-        "summary": "Programação da Cinemateca Paulo Amorim reúne três estreias e filmes em últimas exibições Sul 21",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 6.22,
-        "relevance": 7
-      },
-      {
-        "title": "13 filmes que chegam aos cinemas nos próximos meses e você vai querer assistir",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdUhTb0ZrMVU3WS1EWmpQcmJZRVE1T29RTkp6ZENzS3hPa2x6MnR2dWhLMGRoTlJ5cThBVmtWbE1XMDJtYUdsQzhKemtISkVNQTVMaV9pTmJPeEQ3ZEhKVU8tT0FHMTBGMzBnUURDMHUtTDlQVXJDV0JMZ0FEdGZMWnhPV0hCaDhsNWN2cG5WQjJ6UXdjQi1vQ29iUHhFS3ZlTDFySGFlVTg1X0lLYnZ3TEdZTDgyR1Y0RUJqQzQ2Zlp0UEYyZUZsMlJWOTJCTk5ZUWVzT2ZBWUtkZXNJa05DVDNhb0tKMDZIOGlHeEhicnVJRmx3UmNaZTVB?oc=5",
-        "source": "Rede Atlântida",
-        "publishedAt": "2026-11-11T23:28:19.000Z",
-        "summary": "13 filmes que chegam aos cinemas nos próximos meses e você vai querer assistir Rede Atlântida",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.9,
+        "score": 5.62,
         "relevance": 6
       },
       {
-        "title": "Data confirmada: após arrecadar 122 milhões de dólares nos cinemas, o filme considerado o sucessor de 'Jurassic Park' chega ao streaming",
-        "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNR0JFajlOQ25uQjVlejVVektiY3BSU2ozUmloLUJraVhRSi03ZDlvcUFiNURkXy05aG5nT1pWN0w4RnNQOExaU05BbHk5VWl4YmhfMXU0cTYxNEhsTUUzQXFGdl8tT05lSV91T1dDT2Q3RkhrWkJtNFBCempqb25PdzM4aklyXzZCdTFUZTBTLXNyVWc2U1RzNWR1YmdGckh1RExOaTJ5WDlTeEZILU14U3BoZk80ajZoQU5ZTVlfLWp1WTRJVlBHcDdHVjlSYXN5VFQ4Z3d3YXN1T242RDlSY0xsbkZ6ZmFOY2dnNDNlalJwS2dXMFFCUWZwLUNfSTFhVUQwNGpnVjFqeHBxMEdQOHR0NjhGWGNjLWZJOGJhY1Bqa0oxSTZ6aDlEbFdYOFpvV25jc251ZjUxek0?oc=5",
-        "source": "Terra",
-        "publishedAt": "2026-11-11T23:19:00.000Z",
-        "summary": "Data confirmada: após arrecadar 122 milhões de dólares nos cinemas, o filme considerado o sucessor de 'Jurassic Park' chega ao streaming Terra",
+        "title": "Prefeitura traz para o balneário Cassino o Festival de Cinema Francês do Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMWpEZzFRdllwWVo1M0NuMTFicC1qZGJCR2txaERQcVNJa0FpcUxCdzVDX2tsdTZhUmpudmRBQzFQUHR3ME04Mzg1Z0FoUlVvcWRnSFFWZE5PMkxxakMtbVJyeWlBUEYxVXpVWUxyN0NkTnNCX2xabXRTLTNMRE4zT1BXckdRejNYZFVxTDVhSzFkRUZ2T0o1WnZ4a1dqS0prZ1VyYjJpOW9SSDNDMHFZaktMUXlzUVBmZXU3R1JLb3lma2lqVlBwUEF0ak1XSk1RM0tyRnhGbnpGN0ZlRjJLRHpn?oc=5",
+        "source": "Prefeitura Municipal de Rio Grande/RS",
+        "publishedAt": "2026-11-12T03:12:28.000Z",
+        "summary": "Prefeitura traz para o balneário Cassino o Festival de Cinema Francês do Brasil Prefeitura Municipal de Rio Grande/RS",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.86,
+        "score": 5.56,
+        "relevance": 6
+      },
+      {
+        "title": "Prêmio de Cinema apresenta cinco filmes nesta quarta-feira em Campo Grande",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb2NfNDBBX1JsbUtjSEdDbFhaUmV3MkdKVkRmRXd3bmlQbDJBV05haTA2Um85UGJGV1BPUGw2cm1RYmItd0ljdHZLOEFCbjMteDhBd2lOdGRjb1gydTYtR08yTFFaU2wxd3RNR2xlZjZqbWRubEVTeEQxOTNWOVk0dHJUNm9PYkpYZU9RekU2YmlEakpfUGpSWHhXdUpsYUVJSDFJWkFtQkRRMmVJ?oc=5",
+        "source": "REDE BRASIL DE TELEVISÃO",
+        "publishedAt": "2026-11-12T02:44:07.000Z",
+        "summary": "Prêmio de Cinema apresenta cinco filmes nesta quarta-feira em Campo Grande REDE BRASIL DE TELEVISÃO",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.46,
         "relevance": 6
       }
     ],
     "medicina": [
       {
-        "title": "Desacordado desde setembro, bebê de 8 meses volta a interagir com médicos em Sorocaba",
-        "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2026/11/11/acorda-bebe-sorocaba.ghtml",
+        "title": "Qual é o risco de doença grave nos olhos por uso de Ozempic e Mounjaro que gerou alerta de agência dos EUA",
+        "link": "https://g1.globo.com/saude/noticia/2026/11/12/qual-e-o-risco-de-doenca-grave-nos-olhos-por-uso-de-ozempic-e-mounjaro-que-gerou-alerta-de-agencia-dos-eua.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-11T22:19:47.000Z",
-        "summary": "bebê desacordado está internado há mais de duas semanas em hospital de Sorocaba (SP) sem diagnóstico definitivo Arquivo Pessoal Joaquim Rocha Santos, o bebê de oito meses que estava desacordado desde o fim de setembro e sem um diagnóstico d",
-        "image": "https://s2-g1.glbimg.com/dZgqr27VvuKD6W7QpEZfMsVbiNU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/i/Ifbk4LQt2XauvyhwFuzg/whatsapp-image-2026-10-14-at-15.59.29-1-.jpeg",
+        "publishedAt": "2026-11-12T05:00:00.000Z",
+        "summary": "ozempic Getty Images/BBC A FDA, agência reguladora de medicamentos dos Estados Unidos, determinou que os fabricantes de canetas para perda de peso da classe dos agonistas de GLP-1 devem incluir em suas bulas alertas sobre aumento de risco d",
+        "image": "https://s2-g1.glbimg.com/2jVTnH1ZQLXekp5vpnjxUPzWBxU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/q/CTl5RoT7uXnVNYSWyTDw/imagem-cortada-50-.jpg",
         "topics": [
-          "medicina"
+          "medicina",
+          "geopolitica"
         ],
-        "score": 5.08,
-        "relevance": 5.4
-      },
-      {
-        "title": "Médicos, gestores e autoridades debatem desafios da gestão médica",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3NkRjRJMzFkUWVhNnNveHJCTHgzNDRubVA2emNQUWdyTlJTY29ZYTBBUkhJb3M5dWFPMGxrdEx4NEtTSkFrTGlmVEdDZnpqeG5Kc1RiRTg1S3pzckFwbjJBS2RNMWdWeXUwY3poSEpSNTctM0ZJMTEyU1RzS3RuVmVhMk5ZcGRMWmZSclhjWEp3SXN3clJfbFV1UUs5ampIaWc?oc=5",
-        "source": "Conselho Federal de Medicina.",
-        "publishedAt": "2026-11-11T20:48:00.000Z",
-        "summary": "Médicos, gestores e autoridades debatem desafios da gestão médica Conselho Federal de Medicina.",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.79,
-        "relevance": 5.4
+        "score": 4.56,
+        "relevance": 4.6
       },
       {
         "title": "Secretaria Municipal de Saúde de Varginha MG publica edital para concurso temporário de médicos",
@@ -1110,7 +1096,33 @@
         "topics": [
           "medicina"
         ],
-        "score": 4.78,
+        "score": 3.9,
+        "relevance": 5
+      },
+      {
+        "title": "Espetáculo | Show Medicina 2026: Medisseia, o bom filho a casa entorna",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHNvd3BPMzVoYVdLOHp2T21tRVZNTGVQSDZ1SWE4TTdhdVFicjltTHRYV21RRjdsUTAtSTN3ay1xYzNudm9XYTdYYkxkYmctWmtKQ25KVndZVC1JQlZ6WlRvT3BKMVdlY1lHQVZqVmFwRFRqcXl6WllmNUhvVmpGVUhYS3JmZVVoT19VTnZfUDRXMEs1SHJLOGVRVzNfaXZSUVpvZEJ6VUlma3RBYmkxV3lmUQ?oc=5",
+        "source": "BH Eventos",
+        "publishedAt": "2026-11-12T03:02:14.000Z",
+        "summary": "Espetáculo | Show Medicina 2026: Medisseia, o bom filho a casa entorna BH Eventos",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.68,
+        "relevance": 4
+      },
+      {
+        "title": "Médicos, gestores e autoridades debatem desafios da gestão médica",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3NkRjRJMzFkUWVhNnNveHJCTHgzNDRubVA2emNQUWdyTlJTY29ZYTBBUkhJb3M5dWFPMGxrdEx4NEtTSkFrTGlmVEdDZnpqeG5Kc1RiRTg1S3pzckFwbjJBS2RNMWdWeXUwY3poSEpSNTctM0ZJMTEyU1RzS3RuVmVhMk5ZcGRMWmZSclhjWEp3SXN3clJfbFV1UUs5ampIaWc?oc=5",
+        "source": "Portal Médico",
+        "publishedAt": "2026-11-11T20:48:00.000Z",
+        "summary": "Médicos, gestores e autoridades debatem desafios da gestão médica Portal Médico",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.62,
         "relevance": 5
       },
       {
@@ -1123,34 +1135,20 @@
         "topics": [
           "medicina"
         ],
-        "score": 4.34,
+        "score": 3.54,
         "relevance": 5
       },
       {
-        "title": "Quadrilha rouba remédios especiais em transportadora e causa prejuízo de R$ 500 mil no interior de SP",
-        "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/11/11/quadrilha-rouba-remedios-especiais-em-transportadora-e-causa-prejuizo-de-r-500-mil-no-interior-de-sp.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-11T22:06:00.000Z",
-        "summary": "Quadrilha rouba remédios especiais em transportadora e causa prejuízo de R$ 500 mil Uma quadrilha armada invadiu uma transportadora de medicamentos e roubou cerca de R$ 500 mil em produtos farmacêuticos no Jardim Paschoal Innecchi, em Ribei",
-        "image": "https://s2-g1.glbimg.com/YShthPS-X7dSvEKo06o7vp429tY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/P/w/2kzLE7ShWLFtbIgcCsDA/funcionarios.jpg",
-        "topics": [
-          "medicina",
-          "negocios"
-        ],
-        "score": 4.29,
-        "relevance": 4.6
-      },
-      {
-        "title": "AVANÇO NA MEDICINA: vacina personalizada reduz em 42% o risco de recorrência do melanoma",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWh6U21DS2dxcXJxWnJSUnVqZGlvelozMC1xUVU2MFE0eTlFYmw5bDNLY1duVzFDZHk4aVVOYzhOYmJCcVF3RGN1V0dzRWRJMXVxZkkyUFBhcmVMYmtESG5wcHNBbUItRFc1Zm9ZS2paOUhBOTUzU0U0bDQ5QmNRVnpOT20tQlNKa1dMX0FZZ2lPZG1MUHhDSzc5bV84RjMzRlhDdktUc1F0dVhjRnRrejNReUxYVHhI?oc=5",
-        "source": "Salete em Sociedade",
-        "publishedAt": "2026-11-11T19:42:40.000Z",
-        "summary": "AVANÇO NA MEDICINA: vacina personalizada reduz em 42% o risco de recorrência do melanoma Salete em Sociedade",
+        "title": "CRM-PR homenageia três instituições de saúde por serviços prestados à medicina e à comunidade - CRM-PR",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNHYwLXBuRi1lSWJzVGlfOHFjRzE5TTRVdFAwVmNHMFhhY25QdGdXeDdhdk1Jel9RUmJOaWlJcC1SMHd1MTl6V2RJY0JHSDEwV2x4a3FCUUxqV19RSkRWRFRndUxjellJaE1UekczaGNNb0N6WU5ZdkxoSmUwWWp0WS05S2E4VWpIVHVCQWFneGtMdUhaVzdMa1BRdGQ3WGZ3TTFFRnZwalE2S2dnZ3luZm44YmNyMzlhUFVqTFQydndFX2k2MHJWVw?oc=5",
+        "source": "Google Notícias",
+        "publishedAt": "2026-11-11T19:34:09.000Z",
+        "summary": "CRM-PR homenageia três instituições de saúde por serviços prestados à medicina e à comunidade CRM-PR",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.25,
+        "score": 3.45,
         "relevance": 5
       }
     ]
