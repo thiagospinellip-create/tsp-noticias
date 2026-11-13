@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T13:43:53.974Z",
+  "generatedAt": "2026-11-13T23:05:44.321Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -30,18 +30,69 @@
   ],
   "highlights": [
     {
-      "title": "Dólar sobe com mercado atento à aprovação do pacote fiscal no Senado e aos dados do varejo",
+      "title": "Dólar fecha em leve alta, a R$ 5,65, com pacote fiscal no radar; Ibovespa avança",
       "link": "https://g1.globo.com/economia/noticia/2026/11/13/dolar-ibovespa.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-13T12:00:00.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta sexta-feira (13), com os investidores atentos aos desdobramentos da votação do pacote fiscal no Senado e à divulgação de novos indicadores econômicos no Brasil e n",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em alta de 0,05% nesta sexta-feira (13), cotado a R$ 5,6549. Com isso, manteve-se no maior valor desde junho de 2025. O Ibovespa, principal índice da bolsa brasileira, avançou ",
       "image": "https://s2-g1.glbimg.com/en-e3pXXYmmv5grpZimBQ0X1DaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg",
       "topics": [
-        "negocios",
-        "geopolitica"
+        "negocios"
       ],
-      "score": 13.1,
-      "relevance": 14
+      "score": 9,
+      "relevance": 13.8
+    },
+    {
+      "title": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T16:15:00.000Z",
+      "summary": "Presidente do BB fala sobre crise com o agro A forte queda das ações do Banco do Brasil na quinta-feira (12) refletiu a reação negativa do mercado aos resultados do terceiro trimestre de 2026, divulgados na véspera. Os papéis recuaram 8,35%",
+      "image": "https://s2-g1.glbimg.com/zuPWhQlDM7Vk3gwOLrQMG6FXYEw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/G/I/M5h9MWQimpvflJf497Og/2021-03-18t214544z-1-lynxmpeh2h1m0-rtroptp-4-bancos-bb-renuncia.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.76,
+      "relevance": 11.4
+    },
+    {
+      "title": "Quem são os produtores inadimplentes do Banco do Brasil? Especialistas explicam a crise no agro",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/quem-sao-os-produtores-inadimplentes-do-banco-do-brasil-especialistas-explicam-a-crise-no-agro.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T18:30:00.000Z",
+      "summary": "Presidente do BB fala na Globo news sobre inadimplência do agro Especialistas em crédito rural ouvidos pelo g1 afirmam que o aumento da inadimplência no agronegócio foi puxado principalmente por médios e grandes produtores do Centro-Oeste, ",
+      "image": "https://s2-g1.glbimg.com/fLXgFAG3y0Oa_b_C7mI_HKK0RIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/A/nnxIBfTfOLzPlQnGfOMw/261113-grafico-inadimplencia-do-agro-por-linha-de-credito-no-banco-do-brasil.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.71,
+      "relevance": 9.2
+    },
+    {
+      "title": "Quais os perigos da desaceleração da economia citada pelo Banco Central?",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV0VpOEZUNmw2ODczejdQLVc3VTRnWnRiUmU1M2RYRGJMSmFFY1VQRUFjZ25PS3ZNbnR2U1VGRXVZbTN4VUZOeUJUeWs5aUFiVHdGZWd3S3ltcFVxV1cyTTJSdEwyZHVjdW5lUUJsOFpZVHR3dkVya0JTR1ZGQTdSQWZPVkhOWlhiLU1FZHhwblZ5NnRGRURaTDd0N1Q3dkRzNlZKdlc1UksxUVpaTTNTdmRGRXBTc2ItNjE0cWFvVWhDbnpiSTVxdEZn?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-11-13T20:01:51.000Z",
+      "summary": "Quais os perigos da desaceleração da economia citada pelo Banco Central? CNN Brasil",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.11,
+      "relevance": 8
+    },
+    {
+      "title": "Associações do agro rebatem BB sobre alta da inadimplência",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3ltNUh6MDFVSkJrRFBoUDdQQlNGSHhINEtNQkJyLTI4em03TjZSVjB4M2FhN3hHRG16eHg3UHplcVhxazI0MlJ1b1FSaWlLTkdsN0Z2eENiWlM2clJhM2owdVo5aUZtY1VVR19PWlgxOHRIQ2w4MlpzTzZJRmF5RjUyMVJJNFRFX1NZT0duUFRFaFB0TXRnNDJLOTJOdlVlYXYteXhGTk1UZXdaUWNmYzBEeU51b2c?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-11-13T18:25:00.000Z",
+      "summary": "Associações do agro rebatem BB sobre alta da inadimplência Agência Brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.85,
+      "relevance": 8.2
     },
     {
       "title": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil",
@@ -53,245 +104,16 @@
       "topics": [
         "negocios",
         "geopolitica"
-      ],
-      "score": 9.78,
-      "relevance": 12.2
-    },
-    {
-      "title": "Ucrânia faz grande ataque de drones contra a Rússia, que segue atacando energia ucraniana",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ucrania-faz-grande-ataque-de-drones-contra-a-russia-que-segue-atacando-energia-ucraniana.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-13T09:17:05.000Z",
-      "summary": "Termina sem avanço tentativa de negociação de paz entre Ucrânia e Rússia A Ucrânia fez uma de suas maiores ofensivas contra a Rússia na madrugada desta sexta-feira (13), lançando quase 1,2 mil drones contra o território vizinho. Segundo inf",
-      "image": "https://s2-g1.glbimg.com/4EtGsdgWlGW0bSTIjzy2iVvKTpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/X/nhnYqfSK2G8BbAF0R0Wg/2026-11-13t050636z-1933880309-rc2qmoada9wy-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 8.09,
-      "relevance": 9.6
-    },
-    {
-      "title": "Falha da Microsoft afeta serviços de emergência, empresas e governos em dezenas de países",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/microsoft-falha-paises.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-13T13:04:42.000Z",
-      "summary": "Serviços Microsoft caem em 70 países; empresa faz reparos Uma falha global nos serviços da Microsoft afeta empresas, governos e serviços de emergência em dezenas de países. O problema, que começou na quinta-feira (12), continuava nesta sext",
-      "image": "https://s2-g1.glbimg.com/z7v6z0X_HTp_2NvDcUQDygnfZLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/T/1bZGxPS6qrl8puglPKZQ/2026-11-13t091517z-914029153-rc2xmoa5oh4k-rtrmadp-3-microsoft-outages.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.61,
-      "relevance": 7.8
-    },
-    {
-      "title": "Workshop no Sindiex aborda aplicações da Inteligência Artificial no comércio internacional - Fecomércio-ES",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk15Um9pNWM1by02di1YQWl5VUpxZzZseWQ1dmZiSlZaUTZ6eUlrdHo4by1acWxhcDFVZ0xmeU1DOFl5cF8tSWwwTVgyekpiQ1k5VDdUTm5fajhBQlZ3aWRiWllJbHlCOXBtam9xbGFHUU5OVTcwSHdFUUlvdjVWQzlsZTA0N2lwcFlLNWlWNnp5aTlFQnNMc281YjVNWGx4S0hJNFB4RWZSSGs4TjNoT09nY3RWTjhCeUc2Rnd6ZkNKOWVFcnlv?oc=5",
-      "source": "Google Notícias",
-      "publishedAt": "2026-11-13T11:59:50.000Z",
-      "summary": "Workshop no Sindiex aborda aplicações da Inteligência Artificial no comércio internacional Fecomércio-ES",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.48,
-      "relevance": 8
-    },
-    {
-      "title": "Irã exibe arsenal militar em Teerã: 'EUA acabarão falhando e desistirão'",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ira-exibe-arsenal-militar-em-teera-eua-acabarao-falhando-e-desistirao.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-13T12:30:30.000Z",
-      "summary": "Irã exibe arsenal militar em exposição em Teerã Uma exposição apresentando mísseis, drones e sistemas de defesa aérea desenvolvidos pelo próprio Irã está sendo realizada em Teerã. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ",
-      "image": "https://s2-g1.glbimg.com/GGSzShIxzkpnYuvmd9YK8MQkV2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/6/3oIFe5QNqsT3U1GSTFJg/misseis.png",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 7.25,
-      "relevance": 7.6
-    },
-    {
-      "title": "Banco do Brasil em queda, varejo e inflação ao produtor nos EUA movem o mercado",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaC1qVm1ndlpWVTZBR2FNaEg5MW1FZnBtTjFienJ1R3VjOUktOHE1Q0lqVkJRTEtnQ1Faa0RRV3djYk9wUDNPejA2VmRFVEVENXR0MVNfSUFfczdFNi1zX1FKNUo5aE9Tc0M4U3BrZ25TekVwM1hzX1hmdHZvZ0ZTNFRHQjRlM1VyZGRNQmZFby1GY1g1RjNWVG9mUjc4dTNCRTRTbE1wY3RaYXFwSjhhbFQxbkhsNDRyTi02ekszaUhFQkpIb3o3cW1NQmhEUFowR1E1d3pqZDBiR0dMVWxCM2VfcDVEdjd1Sm1Ocg?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-11-13T11:05:31.000Z",
-      "summary": "Banco do Brasil em queda, varejo e inflação ao produtor nos EUA movem o mercado UOL Economia",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.05,
-      "relevance": 7.8
-    },
-    {
-      "title": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0lCN18wYjJqZjNmcTJtb1BEUDUwb2JNWHVhYWRNSEdBV0NFUDNIc3pRSktpRkpiNmxTd2ZvckNzZ2NDbk5tZXBaVTBVczQ4NEZHTWttX0g1dEliQ0VLaUVDb2JQR3FQUTEyTER5RVhqZzNWMUgxV0JZZFR3eHVtUWlpNmtFY2t4c0NUMlNMMFBJMFdpZnVxZHc1eVVzaHlKSW1vOFp6RVVSUWc2aWYwdkd4S1psV3JKQ2FiUUgtZ29PVzZhbjRFUU5OYUtrRzJsR0hCNnNfNWYzTTlrYlV30gHuAUFVX3lxTFB6X3hUVlRZOUNydXlPbjcyUUN6elhpWHhZbFdsTFEyZUpSLWtqa01WMTBocUI1cjlleHYybkh5bmF2RUN1eWVwMkJqcmd0c1lCOXU3dlZUaW5XZnVEY3ZmX013Z1JWc0lwendrY0JlaTJ3bmptX3ExaFc4X1IwT1BiQXNiVXlvVDVXQUN3dVVkRWFfQTNjblRzbEx5RDBTWldCWGVPRFVYdjJkclNVaGRTZTljaGc2RGMta1NPSjVZLTIwLVFIY2NVSWZhYzNaTHlyUm5LYjdDUU1MNW11ZzMxdXFXc0lEOWFKMmdLSUE?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula G1",
-      "image": "https://s2-g1.glbimg.com/eduBJVzlZQj9k8fVzI4td0s9_rQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/A/thl5gjT4uXlf11tMrHpQ/fotojet-40-.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 7,
-      "relevance": 9.8
-    }
-  ],
-  "items": [
-    {
-      "title": "Dólar sobe com mercado atento à aprovação do pacote fiscal no Senado e aos dados do varejo",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/13/dolar-ibovespa.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-13T12:00:00.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta sexta-feira (13), com os investidores atentos aos desdobramentos da votação do pacote fiscal no Senado e à divulgação de novos indicadores econômicos no Brasil e n",
-      "image": "https://s2-g1.glbimg.com/en-e3pXXYmmv5grpZimBQ0X1DaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 13.1,
-      "relevance": 14
-    },
-    {
-      "title": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/o-que-levou-os-produtores-rurais-a-inadimplencia-recorde-no-brasil.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-13T08:00:01.000Z",
-      "summary": "O que levou os produtores rurais à inadimplência recorde no Brasil “Eu perdi o controle do endividamento e cortei os pagamentos. Tive que escolher entre a manutenção da minha família e a sobrevivência dos animais ou pagar ao banco”. O relat",
-      "image": "https://s2-g1.glbimg.com/NhK8PReOkcvN8TCxqZJiLITVYrc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/m/gsvOqBQrqYbh4OykqX3g/design-sem-nome-1-.png",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 9.78,
-      "relevance": 12.2
-    },
-    {
-      "title": "Ucrânia faz grande ataque de drones contra a Rússia, que segue atacando energia ucraniana",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ucrania-faz-grande-ataque-de-drones-contra-a-russia-que-segue-atacando-energia-ucraniana.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-13T09:17:05.000Z",
-      "summary": "Termina sem avanço tentativa de negociação de paz entre Ucrânia e Rússia A Ucrânia fez uma de suas maiores ofensivas contra a Rússia na madrugada desta sexta-feira (13), lançando quase 1,2 mil drones contra o território vizinho. Segundo inf",
-      "image": "https://s2-g1.glbimg.com/4EtGsdgWlGW0bSTIjzy2iVvKTpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/X/nhnYqfSK2G8BbAF0R0Wg/2026-11-13t050636z-1933880309-rc2qmoada9wy-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 8.09,
-      "relevance": 9.6
-    },
-    {
-      "title": "Falha da Microsoft afeta serviços de emergência, empresas e governos em dezenas de países",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/microsoft-falha-paises.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-13T13:04:42.000Z",
-      "summary": "Serviços Microsoft caem em 70 países; empresa faz reparos Uma falha global nos serviços da Microsoft afeta empresas, governos e serviços de emergência em dezenas de países. O problema, que começou na quinta-feira (12), continuava nesta sext",
-      "image": "https://s2-g1.glbimg.com/z7v6z0X_HTp_2NvDcUQDygnfZLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/T/1bZGxPS6qrl8puglPKZQ/2026-11-13t091517z-914029153-rc2xmoa5oh4k-rtrmadp-3-microsoft-outages.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.61,
-      "relevance": 7.8
-    },
-    {
-      "title": "Workshop no Sindiex aborda aplicações da Inteligência Artificial no comércio internacional - Fecomércio-ES",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk15Um9pNWM1by02di1YQWl5VUpxZzZseWQ1dmZiSlZaUTZ6eUlrdHo4by1acWxhcDFVZ0xmeU1DOFl5cF8tSWwwTVgyekpiQ1k5VDdUTm5fajhBQlZ3aWRiWllJbHlCOXBtam9xbGFHUU5OVTcwSHdFUUlvdjVWQzlsZTA0N2lwcFlLNWlWNnp5aTlFQnNMc281YjVNWGx4S0hJNFB4RWZSSGs4TjNoT09nY3RWTjhCeUc2Rnd6ZkNKOWVFcnlv?oc=5",
-      "source": "Google Notícias",
-      "publishedAt": "2026-11-13T11:59:50.000Z",
-      "summary": "Workshop no Sindiex aborda aplicações da Inteligência Artificial no comércio internacional Fecomércio-ES",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.48,
-      "relevance": 8
-    },
-    {
-      "title": "Irã exibe arsenal militar em Teerã: 'EUA acabarão falhando e desistirão'",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ira-exibe-arsenal-militar-em-teera-eua-acabarao-falhando-e-desistirao.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-13T12:30:30.000Z",
-      "summary": "Irã exibe arsenal militar em exposição em Teerã Uma exposição apresentando mísseis, drones e sistemas de defesa aérea desenvolvidos pelo próprio Irã está sendo realizada em Teerã. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ",
-      "image": "https://s2-g1.glbimg.com/GGSzShIxzkpnYuvmd9YK8MQkV2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/6/3oIFe5QNqsT3U1GSTFJg/misseis.png",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 7.25,
-      "relevance": 7.6
-    },
-    {
-      "title": "Banco do Brasil em queda, varejo e inflação ao produtor nos EUA movem o mercado",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaC1qVm1ndlpWVTZBR2FNaEg5MW1FZnBtTjFienJ1R3VjOUktOHE1Q0lqVkJRTEtnQ1Faa0RRV3djYk9wUDNPejA2VmRFVEVENXR0MVNfSUFfczdFNi1zX1FKNUo5aE9Tc0M4U3BrZ25TekVwM1hzX1hmdHZvZ0ZTNFRHQjRlM1VyZGRNQmZFby1GY1g1RjNWVG9mUjc4dTNCRTRTbE1wY3RaYXFwSjhhbFQxbkhsNDRyTi02ekszaUhFQkpIb3o3cW1NQmhEUFowR1E1d3pqZDBiR0dMVWxCM2VfcDVEdjd1Sm1Ocg?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-11-13T11:05:31.000Z",
-      "summary": "Banco do Brasil em queda, varejo e inflação ao produtor nos EUA movem o mercado UOL Economia",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.05,
-      "relevance": 7.8
-    },
-    {
-      "title": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0lCN18wYjJqZjNmcTJtb1BEUDUwb2JNWHVhYWRNSEdBV0NFUDNIc3pRSktpRkpiNmxTd2ZvckNzZ2NDbk5tZXBaVTBVczQ4NEZHTWttX0g1dEliQ0VLaUVDb2JQR3FQUTEyTER5RVhqZzNWMUgxV0JZZFR3eHVtUWlpNmtFY2t4c0NUMlNMMFBJMFdpZnVxZHc1eVVzaHlKSW1vOFp6RVVSUWc2aWYwdkd4S1psV3JKQ2FiUUgtZ29PVzZhbjRFUU5OYUtrRzJsR0hCNnNfNWYzTTlrYlV30gHuAUFVX3lxTFB6X3hUVlRZOUNydXlPbjcyUUN6elhpWHhZbFdsTFEyZUpSLWtqa01WMTBocUI1cjlleHYybkh5bmF2RUN1eWVwMkJqcmd0c1lCOXU3dlZUaW5XZnVEY3ZmX013Z1JWc0lwendrY0JlaTJ3bmptX3ExaFc4X1IwT1BiQXNiVXlvVDVXQUN3dVVkRWFfQTNjblRzbEx5RDBTWldCWGVPRFVYdjJkclNVaGRTZTljaGc2RGMta1NPSjVZLTIwLVFIY2NVSWZhYzNaTHlyUm5LYjdDUU1MNW11ZzMxdXFXc0lEOWFKMmdLSUE?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-13T05:00:00.000Z",
-      "summary": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula G1",
-      "image": "https://s2-g1.glbimg.com/eduBJVzlZQj9k8fVzI4td0s9_rQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/A/thl5gjT4uXlf11tMrHpQ/fotojet-40-.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 7,
-      "relevance": 9.8
-    },
-    {
-      "title": "Falha na Microsoft afeta empresas de inteligência artificial",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTlR3cmh1ajIwamFoOTJfVmdkY0JpakpDaDJwc2J4VF9rVFFEWXdtQTdpYjcxOUgzT21WdUlVcFdETmxHSTZ1Nkl0bWJnS3dxREJUanVTNWZrMmtSdGxoeFJCeGNLb2RFTW0xS1lPam5ZUjAtcXEtMUhQRkdIZGJ2dmZYd3IxZmZPQ2g0aFNLajlrVkZyQWpaRDdFZ2kxSENneGVkcW9iNXBydXpKVmRJVy1XN0RYN2FTVVh4Ym8ycjNSRTA?oc=5",
-      "source": "Correio do Povo",
-      "publishedAt": "2026-11-13T13:03:29.000Z",
-      "summary": "Falha na Microsoft afeta empresas de inteligência artificial Correio do Povo",
-      "image": null,
-      "topics": [
-        "negocios"
       ],
       "score": 6.82,
-      "relevance": 7
+      "relevance": 12.2
     },
     {
-      "title": "O que assistir no fim de semana? Veja 7 filmes e séries que acabaram de chegar ao streaming",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNndQR0gtZ1hfMnRjbzBWUGk0blFZb2I4SW5iY3R6M19GdUFfMUo4YlZIU0xXcVVZdWNXRVRJWXA2MS1ERm1ZZHNUMk93ckhPQi01aXNMUVFXdE84UGU3WXE3N0Z0UjZVWHpGXzJhU2pZYkpGZjJTdmhqN3BlUGZIYzBpRzhTN0lnbVBFVWpGZ3ZpaUxHR0FlVzBCamM5MWY1aTZ3cWtTbUZ3VHZBSlRYZ0F2aw?oc=5",
-      "source": "Exame",
-      "publishedAt": "2026-11-13T12:52:24.000Z",
-      "summary": "O que assistir no fim de semana? Veja 7 filmes e séries que acabaram de chegar ao streaming Exame",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 6.77,
-      "relevance": 7
-    },
-    {
-      "title": "Sua empresa precisa de um site para não perder clientes na era da inteligência artificial, alerta CEO da Cake",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckZjeXdJU3V2aS1MUy1haXNpWDgxNFktNGoyM01wRmNOTmJsZEVxdGZxXzlwZ0JTV01QeTZwZGdmYkx6WFhnTnJ0aThIZEVMZDZ3VXBIbUNTLTRUaFlDUy1oQ3g2WkJpVjFfVFpQUkR5VzMycXNZUUY3V3I1cVlsYUVrMEtoWnhNVHAyUVFlLVpJTWl3dzZMT1hIVTZfN0NyblA1Qw?oc=5",
-      "source": "noticiassjc.com.br",
-      "publishedAt": "2026-11-13T12:50:17.000Z",
-      "summary": "Sua empresa precisa de um site para não perder clientes na era da inteligência artificial, alerta CEO da Cake noticiassjc.com.br",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.76,
-      "relevance": 7
-    },
-    {
-      "title": "Três grandes investimentos podem transformar economia de Divinópolis e gerar mais de 500 empregos",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWmlaTHJ0Vk5falJaVzNDU3Y5M0ZtemtXYmxjb1JxaE5JalMxQXVxeTNVU2I0ZFFiNWNJNGUwelRNamJiT05LZFhQazVaUkQyWXhSbmJmN09JYkwwNjJjLS1EMzYzLWFEQzlIeXpaSVNhWGhzOWd4SWdwb3lDT1lNZlBudFlrSDcwbEI1OTNjWnVzT19PZWpiSTdlWjZCeEl6Rm1CZGVPUjU1ck1GQzlCbVg3QTVxdFhiS0xJOEVBSnhhOHlBWFFnRWhB?oc=5",
-      "source": "DiviNews",
-      "publishedAt": "2026-11-13T12:46:06.000Z",
-      "summary": "Três grandes investimentos podem transformar economia de Divinópolis e gerar mais de 500 empregos DiviNews",
+      "title": "Artigo: Como escalar a inteligência artificial e reinventar negócios",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkVGcEtMVkw5Z21FU1ZoZi1YZ0Q1em1vTEo3cXMtdFlBajRhazZQeVRKVGtXNlRySVM1emN6c1dsdE53TEZSQjdNX3AxM1Z6QlNEQXhZMXdMU01aSXlobkpEUk0xelVOeFZVMlpxVnFaNUJWS0FaOGNaVk9Oa0Z5a3hMMWFObFpSeC1YTzF1TXpnN0lzemRxclZQdDZNdjQ?oc=5",
+      "source": "EY",
+      "publishedAt": "2026-11-13T22:08:41.000Z",
+      "summary": "Artigo: Como escalar a inteligência artificial e reinventar negócios EY",
       "image": null,
       "topics": [
         "negocios"
@@ -300,455 +122,667 @@
       "relevance": 7
     },
     {
-      "title": "Belo Horizonte busca ampliar as relações econômicas com o Canadá e abrir novas oportunidades de investimentos nas áreas de tecnologia, mineração e energia limpa. As possibilidades de cooperação foram discutidas na quarta-feira (11), durante reunião",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fN1ZvdHFfTm1nMVlJUmdaMDFaWDZRRVk0TzVQaFkteHIwMnJWYlhRZTRkVmJFNy01djBlSlJoOUNKcEdoYWRfU0hTMjdwTndFVFE?oc=5",
-      "source": "Instagram",
-      "publishedAt": "2026-11-13T12:29:12.000Z",
-      "summary": "Belo Horizonte busca ampliar as relações econômicas com o Canadá e abrir novas oportunidades de investimentos nas áreas de tecnologia, mineração e energia limpa. As possibilidades de cooperação foram discutidas na quarta-feira (11), durante",
+      "title": "Presidente do BC diz que debate sobre juro está maior que 'disputa de torcida organizada e comentário de postagem em rede social'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/13/presidente-do-bc-critica-debate-sobre-juros-parece-disputa-de-torcida-organizada-e-postagem-em-rede-social.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T13:42:39.000Z",
+      "summary": "O presidente do Banco Central (BC), Gabriel Galípolo, criticou a qualidade do debate público sobre o patamar da taxa de juros na economia brasileira, suas repercussões sobre a dívida pública e, também, sobre a inadimplência e o alto nível d",
+      "image": "https://s2-g1.glbimg.com/8pxdQuPbUfBfkwkgiTTMKfI3-kI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/N/F/k8KZo1SSSVfm3AsG1SBw/fta20230509164.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.69,
+      "relevance": 9.6
+    }
+  ],
+  "items": [
+    {
+      "title": "Dólar fecha em leve alta, a R$ 5,65, com pacote fiscal no radar; Ibovespa avança",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/13/dolar-ibovespa.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T12:00:00.000Z",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em alta de 0,05% nesta sexta-feira (13), cotado a R$ 5,6549. Com isso, manteve-se no maior valor desde junho de 2025. O Ibovespa, principal índice da bolsa brasileira, avançou ",
+      "image": "https://s2-g1.glbimg.com/en-e3pXXYmmv5grpZimBQ0X1DaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 9,
+      "relevance": 13.8
+    },
+    {
+      "title": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T16:15:00.000Z",
+      "summary": "Presidente do BB fala sobre crise com o agro A forte queda das ações do Banco do Brasil na quinta-feira (12) refletiu a reação negativa do mercado aos resultados do terceiro trimestre de 2026, divulgados na véspera. Os papéis recuaram 8,35%",
+      "image": "https://s2-g1.glbimg.com/zuPWhQlDM7Vk3gwOLrQMG6FXYEw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/G/I/M5h9MWQimpvflJf497Og/2021-03-18t214544z-1-lynxmpeh2h1m0-rtroptp-4-bancos-bb-renuncia.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.76,
+      "relevance": 11.4
+    },
+    {
+      "title": "Quem são os produtores inadimplentes do Banco do Brasil? Especialistas explicam a crise no agro",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/quem-sao-os-produtores-inadimplentes-do-banco-do-brasil-especialistas-explicam-a-crise-no-agro.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T18:30:00.000Z",
+      "summary": "Presidente do BB fala na Globo news sobre inadimplência do agro Especialistas em crédito rural ouvidos pelo g1 afirmam que o aumento da inadimplência no agronegócio foi puxado principalmente por médios e grandes produtores do Centro-Oeste, ",
+      "image": "https://s2-g1.glbimg.com/fLXgFAG3y0Oa_b_C7mI_HKK0RIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/A/nnxIBfTfOLzPlQnGfOMw/261113-grafico-inadimplencia-do-agro-por-linha-de-credito-no-banco-do-brasil.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.71,
+      "relevance": 9.2
+    },
+    {
+      "title": "Quais os perigos da desaceleração da economia citada pelo Banco Central?",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV0VpOEZUNmw2ODczejdQLVc3VTRnWnRiUmU1M2RYRGJMSmFFY1VQRUFjZ25PS3ZNbnR2U1VGRXVZbTN4VUZOeUJUeWs5aUFiVHdGZWd3S3ltcFVxV1cyTTJSdEwyZHVjdW5lUUJsOFpZVHR3dkVya0JTR1ZGQTdSQWZPVkhOWlhiLU1FZHhwblZ5NnRGRURaTDd0N1Q3dkRzNlZKdlc1UksxUVpaTTNTdmRGRXBTc2ItNjE0cWFvVWhDbnpiSTVxdEZn?oc=5",
+      "source": "CNN Brasil",
+      "publishedAt": "2026-11-13T20:01:51.000Z",
+      "summary": "Quais os perigos da desaceleração da economia citada pelo Banco Central? CNN Brasil",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.67,
+      "score": 7.11,
+      "relevance": 8
+    },
+    {
+      "title": "Associações do agro rebatem BB sobre alta da inadimplência",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3ltNUh6MDFVSkJrRFBoUDdQQlNGSHhINEtNQkJyLTI4em03TjZSVjB4M2FhN3hHRG16eHg3UHplcVhxazI0MlJ1b1FSaWlLTkdsN0Z2eENiWlM2clJhM2owdVo5aUZtY1VVR19PWlgxOHRIQ2w4MlpzTzZJRmF5RjUyMVJJNFRFX1NZT0duUFRFaFB0TXRnNDJLOTJOdlVlYXYteXhGTk1UZXdaUWNmYzBEeU51b2c?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-11-13T18:25:00.000Z",
+      "summary": "Associações do agro rebatem BB sobre alta da inadimplência Agência Brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.85,
+      "relevance": 8.2
+    },
+    {
+      "title": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/o-que-levou-os-produtores-rurais-a-inadimplencia-recorde-no-brasil.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T08:00:01.000Z",
+      "summary": "O que levou os produtores rurais à inadimplência recorde no Brasil “Eu perdi o controle do endividamento e cortei os pagamentos. Tive que escolher entre a manutenção da minha família e a sobrevivência dos animais ou pagar ao banco”. O relat",
+      "image": "https://s2-g1.glbimg.com/NhK8PReOkcvN8TCxqZJiLITVYrc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/m/gsvOqBQrqYbh4OykqX3g/design-sem-nome-1-.png",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 6.82,
+      "relevance": 12.2
+    },
+    {
+      "title": "Artigo: Como escalar a inteligência artificial e reinventar negócios",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkVGcEtMVkw5Z21FU1ZoZi1YZ0Q1em1vTEo3cXMtdFlBajRhazZQeVRKVGtXNlRySVM1emN6c1dsdE53TEZSQjdNX3AxM1Z6QlNEQXhZMXdMU01aSXlobkpEUk0xelVOeFZVMlpxVnFaNUJWS0FaOGNaVk9Oa0Z5a3hMMWFObFpSeC1YTzF1TXpnN0lzemRxclZQdDZNdjQ?oc=5",
+      "source": "EY",
+      "publishedAt": "2026-11-13T22:08:41.000Z",
+      "summary": "Artigo: Como escalar a inteligência artificial e reinventar negócios EY",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.75,
       "relevance": 7
     },
     {
-      "title": "Renúncia na Nvidia abala mercado global de inteligência artificial",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDNNalZLM00zdnNCQ1U5X2Y3RlN2WUFXWHFORk1ka296Wi1rcXdibkFyRzh3cGdtU0RKbXNVTFBhTnVtbEFJb09kYlpJQXBhR3gtS0JCN0hRR1hnWlh0UjhVTXBpRlBoX1J0YXlhZHo0VVVVYml1Q05TTVdybU1ZWHFuWjRSenVyOTYtS3l3Wk5GS0FyMzNlSU5uM3hJc3N0WjlKeVZLSkVINEgzWVJDdEtVT1EzWE1CSjYzSXVWMkJET0Q5U0xGVDRR?oc=5",
-      "source": "UOL Notícias",
-      "publishedAt": "2026-11-13T11:22:17.000Z",
-      "summary": "Renúncia na Nvidia abala mercado global de inteligência artificial UOL Notícias",
-      "image": null,
+      "title": "Presidente do BC diz que debate sobre juro está maior que 'disputa de torcida organizada e comentário de postagem em rede social'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/13/presidente-do-bc-critica-debate-sobre-juros-parece-disputa-de-torcida-organizada-e-postagem-em-rede-social.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T13:42:39.000Z",
+      "summary": "O presidente do Banco Central (BC), Gabriel Galípolo, criticou a qualidade do debate público sobre o patamar da taxa de juros na economia brasileira, suas repercussões sobre a dívida pública e, também, sobre a inadimplência e o alto nível d",
+      "image": "https://s2-g1.glbimg.com/8pxdQuPbUfBfkwkgiTTMKfI3-kI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/N/F/k8KZo1SSSVfm3AsG1SBw/fta20230509164.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 6.39,
-      "relevance": 7
+      "score": 6.69,
+      "relevance": 9.6
     },
     {
-      "title": "Arqueólogos encontram uma coleção de cartas escritas por soldados há quase 2 mil anos e descobrem relatos pessoais sobre saudade, alimentação, roupas e dificuldades da vida cotidiana nas fronteiras do Império Romano",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxORjZ3MFd0cWFkWFUxdXlnTlAwbjkyLUVjWXY1WnRZTE1JU3NUN0ZJelg2WHluRWRuQWRCMzM1UFE3Yzc1QWhQNkQyOHhyeGhqZ0JzY2VwdlR3amlnanEzU3BjV2JUa1VPYjhHaWgyRFgybFVJZ1Iwbm5XYkFlVW5BVEo0SWpzeU8yM0F0aGpZSlYta0IyWTVLRHhTWDNTS0xXRC05YktEVW5UdkxsZHBjSFJxTTJ0M1RWS2JtNHJZV1BiWjNjM3lGbHU0YmxBTG9Xd2o4NEhvTFNhWjlCaUF6azZwLTByY0Jndi1UV2phM2tPSDJBX2IxSkYxdm1fLXA4UkVjR1Z5V0VKajlmZVc4Z3BtRkgwb0h6VHdCRmViOTRPUGxjMFN0UC0xbmF6dmk2b1NyU28tWjRtcWtDV084dzdmS1FYVDJV?oc=5",
-      "source": "Super Rádio Tupi",
-      "publishedAt": "2026-11-13T10:32:36.000Z",
-      "summary": "Arqueólogos encontram uma coleção de cartas escritas por soldados há quase 2 mil anos e descobrem relatos pessoais sobre saudade, alimentação, roupas e dificuldades da vida cotidiana nas fronteiras do Império Romano Super Rádio Tupi",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 6.19,
-      "relevance": 7
-    },
-    {
-      "title": "O segredo da felicidade (e do amor e do lucro): por que as baixas expectativas do mercado podem ser uma boa notícia para as ações",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMVM4RnFOR3hWbTVucjV4dWRhdGticElFVzYtalNkLVY5RTU3VVpqN01YeHk5YzNVbUVGTURKRjlWSkJmRmlyVGd5dk1JT0tjSy1kVUVqYjN2aVpXR1pRTDV4QTUwWnh6aUpUdVZ1S1F3dzZqUDdXWk4tZkNDRzNjdFFGMEh1b2o3TTJoRlFXOE9JMXFhSkk2LTlpYWxtU0hLd01SQk1jNWVyQ2NKaXhTb0FvcUE5eGZrTkotcVdGZFBxNFBPdHZSN0cycXJuTEpfTlZxU1dFWW1tckVqaFVqRmRjVld3MlNZa2hrNHJ2T0ljeVRtNnR3NHM3TDk3RU1aVmtfWlRmYw?oc=5",
-      "source": "Seu Dinheiro",
-      "publishedAt": "2026-11-13T10:13:00.000Z",
-      "summary": "O segredo da felicidade (e do amor e do lucro): por que as baixas expectativas do mercado podem ser uma boa notícia para as ações Seu Dinheiro",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.11,
-      "relevance": 7
-    },
-    {
-      "title": "REC’n’Play conecta empresas e destaca negócios da economia criativa paraibana",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTlp6LVBSOEttRlZ3V2NTbVJPWmVUcnBSc1NtTnBOSnh2a096c1hNZGFMWXVJZm1lNURpY0NVWFYxT1Ezb3VSal9nQW9PNWxEQjR0YlliMjFBREdMd01ZM2tneXVCOVliR3V5X3NVckVXd3EyRHFRaEo0cHlybDgwQkNyczFrLWM5Yk04bmMzaGdxOTBtY1NHLXJrN25SdDRZQWhYblRjM2E3ZjA?oc=5",
-      "source": "Paraíba Business",
-      "publishedAt": "2026-11-13T10:00:00.000Z",
-      "summary": "REC’n’Play conecta empresas e destaca negócios da economia criativa paraibana Paraíba Business",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.06,
-      "relevance": 7
-    },
-    {
-      "title": "Tendências 13/11/2026 | das principais ações da Bolsa",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0ZMaEtGalpkUHVaa2ZzX1FILW1tQ0dOQmhXcFdWaEJndGJkT0hSZWNEQ0U0ZUd5cmMzbnlKS1ItakV3U0ZRRzhRQk1NaVIzTV9tRUVBdlc1WVlieFlwSVBFc2wtckdKS0N3di1DVGdxR0tlcGFuTjQwckNUY0N0X2Q1TEVEcjRaXzEyc1ExMWtQbnFsMTNtXzU3MGtxUlB1QXA0dGR4ZWNMQy1i?oc=5",
-      "source": "XP Investimentos",
-      "publishedAt": "2026-11-13T11:37:33.000Z",
-      "summary": "Tendências 13/11/2026 | das principais ações da Bolsa XP Investimentos",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.9,
-      "relevance": 6.4
-    },
-    {
-      "title": "Viveu até aos 84 anos, fez mais de 90 filmes, ganhou um Óscar e foi presidente de uma organização polémica",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZm05TGg2UTlKYlpvVXhlcEl5WGdpaDNTaTNWMF9ISVpEZkhUVmM2V1E2dENPUEJlc1JPelFITHdZVmxRMmNoU082emVxYWZMampLXzRZVG9jVi1CVlFQaXhyelJza0NHeXpVYTczT1U2bXpoWFB2NURqVF9XSC0tOXZfVVg0czIzRU41eWhMX3lhaVlpcHN5QUczd3FoSU5ubk1VM2xxbzQtOWkxU1Q0d0xHT09NbENETTA1TEhDZWxrOXFpM3h4TXZSRS1rSlFvOVRMczRFVElYZw?oc=5",
-      "source": "Magazine.HD",
-      "publishedAt": "2026-11-13T13:00:44.000Z",
-      "summary": "Viveu até aos 84 anos, fez mais de 90 filmes, ganhou um Óscar e foi presidente de uma organização polémica Magazine.HD",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.84,
-      "relevance": 6
-    },
-    {
-      "title": "Festival de Cinema aberto à comunidade traz curtas produzidos por alunos da Escola Haydée Rostirolla",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWDhmS2hfR3ZVQ0ZzV3dCWWE0TUUtSHNocU1wQ0hFLUpTSmJpLURYQnpOSm4wRXZHTE1qbUFIQWFoRXVtQmFIWDI3eHd6eHcwd0lfekZWVFJFN29mNGt6SmZGVUN3Tk9tX3pjek5RTXp0STBZSFQtX19kYkxPWnNYZHl2SlQ0LVFUMU1td2hrbmJTMDNWLVF2Xzl3ZGFaRkFTblZORF9FTTZldGNwcERHUU5mc29qcE10YjZkbEMycFktZmdIRDYxd0ZlWXdtcmhVTWJJb21FajFSZ0Z5LThaQWdxbTVDVExJSVZmSkV5OGlmQmh3YXNtSVY5clpLWHoyWTFHb3R6TnQtSHFCT25xaGNlWQ?oc=5",
-      "source": "abc+",
-      "publishedAt": "2026-11-13T12:43:51.000Z",
-      "summary": "Festival de Cinema aberto à comunidade traz curtas produzidos por alunos da Escola Haydée Rostirolla abc+",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.77,
-      "relevance": 6
-    },
-    {
-      "title": "Ibovespa e dólar hoje: mercado opera de lado após pacote fiscal",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeVVXdXZ5R1VXRnZLbkpSVk5aeE83QmEzRExVMzVfelh3blE0X1otUmZMTTNQRkNRUnJxeU9yUnY2dDN4NU9EVENJajk1SEVFOVlRdHRSNm90SGNHdWFySzgyOHJRVEp4VEZqTHBFbVBNUFFsTlI3cGZiM2toNXZJRjJpWjd5Vnl2NGNOQ2NJS0xPYlNRbUpoMW16S0FGNm5LWk9oUkppSmcwTThhU2Q0WjY5NlNOaUh6MlFEUkh3WnN2SEYtaXJrRVJyN1VuWlhFcHl6TzVKeXXSAecBQVVfeXFMTlJJQVhnc0xGMmRXRV9uYXMwQ0lJZ3NPenFoZFFndGdJc01OT09sZ2FQUm5GaThfdmRyQXV5TThSaDVmcnozN0ZnYWdYMmNacC1va0pjNUQ5TWk3Q2VFYVVPZW5IbDNnZmJabUE5LXFscHI1VlhNWVhsUk8wQ3Q3bDhZOFNINHFyQ2p1cnloTDYzV0E3WkFDQXVVY0NkenJkTWJpVFF5V08zWF9fcG5KS3JreGc0UUx5MWZ6QUZRT0dOOTBkY05GQUxsRElwOWdKOXJnMU1mRUZGWi1FMFNQUXRuekxrR0xr?oc=5",
-      "source": "Valor Investe",
-      "publishedAt": "2026-11-13T12:20:58.000Z",
-      "summary": "Ibovespa e dólar hoje: mercado opera de lado após pacote fiscal Valor Investe",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.69,
-      "relevance": 6
-    },
-    {
-      "title": "Falha da Microsoft obriga bolsa europeia a mudar comunicação com empresas",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQzAwcHl6UjhxR2o0eXVqM01FeWRsdi10bVc4dk1PSEthWFh6ZUQ5TEg3OGI2RFV5dzQxRUMzSURpdFJqcE4wU20xLVN5ZGxSMmhpX0I5M3lUelM3dF9rUWp1WHdHa3ZncEhnZ2RLU2ZiT2xfSGRBZm4yTmRsR201d0xaQnFpLTVjM1FZNTZR?oc=5",
-      "source": "Economic News Brasil",
-      "publishedAt": "2026-11-13T12:02:00.000Z",
-      "summary": "Falha da Microsoft obriga bolsa europeia a mudar comunicação com empresas Economic News Brasil",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.62,
-      "relevance": 6
-    },
-    {
-      "title": "Ações de empresas chinesas de IA recuam após renúncia de CEO da Nvidia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONDBwWVZQUlROUGpzcDJON3BBMUp5Q083ejBfNzdibjBNRFN0OEdiMlFXMnVfaUQxZ0ZRMHFkLVc1RjU4NWRiYjRuZmI1YjBYR3NzZkdmamxXVGNlVFpDU0JGQ0dRVUp1OFdpYnpYZUFrSjNzeFdPWGNLUi1Kcm9hU2pXZklQLW9FZTlEaHhwTzJXYmwzUVhpUEY4T2Q3LWxid2Z1eFFRdnZnRHNPYVEzMFIzM2FJcWltall2N0FETWdUTVIzMFlSUU5R?oc=5",
+      "title": "Dólar fecha a R$ 5,65 e sobe 2,7% na semana; Ibovespa avança",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNanBqT1N3aGpNUVpwZVJsRkxibDM5NkN5R0ZpbldsM3BZclBSZEJqUGpCUFVJYVlKWXJHZU96aE9kT1I2TGJDZnNTTV9EU28ybXgwLUN5alZwMmFvWHVPLUpiN25UNVpaM2pKWnc5UEtTRlJHWTZLLS1LbU1SbUlnR015Q1l6bGdUQlB2dnQ4RjVfMndRM0pvaG1YbFRjUWVwSDRDLUFqV0ptZzVQWUEtWGhiZlZiM2N4QjlxcTFCeGc3UWZ1TWFsd19qR3RWNDVhS2FV?oc=5",
       "source": "UOL Economia",
-      "publishedAt": "2026-11-13T10:20:43.000Z",
-      "summary": "Ações de empresas chinesas de IA recuam após renúncia de CEO da Nvidia UOL Economia",
-      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportBusinessNews/tagreuters.com2025binary_LYNXMPEL5J0JZ-BASEIMAGE.jpg?w=200",
+      "publishedAt": "2026-11-13T20:22:18.000Z",
+      "summary": "Dólar fecha a R$ 5,65 e sobe 2,7% na semana; Ibovespa avança UOL Economia",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 6.66,
+      "relevance": 7.4
+    },
+    {
+      "title": "Federasul questiona medidas tributárias do governo federal e impactos na economia gaúcha",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLXZhR0RPMFo4a1kxLWF3b2prc0FkUVNHbFlCQU1pVXNteUFHbE9MbVZYUEktTktZbFNHcWNBRWQ4MUtralJzOHRWd0JGZ0ZDeURkSmEwQkY1VGRPSm4tZ3dkY3FLM1dVX3FhWEZFbjRaSlJYbGNOTksxT2NjUWZQeUtGeVFqcGZlOHE4NElERUl4RDFCNi0wb2JCQml6ZFZOdHkxN0ZUMktJVlBPakk3OU5tUy0yOU9FUXRfZmxHZjd3NzNlT0x0WDJZZGpuTjV6a0oxMDg0YkpQNnl5ak5UdnM2SEdEUQ?oc=5",
+      "source": "Jornal do Comércio",
+      "publishedAt": "2026-11-13T22:32:27.000Z",
+      "summary": "Federasul questiona medidas tributárias do governo federal e impactos na economia gaúcha Jornal do Comércio",
+      "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.62,
+      "score": 6.26,
       "relevance": 6.4
     },
     {
-      "title": "Túmulo de 73 metros na Mongólia revela indícios de comércio entre povos antigos e o Império Romano",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBidVJ3MF9Fbk5mSFNoMEpUeFJJTEJ6Z3Rtd09LcjJrVm9hU1FJd3hfOTZ5cm1LV2xiS2ZIQWNVeUJuMHpZdHlRUWdpa0RLNE5UR2RXbnBPT3pvem51NG54WGdYcw?oc=5",
-      "source": "Jornal da Fronteira",
-      "publishedAt": "2026-11-13T11:41:35.000Z",
-      "summary": "Túmulo de 73 metros na Mongólia revela indícios de comércio entre povos antigos e o Império Romano Jornal da Fronteira",
-      "image": null,
+      "title": "Suspensão de voos nos EUA: secretário de Segurança descarta ataque: 'Não é um novo 11/9'",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/suspensao-de-voos-nos-eua-secretario-de-seguranca-descarta-ataque-e-fala-em-problema-de-telecomunicacao.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-13T22:19:29.000Z",
+      "summary": "EUA suspendem decolagens em todos os aeroportos do país por motivos de segurança O secretário de Segurança Interna dos EUA, Markwayne Mullin, disse que a suspensão de todas as decolagens em todos os aeroportos do país nesta sexta-feira (13)",
+      "image": "https://s2-g1.glbimg.com/O-oC-mpwoOS_J0a39emD8Rerj7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/y/BsHtomSHel9odjsx7WjA/fotos-g1-1920-x-1080-px-2026-11-13t192306.766.png",
       "topics": [
-        "historia",
-        "negocios"
+        "geopolitica"
       ],
-      "score": 5.55,
-      "relevance": 6
+      "score": 6.21,
+      "relevance": 6.4
     },
     {
-      "title": "Congresso dos EUA convoca ex-CEO da Nvidia após caso com suposta espiã chinesa",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/congresso-dos-eua-convoca-ex-ceo-da-nvidia-apos-caso-com-suposta-espia-chinesa.ghtml",
+      "title": "Netflix: Suzane e mais 7 filmes novos que acabaram de estrear no streaming",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOUo3N2Qzc01TcXRTcjRVMHZLSHVnYm1qTnVEOHE5bm9ESzRpeTBNOHQ2LTBpb3ZZOWlGeDhJRTlueDlUQWdvMTIyM2ZScklVMkRVNUZRSHlKRm12bmV4WnBsN004eGtnVTh4VEZPQXlGMXNDSnp2N2ZwRHpGUnpWU0xEVlE2NXhHWEx5akw5VFVUeXoweUlkdFF2a3BUX2VHb0FYNlg3aU5VWDN2TWxHTFZuV0tFRmRo?oc=5",
+      "source": "UOL",
+      "publishedAt": "2026-11-13T19:56:00.000Z",
+      "summary": "Netflix: Suzane e mais 7 filmes novos que acabaram de estrear no streaming UOL",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.2,
+      "relevance": 7
+    },
+    {
+      "title": "PIB de SC cresce acima da média nacional e estado se consolida como a 6ª maior economia do Brasil",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHZvMW5jNy16RTFyN1hOUm53a2J6clNWdTk4UEw4a2k0VWp3MEtLSlZ3TVVad04zUkFVOXJob1o2WjJaQ1dLc2F4QzlMU0ZZNlduVjVvQmd0Q0syQ2lKUTVjUmM0SzRwLWpOU0JaYXFvaUJYOVJqZHllVE4xRnRDOFVBMDJyMUlsemgxYlVHemtqMEpSQWlPTVhKLTlZd9IBrAFBVV95cUxPeFFwS19xb2x2cTd6M2daMGpTNnk3LUJMUUZ2RGx0c2x2S3F5ZlJIc1k0dzBIR2ZQdmJweF81Qml5a3F3NDdDaUdZVk5YdnhQUTBNWjJob3NqZDVMTFB2YzNzeHVUNHNGckpISmE1bktLbDlFT1pWcDZyS0oxYkJHQXBrbWREQVZSd2NrSmdudGtvOUZIRTViOUxCb29QeHM2Q0VwZWExTzRnMlM1?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-13T21:09:49.000Z",
+      "summary": "PIB de SC cresce acima da média nacional e estado se consolida como a 6ª maior economia do Brasil G1",
+      "image": "https://s2-g1.glbimg.com/fXr4Yg2KOloo2J1cgnaGUwsBTfs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/H/qvYBggSymWwiEwnuKCBA/oficina-mecanica-1.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.13,
+      "relevance": 6.6
+    },
+    {
+      "title": "Termômetro de Sexta: Conheça as candidaturas de filmes já feitas pelos estúdios para a corrida do Oscar 2027! - Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVS1QX2hibFptZ0ZOQl9wY3IxTmNQRVdXSnN5QVl6em03T0o4SW5NUk1NTHhrRTduVERCaDBJamloVEJvN0NXS3ZRcUdzblNzSWM4YnFydkdKc05tc3BUT25qWHZDMzE3c1ZFU1lpcWtsZDNwb2dNVkZBT2ZPMHhoN0RkQzB5U0k4N2FzUDR4akdhaENYM2QzYjNNWmFCazRkbGF0T3hHZkwwUU16ODhzTG14YmtkaENOaHFqQmtwM2FvUVNnLS10OHBPcnRKTG9HRXJZazVkLVFhVnAwbXJPRXVqYnpyYzh2NVFTN0lWRTRqbGtvTEM2X2hrMGY1QnM?oc=5",
+      "source": "Candidatos, Indicados e Vencedores",
+      "publishedAt": "2026-11-13T18:56:47.000Z",
+      "summary": "Termômetro de Sexta: Conheça as candidaturas de filmes já feitas pelos estúdios para a corrida do Oscar 2027! Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022 - Candidatos, Indicados e Vencedores",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.97,
+      "relevance": 7
+    },
+    {
+      "title": "Líderes europeus pedem que Trump 'não crie surpresas' e definem representantes em negociações sobre a Ucrânia",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/lideres-europeus-pedem-que-trump-nao-crie-surpresas-e-definem-representantes-em-negociacoes-sobre-a-ucrania.ghtml",
       "source": "G1 Mundo",
-      "publishedAt": "2026-11-13T09:53:01.000Z",
-      "summary": "Após renunciar, ex-CEO da Nvidia é intimado a depor no Congresso americano Jensen Huang, ex-CEO da Nvidia, gigante do setor de inteligência artificial (IA), foi convocado para prestar testemunho em dezembro a uma comissão do Congresso dos E",
-      "image": "https://s2-g1.glbimg.com/MlZ_eUANbsFN8ZHjtdI0UYCqHHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/O/jUvABqRFiByaQU243cEA/2026-11-12t155113z-568968571-rc2h6oa2gw9b-rtrmadp-3-nvidia-ceo.jpg",
+      "publishedAt": "2026-11-13T18:10:49.000Z",
+      "summary": "Os líderes europeus, reunidos em uma cúpula em Dublin nesta sexta-feira (13), concordaram que um grupo de países específicos e a União Europeia os representarão nas negociações com os Estados Unidos, a Rússia e a Ucrânia. De acordo com font",
+      "image": "https://s2-g1.glbimg.com/XWFtskDxWG2jehE5WMudO-W2iCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/a/Uc5pVATFyx1yKYYd3BSg/2026-11-13t142642z-387727537-rc22noabt22u-rtrmadp-3-eu-summit.jpg",
       "topics": [
         "geopolitica",
         "negocios"
       ],
-      "score": 5.52,
-      "relevance": 6.4
-    },
-    {
-      "title": "Investimento em inteligência artificial ainda não se traduz em resultados nas empresas",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMllUMENZMkxMV3lya05ua0JwbzVsYzVrWXBZRHlnamdacTZJTHJUc1dJbGt6UHR4T2lLSmpvc2t5b3Z6ZlRQSGJNTDdBOVkyeG1NNHV3MVJ1QXl5bnhRYzJ0Ti1JNkZZaFp1R2N1c2syNEMwbDRqaTlWR2I3Q3I0SHdSYVdSeHVwenBzcVpoSEpCMXNMVTJ4bmQ5LXJUTE84VkZlUVFRdVQtTGY3OGVBeWNfWWw2Qnk5Q3ZaOTlNM0h4YnhsdUx0UnZPemhoNkZUQmpLQlpqMW1QVi1hM2c5WGd0ZURCcWs?oc=5",
-      "source": "Correio do Povo",
-      "publishedAt": "2026-11-13T03:52:36.000Z",
-      "summary": "Investimento em inteligência artificial ainda não se traduz em resultados nas empresas Correio do Povo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.47,
-      "relevance": 8
-    },
-    {
-      "title": "Festival de Cinema Fantástico terá exibição de curtas e debate na Praça Getúlio Vargas",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHAzV0M3c2VRdEtCbnpXWEJXNmdtN25RUzlKaFNjTm8xVWR3THBKbHNkeDdzTWJfNU1XeUdiNG5MalRuV2N5NHFQT0I5TzJzWTAxU0NmekoxR2h1OVhhSDRIaTlJNGxVcTVEVW94Z25MZzZqQ1BjT3dDWjdiUDlXSTZXbFBYSXlaTmdrT2plWWQzc3pOZkJvYUtjWkRIZ2V4M2tBTzE2TEtSQUVsQ25n?oc=5",
-      "source": "GAZ",
-      "publishedAt": "2026-11-13T11:15:00.000Z",
-      "summary": "Festival de Cinema Fantástico terá exibição de curtas e debate na Praça Getúlio Vargas GAZ",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.45,
-      "relevance": 6
-    },
-    {
-      "title": "Café com BPM: Varejo, inflação dos EUA e balanços no radar do Ibovespa",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjlQZk1nNWkycDlDdzFLOEFrNTVGcmpmYzhpaDNmOVU0emo3MzgwSGFOc3lFYmNkUzVIZHQ2QnRJMFlCVUNxVl9JQ0RJWUM4cHJSb0h0d2t2V19VcFZoN3ZReUNfUkxBNjVNdWMtbVA5NERzYkR4WkY5NkZ4WFlsN0NhSWtFMk8wSHpVeTFHS2owT29vaVFKbk80cXk4ekx5ZkE?oc=5",
-      "source": "BPMoney",
-      "publishedAt": "2026-11-13T11:00:00.000Z",
-      "summary": "Café com BPM: Varejo, inflação dos EUA e balanços no radar do Ibovespa BPMoney",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.4,
-      "relevance": 6
-    },
-    {
-      "title": "Pressões sobre a economia da Alemanha devem diminuir até o final do ano, diz ministério",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc0tCRXhlVWF5dkNuVmd2eEpjMGl0UWgycVZmbzhtUlhMcnZ2b1Bjby1ydURIWGFfZHNSREQ0RHVQYndRVEdHVU50Sl92b1d5WldIMjZfZTg1TkZyWlpGRzR0N3NOZExycFpCVnd6Ni1JZnpONy1Xd1I1TmdPWDRiWFFWa084RlFRLU5uVU1hbUlCV1I2akxIZ2R3N2ZDQnp5QUIybkdOREhfakJ6NEF1UWtLZUxHN25JdElSMmVHdk9XRHlLaEVFX1JGQmdxMnRLOThjSDFvRU5pYldBVWk0?oc=5",
-      "source": "UOL Economia",
-      "publishedAt": "2026-11-13T11:25:09.000Z",
-      "summary": "Pressões sobre a economia da Alemanha devem diminuir até o final do ano, diz ministério UOL Economia",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.31,
-      "relevance": 5.8
-    },
-    {
-      "title": "As 4 melhores séries para ver este fim de semana estão na Netflix e Prime Video em Portugal (6 novembro)",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0NJU1I3djlaTjVIMEgybG00QzV5WDZsMFM4NUF1Z2djLVd5dEVMZGxMMGtyZWRqNTdUZW5PMm5sMm1HQUVoa1liNkp5eWNFSlZJdTN0TGI2S2VRWGo1eDRWTDdyck94UTh0OUh6SVE1ZWhvc0dHWVB4SmE3YW5TSkpmc0RpYld2WktkbzVYUVRfVEpUb2tjQ3pWc05ZN29oZHptQzFxb204ZVB6Vk92cg?oc=5",
-      "source": "Magazine.HD",
-      "publishedAt": "2026-11-13T10:30:34.000Z",
-      "summary": "As 4 melhores séries para ver este fim de semana estão na Netflix e Prime Video em Portugal (6 novembro) Magazine.HD",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.3,
-      "relevance": 6
-    },
-    {
-      "title": "Dia do Cinema Nacional: rede terá ingressos a R$ 10 para filmes brasileiros",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkpkUF9fTmpEaVhzb3didFAtbjRhQjVXc2FxaS1xYU1jWWZQNHVzYjlQeWxFbFBEUlJLa1UxSkhVdXpmWl8xa091M2F5ajVST1JpRWNWNlV0VXowNzM2TDU5aHZEM1FiS3oxbHVRNHV3T0NRWTIzNmpWTGVHaTlCRDZtOE1LTXRObUd6MG4zcDF0M1hHMW5xdlMxQWNoaWdXRC13TmxKeDZfVkpuRGk4N2VKb2FscDQ?oc=5",
-      "source": "Farol da Bahia",
-      "publishedAt": "2026-11-13T10:30:00.000Z",
-      "summary": "Dia do Cinema Nacional: rede terá ingressos a R$ 10 para filmes brasileiros Farol da Bahia",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.3,
-      "relevance": 6
-    },
-    {
-      "title": "Festival de Cinema Francês do Brasil segue em 18 cidades",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ2llbW9IUjNoc3czSjRUQ1lZR1RXc0lVMWZKa3hJQVZzUGNDYUR4M2w3Q011bExfeWkxTnNUcHBHWjhUTEFwTzktak4zTkdjX29sMmpQV0laV0NpLUd4QWNpWWRtT0ZGdUhNeVlrZ1dhUGFTSnZPOGx0bFNQNHNrRjRR?oc=5",
-      "source": "Portal ABC do ABC",
-      "publishedAt": "2026-11-13T10:23:48.000Z",
-      "summary": "Festival de Cinema Francês do Brasil segue em 18 cidades Portal ABC do ABC",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.28,
-      "relevance": 6
-    },
-    {
-      "title": "Irã diz ter atacado radar dos EUA no Bahrein",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ira-diz-ter-atacado-radar-dos-eua-no-bahrein.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-13T05:37:24.000Z",
-      "summary": "A Guarda Revolucionária do Irã afirmou nesta sexta-feira (13) ter atacado um radar de alerta antecipado dos Estados Unidos no Bahrein. Segundo a agência de notícias Reuters, esta é a primeira reivindicação iraniana de um ataque a instalaçõe",
-      "image": null,
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.27,
+      "score": 5.96,
       "relevance": 7.2
     },
     {
-      "title": "Falha no Outlook, Teams e Copilot rende memes nas redes sociais",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/falha-no-outlook-teams-e-copilot-rende-memes-nas-redes-sociais.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-13T12:04:32.000Z",
-      "summary": "Serviços Microsoft caem em 70 países; empresa faz reparos A queda de serviços da Microsoft virou tema de memes nas redes sociais. Usuários têm relatado dificuldades para acessar o Outlook, o Teams e o assistente de inteligência artificial C",
-      "image": "https://s2-g1.glbimg.com/BMfExYeW6e4pEf8o9s4D8yL1mjc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/O/CW5igtTQWt8YVPuFaewA/2026-11-13t111641z-1329254727-rc2f6casymv4-rtrmadp-3-microsoft-outages.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.25,
-      "relevance": 5.6
-    },
-    {
-      "title": "É HOJE: Da literatura para a telona: estudantes da Haydée apresentam 12 curtas no 1º Festival de Cinema Escolar nesta sexta-feira",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbWYtdWhLR2RMdHU5ZnRqdG1YWnJZLWJ6UWh3WEh0azVpZjAzSzhMWjJiOGRfeFVtLWh3amR3X2JEZ1R1WTdoTFBCUlBSaFRuYmVkMFNGdE1VdHVFdVlfaFpaaFdKNmdiZWdZakN2SkFmUGxVWlBzQW9NSjA4UmtXTHE0ZEEwNDBVdTZvSFNhSThQaEh0ZEQ1TmlPSUt6OW9TT0trQU5UMGF4NEJTb0ZzLXBvekxOZXREeXJSVkNQcVprQzItRlAzckM2Ny00bklmNFpCQzF5a1pKM3VEbGlQeW1PbXQwUGctbklIWXpXMTFsX0U?oc=5",
-      "source": "Berlinda News",
-      "publishedAt": "2026-11-13T09:40:57.000Z",
-      "summary": "É HOJE: Da literatura para a telona: estudantes da Haydée apresentam 12 curtas no 1º Festival de Cinema Escolar nesta sexta-feira Berlinda News",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.13,
-      "relevance": 6
-    },
-    {
-      "title": "Inflação fica abaixo do esperado pelo mercado após BC manter juros em 13,75%",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LTXQ0VkhlMFJONWdrQ2FQdHNXR1NlNTZ5Y1lxdmw4QndKdmFlM2F6UXlFOW1pVzhCM19uV1pJdVRLTDVZSlA4ZS0zcUoxUkktRHQyYk9lQldBYjlCRVJiNVNSS2hrNFpFTFZOSk5uUmlGcndRTndwWS1zWGtEUQ?oc=5",
-      "source": "ICL Notícias",
-      "publishedAt": "2026-11-13T08:00:26.000Z",
-      "summary": "Inflação fica abaixo do esperado pelo mercado após BC manter juros em 13,75% ICL Notícias",
+      "title": "Trillia, da B3, leva mais de 20 empresas do mercado financeiro ao Rec’n’Play",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNU082UFBTeFpmMk5CUlJpTWVYTXhRSmlyZGJ2bjZQU0lvUlp0b3M0VUU5UW5zcnI3Q29nQTR5Q2p1QWY3SWpUNHd3dGYybUk0Z1JRSnMwaE5VV0NJRF9ZeURoeVVuTTVQdEswRk1KTFREWklZLXNHbnFWMnhGb3N5dVQ3OTJKQW1ZYWlHYjY4TmdEM3ZTdWREYVd6MU9mZkZXbUl1TU9GNVdiMlpyN1o3Q2c4WDZqVFNGVXQxeXBMUV9iSHgyVmN6TEt2bEZfX3E0aTJNNGhHamx2Q0dWQTBV?oc=5",
+      "source": "Movimento Econômico",
+      "publishedAt": "2026-11-13T21:13:18.000Z",
+      "summary": "Trillia, da B3, leva mais de 20 empresas do mercado financeiro ao Rec’n’Play Movimento Econômico",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.13,
+      "score": 5.95,
       "relevance": 6.4
     },
     {
-      "title": "Produtores de soja rebatem Banco do Brasil sobre dívidas do agro; estatal nega ter culpado todo o setor",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/12/nota-aprosoja.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-12T20:40:36.000Z",
-      "summary": "O que levou os produtores rurais à inadimplência recorde no Brasil A Associação Brasileira dos Produtores de Soja (Aprosoja Brasil) rebateu nesta quinta-feira (12) a declaração da presidente do Banco do Brasil, Tarciana Medeiros, de que par",
-      "image": "https://s2-g1.glbimg.com/vKjQGJZTjQzx1fb8C6Ei_8UOwos=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/p/5gAojbS6CKAOxZBm1f3w/foto-e-montagem-vertical-18-.jpg",
+      "title": "A inteligência artificial corre. As empresas ainda estão aprendendo a andar",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYUtRSlNvdi05OFpfMW4wbHVfdVRFM2xMUmY5ZmloYloxRWFCTzZuZ0VDMVh3NWszWld2dm02QlRPSDZFc3poTUo1cXNyaWFBUFRYaFFuclhjZjJxVThXRksxZDk3bHlPa0ZjcjMyTUxqenZwQklmbDUxLVFwZ1RrT21ZNFNiTzJxdXVFN01DQXhJNnVBZ3lmcW1iWHBwRkR4M25mQQ?oc=5",
+      "source": "Exame",
+      "publishedAt": "2026-11-13T18:48:56.000Z",
+      "summary": "A inteligência artificial corre. As empresas ainda estão aprendendo a andar Exame",
+      "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.08,
-      "relevance": 9.8
+      "score": 5.94,
+      "relevance": 7
     },
     {
-      "title": "Os 7 filmes e séries mais assistidos hoje no streaming | 13 de novembro de 2026",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdF9aVWlLSWoxaVNMRHF1YTgxcjhDUWlHZmJDYmNaMVZUXzNsRV82ZnZjazRkLWg3SHJBMDkzNlgwWm9Sb2hzcUU2WVdMRjgwWk5PNTFtbUVHZVp4aWpjcWxGZ3ZqMG9UUzYyY29jdG1rMUlNWGx6UTBRTVZuTlZRaXBkZWdZcEtlNHlTT3hmNXk3LXo1VG9QU0FyTGxQS1NRSGttNEFEaThQTXM?oc=5",
-      "source": "Portal Barcelos na NET",
-      "publishedAt": "2026-11-13T04:59:58.000Z",
-      "summary": "Os 7 filmes e séries mais assistidos hoje no streaming | 13 de novembro de 2026 Portal Barcelos na NET",
+      "title": "Crescimento do agronegócio baiano é destaque na abertura da e-Agro em Salvador",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYmlPd3lnZW1xVE5SRGNvMkNvUm5DMTdNSmIwaXlJdUxaa0ZHWkVkUWRsbGc1aFY3em9YOENkRUpCUXh0V1puTTJDVjNhWDR1cTBvM3AyeUluZ2dwT1FwZ3lrbmVlRGpNcXE4YnIxWFRYTXAwQTJWZW1RbEpod1huOWthU3laV1VnZFFScVVrSEZ1TmtPNmI3cmdzM1V0emZWYnhaM3pxQkVzQnUtMDYwUTFORENqbk40ellyXzJCNGh3eGJzbmc?oc=5",
+      "source": "ba.gov.br",
+      "publishedAt": "2026-11-13T18:13:54.000Z",
+      "summary": "Crescimento do agronegócio baiano é destaque na abertura da e-Agro em Salvador ba.gov.br",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.8,
+      "relevance": 7
+    },
+    {
+      "title": "Confiança da indústria atinge menor nível desde maio de 2020",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOV3lyNDFiaHJWQ3JwUGMzWUk2WUlIYURtZkFSRlp5M0pvSnhJbHl6QkdWaDFoOGdaNUdDZlIxMHNRV2lvNFhmZFp1d0lON01DUmpFZ19zTzRBUDNldjhhUUNoQ0xlNDVJWXB5Y0tjMHJwMlB0SVVNaURqclVqWmk1YkdoY0pJNU1ORktYRF93RUVZYUlra1d1Y2F3anptbHRYV1dKWUtmY0wwdXhFazRtVGxOM0xDX2t1SlE?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-11-13T20:29:00.000Z",
+      "summary": "Confiança da indústria atinge menor nível desde maio de 2020 Agência Brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.79,
+      "relevance": 6.4
+    },
+    {
+      "title": "Modelo de El Salvador: Bukele inicia ação militar no Haiti com bombas, cão-robô armado e 2.500 soldados; veja VÍDEO",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/modelo-de-el-salvador-bukele-inicia-acao-militar-no-haiti-com-bombas-cachorro-robo-armado-e-2000-soldados.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-13T19:24:47.000Z",
+      "summary": "El Salvador usa cachorro-robô armado em operação no Haiti Tropas salvadorenhas bombardeiam a casa de um criminoso a partir de helicópteros sobre a zona rural do Haiti. Civis aplaudem soldados uniformizados com trajes de camuflagem que march",
+      "image": "https://s2-g1.glbimg.com/S69-Omd9pQZRoG0WjUiSLpfOU74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/7/0anL0TTbihjeha6naKcg/2026-10-17t015645z-912648220-rc2p4oalqm0i-rtrmadp-3-el-salvador-costa-rica.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 5.73,
+      "relevance": 6.6
+    },
+    {
+      "title": "Ucrânia faz grande ataque de drones contra a Rússia, que segue atacando energia ucraniana",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ucrania-faz-grande-ataque-de-drones-contra-a-russia-que-segue-atacando-energia-ucraniana.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-13T09:17:05.000Z",
+      "summary": "Termina sem avanço tentativa de negociação de paz entre Ucrânia e Rússia A Ucrânia fez uma de suas maiores ofensivas contra a Rússia na madrugada desta sexta-feira (13), lançando quase 1,2 mil drones contra o território vizinho. Segundo inf",
+      "image": "https://s2-g1.glbimg.com/4EtGsdgWlGW0bSTIjzy2iVvKTpk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/X/nhnYqfSK2G8BbAF0R0Wg/2026-11-13t050636z-1933880309-rc2qmoada9wy-rtrmadp-3-ukraine-crisis-attack-kyiv.jpg",
+      "topics": [
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 5.64,
+      "relevance": 9.6
+    },
+    {
+      "title": "Nvidia avalia CEO de concorrente para substituir Jensen Huang, diz jornal",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/nvidia-rene-haas-arm-holdings.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T18:10:29.000Z",
+      "summary": "Jensen Huang e Rene Haas Reuters/Carlos Barria; Reuters/Hasnoor Hussain OHuang renunciou ao cargo na quinta-feira (12) após revelações de casos extraconjugais, incluindo um envolvendo uma suposta espiã chinesa, mergulhando a sexta-feira (13",
+      "image": "https://s2-g1.glbimg.com/Gi0n15xixrwFlc4RAWu0bag2N94=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/N/H/iHB4a9QyA3mHrlx8kzvQ/jensen-huang-rene-haas.png",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.63,
+      "relevance": 6.8
+    },
+    {
+      "title": "Fórum IEL de Inovação destaca talento e tecnologia como motores de ganhos para a indústria",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZ0QzWldHdUUtN0djVXpYR2lUemVEcUlmMmQ1cUJCYmtZWDltclNRMl9Ca29fWUZqcVdacWZETjlsNDRlVllCSE8xTDVhSXd0UldBSWU0Qk9JZzVxeElVZWc1RTJjX1loT0c3am9IX25PaTFnejZiUTVzNGFDMlZaVDB5YmxnZmd6NEZld19hNUd6X0RNYlRxODJmZGVMV2E2VndVSmROWlJfUm5FVzBnOEVTRFZVRkY2TzBXQkRJV091R3Z0b1JLNjZjUFpFOWoySnF2cDh3b2RZTzQwSEZNQ1JJWDJyT0FFZ3hkSXprcVdfSmNfQnhv?oc=5",
+      "source": "Agência de Notícias da Indústria",
+      "publishedAt": "2026-11-13T21:06:02.000Z",
+      "summary": "Fórum IEL de Inovação destaca talento e tecnologia como motores de ganhos para a indústria Agência de Notícias da Indústria",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.56,
+      "relevance": 6
+    },
+    {
+      "title": "Opinião - De Grão em Grão: É possível investir em ações internacionais sem apostar no dólar?",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUVI3ckpmTTdvT3dDTmd1cG1XVnhUc3pqNnNrV2p0bzQ4WFc4X3lYTjhlV3k5YTRld3FYZzdSRTN4MHVnS1F5emZEdTdHQUVpTHN2ejNhRVBJWFpHLWdkeFpIYW5WOFExa2V5THlmRDFqS3RfSnRMTURmUTBUWDlzYmdMRndUM0FXSDhTSkdxT1ZUaVZBaDBmS3hpWllJNEQwbm5vcUYzem1MMWZCei1BMUMyOEc2LTdhRzBPdUFTenYtLXpXSVY3cXVn?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-11-13T21:00:00.000Z",
+      "summary": "Opinião - De Grão em Grão: É possível investir em ações internacionais sem apostar no dólar? Folha de S.Paulo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.53,
+      "relevance": 6
+    },
+    {
+      "title": "Risco fiscal: como as contas públicas podem influenciar dólar, juros e Bolsa?",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWktbTd4NEdtU3c3ZFUtMHRPYU5uc1laQWxZWlFnQnRZM0NfYWQ4U0ZxVjV1LW5OV0pIWWJMSGhTaWZmZFJWQUNmZ3o4aXhIYmdKUWplSzZ5Z1IwMWhqeVNQcWZxa29ZbE9NekxPWWh5U2xKd3BPVFVJZ203bWZVbUxDX1ZpOG0wU1pUcGlGbGE4VklESW5CbkJzbjRXSlRmLTdWaWRhZ3pCeGEwcWRsetIBtgFBVV95cUxQRXJhM2VRV3hvM2hxUXliWXhONUQzMW1uTE1RQUQxZ25zN0g5bG03bjkwbWVqODU4WTljdUFqamtsNk51TlJ0UFZBaFJVTTdzQ1Utc19iNGpMRzNmTVhMWFFmOERQNFRDSnRSOW5DRzFhR0hERjBHWGpVM01yLTE5MjVxTVpwUUpYTUtnbVM3Y3d2b0w2M0U4MDFSU21pQW94SUdHVE1iZEpZdFlSclE2b1QyV1hKQQ?oc=5",
+      "source": "InfoMoney",
+      "publishedAt": "2026-11-13T16:30:00.000Z",
+      "summary": "Risco fiscal: como as contas públicas podem influenciar dólar, juros e Bolsa? InfoMoney",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.43,
+      "relevance": 7
+    },
+    {
+      "title": "Primeiro festival de cinema indígena acontece neste final de semana em Aracruz",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTTdZdmtQbktxWWwzT3YyRU00Yzc2cE1qZXhuZDB6c3VSRW1tVnZXdFN0RmNsR2tHMnVBNmlMdG93LWZIV2RGNFoyTHJhNVJET2htbWJpcUdyNV9NUjVaeFkzVHg4WHd3cFdiUFpBbmxvRVpLWmFLUWRDTVRzZW4wSl80TmVDZmZaWmNDQmVvYkI4WjZjNmFidXYyd1BaTVRCeGpVdUtfS0h0YU9SWkppS0RhNVdGNjFhdUoyQzhn?oc=5",
+      "source": "A Gazeta",
+      "publishedAt": "2026-11-13T20:27:00.000Z",
+      "summary": "Primeiro festival de cinema indígena acontece neste final de semana em Aracruz A Gazeta",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 5,
+      "score": 5.42,
+      "relevance": 6
+    },
+    {
+      "title": "Passageiros fazem vídeo dentro de avião durante suspensão de voos nos EUA: 'Estou literalmente no ar'",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/passageiros-video-aviao-suspensao-voos-eua.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-13T22:06:58.000Z",
+      "summary": "Passageiros em aviões durante paralisção nos EUA Reprodução/Tiktok Passageiros afetados pela suspensão de voos nos Estados Unidos, nesta sexta-feira (13), gravaram relatos e postaram nas redes sociais. Dois deles estavam dentro de aeronaves",
+      "image": "https://s2-g1.glbimg.com/BvVwgvNTyhx9hf4pJUP-lXBnY74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/l/Yx8cB6Q8OKYxxJAGVlXQ/fotojet-22-.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 5.39,
+      "relevance": 5.6
+    },
+    {
+      "title": "Fórum da Poli-USP discute o impacto da inteligência artificial na produtividade das empresas",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPM3pidGNVWS1YVTFzVEZ0eDNTN1ZaRzVwVFJ6NzlXZU5XLXFGNWE0Rks3M3VZb2NQMVFaTFJwTWxPUXdMOGFadjRxM0xzNW9NWVZNZUFwTEVhWG5XdGoxanAwb1hfQlI1NUVOYjVuRTNwOUJyeXJ6SnRpWlNUR1hMa1htbVctOTUxaUpubm5mZkhOTGg3RTlfYlhHOXZXTnhvRlV5bXA2SlpSaWVVMC1hUU5NYVN1RE5NazBDaGNKdDJGbTQ?oc=5",
+      "source": "Jornal da USP",
+      "publishedAt": "2026-11-13T16:03:00.000Z",
+      "summary": "Fórum da Poli-USP discute o impacto da inteligência artificial na produtividade das empresas Jornal da USP",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.34,
       "relevance": 7
     },
     {
-      "title": "Inflação nos EUA e dados do comércio no Brasil em foco nesta sexta",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjE3b0FMTEo5QkhpeHJucGlpcmJ1Mm00X2NTdFVXLTVZOEZXNDBXTDhnMWxYMGswd2VNd2tLcTNyX3c0d0ZMYWhETUNzOWs2X093OVEzQlc1SXZYdkFWa2h5WVZ2ODRmYXpjSWl4RG03X2dVSjB2dEpqVm1OTVhCZFZsVEphOFdqQXZ1VF9rWVVETnNBb21CdEVwNkp0c3BDb3BQdFdNRmxEdnNvS1E?oc=5",
-      "source": "XP Investimentos",
-      "publishedAt": "2026-11-13T11:40:07.000Z",
-      "summary": "Inflação nos EUA e dados do comércio no Brasil em foco nesta sexta XP Investimentos",
+      "title": "Estiagem prolongada derruba agropecuária em 24% e faz MS ter pior desempenho econômico do país",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNGlqRk1zb2YtVEpFNWRzcTFWVHNtYW1IbVBJMFFfUWdYanV0MFNycW4wbk5ONGxyX0pOcmFMeGVnV1VxcTM0V2doNWJFM19nc0YxcTU3SUVSS0doS2lVX3ZEeVJLZkNDZDBlaE1oUXlhVFVfVkdabTFZRDF0VU8ycmN4VERFM05OLU5mbjhRTklydTJGay16Z3oxZ1NtS0NXLUNlSEhwY0ZwSFdPTUZjNFVDWTVKb3M0QzYydnZyY0JBU05qYkk2aFZGTVdIVTNZVjN1cmVzQnFtUmhIOW4tVjhwT29CRzhpMlVKMnQ5a0gtR1c4MExN0gGGAkFVX3lxTE5ZQWF0Z2pOTFNuOHlUZTRfM1pub0tPVEVmcXliSHl5YUgxRnRBTmFwc0pEeTRGS3RPSHRSTnFqc0N6eEFNWWgxNER6X2xUVkVHYzNCNnJCaHh5S18xbHJNRmU4aXVscG5Hd1pZX0pWbXFLY1hwMWMxTlFfM0JUSThIZkxXb3duX0lmb3VLN0xmZXhTcUJUaHRpQmJfdlBJS1dRNHdHcGdibWQ2eVNDMWhnRV9NQTBSQ3V3LUVtY3RCSjRhbHYtcjRzNXRRR2hhUXM0bzdGY3ZHdzFud1gzaTJrVm4yTHBrQ1lPNDZiTVJHLThBWE9QTlBaRWVObUNrU0swcDBKZ3c?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-13T19:57:31.000Z",
+      "summary": "Estiagem prolongada derruba agropecuária em 24% e faz MS ter pior desempenho econômico do país G1",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 4.99,
+      "score": 5.32,
+      "relevance": 6
+    },
+    {
+      "title": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-voltou-por-que-demorou-para-microsoft-resolver-o-problema.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T15:57:18.000Z",
+      "summary": "Como abrir o Microsoft Teams, Excel, Outlook (e até o LinkedIn) no teclado do Windows Unsplash/Hal Gatewood O serviço de e-mail Outlook começou a ser restabelecido após uma interrupção que já dura mais de 20 horas, mas alguns usuários ainda",
+      "image": "https://s2-g1.glbimg.com/E7scyML9vaQniSSRDYJnjDx6ZFo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/X/v/5zqaifRBe9ocLTTT4hgg/hal-gatewood-pr578zcufii-unsplash.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.32,
+      "relevance": 7
+    },
+    {
+      "title": "Falha da Microsoft afeta serviços de emergência, empresas e governos em dezenas de países",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/microsoft-falha-paises.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T13:04:42.000Z",
+      "summary": "Serviços Microsoft caem em 70 países; empresa faz reparos Uma falha global nos serviços da Microsoft afeta empresas, governos e serviços de emergência em dezenas de países. O problema, que começou na quinta-feira (12), persistia nesta sexta",
+      "image": "https://s2-g1.glbimg.com/z7v6z0X_HTp_2NvDcUQDygnfZLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/T/1bZGxPS6qrl8puglPKZQ/2026-11-13t091517z-914029153-rc2xmoa5oh4k-rtrmadp-3-microsoft-outages.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.3,
+      "relevance": 7.8
+    },
+    {
+      "title": "Valença recebe evento gratuito sobre aplicação da inteligência artificial nos negócios",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0RMRHJ0ZFVvbXFBWXkzNEM4Z0g0MGhzLVUxV0Job2hCamEzMmNZemNDR1BIYm5rcGJ5dG5hRW5PNmxLRVoyUFN5TWZ4eEo1MWJ0SC1kZkFzQmNxUVdWb2VqeGlFTnYtbWM4ckEzRzZ2NFNHaHlqOHV4ZzhTdDVYNkEyYVN6VXc?oc=5",
+      "source": "Prefeitura de Valença",
+      "publishedAt": "2026-11-13T15:46:00.000Z",
+      "summary": "Valença recebe evento gratuito sobre aplicação da inteligência artificial nos negócios Prefeitura de Valença",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.28,
+      "relevance": 7
+    },
+    {
+      "title": "Faxes, celulares e Bluetooth: queda da Microsoft força empresas a recorrer a soluções antigas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/faxes-celulares-e-bluetooth-queda-da-microsoft.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-13T15:03:08.000Z",
+      "summary": "Microsoft descarta ataque hacker após falha em 70 países A queda mundial dos serviços da Microsoft obrigou empresas de diferentes setores a recorrer a tecnologias tradicionais, como fax, telefone e Bluetooth, para manter suas operações nest",
+      "image": "https://s2-g1.glbimg.com/Qw_LdXi7CmnBjBDppAcyxSu6DnA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/u/Lck7p3RJeQg2pTCLzyYg/2026-11-13t111644z-1725727772-rc2q5da86e5v-rtrmadp-3-microsoft-outages.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.28,
+      "relevance": 7.2
+    },
+    {
+      "title": "Mais de 3 mil aviões seguem para aeroportos dos EUA em meio a paralisação; veja mapa",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/mais-de-3-mil-avioes-seguem-para-aeroportos-dos-eua-em-meio-a-paralisacao-veja-mapa.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-13T21:26:57.000Z",
+      "summary": "Aviões indos para os EUA. Reprodução/Flight radar A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira (13) a suspensão das decolagens em todo o país após problemas de comunicação no c",
+      "image": "https://s2-g1.glbimg.com/XGvEYcemzeU2c5A7EQsfPape7-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/h/i5HqinTEmC2akpto22tA/hxcl580woaabiwm.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 5.26,
+      "relevance": 5.6
+    },
+    {
+      "title": "Documentário sobre o Massacre de Pau D’Arco estreia no streaming e na COP 31",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZlhhOVdPa2ZuRWMxMllGN3NjcUhhT2lOYTQ2aThYT1drMmdIMWJYYWt4c3M2T2VmMzN2RHdIRndOSnJac3I4S0pmQVhPRDdFQkMyMGc1MnhOY3hVME01eFFlVFNydUlkUmFNaW1qYXgyNjhSenZWT2lhdEJWRWxhdnNIRHFpekdOZk9kNlBUWGpHSmdWR2Q3T0dGWlpIWGZoWWFHLXVfQ0pFRzVxTmZpYVY4U2pMbmRKQ1Nj?oc=5",
+      "source": "Combate Racismo Ambiental",
+      "publishedAt": "2026-11-13T19:36:40.000Z",
+      "summary": "Documentário sobre o Massacre de Pau D’Arco estreia no streaming e na COP 31 Combate Racismo Ambiental",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.25,
+      "relevance": 6
+    },
+    {
+      "title": "Com \"Vicentina Pede Desculpas\", Filmes de Plástico reafirma força de uma nova geração mineira de cinema",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUE9jNTZIMkQ0czBmZksyNVNNZ1FUMDJBd0x3TGxTU3RBWDhYZVI5SklIVVV2VVlJelBJbC1oeHdsM1J2OWhUNnp5YmRtSHY0MDFyQmVrWmxFVGRUbDgyVjliY2RwYmhVNTNhOVk1dHNFVVE0bXVpbzJBa0k1Y0tIN00zTEtxUjNYN2tPZjRGTnZSejROcUo2YThWTGpCQ1ZkaHp3Y3BJTzA4dlZSVE9JWnFXVGhScFdRWnFGdkVXSndTcGxWdEJrUkFtV21pR05BRmc?oc=5",
+      "source": "TELA VIVA News",
+      "publishedAt": "2026-11-13T19:34:09.000Z",
+      "summary": "Com \"Vicentina Pede Desculpas\", Filmes de Plástico reafirma força de uma nova geração mineira de cinema TELA VIVA News",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.24,
+      "relevance": 6
+    },
+    {
+      "title": "Falha de internet afeta sites do serviço de meteorologia dos Estados Unidos",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/13/falha-de-internet-afeta-sites-do-servico-de-meteorologia-dos-estados-unidos.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-13T22:16:38.000Z",
+      "summary": "Aviões estão estacionados na pista após a Administração Federal de Aviação dos EUA (FAA) emitir uma ordem nacional de suspensão de voos em solo \"devido a circunstâncias extraordinárias e razões de segurança\" REUTERS/David Ryder TPX IMAGES O",
+      "image": "https://s2-g1.glbimg.com/u0vfz3x7CCLdBTgoIWdf7urKPD4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/u/5/yTyVwyRSCtZtM3Pf7uLA/2026-11-13t215519z-1872685678-rc29noap6m16-rtrmadp-3-usa-faa-ground-stop.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 5.23,
       "relevance": 5.4
     },
     {
-      "title": "Economia do Amazonas cresce acima da média brasileira",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdWVfd1dRY3cxaVBhalZKUzduTUg3YllUTVFXa2RaZzJFY2hZSE5pVTZOUGExb1A1T296ZldBTE5DU1pMQVd0bnJMYjRjU3o4OGJpRlc5dlExSnp1VDlEaTdtb3hFXzROVTZaWnlpZ2VoOF9mdzdmMXU5dVVsUF9XQmdHMklOVEthOWFwcFdVU2c?oc=5",
-      "source": "BNC Amazonas",
-      "publishedAt": "2026-11-13T13:35:03.000Z",
-      "summary": "Economia do Amazonas cresce acima da média brasileira BNC Amazonas",
+      "title": "Filme cristão A Virada – Ignição da Alma, dos irmãos Kendrick, estreia nos cinemas brasileiros",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQd1BhejNXZDR0Q3J3UXNGMDVoc3N0ZDRHWVRUV3h2X3VHOW1YZHZBUlQ5QzREUGFxa2hSOGhrc250X25KTEM4Tzlhek9Ed0NDem1xUW5aWFZ4YVhTTXFEYWdfdWlETlhkSnEycDEzTGt6a1pjSDBNUTJYN1h6T3hJZUttRWRCN0EtTm1PeVVtRUZkaFBBVm50WXVSZG0xWlljMl93QkpmNExPWkk3TE9pMk9fdlNIa2hfZDBZM2tsY0VaUzc2VU45OHpGdThxcS1mZG96a05GaGp3aTlEQUZidGIzQ0tHdFRTalJPczhvMGt4X2x6VWRSZQ?oc=5",
+      "source": "Goiás 246",
+      "publishedAt": "2026-11-13T19:33:00.000Z",
+      "summary": "Filme cristão A Virada – Ignição da Alma, dos irmãos Kendrick, estreia nos cinemas brasileiros Goiás 246",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.23,
+      "relevance": 6
+    },
+    {
+      "title": "Workshop no Sindiex aborda aplicações da Inteligência Artificial no comércio internacional - Fecomércio-ES",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk15Um9pNWM1by02di1YQWl5VUpxZzZseWQ1dmZiSlZaUTZ6eUlrdHo4by1acWxhcDFVZ0xmeU1DOFl5cF8tSWwwTVgyekpiQ1k5VDdUTm5fajhBQlZ3aWRiWllJbHlCOXBtam9xbGFHUU5OVTcwSHdFUUlvdjVWQzlsZTA0N2lwcFlLNWlWNnp5aTlFQnNMc281YjVNWGx4S0hJNFB4RWZSSGs4TjNoT09nY3RWTjhCeUc2Rnd6ZkNKOWVFcnlv?oc=5",
+      "source": "Google Notícias",
+      "publishedAt": "2026-11-13T11:59:50.000Z",
+      "summary": "Workshop no Sindiex aborda aplicações da Inteligência Artificial no comércio internacional Fecomércio-ES",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 4.97,
-      "relevance": 5
+      "score": 5.22,
+      "relevance": 8
+    },
+    {
+      "title": "Falha da Microsoft evidencia riscos para empresas dependentes da nuvem, diz especialista em IA para negócios",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSzE5QS1XRHpObXkxY3pvTFNyWEJ6Qm1tU3JZUjc0bFJJWW5FRzdqaGhUdUxocGliaFBzbGNoZE93Sy1NMnlXLTVHTzljdkNKX1MyNnZzT2FqOUt0QWdNMEI2dE9qUXdNZU0tYWlMQnluaEMycG90RTFzVEV1ZThoNUIwUjNSTERvSVJsUUpmUHBHRHVld19LWXZDbVFzdnRjRHRCTnNfYjZXUEUwaFpPamQ1dGxzNE9ySDZVQ0k0SjRRNEZEMV9fbm9xc1E?oc=5",
+      "source": "Times Brasil | CNBC",
+      "publishedAt": "2026-11-13T19:22:00.000Z",
+      "summary": "Falha da Microsoft evidencia riscos para empresas dependentes da nuvem, diz especialista em IA para negócios Times Brasil | CNBC",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.2,
+      "relevance": 6
     }
   ],
   "byTopic": {
     "historia": [
       {
-        "title": "Arqueólogos encontram uma coleção de cartas escritas por soldados há quase 2 mil anos e descobrem relatos pessoais sobre saudade, alimentação, roupas e dificuldades da vida cotidiana nas fronteiras do Império Romano",
-        "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxORjZ3MFd0cWFkWFUxdXlnTlAwbjkyLUVjWXY1WnRZTE1JU3NUN0ZJelg2WHluRWRuQWRCMzM1UFE3Yzc1QWhQNkQyOHhyeGhqZ0JzY2VwdlR3amlnanEzU3BjV2JUa1VPYjhHaWgyRFgybFVJZ1Iwbm5XYkFlVW5BVEo0SWpzeU8yM0F0aGpZSlYta0IyWTVLRHhTWDNTS0xXRC05YktEVW5UdkxsZHBjSFJxTTJ0M1RWS2JtNHJZV1BiWjNjM3lGbHU0YmxBTG9Xd2o4NEhvTFNhWjlCaUF6azZwLTByY0Jndi1UV2phM2tPSDJBX2IxSkYxdm1fLXA4UkVjR1Z5V0VKajlmZVc4Z3BtRkgwb0h6VHdCRmViOTRPUGxjMFN0UC0xbmF6dmk2b1NyU28tWjRtcWtDV084dzdmS1FYVDJV?oc=5",
-        "source": "Super Rádio Tupi",
-        "publishedAt": "2026-11-13T10:32:36.000Z",
-        "summary": "Arqueólogos encontram uma coleção de cartas escritas por soldados há quase 2 mil anos e descobrem relatos pessoais sobre saudade, alimentação, roupas e dificuldades da vida cotidiana nas fronteiras do Império Romano Super Rádio Tupi",
+        "title": "Amrec é exemplo em uma das maiores Feiras da América Latina; A polêmica do Artigo 26; Urussanga une Natal e Patrimônio Histórico; Jorginho Mello no Sul",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSG1aV3BONUxKTG1pUVVMYjExd0RDOGpEdmozQWZPWUllcWlqUkpYWFhNazBSWGlicEprWUR4T2FqZ3Vkam56WnJyUE5nd3huR3hjOW1nM1FRSVlEOGdEb3JMRXM3aDQxZUFzbXowb1B5VjNzcVlGSC03c0FSUU5nc0k0RlIyOGpSRlZOc2NkMkxTeUJmOU9IaGFXWmhxWVBnX3gxMl9CSU9RUjlSTVR2MXRUcEdYN0RUNzR0VE85SGVVeFFraXl0VlU2LVhNQUUxUEI2SkpGa1dGN190eVpBZzdkZnl3ZjVqYllIdHF4aU5ZX1BOWG1pTzFDdU0xUkNEWWN5UGVwWDl3RnBhSEk4YW9NOHRqSDhP?oc=5",
+        "source": "Karina Manarin",
+        "publishedAt": "2026-11-13T22:24:00.000Z",
+        "summary": "Amrec é exemplo em uma das maiores Feiras da América Latina; A polêmica do Artigo 26; Urussanga une Natal e Patrimônio Histórico; Jorginho Mello no Sul Karina Manarin",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 6.19,
-        "relevance": 7
+        "score": 4.87,
+        "relevance": 5
       },
       {
-        "title": "Túmulo de 73 metros na Mongólia revela indícios de comércio entre povos antigos e o Império Romano",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBidVJ3MF9Fbk5mSFNoMEpUeFJJTEJ6Z3Rtd09LcjJrVm9hU1FJd3hfOTZ5cm1LV2xiS2ZIQWNVeUJuMHpZdHlRUWdpa0RLNE5UR2RXbnBPT3pvem51NG54WGdYcw?oc=5",
-        "source": "Jornal da Fronteira",
-        "publishedAt": "2026-11-13T11:41:35.000Z",
-        "summary": "Túmulo de 73 metros na Mongólia revela indícios de comércio entre povos antigos e o Império Romano Jornal da Fronteira",
+        "title": "Museu de História Natural recebe exposição do Museu Catavento sobre evolução do homem - Prefeitura Municipal de Itapira-SP",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYjJDZ0k0Wjk2Q0k5eVlnbVUxTllHNVNIOEU1eDI1S2ZfWmtmQ1BRLXphN0s4MndVbEROY0ZEdlg2Y0FPaDNkNDhUVkdGcS1OSUQ5OVpxUGJTN2FPeXVmaTJadzZwWmhSbl9HNHA0NWhiQmpaal9aSTFNMXdzbUtpWTBPTTBZMWVQWDU4cUc4dVZHUm1tTTdTNzlQd01ONFhRblV2V2RWRzQ4bGg5YXNkSG42TDZVWXc1WV9TRGdQU0JHTms?oc=5",
+        "source": "Google Notícias",
+        "publishedAt": "2026-11-13T21:30:14.000Z",
+        "summary": "Museu de História Natural recebe exposição do Museu Catavento sobre evolução do homem Prefeitura Municipal de Itapira-SP",
         "image": null,
         "topics": [
-          "historia",
-          "negocios"
+          "historia"
         ],
-        "score": 5.55,
+        "score": 4.7,
+        "relevance": 5
+      },
+      {
+        "title": "O motorista que virou \"engenheiro de campo\" da arqueologia brasileira: livro conta a história de Seu João, que ajudou a revelar Luzia",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTZPWUJTRkZ2cGt0bUcyTFpONkpJMzU3VWpiMlJaVTJQXzRfSEczdjBKc0czd1E4elZENm16dFdLVUdVX3VabXlWTGhXRjFBZkNWSU4xRzBfZkc4aE9nZVhGVXdqcFI5bTNkaF9jdkVmMjFYaGxGMHk0cENUb0k0dGlvQ3l2aWdNV2xjR1k4bTZSMFR1MGFJbFRQalVPbC1f?oc=5",
+        "source": "Revista Amazônia",
+        "publishedAt": "2026-11-13T15:50:00.000Z",
+        "summary": "O motorista que virou \"engenheiro de campo\" da arqueologia brasileira: livro conta a história de Seu João, que ajudou a revelar Luzia Revista Amazônia",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 4.54,
         "relevance": 6
       },
       {
-        "title": "Berço da República, Itu guarda história do movimento no Museu Republicano",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcEZ0cFBjTmU4RktENE9qSGszVWI3cE13U3FnTVVwejZpUFQ4TldnYmFtU3NrRzV1RU9kb0tfNzFTU2VJMXFtQWw2aEh2ak1heUxuelRsS0JmMmlZZTh4bmhnV2IyZTBleFFpTDBWRnhkYnBUR20zdjBQQ21LWFRVU1Z0Qld0N1J4R0VKemY3eWRQMnlydVQ5Q1hvSEE0VmZoNnNhaHY4aWdvdnRmNmxKYS15bXBJSEJ5SFR3Q1VrY25JSklyeEswWVJvTTktSTA3VDd3NF9JZkMwSnBmSDdZNWRyVmppaWlUalhhalkxVjLSAf8BQVVfeXFMUE0zODM0cE8wOXZNQWM3SW5SeERBcHdFWDFLYWIwYTF1S3lBQkQ4R3dqX2FQM3JqaVlFX0I4TmhRbEJSSWNXRFpJZ1Q0VlB5ZVdsYzUwYkxNUGp3akdDWUUzWEZ4QU5FQzZnSlotZGJ2QkxSaGNIYWxoZHhJeEZPRXJ1Qjhfb2FGV2RoRjR1QWRsdS1memlBSGhkU3RsMWxvcGhpSWRiOGowbW41SDF2NEZuS2RqYzlYc1B5ZjdNVGJNdjROUDRtcFgyU3JINzB0WWtHUXpvX0dLa1I4WFFZcGtvSUMwcGhOa0d6REItMkhxUEd0T2g0dU10ZDFlaUMw?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-11-13T12:11:21.000Z",
-        "summary": "Berço da República, Itu guarda história do movimento no Museu Republicano G1",
+        "title": "Circuito Cultural Entre Notas: música, história e gastronomia no Museu da República",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQakM2c3BlTEI1UWM2YlpNUTZFR2Y2S05XeWI5UnRqeXFsYUNEU2RRN243d0phNlZTYmcyb2pWVGtURnVMRk1yNERmZzBEVmxNQTFaTzhRTWp6TW1HV0JQcHozQ3hDVjYxY1BqNTcyNFcxakxocjlfS3JnOVZRTGVZaFlTWGVnSWp5b1lTVE5LRkpRZC1lVGxkUVlQNExIYmZhM3F4Z3FGQV9mU2xOWVluZ1NHWVJQdnA3aWw0ZUFPVGh2Z1U?oc=5",
+        "source": "Agenda Bafafá",
+        "publishedAt": "2026-11-13T20:16:59.000Z",
+        "summary": "Circuito Cultural Entre Notas: música, história e gastronomia no Museu da República Agenda Bafafá",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.71,
+        "score": 4.49,
         "relevance": 5
       },
       {
-        "title": "Independência política nem sempre põe fim ao domínio colonial, diz historiador",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGJKYVR4WnFtajZuRWk3bDJyZ0tvRjJRclVSWGp5NzJIZ2ZXc2ZBMXdrY0VzdW1KWEdNWGpMNlJXMkF1N2xBZ2liUGY2Nnp4eGxzTk10SjFwWkNudWNyNElRb1M5bE5LUkxsRkE0aW43MlI3SC00cDRwdXhFM1BtalZrUC0yT2dFc0ttbk94SWJPRHFqV1YwRGgtTl85UlBFVlNiVjNyRWlEOUJtekE?oc=5",
-        "source": "Agência FAPESP",
-        "publishedAt": "2026-11-13T03:01:34.000Z",
-        "summary": "Independência política nem sempre põe fim ao domínio colonial, diz historiador Agência FAPESP",
+        "title": "Bece homenageia a memória e o legado do historiador Hilário Ferreira no programa “Relatos Biográficos”",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVWg5dTNjanZSeVJKV3Q5dFZLVFBfRGVuSkY4WlcyUnNRS0pKUGp0TzEwOTVxN0xGTTRUVVJkVTZqOGN3cFJqVElVRWhIOTBCaVhOZ0o4S3pJSnFBOGlUakgxSmMzaHd5aUtSdDVjN0lacnBkbXFRQ2dSRUJpc045ZmpRN3BkY1dsaHJoaHZrRVpya3JpRWhCTmUxS3FkSDBnQXFXay1Id1RSaWZFdjRNMHhOQm9OcWxyOGUtdklob3JWTDFoeUVjUWRCYjBHUndKcXNKT18xX0M?oc=5",
+        "source": "Governo do Estado do Ceará",
+        "publishedAt": "2026-11-13T19:13:14.000Z",
+        "summary": "Bece homenageia a memória e o legado do historiador Hilário Ferreira no programa “Relatos Biográficos” Governo do Estado do Ceará",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.64,
-        "relevance": 7
-      },
-      {
-        "title": "Assembleia Legislativa aprova projeto de Dr. Aledson Moura que reconhece Casarão de Patos de Irerê como patrimônio histórico da Paraíba",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNN25KNWhzbDJJbVlTUWE1ZUZlYW9MLVFSVDNtdk04Rk1pVjVJN1dFbW9VTVpUWUlNRTlBSWxqZTVnZENiWlBDcWFsMXQ0aVdxbnBxS195MWJMcWY2VkYyVzFZNm96RS1FcGtDWVh4b1dTaWh6eDlHa3dhVVZPQ01jWDJ2TGx4dUdfZEp5YThuOVNaOG1uaFhUbTd4UG9QT19mRGw0UFV6dDctVnVtN2VHYmN6emtCbUNtYmFfV2ZYZ25mVzJhQXh2dzY1ME5oWGFFeVZjZ2tFMTVhdk1jNWhXNzBGbi00TFhNUU9mTS1pQjNJSUE1WGx3Nk9uNVc3QUdYcEE?oc=5",
-        "source": "Portal do Litoral PB",
-        "publishedAt": "2026-11-13T11:44:24.000Z",
-        "summary": "Assembleia Legislativa aprova projeto de Dr. Aledson Moura que reconhece Casarão de Patos de Irerê como patrimônio histórico da Paraíba Portal do Litoral PB",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.63,
+        "score": 4.31,
         "relevance": 5
       },
       {
-        "title": "Proclamação da República: conheça os cursos que ajudam a entender a história do Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMS12b2FnRnpyUUt1QmlUMU5oc3lsS2lGNjNJSXNSSDZGYVo2elY3RlFZODlJQV9vRHVYQi1lLW9BWnNDT3lyUm1RdVlHZGk1cXdUanRhbklYWnVJQmJINzB2NXZRRkx1UVpMdkFPYnJJV1dXeExWM3AxN3ZzaUw2cTVHUlNEXzQ2Y0FJdlpKX3FrbDUxWEdDSDUtSEx6Z1JubURMekwyVEh2SUljbVVhZGljUlRwR2p4MGhHZkNmY3h1dU9xNWR5VGkwT2RPSGl2Y0VPdg?oc=5",
-        "source": "Educa Mais Brasil",
-        "publishedAt": "2026-11-13T13:02:55.000Z",
-        "summary": "Proclamação da República: conheça os cursos que ajudam a entender a história do Brasil Educa Mais Brasil",
+        "title": "Conheça a história e os atrativos de Areal, a Capital da Uva do RJ",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUFhhZ09oZXVqVng0Tjd3LXg3RllFYUlpNlBHRlY5RW1DZEJoUTQ5OXlSM3FIRHZpbWRnbmxoYlF0YnBHdnNOUUFIdlRmT0xtY3pTN1lGYkxGV3otRWloZ1FBTlBBR25jR28yN29xRzF5ekJXSV95MS15WnZzeGd4bndmUkUxNVhEbzd6aHhxb2xqNXlMMmNvRkplZmhYYzVFZmNodnlVcGdQUkVqYlFSVjlMSjB2QdIBuwFBVV95cUxNdjFVYnJ4VjNZc00zN0VpSWViZW1mYlc4X0pJai1qMjFKTTBsT3BzS2k4R2xkYTZXeUFoLVFEVFJtTU1yMkJtdUZMandmRVJlc3pwNm02LTFtYkJJbzRLaVVtRjBURmVkTHZJcWZqVkdIX05nVDlYcEhFTkV5bnc3cTg4eW9mVXFFdG04VTZOclZ4YlFaSHItbzM4WEQ4aEJlMVczUkJlRldCQmtoZ1VSeEx1R3RFTTN5Tnlj?oc=5",
+        "source": "O Dia",
+        "publishedAt": "2026-11-13T22:40:49.000Z",
+        "summary": "Conheça a história e os atrativos de Areal, a Capital da Uva do RJ O Dia",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.9,
+        "score": 3.94,
         "relevance": 4
       }
     ],
     "geopolitica": [
+      {
+        "title": "Suspensão de voos nos EUA: secretário de Segurança descarta ataque: 'Não é um novo 11/9'",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/13/suspensao-de-voos-nos-eua-secretario-de-seguranca-descarta-ataque-e-fala-em-problema-de-telecomunicacao.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-13T22:19:29.000Z",
+        "summary": "EUA suspendem decolagens em todos os aeroportos do país por motivos de segurança O secretário de Segurança Interna dos EUA, Markwayne Mullin, disse que a suspensão de todas as decolagens em todos os aeroportos do país nesta sexta-feira (13)",
+        "image": "https://s2-g1.glbimg.com/O-oC-mpwoOS_J0a39emD8Rerj7U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/y/BsHtomSHel9odjsx7WjA/fotos-g1-1920-x-1080-px-2026-11-13t192306.766.png",
+        "topics": [
+          "geopolitica"
+        ],
+        "score": 6.21,
+        "relevance": 6.4
+      },
+      {
+        "title": "Líderes europeus pedem que Trump 'não crie surpresas' e definem representantes em negociações sobre a Ucrânia",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/13/lideres-europeus-pedem-que-trump-nao-crie-surpresas-e-definem-representantes-em-negociacoes-sobre-a-ucrania.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-13T18:10:49.000Z",
+        "summary": "Os líderes europeus, reunidos em uma cúpula em Dublin nesta sexta-feira (13), concordaram que um grupo de países específicos e a União Europeia os representarão nas negociações com os Estados Unidos, a Rússia e a Ucrânia. De acordo com font",
+        "image": "https://s2-g1.glbimg.com/XWFtskDxWG2jehE5WMudO-W2iCw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/a/Uc5pVATFyx1yKYYd3BSg/2026-11-13t142642z-387727537-rc22noabt22u-rtrmadp-3-eu-summit.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 5.96,
+        "relevance": 7.2
+      },
+      {
+        "title": "Modelo de El Salvador: Bukele inicia ação militar no Haiti com bombas, cão-robô armado e 2.500 soldados; veja VÍDEO",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/13/modelo-de-el-salvador-bukele-inicia-acao-militar-no-haiti-com-bombas-cachorro-robo-armado-e-2000-soldados.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-13T19:24:47.000Z",
+        "summary": "El Salvador usa cachorro-robô armado em operação no Haiti Tropas salvadorenhas bombardeiam a casa de um criminoso a partir de helicópteros sobre a zona rural do Haiti. Civis aplaudem soldados uniformizados com trajes de camuflagem que march",
+        "image": "https://s2-g1.glbimg.com/S69-Omd9pQZRoG0WjUiSLpfOU74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/4/7/0anL0TTbihjeha6naKcg/2026-10-17t015645z-912648220-rc2p4oalqm0i-rtrmadp-3-el-salvador-costa-rica.jpg",
+        "topics": [
+          "geopolitica"
+        ],
+        "score": 5.73,
+        "relevance": 6.6
+      },
       {
         "title": "Ucrânia faz grande ataque de drones contra a Rússia, que segue atacando energia ucraniana",
         "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ucrania-faz-grande-ataque-de-drones-contra-a-russia-que-segue-atacando-energia-ucraniana.ghtml",
@@ -760,91 +794,101 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 8.09,
+        "score": 5.64,
         "relevance": 9.6
       },
       {
-        "title": "Irã exibe arsenal militar em Teerã: 'EUA acabarão falhando e desistirão'",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ira-exibe-arsenal-militar-em-teera-eua-acabarao-falhando-e-desistirao.ghtml",
+        "title": "Passageiros fazem vídeo dentro de avião durante suspensão de voos nos EUA: 'Estou literalmente no ar'",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/13/passageiros-video-aviao-suspensao-voos-eua.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-13T12:30:30.000Z",
-        "summary": "Irã exibe arsenal militar em exposição em Teerã Uma exposição apresentando mísseis, drones e sistemas de defesa aérea desenvolvidos pelo próprio Irã está sendo realizada em Teerã. ✅ Siga o canal de notícias internacionais do g1 no WhatsApp ",
-        "image": "https://s2-g1.glbimg.com/GGSzShIxzkpnYuvmd9YK8MQkV2Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/f/6/3oIFe5QNqsT3U1GSTFJg/misseis.png",
+        "publishedAt": "2026-11-13T22:06:58.000Z",
+        "summary": "Passageiros em aviões durante paralisção nos EUA Reprodução/Tiktok Passageiros afetados pela suspensão de voos nos Estados Unidos, nesta sexta-feira (13), gravaram relatos e postaram nas redes sociais. Dois deles estavam dentro de aeronaves",
+        "image": "https://s2-g1.glbimg.com/BvVwgvNTyhx9hf4pJUP-lXBnY74=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/l/Yx8cB6Q8OKYxxJAGVlXQ/fotojet-22-.jpg",
         "topics": [
           "geopolitica"
         ],
-        "score": 7.25,
-        "relevance": 7.6
+        "score": 5.39,
+        "relevance": 5.6
       },
       {
-        "title": "Congresso dos EUA convoca ex-CEO da Nvidia após caso com suposta espiã chinesa",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/13/congresso-dos-eua-convoca-ex-ceo-da-nvidia-apos-caso-com-suposta-espia-chinesa.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-13T09:53:01.000Z",
-        "summary": "Após renunciar, ex-CEO da Nvidia é intimado a depor no Congresso americano Jensen Huang, ex-CEO da Nvidia, gigante do setor de inteligência artificial (IA), foi convocado para prestar testemunho em dezembro a uma comissão do Congresso dos E",
-        "image": "https://s2-g1.glbimg.com/MlZ_eUANbsFN8ZHjtdI0UYCqHHo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/O/jUvABqRFiByaQU243cEA/2026-11-12t155113z-568968571-rc2h6oa2gw9b-rtrmadp-3-nvidia-ceo.jpg",
-        "topics": [
-          "geopolitica",
-          "negocios"
-        ],
-        "score": 5.52,
-        "relevance": 6.4
-      },
-      {
-        "title": "Irã diz ter atacado radar dos EUA no Bahrein",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/13/ira-diz-ter-atacado-radar-dos-eua-no-bahrein.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-13T05:37:24.000Z",
-        "summary": "A Guarda Revolucionária do Irã afirmou nesta sexta-feira (13) ter atacado um radar de alerta antecipado dos Estados Unidos no Bahrein. Segundo a agência de notícias Reuters, esta é a primeira reivindicação iraniana de um ataque a instalaçõe",
-        "image": null,
+        "title": "Mais de 3 mil aviões seguem para aeroportos dos EUA em meio a paralisação; veja mapa",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/13/mais-de-3-mil-avioes-seguem-para-aeroportos-dos-eua-em-meio-a-paralisacao-veja-mapa.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-13T21:26:57.000Z",
+        "summary": "Aviões indos para os EUA. Reprodução/Flight radar A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) determinou nesta sexta-feira (13) a suspensão das decolagens em todo o país após problemas de comunicação no c",
+        "image": "https://s2-g1.glbimg.com/XGvEYcemzeU2c5A7EQsfPape7-8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/h/i5HqinTEmC2akpto22tA/hxcl580woaabiwm.jpg",
         "topics": [
           "geopolitica"
         ],
-        "score": 5.27,
-        "relevance": 7.2
-      },
-      {
-        "title": "Rússia apela à OTAN para documentar suas ações contra expansão para o leste",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRU81Y25MeV9sU3ZRSWpyQmlyQ1h5R0YyYXlPZER5eENnMWZySWp0TW9nWVpBdWhwYWFaX3U4V3lzQmN0OXdlXzZQanhsckhaV0NpemJMQjcyZWNSbU1IaTBNYUU5dnREMXFMT2FqbDBWdTV4Vk1KaTQwWkJxdUhPemVPU19jSU5pRWF2YjBjbEVidE01ZlkyanF1bnZ0U0drT1JiaTh0WGxIYjFkZ3hQLXJtbTNVcGVSNUUySTZLTndJeTlIaE00S3pNUk9aYmdE?oc=5",
-        "source": "Tribuna do Sertão",
-        "publishedAt": "2026-11-13T13:20:56.000Z",
-        "summary": "Rússia apela à OTAN para documentar suas ações contra expansão para o leste Tribuna do Sertão",
-        "image": null,
-        "topics": [
-          "geopolitica",
-          "negocios"
-        ],
-        "score": 4.93,
-        "relevance": 5
-      },
-      {
-        "title": "Casa Branca restringe reuniões com lobistas sem aprovação prévia",
-        "link": "https://www.poder360.com.br/poder-internacional/casa-branca-restringe-reunioes-com-lobistas-sem-aprovacao-previa/",
-        "source": "\n\t\t\t\t\tPoder360 · PODER360\n\t\t\t\t",
-        "publishedAt": "2026-11-13T11:54:57.000Z",
-        "summary": "Após acusações de tráfico de influência, novo chefe de gabinete de Trump enviou memorando com regras a funcionários",
-        "image": "https://static.poder360.com.br/uploads/2026/11/casa-branca-lobistas2.png",
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 4.66,
-        "relevance": 5
+        "score": 5.26,
+        "relevance": 5.6
       }
     ],
     "negocios": [
       {
-        "title": "Dólar sobe com mercado atento à aprovação do pacote fiscal no Senado e aos dados do varejo",
+        "title": "Dólar fecha em leve alta, a R$ 5,65, com pacote fiscal no radar; Ibovespa avança",
         "link": "https://g1.globo.com/economia/noticia/2026/11/13/dolar-ibovespa.ghtml",
-        "source": "G1",
+        "source": "G1 Economia",
         "publishedAt": "2026-11-13T12:00:00.000Z",
-        "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar opera em alta nesta sexta-feira (13), com os investidores atentos aos desdobramentos da votação do pacote fiscal no Senado e à divulgação de novos indicadores econômicos no Brasil e n",
+        "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em alta de 0,05% nesta sexta-feira (13), cotado a R$ 5,6549. Com isso, manteve-se no maior valor desde junho de 2025. O Ibovespa, principal índice da bolsa brasileira, avançou ",
         "image": "https://s2-g1.glbimg.com/en-e3pXXYmmv5grpZimBQ0X1DaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg",
         "topics": [
-          "negocios",
-          "geopolitica"
+          "negocios"
         ],
-        "score": 13.1,
-        "relevance": 14
+        "score": 9,
+        "relevance": 13.8
+      },
+      {
+        "title": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações",
+        "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/entenda-por-que-o-lucro-do-banco-do-brasil-despencou-e-derrubou-as-acoes.ghtml",
+        "source": "G1 Economia",
+        "publishedAt": "2026-11-13T16:15:00.000Z",
+        "summary": "Presidente do BB fala sobre crise com o agro A forte queda das ações do Banco do Brasil na quinta-feira (12) refletiu a reação negativa do mercado aos resultados do terceiro trimestre de 2026, divulgados na véspera. Os papéis recuaram 8,35%",
+        "image": "https://s2-g1.glbimg.com/zuPWhQlDM7Vk3gwOLrQMG6FXYEw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/G/I/M5h9MWQimpvflJf497Og/2021-03-18t214544z-1-lynxmpeh2h1m0-rtroptp-4-bancos-bb-renuncia.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 8.76,
+        "relevance": 11.4
+      },
+      {
+        "title": "Quem são os produtores inadimplentes do Banco do Brasil? Especialistas explicam a crise no agro",
+        "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/quem-sao-os-produtores-inadimplentes-do-banco-do-brasil-especialistas-explicam-a-crise-no-agro.ghtml",
+        "source": "G1 Economia",
+        "publishedAt": "2026-11-13T18:30:00.000Z",
+        "summary": "Presidente do BB fala na Globo news sobre inadimplência do agro Especialistas em crédito rural ouvidos pelo g1 afirmam que o aumento da inadimplência no agronegócio foi puxado principalmente por médios e grandes produtores do Centro-Oeste, ",
+        "image": "https://s2-g1.glbimg.com/fLXgFAG3y0Oa_b_C7mI_HKK0RIc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/A/nnxIBfTfOLzPlQnGfOMw/261113-grafico-inadimplencia-do-agro-por-linha-de-credito-no-banco-do-brasil.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 7.71,
+        "relevance": 9.2
+      },
+      {
+        "title": "Quais os perigos da desaceleração da economia citada pelo Banco Central?",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV0VpOEZUNmw2ODczejdQLVc3VTRnWnRiUmU1M2RYRGJMSmFFY1VQRUFjZ25PS3ZNbnR2U1VGRXVZbTN4VUZOeUJUeWs5aUFiVHdGZWd3S3ltcFVxV1cyTTJSdEwyZHVjdW5lUUJsOFpZVHR3dkVya0JTR1ZGQTdSQWZPVkhOWlhiLU1FZHhwblZ5NnRGRURaTDd0N1Q3dkRzNlZKdlc1UksxUVpaTTNTdmRGRXBTc2ItNjE0cWFvVWhDbnpiSTVxdEZn?oc=5",
+        "source": "CNN Brasil",
+        "publishedAt": "2026-11-13T20:01:51.000Z",
+        "summary": "Quais os perigos da desaceleração da economia citada pelo Banco Central? CNN Brasil",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 7.11,
+        "relevance": 8
+      },
+      {
+        "title": "Associações do agro rebatem BB sobre alta da inadimplência",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3ltNUh6MDFVSkJrRFBoUDdQQlNGSHhINEtNQkJyLTI4em03TjZSVjB4M2FhN3hHRG16eHg3UHplcVhxazI0MlJ1b1FSaWlLTkdsN0Z2eENiWlM2clJhM2owdVo5aUZtY1VVR19PWlgxOHRIQ2w4MlpzTzZJRmF5RjUyMVJJNFRFX1NZT0duUFRFaFB0TXRnNDJLOTJOdlVlYXYteXhGTk1UZXdaUWNmYzBEeU51b2c?oc=5",
+        "source": "Agência Brasil",
+        "publishedAt": "2026-11-13T18:25:00.000Z",
+        "summary": "Associações do agro rebatem BB sobre alta da inadimplência Agência Brasil",
+        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 6.85,
+        "relevance": 8.2
       },
       {
         "title": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil",
@@ -857,64 +901,76 @@
           "negocios",
           "geopolitica"
         ],
-        "score": 9.78,
+        "score": 6.82,
         "relevance": 12.2
-      },
-      {
-        "title": "Falha da Microsoft afeta serviços de emergência, empresas e governos em dezenas de países",
-        "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/microsoft-falha-paises.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-13T13:04:42.000Z",
-        "summary": "Serviços Microsoft caem em 70 países; empresa faz reparos Uma falha global nos serviços da Microsoft afeta empresas, governos e serviços de emergência em dezenas de países. O problema, que começou na quinta-feira (12), continuava nesta sext",
-        "image": "https://s2-g1.glbimg.com/z7v6z0X_HTp_2NvDcUQDygnfZLY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/T/1bZGxPS6qrl8puglPKZQ/2026-11-13t091517z-914029153-rc2xmoa5oh4k-rtrmadp-3-microsoft-outages.jpg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 7.61,
-        "relevance": 7.8
-      },
-      {
-        "title": "Workshop no Sindiex aborda aplicações da Inteligência Artificial no comércio internacional - Fecomércio-ES",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNk15Um9pNWM1by02di1YQWl5VUpxZzZseWQ1dmZiSlZaUTZ6eUlrdHo4by1acWxhcDFVZ0xmeU1DOFl5cF8tSWwwTVgyekpiQ1k5VDdUTm5fajhBQlZ3aWRiWllJbHlCOXBtam9xbGFHUU5OVTcwSHdFUUlvdjVWQzlsZTA0N2lwcFlLNWlWNnp5aTlFQnNMc281YjVNWGx4S0hJNFB4RWZSSGs4TjNoT09nY3RWTjhCeUc2Rnd6ZkNKOWVFcnlv?oc=5",
-        "source": "Google Notícias",
-        "publishedAt": "2026-11-13T11:59:50.000Z",
-        "summary": "Workshop no Sindiex aborda aplicações da Inteligência Artificial no comércio internacional Fecomércio-ES",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 7.48,
-        "relevance": 8
-      },
-      {
-        "title": "Banco do Brasil em queda, varejo e inflação ao produtor nos EUA movem o mercado",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaC1qVm1ndlpWVTZBR2FNaEg5MW1FZnBtTjFienJ1R3VjOUktOHE1Q0lqVkJRTEtnQ1Faa0RRV3djYk9wUDNPejA2VmRFVEVENXR0MVNfSUFfczdFNi1zX1FKNUo5aE9Tc0M4U3BrZ25TekVwM1hzX1hmdHZvZ0ZTNFRHQjRlM1VyZGRNQmZFby1GY1g1RjNWVG9mUjc4dTNCRTRTbE1wY3RaYXFwSjhhbFQxbkhsNDRyTi02ekszaUhFQkpIb3o3cW1NQmhEUFowR1E1d3pqZDBiR0dMVWxCM2VfcDVEdjd1Sm1Ocg?oc=5",
-        "source": "UOL Economia",
-        "publishedAt": "2026-11-13T11:05:31.000Z",
-        "summary": "Banco do Brasil em queda, varejo e inflação ao produtor nos EUA movem o mercado UOL Economia",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 7.05,
-        "relevance": 7.8
-      },
-      {
-        "title": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ0lCN18wYjJqZjNmcTJtb1BEUDUwb2JNWHVhYWRNSEdBV0NFUDNIc3pRSktpRkpiNmxTd2ZvckNzZ2NDbk5tZXBaVTBVczQ4NEZHTWttX0g1dEliQ0VLaUVDb2JQR3FQUTEyTER5RVhqZzNWMUgxV0JZZFR3eHVtUWlpNmtFY2t4c0NUMlNMMFBJMFdpZnVxZHc1eVVzaHlKSW1vOFp6RVVSUWc2aWYwdkd4S1psV3JKQ2FiUUgtZ29PVzZhbjRFUU5OYUtrRzJsR0hCNnNfNWYzTTlrYlV30gHuAUFVX3lxTFB6X3hUVlRZOUNydXlPbjcyUUN6elhpWHhZbFdsTFEyZUpSLWtqa01WMTBocUI1cjlleHYybkh5bmF2RUN1eWVwMkJqcmd0c1lCOXU3dlZUaW5XZnVEY3ZmX013Z1JWc0lwendrY0JlaTJ3bmptX3ExaFc4X1IwT1BiQXNiVXlvVDVXQUN3dVVkRWFfQTNjblRzbEx5RDBTWldCWGVPRFVYdjJkclNVaGRTZTljaGc2RGMta1NPSjVZLTIwLVFIY2NVSWZhYzNaTHlyUm5LYjdDUU1MNW11ZzMxdXFXc0lEOWFKMmdLSUE?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-11-13T05:00:00.000Z",
-        "summary": "Futuro ministro da Fazenda: veja quem são os cotados e o que está em jogo na escolha de Lula G1",
-        "image": "https://s2-g1.glbimg.com/eduBJVzlZQj9k8fVzI4td0s9_rQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/A/thl5gjT4uXlf11tMrHpQ/fotojet-40-.jpg",
-        "topics": [
-          "negocios",
-          "geopolitica"
-        ],
-        "score": 7,
-        "relevance": 9.8
       }
     ],
     "filosofia": [
+      {
+        "title": "Espetáculo da pensadora Viviane Mosé leva filosofia, teatro e dança ao Teatro do Parque",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOW5IZXNoWWZrUVhsZkVfVUV4Z2d5akRrdWtqNVNqd1I5ZEJDeS1XZmZGdEJmLUViT2xEbklTdGFUN0w4TmtIamJfR2JaSUF2OEg2U1Q2bjJreHFZZmlLSG9zRnNLRUNMRGVKWHBYUDczX0wydFNyd0pyWjFJM0VUYUEtN2RSUVVRQXhsOV9MTnV5WWV4OFh0X2FqWXF6S2dDTk5JVWxaVm1QUTBMREg0bTY3RGt2aGI4RUhuR0wySUktSmllUEY4VnFLTjRJa2dSUXo5Z0R1V3d3bXBFQUFaNmhFcS0zQlE?oc=5",
+        "source": "Diario de Pernambuco",
+        "publishedAt": "2026-11-13T19:36:00.000Z",
+        "summary": "Espetáculo da pensadora Viviane Mosé leva filosofia, teatro e dança ao Teatro do Parque Diario de Pernambuco",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 4.37,
+        "relevance": 5
+      },
+      {
+        "title": "Em defesa do pensamento crítico, manifesto cobra Sociologia e Filosofia - APP-Sindicato",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUG9KWnNzOGZIR1EtQ0QxM21YOHAwQVZhQjMxbnJ6Y3c4bjdYUE1EU1pMSHF5RnhkS2tVMWNpWjdLQ0o0dVpyV1NjUm51dTlBQ19YYllzTjc5b3FKYTktMEdrMnd1eGtqQ09IT0dxSlVEWEVpRWZ2Z1NESWpydnlWY3VpeUhLNGxzT3FvbkhQamVXUHZJdVc0SkJjVGt1eVF1?oc=5",
+        "source": "Google Notícias",
+        "publishedAt": "2026-11-13T18:15:44.000Z",
+        "summary": "Em defesa do pensamento crítico, manifesto cobra Sociologia e Filosofia APP-Sindicato",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 4.15,
+        "relevance": 5
+      },
+      {
+        "title": "Viviane Mosé apresenta espetáculo que une filosofia, poesia e dança no Recife neste sábado (14)",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMFNIYlhJcjMxZVV1UFJPTnNBYzZEdWQ5UjhaclFzYWMtTkRDdXpsM1gyMzVjYUtsSjJ5dmdhRURLS0NBdmZhUzZkSjBMcUZ6WkNGc29RU291V05tVjZuZ0swZ3hCclluMk55U2NDYzUtTXo2SlEwZFBmQVF1bVI1cm9YV3BsLWZ3OGdNZkpuNlExY1NPc3lfM1hUVDAybUtPY2NFaUJLeVB0dUZHX2toWTZxRG5lUzJReFA5QVphNFlWVWwxM2pkdlMzMkRRaGRJa3c?oc=5",
+        "source": "Brasil de Fato",
+        "publishedAt": "2026-11-13T19:56:00.000Z",
+        "summary": "Viviane Mosé apresenta espetáculo que une filosofia, poesia e dança no Recife neste sábado (14) Brasil de Fato",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.54,
+        "relevance": 4
+      },
+      {
+        "title": "Cartola e Nelson Cavaquinho e a filosofia do samba de morro",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTUxQcGdTTTE5MGpLS1RJMS1pc2NsNzBrVFRXNkNpUU5CNWYzeU5HVk80bHJ4NDFZcXlEdlFHTGYyUEw1dmUtcnRUckJ0RkFtSVQ0aUhiVmxvSFZIZld0bjlUSWkxVDNlN3Z0UC14VS1mUWZ3LXhaaVlqWUU2d28tVGxRWHUwTHdEaHRGa1BuX2RkZWxjX3ZWeUtVX2FONF83b01tOXpjR1J1U19Da1ZQODNB?oc=5",
+        "source": "Novabrasil",
+        "publishedAt": "2026-11-13T19:15:00.000Z",
+        "summary": "Cartola e Nelson Cavaquinho e a filosofia do samba de morro Novabrasil",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.45,
+        "relevance": 4
+      },
+      {
+        "title": "Retorno obrigatório de Filosofia e Sociologia no ensino médio tramita na Câmara - Sinpro-DF",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHBFYnppaVRhYm9haWJtREpNd082cWN2ZE5sVHlIZUUwbDZVYVJjVHBlTW5RZ3kzdWFUaEtoenJWTVdnRVh6SEkwa2ZDbDdhYzZoNXlNcDk1OHY2MnVkQ0diOFM3Y0JqRTNRN2g5ZTV1di01N3pBNUhVWWJMSEptM18zcktObVFFd1NXZHhsRWZPTGdzdWdpblByUkRCdUFFVnB0Q05YY2pBdDNW?oc=5",
+        "source": "Google Notícias",
+        "publishedAt": "2026-11-13T19:07:07.000Z",
+        "summary": "Retorno obrigatório de Filosofia e Sociologia no ensino médio tramita na Câmara Sinpro-DF",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.43,
+        "relevance": 4
+      },
       {
         "title": "Graduanda de Filosofia da Ufal lança livro sobre pensamento negro e vivências periféricas",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNenFUb2dnck1leW9hUktpeGNqUW9CSHlOSkdBTy1CUUpHR3JMbEFyQ1d2RUxwbUVFMmpTYXByekVURXBFenFzOEpGbGlnc29IbXl4bkFRcFItUWdOdzFCdTNNWEYxTjRCdjVyY3ladUhabzFsOXUzZTNDQmVHWE9PX2FRNFpZb09nT0hzMHh0ejZ0M2JfTVRPRVgyclBtUEhhc3QyZTgycl9INWl0cFVXNFh3M2twNXlmLUU1MENKQVNVRzdjaGJCekdpakNNTHBtSldvQ0RQb2ZXYTVtQkxoVDhoblozQQ?oc=5",
@@ -925,233 +981,168 @@
         "topics": [
           "filosofia"
         ],
-        "score": 4.85,
+        "score": 3.38,
         "relevance": 5
-      },
-      {
-        "title": "Conheça a filosofia que norteia o restaurante com melhor serviço do mundo",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVUdWLWJRVTRkTndXbUtHSFQxVWY4TzJ6NkZCYW1oSVRfNlplN2ltWC0tYVlDWHRzb1JXTTU2STRrRzlNWUhFU1NabmNVWU1GM2JhSHdFZ0Q0TWExRF9RMEdaSHZhMjRZM3k5S3NLVXk2bHpmOF9nSlhad3RuSmpQY2FYRXVtWVBGR18tMTNGeGRlTXlPMUdIaDdlRGxaMlJEWnUtenhJRUk1dU1kRWNMbnowaWxaSWc5UGFndm9ROWZ2QVRLdjlBQWQ3VzJaZ3d2aVNnNEFjN1h0VUtKbjdvRW0xSUg0NzMxTHlEcXNB?oc=5",
-        "source": "Expresso",
-        "publishedAt": "2026-11-13T11:59:39.000Z",
-        "summary": "Conheça a filosofia que norteia o restaurante com melhor serviço do mundo Expresso",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 3.74,
-        "relevance": 4
-      },
-      {
-        "title": "CELORICO DA BEIRA: Apresentação de livro de Lina Couto assinala Dia Mundial da Filosofia",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYk9IWnAwang0clExc3FZQkZFSG1qTUFSVWVVZU9mVUp3X2NPN0hyUUZnQ1dvbFBRcmlSejBldWo4VkNudFR4VkgxaGRnTGo2dGRNd1ZkYlRHTmJ4ekxIRDhwV3FTbUhELUN3YlQwdGhSalZtTkkwSDhIQVBWY2pWSHRpX3NlR2d0MU4tUENrYVRsX21DQkc0MGJiSlZIemJWdHZraUJHZmV0R1pqc0NYVHNaMjVzQ09RM0pJV3kxV3RGMVJpUVVVdnl3RjItTXow?oc=5",
-        "source": "SAPO",
-        "publishedAt": "2026-11-13T11:37:00.000Z",
-        "summary": "CELORICO DA BEIRA: Apresentação de livro de Lina Couto assinala Dia Mundial da Filosofia SAPO",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 3.69,
-        "relevance": 4
-      },
-      {
-        "title": "Orquestra da USP apresenta concerto especial que relaciona filosofia, música e psicanálise neste sábado (14)",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1KRFlWWmVCMXFVR1g1VlEybzVQc211Vm1FTGdBem1mN3IyX2Z6dmFCdEhYd1ZCRXFjWHBHVHNxMVY4dDMyV1NXOUhicG8ydWJSa0p0S0NGU3FFS2ZKSW5adXRmbnNPeDl6eXZoU0RiczZXMU51S0ZxVGJRVzI?oc=5",
-        "source": "agenciasp.sp.gov.br",
-        "publishedAt": "2026-11-13T11:03:00.000Z",
-        "summary": "Orquestra da USP apresenta concerto especial que relaciona filosofia, música e psicanálise neste sábado (14) agenciasp.sp.gov.br",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 3.61,
-        "relevance": 4
-      },
-      {
-        "title": "Dia Mundial da Filosofia em Brasília promove diálogo entre Filosofia e Ciência",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYW9uZ1JoX2dPQTRfTm1WOEx5b3ZKZXQyalhiNWFtQ0RJWDdTY1lkTjhzVlVwTW5FZkJ3YTJWZE5waDdYZFMwUTJsa0pRZW1zRy1rcXlOS2NFbDl2WlhfZ0hlUmZtX29hcUFSa2s1WXllR2tma3lOSVM3WFZuNGJROVZiNlE2YUVqT3ZTSTd5RXZuelJaOGl0TDhJYVRFbVMwUjFXOHZNZjA2bWI2ZzA4bnFyLThkTjA?oc=5",
-        "source": "Blog Glau na Capital",
-        "publishedAt": "2026-11-13T06:50:39.000Z",
-        "summary": "Dia Mundial da Filosofia em Brasília promove diálogo entre Filosofia e Ciência Blog Glau na Capital",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 3.07,
-        "relevance": 4
-      },
-      {
-        "title": "Confúcio, pensador chinês que viveu há mais de 2.500 anos, relacionou a qualidade de uma sociedade ao comportamento de seus governantes e defendia que dar exemplo poderia ser mais importante do que impor autoridade",
-        "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNMEdZM1RkMmN2NjVkMHR0SFJsSmJESnBzajlKY0pZSWVwN2JUTmtITEJuMmJ1MkZhaVo0ZFVJeFl0UDhfYnBQU095N3g5eV9hdm5iX2ZRWTVvYkJ5UWVNN01CLWg1Vk01WEp5VVdQc1lQMEUyd0h6bkVGekhiMVJ1Z0Y0Z3hCNF82RjlyMzZJNXl3UW9vb1Q0OUctM3BiYWFjMVV4TU9LVG9aUFpLRVRiNVlxbVJUWUtZRWdma19vdWtETU92NkQtWk4tYUhoa3UtUFQ0V2I0ejl1UHdRUFhiUzhNZS1HLW01Q1lCN2FVNDNsVkxHejR1c0d6RW9fb0FzMW9jWWU3UVBMQWlNUnl5UUl4ajJ1c3o2RURmVDlmZHhyaTNuREwzRkd4Z3g1VFZzem5zSFd2cXFSVDRZdnQ0UWN1eUswNVRnbUJoNHRLV3VXTWlxZjRzc2ZGUWp0NUloY3ViOQ?oc=5",
-        "source": "Revista Oeste",
-        "publishedAt": "2026-11-13T03:08:58.000Z",
-        "summary": "Confúcio, pensador chinês que viveu há mais de 2.500 anos, relacionou a qualidade de uma sociedade ao comportamento de seus governantes e defendia que dar exemplo poderia ser mais importante do que impor autoridade Revista Oeste",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.66,
-        "relevance": 4
       }
     ],
     "cinema": [
       {
-        "title": "O que assistir no fim de semana? Veja 7 filmes e séries que acabaram de chegar ao streaming",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNndQR0gtZ1hfMnRjbzBWUGk0blFZb2I4SW5iY3R6M19GdUFfMUo4YlZIU0xXcVVZdWNXRVRJWXA2MS1ERm1ZZHNUMk93ckhPQi01aXNMUVFXdE84UGU3WXE3N0Z0UjZVWHpGXzJhU2pZYkpGZjJTdmhqN3BlUGZIYzBpRzhTN0lnbVBFVWpGZ3ZpaUxHR0FlVzBCamM5MWY1aTZ3cWtTbUZ3VHZBSlRYZ0F2aw?oc=5",
-        "source": "Exame",
-        "publishedAt": "2026-11-13T12:52:24.000Z",
-        "summary": "O que assistir no fim de semana? Veja 7 filmes e séries que acabaram de chegar ao streaming Exame",
+        "title": "Netflix: Suzane e mais 7 filmes novos que acabaram de estrear no streaming",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOUo3N2Qzc01TcXRTcjRVMHZLSHVnYm1qTnVEOHE5bm9ESzRpeTBNOHQ2LTBpb3ZZOWlGeDhJRTlueDlUQWdvMTIyM2ZScklVMkRVNUZRSHlKRm12bmV4WnBsN004eGtnVTh4VEZPQXlGMXNDSnp2N2ZwRHpGUnpWU0xEVlE2NXhHWEx5akw5VFVUeXoweUlkdFF2a3BUX2VHb0FYNlg3aU5VWDN2TWxHTFZuV0tFRmRo?oc=5",
+        "source": "UOL",
+        "publishedAt": "2026-11-13T19:56:00.000Z",
+        "summary": "Netflix: Suzane e mais 7 filmes novos que acabaram de estrear no streaming UOL",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.77,
+        "score": 6.2,
         "relevance": 7
       },
       {
-        "title": "Viveu até aos 84 anos, fez mais de 90 filmes, ganhou um Óscar e foi presidente de uma organização polémica",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZm05TGg2UTlKYlpvVXhlcEl5WGdpaDNTaTNWMF9ISVpEZkhUVmM2V1E2dENPUEJlc1JPelFITHdZVmxRMmNoU082emVxYWZMampLXzRZVG9jVi1CVlFQaXhyelJza0NHeXpVYTczT1U2bXpoWFB2NURqVF9XSC0tOXZfVVg0czIzRU41eWhMX3lhaVlpcHN5QUczd3FoSU5ubk1VM2xxbzQtOWkxU1Q0d0xHT09NbENETTA1TEhDZWxrOXFpM3h4TXZSRS1rSlFvOVRMczRFVElYZw?oc=5",
-        "source": "Magazine.HD",
-        "publishedAt": "2026-11-13T13:00:44.000Z",
-        "summary": "Viveu até aos 84 anos, fez mais de 90 filmes, ganhou um Óscar e foi presidente de uma organização polémica Magazine.HD",
+        "title": "Termômetro de Sexta: Conheça as candidaturas de filmes já feitas pelos estúdios para a corrida do Oscar 2027! - Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVS1QX2hibFptZ0ZOQl9wY3IxTmNQRVdXSnN5QVl6em03T0o4SW5NUk1NTHhrRTduVERCaDBJamloVEJvN0NXS3ZRcUdzblNzSWM4YnFydkdKc05tc3BUT25qWHZDMzE3c1ZFU1lpcWtsZDNwb2dNVkZBT2ZPMHhoN0RkQzB5U0k4N2FzUDR4akdhaENYM2QzYjNNWmFCazRkbGF0T3hHZkwwUU16ODhzTG14YmtkaENOaHFqQmtwM2FvUVNnLS10OHBPcnRKTG9HRXJZazVkLVFhVnAwbXJPRXVqYnpyYzh2NVFTN0lWRTRqbGtvTEM2X2hrMGY1QnM?oc=5",
+        "source": "Candidatos, Indicados e Vencedores",
+        "publishedAt": "2026-11-13T18:56:47.000Z",
+        "summary": "Termômetro de Sexta: Conheça as candidaturas de filmes já feitas pelos estúdios para a corrida do Oscar 2027! Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022 - Candidatos, Indicados e Vencedores",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.84,
+        "score": 5.97,
+        "relevance": 7
+      },
+      {
+        "title": "Primeiro festival de cinema indígena acontece neste final de semana em Aracruz",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTTdZdmtQbktxWWwzT3YyRU00Yzc2cE1qZXhuZDB6c3VSRW1tVnZXdFN0RmNsR2tHMnVBNmlMdG93LWZIV2RGNFoyTHJhNVJET2htbWJpcUdyNV9NUjVaeFkzVHg4WHd3cFdiUFpBbmxvRVpLWmFLUWRDTVRzZW4wSl80TmVDZmZaWmNDQmVvYkI4WjZjNmFidXYyd1BaTVRCeGpVdUtfS0h0YU9SWkppS0RhNVdGNjFhdUoyQzhn?oc=5",
+        "source": "A Gazeta",
+        "publishedAt": "2026-11-13T20:27:00.000Z",
+        "summary": "Primeiro festival de cinema indígena acontece neste final de semana em Aracruz A Gazeta",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.42,
         "relevance": 6
       },
       {
-        "title": "Festival de Cinema aberto à comunidade traz curtas produzidos por alunos da Escola Haydée Rostirolla",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWDhmS2hfR3ZVQ0ZzV3dCWWE0TUUtSHNocU1wQ0hFLUpTSmJpLURYQnpOSm4wRXZHTE1qbUFIQWFoRXVtQmFIWDI3eHd6eHcwd0lfekZWVFJFN29mNGt6SmZGVUN3Tk9tX3pjek5RTXp0STBZSFQtX19kYkxPWnNYZHl2SlQ0LVFUMU1td2hrbmJTMDNWLVF2Xzl3ZGFaRkFTblZORF9FTTZldGNwcERHUU5mc29qcE10YjZkbEMycFktZmdIRDYxd0ZlWXdtcmhVTWJJb21FajFSZ0Z5LThaQWdxbTVDVExJSVZmSkV5OGlmQmh3YXNtSVY5clpLWHoyWTFHb3R6TnQtSHFCT25xaGNlWQ?oc=5",
-        "source": "abc+",
-        "publishedAt": "2026-11-13T12:43:51.000Z",
-        "summary": "Festival de Cinema aberto à comunidade traz curtas produzidos por alunos da Escola Haydée Rostirolla abc+",
+        "title": "Documentário sobre o Massacre de Pau D’Arco estreia no streaming e na COP 31",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZlhhOVdPa2ZuRWMxMllGN3NjcUhhT2lOYTQ2aThYT1drMmdIMWJYYWt4c3M2T2VmMzN2RHdIRndOSnJac3I4S0pmQVhPRDdFQkMyMGc1MnhOY3hVME01eFFlVFNydUlkUmFNaW1qYXgyNjhSenZWT2lhdEJWRWxhdnNIRHFpekdOZk9kNlBUWGpHSmdWR2Q3T0dGWlpIWGZoWWFHLXVfQ0pFRzVxTmZpYVY4U2pMbmRKQ1Nj?oc=5",
+        "source": "Combate Racismo Ambiental",
+        "publishedAt": "2026-11-13T19:36:40.000Z",
+        "summary": "Documentário sobre o Massacre de Pau D’Arco estreia no streaming e na COP 31 Combate Racismo Ambiental",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.77,
+        "score": 5.25,
         "relevance": 6
       },
       {
-        "title": "Festival de Cinema Fantástico terá exibição de curtas e debate na Praça Getúlio Vargas",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObHAzV0M3c2VRdEtCbnpXWEJXNmdtN25RUzlKaFNjTm8xVWR3THBKbHNkeDdzTWJfNU1XeUdiNG5MalRuV2N5NHFQT0I5TzJzWTAxU0NmekoxR2h1OVhhSDRIaTlJNGxVcTVEVW94Z25MZzZqQ1BjT3dDWjdiUDlXSTZXbFBYSXlaTmdrT2plWWQzc3pOZkJvYUtjWkRIZ2V4M2tBTzE2TEtSQUVsQ25n?oc=5",
-        "source": "GAZ",
-        "publishedAt": "2026-11-13T11:15:00.000Z",
-        "summary": "Festival de Cinema Fantástico terá exibição de curtas e debate na Praça Getúlio Vargas GAZ",
+        "title": "Com \"Vicentina Pede Desculpas\", Filmes de Plástico reafirma força de uma nova geração mineira de cinema",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUE9jNTZIMkQ0czBmZksyNVNNZ1FUMDJBd0x3TGxTU3RBWDhYZVI5SklIVVV2VVlJelBJbC1oeHdsM1J2OWhUNnp5YmRtSHY0MDFyQmVrWmxFVGRUbDgyVjliY2RwYmhVNTNhOVk1dHNFVVE0bXVpbzJBa0k1Y0tIN00zTEtxUjNYN2tPZjRGTnZSejROcUo2YThWTGpCQ1ZkaHp3Y3BJTzA4dlZSVE9JWnFXVGhScFdRWnFGdkVXSndTcGxWdEJrUkFtV21pR05BRmc?oc=5",
+        "source": "TELA VIVA News",
+        "publishedAt": "2026-11-13T19:34:09.000Z",
+        "summary": "Com \"Vicentina Pede Desculpas\", Filmes de Plástico reafirma força de uma nova geração mineira de cinema TELA VIVA News",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.45,
+        "score": 5.24,
         "relevance": 6
       },
       {
-        "title": "As 4 melhores séries para ver este fim de semana estão na Netflix e Prime Video em Portugal (6 novembro)",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0NJU1I3djlaTjVIMEgybG00QzV5WDZsMFM4NUF1Z2djLVd5dEVMZGxMMGtyZWRqNTdUZW5PMm5sMm1HQUVoa1liNkp5eWNFSlZJdTN0TGI2S2VRWGo1eDRWTDdyck94UTh0OUh6SVE1ZWhvc0dHWVB4SmE3YW5TSkpmc0RpYld2WktkbzVYUVRfVEpUb2tjQ3pWc05ZN29oZHptQzFxb204ZVB6Vk92cg?oc=5",
-        "source": "Magazine.HD",
-        "publishedAt": "2026-11-13T10:30:34.000Z",
-        "summary": "As 4 melhores séries para ver este fim de semana estão na Netflix e Prime Video em Portugal (6 novembro) Magazine.HD",
+        "title": "Filme cristão A Virada – Ignição da Alma, dos irmãos Kendrick, estreia nos cinemas brasileiros",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQd1BhejNXZDR0Q3J3UXNGMDVoc3N0ZDRHWVRUV3h2X3VHOW1YZHZBUlQ5QzREUGFxa2hSOGhrc250X25KTEM4Tzlhek9Ed0NDem1xUW5aWFZ4YVhTTXFEYWdfdWlETlhkSnEycDEzTGt6a1pjSDBNUTJYN1h6T3hJZUttRWRCN0EtTm1PeVVtRUZkaFBBVm50WXVSZG0xWlljMl93QkpmNExPWkk3TE9pMk9fdlNIa2hfZDBZM2tsY0VaUzc2VU45OHpGdThxcS1mZG96a05GaGp3aTlEQUZidGIzQ0tHdFRTalJPczhvMGt4X2x6VWRSZQ?oc=5",
+        "source": "Goiás 246",
+        "publishedAt": "2026-11-13T19:33:00.000Z",
+        "summary": "Filme cristão A Virada – Ignição da Alma, dos irmãos Kendrick, estreia nos cinemas brasileiros Goiás 246",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.3,
-        "relevance": 6
-      },
-      {
-        "title": "Dia do Cinema Nacional: rede terá ingressos a R$ 10 para filmes brasileiros",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkpkUF9fTmpEaVhzb3didFAtbjRhQjVXc2FxaS1xYU1jWWZQNHVzYjlQeWxFbFBEUlJLa1UxSkhVdXpmWl8xa091M2F5ajVST1JpRWNWNlV0VXowNzM2TDU5aHZEM1FiS3oxbHVRNHV3T0NRWTIzNmpWTGVHaTlCRDZtOE1LTXRObUd6MG4zcDF0M1hHMW5xdlMxQWNoaWdXRC13TmxKeDZfVkpuRGk4N2VKb2FscDQ?oc=5",
-        "source": "Farol da Bahia",
-        "publishedAt": "2026-11-13T10:30:00.000Z",
-        "summary": "Dia do Cinema Nacional: rede terá ingressos a R$ 10 para filmes brasileiros Farol da Bahia",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.3,
+        "score": 5.23,
         "relevance": 6
       }
     ],
     "medicina": [
       {
-        "title": "PUC-Rio tem curso de medicina aprovado pelo MEC e alunos poderão atuar no SUS",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU3hqSm8zYjNLdnRoVlQ4NnVEWVBWRW9wU3lxYUhDNHktU1RJaURsblN6dFEtQkhiczZQWUxVeUVVX2FOUDJYVkZTNEs2R2dWeEhPcld5Z2NLbldLZjJHUzZ6d1VZWDVzRFZjQW4yeFhLdUhnVHFMaXRnWjZyeU9ucU5sUGg3b2ExNGhiTXIwajczSXhpUVJYdGd3bU5QbG9hYUNWZUcxZTU4RGEwZDNQYVlQNklyX0IxUUN0bjBkR2tIWTdsSENHYTZSMDJPMDN2ZTdYUVBRNU42ZTTSAeoBQVVfeXFMTm9DS2k1c2ptbXRRVV9SQ2UxY25LVDJzZzN3bVFNVl9kY1k1dDE3ajQzSF8yYTlJaFRyQkN2cWpGOXlCT0xmNUVDbjdLWTN6TWtRQmlWSl9lZkV3dmgtSEpxMlNnTm96R3NsdzlsM1dMN1pLb250VEVpRzN3Zm1SUi00c0R6c0EtUVptbXNQTDdyNXBlbzQtSkhPWlhER3RLbzY1TXVON0liZkVzNFBjbGdidkZhZ2dVOTVVMjlBTUNkVUo4WEI4dEtfT2VBWDFXSmFsZ0pEUl8yLVp6MVM5MENCampaWVM0ekFR?oc=5",
-        "source": "O GLOBO",
-        "publishedAt": "2026-11-13T13:29:05.000Z",
-        "summary": "PUC-Rio tem curso de medicina aprovado pelo MEC e alunos poderão atuar no SUS O GLOBO",
+        "title": "O médico baiano João Gabriel Rosa Ramos (@joaogabrielramos), presidente da Florence Hospital de Transição (@clinicaflorence) e da Associação de Medicina Intensiva Brasileira – Regional Bahia (@amib_oficial), é um dos editores do livro “Cuidados Pó",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iYVlnbFRlVDQwX2dySUs3TklwTWtOOEtlNUNVbnFuZ0lLWmlNWFpLUHN6d0lOMU5BbnBqTU5MRzUwZ0E4YUNkREl1R05BSjRqSVE?oc=5",
+        "source": "Instagram",
+        "publishedAt": "2026-11-13T18:39:53.000Z",
+        "summary": "O médico baiano João Gabriel Rosa Ramos (@joaogabrielramos), presidente da Florence Hospital de Transição (@clinicaflorence) e da Associação de Medicina Intensiva Brasileira – Regional Bahia (@amib_oficial), é um dos editores do livro “Cuid",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.95,
+        "score": 5.06,
+        "relevance": 6
+      },
+      {
+        "title": "Faculdade promove I Simpósio de Medicina e Saúde Multiprofissional com foco nos desafios da Amazônia",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWEJ6ZVd5OHhEWGxRNXNHblhWaUJ6UlhweTJtRDFDU1lBTDdhNEw4cE1JX3VRaEtJZjZaMjZGN1pGTERPdHpESkJzUjBmOHRGTG5iMTlZaV96VU9pVlBzaXJTajEzZGV4OGVuRVdxSXQ2VnZaaUVoYUxlTnZpTXVMV2RpVWw3aVgzd2l0ejFUOHEwbmxVRWlWTkJpb2xaV2lxZDZpY3I4aklZTkpaVjlYZG5YS0ZncXlUREZJRFFZNTRqNV9uMExkWDRnSFVCTnRaZkFhUS16SnNuYWdwNVE?oc=5",
+        "source": "Portal Guarany Júnior",
+        "publishedAt": "2026-11-13T21:07:01.000Z",
+        "summary": "Faculdade promove I Simpósio de Medicina e Saúde Multiprofissional com foco nos desafios da Amazônia Portal Guarany Júnior",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.63,
         "relevance": 5
       },
       {
-        "title": "Como uma planta brasileira “que faz suar” virou remédio e destaca a importância da sustentabilidade na pesquisa e uso de fitoterápicos",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOYlhIbDRQQ2RzNUxJOHAwZGFtaHI1bmVfeHFCeURmTXVobVNhLUppd2lreTRVYnh2cmstcjBycUZpWC1zdjFaUDhSLU13OTJuc2N6UnJ0WHZqWF9jWUlrTTFXRTRtVjhzWmxGandNMTEzR0s1ZG1uNkNkQlpoZnd0QXBKTmN5UzN2RUJrUjdyRVViVzFnWWZzZUpJTzMyVEM5bURQaTNZX2VBa0xWT3B4X3d1akpWSDBOcVVJLUhPRHF2bXBrSDBVTjFaNUdvV2pzQWw0UHhfTFpKVldXWmlTeEFPNTRLeUQtbVlkQVJwQnh1alhfdy1Qc09MQQ?oc=5",
-        "source": "The Conversation",
-        "publishedAt": "2026-11-13T11:58:32.000Z",
-        "summary": "Como uma planta brasileira “que faz suar” virou remédio e destaca a importância da sustentabilidade na pesquisa e uso de fitoterápicos The Conversation",
+        "title": "A medicina do futuro tem de chegar antes da doença",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPazh1b2hiMl9PVmdxQjdvZW43QUtaZWJRckxQQ2NfSGJvVFhaSVl0UVhIbGgwYksxUjU4SjcxdzlRSVNXZzZBd2pIamR6aUsyUzdJYWxoMVJWM1VBNUFESGhnOXVQODl1SDc0LTl2YV9FM0RwNUlhVVRpeFpiekNPY2NFNDBYQnRrZ3Y5OXVlZlMwVTdUSmNXeUIyQVJxRmlwRWRuMmdxTEdEamx0T1Aw?oc=5",
+        "source": "VEJA",
+        "publishedAt": "2026-11-13T20:43:49.000Z",
+        "summary": "A medicina do futuro tem de chegar antes da doença VEJA",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.67,
+        "score": 4.56,
         "relevance": 5
       },
       {
-        "title": "Práticas tradicionais de medicina indígena serão incorporadas ao SUS",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdHpJb3cyejJmVnFrUmhEX2twZUVtTzl1MU0yNHM5VEZSUHh2dTAxSmttYmQxYUE4bjBDeWdud0IxVzVuam1QdEJ0TmJTbE02V3FqcHEwTWZLUm5aeXc5am8zQUZteEVRTUJuY29rY0xjajc1d25abmpwOGRua19BeWpzVTBjUHI5Q19DXzJub1EtaVc0V1FrbE50ZVNFYTBYWjQ0?oc=5",
-        "source": "Brasil 247",
-        "publishedAt": "2026-11-13T11:52:21.000Z",
-        "summary": "Práticas tradicionais de medicina indígena serão incorporadas ao SUS Brasil 247",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.65,
-        "relevance": 5
-      },
-      {
-        "title": "Brasil tem 5,3 milhões de adultos com diabetes sem diagnóstico",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13TlN2aXNQSE9zWkJmbS11TldXOU03OUN0V2VPdV9kTzdjR0RUUm14NTM3aFRrcnZMcGt0b1QxZ0NKSUpLaTdjSGdLX0FTd1FKZWZFWm1DYw?oc=5",
-        "source": "Medicina S/A",
-        "publishedAt": "2026-11-13T08:05:30.000Z",
-        "summary": "Brasil tem 5,3 milhões de adultos com diabetes sem diagnóstico Medicina S/A",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.35,
-        "relevance": 5.4
-      },
-      {
-        "title": "Câmara aprova ampliação da política para pacientes com diabetes tipo 1",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CQkdpU05IRi1HZzZqUWNtOWF5akI4M01Ca3JfMjU4bTJPc1BFRnN6WDhlNjVxMzBUZll5QS1DenVoZUVsVE9iZXpyZi1zUzgyZUowUzNEalN1QzdYWGFXWU1B?oc=5",
-        "source": "Medicina S/A",
-        "publishedAt": "2026-11-13T08:05:25.000Z",
-        "summary": "Câmara aprova ampliação da política para pacientes com diabetes tipo 1 Medicina S/A",
-        "image": null,
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.35,
-        "relevance": 5.4
-      },
-      {
-        "title": "Quinze crianças são levadas ao hospital após compartilharem agulha de teste de glicemia em escola no MA",
-        "link": "https://g1.globo.com/ma/maranhao/regiao-tocantina/noticia/2026/11/13/quinze-criancas-sao-levadas-ao-hospital-apos-compartilharem-agulha-de-teste-de-glicemia-em-escola-no-ma.ghtml",
+        "title": "Cidade do Rio tem a 1ª morte por Mpox confirmada no país",
+        "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/cidade-do-rio-morte-mpox.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-13T12:50:54.000Z",
-        "summary": "Quinze crianças são levadas ao hospital após compartilharem agulha de teste de glicemia em escola no MA Reprodução/TV Jaguar News Quinze crianças, com idades entre 11 e 14 anos, precisaram de atendimento médico após compartilharem uma agulh",
-        "image": "https://s2-g1.glbimg.com/fOPzqoSzwkpmwxAYlAK4bRtPzRc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/v/wcs4z8RrAbKNTxsjngMQ/vs-baixarfotodoinstagram-007-.jpg",
+        "publishedAt": "2026-11-13T21:33:02.000Z",
+        "summary": "Casos de Mpox aumentam 7 vezes no Rio em dois meses O estado do Rio de Janeiro teve uma morte por Mpox confirmada em meio a alta de casos da doença. De acordo com a Fundação Oswaldo Cruz (Fiocruz), o paciente chegou a ficar internado no Ins",
+        "image": "https://s2-g1.glbimg.com/AgI22cph3-Me63nLF8YON_xWgRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/m/RXiyVFTAO9bD3o0MDpaQ/midia-de-distribuicao-g1-42-.jpg",
         "topics": [
           "medicina"
         ],
-        "score": 4.06,
-        "relevance": 4.2
+        "score": 4.52,
+        "relevance": 4.8
+      },
+      {
+        "title": "PUC-Rio terá curso de Medicina com leitos do SUS para atividades acadêmicas",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQXNwUTZuZVltRjVQSWxNNHZWMVo1Q0VtV2RYTDVBZjBJWEU1d0pZM2xodmpyOXRmWjdhc2hfc0FKZVhzem4yWjhNcmc2RHlPUGNCOTRhTUE3b205NU9aVkFySm5aelJDcFk1Slo3Z3hCNWJUd3FHMHczQkR4SzBjUExPVzdLbktNN3RmUGxZNk1kam9ZTjdnVEdsNzdQVWVxWmc4dE9OMU8wemU3bXQ4N1Q4T3RMNHNEMTQtcmlmUUFORzZQYldHODdKWVM1NWpFX3VJZnVlaW1IVmFqR01rcFIwNy1sMzlidE9iYnRqZ2lUb2dxUXpZZ3lR?oc=5",
+        "source": "UOL Notícias",
+        "publishedAt": "2026-11-13T19:34:00.000Z",
+        "summary": "PUC-Rio terá curso de Medicina com leitos do SUS para atividades acadêmicas UOL Notícias",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.36,
+        "relevance": 5
+      },
+      {
+        "title": "Quem é o médico condenado por divulgar mentiras sobre câncer de mama e mamografia",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdFhLSTdKZ0tnS0puUU9teDlsT1Jmd0hXUW85N3p3eV9wa2t2RmlMZDdvQm42aEVMQ2JtWERheVU3ZzBCcG1SLU80UThVanBvbTRiLWtpdkZGRWZCa01RejdWQUtLeS04YUpVcVFBVW1lNjR2cXV3MXU4S0FTNURrOXNxNkVHMFY1cjFVX0w3dFZ0ZExvVzl2czZQTUNiZC1yNTlBWlozNUoxclZSU0ttNlFlcmpraUNITkEyNtIBwgFBVV95cUxQVEhwMnpvaHlIbEd2LXJLcXRrSjRKOU5ZNHY3eUtWbnRCdnlyQk9qOUdPRmdkRElQRjVYWllyZ0JSX19DaWZRY1lvRHlUejF0V29YUTktSFdaSXJiMHRQb0JoMTdqVXZMc1pjZDc4cktPdHNQd19zLVF0YmVwSkRfem12c1BaMjhpOHNhTTFNdVFxUDUxNlAtMjBta2kyZWFfbV92SmtYTjdNV0ZFOFF0c1V4ZlBuSUQ5ZlhFcjRyaHB6UQ?oc=5",
+        "source": "Estadão",
+        "publishedAt": "2026-11-13T19:29:01.000Z",
+        "summary": "Quem é o médico condenado por divulgar mentiras sobre câncer de mama e mamografia Estadão",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.35,
+        "relevance": 5
       }
     ]
   }
