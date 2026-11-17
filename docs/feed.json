@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T14:26:19.081Z",
+  "generatedAt": "2026-11-17T01:23:07.024Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -30,23 +30,49 @@
   ],
   "highlights": [
     {
-      "title": "Dólar opera em alta e vai a R$ 5,72, com foco em prévia do PIB e fiscal",
+      "title": "Netflix estreia 12 produções entre 18 e 20 de novembro, com séries, filmes, animação e documentários",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFl3NnhOSXVIdWxQTG05c0xmSFoycnRZVlJtdUpFWXcwa1QxaGNremRKMS1GYWFfWUdqMWQzYmxXM1ZaN0VwZG5ONE91SmdIQi1EcmU1aGhDYjQxWnJBdnBFRVIyU0sxVzlDNGxMUGRkMFlyc0cxdkR6SlhpUVZTcnhTeWpheDQ2TXBTRjRaVVpUTC1BS01oNVJGaDhZNTJVdEF6TV9fdEI?oc=5",
+      "source": "A Crítica de Campo Grande",
+      "publishedAt": "2026-11-16T23:10:00.000Z",
+      "summary": "Netflix estreia 12 produções entre 18 e 20 de novembro, com séries, filmes, animação e documentários A Crítica de Campo Grande",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 9.18,
+      "relevance": 10
+    },
+    {
+      "title": "Dólar dispara a R$ 5,77, maior nível desde abril de 2025; Ibovespa cai com dúvidas sobre pacote fiscal",
       "link": "https://g1.globo.com/economia/noticia/2026/11/16/dolar-ibovespa.ghtml",
       "source": "G1 Economia",
       "publishedAt": "2026-11-16T12:38:41.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar operava em alta nesta segunda-feira (16), com um avanço de 1,23% perto das 10h20, cotado a R$ 5,7245. Já o Ibovespa, principal índice da bolsa brasileira, subia 0,66% no mesmo horário",
-      "image": "https://s2-g1.glbimg.com/uwNmoSBOb59X1nQknEt3Zeenv64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/v/5lgfbyQ6yzm69F02kHgQ/2025-02-07t180249z-1-lynxmpel160po-rtroptp-4-dolar-abre.jpg",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em alta de 2,15% nesta segunda-feira (16), cotado a R$ 5,7767. Na máxima do dia, chegou a R$ 5,7949, maior valor desde 17 de abril de 2025, quando encerrou a R$ 5,8042. O Ibove",
+      "image": "https://s2-g1.glbimg.com/w-g2WIGp_Up8JyWsQFyeJjUjq8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/b/ACmnAgQPqLGuDaU2S39Q/261116-grafico-variacao-do-dolar-em-2026.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 11.95,
-      "relevance": 12.8
+      "score": 8.2,
+      "relevance": 13.4
+    },
+    {
+      "title": "Cenário econômico Lula 4: juros altos e dólar impactam mercado interno e exportações",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVV9mMXFxSHZBOXl5NnlOelhCaG05UE9KQkI2MndDWXdtQXAzb0VaMF9BR2hzczB4WUJseGpGaU1RZGNXcFpXRFpmTkw4dzYwdHBZN1plbGpvYk1qNFNzdEhYN0Nnai1Ld25HaGgzZ2dLUE9zaXhRWFpUZURLSkVhV2VWeUZqcEx4aTFvQWltdGNkRmdnMXdpNG1rNmhUWTUza1RrQ1R3Y0JKRXJjS2lZbUJ0OUluckk?oc=5",
+      "source": "Gazeta do Povo",
+      "publishedAt": "2026-11-17T00:49:00.000Z",
+      "summary": "Cenário econômico Lula 4: juros altos e dólar impactam mercado interno e exportações Gazeta do Povo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.83,
+      "relevance": 8
     },
     {
       "title": "Ucrânia faz maior ataque com drones contra Rússia desde início da guerra, diz Moscou",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/16/ucrania-faz-maior-ataque-com-drones-contra-russia-desde-inicio-da-guerra-diz-moscou.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-11-16T13:50:25.000Z",
       "summary": "UE discute segurança do bloco em meio a ataques russos na Ucrânia A Ucrânia realizou o maior ataque com drones contra a Rússia desde o início da guerra, há quase cinco anos, segundo o Ministério da Defesa russo. Moscou afirmou ter intercept",
       "image": "https://s2-g1.glbimg.com/Z8zauJZPaHkahrQoEE5PSqUnPRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/J/Ho5SEwT5GEZAgOpavaqQ/ap26320313350560.jpg",
@@ -54,108 +80,108 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 11.73,
+      "score": 7.69,
       "relevance": 12
     },
     {
-      "title": "Na maior queda desde a pandemia, 'prévia' do PIB do Banco Central registra tombo de 0,9% no 3º trimestre",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/previa-do-pib-do-banco-central-registra-retracao-de-09percent-no-3o-trimestre.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-16T12:01:50.000Z",
-      "summary": "O Banco Central informou nesta segunda-feira (16) que o Índice de Atividade Econômica (IBC-Br), considerado a \"prévia\" do Produto Interno Bruto (PIB), registrou recuou de 0,9% no terceiro trimestre deste ano. O resultado pelo BC foi calcula",
+      "title": "Ela cresceu em uma seita e não tinha permissão para assistir a filmes: Hoje, com 8 indicações ao Oscar, é uma das maiores atrizes de Hollywood!",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVRmRCUW51VW8ySHRvekpMdE80dzNqbXJHRmJfN0xzOFBFVXNKN3lydUgyMWd4eF9PQU5YX0FueFBPZUxnNHBaVzhoMExwSXdNUkdjWmFDazJqUF80VmR4SzFONk9JeFN6cFFudUlOUUTSAXZBVV95cUxPSHRlbl9tTEVvN1JUNDJxQzNWYmNZRFlmUDFMSkdzaWNSSS1TS2NZMHd2QWRrV25DTDNqanl4WExpN3c2dm9BUnBqTnZNWGJtRHU3TE53MXNaenB6TnVJeTNMNlY1NmFQZ0xxTy13dk1LS0xvYlp3?oc=5",
+      "source": "AdoroCinema",
+      "publishedAt": "2026-11-16T23:00:00.000Z",
+      "summary": "Ela cresceu em uma seita e não tinha permissão para assistir a filmes: Hoje, com 8 indicações ao Oscar, é uma das maiores atrizes de Hollywood! AdoroCinema",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 7.66,
+      "relevance": 8.4
+    },
+    {
+      "title": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando'",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYTBPQi1fVXhyZUJ0U0pXcWtnd3RLMk1PbHhjV1k4d3g3V21jbDNRQXVMaXJYb2pnYzMzenpqM0ZsQnl0dV9MVGtjRENhei1qSUJHMTEybkx0c0JKN3RnQ25CNFZkQ19ZRUhBd1A4bGN3R0tlVVdFUlh3ek1nb180b0FSNVZJMVlrX3AzYVZoa3hqY1RDZ3lvNWJtSXFsWUhmcVFUOVRTNVFNYnZNLVZPalphUWtRWWJrVWtFaVJreG02RUdhU09sTlVucHlPSVJubEVBNk9DTjRKWXJlcWdSM0Zqa1lwUENGSDhJMkNPcEpPckhnMHlRd2JVUGFuVXlyTmdSM1hUNU9kdVHSAZoCQVVfeXFMUHdjRTZ3MHNlVl9GdVRhbjA1WDFmVTFGc3ZjdXV2THFxNTB4X0Z4eHFiY1E5Q0NESkIxT0NTUHlSMUtLVm04eGt1MXpMLV9IUHhjU3JSaEM0ZG5nWElxNTVDbUhvNDhIU191Y2pqQnI0dnJ0X2tOVGpPN1VoUHJMdHJfWkJ6dTZ5R3kyNUpXWFlRZHIyRVY0MGZCS1Z5NnBOcmFrQzI2NmxhN01lUmg2V1VtLTBPTVh5bzlMTmdNeUFVSk1nZk8tTVB2S01TNWpsZGVjRDg2U0ZNd3l5c3JNOS0yWWNOME0tc1JzRW9CM0E2eERPWW1SX0kxQ25lN1o5NlpRd3FSUUxoTEZxRXRYblprUm1faUh4VXl3?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-16T21:53:07.000Z",
+      "summary": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando' G1",
+      "image": "https://s2-g1.glbimg.com/tR2k67SDW1H4zpOuRVvIW66Qkf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/Z/LT6BkuTqOQBhBunTqkjg/whatsapp-image-2026-07-16-at-17.49.34.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.52,
+      "relevance": 8.6
+    },
+    {
+      "title": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMHBzSUxzdzk2TXVUYkNmcWpXUW1xQnB0bnBsZzhnUDNZQWVQbmJXVkFSbHFTUkxWODNVLUpleUMtdUhuak5oOXUwM0xTcXpUSkhCRXAxbzhHb1h6U1FnZUlRMGtwZ09PbkxyTDN0LUNEcmFsemQ4bU9OQW9KcGdROWpENk9WSE14SVl5a0FmSDRYQk1JQUNJRXZaZ0o3MnhJMG1sYXo2QlR3VHlEbnJITEw4ajZjT2FWZEhHVnY1VQ?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-11-16T23:06:00.000Z",
+      "summary": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025 Agência Brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 7.51,
+      "relevance": 8.2
+    },
+    {
+      "title": "Mercado prevê economia mais fraca e aposta em juros que travam o crescimento",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42V255bHJyZFZ1VmxRZmFoOGlLdnRqOHMwOERCNUxya0ZNcmlHTkFvZHBVRF9zbm9rd1FpcEROQlJza2VnVXdUckNDUExpeFg2OUQ2X3U0cTNDMml6QklRZ3M3R1FDZzR2RWVfeXVoZkE5Vm1IU1F5dzhB?oc=5",
+      "source": "ICL Notícias",
+      "publishedAt": "2026-11-16T23:38:37.000Z",
+      "summary": "Mercado prevê economia mais fraca e aposta em juros que travam o crescimento ICL Notícias",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 10.94,
-      "relevance": 12
-    },
-    {
-      "title": "Terceiro porta-aviões dos EUA chega ao Oriente Médio em meio a aumento de tensões",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/terceiro-porta-avioes-dos-eua-chega-ao-oriente-medio-em-meio-a-aumento-de-tensoes.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-16T12:07:15.000Z",
-      "summary": "Irã exibe arsenal militar em exposição em Teerã O porta-aviões americano USS Theodore Roosevelt chegou ao Oriente Médio neste domingo (15), segundo informações da imprensa, elevando a três o número de navios do tipo enviados por Washington ",
-      "image": "https://s2-g1.glbimg.com/yW-Sq3YJ8kfJayCdW2HvbS3JWSU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/G/A/S2e1tVSr6HBm8RJYomBA/2026-11-07t081645z-1924332331-rc25ioa57nej-rtrmadp-3-iran-crisis-usa-vessel.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 10.24,
-      "relevance": 11.2
-    },
-    {
-      "title": "Mercado eleva estimativa de inflação para 5% em 2027 e prevê corte menor nos juros",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZkRINm9kZEZoUzQ5d0tTUXRLRWhYRVZtOTlCQm53WmIyQWVsTXZDcUVCS0FTbm94TS1sVGF3Nm9EQ1hUNFR4ZDNwaUNCMktzTy1uSEVEZWhRaU1abHNrWDk4dVJ4Y3VtV2NvNzF4cktER1hfZXlzY1NraTdDSDRKZTkzMVJ2V3NBU1J6bjE3QU5nMTE0UG9xRTctZ2x2dlMtVXdxT05CSHJiWHZsdjFHZ3FTN1QzVjdlSXNYWXJkVnVneHJtWHo0RkZfeTdxa0ZCdlJiYzJCSnpqQTDSAeoBQVVfeXFMUDlTLWxEZllJWXZDNTlrSU5kVlNmT3drclVkcGFWYlFEQjUycnpBdzVheEFBMno5X0xhaWd4ODZMRzFyZjlxX2ZXSlhKTUdnLUtieldrRVNSdngzU3Jac2ZEdjhGSmVOaDFNbF9TMWZyeWFQTXA4cGpsajRKNjJfU3M0d3Y1VWF3WUNJb0oyWkF0WENhT25jSFE2NU8tdHcwcE9HelY3YkhXLUlWdC14ekgwQ3AzTURDRFNxUUFORnJtN2VtLW01bU9CZEs5ZVFIZ1BySGQ5dGU4eU5oa090UDhRM0pERXBBWER3?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-16T11:33:20.000Z",
-      "summary": "Mercado eleva estimativa de inflação para 5% em 2027 e prevê corte menor nos juros G1",
-      "image": "https://s2-g1.glbimg.com/2rIaQ2wiBqrOP0Obgn3HFFYXJug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/b/A8IGA6SdAAIsLKWtdgOg/imagem-destaque-g1-dinheiro.png",
-      "topics": [
-        "negocios"
-      ],
-      "score": 9.31,
-      "relevance": 10.4
-    },
-    {
-      "title": "EUA e Rússia se opõem a negociações sobre limitação de armas autônomas",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/eua-e-russia-se-opoem-a-negociacoes-sobre-a-limitacao-de-armas-autonomas.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-16T10:04:34.000Z",
-      "summary": "ONU alerta para o perigo do uso de armas autônomas, controladas por IA Uma reunião organizada pela ONU começa nesta segunda-feira (16), na Suíça, para debater uma possível limitação ao desenvolvimento e uso de armas autônomas, mas os Estado",
-      "image": "https://s2-g1.glbimg.com/wVMr6K-22DCTeODg_jlnHSYg198=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/d/QMwGSfQmGWijaHndD5Eg/2026-09-22t130946z-751559590-rc2donajfj4b-rtrmadp-3-un-assembly.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 9.13,
-      "relevance": 10.8
-    },
-    {
-      "title": "Musk e nomes de peso da tecnologia defendem volta de Jensen Huang ao comando da Nvidia",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/musk-e-nomes-de-peso-da-tecnologia-defendem-volta-de-ex-ceo-da-nvidia.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-16T13:18:54.000Z",
-      "summary": "O escândalo na Nvidia, com traições e espionagem, parece filme mas é vida real Dias depois de Jensen Huang deixar o comando da Nvidia, empresários, investidores e funcionários da fabricante de chips começaram a se mobilizar para tentar traz",
-      "image": "https://s2-g1.glbimg.com/XvQhvgXeP7p0VozXZlWCFl5R3TQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/B/sLmuAXQ96Bblo9AIEuyQ/2026-03-17t190329z-433040327-rc2i6ka7ojte-rtrmadp-3-nvidia-gtc.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 9,
-      "relevance": 9.4
-    },
-    {
-      "title": "Autoridades nucelares pedem fim de ataques da Rússia à rede elétrica da Ucrânia por risco de acidente atômico",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/autoridades-nucleares-pedem-que-russia-pare-ataques-a-rede-eletrica-da-ucrania-diante-de-risco-de-acidente-atomico.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-16T12:04:04.000Z",
-      "summary": "UE discute segurança do bloco em meio a ataques russos na Ucrânia Autoridades responsáveis pela segurança nuclear de 38 países pediram nesta segunda-feira (16) que a Rússia interrompa os ataques contra a rede elétrica da Ucrânia. Segundo as",
-      "image": "https://s2-g1.glbimg.com/nxu4OwIG_SXIxBfZX-05uSH48aM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/y/G/4EEoQYR6SAywNh7VGEqw/fotojet-2025-03-15t080240.165.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 8.94,
-      "relevance": 9.8
+      "score": 7.48,
+      "relevance": 8
     }
   ],
   "items": [
     {
-      "title": "Dólar opera em alta e vai a R$ 5,72, com foco em prévia do PIB e fiscal",
+      "title": "Netflix estreia 12 produções entre 18 e 20 de novembro, com séries, filmes, animação e documentários",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFl3NnhOSXVIdWxQTG05c0xmSFoycnRZVlJtdUpFWXcwa1QxaGNremRKMS1GYWFfWUdqMWQzYmxXM1ZaN0VwZG5ONE91SmdIQi1EcmU1aGhDYjQxWnJBdnBFRVIyU0sxVzlDNGxMUGRkMFlyc0cxdkR6SlhpUVZTcnhTeWpheDQ2TXBTRjRaVVpUTC1BS01oNVJGaDhZNTJVdEF6TV9fdEI?oc=5",
+      "source": "A Crítica de Campo Grande",
+      "publishedAt": "2026-11-16T23:10:00.000Z",
+      "summary": "Netflix estreia 12 produções entre 18 e 20 de novembro, com séries, filmes, animação e documentários A Crítica de Campo Grande",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 9.18,
+      "relevance": 10
+    },
+    {
+      "title": "Dólar dispara a R$ 5,77, maior nível desde abril de 2025; Ibovespa cai com dúvidas sobre pacote fiscal",
       "link": "https://g1.globo.com/economia/noticia/2026/11/16/dolar-ibovespa.ghtml",
       "source": "G1 Economia",
       "publishedAt": "2026-11-16T12:38:41.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar operava em alta nesta segunda-feira (16), com um avanço de 1,23% perto das 10h20, cotado a R$ 5,7245. Já o Ibovespa, principal índice da bolsa brasileira, subia 0,66% no mesmo horário",
-      "image": "https://s2-g1.glbimg.com/uwNmoSBOb59X1nQknEt3Zeenv64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/v/5lgfbyQ6yzm69F02kHgQ/2025-02-07t180249z-1-lynxmpel160po-rtroptp-4-dolar-abre.jpg",
+      "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em alta de 2,15% nesta segunda-feira (16), cotado a R$ 5,7767. Na máxima do dia, chegou a R$ 5,7949, maior valor desde 17 de abril de 2025, quando encerrou a R$ 5,8042. O Ibove",
+      "image": "https://s2-g1.glbimg.com/w-g2WIGp_Up8JyWsQFyeJjUjq8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/b/ACmnAgQPqLGuDaU2S39Q/261116-grafico-variacao-do-dolar-em-2026.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 11.95,
-      "relevance": 12.8
+      "score": 8.2,
+      "relevance": 13.4
+    },
+    {
+      "title": "Cenário econômico Lula 4: juros altos e dólar impactam mercado interno e exportações",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVV9mMXFxSHZBOXl5NnlOelhCaG05UE9KQkI2MndDWXdtQXAzb0VaMF9BR2hzczB4WUJseGpGaU1RZGNXcFpXRFpmTkw4dzYwdHBZN1plbGpvYk1qNFNzdEhYN0Nnai1Ld25HaGgzZ2dLUE9zaXhRWFpUZURLSkVhV2VWeUZqcEx4aTFvQWltdGNkRmdnMXdpNG1rNmhUWTUza1RrQ1R3Y0JKRXJjS2lZbUJ0OUluckk?oc=5",
+      "source": "Gazeta do Povo",
+      "publishedAt": "2026-11-17T00:49:00.000Z",
+      "summary": "Cenário econômico Lula 4: juros altos e dólar impactam mercado interno e exportações Gazeta do Povo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.83,
+      "relevance": 8
     },
     {
       "title": "Ucrânia faz maior ataque com drones contra Rússia desde início da guerra, diz Moscou",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/16/ucrania-faz-maior-ataque-com-drones-contra-russia-desde-inicio-da-guerra-diz-moscou.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-11-16T13:50:25.000Z",
       "summary": "UE discute segurança do bloco em meio a ataques russos na Ucrânia A Ucrânia realizou o maior ataque com drones contra a Rússia desde o início da guerra, há quase cinco anos, segundo o Ministério da Defesa russo. Moscou afirmou ter intercept",
       "image": "https://s2-g1.glbimg.com/Z8zauJZPaHkahrQoEE5PSqUnPRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/J/Ho5SEwT5GEZAgOpavaqQ/ap26320313350560.jpg",
@@ -163,21 +189,75 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 11.73,
+      "score": 7.69,
       "relevance": 12
     },
     {
-      "title": "Na maior queda desde a pandemia, 'prévia' do PIB do Banco Central registra tombo de 0,9% no 3º trimestre",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/16/previa-do-pib-do-banco-central-registra-retracao-de-09percent-no-3o-trimestre.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-16T12:01:50.000Z",
-      "summary": "O Banco Central informou nesta segunda-feira (16) que o Índice de Atividade Econômica (IBC-Br), considerado a \"prévia\" do Produto Interno Bruto (PIB), registrou recuou de 0,9% no terceiro trimestre deste ano. O resultado pelo BC foi calcula",
+      "title": "Ela cresceu em uma seita e não tinha permissão para assistir a filmes: Hoje, com 8 indicações ao Oscar, é uma das maiores atrizes de Hollywood!",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVRmRCUW51VW8ySHRvekpMdE80dzNqbXJHRmJfN0xzOFBFVXNKN3lydUgyMWd4eF9PQU5YX0FueFBPZUxnNHBaVzhoMExwSXdNUkdjWmFDazJqUF80VmR4SzFONk9JeFN6cFFudUlOUUTSAXZBVV95cUxPSHRlbl9tTEVvN1JUNDJxQzNWYmNZRFlmUDFMSkdzaWNSSS1TS2NZMHd2QWRrV25DTDNqanl4WExpN3c2dm9BUnBqTnZNWGJtRHU3TE53MXNaenB6TnVJeTNMNlY1NmFQZ0xxTy13dk1LS0xvYlp3?oc=5",
+      "source": "AdoroCinema",
+      "publishedAt": "2026-11-16T23:00:00.000Z",
+      "summary": "Ela cresceu em uma seita e não tinha permissão para assistir a filmes: Hoje, com 8 indicações ao Oscar, é uma das maiores atrizes de Hollywood! AdoroCinema",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 7.66,
+      "relevance": 8.4
+    },
+    {
+      "title": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando'",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYTBPQi1fVXhyZUJ0U0pXcWtnd3RLMk1PbHhjV1k4d3g3V21jbDNRQXVMaXJYb2pnYzMzenpqM0ZsQnl0dV9MVGtjRENhei1qSUJHMTEybkx0c0JKN3RnQ25CNFZkQ19ZRUhBd1A4bGN3R0tlVVdFUlh3ek1nb180b0FSNVZJMVlrX3AzYVZoa3hqY1RDZ3lvNWJtSXFsWUhmcVFUOVRTNVFNYnZNLVZPalphUWtRWWJrVWtFaVJreG02RUdhU09sTlVucHlPSVJubEVBNk9DTjRKWXJlcWdSM0Zqa1lwUENGSDhJMkNPcEpPckhnMHlRd2JVUGFuVXlyTmdSM1hUNU9kdVHSAZoCQVVfeXFMUHdjRTZ3MHNlVl9GdVRhbjA1WDFmVTFGc3ZjdXV2THFxNTB4X0Z4eHFiY1E5Q0NESkIxT0NTUHlSMUtLVm04eGt1MXpMLV9IUHhjU3JSaEM0ZG5nWElxNTVDbUhvNDhIU191Y2pqQnI0dnJ0X2tOVGpPN1VoUHJMdHJfWkJ6dTZ5R3kyNUpXWFlRZHIyRVY0MGZCS1Z5NnBOcmFrQzI2NmxhN01lUmg2V1VtLTBPTVh5bzlMTmdNeUFVSk1nZk8tTVB2S01TNWpsZGVjRDg2U0ZNd3l5c3JNOS0yWWNOME0tc1JzRW9CM0E2eERPWW1SX0kxQ25lN1o5NlpRd3FSUUxoTEZxRXRYblprUm1faUh4VXl3?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-16T21:53:07.000Z",
+      "summary": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando' G1",
+      "image": "https://s2-g1.glbimg.com/tR2k67SDW1H4zpOuRVvIW66Qkf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/Z/LT6BkuTqOQBhBunTqkjg/whatsapp-image-2026-07-16-at-17.49.34.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.52,
+      "relevance": 8.6
+    },
+    {
+      "title": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMHBzSUxzdzk2TXVUYkNmcWpXUW1xQnB0bnBsZzhnUDNZQWVQbmJXVkFSbHFTUkxWODNVLUpleUMtdUhuak5oOXUwM0xTcXpUSkhCRXAxbzhHb1h6U1FnZUlRMGtwZ09PbkxyTDN0LUNEcmFsemQ4bU9OQW9KcGdROWpENk9WSE14SVl5a0FmSDRYQk1JQUNJRXZaZ0o3MnhJMG1sYXo2QlR3VHlEbnJITEw4ajZjT2FWZEhHVnY1VQ?oc=5",
+      "source": "Agência Brasil",
+      "publishedAt": "2026-11-16T23:06:00.000Z",
+      "summary": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025 Agência Brasil",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 7.51,
+      "relevance": 8.2
+    },
+    {
+      "title": "Mercado prevê economia mais fraca e aposta em juros que travam o crescimento",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42V255bHJyZFZ1VmxRZmFoOGlLdnRqOHMwOERCNUxya0ZNcmlHTkFvZHBVRF9zbm9rd1FpcEROQlJza2VnVXdUckNDUExpeFg2OUQ2X3U0cTNDMml6QklRZ3M3R1FDZzR2RWVfeXVoZkE5Vm1IU1F5dzhB?oc=5",
+      "source": "ICL Notícias",
+      "publishedAt": "2026-11-16T23:38:37.000Z",
+      "summary": "Mercado prevê economia mais fraca e aposta em juros que travam o crescimento ICL Notícias",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 10.94,
-      "relevance": 12
+      "score": 7.48,
+      "relevance": 8
+    },
+    {
+      "title": "Incertezas sobre a política fiscal aumentam a tensão no mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMnBwS0FqZ2I3RkJXRkRfNVV0ZzFjUGJ1d19TWUJMNWV0dmZfT05ET1J5RGdPNl9YRkRzd2RkcldlZDJ3WWYtT3NuMi1fU0VkSzRlRkV0NUhvZkQzVEFPS2VfU3psV3E2R1JYMG5UVVVpMnBieVJTZC1mRmZSRUkxcmVMamQ4bk9PeTJhQkRwdktoSV9LVTZTM29IdDAwNEJEMEJRZlZmQllibWQyNzBqOWd5ZGdFVFFmQjdVVGVMb3dBMTdCR3VsbGZWY0szcGtPTWfSAeABQVVfeXFMTXd6YUVWTUpkeVI0SzI4WFVPRzBTNFpVY2pXbGtUZXdIX0NjdjltajgwRGt3NUx3X3dyeVhfeklZR2JEZ1pfeTkyOWJWTk5QbGFaWGYyUTF2S0JVRGlPdmFDSFo5NnhadjA4Rl94MHpYVDM5NmozcHFOZVN2NE5zN2duNTlvZmxMVlA1TzlILUhJb2EtOTRfbjhUaWJTTnNzRDJlSVJ0RDk1YXRwX3BmaWZFSVpGbmU3SV9OOE9CV3NJcjY3LTN1UkozZDN6V0VKbWFhdXl4SkNCdU5WdjFuMlU?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-16T23:52:48.000Z",
+      "summary": "Incertezas sobre a política fiscal aumentam a tensão no mercado financeiro G1",
+      "image": "https://s2-g1.glbimg.com/t697D5Kv3CZtYfC0aB54-imILOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/r/bPw71SRY2YHJhXbsKfXg/globo-canal-4-20261116-2000-frame-63259.jpeg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 7.36,
+      "relevance": 7.8
     },
     {
       "title": "Terceiro porta-aviões dos EUA chega ao Oriente Médio em meio a aumento de tensões",
@@ -189,8 +269,86 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 10.24,
+      "score": 6.72,
       "relevance": 11.2
+    },
+    {
+      "title": "Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZlpFN1hsOEZNeUp4Z0hTT3Y0REF5ZlNtRnFoemM3V196d01MLUk0eFNLMm5CNEcwMDlNQkM3eEd6SmVzMm1Xdm5nQjY4WkpJMHR6ZFZCWlpvYndqazNjNFljUGUwcHRnSEtKaEpaZlljMWxQc1R2UDBFOHBiQ2dYZ2xHWE9SVjZ2MDhMQkl6bVZiOHNDaldYR3k4U2dkbDJFYVY0d1JzUWlCUjE4N2xzdHAtSS1OU1d5RER5ZldaVnNkdDJQSVMwSWtlOUtjbmhKQ1E?oc=5",
+      "source": "Seu Dinheiro",
+      "publishedAt": "2026-11-16T23:13:19.000Z",
+      "summary": "Tempestade perfeita na bolsa? Ibovespa perde os 170 mil pontos e dólar sobe para R$ 5,77; veja o que pesou nos mercados hoje Seu Dinheiro",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.44,
+      "relevance": 7
+    },
+    {
+      "title": "'Prévia' do PIB do BC registra tombo de 0,9% no 3º trimestre, maior queda desde a pandemia",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/previa-do-pib-do-banco-central-registra-retracao-de-09percent-no-3o-trimestre.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-16T12:01:50.000Z",
+      "summary": "O Banco Central informou nesta segunda-feira (16) que o Índice de Atividade Econômica (IBC-Br), considerado a \"prévia\" do Produto Interno Bruto (PIB), recuou 0,9% no terceiro trimestre deste ano. O resultado foi calculado pelo BC com ajuste",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.34,
+      "relevance": 10.6
+    },
+    {
+      "title": "Economia da China cresce com alta tecnologia e exportações",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRHcyOWxvbzFLcG9CUXFMeGFGZDRCMURPR1BwU3RETy0tNVRJaUJPQmR5UWlVX2t5OUtYN2cxQlZ5d2VGRmNPZWdKQW1yUWZIcmdyeU1iZWR6TG1XWnRrajRueTRwRzZCUmF5NVBuUk1pbUpYT3BKRE9wd3preVlXbHNDNmNETy1VMGg0?oc=5",
+      "source": "Jornal GGN",
+      "publishedAt": "2026-11-16T22:44:00.000Z",
+      "summary": "Economia da China cresce com alta tecnologia e exportações Jornal GGN",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.32,
+      "relevance": 7
+    },
+    {
+      "title": "Netflix: confira 5 filmes e séries que chegam ao catálogo nesta semana",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDA5c3ZWcnJ5VmZxWVFobldzOGpXM3Q5T3JmYVNQNndPaUkwc2gycWRQUklqSXZ5eEw3YWVWTF9zU0pkLTA4Rmowc2t2Q24yejhPd0RBdTllc05kejhwanQ2Vm5HeVJsZlJ1ZC01djlIT2Q1NmJwYUstQ2NMd2hPV3FjdTg4eFk5c2FMV3E0am9CRUpwRDEzZHFqWjlGNTlseTI5a0VzRDlCelIxVGg1YVNjdkFtWGNzNDZ3TmctbExGdFZJYzJIeUFSOUFmZGZMU1d4U25icGYwRlhuOVdjY0o4OTdwdkpRQWc?oc=5",
+      "source": "GZH",
+      "publishedAt": "2026-11-16T22:37:57.000Z",
+      "summary": "Netflix: confira 5 filmes e séries que chegam ao catálogo nesta semana GZH",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.3,
+      "relevance": 7
+    },
+    {
+      "title": "Apple é investigada no Cade por barrar PIX por aproximação no iPhone; entenda a disputa",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/apple-e-investigada-no-cade-por-barrar-pix-por-aproximacao-no-iphone-entenda-a-disputa.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-16T19:45:44.000Z",
+      "summary": "Polícia mapeou valor do prejuízo após analisar transferências via PIX do suspeito Bruno Peres/Agência Brasil/Arquivo O Conselho Administrativo de Defesa Econômica (Cade) investiga se a Apple impõe barreiras que dificultam a oferta do PIX po",
+      "image": "https://s2-g1.glbimg.com/QepxgC4d4575P51mwUrzs5QtBY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/u/xYEEOsRCe41Sv9Zc7Ybg/pix-.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.28,
+      "relevance": 7.8
+    },
+    {
+      "title": "Netflix recebe 12 filmes e séries na semana! Veja lançamentos (16)",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSjBKY1FEaWV5UnhvQ2RLNnZVM0J0RlpEZk0zNF9qcF9NS0E1dl9hM05PcGJKdUhXbGczREtxeFI2UENidnVJSVVLOXhGc1JoVTBhM1Rjcy0xNFJ0SXZSQ3VSNlo0M2o3elF6Y29HT0piT2drR213WUlsTTJUcks3VXdpcFZ6VEsxdEUwU0poLU5oS25CbzNUY0YzUVl2eHZ0cGcyazRjSTlFY0cy0gGyAUFVX3lxTE5UQnVJekdwYUdzSW1tbm5HaDQtSmx6ZU95YjBwdlJxaDZuVElaRHZGQkg2WnlwdVF5TDFYN1lhc281X05FbzNEVGUxNWxKODZpM1AzNS1kX0ZTaGl3TVRHTkZ6MkF0UkhkNUVqVkcxeVl6dGVfZHZYU3RGNGtFZU9jWXpyaUNCWkgySXVOSkxlcjVfU0dnT0JmWER1ZGwycTJPbUYxdHlDNVV4Y0M5amNxd0E?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-11-16T22:15:00.000Z",
+      "summary": "Netflix recebe 12 filmes e séries na semana! Veja lançamentos (16) Estadão",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.2,
+      "relevance": 7
     },
     {
       "title": "Mercado eleva estimativa de inflação para 5% em 2027 e prevê corte menor nos juros",
@@ -202,11 +360,37 @@
       "topics": [
         "negocios"
       ],
-      "score": 9.31,
+      "score": 6.11,
       "relevance": 10.4
     },
     {
-      "title": "EUA e Rússia se opõem a negociações sobre limitação de armas autônomas",
+      "title": "Califórnia processa OpenAI por ataques cibernéticos realizados por IA contra a Hugging Face e outras empresas",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/opne-ai-ataque-california.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-16T18:47:59.000Z",
+      "summary": "OpenAI. Reprodução/Fantástico A Procuradoria-Geral da Califórnia, nos Estados Unidos, processou a OpenAI nesta segunda-feira (16), acusando a empresa de desenvolver um produto perigoso sem procedimentos de segurança e mecanismos de fiscaliz",
+      "image": "https://s2-g1.glbimg.com/iKPOTFaGvH_z28Y0apt0L_OhcgA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/J/T7sYARRquSwIP78LZNqg/videoframe-1286400.png",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.05,
+      "relevance": 7.8
+    },
+    {
+      "title": "Centros de tecnologia impulsionam novos negócios e diversificação da economia gaúcha",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSlJtRXVmdHVxa1BOT1VRWWlKbjBRcFNidmJ6X2Q0WnEzMWpYLTh6cFQtMVdNdENDb29ZcG91UE9ZbDZKaEJzbFJaelBfMFZiNkNFVWFmVXdaRVJjLVFIWEtBWjg2RExwSll2RE0zZGVvYm5oRlFRTmtvVl85YTBqeUhQX3N0eTlHU3JsaEE2WmxzMzNLblA0YWVtY0lhUXlGQmZjY0pGZUY1VzJpWGxWb1A4RTV6TVhDamR3VENmRWlLUFBCMTZHTzV5MlFVR0RpRUNRY1Y0ZVlUUG56cHQyYWw1VjZYeTF4eTJpdlJmTkFoeHRZTi1Cc3ByVFc?oc=5",
+      "source": "Jornal do Comércio",
+      "publishedAt": "2026-11-16T19:57:01.000Z",
+      "summary": "Centros de tecnologia impulsionam novos negócios e diversificação da economia gaúcha Jornal do Comércio",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6,
+      "relevance": 7.4
+    },
+    {
+      "title": "Armas autônomas: EUA e Rússia se opõem a negociações para limitar uso de 'robôs assassinos'",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/16/eua-e-russia-se-opoem-a-negociacoes-sobre-a-limitacao-de-armas-autonomas.ghtml",
       "source": "G1 Mundo",
       "publishedAt": "2026-11-16T10:04:34.000Z",
@@ -216,21 +400,49 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 9.13,
+      "score": 5.99,
       "relevance": 10.8
     },
     {
-      "title": "Musk e nomes de peso da tecnologia defendem volta de Jensen Huang ao comando da Nvidia",
+      "title": "Musk e nomes de peso da tecnologia defendem volta de Jensen Huang à Nvidia",
       "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/musk-e-nomes-de-peso-da-tecnologia-defendem-volta-de-ex-ceo-da-nvidia.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-16T13:18:54.000Z",
       "summary": "O escândalo na Nvidia, com traições e espionagem, parece filme mas é vida real Dias depois de Jensen Huang deixar o comando da Nvidia, empresários, investidores e funcionários da fabricante de chips começaram a se mobilizar para tentar traz",
       "image": "https://s2-g1.glbimg.com/XvQhvgXeP7p0VozXZlWCFl5R3TQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/B/sLmuAXQ96Bblo9AIEuyQ/2026-03-17t190329z-433040327-rc2i6ka7ojte-rtrmadp-3-nvidia-gtc.jpg",
       "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 5.91,
+      "relevance": 9.4
+    },
+    {
+      "title": "Sob a alegação de risco de a tecnologia ser desviada para a China, EUA restringem acesso do Brasil a chips avançados de IA",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/16/sob-a-alegacao-de-risco-de-a-tecnologia-ser-desviada-para-a-china-eua-restringem-acesso-do-brasil-a-chips-avancados-de-ia.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-17T00:55:43.000Z",
+      "summary": "EUA restringem exportações de chips de inteligência artificial para o Brasil e quatro países da Ásia Os Estados Unidos decidiram restringir as exportações de chips avançados de inteligência artificial para o Brasil e quatro países da Ásia. ",
+      "image": "https://s2-g1.glbimg.com/Qe-8wBH8AgrL3KbIY051NByx3Nc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/J/a/GA4QV2SLA3PbRcKkmyYw/globo-canal-4-20261116-2000-frame-82659.jpeg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 5.9,
+      "relevance": 6
+    },
+    {
+      "title": "PIB do Brasil: mercado reduz previsão de crescimento para 1,72% em 2026 e 1,02% em 2027",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVEYyTFVuNWVUdXpaS1NvNmhlbHNqVTg4S0tZYUl4Q0RLdVdaSHZ3VVJhNTF4NGZ2dXZLUVNmaUZNMjFuT0Iza2p1OFMwZnQ3OWFrXzdBaHRPN0c2WXJ5RWl6enctZ2NsM0l5TG5WMFBaOXNROTZrR3k3ZzJyYi1iYmdRQ04wLUZCSXBfck9lTXZocG02Vmd5S3NILUpIU3pHMndSREcwYW5wVFdSelQ2ZDJxTVdSU2NicGJBd1Q4cUFSUkNiZFhZR1NyR1FtZG9OQzV1QTM1bWNlc2ZXT1dOcDV3?oc=5",
+      "source": "Portal do Agronegócio",
+      "publishedAt": "2026-11-16T21:40:00.000Z",
+      "summary": "PIB do Brasil: mercado reduz previsão de crescimento para 1,72% em 2026 e 1,02% em 2027 Portal do Agronegócio",
+      "image": null,
+      "topics": [
         "negocios"
       ],
-      "score": 9,
-      "relevance": 9.4
+      "score": 5.89,
+      "relevance": 6.8
     },
     {
       "title": "Autoridades nucelares pedem fim de ataques da Rússia à rede elétrica da Ucrânia por risco de acidente atômico",
@@ -242,515 +454,306 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 8.94,
+      "score": 5.87,
       "relevance": 9.8
     },
     {
       "title": "Depois do ajuste fiscal, equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias",
       "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/16/depois-do-ajuste-fiscal-equipe-economica-vai-propor-medidas-para-reduzir-o-crescimento-das-despesas-obrigatorias.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-16T12:57:38.000Z",
       "summary": "Depois de aprovar o atual ajuste fiscal, a equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias no próximo ano. A avaliação é que o governo terá de dar um segundo passo na contenção de despesas para melho",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 8.88,
+      "score": 5.83,
       "relevance": 9.4
     },
     {
-      "title": "Mercados financeiros iniciam com atenção ao Banco Central, pacote fiscal e ata do Federal Reserve",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeG9qWXBJS1N5eU5QUnVMM2pMZGw3Mnl0dEVHbDFwMlZRdmgxVjRTWVQ4VHBwSlg2UEtCMVV6eUNzWnBiUzF5TC1xUUdncGVCM2Nzc3QyNlJ1OGc1MVB0UERMNXhzV0hOSk1sOHZDdGltT21UeXBRdS16MDI3eV9oNVpwM3UxQW90NW1RRldueUFORFdacERLbzdjaG1nMGhDNlU3WGVPOXFpZDdXN0l4bG0zQzk1T0Q3MExkTDRfNUthYlBCRkE?oc=5",
-      "source": "Brasil Inovador",
-      "publishedAt": "2026-11-16T13:40:14.000Z",
-      "summary": "Mercados financeiros iniciam com atenção ao Banco Central, pacote fiscal e ata do Federal Reserve Brasil Inovador",
+      "title": "Terceiro mandato de Lula termina com dívida maior, juros elevados e economia desacelerando",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CbkpGamZ3WXh1enZXZzRFQTBuZ2hfZ2hJM3dGcVFFTWJfY0dILWs1aW4xLWM5RTVRaG9RWkZ2a0JZS0ZjeHpfV19yQTVYQjlvOHUzNy0xS0Npbl9ia3pBUkdBcldRSk1DaHNSWUdWZDFoTG95SFE?oc=5",
+      "source": "Gazeta do Povo",
+      "publishedAt": "2026-11-17T00:30:00.000Z",
+      "summary": "Terceiro mandato de Lula termina com dívida maior, juros elevados e economia desacelerando Gazeta do Povo",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 8.74,
-      "relevance": 9
+      "score": 5.8,
+      "relevance": 6
     },
     {
-      "title": "Ibovespa abre em queda e dólar chega a R$ 5,71; bolsas asiáticas recuam com pressão sobre tecnologia",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWHowVWN4azJZdmc1UjV1bzd6LThoZmpjb2RVSm5kUjlFRmI5aGg1MEEyb3FFTndpTEZtMWhnWktLUEZqemdRTTJGd2Nkc19ELWdHa19rY2xYQUhfLUt3cFV2a1lsS1J0b1ZMTENwQjU1cG9OeDNTWjN3cFBNX1ZtVTRKSHhEcmpSRnZsOFZZX01wZlZpNnZ2VHlDYzdxZFZzYVY4ejJvX2lYS0NlSXNvMmxCLWdxOTkySHQ3Ul96WXd6MGJMaTR2ejJNM0NCMTdVaDRleV9MQmdacG5RYmN3TkNEZ3BVWnZKQ0hkWk10cjFRbVYxNEMzZDVlREJPODZWVWo1eA?oc=5",
-      "source": "Portal do Agronegócio",
-      "publishedAt": "2026-11-16T13:55:00.000Z",
-      "summary": "Ibovespa abre em queda e dólar chega a R$ 5,71; bolsas asiáticas recuam com pressão sobre tecnologia Portal do Agronegócio",
-      "image": null,
+      "title": "Integrantes de partidos devem apresentar alternativas a ajuste fiscal que divide esquerda: 'Se podem negociar com o mercado, podem negociar com a gente', diz Lindbergh",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/16/partidos-alternativas-criticas-ajuste-fiscal.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-16T22:35:04.000Z",
+      "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti Fabio Rodrigues Pozzebom/Agência Brasil Lideranças de PT, PCdoB e PSOL devem apresentar ao governo alternativas ao projeto de ajuste fiscal, que enfrenta resistência de setores da esquer",
+      "image": "https://s2-g1.glbimg.com/2ERMAsCTK-yVfn_gI9pGaeHfswM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/L/cD5cskRzyVagwebmrIDQ/img20260414125747961.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 8.62,
-      "relevance": 8.8
+      "score": 5.75,
+      "relevance": 6.4
     },
     {
-      "title": "Economia brasileira recua 0,9% no terceiro trimestre, mostra índice do Banco Central",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajR2NHY1bjVnTFc2V0RKTXlWS0c0VVYzRUp6RXBoU1Rubk9vRWY5YjhBS3JUNE9uSUxnSjRacWpKOURRaVhLQXRmVmhrSFNlT1B2dUtWbXBjUEtkYk9rU1BkMTVJbVdfUk1uXzdhY3FqcHl2MXJGTUtacG5LeGVZRGh4SnRaY3c3QXl0aE9LbTY0ZDdRS0lDOXh4RHZta3R0UzBqbkYyejFoUDVxMDZicmtFbFd5TzBSVFB5bHc2QTJGaVJrSks1ZGd0VVE2VHlBWGF3RVZLbDhOVlJZS0RXQdIB7wFBVV95cUxPU0pPMjVyMTNsVm9YZlUwM2t6ZnBNejBDNHl2ek50VlE1bDVSZXlBT01YcmRNT0ZxU25ZQzlPMUFBbnF4VmdPYVU1Q3N5T09PXzI3VkRIa29iQjlTcWZTOEg5UFIxZDZHb2k0Vk9uTnhxNFoxa1JTVDN4YXBCS3FzY0tieGp4bzFXTWpPSExXWFpPYTJodjZiaDdoNEFXVm9ZY2otT1laZlZMODgwcUg1N2pya1k5eC1hRHcwb25QeW5seUNlQkFDZ1E0bE1oWV9kSjdDd2NzNEF3S0RtYWlfcjdCUHcwMERlVXFfdXZBbw?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-11-16T12:34:51.000Z",
-      "summary": "Economia brasileira recua 0,9% no terceiro trimestre, mostra índice do Banco Central O GLOBO",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 8.38,
-      "relevance": 9
-    },
-    {
-      "title": "Mercado reduz projeções para inflação e crescimento da economia em 202",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYzU3Tnlpd0NYeTkwUFFfMWI5Vm1KaDhrTWpubWVWWTlMNDktQUJOUFRvYUpQdW1JMVRiZVAtZVVFdWxTeXNTSUlUclFMTGJNWHE2bE9nM2F2LW5WZkZuakR0NzJuQ3JWSC1yWTFPNFRXN2Jld1pYTDJ1NlhBdHUzYVgyenV4V2hwYV9XSVVqQTFsM09LZlhEeTRNcF83UXdpQjN1RGU4NkhjQk1tdHFNeVg2V3RqYWxJMktRQUhTOWpTQVBZMkNn?oc=5",
-      "source": "Agência Brasil",
-      "publishedAt": "2026-11-16T12:12:00.000Z",
-      "summary": "Mercado reduz projeções para inflação e crescimento da economia em 202 Agência Brasil Economistas reduzem previsão da inflação e do PIB neste ano e elevam a da Selic para 2027 Folha de S.Paulo Analistas reduzem para 5,11% expectativa da inf",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 8.07,
-      "relevance": 8.8
-    },
-    {
-      "title": "BOLETIM FOCUS: MERCADO ELEVA PROJEÇÕES PARA INFLAÇÃO E JUROS EM 2027 E ACENDE ALERTA NA ECONOMIA BRASILEIRA SOB LULA",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcU9zSkhzZkJkNktYT0YxRWpja3d1SUttS1BSV3UzWGpYaGtxOWZuS3kwNUpjM1l5eGVFWk1LeGlIUExzSkhpUHU1SVFMYjRiME5EdDFqVjJPdHBTYkNhbWdpRkxoQUhmb0o5UjgxOVk4S0VBRnNpRFUxQjJhOXVFdkhQSUY2YU5oWFdTTV9iYUdPclJSZlZUQWd4aXd0ejJUNlRfb25oc2d1NWxTTmRRS0xGZ0MyS3FJcW1kM1FzTUM0U3FnSWtSSVR4dFRyRnJlY25senFDSUkwWWZMaUEtXzV3RnlHZlE?oc=5",
-      "source": "Diário 360",
-      "publishedAt": "2026-11-16T12:37:00.000Z",
-      "summary": "BOLETIM FOCUS: MERCADO ELEVA PROJEÇÕES PARA INFLAÇÃO E JUROS EM 2027 E ACENDE ALERTA NA ECONOMIA BRASILEIRA SOB LULA Diário 360",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.46,
-      "relevance": 8
-    },
-    {
-      "title": "PIB cresce em 25 estados em 2024, mas perdas no agro derrubam economias de MT e MS",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQX1dTTDctdlRtdS1kaklGTFFwUFV3X3pJUG4wZEFUaEY1dmwzWnRzb0M3MVV0MXBWUF9zT0duMmpkTHFOUTNwNWxaRmx2MWtfZkhnMkZfLV9WdTdtLVg2emJ1X3lDYzdIQ1dUNXlURnhiMi1mc1d0dUhraXhtQjFOeUFjcnd0eFYyVzFDTlFNSzJ5ekp1ZmNrNXNkY0JmTEpkUUtqcnd5a1hIbE1YbWlDV3RwMnBYV2lSRzdYTlhSa0xsOC1ZTHJvNFFOOUl4dmFLd09iS3ZNbXhaQk5UaXc?oc=5",
-      "source": "Portal do Agronegócio",
-      "publishedAt": "2026-11-16T14:00:00.000Z",
-      "summary": "PIB cresce em 25 estados em 2024, mas perdas no agro derrubam economias de MT e MS Portal do Agronegócio",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.28,
-      "relevance": 7.4
-    },
-    {
-      "title": "Mercado reduz previsão de inflação para 2026, mas vê Selic e dólar mais altos em 2027",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRmxWV3NONVhkbDJKUk0yb05mYWo1bVoybGJEejM2LUZpalhSWk05SmEyTjNRYlpyZzhwb2taS29MM0ZjQU9hY3hfanU3YlhnMjlhZ3hVVEpHaWlSZVhSNDdRYlNPcjRrZ1JpdVR0MUVpQzZ1aFQxRjh4NlZhNVJha3U2QnUza1BvMmdJSGVINFpfNWFMSGFRU0J1Q1VuNHF6MjBIejN2OGdLRzVmNW1rb0RZbWtINHo4UTdqNW1CUVlKRDZkSnJVMDQzWGxjQ29tQzhWT0hpaVlEd9IB3wFBVV95cUxNeHRZMEpnVVNBYnZHUVphZDJJRW5oWEhXTUZHWGVseWZSUmtULUlsNFlEcjVOWTRWT2EzQm1uYjVMcUJaRWlsM3BVUVloZlktRWhZTjdwTHN2RTdNQkFueVJzYTFxTlZFaHBtMzB1d3BpU201ZFQ0VVNWUHVXakpESVdVZUlMaUJIdW5ldUhZd3ZyQldNMno0SzRJeUx5MzFMck5GTkFxa2FIaHBjS1BDYVdhQVV1QzJTd1VyN2MwRHpnWGtmRWtfckwyeEVsdWk2aXlxbXktbHF4dkhyY0FR?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-16T11:52:40.000Z",
-      "summary": "Mercado reduz previsão de inflação para 2026, mas vê Selic e dólar mais altos em 2027 Estadão",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.25,
-      "relevance": 8
-    },
-    {
-      "title": "PIX completa seis anos com mais de 1 bilhão de chaves registradas e mirando interligação com outros países",
-      "link": "https://g1.globo.com/economia/pix/noticia/2026/11/16/pix-completa-seis-anos-com-mais-de-1-bilhao-de-chaves-registradas-e-mirando-interligacao-com-outros-paises.ghtml",
+      "title": "Falha técnica afeta serviços de grandes bancos dos Estados Unidos",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/grandes-bancos-dos-eua-relatam-interrupcoes-generalizadas-em-seus-servicos.ghtml",
       "source": "G1 Economia",
-      "publishedAt": "2026-11-16T12:52:56.000Z",
-      "summary": "O PIX, sistema de transferências do Banco Central em tempo real, completou seis anos nesta segunda-feira (16) com mais de um bilhão de chaves registradas. Nascido em 2020, o \"ecossistema\" de pagamentos instantâneos passou por um intenso pro",
-      "image": "https://s2-g1.glbimg.com/Ch6NrUYfNm1nyxmLq1qWy-Y7RR8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/k/jnABGzRRe01BiFBcPjBQ/bc2d6c80-63fb-11f0-89ea-4d6f9851f623.png.webp",
+      "publishedAt": "2026-11-16T20:48:14.000Z",
+      "summary": "Caixa eletrônico mostra mensagem de falha nos EUA LM Otero / AP Photo/LM Otero Milhares de clientes relataram dificuldades para acessar contas bancárias pela internet nesta segunda-feira (16), após um problema técnico em uma instituição fin",
+      "image": "https://s2-g1.glbimg.com/fekD5ZPaagAKNRrqZUoeCrRzqOk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/8/JYBrAUSUyHQC8CHH0HsA/ap26320714643957.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 6.97,
-      "relevance": 7.4
-    },
-    {
-      "title": "Fiep lança Sondagem Industrial com pesquisa inédita sobre uso de inteligência artificial nas empresas",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZE5VVGNqcm0xVGJIdkhxMVJHLVEwYmFLWU5XZTc5U3M4Y1hxcHVZUFlXN2dRMGI2ZE5uZW9Qb2ZMT1JieDRtS296N3lnQXVEdko0VFpRckRBQ0lseWVvcjhxbHpXd0lILVk2OFBMMlJMeWFKUUc4VG1iSlYtVkxvVklMZ1Z0a3NUMkFrVWptR0Z5TTNUdUxMYkl4TnRKWks4dTR1ajMwYzhaUUNHRWNjV3JDaDlnZWNuZnk3V1lub3h2ZS1wbGZwUzBZTFFyOEFVWnMzT0VyWnk?oc=5",
-      "source": "Correio do Litoral",
-      "publishedAt": "2026-11-16T10:48:37.000Z",
-      "summary": "Fiep lança Sondagem Industrial com pesquisa inédita sobre uso de inteligência artificial nas empresas Correio do Litoral",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.96,
-      "relevance": 8
-    },
-    {
-      "title": "Prévia do PIB, 6x1, dólar, Ibovespa, mais agenda e pílulas da economia 16.11",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPTi1hWm9ZamZSN3NmQnRsY1R3UEJ0eW1GNjRDWGpJeDZpeGNPbXZtbGpOMkhUd0dSTUZSWm5qV3NjVFJKWWlzN2hkNWgtTUJ6NzZPNjdmMkYtRlpQLVFLRnZMbVhVUXl2djFXSVFrTzZpVDNQekFFUnVQMm1kQ2dvdEZ6bHo4am1DODhxVFAtdE5Fdm5TeG9TTzhkVEVvSjVEU3FkclV2U1lRVHkwRnZVYU9Tc01pTWV5eGRLOElYMDljNlNxejFyc2lDM0s0b1puVDQ3SnFvWXQ5SVV3dEpHSUV4bjIyWHFxV0oxenI0OEhMelpRN3R3Rk1MbmtnTzE1aXE4QnJn?oc=5",
-      "source": "GZH",
-      "publishedAt": "2026-11-16T10:42:05.000Z",
-      "summary": "Prévia do PIB, 6x1, dólar, Ibovespa, mais agenda e pílulas da economia 16.11 GZH",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.93,
-      "relevance": 8
-    },
-    {
-      "title": "China diz que Xi, Trump e Putin falarão sobre 'paz mundial' em reunião trilateral",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/china-diz-que-xi-trump-e-putin-falarao-sobre-paz-mundial-em-reuniao-trilateral.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-16T09:21:35.000Z",
-      "summary": "Os presidentes da Rússia, Vladimir Putin, da China, Xi Jinping, e dos EUA, Donald Trump Reuters A China anunciou nesta segunda-feira (16) que o presidente Xi Jinping e seus homólogos americano e russo, Donald Trump e Vladimir Putin, falarão",
-      "image": "https://s2-g1.glbimg.com/AGcXLuDdYjMyefULqxSN1TgMvO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/P/UAUJSAQK6Jbdfw7P7PJw/photo-collage.png-4-.png",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 6.91,
-      "relevance": 8.4
-    },
-    {
-      "title": "AutoAju 2026 começa nesta quinta-feira e reúne indústria, tecnologia e negócios do setor automotivo em Aracaju",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOc242WEg2XzN0ZXU3U3hNbzV1d0R4REN4ZE10b1EyZlFhOHhFakxvaEJFT0Fyc0E2X2dzVVRvdGpJRDQ3ZDBoeTVJdXZDbjBIR0x3c2poVE83aHBFbHZHSkt1T2k1TFJwZnIzLUw1dHVST3BEekVadFA2VUhpYzdfZE5wSGotS3NQUVJQd091V08zT0llcUg3a001bmlHT08tVEJXSWdhSVo2a0RuSFVPUWNNWG5POGZHQ2RERXRNbVhFRFEzYVE5b0NzczBoZkx3cEo3d1hDR3pDajdub3BsQg?oc=5",
-      "source": "RO Acontece",
-      "publishedAt": "2026-11-16T13:41:33.000Z",
-      "summary": "AutoAju 2026 começa nesta quinta-feira e reúne indústria, tecnologia e negócios do setor automotivo em Aracaju RO Acontece",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.8,
-      "relevance": 7
-    },
-    {
-      "title": "Economia parada e inflação alta: o agro pode pagar uma conta pesada em 2027",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGdNMnNxaXpxV2tQbXA2MnBHYVhEWnpqQS1jeHJWTGttZWY2bHlZdGxXcFBCeU1IcUdGcWRVN1p3OXRYWGxiM2dndm53ems5NE5VOTNaUGlPWTEtcVRoWnUwbzFjcDZ0RmIyRll2Tk43a291OUtfcnRqOG5FVGJwaVJFWVZzZHYwOEtGdHpyWi1pZktoc1dhbkNTczdWWWVMRGhaOFlR?oc=5",
-      "source": "CompreRural",
-      "publishedAt": "2026-11-16T13:31:47.000Z",
-      "summary": "Economia parada e inflação alta: o agro pode pagar uma conta pesada em 2027 CompreRural",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.76,
-      "relevance": 7
-    },
-    {
-      "title": "ANS amplia cobertura obrigatória para tratamento de câncer de pulmão",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVQzcjdGSkstYV9EUkNycFl5MFh1cWVRVlQxbzgtYUlOYWVXWl95M0Uzdk5DOVEzdUo1WGJzYWJwNGNZb3Q1dnhSRGJfSGp1LUZKOVN0V3dHcEJHRGpwUW9lWDBXQjVWU3JRNWVJU2ZCVmNRQVphelNUSWVBdHR1bUpTWnZmZmZzZEJFUWlsTFVtUmFaV3FRUVRPdUN5a1BFMDJ2LVdpU0JaVmtMbGJsVnM2UlI4TkVjNHkwRWRYVjY?oc=5",
-      "source": "Agência Brasil",
-      "publishedAt": "2026-11-16T12:28:00.000Z",
-      "summary": "ANS amplia cobertura obrigatória para tratamento de câncer de pulmão Agência Brasil",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-      "topics": [
-        "medicina"
-      ],
-      "score": 6.67,
-      "relevance": 7.2
-    },
-    {
-      "title": "Ata do Copom aponta desaceleração da economia, mas diz que inflação segue pressionada",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaFpfaDZfRnRROVFOb1JTOGhfcTd2Q3ROc05fSDhXZDIwWkVLWXZDZjB0Mkl5RU1aOTVnZWJ0M3dOQ0w1ejJiazk0d0tNVlhBVFpaWFdVYVNFYW02U25tRmxoRUVjZU5YempHaXQ3OUV6b3p4enFUX0FZUmRNVFhRcUVzV3kwYmd5RlJySm9fZGpSREpBTUJmOS1TN2RWc3FCUEJPNWtrS24zX1Zoak9MVmFsWnE4bEZ2Z0pmZ2lSb3poTnMxdTBOS25qUmlwRmttQzE4MjNLVU93RXEzWDFEa180OWE2dw?oc=5",
-      "source": "Goiás 246",
-      "publishedAt": "2026-11-16T13:01:00.000Z",
-      "summary": "Ata do Copom aponta desaceleração da economia, mas diz que inflação segue pressionada Goiás 246",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.63,
-      "relevance": 7
-    },
-    {
-      "title": "O que encontro histórico de Trump, Putin e Xi marcado para esta semana pode significar para o mundo?",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/16/o-que-encontro-historico-de-trump-putin-e-xi-marcado-para-esta-semana-pode-significar-para-o-mundo.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-16T03:00:00.000Z",
-      "summary": "Putin e Xi já se reuniram mais de 40 vezes; Trump e Putin, 7 vezes; e Trump e Xi, 3 vezes; mas os três nunca se encontraram juntos. Ira L. Black/Corbis/Mohd Rasfan/Kristina Solovyova/POOL/AFP/Getty Images via BBC Os preparativos para o prim",
-      "image": "https://s2-g1.glbimg.com/Z64rtdIGBBD0PRyYlFBQut9QCso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/O/TVaR0sRVOlK3KcV4TsrQ/fotojet-6-.png",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 6.57,
-      "relevance": 10.2
-    },
-    {
-      "title": "Dólar vai a R$ 5,69 com \"prévia do PIB\" no Brasil; Ibovespa futuro recua",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdlZHNEo0SkR0cjZ2VzZxTF8yRnNOWEUwaGxLRUdWaHk5UTEwcnpzVW12cVNFcFNhUXBqd1JzSTl5elBLWHVUcGNQa0REOUcyemswcG1wS0pjdlJsZ0U2MDV5R2NDR296a29aaUVndVVFUTVJRjhqZ2xxd3lmQzRBM1o0ZjRzOXdVWlV6T0NTVURlemZCTVdmcEFwUkR3VE94Tlg4MXdR?oc=5",
-      "source": "CNN Brasil",
-      "publishedAt": "2026-11-16T12:34:42.000Z",
-      "summary": "Dólar vai a R$ 5,69 com \"prévia do PIB\" no Brasil; Ibovespa futuro recua CNN Brasil",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.52,
-      "relevance": 7
-    },
-    {
-      "title": "Mercado reduz projeção para inflação e PIB no ano e prevê Selic mais alta em 2027",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDlPVjBxZDRib29xSHRrYklXTnZvbzVOYnhLbUxEUWlSbEF6VUVOTzUtdXRRSk5obV9QYlNoYm9iTDR1YXduNUVtLURva1FtWmhwd1R3dGtKNlNfWGppbjZpNlFLZEx2clFZOTFWRVN6b012QnhpUXZyLXh3Y2d1QjBJVjE0aW1Wdk4yY2hSQXU3eENwV1V0YVZoODBIQUxT0gGmAUFVX3lxTFB3bUlkWmlzX3duMEdBRGxxRFZGelhPVDFoWEMxX2NtODEwQkNVYXlSM1VpTGFjOWRJQ3gwalZuTnZUYkY3R2hpVThrZG43dEVzSnZpM2RJdHB2bmlnUmViUDlnNUQ0dUc4OTBaSDREekMxTktmcEtPOXZ4SE42U2hyWE9oaGxXX01xUUtfOWIxRXlSVEJ0NlZYT0d6aVlXNmlRbHdYZmc?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-16T12:31:00.000Z",
-      "summary": "Mercado reduz projeção para inflação e PIB no ano e prevê Selic mais alta em 2027 Estadão",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.5,
-      "relevance": 7
-    },
-    {
-      "title": "Mercado amplia projeção de inflação para 5% em 2027, com PIB menor",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWE03WnZoTS1ScWNkQXliVTA5TUpnYUlwWWNHcE5GUXo3TmhCRmxLMWpIQ21zVHRkbFk3MmJyTUY5ZjM3Tm9ITGY0bGc0a211U1lEeDJfZG9BSGxDWkFXQ0kxWFctSmV6M3huNVdZSFhacld1QUdTTm5QVmdIY1JfbEJFWlg5clFZMnRCSTVTUmh0XzJQNVZzbWlsek1mWmEyTlAzWVhGZno2MlRmWGVmZmxKMENGSDk0RXVEeW1n0gHDAUFVX3lxTE9OdDQxd2dMcWRiTHY2MXVYRE5LTU5WMmpvUTZWVTBBNUd1UkNMX3ItOU5pME90Smpyb3ZwZGplRHp2blZOTy1sc2JrLVFmZUhqRG5KaEhJaXpyNlFCN1lkbDhncVl4TUZvUjVnOXR6S09RUHVFRlc4VnhBZlRkYV81bFhqbEJMNVFFSHFwc25iTUVOczVOV19JMHk3eWhiR0t1UUlZU3ZMQ3MxS3N0LTUxRjJ3Q0k0VkMwNE9jbS1ueEI5dw?oc=5",
-      "source": "Diário do Poder",
-      "publishedAt": "2026-11-16T12:28:00.000Z",
-      "summary": "Mercado amplia projeção de inflação para 5% em 2027, com PIB menor Diário do Poder",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.49,
-      "relevance": 7
-    },
-    {
-      "title": "A Imperatriz: Sisi traiu Franz? O que a série da Netflix inventou e o que a história registra",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEJPa19TdWZLVHdQQUZDa1A4bDhpWmo1MGhicHZGclhvcGtWaDNyQVFxazRwT3RVWmY1Q0VPaGRyajh3M1pOTUtwNkRFRUxVWTFmYnRhS2U4Y2ZQNWZ5S3ZNdU1CazMzSWZ1X2dnSzlHNWlyWkIxc0hoeE1MRmhHSEpmRUN1Q3BCSG5xWWd3Rm_SAZYBQVVfeXFMUFoxWlVrSDZQUURoQ2VVVFBMY09GSmMzems5ZTB5RTJSdGVwMEptanZJdWMwMFk2dGVFUDFCT2hvU3gzdnpUMWNuaGJmR243d1ZNTkVoRlh6WDdyME40eHhOdGdVeTJkNVZiWDBLV081VWFIOV9mdi1OcXJ1X1VHbEdIRlJkSE13bm1DWFNSVFJBQjJaUzlB?oc=5",
-      "source": "Observatório do Cinema",
-      "publishedAt": "2026-11-16T13:00:00.000Z",
-      "summary": "A Imperatriz: Sisi traiu Franz? O que a série da Netflix inventou e o que a história registra Observatório do Cinema",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 6.43,
+      "score": 5.7,
       "relevance": 6.8
     },
     {
-      "title": "Agronegócio impulsiona economia brasileira na corrida pelo 8º lugar mundial, diz FMI",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGxHRHU2SWxMVG9Tc3dHVlN3ekVFZmpxU2tDWDVNTzNDN1VJaEJ3dGhoQ1Azc2hVeGdnNlBLY1lrMVBBRTJLd1VuSjJmbmUyWDFHeUtmTkpieVBxYlJaVGVyX2praWF5TGtmTXhUdGtFYVBHcWJtRDdkcDFPRFZTQnphTWJyaUttbzNsTnhja2ZIeGl4N3RTd1BjckcwREQxSTR2Sl9PREpobnJsOXc?oc=5",
-      "source": "MOMENTO MT",
-      "publishedAt": "2026-11-16T12:02:00.000Z",
-      "summary": "Agronegócio impulsiona economia brasileira na corrida pelo 8º lugar mundial, diz FMI MOMENTO MT",
+      "title": "Empresa goiana revoluciona sistema e desenvolve tecnologias para a área médica",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNUZ5UXhIQVZSVHlMbGRqRHV3blppSExwaU5UNDV5dnI2ZldGaElVaDdfTE11dmJ0TzlPaXhSOGM3UmZNcmpJMXdDOHFoUFphQ2NuNTJGTFJPS09nV0R2Tno4UFBYQ3RkMm0xSWpQTVFlTGVlTGNST2VTdHdEeVN1UVhvMWY0V0l1cWV5VV9zcTNDOUJtM3FvWEpTMGp5MU10ZUkyNzdsSlY?oc=5",
+      "source": "bombabomba.com.br",
+      "publishedAt": "2026-11-16T23:50:00.000Z",
+      "summary": "Empresa goiana revoluciona sistema e desenvolve tecnologias para a área médica bombabomba.com.br",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.38,
-      "relevance": 7
+      "score": 5.65,
+      "relevance": 6
     },
     {
-      "title": "Governo amplia parcerias com empresas chinesas para projetos de inteligência artificial",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUl2SEFPTXJETXV1NHlUNmFzdU1tWDM5cUYzWlMxRFNfZWpCTVE2dUZjdnhkeEViY1VvVXdHazM3dUE0blZLSkw5d1d3UmJheGV6LVFLWXJEanpvYTY2M3RzZWMzRzcxcXNIQk9CMUpoVU5NcF9najhUXzY3OFZPOUhvVDhuaHoxbmpXeHJNMXU5bXE3cUtMQ1RBOGtGdFFRck4yaDBDbFBJZWF1R2F0d09xNThFZnliREVPY1NjNA?oc=5",
-      "source": "Vero Notícias",
-      "publishedAt": "2026-11-16T12:00:00.000Z",
-      "summary": "Governo amplia parcerias com empresas chinesas para projetos de inteligência artificial Vero Notícias",
+      "title": "EUA ampliam restrições à exportação de chips de inteligência artificial e incluem Brasil - Portal IN",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDk0RzZJdWthdDdtdTlfc1cxa2FnV3Vub0U4eURWbVFSVWVlNTF3OHd4el9ldVZGS19kbjdYQUV5T2pqMU1Ealp2OEp5aFp5dUVDLUd4cUZqd1VVTVFJaUw0NkQ2RU5meWNvRzVLNUJKaDFjclFWT0dWVS1MOE40aEtpYVlXRGNWVUhzTmdaRlM1Rlpkc195cUFsay1OSWFvWHZ6ZGFnaGROTjN1aXNZS3RTV3VhOWRxQUpIMG5BcVZtNnVB?oc=5",
+      "source": "Pompeu Vasconcelos",
+      "publishedAt": "2026-11-16T19:42:00.000Z",
+      "summary": "EUA ampliam restrições à exportação de chips de inteligência artificial e incluem Brasil Portal IN - Pompeu Vasconcelos",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.37,
+      "score": 5.62,
       "relevance": 7
     },
     {
-      "title": "Escolhido para representar o Brasil no Oscar 2027, “Feito Pipa” encerra a programação de filmes do 16º Circuito Penedo de Cinema",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPTHhaUkFoeFJtbXQ1Q25vRW80MU9yQ0pkaHRVeXZhTzVFeXBkS1NPT3oyZ1ZHVjNtWTR2ZkQ4NUpqclA3TWdxRFJuX2pGaUlWMW1oWjBWZEt4QzBaalVJZWVZQm43UWFtM3ZNM1Joam85UXBlNzNoZzNhcmliYVRwWEVQTTlXa1lwcVpyRG5JTWw3Z2lOb2JjYmpnMlR0RnRyT2tGZUNTSzduZUVQbWMtZmJLQmlaQUVnTnh5cjJQaEFHak1DcU5zOTg0N01XcWdEb0ExX2ItOEdvYkdZZzI5UGVjQWNuMFYtS3VxczJlYVVLWlE2cmdOSXliZFdmd3MtMUN0ZjBYT2FvNFNKaTB0c0h6UV8wZw?oc=5",
-      "source": "Tribuna do Sertão",
-      "publishedAt": "2026-11-16T11:31:00.000Z",
-      "summary": "Escolhido para representar o Brasil no Oscar 2027, “Feito Pipa” encerra a programação de filmes do 16º Circuito Penedo de Cinema Tribuna do Sertão",
+      "title": "Bets tiraram R$ 40,4 bilhões do orçamento das famílias até julho de 2026, diz Comsefaz",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/bets-orcamento-das-familias-2026.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-16T17:02:30.000Z",
+      "summary": "Pessoa mexendo no celular Reprodução/ RBS TV Desde setembro, o governo Lula proibiu as bets no Brasil. Mas as apostas online consumiram uma parcela significativa do dinheiro das famílias brasileiras nos primeiros sete meses de 2026. A saída",
+      "image": "https://s2-g1.glbimg.com/LjchVnbySaXR7Bcm9xaWIyqfi-A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/E/1nRx4kSH6aFRaDVmGFAg/golpe-idosos-frame-8169.png",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.51,
+      "relevance": 7.6
+    },
+    {
+      "title": "Fed deve reconhecer que IA terá impacto na economia e implicações para política monetária, diz Warsh",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYUV0OEVsSmRNTUd5cDBTLUlYbW1Oa2VzT05xZmtTTHVDcnN5MjRHblNuZDh5WG1sMkhEamljSk1uX2JwZFEyeENST3d6UDFoZTNjbFF2WWEzNHlRbWRObDIxeTFnd2g4Zjk5VWNFNm5zMWtCZUF2QkZnbDdMRUQ3c0FWWWpxbFBjcHdSN1ZGLTVDc3V4VUVNb1dtRHBrOHRwU0ZCUUhkR1FsYU12dkRuNFNmUmJVRFF2U015eER4YnBVbUotTDcyUkYxaUpNMFZtdEpnd2RLRHdMUGVvVzcyQi1MSU81QW81YnA0M1VB0gH8AUFVX3lxTE5XdjdlV09PdW1RMWc5RElXMUluNmZnVGVncFNaQzNJbnhnUG1zSmZpQ2U2Tl96SFRqS0tLMHNIZGk0Vm95TEQwYjNFWF8xWDFDV21zVF9lVkoxTWRjNkd3ZDZ2cTE3cUFrUmpERmZ6MFFoQlQ3U0lTa2xRSllrNUFZRk9xNVNjZjc1Nl9nVjU4M00zcnpwQkp6bGxQTk0tckZ2YUZBYVNzOTdxS0JmVlcxQks1YUhjN1BhOThRZk8zNDNQREZRWS00STc5ZklSM29ZWVR1ZkE3V3c4WlZUUEFPTnJONnRUUlAwcWlrazAxSXJ5YndvUHRuRnhkTw?oc=5",
+      "source": "Valor Econômico",
+      "publishedAt": "2026-11-16T17:25:33.000Z",
+      "summary": "Fed deve reconhecer que IA terá impacto na economia e implicações para política monetária, diz Warsh Valor Econômico",
       "image": null,
       "topics": [
-        "cinema"
+        "negocios"
       ],
-      "score": 6.26,
-      "relevance": 7
+      "score": 5.45,
+      "relevance": 7.4
     },
     {
-      "title": "XXXVI Fórum de Presidentes debate integração e desafios da Amazônia Legal",
-      "link": "https://g1.globo.com/ac/acre/especial-publicitario/fecomercio-ac-transformando-vidas-fortalecendo-empresas-e-construindo-futuros/noticia/2026/11/16/xxxvi-forum-de-presidentes-debate-integracao-e-desafios-da-amazonia-legal.ghtml",
+      "title": "Alemanha se despede da Adidas em último jogo após 77 anos de parceria; Nike assume em 2027",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/16/nike-adidas-alemanha-futebol-parceria.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-16T19:33:20.000Z",
+      "summary": "Nike em Pequim, China REUTERS/Tingshu Wang Após 77 anos e quatro títulos mundiais, Federação Alemã de Futebol (DFB) troca fornecedora compatriota pela Nike como fornecedora de material esportivo. Acordo recorde contrasta com a crise vivida ",
+      "image": "https://s2-g1.glbimg.com/oXmX4dTmGlrG_v6LoWm1HucHFdU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/R/R938t4SiyfKrMEwfZHhw/2026-01-26t210307z-1734384676-rc289jafkc61-rtrmadp-3-nike-layoffs.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.43,
+      "relevance": 6.8
+    },
+    {
+      "title": "Seminários sobre sistemas agroalimentares na Bahia discutem produção, comercialização e economia solidária em novembro de 2026",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQV09aMFFWWFNiR3lKM3hfaEFLMExHaTFPak56RFluRVlBTnBfSGc4anhNNVpDa0ZudDhmSWRPS3h1XzdzNW94ZDNSZ21YMlNSY3g4TkRrZnN6cGl6Y1BkOWFaSGRpUXRmVFdYUnY1SlFFSlZZRWl4S3F2QXNTNDY5ak9WQXhBTXdqekFqRWVhTHp2VFNGN3BwZXFuNm16RHpIX0M1RVlvSWFVb1VUbnVfSzdNS3hicVNIOUZiczBIbXlobTVhQXZMSWpPTk5NdlpabzJGU0xwcVlORHZtXzBWNFdCNHdmUHg4TGdBU2xxV0hZUHQ2eFB1Z1Fqdw?oc=5",
+      "source": "Jornal Grande Bahia",
+      "publishedAt": "2026-11-16T22:45:05.000Z",
+      "summary": "Seminários sobre sistemas agroalimentares na Bahia discutem produção, comercialização e economia solidária em novembro de 2026 Jornal Grande Bahia",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.42,
+      "relevance": 6
+    },
+    {
+      "title": "Açaí amazônico entra na mira de compradores internacionais, com negociações que chegam a 100 toneladas",
+      "link": "https://g1.globo.com/am/amazonas/noticia/2026/11/16/acai-amazonico-entra-na-mira-de-compradores-internacionais-com-negociacoes-que-chegam-a-100-toneladas.ghtml",
       "source": "G1",
-      "publishedAt": "2026-11-16T14:00:01.000Z",
-      "summary": "XXXVI Fórum de Presidentes de Federações do Comércio da Amazônia Legal debate integração regional, turismo e desafios econômicos em Rio Branco. Divulgação O fortalecimento da integração regional, os desafios logísticos da Amazônia Legal e a",
-      "image": "https://s2-g1.glbimg.com/K11wxMznMaNNwnG2_LNOIsKx1gE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/c/wcdu8OSxawGAOoc3jKZQ/whatsapp-image-2026-11-06-at-15.48.37.jpeg",
+      "publishedAt": "2026-11-16T22:29:04.000Z",
+      "summary": "Açaí produzido na Amazônia Divulgação/Fundação Rede Amazônica O açaí produzido na Amazônia desperta o interesse de compradores internacionais e abre novas oportunidades para a cadeia produtiva regional. Negociações envolvendo pedidos de até",
+      "image": "https://s2-g1.glbimg.com/ODCLKae_bINEYQYzvOcI14Xby_I=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/E/m/tdcBCvR66qAToA3dlJPg/img-3276.jpg.jpeg",
       "topics": [
-        "negocios"
+        "negocios",
+        "geopolitica"
       ],
-      "score": 6.1,
-      "relevance": 6.2
-    },
-    {
-      "title": "Economia da China vacila com produção industrial e venda no varejo abaixo do esperado",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNE1MYUh1LXV2a2xaeFdVUmZWQUpoYm9qOGV3S0c4MWJFbndYM3pnLTVrMzVWUGtfa2FDYWRIZm96ckdXeDJtZUNUM0hxZ0RnZlc5eUJfZ21QMXRfQWwyRGdOd0NuNVNwZ2lQMlhEQmFPZUlNdVNaUEFUMHR2dlp0Qmp6WW9WdnRGMGpTeE9yMjFKTlZVMXVfS3BQX0FMdjJkd25CcE1LOVlZNzMtcW5CWjREQUNoaEVqUHdobUVYSnRsd9IBxwFBVV95cUxQdUZLVjhaYS1lY1JKcGJRMnpldHU0TkNIS3ZsOFF5WVRnSmVTNGgxX085LXE3TUtvdFRQdWViSmkwa2RUS2pFYkV2SnprZGJYWHFkeVA1M1ViUzczZnc0WlhyMGEzNjQ5Qm1Ibl9LQ29LRUd2RlBDa1JCZ3ZaQzRTVms3Z2NONFMzU0VQZHhUQ2o0UFliRVBzVy1yajg1RGREbzhuNVBTc3FWQWR5WFA4Z0xjTEtHOVB6TWtNRm1ZQ0xULTQ5c0FR?oc=5",
-      "source": "InfoMoney",
-      "publishedAt": "2026-11-16T10:42:39.000Z",
-      "summary": "Economia da China vacila com produção industrial e venda no varejo abaixo do esperado InfoMoney",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.06,
-      "relevance": 7
-    },
-    {
-      "title": "Nubank acelera aposta em empresas e classe média para ganhar mercado",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdzZmcjdHT0hWc1pYZW9LS3Y4cjRfUHZBTFUzWkljNVM2SWFjeThpUVNlLWg1dUcxRER2T0J1X2dxc3lrSUtRNnZvVFNCY1E5a0dyMFR6d21PLThnUnA1R2h6a0VGOWVjOVVTOXJqNm90alFKTk1Yc1dxVGZKeU1LUHFfMW1OMzhOS0R2TWctOE1Rb000OUp2UVRqU3NWc29GVk9CSjhyZ2RFUzE5dGc?oc=5",
-      "source": "Money Report",
-      "publishedAt": "2026-11-16T14:19:04.000Z",
-      "summary": "Nubank acelera aposta em empresas e classe média para ganhar mercado Money Report",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.97,
+      "score": 5.37,
       "relevance": 6
     },
     {
-      "title": "Projeções pioram e mercado prevê 2027 difícil para a economia brasileira",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVzZjSk9JUkFDTXVTMWVfdXR1OHNLWWtKME1zYWt4V3duQjc2YkpNTTlLdXJZcXNaWnEtZ3NXa1JGNUtxcGRseE1femRJMDJIckNYeUh6allxVVBzN0djbkV2V1l3RlhtX3U1bzUwSm5lREVOT0Npb3cxaXVDWFdaa2ZZMmlUMk9lODNsb3owTlpxdnFGMll6OWZWYzB5SzM1aHlqYUd5MGQtaTB5bm5yTzdxSVVkN0tVdDJlamFB?oc=5",
-      "source": "Folha de Alphaville",
-      "publishedAt": "2026-11-16T14:15:00.000Z",
-      "summary": "Projeções pioram e mercado prevê 2027 difícil para a economia brasileira Folha de Alphaville",
+      "title": "'Não há razão para o mercado ter essas oscilações', diz Alckmin",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXlsaUUwS1FheUZoU3ZmZ1doRVVPck4yZEdocld6NjFCVGFOZS1oUEdnaTdKdUtESV9VeVByVEdRa2ZCNTh2Z29kLXJnd181NFp3U1ZYQUdJYjdCODlUZVF3MGI2S0VSSVd5Q0JhaE4waWloVUMxT0g5WW9MOUxOMjNSVWdFZDhzZTlxd0tPNUNjVjFxVWF1djdaSQ?oc=5",
+      "source": "UOL Economia",
+      "publishedAt": "2026-11-16T23:01:30.000Z",
+      "summary": "'Não há razão para o mercado ter essas oscilações', diz Alckmin UOL Economia",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.96,
-      "relevance": 6
+      "score": 5.3,
+      "relevance": 5.8
     },
     {
-      "title": "A Bola Preta | Filme candidato ao Oscar 2027 ganha novos trailer e data de estreia; assista",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IZm1oRzhCcHBjemgzVWJncXctd1d3VXFtbTNKdVhnb2VBejFLVndXbUNHdGRHdDlHbnVrRmNvWUZNYXVFcTJJZm9neW40ejNycmNtbXJRamN3Q05CZGk1OEUyTVRWWTg3Y245SUJpUnF0ZFgxVFBadVZB?oc=5",
-      "source": "Omelete",
-      "publishedAt": "2026-11-16T14:13:00.000Z",
-      "summary": "A Bola Preta | Filme candidato ao Oscar 2027 ganha novos trailer e data de estreia; assista Omelete",
+      "title": "Confira primeira cena e data de estreia de ‘Bruna Surfistinha 2’ | Filmes e Séries - Por Mattheus Goto",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUROUGlGRkdlMV9FbUgwTTdaUTIzal9ITEdoNVhkcnpkXy1CejRtdHAzd01LM05BWFdKRExlSXVIdEdaQkp6dzlLamRUWjE2RVV5QzRYb2xBS25ySXpCZ0hvY0JPUVFLVkxGaXYzMk1LeTEzbmt5WmR1QTZDdFFKQVZxNjVtTFdBVC1oV2U2N1BUcE9TNjRTYV82SlZRdE9mUTdlcVNKaG5qUE9TMWRoVUd5X3RidngyTnYzOGV3?oc=5",
+      "source": "VEJA SÃO PAULO",
+      "publishedAt": "2026-11-16T18:04:32.000Z",
+      "summary": "Confira primeira cena e data de estreia de ‘Bruna Surfistinha 2’ | Filmes e Séries - Por Mattheus Goto VEJA SÃO PAULO",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 5.95,
+      "score": 5.28,
+      "relevance": 7
+    },
+    {
+      "title": "Esteves, do BTG, diz que mercado mostra urgência do ajuste fiscal e Lula entregará o que se espera",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY2xoLWotbkhqcjY5djFwSU1NWmsxZHBRcVJYRW05ZE9qSmVWMl8wQXRqaS15MWJHV0tTc0szRnI3VUxjV0tYSE4zNUZDdlBLbXJiN2tEdTI4NXJ0VklFenN6RkM1X3FuS29UZGhaZ1VmbEdZZkNYa050ems5TlM1NjdaSjZBX3d2RGFzWVdFYktJdlpFbzZyNktHRjgwNEM1RW02NG11NTNrUVJPNXhtWklEa0tzdS1rbF8zemtYUV85U1VqcGdKejBfSndHUDRMSXBmWEk4UlRVYVhxZVRoOHNR?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-11-16T22:55:00.000Z",
+      "summary": "Esteves, do BTG, diz que mercado mostra urgência do ajuste fiscal e Lula entregará o que se espera Folha de S.Paulo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.27,
+      "relevance": 5.8
+    },
+    {
+      "title": "Gordon: Netflix estreia nova série argentina com astro de La Casa de Papel",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDdDQksxTlU3X2lYZkdXOC1SNkJTaUtPRmFxV2lHRTRGNmVsaVFrVk5YUUg2aWllb0NvLTcyYjNfYkR6MkNOeEhaRDZWamx1U2UwZUdPUUNtY2tWNUYxOURxLXpZSTU0OVBzWklFOEVKZkJFdHBmM2gzUnhNZWJJRDhWamhCRnVISnUteHBZUGpHbERKMG5zS2RicTE?oc=5",
+      "source": "Séries em Cena",
+      "publishedAt": "2026-11-16T21:44:00.000Z",
+      "summary": "Gordon: Netflix estreia nova série argentina com astro de La Casa de Papel Séries em Cena",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.21,
       "relevance": 6
     },
     {
-      "title": "Boletim Focus: mercado reduz projeção de inflação para 2026",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVE0RXRQaUZwVmJMbjk3dWR5aGRQY0w4Um03amlTNDZFN3ZYTUU2MVpTbDZPLVRoVERWck51dGlzTFhNemZ6b1VlbXhJWTdGTmgwbXZsZVVTZF9wRXFraFVHVnpPQ2I1Y09TMjE1NWdCekJkWnNWcl9xc3J3TzB0VERQRXU2VVFuMHp6clZTUzlYV0Q2d0kwaDE3NA?oc=5",
-      "source": "EuQueroInvestir",
-      "publishedAt": "2026-11-16T12:31:10.000Z",
-      "summary": "Boletim Focus: mercado reduz projeção de inflação para 2026 EuQueroInvestir",
+      "title": "IA e tecnologia aplicada à empresa é tema de palestra gratuita na Acisa",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVkRpV0pNOXZfTTE3aU5YdDZrNHdTVnJWY1AxNTlwMzVrSFBZd0NaZjlsSXNFb3NsMzVmdjJlRDIwdXpxRzJRU3lDd1RNTi10czdBeXBqWGF1UHVyanFGaWJFSmhWZmxmNjF2QlgtaF9FSzBpVFhCS1pIaUpJSUlPSEMzaDR3SWFkSmZTUEhqMGN1OEFBejhPV0Frb3BoNTJKMkhueUpjUGdFX0RCMndGRGF3UGN1bzkyWUJLMEw2aw?oc=5",
+      "source": "RD – Repórter Diário",
+      "publishedAt": "2026-11-16T21:33:45.000Z",
+      "summary": "IA e tecnologia aplicada à empresa é tema de palestra gratuita na Acisa RD – Repórter Diário",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.94,
-      "relevance": 6.4
-    },
-    {
-      "title": "Bitcoin despenca, medo extremo toma conta do mercado e investidores temem nova onda de quedas",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVE2cjE4Q0RDeElnangzcDR0UXhGMFhtZG5lSFlTWVpGcENkTHNweTZVOHJWb0MtaW56TG96UDg4Nl91WHFId2pkYWg2X3JVRWZpbWhDaTJocFBtV3hXZzNucjhDX2N5MWswclN4YVgyWm54NGF3cTdoclk1azJxUFhDRFl1WjlBR2E5c2FvZlZSVlIwUkhBRXE4VTRvZU5uNS1nWEx1OXNiTENBNllzc1l2UUlEYTBkNmc?oc=5",
-      "source": "O Petróleo",
-      "publishedAt": "2026-11-16T13:57:28.000Z",
-      "summary": "Bitcoin despenca, medo extremo toma conta do mercado e investidores temem nova onda de quedas O Petróleo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.89,
-      "relevance": 6
-    },
-    {
-      "title": "Focus: mercado eleva projeções de inflação para 5% e de Selic para 12,75% em 2027",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbFR5QVZVc2V5SjJTSEJJT0JmTTQyYnFqdkhHMk85YU8wTGNQQ2UydmhycmlwMTBkSGVKS3RDZm96MHd3M0NOUVV4VlF2SVBzNnU3VDhLRktpeFZjRFVKdWE2OG5DWFFVdFF1M08yUWFhaWdmQlRzalc5MlZLVlo0RTB2NGtzZmhPWUxVN1A5NW1leWtWU1dVeldtVW1QUUFFQVdRWjZ4ZDJ3N2V4MDBrN05BQ2hzTjgxQVpnSFRtbHppV1dyem5TZHFaR0hmNF8tTkVndFRkSE5PX3NPR3lFcWg1R2jSAfMBQVVfeXFMUG9DOGR3MURDaVd4elVMM0J2U09SZHNZRDk1LVNMb0VudjRwQXJJejlQN05fTk1GZ21RRXJ1TDhkY3M0M1hodW8yZk5POFZZcERmN29ZOXBfY2JTOWQ5eXdtdWpyRWdQcEdoTG9VRTh4TXBjeE5XVEFrTGg5RFZJSWpkRm9tLXc4Sno0MHZiczhmMjNPMklvWGdmSlZsZnc4em11NFR5R2p4aVhJVzRQMDF5SUhnSElrTDRTNVZ6WjlFT3RHQWd3LTVETVRFeXJ4TlNRc2RBTTV4MjJGWXBLSlR3ZEdJdDhUMUdXeTBiMngwanBB?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-11-16T13:53:14.000Z",
-      "summary": "Focus: mercado eleva projeções de inflação para 5% e de Selic para 12,75% em 2027 O GLOBO",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.87,
+      "score": 5.18,
       "relevance": 6
     }
   ],
   "byTopic": {
     "historia": [
       {
-        "title": "CCHLA realiza IV Simpósio Nacional História e Memória da Ditadura Militar",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWDRWQjJhSnVneUJuRkZDNUFMRnpTUmpic2JNQ1diWDFDR3I0Mkk4NU9zTXQtYk0wMmptcTdHQ21mNllZY2dHZkRieHlyQ25nLW8xTDlzU2FSSW0yVnQ5a2xYTV9qTXZVTW1OVjBFaG1WbG9pQVBBdS1rTGpoWGxHRTFYWFNKam01Nnd4SHVPYUNneHlCQVFSS056VmEtRGJfSHFLei1IT3FRSlc0TERtQkN4QjA1aUEz?oc=5",
-        "source": "Portal da UFRN",
-        "publishedAt": "2026-11-16T13:23:37.000Z",
-        "summary": "CCHLA realiza IV Simpósio Nacional História e Memória da Ditadura Militar Portal da UFRN",
+        "title": "Casarão de 1925 na Praia de Iracema pode ser tombado como patrimônio histórico de Fortaleza",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMVhLSVlwaGFFVVhIOWNTVFpmQ3RSYVRZWk5aZWNIU0VXdXpWRk5DaV81aUZ4VnRmMk44a2U4Tmt3UVliNmxCZG4zc0gyNFNCMm9ibzlBb0lITE5jeWJUZS13aTZDTG4tMF9iYlJXTEw2c1dqM0dnNWN6bkJGdWlVNDQ0MHFxMDd6S0dLaGNhd1M3a1o2R05KVHFWUG1qNDhUcTVUa1FfQnNxeDZZTm42UF9RY0N3SHBjVU9mOHdKc3R4UnJhbmIxVGRvSFA5UQ?oc=5",
+        "source": "GCMais",
+        "publishedAt": "2026-11-16T21:50:00.000Z",
+        "summary": "Casarão de 1925 na Praia de Iracema pode ser tombado como patrimônio histórico de Fortaleza GCMais",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.8,
+        "score": 4.36,
         "relevance": 5
       },
       {
-        "title": "Sempre-Vivas 2 debate redes de solidariedade de mulheres, territórios, arqueologia e artes",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83SmxpVDgwSzcyOXhVdFFiQnRuNzN4QWRSZkFzRVVRTHV0c3dxVzJWNjRadUx2aGFRSnVjSFByWHVwZzI2ZEpJUXVpUHMzTk5iS0Nqb0hnb1ZGSENSaTZuUGhSRUJCaGR4?oc=5",
-        "source": "Unifesp",
-        "publishedAt": "2026-11-16T12:36:06.000Z",
-        "summary": "Sempre-Vivas 2 debate redes de solidariedade de mulheres, territórios, arqueologia e artes Unifesp",
+        "title": "Patrimônio histórico retomado: Prefeitura de Goiana autoriza projetos para a restauração do Teatro Polytheama",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5ZExHRVo1cXdNaXNrYjljTzBXS3FUOWxpM2JOel9obnJtX0NoR21PbEVLS1BnR3Nnb1ZIN2FrNGxxZ0dXOHdxbUZXSVpZcHBMZFJ0MFNIUzRvaVlHSTladGh3UGU4dzVUa0stMExHRWcxWXYzUVJDY09lVGRVMWc?oc=5",
+        "source": "Taís Paranhos",
+        "publishedAt": "2026-11-16T19:37:00.000Z",
+        "summary": "Patrimônio histórico retomado: Prefeitura de Goiana autoriza projetos para a restauração do Teatro Polytheama Taís Paranhos",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.66,
+        "score": 4,
         "relevance": 5
       },
       {
-        "title": "Soberania genética na arqueologia inspirou criação do primeiro laboratório de DNA antigo do Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNXYxeGhpazFnTTNKYXliNFZPMkp3bnVOa05jNHBqWllFb015azlkWHFIcUlYS24zWU9ucC1XWFl6MFg1SFpHNk5BVmhVZjBZVHZNYUNqZl9XLV9UeW9UU052dG1oN083ODc2UEMzb0ZRS0ZvMDdPTE5ncVpqek5XMlN0VEIzNk9iN2dIZmlGQ3BDV0NuVG5Hb09iZ214YUNVd3U5Qzdyc01uQ3lGOEtrZDJJU2pkckNLeFVjZUczV1ZmSWlzYWl6ajB3?oc=5",
-        "source": "Jornal da USP",
-        "publishedAt": "2026-11-16T11:00:00.000Z",
-        "summary": "Soberania genética na arqueologia inspirou criação do primeiro laboratório de DNA antigo do Brasil Jornal da USP",
+        "title": "Curta \"Árvore das Palavras\" recupera história pouco conhecida da resistência negra durante a ditadura militar",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOXzlocXJPYllsT0gtcjN1d3lnQ0FJVUFwUnpFdWFlM0dGSkNfM0gxa0N3UUptWk5NT1V5UHYxS2RiTElxaEV4Rk5jU3VIZnE1Q09uVmNfenMxcHR1ejZYVFJyWlZKeEFnd2YzSnFwbk1JMEFFenJYUnhUdnZQN3JQQVlyaGozRG0yRkhnMGlncXBfMHhDNXNXaEI3cE9mMUpYYkdDamt0VDJTWi1PUkl5YXBoY3ZvUmJtQU02OWpRemVKTmVzMk1FbVNjbENqcUNuam83V29TdHEtdkk?oc=5",
+        "source": "TELA VIVA News",
+        "publishedAt": "2026-11-16T19:36:12.000Z",
+        "summary": "Curta \"Árvore das Palavras\" recupera história pouco conhecida da resistência negra durante a ditadura militar TELA VIVA News",
         "image": null,
         "topics": [
-          "historia",
-          "medicina"
+          "historia"
         ],
-        "score": 4.38,
+        "score": 4,
         "relevance": 5
       },
       {
-        "title": "Shopee registra maior volume de vendas de sua história no Brasil durante o 11.11",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWkVWenFza1pyUGFDb1ZBNnJPZjZsMEdLSkZvTFlSQXNGY1NHeW1GeWJ4dzJqakZNLUwtZF92TzFIWnFlcFVsOF9WT0FSbkdGWkplblc0TWhjZDB4Z3hpaXo4VmV2bEtpd0pvaW1LM0Y5WDRQY0l4US1OcGk4SUNfMGxlWnhiQ0FvTGlXUGlOMWEtS2FzQ1lhdHZDVmtGSWF6ekRMUHlCd3ZKT2FscUU2ak5TS2ZaVF9I?oc=5",
-        "source": "Giro News",
-        "publishedAt": "2026-11-16T14:21:31.000Z",
-        "summary": "Shopee registra maior volume de vendas de sua história no Brasil durante o 11.11 Giro News",
+        "title": "Arábia Saudita: achado histórico revela como humanos viviam há 125 mil anos",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWm9MYUMxQ256VEZ6ZGw5cjBTcWltSWtSTzg3V2JJTGhQcVl5LWJLaWNMYVp3MHV2Rk0xN3g1R19MOGV0djhfMHhrODdWV0hOYWV5MkRmWlNzMXdyMkNPRF9DRFY3V3I0NjlUYmlqbklsZkR5dUM3dHoyM1pfcENOdFM1VFh1eXg1SWxCOFpJZFpaRTZCWTV0ako2R3d4Q2h6dkZ6a3JOdUdUV25sR1RYM2JtOWJiMV9PQ254R3VfRjZ1cTZaVENURGJVaWktRGFQX01xbm9YMC1Db1hQejR5X9IB5gFBVV95cUxNcl93VEZWaXNaeWd4RXhaVE02MTRNNTdVdlBhalREbnVHWXRQWUU1aGtrSmM4bXBBTktzTW9ZNGVOc0taU21MMlJnREVGM1VjdFcxNVBnLVo0TUgxWVhZejZlai1CWWRFbnpYeGE0a2xKR0VuaUxycGNMdDVXOEJlYzBId0ptUlQxakV1OG5jcDBvNWkwRUJkUmpoV1o0YnozaFNfd2lKdURoaE8wNS1zU2RiVlNqTVpXb2l6Umg1YUw5NEF6RXl3THFJVENzNm1xTFlKWVpLMHcteUdEQVVZWjRQTnBCZw?oc=5",
+        "source": "Correio Braziliense",
+        "publishedAt": "2026-11-16T19:16:00.000Z",
+        "summary": "Arábia Saudita: achado histórico revela como humanos viviam há 125 mil anos Correio Braziliense",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.99,
+        "score": 3.95,
+        "relevance": 5
+      },
+      {
+        "title": "Time feminino do Inter faz história e conquista a Copa do Brasil em cima do Flamengo",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmY2YnlDRkFBeThpUElMNW5JTGpjTjdqV0hNUGFiWVZab2hDT0pKSFEtMVgtdmZ1blZCR0lUcmV3VWF1MjctWExKYjVYckVfWFVaQXhHOWhvalZOZ2RCWG9OTTJJNC1tZUJvcVlCUWFkRjJKN2RQVTM5NEVOQzJfWE41ZHBrRDBUUXZ6QmlWdGF1Q28tdWRxclduSDY4cnJNLXotQUlkTlU5dzhpNEVvekw3Y2llQQ?oc=5",
+        "source": "Jornal do Garcia",
+        "publishedAt": "2026-11-17T00:57:54.000Z",
+        "summary": "Time feminino do Inter faz história e conquista a Copa do Brasil em cima do Flamengo Jornal do Garcia",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.94,
         "relevance": 4
       },
       {
-        "title": "Docente da UFG lança livro sobre memória, ancestralidade e história do antigo Arraial da Barra, em Goiás",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObTRTMnVHUjl3YmZZY3NXdXUtWjhlUUQ0OHMyYmozYmdURVFqSEU3d2dmT25ZNUw3MVEwT29LSzljTlV5U25Fakt1VUtzM19jU2p0QktBUFB4aFhQVzdhUC1iZW0yS1dMQlFlbzRFbmgxNDVYT2VIcUY3YjRDRE9lY0M1dWJEVk9qNmJVOThWSDljclZVVVJISlB3anB1YmxIMmxRNUxLZGxLdFoyUEtnalZLZG1sWXpEa1c3UG15M3NuT0JFMVczaUloV0Q?oc=5",
-        "source": "Câmpus Goiás",
-        "publishedAt": "2026-11-16T14:10:00.000Z",
-        "summary": "Docente da UFG lança livro sobre memória, ancestralidade e história do antigo Arraial da Barra, em Goiás Câmpus Goiás",
+        "title": "Avançam as obras de restauro da Casa do Imigrante, patrimônio histórico de São Leopoldo",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaDhHdkVLMVBmeDN5cmRrMnFVMlBLVEFGMEFvWVBrc2RmeEEyc3dNLXhHZ3N4YlhRTHk3TkZvNm1EaE5SYnJUcWhfdGF1amI3RTBHNlhITlM2QXNWMnFGNFZaV0gzSjRWOV9JSzE2WHczdXAwRkZzNzVTZlNMem1hMEZCRk84SjBMTVZidEZET09EWi1FQko0UVJFdjJtOGdKYU9QY1dHS3d4OHNoNGFkR3RZWWc4MU5oTV9WcFQzU0tSOVZxdmFVRXRreUdNTWtzcGt3LVlQc3E5cEtzZ1FVMEVrT1l0QUtLa3FYaWs3cWRRNVpsUzYzWGZURHk1QQ?oc=5",
+        "source": "Prefeitura de São Leopoldo/RS",
+        "publishedAt": "2026-11-16T18:45:44.000Z",
+        "summary": "Avançam as obras de restauro da Casa do Imigrante, patrimônio histórico de São Leopoldo Prefeitura de São Leopoldo/RS",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.96,
-        "relevance": 4
-      },
-      {
-        "title": "Enfermagem negra: uma história de resistência que precisa ser reconhecida",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVBGZ19iaTZhQl80Uk1BTFFaYU5aVVYzQ0pvQ3FTRVlrLXItel81N3RNeWFpcEY2alVBODhsRHhuekhqNHVBUXhNZGNET2Z0TjdBWk5IY0ltMVFjb2RhVmVnNUZYOW5UZDVxMDZEVEVHeEF6QUI0QmZWTXZzUmtUVUlMTnF1bjNkeWFVMFRNNUhTQUNkR3JWQUI2T0R3VFViZDdnR0xDZUowSEN3QV82SA?oc=5",
-        "source": "Bahia sem Fronteiras",
-        "publishedAt": "2026-11-16T13:58:00.000Z",
-        "summary": "Enfermagem negra: uma história de resistência que precisa ser reconhecida Bahia sem Fronteiras",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.93,
-        "relevance": 4
+        "score": 3.87,
+        "relevance": 5
       }
     ],
     "geopolitica": [
       {
         "title": "Ucrânia faz maior ataque com drones contra Rússia desde início da guerra, diz Moscou",
         "link": "https://g1.globo.com/mundo/noticia/2026/11/16/ucrania-faz-maior-ataque-com-drones-contra-russia-desde-inicio-da-guerra-diz-moscou.ghtml",
-        "source": "G1",
+        "source": "G1 Mundo",
         "publishedAt": "2026-11-16T13:50:25.000Z",
         "summary": "UE discute segurança do bloco em meio a ataques russos na Ucrânia A Ucrânia realizou o maior ataque com drones contra a Rússia desde o início da guerra, há quase cinco anos, segundo o Ministério da Defesa russo. Moscou afirmou ter intercept",
         "image": "https://s2-g1.glbimg.com/Z8zauJZPaHkahrQoEE5PSqUnPRU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/n/J/Ho5SEwT5GEZAgOpavaqQ/ap26320313350560.jpg",
@@ -758,7 +761,7 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 11.73,
+        "score": 7.69,
         "relevance": 12
       },
       {
@@ -771,11 +774,11 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 10.24,
+        "score": 6.72,
         "relevance": 11.2
       },
       {
-        "title": "EUA e Rússia se opõem a negociações sobre limitação de armas autônomas",
+        "title": "Armas autônomas: EUA e Rússia se opõem a negociações para limitar uso de 'robôs assassinos'",
         "link": "https://g1.globo.com/mundo/noticia/2026/11/16/eua-e-russia-se-opoem-a-negociacoes-sobre-a-limitacao-de-armas-autonomas.ghtml",
         "source": "G1 Mundo",
         "publishedAt": "2026-11-16T10:04:34.000Z",
@@ -785,7 +788,7 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 9.13,
+        "score": 5.99,
         "relevance": 10.8
       },
       {
@@ -798,357 +801,356 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 8.94,
+        "score": 5.87,
         "relevance": 9.8
       },
       {
-        "title": "China diz que Xi, Trump e Putin falarão sobre 'paz mundial' em reunião trilateral",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/16/china-diz-que-xi-trump-e-putin-falarao-sobre-paz-mundial-em-reuniao-trilateral.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-16T09:21:35.000Z",
-        "summary": "Os presidentes da Rússia, Vladimir Putin, da China, Xi Jinping, e dos EUA, Donald Trump Reuters A China anunciou nesta segunda-feira (16) que o presidente Xi Jinping e seus homólogos americano e russo, Donald Trump e Vladimir Putin, falarão",
-        "image": "https://s2-g1.glbimg.com/AGcXLuDdYjMyefULqxSN1TgMvO4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/P/UAUJSAQK6Jbdfw7P7PJw/photo-collage.png-4-.png",
+        "title": "Brasil na COP 31: Defesa da ciência é muito importante no momento atual, pontua líder em Política Internacional do Observatório do Clima, Stela Herschmann",
+        "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQRWliLVNqbVlqVzBramdRWXhtZ2hYOEtJYWtja2FnTUt2d2xnY1l6SHh3MzNRcldBUUJPakFyVzFwOURHN0FCNlUwTEh2UW5VclQ0NkFBcmNxaV9ZdHl2RGx1XzhrM2tXX2JsTmY2TUpNNldiRjZSWXVPT1N4dGVxdGFERWV0anItTnpEWGF6Vzh4NFRpVV83WEZpenhkeXk1ODlKQ2Jxd1VPeHB6eUdzdWpzVG1HSlZKY3o3M3I1T0V6VnUzcjZqVTJQaHZQd2JFWXJsVkw1aWoyeU5ndGlHX0E3VHpGU2ZSbGJyWjFDMkozX1VYbmFBc3ZldUpxOG5zQmt2WU1rbUFnU3hYQi1EYzc1NTY4NWFmZVV6bFpZcVFvMm13ZkdZSW1BQjllSGxDZkpkaHdZZTJnaXNJaUU5SExqclZDeG9KeEVpcFJzVU5Hc3RWb0E?oc=5",
+        "source": "UFMG",
+        "publishedAt": "2026-11-16T19:59:00.000Z",
+        "summary": "Brasil na COP 31: Defesa da ciência é muito importante no momento atual, pontua líder em Política Internacional do Observatório do Clima, Stela Herschmann UFMG",
+        "image": null,
         "topics": [
           "geopolitica"
         ],
-        "score": 6.91,
-        "relevance": 8.4
+        "score": 4.87,
+        "relevance": 6
       },
       {
-        "title": "O que encontro histórico de Trump, Putin e Xi marcado para esta semana pode significar para o mundo?",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/16/o-que-encontro-historico-de-trump-putin-e-xi-marcado-para-esta-semana-pode-significar-para-o-mundo.ghtml",
-        "source": "G1 Economia",
-        "publishedAt": "2026-11-16T03:00:00.000Z",
-        "summary": "Putin e Xi já se reuniram mais de 40 vezes; Trump e Putin, 7 vezes; e Trump e Xi, 3 vezes; mas os três nunca se encontraram juntos. Ira L. Black/Corbis/Mohd Rasfan/Kristina Solovyova/POOL/AFP/Getty Images via BBC Os preparativos para o prim",
-        "image": "https://s2-g1.glbimg.com/Z64rtdIGBBD0PRyYlFBQut9QCso=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/O/TVaR0sRVOlK3KcV4TsrQ/fotojet-6-.png",
+        "title": "El Salvador diz que vai retirar tropas do Haiti quando militares desaparecidos forem resgatados",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/16/el-salvador-tropas-haiti-militares-desaparecidos.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-16T23:34:07.000Z",
+        "summary": "Militar salvadorenho monitora bairro de Tabarre, em Porto Príncipe, no Haiti, em 30 de outubro de 2026. Odelyn Joseph/ AP El Salvador garantiu nesta segunda-feira (16) que retirará suas tropas do Haiti assim que cumprirem a missão de resgat",
+        "image": "https://s2-g1.glbimg.com/6tf3ss_Ne8Iy-TVOum6u47V_y6s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/b/rUYttZRMuDSiuvkzZFBQ/ap26303760183098.jpg",
         "topics": [
-          "geopolitica",
-          "negocios"
+          "geopolitica"
         ],
-        "score": 6.57,
-        "relevance": 10.2
+        "score": 4.85,
+        "relevance": 5.2
       }
     ],
     "negocios": [
       {
-        "title": "Dólar opera em alta e vai a R$ 5,72, com foco em prévia do PIB e fiscal",
+        "title": "Dólar dispara a R$ 5,77, maior nível desde abril de 2025; Ibovespa cai com dúvidas sobre pacote fiscal",
         "link": "https://g1.globo.com/economia/noticia/2026/11/16/dolar-ibovespa.ghtml",
         "source": "G1 Economia",
         "publishedAt": "2026-11-16T12:38:41.000Z",
-        "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar operava em alta nesta segunda-feira (16), com um avanço de 1,23% perto das 10h20, cotado a R$ 5,7245. Já o Ibovespa, principal índice da bolsa brasileira, subia 0,66% no mesmo horário",
-        "image": "https://s2-g1.glbimg.com/uwNmoSBOb59X1nQknEt3Zeenv64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/v/5lgfbyQ6yzm69F02kHgQ/2025-02-07t180249z-1-lynxmpel160po-rtroptp-4-dolar-abre.jpg",
+        "summary": "Entenda o que faz o preço do dólar subir ou cair O dólar fechou em alta de 2,15% nesta segunda-feira (16), cotado a R$ 5,7767. Na máxima do dia, chegou a R$ 5,7949, maior valor desde 17 de abril de 2025, quando encerrou a R$ 5,8042. O Ibove",
+        "image": "https://s2-g1.glbimg.com/w-g2WIGp_Up8JyWsQFyeJjUjq8Y=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/b/ACmnAgQPqLGuDaU2S39Q/261116-grafico-variacao-do-dolar-em-2026.jpg",
         "topics": [
           "negocios",
           "geopolitica"
         ],
-        "score": 11.95,
-        "relevance": 12.8
+        "score": 8.2,
+        "relevance": 13.4
       },
       {
-        "title": "Na maior queda desde a pandemia, 'prévia' do PIB do Banco Central registra tombo de 0,9% no 3º trimestre",
-        "link": "https://g1.globo.com/economia/noticia/2026/11/16/previa-do-pib-do-banco-central-registra-retracao-de-09percent-no-3o-trimestre.ghtml",
-        "source": "G1 Economia",
-        "publishedAt": "2026-11-16T12:01:50.000Z",
-        "summary": "O Banco Central informou nesta segunda-feira (16) que o Índice de Atividade Econômica (IBC-Br), considerado a \"prévia\" do Produto Interno Bruto (PIB), registrou recuou de 0,9% no terceiro trimestre deste ano. O resultado pelo BC foi calcula",
+        "title": "Cenário econômico Lula 4: juros altos e dólar impactam mercado interno e exportações",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVV9mMXFxSHZBOXl5NnlOelhCaG05UE9KQkI2MndDWXdtQXAzb0VaMF9BR2hzczB4WUJseGpGaU1RZGNXcFpXRFpmTkw4dzYwdHBZN1plbGpvYk1qNFNzdEhYN0Nnai1Ld25HaGgzZ2dLUE9zaXhRWFpUZURLSkVhV2VWeUZqcEx4aTFvQWltdGNkRmdnMXdpNG1rNmhUWTUza1RrQ1R3Y0JKRXJjS2lZbUJ0OUluckk?oc=5",
+        "source": "Gazeta do Povo",
+        "publishedAt": "2026-11-17T00:49:00.000Z",
+        "summary": "Cenário econômico Lula 4: juros altos e dólar impactam mercado interno e exportações Gazeta do Povo",
         "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 10.94,
-        "relevance": 12
+        "score": 7.83,
+        "relevance": 8
       },
       {
-        "title": "Mercado eleva estimativa de inflação para 5% em 2027 e prevê corte menor nos juros",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZkRINm9kZEZoUzQ5d0tTUXRLRWhYRVZtOTlCQm53WmIyQWVsTXZDcUVCS0FTbm94TS1sVGF3Nm9EQ1hUNFR4ZDNwaUNCMktzTy1uSEVEZWhRaU1abHNrWDk4dVJ4Y3VtV2NvNzF4cktER1hfZXlzY1NraTdDSDRKZTkzMVJ2V3NBU1J6bjE3QU5nMTE0UG9xRTctZ2x2dlMtVXdxT05CSHJiWHZsdjFHZ3FTN1QzVjdlSXNYWXJkVnVneHJtWHo0RkZfeTdxa0ZCdlJiYzJCSnpqQTDSAeoBQVVfeXFMUDlTLWxEZllJWXZDNTlrSU5kVlNmT3drclVkcGFWYlFEQjUycnpBdzVheEFBMno5X0xhaWd4ODZMRzFyZjlxX2ZXSlhKTUdnLUtieldrRVNSdngzU3Jac2ZEdjhGSmVOaDFNbF9TMWZyeWFQTXA4cGpsajRKNjJfU3M0d3Y1VWF3WUNJb0oyWkF0WENhT25jSFE2NU8tdHcwcE9HelY3YkhXLUlWdC14ekgwQ3AzTURDRFNxUUFORnJtN2VtLW01bU9CZEs5ZVFIZ1BySGQ5dGU4eU5oa090UDhRM0pERXBBWER3?oc=5",
+        "title": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando'",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYTBPQi1fVXhyZUJ0U0pXcWtnd3RLMk1PbHhjV1k4d3g3V21jbDNRQXVMaXJYb2pnYzMzenpqM0ZsQnl0dV9MVGtjRENhei1qSUJHMTEybkx0c0JKN3RnQ25CNFZkQ19ZRUhBd1A4bGN3R0tlVVdFUlh3ek1nb180b0FSNVZJMVlrX3AzYVZoa3hqY1RDZ3lvNWJtSXFsWUhmcVFUOVRTNVFNYnZNLVZPalphUWtRWWJrVWtFaVJreG02RUdhU09sTlVucHlPSVJubEVBNk9DTjRKWXJlcWdSM0Zqa1lwUENGSDhJMkNPcEpPckhnMHlRd2JVUGFuVXlyTmdSM1hUNU9kdVHSAZoCQVVfeXFMUHdjRTZ3MHNlVl9GdVRhbjA1WDFmVTFGc3ZjdXV2THFxNTB4X0Z4eHFiY1E5Q0NESkIxT0NTUHlSMUtLVm04eGt1MXpMLV9IUHhjU3JSaEM0ZG5nWElxNTVDbUhvNDhIU191Y2pqQnI0dnJ0X2tOVGpPN1VoUHJMdHJfWkJ6dTZ5R3kyNUpXWFlRZHIyRVY0MGZCS1Z5NnBOcmFrQzI2NmxhN01lUmg2V1VtLTBPTVh5bzlMTmdNeUFVSk1nZk8tTVB2S01TNWpsZGVjRDg2U0ZNd3l5c3JNOS0yWWNOME0tc1JzRW9CM0E2eERPWW1SX0kxQ25lN1o5NlpRd3FSUUxoTEZxRXRYblprUm1faUh4VXl3?oc=5",
         "source": "G1",
-        "publishedAt": "2026-11-16T11:33:20.000Z",
-        "summary": "Mercado eleva estimativa de inflação para 5% em 2027 e prevê corte menor nos juros G1",
-        "image": "https://s2-g1.glbimg.com/2rIaQ2wiBqrOP0Obgn3HFFYXJug=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/b/A8IGA6SdAAIsLKWtdgOg/imagem-destaque-g1-dinheiro.png",
+        "publishedAt": "2026-11-16T21:53:07.000Z",
+        "summary": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando' G1",
+        "image": "https://s2-g1.glbimg.com/tR2k67SDW1H4zpOuRVvIW66Qkf8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/Z/LT6BkuTqOQBhBunTqkjg/whatsapp-image-2026-07-16-at-17.49.34.jpeg",
         "topics": [
           "negocios"
         ],
-        "score": 9.31,
-        "relevance": 10.4
+        "score": 7.52,
+        "relevance": 8.6
       },
       {
-        "title": "Musk e nomes de peso da tecnologia defendem volta de Jensen Huang ao comando da Nvidia",
-        "link": "https://g1.globo.com/tecnologia/noticia/2026/11/16/musk-e-nomes-de-peso-da-tecnologia-defendem-volta-de-ex-ceo-da-nvidia.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-16T13:18:54.000Z",
-        "summary": "O escândalo na Nvidia, com traições e espionagem, parece filme mas é vida real Dias depois de Jensen Huang deixar o comando da Nvidia, empresários, investidores e funcionários da fabricante de chips começaram a se mobilizar para tentar traz",
-        "image": "https://s2-g1.glbimg.com/XvQhvgXeP7p0VozXZlWCFl5R3TQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/B/sLmuAXQ96Bblo9AIEuyQ/2026-03-17t190329z-433040327-rc2i6ka7ojte-rtrmadp-3-nvidia-gtc.jpg",
+        "title": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMHBzSUxzdzk2TXVUYkNmcWpXUW1xQnB0bnBsZzhnUDNZQWVQbmJXVkFSbHFTUkxWODNVLUpleUMtdUhuak5oOXUwM0xTcXpUSkhCRXAxbzhHb1h6U1FnZUlRMGtwZ09PbkxyTDN0LUNEcmFsemQ4bU9OQW9KcGdROWpENk9WSE14SVl5a0FmSDRYQk1JQUNJRXZaZ0o3MnhJMG1sYXo2QlR3VHlEbnJITEw4ajZjT2FWZEhHVnY1VQ?oc=5",
+        "source": "Agência Brasil",
+        "publishedAt": "2026-11-16T23:06:00.000Z",
+        "summary": "Dólar sobe para R$ 5,77 e fecha no maior valor desde abril de 2025 Agência Brasil",
+        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
         "topics": [
-          "negocios"
+          "negocios",
+          "geopolitica"
         ],
-        "score": 9,
-        "relevance": 9.4
+        "score": 7.51,
+        "relevance": 8.2
       },
       {
-        "title": "Depois do ajuste fiscal, equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias",
-        "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/16/depois-do-ajuste-fiscal-equipe-economica-vai-propor-medidas-para-reduzir-o-crescimento-das-despesas-obrigatorias.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-16T12:57:38.000Z",
-        "summary": "Depois de aprovar o atual ajuste fiscal, a equipe econômica vai propor medidas para reduzir o crescimento das despesas obrigatórias no próximo ano. A avaliação é que o governo terá de dar um segundo passo na contenção de despesas para melho",
+        "title": "Mercado prevê economia mais fraca e aposta em juros que travam o crescimento",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42V255bHJyZFZ1VmxRZmFoOGlLdnRqOHMwOERCNUxya0ZNcmlHTkFvZHBVRF9zbm9rd1FpcEROQlJza2VnVXdUckNDUExpeFg2OUQ2X3U0cTNDMml6QklRZ3M3R1FDZzR2RWVfeXVoZkE5Vm1IU1F5dzhB?oc=5",
+        "source": "ICL Notícias",
+        "publishedAt": "2026-11-16T23:38:37.000Z",
+        "summary": "Mercado prevê economia mais fraca e aposta em juros que travam o crescimento ICL Notícias",
         "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 8.88,
-        "relevance": 9.4
+        "score": 7.48,
+        "relevance": 8
       },
       {
-        "title": "Mercados financeiros iniciam com atenção ao Banco Central, pacote fiscal e ata do Federal Reserve",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeG9qWXBJS1N5eU5QUnVMM2pMZGw3Mnl0dEVHbDFwMlZRdmgxVjRTWVQ4VHBwSlg2UEtCMVV6eUNzWnBiUzF5TC1xUUdncGVCM2Nzc3QyNlJ1OGc1MVB0UERMNXhzV0hOSk1sOHZDdGltT21UeXBRdS16MDI3eV9oNVpwM3UxQW90NW1RRldueUFORFdacERLbzdjaG1nMGhDNlU3WGVPOXFpZDdXN0l4bG0zQzk1T0Q3MExkTDRfNUthYlBCRkE?oc=5",
-        "source": "Brasil Inovador",
-        "publishedAt": "2026-11-16T13:40:14.000Z",
-        "summary": "Mercados financeiros iniciam com atenção ao Banco Central, pacote fiscal e ata do Federal Reserve Brasil Inovador",
-        "image": null,
+        "title": "Incertezas sobre a política fiscal aumentam a tensão no mercado financeiro",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMnBwS0FqZ2I3RkJXRkRfNVV0ZzFjUGJ1d19TWUJMNWV0dmZfT05ET1J5RGdPNl9YRkRzd2RkcldlZDJ3WWYtT3NuMi1fU0VkSzRlRkV0NUhvZkQzVEFPS2VfU3psV3E2R1JYMG5UVVVpMnBieVJTZC1mRmZSRUkxcmVMamQ4bk9PeTJhQkRwdktoSV9LVTZTM29IdDAwNEJEMEJRZlZmQllibWQyNzBqOWd5ZGdFVFFmQjdVVGVMb3dBMTdCR3VsbGZWY0szcGtPTWfSAeABQVVfeXFMTXd6YUVWTUpkeVI0SzI4WFVPRzBTNFpVY2pXbGtUZXdIX0NjdjltajgwRGt3NUx3X3dyeVhfeklZR2JEZ1pfeTkyOWJWTk5QbGFaWGYyUTF2S0JVRGlPdmFDSFo5NnhadjA4Rl94MHpYVDM5NmozcHFOZVN2NE5zN2duNTlvZmxMVlA1TzlILUhJb2EtOTRfbjhUaWJTTnNzRDJlSVJ0RDk1YXRwX3BmaWZFSVpGbmU3SV9OOE9CV3NJcjY3LTN1UkozZDN6V0VKbWFhdXl4SkNCdU5WdjFuMlU?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-11-16T23:52:48.000Z",
+        "summary": "Incertezas sobre a política fiscal aumentam a tensão no mercado financeiro G1",
+        "image": "https://s2-g1.glbimg.com/t697D5Kv3CZtYfC0aB54-imILOQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/X/r/bPw71SRY2YHJhXbsKfXg/globo-canal-4-20261116-2000-frame-63259.jpeg",
         "topics": [
-          "negocios"
+          "negocios",
+          "geopolitica"
         ],
-        "score": 8.74,
-        "relevance": 9
+        "score": 7.36,
+        "relevance": 7.8
       }
     ],
     "filosofia": [
       {
+        "title": "A célula partidária da Escola Secundária Le Ho 1 organizou um seminário sobre \"Estudar e praticar os pensamentos, a ética, os métodos e o estilo de Ho Chi Minh\".",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNd2R2dFk0d2RrSi1vZ3JEZmE4dXdsTVFPbWFEWFVtVGtpTVNuTFA4R045R21hb2l0VUhUdXNHeVRrcHE2bDRqMkhfZUdPcHpUWkFpbVZjR3VvVFE0WnB5TlR3M3k4anJrV0ZJRFRHVjZLZFBDRmVoNWMxOW9UOUdlRTNodVhab0U4QUl4MElXUGFjVm92OHZTUS15ZXZsdTJ0RWxWc01HZXdLbXVRQWwta0NqTzhhUFFZTFRGQ21FOFIzanVxWnBIR3VfdW83S19ZOU5Xdg?oc=5",
+        "source": "Vietnam.vn",
+        "publishedAt": "2026-11-17T00:08:49.000Z",
+        "summary": "A célula partidária da Escola Secundária Le Ho 1 organizou um seminário sobre \"Estudar e praticar os pensamentos, a ética, os métodos e o estilo de Ho Chi Minh\". Vietnam.vn",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 4.77,
+        "relevance": 5
+      },
+      {
+        "title": "“Devo ao meu pai a vida, mas ao meu professor a oportunidade de viver bem”: O ensinamento de Alexandre, o Grande, que mostra o verdadeiro valor da educação",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPMVlYV0NpUXBTRTVtMC1qU1ZFWTRQeE5WOHZFYnRFVWxkRkIxU1hZTVFvNDNiWjVuaTFpQ3JoRVNrN2xVUnpwYmJaamE2YXgxa2lFcU9ZdG5xSVpHck1RU3B5SGpIZGVIcDhXNm9PRUgtRkxRZFdmSWludzNTT1dqRk4yM0hENXdhSU5QUDVoWE1vQWt1MGRTRW1GNlRiX0J3dnJxajBsNlFOR1hDY3pkNUNFblhVNDFNT2xLbWt4Zzk5cDZBLU4ybmpvT19NYmZiUkpKWHJvcVJ0RWpxUFdXWWQ3aUJsdDQ2LTlHd1JQckhwSXBFSWlQejlIVG5TeEFjby10RDNINGVXR3d4UVBUdjctXzltRm9hcVFDeW5SYklCV2pS?oc=5",
+        "source": "Brasil 247",
+        "publishedAt": "2026-11-17T01:15:00.000Z",
+        "summary": "“Devo ao meu pai a vida, mas ao meu professor a oportunidade de viver bem”: O ensinamento de Alexandre, o Grande, que mostra o verdadeiro valor da educação Brasil 247",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.98,
+        "relevance": 4
+      },
+      {
         "title": "Diálogo Entre a Filosofia e a Ciência: Por Uma Construção Integrada do Saber Face Aos Desafios Contemporâneos",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOU19ZOENGUmxWaTRDUHVnbFdmU3VueVFtOHE0UmRoVUQ3MDJNS25TRDBUdmZZMjJVdlVxTml5eVJ3eVVFVHVYZ3d6OHpZcWtfaHpoOHlvaFdKczM3UDZ2UlB5dmNjN3BXcFVTN0M0a2NxSUdVWk8yTmh0QjJSSXBHd2Vrc0tjQ2JtZjBQMXU4R1BzNjU5OXhPQWI1emVHeTlJamp6Vklpd3FqMjd3a3lvVlpQSDY5TTFZS2ZXU0F4cTdGaUZCeVBGWjZEdk1iR2tGVWtEekZJU284bDJWc200V0lacGY?oc=5",
         "source": "Diario Economico",
-        "publishedAt": "2026-11-16T09:43:09.000Z",
+        "publishedAt": "2026-11-16T23:25:03.000Z",
         "summary": "Diálogo Entre a Filosofia e a Ciência: Por Uma Construção Integrada do Saber Face Aos Desafios Contemporâneos Diario Economico",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.34,
+        "score": 3.71,
         "relevance": 4
       },
       {
-        "title": "Professor Piligra lança seis livros em Itabuna no dia 11 de dezembro",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbGVRMVpQMVdjUm51LWx0QU1WODZ1YkxCV25JYWJUZE5HYk81UmkzOWYtT0poSFM3YzNpekpiLWlmVWZTYW10Qm45YlF5NXN0aEhIck1YdjY3c1pZTVF4TTMtcUZIMkRMX3lCN09oQzFTanBjYnhCdTE1WUxKbDItVlllQUg4NE80cXdldXF6WVc1YlYxLV8tSTZPakdOSGczZHpFQ19wLTdzMlZR?oc=5",
-        "source": "blog do gusmão",
-        "publishedAt": "2026-11-16T14:16:22.000Z",
-        "summary": "Professor Piligra lança seis livros em Itabuna no dia 11 de dezembro blog do gusmão",
+        "title": "Pensamento de Steve Jobs revela: “Não deixe que o ruído das opiniões alheias sufoque a sua voz interior”. A lição atemporal sobre autenticidade e propósito de vida",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPREZtZnJVbW9rajEwbFFwVm9qRndYb3RFWGdtbklNVGJXOFlhT1lGb0Z0SGdrNE1lbnhDM1JSZHMzMGJGVERjejBxYkpXRm1RMDJ5YmpiVk1vZXJ0ODVaNDNCdTVaa1VocTNEeXlJdHM3cG1DS2R4bkp5Ul9uemY0TmhlZ1NXRzdFODVhX0VmS0F1UzVCb0dmbmctcWNXcXNYak1qZWFGbmpNUVJ4V09OMWh2MUJQVU1tY3duQUdRMEZqX0NKV210cC0yX1d6QjhWU3hsRXdxQ0NmbzlsS016bkd5RUN6bThmVjVmNGZjdURvSHhveXNRblRubGhlY0ZfUVdxYTYzNzlucEl4VzFjMDZYV3h6SHgxZDA1OWJmeHN3ZHQ5dk9UYzZhUmpfRUlWOUE?oc=5",
+        "source": "Brasil 247",
+        "publishedAt": "2026-11-16T21:45:00.000Z",
+        "summary": "Pensamento de Steve Jobs revela: “Não deixe que o ruído das opiniões alheias sufoque a sua voz interior”. A lição atemporal sobre autenticidade e propósito de vida Brasil 247",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 2.98,
-        "relevance": 3
-      },
-      {
-        "title": "Cine Cajazeira realiza 32ª sessão com exibição do filme “O Cheiro do Ralo”",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONW5ndW1udzI1QmdFRHZOaGk3ZWxBdFU3UllsR0lsdG9TSVNJZDNGZXQxTDYyWnBYNENUVnZpUzZxN3BlSGlDN0dOakZtSDBVUGJuUExkOFBZUGdzQWF6N0RiSmROTFBSNzFqY3Frbmt2OHVNRk5LSHk5TnVNSDZockdsNUVXLWpfbVVFV19aZG1pWnh1MkpYYUpKMnJROGFOellz?oc=5",
-        "source": "Câmpus Goiás",
-        "publishedAt": "2026-11-16T13:48:00.000Z",
-        "summary": "Cine Cajazeira realiza 32ª sessão com exibição do filme “O Cheiro do Ralo” Câmpus Goiás",
-        "image": null,
-        "topics": [
-          "filosofia",
-          "cinema"
-        ],
-        "score": 3.9,
+        "score": 3.48,
         "relevance": 4
       },
       {
-        "title": "Epicuro: \"De todos os meios que a sabedoria proporciona para alcançar a felicidade, o mais importante é a amizade\"",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQaGZHQXVqMHhGX1JDN3dRWEozSWpwcndFSUlSZHdNRkdIQXdGS1ZEdGFzaklQQ1NhWnBzSS1Wb1FsRER1R2VSWUVCSmo2SWRUOWxlTnBEeXlUSDhkNjJzQjZxUExTTkJvMmhFNml5WjRKYm01TV9xemsxa21lbWhEd2M3OFhLcmEzU3ZVbHNqVDAyUnpPd0VmeW5tbmctbjdyNEtITUJkR21oZ082QlVrdk9qSmNHTFRWTG5CVTkyZU5meHdla2tJUXRZbTEtUUZnOWdyd3JRdzhJa0tmRkN2RXJ2bklCQ1hYWk5TOVdkcXowbzdadWc?oc=5",
-        "source": "Correio do Estado",
-        "publishedAt": "2026-11-16T12:15:00.000Z",
-        "summary": "Epicuro: \"De todos os meios que a sabedoria proporciona para alcançar a felicidade, o mais importante é a amizade\" Correio do Estado",
+        "title": "Projeto que retoma Filosofia e Sociologia obrigatórias no Ensino Médio volta à pauta da Câmara no dia 25; professores se mobilizam em apoio",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQR1FlQllDdUpqRGJERXZxQWxCRUVfZ2dUdWctMTNDM29JT1RBeUxWZGpKYTlYQXpNS081NzgzMXdkX09uZ1I5S01WaGpOcDkxSVM4UkVYNm5ocVltbnJsUFZHNDllcXJ1ekpsZXRfUkRiWExOYkkzM1ZuVUExM1Z6ME8wNFl5X01KWEtLUVd6THU2UHp6SGtmbVVMem5wWFl4VWJ0OUt0U1FSUTJSOU1UMG8ySE5haGg3dUFGc29RVm9qVl8wT19fQzNncmJWSlN3aVM0Qm1SZnl0cUZSb2hjM0NhR2NwbDlocGdabEpQQUVLMFJfZ1llN1lOdlE?oc=5",
+        "source": "Portal Verdade",
+        "publishedAt": "2026-11-16T17:57:09.000Z",
+        "summary": "Projeto que retoma Filosofia e Sociologia obrigatórias no Ensino Médio volta à pauta da Câmara no dia 25; professores se mobilizam em apoio Portal Verdade",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 2.76,
-        "relevance": 3
+        "score": 3.3,
+        "relevance": 4.4
       },
       {
-        "title": "A sombra de Huxley: antes do amanhã, por Lucio Massafferri Salles",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDA0eGxPeXE0azJyU2h0UnV5TkNXMmduVkZ1Tl9jdi1jRjNBVDg5dm1wV3lObWViZVlEZ2VaemRnWl84Q1V3dE1QUmZqTHp5MEJ3Y0NkTGdHYVZiNWtTbk9LYUVDMm5GcXlfUmtoUllEbFhIb0lTVmc0aDQyR2Z3ZERtQTJnNmNQV0VFQkhRZmdDLWE3TTk5Z0NxS0pLdw?oc=5",
-        "source": "Jornal GGN",
-        "publishedAt": "2026-11-16T11:14:00.000Z",
-        "summary": "A sombra de Huxley: antes do amanhã, por Lucio Massafferri Salles Jornal GGN",
+        "title": "Mil dias: Filipe Martins e a Consolação da Verdade",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM0Y0VEs1ZDZCSHJmQmVpLTA0cGJGZzBNaTZEcjBpaGhwdWNQemt2NzFpSjA1WHdIS1RXNlRDMWFWeFgzQVBpRHRoTEZoSnNoelRyMVRoMjRXTTNiLXFJbGlGZXBNNmN2Njd0WXJ1ZkptOUlJYXZqQnpGNlUtVGlTY2VHTGFNY1lqZVBHYkRqZkFxNUVYYnVpbFVsSXd1ckpPTkVjVw?oc=5",
+        "source": "Gazeta do Povo",
+        "publishedAt": "2026-11-16T19:40:00.000Z",
+        "summary": "Mil dias: Filipe Martins e a Consolação da Verdade Gazeta do Povo",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 2.65,
-        "relevance": 3
-      },
-      {
-        "title": "Citação do dia de Arthur Schopenhauer e a lição sobre quem acredita que todos os seus problemas desaparecerão quando conseguir ganhar mais dinheiro: “Nossa felicidade depende mais do que temos na cabeça que nos bolsos”",
-        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOSVBxM2tNOHJHMTczRlF3NUpqV08tSnBjQUMxd1dJWDI5YW9fQy15LU51bnR5TjR6SjNYdjdxRmxHQktEOW5vc19CT3R1VE14dXZ2a3h3U0xjclJ5ZFNwbERhX3d6SGxEY0N3eEU1czlzSmVYX2tGdHV0bE5LNFNINFpxVzJzYXRPbGUyTFlwd3AwbkJha1phbkdXMUNPOFlZNmlwUFktcElzYTk3bDM1QmdJdHZyb2RjcW15Nkt0RGtYV0t6VHljdkdFZm5CQkN0OEc4QWlGSDRiVDd3c1JSTXFNdWdrWkVyUktKQmVvRTNVMTd4LW1adXozU2VmWkFubzJuYm9yWktXRDVDYmVBMUg5aWRBRGQxaGhiR0Z6NDhtcF9SZ0Rha1FLQlEwN2JMbzVoZEsyenJVWHktUTQ2dVBTekpkVk9ndGFxdEtlTHE3Tk14bW1ESG13?oc=5",
-        "source": "Revista Oeste",
-        "publishedAt": "2026-11-16T11:13:38.000Z",
-        "summary": "Citação do dia de Arthur Schopenhauer e a lição sobre quem acredita que todos os seus problemas desaparecerão quando conseguir ganhar mais dinheiro: “Nossa felicidade depende mais do que temos na cabeça que nos bolsos” Revista Oeste",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.65,
-        "relevance": 3
+        "score": 3.21,
+        "relevance": 4
       }
     ],
     "cinema": [
       {
-        "title": "A Imperatriz: Sisi traiu Franz? O que a série da Netflix inventou e o que a história registra",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEJPa19TdWZLVHdQQUZDa1A4bDhpWmo1MGhicHZGclhvcGtWaDNyQVFxazRwT3RVWmY1Q0VPaGRyajh3M1pOTUtwNkRFRUxVWTFmYnRhS2U4Y2ZQNWZ5S3ZNdU1CazMzSWZ1X2dnSzlHNWlyWkIxc0hoeE1MRmhHSEpmRUN1Q3BCSG5xWWd3Rm_SAZYBQVVfeXFMUFoxWlVrSDZQUURoQ2VVVFBMY09GSmMzems5ZTB5RTJSdGVwMEptanZJdWMwMFk2dGVFUDFCT2hvU3gzdnpUMWNuaGJmR243d1ZNTkVoRlh6WDdyME40eHhOdGdVeTJkNVZiWDBLV081VWFIOV9mdi1OcXJ1X1VHbEdIRlJkSE13bm1DWFNSVFJBQjJaUzlB?oc=5",
-        "source": "Observatório do Cinema",
-        "publishedAt": "2026-11-16T13:00:00.000Z",
-        "summary": "A Imperatriz: Sisi traiu Franz? O que a série da Netflix inventou e o que a história registra Observatório do Cinema",
+        "title": "Netflix estreia 12 produções entre 18 e 20 de novembro, com séries, filmes, animação e documentários",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFl3NnhOSXVIdWxQTG05c0xmSFoycnRZVlJtdUpFWXcwa1QxaGNremRKMS1GYWFfWUdqMWQzYmxXM1ZaN0VwZG5ONE91SmdIQi1EcmU1aGhDYjQxWnJBdnBFRVIyU0sxVzlDNGxMUGRkMFlyc0cxdkR6SlhpUVZTcnhTeWpheDQ2TXBTRjRaVVpUTC1BS01oNVJGaDhZNTJVdEF6TV9fdEI?oc=5",
+        "source": "A Crítica de Campo Grande",
+        "publishedAt": "2026-11-16T23:10:00.000Z",
+        "summary": "Netflix estreia 12 produções entre 18 e 20 de novembro, com séries, filmes, animação e documentários A Crítica de Campo Grande",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.43,
-        "relevance": 6.8
+        "score": 9.18,
+        "relevance": 10
       },
       {
-        "title": "Escolhido para representar o Brasil no Oscar 2027, “Feito Pipa” encerra a programação de filmes do 16º Circuito Penedo de Cinema",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPTHhaUkFoeFJtbXQ1Q25vRW80MU9yQ0pkaHRVeXZhTzVFeXBkS1NPT3oyZ1ZHVjNtWTR2ZkQ4NUpqclA3TWdxRFJuX2pGaUlWMW1oWjBWZEt4QzBaalVJZWVZQm43UWFtM3ZNM1Joam85UXBlNzNoZzNhcmliYVRwWEVQTTlXa1lwcVpyRG5JTWw3Z2lOb2JjYmpnMlR0RnRyT2tGZUNTSzduZUVQbWMtZmJLQmlaQUVnTnh5cjJQaEFHak1DcU5zOTg0N01XcWdEb0ExX2ItOEdvYkdZZzI5UGVjQWNuMFYtS3VxczJlYVVLWlE2cmdOSXliZFdmd3MtMUN0ZjBYT2FvNFNKaTB0c0h6UV8wZw?oc=5",
-        "source": "Tribuna do Sertão",
-        "publishedAt": "2026-11-16T11:31:00.000Z",
-        "summary": "Escolhido para representar o Brasil no Oscar 2027, “Feito Pipa” encerra a programação de filmes do 16º Circuito Penedo de Cinema Tribuna do Sertão",
+        "title": "Ela cresceu em uma seita e não tinha permissão para assistir a filmes: Hoje, com 8 indicações ao Oscar, é uma das maiores atrizes de Hollywood!",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVRmRCUW51VW8ySHRvekpMdE80dzNqbXJHRmJfN0xzOFBFVXNKN3lydUgyMWd4eF9PQU5YX0FueFBPZUxnNHBaVzhoMExwSXdNUkdjWmFDazJqUF80VmR4SzFONk9JeFN6cFFudUlOUUTSAXZBVV95cUxPSHRlbl9tTEVvN1JUNDJxQzNWYmNZRFlmUDFMSkdzaWNSSS1TS2NZMHd2QWRrV25DTDNqanl4WExpN3c2dm9BUnBqTnZNWGJtRHU3TE53MXNaenB6TnVJeTNMNlY1NmFQZ0xxTy13dk1LS0xvYlp3?oc=5",
+        "source": "AdoroCinema",
+        "publishedAt": "2026-11-16T23:00:00.000Z",
+        "summary": "Ela cresceu em uma seita e não tinha permissão para assistir a filmes: Hoje, com 8 indicações ao Oscar, é uma das maiores atrizes de Hollywood! AdoroCinema",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.26,
+        "score": 7.66,
+        "relevance": 8.4
+      },
+      {
+        "title": "Netflix: confira 5 filmes e séries que chegam ao catálogo nesta semana",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbDA5c3ZWcnJ5VmZxWVFobldzOGpXM3Q5T3JmYVNQNndPaUkwc2gycWRQUklqSXZ5eEw3YWVWTF9zU0pkLTA4Rmowc2t2Q24yejhPd0RBdTllc05kejhwanQ2Vm5HeVJsZlJ1ZC01djlIT2Q1NmJwYUstQ2NMd2hPV3FjdTg4eFk5c2FMV3E0am9CRUpwRDEzZHFqWjlGNTlseTI5a0VzRDlCelIxVGg1YVNjdkFtWGNzNDZ3TmctbExGdFZJYzJIeUFSOUFmZGZMU1d4U25icGYwRlhuOVdjY0o4OTdwdkpRQWc?oc=5",
+        "source": "GZH",
+        "publishedAt": "2026-11-16T22:37:57.000Z",
+        "summary": "Netflix: confira 5 filmes e séries que chegam ao catálogo nesta semana GZH",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 6.3,
         "relevance": 7
       },
       {
-        "title": "A Bola Preta | Filme candidato ao Oscar 2027 ganha novos trailer e data de estreia; assista",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IZm1oRzhCcHBjemgzVWJncXctd1d3VXFtbTNKdVhnb2VBejFLVndXbUNHdGRHdDlHbnVrRmNvWUZNYXVFcTJJZm9neW40ejNycmNtbXJRamN3Q05CZGk1OEUyTVRWWTg3Y245SUJpUnF0ZFgxVFBadVZB?oc=5",
-        "source": "Omelete",
-        "publishedAt": "2026-11-16T14:13:00.000Z",
-        "summary": "A Bola Preta | Filme candidato ao Oscar 2027 ganha novos trailer e data de estreia; assista Omelete",
+        "title": "Netflix recebe 12 filmes e séries na semana! Veja lançamentos (16)",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSjBKY1FEaWV5UnhvQ2RLNnZVM0J0RlpEZk0zNF9qcF9NS0E1dl9hM05PcGJKdUhXbGczREtxeFI2UENidnVJSVVLOXhGc1JoVTBhM1Rjcy0xNFJ0SXZSQ3VSNlo0M2o3elF6Y29HT0piT2drR213WUlsTTJUcks3VXdpcFZ6VEsxdEUwU0poLU5oS25CbzNUY0YzUVl2eHZ0cGcyazRjSTlFY0cy0gGyAUFVX3lxTE5UQnVJekdwYUdzSW1tbm5HaDQtSmx6ZU95YjBwdlJxaDZuVElaRHZGQkg2WnlwdVF5TDFYN1lhc281X05FbzNEVGUxNWxKODZpM1AzNS1kX0ZTaGl3TVRHTkZ6MkF0UkhkNUVqVkcxeVl6dGVfZHZYU3RGNGtFZU9jWXpyaUNCWkgySXVOSkxlcjVfU0dnT0JmWER1ZGwycTJPbUYxdHlDNVV4Y0M5amNxd0E?oc=5",
+        "source": "Estadão",
+        "publishedAt": "2026-11-16T22:15:00.000Z",
+        "summary": "Netflix recebe 12 filmes e séries na semana! Veja lançamentos (16) Estadão",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.95,
-        "relevance": 6
+        "score": 6.2,
+        "relevance": 7
       },
       {
-        "title": "Cinemark de Campo Grande vende ingressos a R$ 10 para filmes brasileiros nesta segunda",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUV2dGMwX0pCQ2EyQ1VYbFNXTkRqMjFlRkhIOVJzT2NfN2k3RnNZbEpJYWNsdzRVUFN0ektoUEQ5NERXQ3FvSUQyenloTjdOY0o1UFVlMTRCRW9QN2gzX2xxZ0dwZkxSSnFqbDkxemRnUWpjRlQ3TC1lbHpqN3h4VHJGTkZiOHFrSEpqRFpMcmxGcTBaaWc0?oc=5",
-        "source": "A Crítica de Campo Grande",
-        "publishedAt": "2026-11-16T13:00:00.000Z",
-        "summary": "Cinemark de Campo Grande vende ingressos a R$ 10 para filmes brasileiros nesta segunda A Crítica de Campo Grande",
+        "title": "Confira primeira cena e data de estreia de ‘Bruna Surfistinha 2’ | Filmes e Séries - Por Mattheus Goto",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUROUGlGRkdlMV9FbUgwTTdaUTIzal9ITEdoNVhkcnpkXy1CejRtdHAzd01LM05BWFdKRExlSXVIdEdaQkp6dzlLamRUWjE2RVV5QzRYb2xBS25ySXpCZ0hvY0JPUVFLVkxGaXYzMk1LeTEzbmt5WmR1QTZDdFFKQVZxNjVtTFdBVC1oV2U2N1BUcE9TNjRTYV82SlZRdE9mUTdlcVNKaG5qUE9TMWRoVUd5X3RidngyTnYzOGV3?oc=5",
+        "source": "VEJA SÃO PAULO",
+        "publishedAt": "2026-11-16T18:04:32.000Z",
+        "summary": "Confira primeira cena e data de estreia de ‘Bruna Surfistinha 2’ | Filmes e Séries - Por Mattheus Goto VEJA SÃO PAULO",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.68,
-        "relevance": 6
+        "score": 5.28,
+        "relevance": 7
       },
       {
-        "title": "Suzane von Richthofen é alvo de críticas após estreia de documentário na Netflix",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1NaldHS0Zxb09OTW1taUcwVHhFWnc5ZGlzaVVKQmxfYURzOF9ZRVVwLWlBZXFPMHNVOG5FaVZOak9tNEhhTE5MNWlxeTdqR3dBMndmV0pYYmpKaEl4VjJkVEhqTU9GcWQ0Y2oyRTRHRnp4N0VpeDJWdmdYcw?oc=5",
-        "source": "GPS Brasília",
-        "publishedAt": "2026-11-16T12:30:09.000Z",
-        "summary": "Suzane von Richthofen é alvo de críticas após estreia de documentário na Netflix GPS Brasília",
+        "title": "Gordon: Netflix estreia nova série argentina com astro de La Casa de Papel",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDdDQksxTlU3X2lYZkdXOC1SNkJTaUtPRmFxV2lHRTRGNmVsaVFrVk5YUUg2aWllb0NvLTcyYjNfYkR6MkNOeEhaRDZWamx1U2UwZUdPUUNtY2tWNUYxOURxLXpZSTU0OVBzWklFOEVKZkJFdHBmM2gzUnhNZWJJRDhWamhCRnVISnUteHBZUGpHbERKMG5zS2RicTE?oc=5",
+        "source": "Séries em Cena",
+        "publishedAt": "2026-11-16T21:44:00.000Z",
+        "summary": "Gordon: Netflix estreia nova série argentina com astro de La Casa de Papel Séries em Cena",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.57,
-        "relevance": 6
-      },
-      {
-        "title": "Os 3 melhores filmes desta semana na Netflix Portugal (16 novembro)",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVjMtdHRGekJGXzdhSzNoSEpNNnd6SHlQTmZZckxxbGFxVVpXR2dBLXdfcHBTWmo2RXVESVFRZ2RfQzk0cG1UbkF3T25leVVpa1pOWl81Z0JGb0gxb2pPQXFOQTk5UFVfN0pwb2YtRmxYVm1hSzdLSmQ5djlWRzZWOGEya3dHX3dOOEJfQWFkM012YS1fNFA4Vw?oc=5",
-        "source": "Magazine.HD",
-        "publishedAt": "2026-11-16T12:00:26.000Z",
-        "summary": "Os 3 melhores filmes desta semana na Netflix Portugal (16 novembro) Magazine.HD",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.46,
+        "score": 5.21,
         "relevance": 6
       }
     ],
     "medicina": [
       {
-        "title": "ANS amplia cobertura obrigatória para tratamento de câncer de pulmão",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTVQzcjdGSkstYV9EUkNycFl5MFh1cWVRVlQxbzgtYUlOYWVXWl95M0Uzdk5DOVEzdUo1WGJzYWJwNGNZb3Q1dnhSRGJfSGp1LUZKOVN0V3dHcEJHRGpwUW9lWDBXQjVWU3JRNWVJU2ZCVmNRQVphelNUSWVBdHR1bUpTWnZmZmZzZEJFUWlsTFVtUmFaV3FRUVRPdUN5a1BFMDJ2LVdpU0JaVmtMbGJsVnM2UlI4TkVjNHkwRWRYVjY?oc=5",
-        "source": "Agência Brasil",
-        "publishedAt": "2026-11-16T12:28:00.000Z",
-        "summary": "ANS amplia cobertura obrigatória para tratamento de câncer de pulmão Agência Brasil",
-        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-        "topics": [
-          "medicina"
-        ],
-        "score": 6.67,
-        "relevance": 7.2
-      },
-      {
-        "title": "Dia Mundial do Diabetes reforça alerta para prevenção e diagnóstico precoce - APM",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1h2NTlNZ0YzcWV6RTdDdnYtVldVcU9hZWlhQWd0dmJsVXVadWp6SHpyN0tYeXNzRW5CV25MemtaTFRRbVBCeWo0NXI1UDFwbmhZeFFUbDhKOW1QaEJ6bDRaVkJvMU9ILW9Ib0FLQjRhZVY1NUptTlktR1pRekw4V0luaS1BYXc4UjFoRG1aWm9BR18yTlcyamVkUGtfYUcy?oc=5",
-        "source": "Associação Paulista de Medicina",
-        "publishedAt": "2026-11-16T13:29:38.000Z",
-        "summary": "Dia Mundial do Diabetes reforça alerta para prevenção e diagnóstico precoce APM - Associação Paulista de Medicina",
+        "title": "A Universidade de Medicina e Farmácia está colaborando com o Instituto Karolinska em treinamento e pesquisa médica.",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUDMxRTJsamp3RTc4YllTRVlKTFluNEh5VVpiNXRLVXFjakNBRHkxQ2NhdXlUOWtvZU5qSlc5UFl3MUZrS3Ayc1Z1VUhqTWU1M292TUFmQTItUy12TXVJeFZXcVhaV19kanZZanN2dDBPWTlIanVhaG8ycmgtclZBalVScnZGWDUzSGpMekNyMWllSUtMdmUzS2pvUTBxdDRObXk1akR3TnlmTnF2aEE?oc=5",
+        "source": "Vietnam.vn",
+        "publishedAt": "2026-11-16T14:30:43.000Z",
+        "summary": "A Universidade de Medicina e Farmácia está colaborando com o Instituto Karolinska em treinamento e pesquisa médica. Vietnam.vn",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 5.21,
-        "relevance": 5.4
+        "score": 4.61,
+        "relevance": 7
       },
       {
-        "title": "Lula sanciona lei que cria 'OAB da Medicina' para novos médicos",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcGZDZDVJSGdTWGZwM3NEVjZib05pUGhjdXQ3WWRFTGRnNUl4bTNpNGl5NzJ6Z0pfb3NlZGdwZzhodFdKOElOTzJZWnBockwwdDh2NlR1b2p0bll6RXRwV2wtVmE2cW05UkxhYV9DRTNDMnItNEI3UDdSWjJtMGdTRTFiYWJCZS1kQ2lXM0VEbktyWG9CM2xFRV9pRVpkRW1GblE?oc=5",
-        "source": "TV Brusque",
-        "publishedAt": "2026-11-16T14:11:00.000Z",
-        "summary": "Lula sanciona lei que cria 'OAB da Medicina' para novos médicos TV Brusque",
+        "title": "CRM-PR recebe CFM para debater a auditoria médica como análise técnica na Medicina - CRM-PR",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWEgyMjhhUVN3a1RMTUxLZ0JicVZESllMWEFGN3BsS0UyeTJobkRtV3l3eDQ1ZGtRMUctdHk5d2xsTm9pOWhwTV9BNUZSM3l6elFDdS1EZ2Q2ZXByemdFeTVzRC1vSm1Zdy1IRk9GSzN4MlNCN21icWpmYkF6SUFVN0NJYVJQamRFc0RKQVI4dUt2X054LWJac3AzaWFyeF9OTDRrNHZzTksxbG1OM1VoM2tWbGtrUU5IT0ZIYy13?oc=5",
+        "source": "Google Notícias",
+        "publishedAt": "2026-11-16T19:14:30.000Z",
+        "summary": "CRM-PR recebe CFM para debater a auditoria médica como análise técnica na Medicina CRM-PR",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.95,
+        "score": 3.95,
         "relevance": 5
       },
       {
-        "title": "Fiocruz Bahia celebra 20 anos do Programa de Pós-Graduação em Biotecnologia em Saúde e Medicina Investigativa",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWG5WZkQzVzFGb1dJVVNSMmg2YmZMVUFReTFwdnpIbmhoUTRYOGpXZ2ZWdGl4VTktWnFSODh6ZlU0bXVuaExXbThkOFRFWFVvZWJRQXJ4d3NrMjBmbTBiUGRWV0NZaGgxS0pJWmRZb1g5MDNGYmpic3BjYlZYd1hFcC00bDRkOXphOVBVYy1RQ3lqaE83bUxkdTRSdmhpRVZ3LURGNWllR2NXMENPVW1OTHV2RHN3R3JDM3hFRUh5bi1QdWswUGJfLW93MXJOZE4yTWpXZHRR?oc=5",
-        "source": "Fiocruz Bahia",
-        "publishedAt": "2026-11-16T13:28:31.000Z",
-        "summary": "Fiocruz Bahia celebra 20 anos do Programa de Pós-Graduação em Biotecnologia em Saúde e Medicina Investigativa Fiocruz Bahia",
+        "title": "Medicina da Unimar investe na capacitação de professores para aprimorar ensino médico",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUktlVzFjMUtZcHNEaG9nQV81NC1lUm1Gb0R2ajY5Vi1QMVVaRVBPZWdKSVZQNjEyYlpQdHFFU29CWm9uOEgtdTRDbkY4N2FDZnpna3FRcGh6dFFIZmJaRTRiZVhTSEdPeFBYTGQ4SXN0NU0xRXcyNEsyaVJSNGZJeThvd0EzN2I5a3RFaEJmeTM0a2VTRm5qVTlNWi05LVNrVFlReEpXbFg2X1QyU09fYXZQRkNsRDVHTVgwc1ZwcGhHR1JaekptSg?oc=5",
+        "source": "Visão Notícias",
+        "publishedAt": "2026-11-16T19:03:12.000Z",
+        "summary": "Medicina da Unimar investe na capacitação de professores para aprimorar ensino médico Visão Notícias",
         "image": null,
         "topics": [
-          "medicina",
-          "negocios"
+          "medicina"
         ],
-        "score": 4.82,
+        "score": 3.92,
         "relevance": 5
       },
       {
-        "title": "Mpox: casos no DF quase dobram em novembro e passam de 23 para 44",
-        "link": "https://g1.globo.com/df/distrito-federal/noticia/2026/11/16/mpox-casos-df-novembro.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-16T13:32:20.000Z",
-        "summary": "g1 responde às principais buscas do Google sobre a Mpox O Distrito Federal quase dobrou o número de casos confirmados de Mpox em novembro. Até o dia 4, eram 23 casos em 2026, segundo a Secretaria de Saúde. Até esta segunda-feira (16), o DF ",
-        "image": "https://s2-g1.glbimg.com/AgI22cph3-Me63nLF8YON_xWgRk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/m/RXiyVFTAO9bD3o0MDpaQ/midia-de-distribuicao-g1-42-.jpg",
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.64,
-        "relevance": 4.8
-      },
-      {
-        "title": "Noite da Medicina Maranhense celebra dez anos e inova com homenagens a hospitais e entidades da saúde",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZWRuWHdwLWxBMmRhMjFuaHptVkNMcGtvNXFqalJZN3FRNE1OWjR2QlE1RlhqdWgwSExIYkc4dVhKX1d5c1dMOWg4UkJvbkhXaXl1YmJ4Um5sNHc4bkhqeEdKajA0V3JiUlJzZGZURzNETWo0cm1DU0N5ZlI2RkdtbmhqdkRERXZTU1dlV3VxaFdNMWxlclVkNmxMZGVPMFhMamxHcFkzY2I4djJrZ1lScGJqOE9hQ1dmTDJrQ0FKa21IeDNa?oc=5",
-        "source": "O Maranhense",
-        "publishedAt": "2026-11-16T11:37:30.000Z",
-        "summary": "Noite da Medicina Maranhense celebra dez anos e inova com homenagens a hospitais e entidades da saúde O Maranhense",
+        "title": "Fiocruz e ABEM, com presença da UNA-SUS, firmam parceria para fortalecer a formação médica no Brasil - UNA-SUS",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV3dDODA2ZnIxY0dMZTJ2ZmRETkJtNkNlOWFKY1Z4eWE4d2FCdDN6ZU5VbzZGMWxjMzFhU1dBbklxSWtfX3J5YWZHdWRvN1VEWG04Rk43c2pwTWVhTTRMajc2bUZEeFVkTXdVb1dMalVjMUJjaEY5VU5QQWg4bjhmZzBUd3hmLVNjaGVySTZta2RfLVRjMGkyZk9rd3BITENaaU1WNDZwY0cxdmhxellBTWdZN0NmV3pBcHZ0YkFZcDFULTBxWGY5LXlPNUw?oc=5",
+        "source": "Google Notícias",
+        "publishedAt": "2026-11-16T19:00:59.000Z",
+        "summary": "Fiocruz e ABEM, com presença da UNA-SUS, firmam parceria para fortalecer a formação médica no Brasil UNA-SUS",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.49,
+        "score": 3.91,
+        "relevance": 5
+      },
+      {
+        "title": "Filho de ajudante de pedreiro e empregada doméstica, Otoniel Souza dos Santos, de 27 anos, enfrentou dificuldades financeiras e preconceitos para sair do sertão baiano, estudou sozinho para a Fuvest e concluiu o curso de Medicina na USP em novembro",
+        "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQOVBwRlU3aWw3NFp3bHFUUVZtRzdLenJvOHdKb1M5TllNWnVVNHM1amhoMnZsZmZWZkZ0a1dKTndGZXpwM2ZDdU1nUkYyTEJMWVBQaGt1RTBhVHBPb09PSjlyVXBLV1AyaHI1VU5WcElSQjVENzZKWGVPMmZWLUJLdVdOaU90R3IwNVE0SkRqNy1NdUNKdGlVTS1JRHVkRTJ3YnYzNG92RkktaGdueE5SazFvbkNOOUNDV252b0JlT18tdmFVRm95LWFLOHYzS0tGNXp4WU9QRDNuZWZTYy1MeDRyc2lFVmoxYVdSRnhXS0RrbTdPOXpiVHZkVnE5NzNTTEptaUZ5SW43eXJ0TW9uV1M2eTNTeUgyVnR6RkJ4UGtZVFZwQjhrSlRlRnVFNEJ2X3FRSVNNTGltR2xPcG5MTGRpMW15cHFBeTB1NkxKdVNEdmxFQUwtZnVfdmhuSmpSa1Fv?oc=5",
+        "source": "Brasil 247",
+        "publishedAt": "2026-11-17T00:45:00.000Z",
+        "summary": "Filho de ajudante de pedreiro e empregada doméstica, Otoniel Souza dos Santos, de 27 anos, enfrentou dificuldades financeiras e preconceitos para sair do sertão baiano, estudou sozinho para a Fuvest e concluiu o curso de Medicina na USP em ",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.9,
+        "relevance": 4
+      },
+      {
+        "title": "Saúde: Fortaleza recebe congresso de medicina digestiva",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzZZMGxYS3pOR1prN2pPU1FzMHBoaXl5Y25ucjRrZ3BpMFd1dFpwMzJPVTgtbnYwMjd2dUJYVk1rbzZPSGhrUy00R0xDU0FOWHVvTFpGWmFRU0FFSlp3MTdGYndwZF9lci05VVFQbkNXQXlEVjZPUlduaGtING80QkdMaHZXTjVlb3J6QmRfa2lhV05adVNKRXpyMVN0YkVYZGpnUnVOTFNkb2M?oc=5",
+        "source": "Portal Terra da Luz",
+        "publishedAt": "2026-11-16T18:22:17.000Z",
+        "summary": "Saúde: Fortaleza recebe congresso de medicina digestiva Portal Terra da Luz",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.82,
         "relevance": 5
       }
     ]
