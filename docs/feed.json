@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:32:23.439Z",
+  "generatedAt": "2026-11-21T05:01:26.268Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -32,33 +32,60 @@
     {
       "title": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
       "link": "https://g1.globo.com/economia/noticia/2026/11/20/acoes-anthropic.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-20T22:34:15.000Z",
       "summary": "Placa da Anthropic , PBC (ANT) no One Times Square no dia em que a Anthropic realiza sua oferta pública inicial (IPO) na NASDAQ Market, em Nova York, EUA, em 19 de novembro de 2026 REUTERS/Shannon Stapleton As ações da Anthropic, criadora d",
       "image": "https://s2-g1.glbimg.com/-q0C26O08SToJ7HKLzSNAZNhj_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/NVfUm5SZq6i7kTRN7u4w/2026-11-19t164121z-1052802186-rc22roau8aoi-rtrmadp-3-usa-ipo-anthropic.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 9.25,
+      "score": 7.49,
       "relevance": 9.6
+    },
+    {
+      "title": "Embaixada brasileira na Ucrânia é atingida por destroços após ataques a Kiev, diz Itamaraty",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataques-a-kiev-diz-itamaraty.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-21T00:37:07.000Z",
+      "summary": "Governo brasileiro divulga nota condenando ataques a Kiev, na Ucrânia O Ministério das Relações Exteriores (Itamaraty) informou nesta sexta-feira (20) que a embaixada brasileira na Ucrânia foi atingida por destroços após ataques da Rússia a",
+      "image": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 7.26,
+      "relevance": 8.6
     },
     {
       "title": "Trump elogia conversas com Putin e diz que há chance 'muito boa' de acordo sobre guerra na Ucrânia",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-putin-guerra-na-ucrania.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-11-20T20:31:09.000Z",
       "summary": "Donald Trump e Vladimir Putin. Kevin Lamarque/Reuters O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teve conversas \"muito boas\" com o líder russo, Vladimir Putin, sobre a guerra na Ucrânia e que vê boas c",
       "image": "https://s2-g1.glbimg.com/hYpsBEoB_mnrTJT1wXkJtEsKQbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/G/lvY87ISn2eBadSuXOVBA/2026-10-17t012836z-455791147-rc2r7gacnkd8-rtrmadp-3-usa-trump-sanctions.jpg",
       "topics": [
         "geopolitica"
       ],
-      "score": 8.9,
+      "score": 7.21,
       "relevance": 10
+    },
+    {
+      "title": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-21T01:01:51.000Z",
+      "summary": "Real está entre as moedas que mais perderam valor diante do dólar Nas últimas semanas, o movimento de alta do dólar em todo o planeta tem pressionado com mais força o real. Por trás dessa alta, estão fatores globais e questões da economia b",
+      "image": "https://s2-g1.glbimg.com/RxLDgtYQbckWQtbWN2wyG2x9T9k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/K/H6WHdTQAmuF9LSPWXtqA/globo-canal-5-20261120-2000-frame-121492.jpeg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 7.03,
+      "relevance": 8.2
     },
     {
       "title": "Minuta de acordo na ONU não prevê regras obrigatórias para uso de 'robôs assassinos'",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/20/onu-regras-robos-assassinos.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-11-20T20:28:12.000Z",
       "summary": "Delegados participam da Conferência de Revisão dos Estados Partes da Convenção sobre Certas Armas Convencionais (CCAC), das Nações Unidas (ONU) Fabrice COFFRINI / AFP Uma minuta de acordo vista pela Reuters, durante encontro na ONU sobre ar",
       "image": "https://s2-g1.glbimg.com/FOIufGin3oHmICVR0uS-ggGdTAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/w/9g5LRtSliIKHSjOfbVRA/undefenceweaponry.jpg",
@@ -66,73 +93,47 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 8.35,
+      "score": 6.76,
       "relevance": 9.4
     },
     {
-      "title": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-20T18:47:51.000Z",
-      "summary": "Chips da Nvidia são usados ​​para criar e executar aplicações de IA Annegret Hilse/REUTERS Com uma queda que supera 7% nesta sexta-feira (20) na Nasdaq, as ações da fabricante de chips Nvidia encaminham a sétima semana consecutiva de perdas",
-      "image": "https://s2-g1.glbimg.com/i6hHWdNgJJrJkJrYgnYG_Ucb4Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/H5rl3AQ3ucdgHiYNEvEg/fotojet-7-.png",
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.66,
-      "relevance": 9.2
-    },
-    {
-      "title": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-brasil-filipinas.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-20T19:16:23.000Z",
-      "summary": "Trump diz que Filipinas vão trocar Brasil pelos EUA na agricultura O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferência de produtos agrícolas",
-      "image": "https://s2-g1.glbimg.com/R11sQID0hiQcey5cL3FdfY_kHIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/lY5rbeTQKylL3M7z01xQ/2026-11-20t185326z-869618565-rc2uroa3k99q-rtrmadp-3-usa-trump.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 7.47,
-      "relevance": 8.8
-    },
-    {
-      "title": "Tropas europeias de 11 países realizam exercício militar inédito na Polônia mirando pós-guerra na Ucrânia",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/tropas-europeias-de-11-paises-realizam-exercicio-militar-inedito-na-polonia-mirando-pos-guerra-na-ucrania.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-20T12:58:17.000Z",
-      "summary": "Rússia volta a bombardear a capital da Ucrânia Fora da OTAN, manobra liderada por França e Reino Unido mobiliza 2.800 militares para testar apoio à Ucrânia após eventual cessar-fogo. Milhares de tropas europeias estão participando de um exe",
-      "image": "https://s2-g1.glbimg.com/PzocottF0NaqT5bdUkIrQnwpNeM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/Q/gKlPYNQICN52A5sRskbQ/ap26323667319200.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 7.46,
-      "relevance": 11.2
-    },
-    {
-      "title": "Perigo global: conheça as armas nucleares mais poderosas de Estados Unidos, Rússia e China",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/perigo-global-conheca-as-armas-nucleares-mais-poderosas-de-estados-unidos-russia-e-china.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-20T08:00:00.000Z",
-      "summary": "China, EUA e Rússia se comprometem com reduzir riscos de uma guerra nuclear Os presidentes dos Estados Unidos, da Rússia e da China se reuniram nesta quinta-feira (19) para um encontro trilateral. Entre os temas discutidos estava a possibil",
-      "image": "https://s2-g1.glbimg.com/Uvuai41NkRBsqRUz95jPTwImOH8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/V/A2Qls3S5AzWl8bnR4aBg/2026-11-19t095323z-614148405-rc2wqoasb2ox-rtrmadp-3-apec-summit.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 7.15,
-      "relevance": 13
-    },
-    {
-      "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, HBO, Prime e mais",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT3dfYkVXY3BtOXFJNEpTOXpxdV9lMXpvVTUxamREaGdxeGlkRDhOZWRCTzZhRHhZaURXcVpRdmRiU2dtSXVGeGRXbmhXOWxQdnN2b21LOVFwR3doS3pzQWRSMjRWQnB5bmloekVRTk5jQTZ3OTQ2eE1FZHdhM25JRmR6QmItdVgteHRKR3dJV3pIWUl1TnpoeXI0cXhublEzSjRrbmJQYmFMYy1fTXpXeVNPYVk1Q3k0YTNjSXlCNFQ2ZGJwbXZ5bTllaGZvc3piMHNySWpGREtZdno5enc?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-20T20:33:11.000Z",
-      "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, HBO, Prime e mais Estadão",
+      "title": "Países europeus reagem após ataques da Rússia à Ucrânia matarem oito pessoas e atingirem embaixadas em Kiev",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/paises-europeus-reagem-apos-ataques-da-russia-a-ucrania-matarem-oito-pessoas-e-atingirem-embaixadas-em-kiev.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-21T00:47:47.000Z",
+      "summary": "França pede reunião do Conselho de Segurança da ONU Países europeus reagiram depois de ataques da Rússia à Ucrânia matarem oito pessoas e atingirem embaixadas. A França pediu uma reunião do Conselho de Segurança da ONU. 📱Favorite o g1 no G",
       "image": null,
       "topics": [
-        "cinema"
+        "geopolitica"
       ],
-      "score": 7.13,
+      "score": 6.63,
+      "relevance": 7.8
+    },
+    {
+      "title": "Número de empresas que usam inteligência artificial sobe para 19,6% em 2026",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTdORDJOaTVfeXFJaF9uZVJra25GN3Q0cUdCUUgzeDY4SENBcFA1RDM4aWFYQ2tkSzhnR3NhUkhEeVdBcG05V3BTMDh6U25sNHVpQ3JZRFFNeXNkN08waDN6cXZ0U3JicW1tVkFTUU9BMW02YlV2X18tZTNSM2Y1VkFpcFVJbFBHUEdxNFVVUHFwQk9fRDVLRWJJZUhVZVBtNndza2JmdXBfQ3NVU08xanVGZkxpY3pGdmFHVVg4QQ?oc=5",
+      "source": "SAPO",
+      "publishedAt": "2026-11-21T03:27:00.000Z",
+      "summary": "Número de empresas que usam inteligência artificial sobe para 19,6% em 2026 SAPO",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.59,
+      "relevance": 7
+    },
+    {
+      "title": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGtHN29FMFduTEZVN1JVR2J0MmRtNFVKM2ZjV1kzU2Rtd3pyN2pIRUd2VXNwbXpEOFgtSUhEdjNFZy1uLVI4S09NTmxNaXFISm1VaEhMb2FEeEV3alpEOVlfS3ZKZi1zSllna1p1MjJiMlRPQUtnNEZxS3lWRE1vaG4ycEJ4blFKcWxj0gGaAUFVX3lxTE1JbVhMdlFGelFNZUdSS3JadEJwX2tqNGJMNTFXWWQ1VzREN1JxemhzYmF0SHBaYjdoQ01NS3ZqQWJjazV3R0c4VkMyZGw2SnQ0S1BMSE12VFI4cVVhVHBWdWVkTTBHUWRoUUNJZThuWXRZb2lDbTFSOFdnaFpmNVZGbEs1clpLcVFkbWxVenozdlMxM0hIOFVXd1E?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-20T23:29:32.000Z",
+      "summary": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise G1",
+      "image": "https://s2-g1.glbimg.com/KcGYEVzmUBtKM_2wlS4Y0O4dU3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/lKx1ABRxGBmB5JVBUefA/2026-11-03t212644z-1474208164-rc2cgoa6cu4v-rtrmadp-3-paraguay-finance-1-.jpg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 6.47,
       "relevance": 8
     }
   ],
@@ -140,33 +141,60 @@
     {
       "title": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
       "link": "https://g1.globo.com/economia/noticia/2026/11/20/acoes-anthropic.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-20T22:34:15.000Z",
       "summary": "Placa da Anthropic , PBC (ANT) no One Times Square no dia em que a Anthropic realiza sua oferta pública inicial (IPO) na NASDAQ Market, em Nova York, EUA, em 19 de novembro de 2026 REUTERS/Shannon Stapleton As ações da Anthropic, criadora d",
       "image": "https://s2-g1.glbimg.com/-q0C26O08SToJ7HKLzSNAZNhj_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/NVfUm5SZq6i7kTRN7u4w/2026-11-19t164121z-1052802186-rc22roau8aoi-rtrmadp-3-usa-ipo-anthropic.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 9.25,
+      "score": 7.49,
       "relevance": 9.6
+    },
+    {
+      "title": "Embaixada brasileira na Ucrânia é atingida por destroços após ataques a Kiev, diz Itamaraty",
+      "link": "https://g1.globo.com/politica/noticia/2026/11/20/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataques-a-kiev-diz-itamaraty.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-21T00:37:07.000Z",
+      "summary": "Governo brasileiro divulga nota condenando ataques a Kiev, na Ucrânia O Ministério das Relações Exteriores (Itamaraty) informou nesta sexta-feira (20) que a embaixada brasileira na Ucrânia foi atingida por destroços após ataques da Rússia a",
+      "image": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 7.26,
+      "relevance": 8.6
     },
     {
       "title": "Trump elogia conversas com Putin e diz que há chance 'muito boa' de acordo sobre guerra na Ucrânia",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-putin-guerra-na-ucrania.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-11-20T20:31:09.000Z",
       "summary": "Donald Trump e Vladimir Putin. Kevin Lamarque/Reuters O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teve conversas \"muito boas\" com o líder russo, Vladimir Putin, sobre a guerra na Ucrânia e que vê boas c",
       "image": "https://s2-g1.glbimg.com/hYpsBEoB_mnrTJT1wXkJtEsKQbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/G/lvY87ISn2eBadSuXOVBA/2026-10-17t012836z-455791147-rc2r7gacnkd8-rtrmadp-3-usa-trump-sanctions.jpg",
       "topics": [
         "geopolitica"
       ],
-      "score": 8.9,
+      "score": 7.21,
       "relevance": 10
+    },
+    {
+      "title": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-21T01:01:51.000Z",
+      "summary": "Real está entre as moedas que mais perderam valor diante do dólar Nas últimas semanas, o movimento de alta do dólar em todo o planeta tem pressionado com mais força o real. Por trás dessa alta, estão fatores globais e questões da economia b",
+      "image": "https://s2-g1.glbimg.com/RxLDgtYQbckWQtbWN2wyG2x9T9k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/K/H6WHdTQAmuF9LSPWXtqA/globo-canal-5-20261120-2000-frame-121492.jpeg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 7.03,
+      "relevance": 8.2
     },
     {
       "title": "Minuta de acordo na ONU não prevê regras obrigatórias para uso de 'robôs assassinos'",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/20/onu-regras-robos-assassinos.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-11-20T20:28:12.000Z",
       "summary": "Delegados participam da Conferência de Revisão dos Estados Partes da Convenção sobre Certas Armas Convencionais (CCAC), das Nações Unidas (ONU) Fabrice COFFRINI / AFP Uma minuta de acordo vista pela Reuters, durante encontro na ONU sobre ar",
       "image": "https://s2-g1.glbimg.com/FOIufGin3oHmICVR0uS-ggGdTAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/w/9g5LRtSliIKHSjOfbVRA/undefenceweaponry.jpg",
@@ -174,21 +202,48 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 8.35,
+      "score": 6.76,
       "relevance": 9.4
     },
     {
-      "title": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-20T18:47:51.000Z",
-      "summary": "Chips da Nvidia são usados ​​para criar e executar aplicações de IA Annegret Hilse/REUTERS Com uma queda que supera 7% nesta sexta-feira (20) na Nasdaq, as ações da fabricante de chips Nvidia encaminham a sétima semana consecutiva de perdas",
-      "image": "https://s2-g1.glbimg.com/i6hHWdNgJJrJkJrYgnYG_Ucb4Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/H5rl3AQ3ucdgHiYNEvEg/fotojet-7-.png",
+      "title": "Países europeus reagem após ataques da Rússia à Ucrânia matarem oito pessoas e atingirem embaixadas em Kiev",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/paises-europeus-reagem-apos-ataques-da-russia-a-ucrania-matarem-oito-pessoas-e-atingirem-embaixadas-em-kiev.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-21T00:47:47.000Z",
+      "summary": "França pede reunião do Conselho de Segurança da ONU Países europeus reagiram depois de ataques da Rússia à Ucrânia matarem oito pessoas e atingirem embaixadas. A França pediu uma reunião do Conselho de Segurança da ONU. 📱Favorite o g1 no G",
+      "image": null,
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 6.63,
+      "relevance": 7.8
+    },
+    {
+      "title": "Número de empresas que usam inteligência artificial sobe para 19,6% em 2026",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTdORDJOaTVfeXFJaF9uZVJra25GN3Q0cUdCUUgzeDY4SENBcFA1RDM4aWFYQ2tkSzhnR3NhUkhEeVdBcG05V3BTMDh6U25sNHVpQ3JZRFFNeXNkN08waDN6cXZ0U3JicW1tVkFTUU9BMW02YlV2X18tZTNSM2Y1VkFpcFVJbFBHUEdxNFVVUHFwQk9fRDVLRWJJZUhVZVBtNndza2JmdXBfQ3NVU08xanVGZkxpY3pGdmFHVVg4QQ?oc=5",
+      "source": "SAPO",
+      "publishedAt": "2026-11-21T03:27:00.000Z",
+      "summary": "Número de empresas que usam inteligência artificial sobe para 19,6% em 2026 SAPO",
+      "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 7.66,
-      "relevance": 9.2
+      "score": 6.59,
+      "relevance": 7
+    },
+    {
+      "title": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGtHN29FMFduTEZVN1JVR2J0MmRtNFVKM2ZjV1kzU2Rtd3pyN2pIRUd2VXNwbXpEOFgtSUhEdjNFZy1uLVI4S09NTmxNaXFISm1VaEhMb2FEeEV3alpEOVlfS3ZKZi1zSllna1p1MjJiMlRPQUtnNEZxS3lWRE1vaG4ycEJ4blFKcWxj0gGaAUFVX3lxTE1JbVhMdlFGelFNZUdSS3JadEJwX2tqNGJMNTFXWWQ1VzREN1JxemhzYmF0SHBaYjdoQ01NS3ZqQWJjazV3R0c4VkMyZGw2SnQ0S1BMSE12VFI4cVVhVHBWdWVkTTBHUWRoUUNJZThuWXRZb2lDbTFSOFdnaFpmNVZGbEs1clpLcVFkbWxVenozdlMxM0hIOFVXd1E?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-20T23:29:32.000Z",
+      "summary": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise G1",
+      "image": "https://s2-g1.glbimg.com/KcGYEVzmUBtKM_2wlS4Y0O4dU3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/lKx1ABRxGBmB5JVBUefA/2026-11-03t212644z-1474208164-rc2cgoa6cu4v-rtrmadp-3-paraguay-finance-1-.jpg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 6.47,
+      "relevance": 8
     },
     {
       "title": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA",
@@ -201,8 +256,34 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 7.47,
-      "relevance": 8.8
+      "score": 6.32,
+      "relevance": 9.2
+    },
+    {
+      "title": "Novembro Azul: novo protocolo muda orientação para diagnóstico precoce do câncer de próstata",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/novembro-azul-novo-protocolo-muda-orientacao-para-diagnostico-precoce-do-cancer-de-prostata.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-21T01:26:36.000Z",
+      "summary": "Entidades médicas brasileiras lançam o primeiro protocolo padrão para prevenção de câncer de próstata O Novembro Azul é o mês de conscientização para a prevenção de câncer de próstata. A maioria dos homens só procura o médico quando começam",
+      "image": "https://s2-g1.glbimg.com/gN-3UKG8hnsWKv1CFHOdtusFOk0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/W/1IvPEBSliBqsavYAsnLQ/globo-canal-5-20261120-2000-frame-131552.jpeg",
+      "topics": [
+        "medicina"
+      ],
+      "score": 6.27,
+      "relevance": 7.2
+    },
+    {
+      "title": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
+      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/20/acoes-da-nvidia-tem-pior-sequencia-de-quedas-na-bolsa-desde-2008.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-20T18:47:51.000Z",
+      "summary": "Chips da Nvidia são usados ​​para criar e executar aplicações de IA Annegret Hilse/REUTERS Com uma queda que supera 7% nesta sexta-feira (20) na Nasdaq, as ações da fabricante de chips Nvidia encaminham a sétima semana consecutiva de perdas",
+      "image": "https://s2-g1.glbimg.com/i6hHWdNgJJrJkJrYgnYG_Ucb4Ho=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/i/H5rl3AQ3ucdgHiYNEvEg/fotojet-7-.png",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.21,
+      "relevance": 9.2
     },
     {
       "title": "Tropas europeias de 11 países realizam exercício militar inédito na Polônia mirando pós-guerra na Ucrânia",
@@ -214,8 +295,47 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 7.46,
+      "score": 6.04,
       "relevance": 11.2
+    },
+    {
+      "title": "EUA discutem entrada da Ucrânia na Otan em troca de cessão de territórios à Rússia, diz jornal",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbmR4VUJ3bC1rVHFQa185NVNtYlk2NUk3MEFtYVZ4ZW5UWjBKZWxoX1gxZnlla1pjaWJhWVJzTDAtYWhuSmJXSVY4dDh1RWJLZGdSU1hfejl2eWRieTdlc1B0RVowUmxhbXBDcnFkVXFkSG5wS2NYNklBbEM4U1ZyQnJuMS1fTkJhYnQyalppLUhVQmpsZEYzcm9Kb0JzWm5OMGxPSHdIZGlsSkVkNVZxdjZHLUxILVVQOHhsa2E0SVItNXI2XzVwcmhGbmk?oc=5",
+      "source": "Gazeta do Povo",
+      "publishedAt": "2026-11-21T00:35:00.000Z",
+      "summary": "EUA discutem entrada da Ucrânia na Otan em troca de cessão de territórios à Rússia, diz jornal Gazeta do Povo",
+      "image": null,
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 5.9,
+      "relevance": 7
+    },
+    {
+      "title": "Entrada gratuita no sítio arqueológico de Con Son - Kiet Bac, Patrimônio Mundial da UNESCO, no Dia da Cultura Vietnamita.",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTlfVHF4c2xoZDY2eTZWNDdVMnhxdFRpNmRXLVlESEdnWEFZS05Da3dtZjM4MUpvZUZQd3JiVC13T2V4bmFXQklMOFk5Mjh0X0Fpc01IZ2JmMm54ZW1QTGpyTUl1WkFhZ1ZXQUpoV2FLd2xQVjZBQURPWnlkZF90N2dVRi1sOTFPUFRGQldtX3JZSFQ4eTRGbHB6Rk5SXzIzckxTbkhnVQ?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-21T04:20:49.000Z",
+      "summary": "Entrada gratuita no sítio arqueológico de Con Son - Kiet Bac, Patrimônio Mundial da UNESCO, no Dia da Cultura Vietnamita. Vietnam.vn",
+      "image": null,
+      "topics": [
+        "historia"
+      ],
+      "score": 5.85,
+      "relevance": 6
+    },
+    {
+      "title": "Quem responde pelos dados da empresa quando cada departamento escolhe sua própria Inteligência Artificial?",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOU02Y1Y0Szg1bEJQUmZGQ2U5QzlweWVrMkF4SzQxay1FaGJLMElNSGVtZ0NCZVl5RElBSXNPMWFpWnZlTmxvaDI4QWx0RV9PNEF4N3FFZkZxUHRGTklyWExKLVFTRjE5clJIQ1h6c2g2QW52ZEFjWWUwRE5EcDhsaUcxc2Z1aU52WlluRzR1STRnSURnUC1PemZfOUxxMGVmWEdDSU9KVmx4NFd0eEVPYTVubVhJTTNNYmJWLUVvNUFmTXgzVkVaYXZQVVI1NjFGSWplNFdTSlZFWl9lNGc?oc=5",
+      "source": "Foco Cidade",
+      "publishedAt": "2026-11-21T00:12:47.000Z",
+      "summary": "Quem responde pelos dados da empresa quando cada departamento escolhe sua própria Inteligência Artificial? Foco Cidade",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.82,
+      "relevance": 7
     },
     {
       "title": "Perigo global: conheça as armas nucleares mais poderosas de Estados Unidos, Rússia e China",
@@ -227,7 +347,7 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 7.15,
+      "score": 5.79,
       "relevance": 13
     },
     {
@@ -240,7 +360,7 @@
       "topics": [
         "cinema"
       ],
-      "score": 7.13,
+      "score": 5.77,
       "relevance": 8
     },
     {
@@ -253,8 +373,21 @@
       "topics": [
         "geopolitica"
       ],
-      "score": 7.07,
+      "score": 5.72,
       "relevance": 8
+    },
+    {
+      "title": "Investir em tecnologia cria impulso para o desenvolvimento de empresas de engenharia mecânica.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ3lUWVJNdV95elVDSEpwQmV3NnlVLXBmcGhXLUllaGFmeXE5YUxVLVJab084VTB0Uk9iVmV5TERPSU1mX3l5bGhieWpGQjJrX2duUEZFMExKN3pXVzEzeU40MG0tRUxWTUFZZDVPNEJMMGhOV25XT05kVWlhZ3BuWU9TM2trcHBHSHVqZA?oc=5",
+      "source": "Vietnam.vn",
+      "publishedAt": "2026-11-21T03:28:30.000Z",
+      "summary": "Investir em tecnologia cria impulso para o desenvolvimento de empresas de engenharia mecânica. Vietnam.vn",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.65,
+      "relevance": 6
     },
     {
       "title": "Trump elogia reunião com Putin e Xi Jinping e diz que tem \"ótima\" relação com os líderes",
@@ -267,12 +400,25 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 6.86,
+      "score": 5.55,
       "relevance": 8.6
     },
     {
+      "title": "Míssil russo atinge Polônia durante ofensiva contra Ucrânia e provoca reação da Otan",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdjQ0MUxsUDFYQk11TVJIaFN5SVJmT2R6SFN5cXhoVGdqZlVoVXpRWFFxcVN6ejRzTmxFUWxIbHQwU2xWQ0lGYkxsWDdid1NIMGdTdlNsSHN6YVhyS0l3SnRXX09fWHNlY3o0LUtteWZVaTQ4MjZLdDFqQ1hwaElTZUZWeTRyYkVHR19UWERSYWhoS2RtaWxISDRuX1IxUng1UW5pdjU5czZpSHFQaFFJenY4cUdic0U?oc=5",
+      "source": "Vero Notícias",
+      "publishedAt": "2026-11-21T02:30:00.000Z",
+      "summary": "Míssil russo atinge Polônia durante ofensiva contra Ucrânia e provoca reação da Otan Vero Notícias",
+      "image": null,
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 5.44,
+      "relevance": 6
+    },
+    {
       "title": "Fintech Visucio aposta em Open Finance e inteligência artificial para transformar a educação financeira nas empresas",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWNqTWZmNW5TTHFsVmN0QVRROVA2VzUwdjN1SkJOSnBKb1ByNkRCYlFtc1BLNjdGdHlxTk1hTDh4QzhyQkZvWmJHR2drZlJaYzdzVjNFZFB5NDNOZVdVbFRETHZnMW1jMTlzQlZidDRfcW9YRUlPUFpXbEhvWTdTZEZyOVU0c2pvZ1JrWE80aTBTU2trVDduOUpSNjdBSXNzeFVjQ3Vn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdmlwajJDeUhtLUZBU21xRzJPRUpMd1UyZ3FvdGJSbl9zWmRmZmduVEVzV2JjQXFGYUxNekJKTXRDdmxPaVNSdHhkT2dOZmR6Z2lhUDRTUEJSdm1POWhTWFZOWUoxcU9yajlkOW1kMVN2dVFWTTZJN3NFOVlJSkpMakxtYUJTdEUyaGlUWFpLdUNfWjlGVlp6WjdIR203blJwZ3c?oc=5",
       "source": "Paraná Portal",
       "publishedAt": "2026-11-20T18:56:56.000Z",
       "summary": "Fintech Visucio aposta em Open Finance e inteligência artificial para transformar a educação financeira nas empresas Paraná Portal",
@@ -280,7 +426,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.7,
+      "score": 5.43,
       "relevance": 8
     },
     {
@@ -293,7 +439,7 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.66,
+      "score": 5.39,
       "relevance": 7
     },
     {
@@ -306,8 +452,21 @@
       "topics": [
         "cinema"
       ],
-      "score": 6.58,
+      "score": 5.33,
       "relevance": 8
+    },
+    {
+      "title": "Chanceler iraniano diz que Irã quer diplomacia para encerrar a guerra",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWFZoMXFZNUpnWENHaS1nWlNqZHlGZHFwOS1qc2pudjAzZ0RfbjNCTWh1dzdIVGk3cDdQVjBDNk1BYTNEMkl2YVdOZFJyVDNhT0VsekVBWTV6OUpzWWhtZTlQSU5rRnB1dXZNYUtESFhJQTQyTG4zY0xDLWQtQ3NTdHFPbVV4a2l6b0p4NVRPRHB4aTRYbElyN204Tk9XT3FIeGRLXzA2TW9qRGJJNWxzUjNn?oc=5",
+      "source": "ContilNet",
+      "publishedAt": "2026-11-21T01:19:00.000Z",
+      "summary": "Chanceler iraniano diz que Irã quer diplomacia para encerrar a guerra ContilNet",
+      "image": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/Reuters_Direct_Media/BrazilOnlineReportWorldNews/tagreuters.com2026binary_LYNXMPEM2A1GN-BASEIMAGE.jpg?w=200",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 5.2,
+      "relevance": 6
     },
     {
       "title": "'Robôs assassinos' já são usados em guerras, mas países não chegam a acordo sobre limites na ONU",
@@ -320,7 +479,7 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 6.37,
+      "score": 5.16,
       "relevance": 9.2
     },
     {
@@ -333,8 +492,21 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.3,
+      "score": 5.1,
       "relevance": 7
+    },
+    {
+      "title": "Receita do atual governo para destruir a economia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45ektsaElaVG53c3U3WjQ0bm1hd1hSdHRONlZkai1scnplWFVYTkVxcHVYanhOdkd3NklvRllkZFhiei1KTEVFSEp5djBMWVhBVjBXbXFjWUZVSmp1YTBBNEdnOFp0UnZtZmNrdzNkSHlLN3FtUS1TYWln?oc=5",
+      "source": "Acia Araçatuba",
+      "publishedAt": "2026-11-21T00:36:09.000Z",
+      "summary": "Receita do atual governo para destruir a economia Acia Araçatuba",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.06,
+      "relevance": 6
     },
     {
       "title": "Missão à Índia busca tecnologias em biocombustíveis e novos mercados para a indústria de Mato Grosso",
@@ -346,8 +518,21 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.25,
+      "score": 5.06,
       "relevance": 7
+    },
+    {
+      "title": "Quase 100 milhões de brasileiros começam a receber o 13º salário; benefício deve movimentar R$ 400 bilhões na economia",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/quase-100-milhoes-de-brasileiros-comecam-a-receber-o-13o-salario-beneficio-deve-movimentar-r-400-bilhoes-na-economia.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-21T01:16:11.000Z",
+      "summary": "100 milhões de brasileiros começaram a receber o 13º salário Cem milhões de brasileiros já começaram a receber a primeira parcela do décimo-terceiro. A prioridade de muita gente é quitar dívidas em atraso. Mas, o dinheiro também vai aquecer",
+      "image": "https://s2-g1.glbimg.com/rvpvSFfRv5rDW2kNBPKzFrC8YSg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/3/D/bAqVaLS0mwHAFlsSQa1Q/globo-canal-5-20261120-2000-frame-126643.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.02,
+      "relevance": 5.8
     },
     {
       "title": "Mercado vê chance de manutenção dos juros pelo Fed em dezembro",
@@ -359,7 +544,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.16,
+      "score": 4.98,
       "relevance": 6.4
     },
     {
@@ -372,7 +557,7 @@
       "topics": [
         "negocios"
       ],
-      "score": 6.15,
+      "score": 4.98,
       "relevance": 6.4
     },
     {
@@ -386,36 +571,49 @@
         "negocios",
         "geopolitica"
       ],
-      "score": 6.12,
+      "score": 4.95,
       "relevance": 6.2
     },
     {
       "title": "Reino Unido e União Europeia firmam acordo e tentam reconstruir laços após Brexit",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/20/reino-unido-ue-acordo-brexit.ghtml",
-      "source": "G1",
+      "source": "G1 Mundo",
       "publishedAt": "2026-11-20T20:41:49.000Z",
       "summary": "Reino Unido fecha acordo de cooperação com a União Europeia O Reino Unido e a União Europeia (UE) concordaram nesta sexta-feira (20) em remover barreiras comerciais e ampliar as oportunidades de viagem para jovens. Com o acordo, as lideranç",
       "image": "https://s2-g1.glbimg.com/rSTMShStcmigpmfy7L5PyQDJkGw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/8/LOQsOdQ0yTGRnhSRJLBg/ap26324361853975.jpg",
       "topics": [
-        "negocios",
-        "geopolitica"
+        "geopolitica",
+        "negocios"
       ],
-      "score": 6.09,
+      "score": 4.93,
       "relevance": 6.8
     },
     {
       "title": "'Cobiçadas' por Trump, Filipinas lideram compra de carne suína do Brasil, mas são 22º destino das exportações do agro",
       "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/cobicadas-por-trump-filipinas-lideram-compra-de-carne-suina-do-brasil-mas-sao-22o-destino-das-exportacoes-do-agro.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-20T21:05:49.000Z",
       "summary": "Filipinas lideram compra de carne suína, mas são 22º destino das exportações do agro O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teria firmado um acordo com as Filipinas para assegurar a preferência de ",
       "image": "https://s2-g1.glbimg.com/DhnceYR-7SvVVOaVJtVVRvNLVkE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/I/8/wDhdH0SUa78BARkv9A2w/2019-09-23t131016z-1-lynxmpef8m12t-rtroptp-4-china-economy-trade-pork.jpg",
       "topics": [
-        "geopolitica",
-        "negocios"
+        "negocios",
+        "geopolitica"
       ],
-      "score": 6.01,
+      "score": 4.86,
       "relevance": 6.6
+    },
+    {
+      "title": "Kleber Mendonça Filho, Tilda Swinton, Mark Ruffalo e diversos nomes do cinema mundial assinam uma carta em defesa ao cinesta Jafar Panahi! - Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYXoycFp6MFF2NFQ2ZlhVQVljN2NjTUl5aTBFbFhtMmlzYndRcTJadURGeTNYLUg5Tjg3akkxbkFrWjJZNzliMXBMQW5Ddml2OWRvU0NEZEF6dGFMdWhBQmRsaDllTUlPWWNRWEpLbVlwNnF1SE8xU2VfUHdpMVpZM2dzblZvX1BZNDVpM3FqT1pVQk9TbEYyOFdaWlVzNVZUR1M3MU9sN0RsTEZXVllEY3lWUXgzUG16VG5GNnBQMU82U0NKSnY2NGY5Tkt1UnFlbWNUYVU1QmRHNzdmSF82Q3d4QURqRlZOSnF6UGhMeF9SajlnSDNVcElnNF9UV1U0N2FUYldtczhCRlZ5cGVmMHl4Uy1WM3Fzb0NzZXFkWTF4S1BZ?oc=5",
+      "source": "Candidatos, Indicados e Vencedores",
+      "publishedAt": "2026-11-21T03:50:17.000Z",
+      "summary": "Kleber Mendonça Filho, Tilda Swinton, Mark Ruffalo e diversos nomes do cinema mundial assinam uma carta em defesa ao cinesta Jafar Panahi! Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022 - Candidatos, Indicados e Vencedores",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 4.78,
+      "relevance": 5
     },
     {
       "title": "Vingadores: Doutor Destino | Filme pode fazer US$ 424 milhões de bilheteria doméstica na estreia",
@@ -427,21 +625,34 @@
       "topics": [
         "cinema"
       ],
-      "score": 5.75,
+      "score": 4.66,
       "relevance": 6
     },
     {
-      "title": "Quem responde pelos dados da empresa quando cada departamento escolhe sua própria Inteligência Artificial?",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOU02Y1Y0Szg1bEJQUmZGQ2U5QzlweWVrMkF4SzQxay1FaGJLMElNSGVtZ0NCZVl5RElBSXNPMWFpWnZlTmxvaDI4QWx0RV9PNEF4N3FFZkZxUHRGTklyWExKLVFTRjE5clJIQ1h6c2g2QW52ZEFjWWUwRE5EcDhsaUcxc2Z1aU52WlluRzR1STRnSURnUC1PemZfOUxxMGVmWEdDSU9KVmx4NFd0eEVPYTVubVhJTTNNYmJWLUVvNUFmTXgzVkVaYXZQVVI1NjFGSWplNFdTSlZFWl9lNGc?oc=5",
-      "source": "Foco Cidade",
-      "publishedAt": "2026-11-20T18:12:47.000Z",
-      "summary": "Quem responde pelos dados da empresa quando cada departamento escolhe sua própria Inteligência Artificial? Foco Cidade",
+      "title": "Trump diz que Putin quer paz, mas mísseis russos elevam tensão com a Otan",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCempFVElUUXdWU0dQVE1QMU9EdW9DX0psSGRGLWxUQThjVFVHQVMzVTRSeHlyM09xYnZCMkdhX0RJZDF3Z0hNVEw3c1RYaTJCMURPU0xvS01BNHUwZ3ZkV1BoRlYyNEwxSFpuUUtLaWJFdw?oc=5",
+      "source": "IstoÉ",
+      "publishedAt": "2026-11-20T22:25:00.000Z",
+      "summary": "Trump diz que Putin quer paz, mas mísseis russos elevam tensão com a Otan IstoÉ",
+      "image": null,
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 4.65,
+      "relevance": 6
+    },
+    {
+      "title": "13º salário deve injetar R$ 399,1 bilhões na economia brasileira em 2026, projeta Dieese",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU1NFV0lpbkxxY0ZqUVdGbE1UdTZ5U1NKSWwxZ1h5S3I3V2NDaVJRWjN2anZoVUNuOE04N0MzRkh2akRjVVJjcjU2Y1VqWDN3ZExqbEEwOFhfdGxMZ0FzSnFJZE5fTzNwUVdMV2VNdnV4ZEpTMmxnMms3X2kwelV3TUFjOFZuUFR1NUVIcnBINElDU0JKcElBektRQUFFRTNFRTRXUGNjb0wzRjgxYXJwYXgwZkM?oc=5",
+      "source": "Grafitti News",
+      "publishedAt": "2026-11-21T03:03:00.000Z",
+      "summary": "13º salário deve injetar R$ 399,1 bilhões na economia brasileira em 2026, projeta Dieese Grafitti News",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.7,
-      "relevance": 7
+      "score": 4.63,
+      "relevance": 5
     },
     {
       "title": "Uma empresa de inteligência artificial acaba de atingir um valor histórico e pode mudar as regras de Wall Street",
@@ -453,223 +664,25 @@
       "topics": [
         "negocios"
       ],
-      "score": 5.68,
+      "score": 4.6,
       "relevance": 9
-    },
-    {
-      "title": "Ações despencam nas Bolsas com temor de fim da bolha de IA",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWtIakprMHRveUY0LTJqY3Y3WXJPZ0U5Y2pRZElHTTlCTm03Tk5BNldoaHJMbXQwcUp1c3REb2RwckZYdmNmZXB3WlNESklZYjdNcG10SENXa1BIT1F3ekZvRTY0Wi13Ymt1eEJic1FEalNlTjhvMGlJTXpldHJocC1pUEVHWVVqOXVFSVd3b1lHTG15aUE?oc=5",
-      "source": "Monitor Mercantil",
-      "publishedAt": "2026-11-20T21:33:17.000Z",
-      "summary": "Ações despencam nas Bolsas com temor de fim da bolha de IA Monitor Mercantil",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.56,
-      "relevance": 6
-    },
-    {
-      "title": "Impasse sobre guerra e gastos militares ameaça paralisar governo dos EUA",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/impasse-sobre-guerra-e-gastos-militares-ameaca-paralisar-governo-dos-eua.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-20T13:34:36.000Z",
-      "summary": "O governo dos Estados Unidos corre o risco de paralisar parte de suas atividades antes do Natal, caso republicanos e democratas não cheguem a um acordo sobre o financiamento de órgãos federais. O impasse envolve divergências sobre a guerra ",
-      "image": "https://s2-g1.glbimg.com/Lv-3U8URt_n76OGl2GcYiTITh0A=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/I/q/XP2iyWRFemZ3yBhHnowA/afp-20250930-77ax7hx-v2-midres-deadlineforcongresstoadoptbudgetandavoidshutdown.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 5.45,
-      "relevance": 8
-    },
-    {
-      "title": "Nem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia?",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUp6aVRIck9WM0t5VjZERk0wNnVQZVU2UzFBZXVWSFBZdVVNY1JQQ3FzbXEwVk8wcXZsUXFSQUV5bGczX2Y0N2hsdmg1TnVFWjZvejN3RW81N2R0NlFSczJMZVpjSTBEUmY5Skd6c1BwU2VzS3ZkMWx5X216bHpTcFpVVnBkVWRrZjRwOUdJeENmY0duR20yazNnUmpSTjJQTGJ1ZjVtMXJVVzZEWFUxaVlGeEx6UEpxdWdYM0QyVXNYZ1hLUGFz0gHMAUFVX3lxTE9GNWozOWFFTGNKM2JnQWFETFlDNVNmbXB4WmZjSEdZbjYySjVJcHpiWTBOelJuSXZCZWV6em9OVXhZOUp4S1BxVU9OY2xIYjM5b0xPbjVsUExMaWw1M0h2YkotSTExNTFzMkhYOUt6dGJSMmF4UDktTHlLemZTRlBfaW1Kak1JUzNQek85cFBDVFR6OUl0TUljeWVpcmotYWJZeVBoZ1UzdGNIVEhqS0NtQ2NoVnlpRXIwVFVHcGctU21EQkdOeGxxVjhLNg?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-20T20:52:24.000Z",
-      "summary": "Nem US$ 1 bilhão do BC conteve a alta do dólar; o que isso revela sobre a economia? Estadão",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.41,
-      "relevance": 6
-    },
-    {
-      "title": "Estudante de arqueologia encontra corrente de ouro romana de quase 2 mil anos no primeiro dia de escavação durante treinamento",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVNzQXdBeHduaVRmdUpVTjcyaG80T2pLVEpaQUZuTjE1OHNzdmpUMmFOWHNSdmFpRlhqa1VLV3Y0Y1NaZUVFLWpRLXgyNF9YY0h5Z01MOWdFYUJSMXl6M0NqSUVYX013Mm5rTkE5Y1VKaEtiYWFjWExwTUZ1bV9lalRpMXNnX2lSbUs0NTFKVWVjTUxjUEcxekFtQnlJU3lXeTgwdno0SHd4aVY4aFRLaHBwRUV2UVVGWUJv?oc=5",
-      "source": "Diário do Litoral",
-      "publishedAt": "2026-11-20T20:51:00.000Z",
-      "summary": "Estudante de arqueologia encontra corrente de ouro romana de quase 2 mil anos no primeiro dia de escavação durante treinamento Diário do Litoral",
-      "image": null,
-      "topics": [
-        "historia"
-      ],
-      "score": 5.41,
-      "relevance": 6
-    },
-    {
-      "title": "Homem gritou de dor em execução que durou uma hora no Texas, nos Estados Unidos",
-      "link": "https://www.bbc.com/portuguese/articles/c84gn75r49eno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Brasil",
-      "publishedAt": "2026-11-20T16:47:33.000Z",
-      "summary": "Caso vem à tona semanas depois de Christa Pike, de 50 anos, sobreviver a duas inejções letais no Tennessee, em setembro. Uso de pentobarbital, proibido a nível federal nos EUA, ainda é utilizado em alguns estados do país",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19f8/live/7c960b40-e4ce-11f1-8ebd-0fa6091698b5.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.4,
-      "relevance": 7
-    },
-    {
-      "title": "Maior economia do Nordeste, Fortaleza busca sustentar crescimento e atrair novos investimentos",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDB5QWQ3MjE4NURDQS03NzdPS1g2VnBPczhQX0hPcEZHSm1mN1NfMUxSOGxSSE5XcC05eklTSW1sWHhYMTFTUDVDWUI1WVoyVldxZGFubzNsNDFrbmZCLUgwcUpRYjZrdHBLb3JIcFE3R0ZLMGEtZnQtTE5oblBlRzRlVDFOMDRwakZTT2NyOHVyM0RIaGg1WkpMYjU3Wnlyb01ZUDhjc0RhZDh1MVh1QXZzQkZnSUJvNkpNZA?oc=5",
-      "source": "Conexão 085",
-      "publishedAt": "2026-11-20T16:01:58.000Z",
-      "summary": "Maior economia do Nordeste, Fortaleza busca sustentar crescimento e atrair novos investimentos Conexão 085",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.24,
-      "relevance": 7
-    },
-    {
-      "title": "Festival de cinema reúne 70 filmes com sessões gratuitas em Goiânia",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQkkzczkxN1dZcVBiVkxURUF3ZFFoYnBHRW1ZdE1JcG90QnVNUDdQcEZiLUlSWnhDTEQ5bFRpX3YtV3J0SmtSclNBbkN4NmpEU1dMS3RLWTFYWkhkNlZoNWF0eDVxX1ByVFZYQ2N6T2Y2eWlpZUk4MF8xQVJ2alFhQ2lmOV9wdnNGcnRIbnJEdGduanBObVdKR3NfQlROZzg5cGxEb0N3YktWeWlaa1BNbVBNNVNMZ1hiUUlYdkJEUWFwOHh0cXZCSGxmaHl6T01fOFHSAeABQVVfeXFMTlhMQWJ2aTBMRjd3VFd5MXY1aDk2QjQtSkpEcEdTYmg4S0NqSjZGMU9rbVZGbXJmNmdPanlVamlGRGVBaVBqRW1fZldGQk1ZZWdHangwVEp2VUd3dFAzMWh3Nng4eTZqdzZSUmNmNjB3d1ZnRlhPYXRxSk9xVm1mMDNuVGxueGtxREVyS0ZaOU0xSnh3TkxiOXA2TWFlaXlzZV9BRkVLX1NGRWxnazN0ZU94WEdycWpwRkxYVE1KdGRLMnp3TWQwTGtQak83djFHaWZkV3ozZFVPcWZTX015SGk?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-20T12:29:03.000Z",
-      "summary": "Festival de cinema reúne 70 filmes com sessões gratuitas em Goiânia G1",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.23,
-      "relevance": 8
-    },
-    {
-      "title": "Festival Recanto do Cinema chega à 5ª edição com filmes de todo o Brasil e intercâmbio com o México",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcng2UzNwOUxGU0I4cnE4UXlmanczREJWb0lvU2NpcHdrUFNEVEZlTWFBMVA3UkVtdDZYSnRKLU5TM1BCbDVBb3luM21kX0N5UmVBY1FnWXBZVk5neFVmUXpta2pRa3BnUTJGV3Y0TWtrTE0yX05kU0lhZGVpUk5hNDdTcHhjX080RTBDYXVOdDc0c0NYM3liOUI4YkNHX1VaV2hIV0FJRjNSeENqZlpuV2ZjZ3FKYjJFMFhTcjg4eTNNVnhWTGRJc2xpbkJtVjIxRXlB?oc=5",
-      "source": "Visite Brasília",
-      "publishedAt": "2026-11-20T19:38:34.000Z",
-      "summary": "Festival Recanto do Cinema chega à 5ª edição com filmes de todo o Brasil e intercâmbio com o México Visite Brasília",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.16,
-      "relevance": 6
-    },
-    {
-      "title": "Abaixo-assinado pede o CANCELAMENTO de série da Netflix sobre ritual satânico por ser \"blasfema\" e \"anticristã\"",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWjdIOTdvVFNaRGluNVo3QmZvOVRsZFNWc2VLN3Q2Si00TFRSczhfYjkzN29UNkFIV0xoOE92cXZma3lKRy1HcWZteUZyNkZWdkkyT3hITVJmUnpwNzVJS2tDWm5EYmw0dk5MSWdQMGlhWjYyWmV2TWMyQnYzNkxPRkllQnlRbDV4aEdZak9Qek5XSTJ3Zk80eWZuNFlJMFB0cWhfZkJuS0Z1UUFnaVd0X2NCWkpVZjRHU2hHM0cxVnJaR2Q4SGRDMllfZ3NzaVVLeHRlaA?oc=5",
-      "source": "CinePOP Cinema",
-      "publishedAt": "2026-11-20T22:17:34.000Z",
-      "summary": "Abaixo-assinado pede o CANCELAMENTO de série da Netflix sobre ritual satânico por ser \"blasfema\" e \"anticristã\" CinePOP Cinema",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.15,
-      "relevance": 5.4
-    },
-    {
-      "title": "Cela Lopes estreia em Hollywood em filme protagonizado por Bailee Madison",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcVdWVGFQNldLWTh4bjVsa0JockJRZjFDRHdwdVhOY2RVRDhIY1BXRG93cHNWdlNtV21YeXpNQ1UyNEdPcTAyRjZpckhrR1VlRXpxSF9iWnc2b0VkYjJzNlotYlpEempkMEsxWVBJaVBONUFZVVZEdVRHMXI2MEdwTjRDMFB4RG5ZaDNPTnlURzNpcmZLTVh4QlJCdXE0MHp6ZnNhWUFiNUZBZjBXd1hNd3l1NlR5M0VsSXJqWFp1VEE?oc=5",
-      "source": "Metrópoles",
-      "publishedAt": "2026-11-20T19:29:00.000Z",
-      "summary": "Cela Lopes estreia em Hollywood em filme protagonizado por Bailee Madison Metrópoles",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.13,
-      "relevance": 6
-    },
-    {
-      "title": "Esqueça os clichês neste Dia da Consciência Negra: 5 novos filmes e séries nacionais para ver no streaming e no cinema",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5M1ZwQVJjMGpnRkNzaF9rYjJvSlVPWGZVYmlHZ1ZRamgxVGtTaEtiVW8yRjBUVE8tdWtvXzVBVUt2NWQ4WUl1Y2VTRnllUkJ1SGxzX00wa1pQRGVJby1mSEpTakM4QzFJYW9IV0RoQzbSAXZBVV95cUxNNUk0Z0hGR0VkNjcyb00takNoOENib3BJRkFwNzFrQ0E3NW1oNXhXVkdqYkpsTUJGMEpsakVLZk5EUnNyRlRKNVZXYjFDUUtDdUllYXVUQjdRTWhaS3VneElKSDVKWk1rWHM0YU5tOVNOMnpzNUtR?oc=5",
-      "source": "AdoroCinema",
-      "publishedAt": "2026-11-20T12:00:00.000Z",
-      "summary": "Esqueça os clichês neste Dia da Consciência Negra: 5 novos filmes e séries nacionais para ver no streaming e no cinema AdoroCinema",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.13,
-      "relevance": 8
-    },
-    {
-      "title": "'Tipo Irmãs': Animação focada nas MEIAS-IRMÃS da Cinderela estreia no streaming e ganha clipe super fofo",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNODdVcjZUdEw3YWoxYXYtZXhuczZVSDZBc1RRUlJDV3JnSVRLVXNrTWM0LWplQU5IQXJMaEE5TWZXSGpYamZsZFMyaU1PWkVuS2d6cE8xNEVmOU02ZGFWSkJQaWprMVh4UmVrcEgwQWt6S2hBdnE3R0hPLUhNa0V3YklTeUdZQk9FSkdXdnBxYjhZZG9ZbVUwcXltT2h4RWN0SXNHSGs5blliY1AtbVVPTzVBRGN6LTZwX0JpRzU0NjkteHVqZHMxTGdiZTg?oc=5",
-      "source": "CinePOP Cinema",
-      "publishedAt": "2026-11-20T17:39:18.000Z",
-      "summary": "'Tipo Irmãs': Animação focada nas MEIAS-IRMÃS da Cinderela estreia no streaming e ganha clipe super fofo CinePOP Cinema",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.1,
-      "relevance": 6.4
-    },
-    {
-      "title": "6ª temporada da série bíblica 'The Chosen' ganha data de estreia na Netflix",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQY0pBOC1majFaVjBEV1NzeVAyVnJrMFNyUnlKbnJnd3pPMjh6RDNMNTM5dU8tcVlRSGotLUpDM3RvaENDVmN3YzdFUW5TWFVITm1MZGIyWTVOT25NLU5YVmsycHZocWlTaHNCaGxNVllSWWJhN2dUUjlRY1UtVWl0eDE5Tmx6a1JWaldURUIxaExiWnYyeWV3VjYzbjFQSUM3YmxDNGFsRHNleU15VlF2YjcxdUlrcTlMRlVQTmdrb3N4bFY5U3NuX3IyS0p2bnJtVXhtX3c3UFFCNHg5N0I2aHRYUzFydlE?oc=5",
-      "source": "Terra",
-      "publishedAt": "2026-11-20T19:17:00.000Z",
-      "summary": "6ª temporada da série bíblica 'The Chosen' ganha data de estreia na Netflix Terra",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.09,
-      "relevance": 6
-    },
-    {
-      "title": "ESTADÃO + CASA DO SABER | Não é preciso saber exatamente o que vai acontecer com a economia, a política ou os mercados para tomar boas decisões de investimento. Para Felipe Miranda, fundador da Empiricus, a forma de atravessar períodos de mai",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3dDhfSjVGaFY0dlZxOXhMRTg5MHJuQVFaaFJTUDdTUk1oQjJicjBzWEk2RFpwX0lOWlM3QkVUMVZ6Z00wcm9WUGpFTVM5aUljMVE?oc=5",
-      "source": "Instagram",
-      "publishedAt": "2026-11-20T15:14:53.000Z",
-      "summary": "ESTADÃO + CASA DO SABER | Não é preciso saber exatamente o que vai acontecer com a economia, a política ou os mercados para tomar boas decisões de investimento. Para Felipe Miranda, fundador da Empiricus, a forma de atravessar períodos de m",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.09,
-      "relevance": 7
-    },
-    {
-      "title": "Praga mortal que ameaça gado avança nos EUA, e moscas estéreis viram aposta contra parasita",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/20/praga-mortal-que-ameaca-gado-avanca-nos-eua-e-moscas-estereis-viram-aposta-contra-parasita.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-20T18:14:28.000Z",
-      "summary": "Imagem de uma mosca-da-bicheira (Cochliomyia hominivorax). Departamento de Agricultura dos EUA. Os surtos da mosca-da-bicheira do Novo Mundo nos Estados Unidos aumentaram devido ao clima úmido e quente no sudoeste do país, segundo o Departa",
-      "image": "https://s2-g1.glbimg.com/4e2AmdKky2dO3q30elWb17e8ofs=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/p/QBUTxAQBWZyBWz5Tt1lw/mosca-da-bicheira.png",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 4.89,
-      "relevance": 6
-    },
-    {
-      "title": "'Mosca-da-bicheira': parasita que devora animais vivos avança pelos EUA e alerta pecuaristas",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/20/mosca-da-bicheira-parasita-que-devora-animais-vivos-avanca-pelos-eua-e-alerta-pecuaristas.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-20T19:58:52.000Z",
-      "summary": "Duas moscas-da-bicheira do Novo Mundo no Laboratório de Pesquisa de Insetos Pecuários Knipling-Bushland, em Kerrville, Texas, EUA. REUTERS/Kaylee Greenlee Os surtos nos Estados Unidos (EUA) da chamada mosca-da-bicheira do Novo Mundo aumenta",
-      "image": "https://s2-g1.glbimg.com/Yvel2_WUVSUKRMwaWJGnyycun1c=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/t/M/cq7XZZRiWKytNJV48qBA/2026-11-20t174901z-1-lynxnpemaj1n9-rtroptp-4-usa-screwworm.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 4.88,
-      "relevance": 5.6
     }
   ],
   "byTopic": {
     "historia": [
+      {
+        "title": "Entrada gratuita no sítio arqueológico de Con Son - Kiet Bac, Patrimônio Mundial da UNESCO, no Dia da Cultura Vietnamita.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObTlfVHF4c2xoZDY2eTZWNDdVMnhxdFRpNmRXLVlESEdnWEFZS05Da3dtZjM4MUpvZUZQd3JiVC13T2V4bmFXQklMOFk5Mjh0X0Fpc01IZ2JmMm54ZW1QTGpyTUl1WkFhZ1ZXQUpoV2FLd2xQVjZBQURPWnlkZF90N2dVRi1sOTFPUFRGQldtX3JZSFQ4eTRGbHB6Rk5SXzIzckxTbkhnVQ?oc=5",
+        "source": "Vietnam.vn",
+        "publishedAt": "2026-11-21T04:20:49.000Z",
+        "summary": "Entrada gratuita no sítio arqueológico de Con Son - Kiet Bac, Patrimônio Mundial da UNESCO, no Dia da Cultura Vietnamita. Vietnam.vn",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 5.85,
+        "relevance": 6
+      },
       {
         "title": "Estudante de arqueologia encontra corrente de ouro romana de quase 2 mil anos no primeiro dia de escavação durante treinamento",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVNzQXdBeHduaVRmdUpVTjcyaG80T2pLVEpaQUZuTjE1OHNzdmpUMmFOWHNSdmFpRlhqa1VLV3Y0Y1NaZUVFLWpRLXgyNF9YY0h5Z01MOWdFYUJSMXl6M0NqSUVYX013Mm5rTkE5Y1VKaEtiYWFjWExwTUZ1bV9lalRpMXNnX2lSbUs0NTFKVWVjTUxjUEcxekFtQnlJU3lXeTgwdno0SHd4aVY4aFRLaHBwRUV2UVVGWUJv?oc=5",
@@ -680,93 +693,93 @@
         "topics": [
           "historia"
         ],
-        "score": 5.41,
+        "score": 4.38,
         "relevance": 6
       },
       {
-        "title": "Historiador elenca as figuras negras que marcaram a história de Mato Grosso",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMlMyeHFDc0JKRW5KeEV1cTFmQVY5bkxLU0szd3FKN1B2YnVMWERFMWNaaWJKYTlDRE43Y0JpNEhYaGFmZEFjV05rQmZNNTJLbktCVDdnQjVDemRMNFhVV3MwTWZhX20wSmwtcXQ3b3FMaFNNZm5WVzJIV0tIQUswNXVsNVdDSkpfY2E5ZUMzSDhYSVRmbVkwUWFGMEFTM3JhN2t1QnJqY3NuVUNyS0hUZ04wV0JLTmhIUXJfQXZFOWFpV2VSaFlQOEJKY05lUQ?oc=5",
-        "source": "Gazeta Digital",
-        "publishedAt": "2026-11-20T20:50:00.000Z",
-        "summary": "Historiador elenca as figuras negras que marcaram a história de Mato Grosso Gazeta Digital",
+        "title": "Baleizão inaugura Casa da Memória – Espaço de Arqueologia",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNalVoSmx0OUlGSEQ1aklPM0hFa3FNVDVkSnlndEV4c2dqUGJIcDVUeUx2dXpXNXI2bDhreGJHZU55X0tDRTRlVloyYVp1RzhmSHhyS3BFeTEzdFdBSTNzb2hoRVA4MmpFM2ZWbUUyaFNhNnFPaGg1N1VWYnBabWFkU1I1NnJsYWszbGNTSUE1VjZ5UQ?oc=5",
+        "source": "O Atual",
+        "publishedAt": "2026-11-21T00:10:30.000Z",
+        "summary": "Baleizão inaugura Casa da Memória – Espaço de Arqueologia O Atual",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.51,
+        "score": 4.15,
         "relevance": 5
       },
       {
-        "title": "Estado compra por quase 30 mil euros rara moeda romana de ouro para o Museu Nacional de Arqueologia",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLU55S0trdTZvVUJxOHFCblRoNUZ5VFJmeE43OUU1dHF2ZllSakthQVdLWm1JdWZ3OFlWM1lkYUtSUk9yc0tYRXlVYXF5OVY2ZUZuODVsZGVEQ2FkaWRHSmZNNDBjVDJhdUxRZHJjX2tZTmV5TnFjSzh1Y0FfMzl1RXdPdWdib24xeFpmQXR4WkhLOV9Hc1RNRHp4RENmQ3hYcmdfOFpVejRHSnlnenpyNGpoeEUyNm5YLVdEbGJEUkJ6OTg?oc=5",
-        "source": "Diário de Notícias",
-        "publishedAt": "2026-11-20T15:12:40.000Z",
-        "summary": "Estado compra por quase 30 mil euros rara moeda romana de ouro para o Museu Nacional de Arqueologia Diário de Notícias",
+        "title": "Revolusamba celebra 33 anos de história e sucesso na Micareta de Feira",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZzR2VEpiRVlURUxfakcyemJBYnZqVUlEV0xtZmVPS3QyU1djR1Jmd2JCSFFsQ2ZzNHlaN0hlOHJkRnRfXzVpTjJ2UHdFWkVWYjBVbDRIejQtbGg5bXg5ajZNaEJlV0FVdUlEUHdtTXpSR05wcXJzNnVhSVB2Slpsakd2Njk1Um5NNVhLYUM5UjdfOWVSTTQ3WDY4dTJaTTl5UzUwLWdJZ3FWNDFETjFQUlhNRl9vaXh4MDhVSnVEVVV0Q1FWMzREdjM4Vl9jNEI3S0FEWDhhNWIwV19ZMXhhTk1pQ0dTa3czdXBuTUMxQl9yUzhFT1B4TnRIUTZBeFpUeFZTbDBlb2RVNVM0YVJoQw?oc=5",
+        "source": "Prefeitura Municipal de Feira de Santana",
+        "publishedAt": "2026-11-21T03:57:00.000Z",
+        "summary": "Revolusamba celebra 33 anos de história e sucesso na Micareta de Feira Prefeitura Municipal de Feira de Santana",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.35,
-        "relevance": 6
+        "score": 3.84,
+        "relevance": 4
       },
       {
-        "title": "Artigo: Mercado Público: patrimônio histórico que merece cuidado permanente",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzBDdnhzcXAwbmpCb2dGbTk5ei1zMk13Skpna1VDUUE2OTBtVkZkQTA0WlhFS01NaFBhU0lyd2Q2amljN1JQcDhoV0h6Qi01ZnVPaGZhUHRobE1PcjhaMHRjUDFFaXlIYU9NUC11NGxpbWFkUHN6RFRaM0tVOGZySTBiM0JRcE42Y1F0Sm9CektnVGpfWUhfbzhxRXVmTVg2S2dnak82ZXhVUnFZd1HSAa4BQVVfeXFMTUswQ3Z4c3FwMG5qQm9nRm05OXotczJNd0pKZ2tVQ1FBNjkwbVZGZEEwNFpYRUtNTWhQYVNJcndkNmppYzdSUHA4aFdIekItNWZ1T2hmYVB0aGxNT3I4WjB0Y1AxRWl5SGFPTVAtdTRsaW1hZFBzekRUWjNLVThmckkwYjNCUXBONmNRdEpvQnpLZ1RqX1lIX284cUV1Zk1YNktnZ2pPNmV4VVJxWXdR?oc=5",
-        "source": "Real News",
-        "publishedAt": "2026-11-20T19:12:24.000Z",
-        "summary": "Artigo: Mercado Público: patrimônio histórico que merece cuidado permanente Real News",
+        "title": "Atlético ou Boca Juniors: quem leva vantagem na história dos mata-matas?",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV2J4a1ZEcWdneFllU2ctVXBaX2JrWDMyTExKM3lqNHIwd1lQSFVwQlR1VGIxWUVGakVSMTNWLXlHMHJUMXRlUmFUQWZfNExEaDQ0cExoR2FoZ0pkNFdvT25McmhXVk1iUGlYZThiaWpucjJnM3ZOSEVKOTNUeXZEVDFORW51Rlp4cXltWHl3aWtIS09hLTVUY2xrZkVRZ0dQbUV6SHZOSlhaT2NwdGNnZVdqX2RrbkdkTHJpbmhnN05lUQ?oc=5",
+        "source": "O Tempo",
+        "publishedAt": "2026-11-21T03:00:01.000Z",
+        "summary": "Atlético ou Boca Juniors: quem leva vantagem na história dos mata-matas? O Tempo",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.23,
-        "relevance": 5
+        "score": 3.7,
+        "relevance": 4
       },
       {
-        "title": "Exposição no Museu Municipal conta a história de Maria Boiadeira em Prudente",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPYlFiTWpObE9seGNjMTJlN0FrdlBVQ3hxcmFJU3BoSXlZTlJVWXVVUS1ENVFaVzlhQ2poMkFOSGo3ZkJtXzlUYTA1S2xlTm84SVI1dnVSWWZlUy1ldVB4blUxd1BsRVl4UzJaa194MFBCQU5tMXNxRkRhZG1NakhoSDQtU2pPZFNiRk9JWTJ2NlU4c004dkVaZmVQUWdoWkRqSlJ1LXVyc1I5VWp0Mm9zckJCQ3hrUHNTWjJxNC1landrSV9mYTFtVEN1cVlLRzlmaEtwdzl1MmdsV3hjMHkyc0tBUm5TNFc0blY1ZXY2R0xXVjV5VFM40gGGAkFVX3lxTE5JcFhDamhiNnNleXJpU1hGbWtPMG1BUG90VUtCNjFvNkNiVUE4QkNZTi1xVDdhS0ljbnUtazVaOFFXY1R6eG1zdmx5ZklXV0JockpNRVdSX1ZPTGYyQUpNLTNYNWVRSFJwMzlwY1NrOHJQSnBnR2xGcEpBQ3hTWm5Ccm16OGY0RVJvUnFlUnduUks1amx6dGFldkFOS2FLWmZWT0dTTGd2c3hvUklHZXZSSUpaWnlHS3Y2ZkZncDFQektiazE4bTh6aGx2NWVkV2Jrc19zdjFrRm5RTEdfMTd4MXk0OWNhRnlqaG95Vmxzd2k3Nzh0blFWb09QbEJockJRcEtHU2c?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-11-20T17:48:16.000Z",
-        "summary": "Exposição no Museu Municipal conta a história de Maria Boiadeira em Prudente G1",
+        "title": "20 de Novembro Dia reconhecimento e valorização da história da cultura Afro",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVV9Kb0NXcEtqcnhoakFyVVNreHdOQ25fZ0V3RDdpX3Z1bzIzU1RYQWx1UWlvcGQyWF9uWmZSQkJmU3FDdlYyektCcDhtZlhubWFGX2dzYk9xNTJnR0JlbzdTMmlLZEJsY2JDTUNqZUJPeWx3V2VZaHdPOFdDeHdGZ19CRHJnNkdkY0dKaklDbmJVMTMtOFdWMkZsS1lnWDJRb1JVbHRSQndudw?oc=5",
+        "source": "Jornal do Garcia",
+        "publishedAt": "2026-11-21T02:53:46.000Z",
+        "summary": "20 de Novembro Dia reconhecimento e valorização da história da cultura Afro Jornal do Garcia",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.01,
-        "relevance": 5
-      },
-      {
-        "title": "Defesa de Vorcaro diz que decisão de Fachin macula história do STF",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeXpIa0FFS1Nmcmo2a2hyTHU1YmFJd0RUbFYwcmI5ZFVWeThXbVp4RGd3TG9kRDVhTzVsUk9SSHlYUmQ5eUZHNE4xdjd0Z29QWm9Ld2g2bjE5VnZOUTNtMTFlQ09tT1pJSTkwWUJmMWVycUdyT0JybkgxeVNwcnhWUkFxRUxoM2dPTTQ5cEZ4SzdsS2xK?oc=5",
-        "source": "Times Brasil | CNBC",
-        "publishedAt": "2026-11-20T22:41:00.000Z",
-        "summary": "Defesa de Vorcaro diz que decisão de Fachin macula história do STF Times Brasil | CNBC",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 3.87,
+        "score": 3.69,
         "relevance": 4
       }
     ],
     "geopolitica": [
       {
+        "title": "Embaixada brasileira na Ucrânia é atingida por destroços após ataques a Kiev, diz Itamaraty",
+        "link": "https://g1.globo.com/politica/noticia/2026/11/20/embaixada-brasileira-na-ucrania-e-atingida-por-destrocos-apos-ataques-a-kiev-diz-itamaraty.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-21T00:37:07.000Z",
+        "summary": "Governo brasileiro divulga nota condenando ataques a Kiev, na Ucrânia O Ministério das Relações Exteriores (Itamaraty) informou nesta sexta-feira (20) que a embaixada brasileira na Ucrânia foi atingida por destroços após ataques da Rússia a",
+        "image": "https://s2-g1.glbimg.com/J__BStXj1FjjOEVi_LRnNYK6JWQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/R/1/YP9YS2QvaMySTWmx9H5A/51092657087-a2653f26cc-o.jpg",
+        "topics": [
+          "geopolitica"
+        ],
+        "score": 7.26,
+        "relevance": 8.6
+      },
+      {
         "title": "Trump elogia conversas com Putin e diz que há chance 'muito boa' de acordo sobre guerra na Ucrânia",
         "link": "https://g1.globo.com/mundo/noticia/2026/11/20/trump-putin-guerra-na-ucrania.ghtml",
-        "source": "G1",
+        "source": "G1 Mundo",
         "publishedAt": "2026-11-20T20:31:09.000Z",
         "summary": "Donald Trump e Vladimir Putin. Kevin Lamarque/Reuters O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (20) que teve conversas \"muito boas\" com o líder russo, Vladimir Putin, sobre a guerra na Ucrânia e que vê boas c",
         "image": "https://s2-g1.glbimg.com/hYpsBEoB_mnrTJT1wXkJtEsKQbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/G/lvY87ISn2eBadSuXOVBA/2026-10-17t012836z-455791147-rc2r7gacnkd8-rtrmadp-3-usa-trump-sanctions.jpg",
         "topics": [
           "geopolitica"
         ],
-        "score": 8.9,
+        "score": 7.21,
         "relevance": 10
       },
       {
         "title": "Minuta de acordo na ONU não prevê regras obrigatórias para uso de 'robôs assassinos'",
         "link": "https://g1.globo.com/mundo/noticia/2026/11/20/onu-regras-robos-assassinos.ghtml",
-        "source": "G1",
+        "source": "G1 Mundo",
         "publishedAt": "2026-11-20T20:28:12.000Z",
         "summary": "Delegados participam da Conferência de Revisão dos Estados Partes da Convenção sobre Certas Armas Convencionais (CCAC), das Nações Unidas (ONU) Fabrice COFFRINI / AFP Uma minuta de acordo vista pela Reuters, durante encontro na ONU sobre ar",
         "image": "https://s2-g1.glbimg.com/FOIufGin3oHmICVR0uS-ggGdTAU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/k/w/9g5LRtSliIKHSjOfbVRA/undefenceweaponry.jpg",
@@ -774,8 +787,21 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 8.35,
+        "score": 6.76,
         "relevance": 9.4
+      },
+      {
+        "title": "Países europeus reagem após ataques da Rússia à Ucrânia matarem oito pessoas e atingirem embaixadas em Kiev",
+        "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/paises-europeus-reagem-apos-ataques-da-russia-a-ucrania-matarem-oito-pessoas-e-atingirem-embaixadas-em-kiev.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-21T00:47:47.000Z",
+        "summary": "França pede reunião do Conselho de Segurança da ONU Países europeus reagiram depois de ataques da Rússia à Ucrânia matarem oito pessoas e atingirem embaixadas. A França pediu uma reunião do Conselho de Segurança da ONU. 📱Favorite o g1 no G",
+        "image": null,
+        "topics": [
+          "geopolitica"
+        ],
+        "score": 6.63,
+        "relevance": 7.8
       },
       {
         "title": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA",
@@ -788,8 +814,8 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 7.47,
-        "relevance": 8.8
+        "score": 6.32,
+        "relevance": 9.2
       },
       {
         "title": "Tropas europeias de 11 países realizam exercício militar inédito na Polônia mirando pós-guerra na Ucrânia",
@@ -801,49 +827,64 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 7.46,
+        "score": 6.04,
         "relevance": 11.2
-      },
-      {
-        "title": "Perigo global: conheça as armas nucleares mais poderosas de Estados Unidos, Rússia e China",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/20/perigo-global-conheca-as-armas-nucleares-mais-poderosas-de-estados-unidos-russia-e-china.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-20T08:00:00.000Z",
-        "summary": "China, EUA e Rússia se comprometem com reduzir riscos de uma guerra nuclear Os presidentes dos Estados Unidos, da Rússia e da China se reuniram nesta quinta-feira (19) para um encontro trilateral. Entre os temas discutidos estava a possibil",
-        "image": "https://s2-g1.glbimg.com/Uvuai41NkRBsqRUz95jPTwImOH8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Y/V/A2Qls3S5AzWl8bnR4aBg/2026-11-19t095323z-614148405-rc2wqoasb2ox-rtrmadp-3-apec-summit.jpg",
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 7.15,
-        "relevance": 13
-      },
-      {
-        "title": "Míssil russo atinge a Polônia, e primeiro-ministro fala em 'provocação'",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/20/missil-russo-atinge-a-polonia-e-primeiro-ministro-fala-em-provocacao.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-20T20:18:49.000Z",
-        "summary": "Explosões são registradas na Polônia; primeiro-ministro fala em 'provocação' Em meio a um dos ataques aéreos mais violentos da Rússia na Ucrânia desde 2022, o governo da Polônia informou que pelo menos três artefatos russos — dois mísseis e",
-        "image": "https://s2-g1.glbimg.com/YSpAopu5gtDKeFdcBzOpBcDi1ZU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/w/4/ncIcYCTHSL5L7aqugJmw/missil.jpg",
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 7.07,
-        "relevance": 8
       }
     ],
     "negocios": [
       {
         "title": "Ações da Anthropic caem 8,5% um dia após estreia histórica na bolsa dos EUA",
         "link": "https://g1.globo.com/economia/noticia/2026/11/20/acoes-anthropic.ghtml",
-        "source": "G1",
+        "source": "G1 Economia",
         "publishedAt": "2026-11-20T22:34:15.000Z",
         "summary": "Placa da Anthropic , PBC (ANT) no One Times Square no dia em que a Anthropic realiza sua oferta pública inicial (IPO) na NASDAQ Market, em Nova York, EUA, em 19 de novembro de 2026 REUTERS/Shannon Stapleton As ações da Anthropic, criadora d",
         "image": "https://s2-g1.glbimg.com/-q0C26O08SToJ7HKLzSNAZNhj_E=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/m/NVfUm5SZq6i7kTRN7u4w/2026-11-19t164121z-1052802186-rc22roau8aoi-rtrmadp-3-usa-ipo-anthropic.jpg",
         "topics": [
           "negocios"
         ],
-        "score": 9.25,
+        "score": 7.49,
         "relevance": 9.6
+      },
+      {
+        "title": "Juros nos EUA e ajuste fiscal no Brasil: o que está por trás da disparada do dólar",
+        "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/juros-nos-eua-e-ajuste-fiscal-no-brasil-o-que-esta-por-tras-da-disparada-do-dolar.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-21T01:01:51.000Z",
+        "summary": "Real está entre as moedas que mais perderam valor diante do dólar Nas últimas semanas, o movimento de alta do dólar em todo o planeta tem pressionado com mais força o real. Por trás dessa alta, estão fatores globais e questões da economia b",
+        "image": "https://s2-g1.glbimg.com/RxLDgtYQbckWQtbWN2wyG2x9T9k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/K/H6WHdTQAmuF9LSPWXtqA/globo-canal-5-20261120-2000-frame-121492.jpeg",
+        "topics": [
+          "negocios",
+          "geopolitica"
+        ],
+        "score": 7.03,
+        "relevance": 8.2
+      },
+      {
+        "title": "Número de empresas que usam inteligência artificial sobe para 19,6% em 2026",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTdORDJOaTVfeXFJaF9uZVJra25GN3Q0cUdCUUgzeDY4SENBcFA1RDM4aWFYQ2tkSzhnR3NhUkhEeVdBcG05V3BTMDh6U25sNHVpQ3JZRFFNeXNkN08waDN6cXZ0U3JicW1tVkFTUU9BMW02YlV2X18tZTNSM2Y1VkFpcFVJbFBHUEdxNFVVUHFwQk9fRDVLRWJJZUhVZVBtNndza2JmdXBfQ3NVU08xanVGZkxpY3pGdmFHVVg4QQ?oc=5",
+        "source": "SAPO",
+        "publishedAt": "2026-11-21T03:27:00.000Z",
+        "summary": "Número de empresas que usam inteligência artificial sobe para 19,6% em 2026 SAPO",
+        "image": null,
+        "topics": [
+          "negocios"
+        ],
+        "score": 6.59,
+        "relevance": 7
+      },
+      {
+        "title": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGtHN29FMFduTEZVN1JVR2J0MmRtNFVKM2ZjV1kzU2Rtd3pyN2pIRUd2VXNwbXpEOFgtSUhEdjNFZy1uLVI4S09NTmxNaXFISm1VaEhMb2FEeEV3alpEOVlfS3ZKZi1zSllna1p1MjJiMlRPQUtnNEZxS3lWRE1vaG4ycEJ4blFKcWxj0gGaAUFVX3lxTE1JbVhMdlFGelFNZUdSS3JadEJwX2tqNGJMNTFXWWQ1VzREN1JxemhzYmF0SHBaYjdoQ01NS3ZqQWJjazV3R0c4VkMyZGw2SnQ0S1BMSE12VFI4cVVhVHBWdWVkTTBHUWRoUUNJZThuWXRZb2lDbTFSOFdnaFpmNVZGbEs1clpLcVFkbWxVenozdlMxM0hIOFVXd1E?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-11-20T23:29:32.000Z",
+        "summary": "Conmebol admite ter R$ 88 milhões aplicados no Ueno, banco paraguaio que quebrou após crise G1",
+        "image": "https://s2-g1.glbimg.com/KcGYEVzmUBtKM_2wlS4Y0O4dU3w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/p/m/lKx1ABRxGBmB5JVBUefA/2026-11-03t212644z-1474208164-rc2cgoa6cu4v-rtrmadp-3-paraguay-finance-1-.jpg",
+        "topics": [
+          "negocios",
+          "geopolitica"
+        ],
+        "score": 6.47,
+        "relevance": 8
       },
       {
         "title": "Ações da Nvidia têm pior sequência de quedas na bolsa desde 2008",
@@ -855,74 +896,48 @@
         "topics": [
           "negocios"
         ],
-        "score": 7.66,
+        "score": 6.21,
         "relevance": 9.2
       },
       {
-        "title": "Fintech Visucio aposta em Open Finance e inteligência artificial para transformar a educação financeira nas empresas",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZWNqTWZmNW5TTHFsVmN0QVRROVA2VzUwdjN1SkJOSnBKb1ByNkRCYlFtc1BLNjdGdHlxTk1hTDh4QzhyQkZvWmJHR2drZlJaYzdzVjNFZFB5NDNOZVdVbFRETHZnMW1jMTlzQlZidDRfcW9YRUlPUFpXbEhvWTdTZEZyOVU0c2pvZ1JrWE80aTBTU2trVDduOUpSNjdBSXNzeFVjQ3Vn?oc=5",
-        "source": "Paraná Portal",
-        "publishedAt": "2026-11-20T18:56:56.000Z",
-        "summary": "Fintech Visucio aposta em Open Finance e inteligência artificial para transformar a educação financeira nas empresas Paraná Portal",
+        "title": "Quem responde pelos dados da empresa quando cada departamento escolhe sua própria Inteligência Artificial?",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOU02Y1Y0Szg1bEJQUmZGQ2U5QzlweWVrMkF4SzQxay1FaGJLMElNSGVtZ0NCZVl5RElBSXNPMWFpWnZlTmxvaDI4QWx0RV9PNEF4N3FFZkZxUHRGTklyWExKLVFTRjE5clJIQ1h6c2g2QW52ZEFjWWUwRE5EcDhsaUcxc2Z1aU52WlluRzR1STRnSURnUC1PemZfOUxxMGVmWEdDSU9KVmx4NFd0eEVPYTVubVhJTTNNYmJWLUVvNUFmTXgzVkVaYXZQVVI1NjFGSWplNFdTSlZFWl9lNGc?oc=5",
+        "source": "Foco Cidade",
+        "publishedAt": "2026-11-21T00:12:47.000Z",
+        "summary": "Quem responde pelos dados da empresa quando cada departamento escolhe sua própria Inteligência Artificial? Foco Cidade",
         "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 6.7,
-        "relevance": 8
-      },
-      {
-        "title": "Como a Inteligência Artificial Impulsiona Empresas Bilionárias de Construção e Infraestrutura",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObzlFdlJfamppX3dEaW1QNW5xdXZLZmhJdTkyMHR4S2tfRDFGWW1QajN6YkVQbWZNTkxqb1V5NGhlMnNkLXhMTkkzYWpWMWhfNDBkeWpPMGVVc29HYmtPMWNQYlZiV3pNN1YxbXFvd2d4WXZpNDJRZ0pjWE1GdC1XOXdRczZaWUxXaFBBY3JqQmRfS1JWcEFIMTd0QU5oeExKR3JmZHFFYlk1QXQw?oc=5",
-        "source": "Forbes Brasil",
-        "publishedAt": "2026-11-20T20:49:15.000Z",
-        "summary": "Como a Inteligência Artificial Impulsiona Empresas Bilionárias de Construção e Infraestrutura Forbes Brasil",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 6.3,
+        "score": 5.82,
         "relevance": 7
-      },
-      {
-        "title": "Missão à Índia busca tecnologias em biocombustíveis e novos mercados para a indústria de Mato Grosso",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOY2JFeEo1MTJ4R3owQzJuSGpNS1dHeV9ubXZweUxGLXNiN1FWQkNub1oxUGVpcXc3WDYyblpNQ0xkQUlxWVZMLXNNOWpmUkpCMlJsYWR1WldIYmIzZnQxeUpmMWk2SjFxNlpGSVd3Z2xWd1JTcU9jQ3ZHMndBN3UyblRvTndLcTIzZXVBakI0cUhDd0Vxbm9JVk5TSjFWSFFmdl93Tnp0d0pHYnphdlRQTklvVGNMWmdGTWw2eDhVOXF6M01KY0N4enM5b2hJWGY4TTRDeTF5d05VWVRrbkJkMWVaeERrUFUtLWxPWA?oc=5",
-        "source": "Olhar Direto",
-        "publishedAt": "2026-11-20T20:35:00.000Z",
-        "summary": "Missão à Índia busca tecnologias em biocombustíveis e novos mercados para a indústria de Mato Grosso Olhar Direto",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 6.25,
-        "relevance": 7
-      },
-      {
-        "title": "Mercado vê chance de manutenção dos juros pelo Fed em dezembro",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTVVYQ0lHMC1EWkV1S093dGxrNmZ5b0R3NWJpeVhXbWMxb2dUOXB1MjJ6UllscGVna3ZMVGVZTmVZLVI0cE5PR3VXU3NCMmZzSmlScmV3N2lWQzh1cmRzNEs2LW81Rm9HcVZPZ0o0aVRmXzNKTnl4TlZnUjh0RHRQbWxTSjU2SnM3Q1N1di1tUVNOb0kzdWFVQTdvQW5SZw?oc=5",
-        "source": "Vero Notícias",
-        "publishedAt": "2026-11-20T22:32:05.000Z",
-        "summary": "Mercado vê chance de manutenção dos juros pelo Fed em dezembro Vero Notícias",
-        "image": null,
-        "topics": [
-          "negocios"
-        ],
-        "score": 6.16,
-        "relevance": 6.4
       }
     ],
     "filosofia": [
       {
-        "title": "5 filósofos essenciais e acessíveis para conhecer no Dia da Filosofia",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSWNFNS1mQ3pXWFhJQXVCWm1BR2VObnQzX0ZOdDdmdUJRcE1vZEEwdkY2X1EydTFjT0JxU1hGZnMxb2N2VVhNZjhFZzhwWkZ1emtKN21mWUdQN1h5N1RQRGVIUFZiV2w4Yy12a1E2MkJxbkRzdGUzdEphNlJ5Vl9tdlVkRFJCOWhOM2d3S2cyZ2kwYmt3VDRQcDNhYW1VSmtHY0tJcnVBYmhzSFBSQ2VuUEhxbjlyU2E4NXBvMWo5YlAwV1ZfZmZ4MFlR?oc=5",
-        "source": "Estadão",
-        "publishedAt": "2026-11-20T16:44:28.000Z",
-        "summary": "5 filósofos essenciais e acessíveis para conhecer no Dia da Filosofia Estadão",
+        "title": "Dia Mundial da Filosofia tem programação gratuita em Manaus",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3dndzlBTTdUZWcwWjNtOTBzV2xzYUNZUXlJWFduSk54TTNlTHZCLWlnMGtVdlAweTFYaVhXd0duZWpSaWJVelFjVmNBMzQya2IzYXlzRTByVTlUcHNScENKNzFOYTZiZHRoemQ3bE9vWE9IYjBHRnhlelNfY2haNDN0d0JtdkVubV9Z?oc=5",
+        "source": "Portal Você Online",
+        "publishedAt": "2026-11-21T04:35:29.000Z",
+        "summary": "Dia Mundial da Filosofia tem programação gratuita em Manaus Portal Você Online",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.85,
+        "score": 3.93,
+        "relevance": 4
+      },
+      {
+        "title": "Livro de crónicas do professor Eugénio Oliveira ajudam a despertar o pensamento filosófico",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPektCaXR3V211ZHdqRTN3NXZkSFdCZ0E2RWNoXzhUTzFUZm1VRmhZNVY5X19CaDRfaDhaQ1pZaUZWWHV4MnlpOEItbEhtOW1WUFl4dHRROU5iWUpkUGFwUER3SUNBOGk1WUtKalJRclZVaWtRV0J4Z0ExTnczQ2d1UGRZaGJ4eGZPc0dtZDdQSjFtUXN6MnlETk8xZkI4QXNpRFZtQUN5YWtDYmxZQVlOQU1JNlNPdU83dm14a2VLLXVxUmZMekt3N2pDS1FLa296Sk9aWXBOb1VHZzJnTFBadUVDWGN6bUkzN1VKZ0FJbTTSAfYBQVVfeXFMUE91SWNBZUc2bEd5N1RBR3lET3Z5YldLcEIyNE1nU1ZkZUhfbmhjeTFEa3lPd2hES1VoSHpXSVdudkh3U19PRFZNVmhYaWhqMmlQMUtabnNfUS14Ujk2VGs5a2tuY2ZMbXhISnEwVU9MMXNiWnFYc3FIYktGZ1BVNExWWGRIaHhPMjBuUnhHQUpTU1hHdHMzVW94YVNjQ3liOE5MYkI5VUFSTzdhZlNRZl9sNjNiWVZPOUxxQk5lZW5lU1FQM1FtQUd2UjNQQ0VHUjFJU0dra1g3WllObEJkWHhIeDRoWVNJQlJhQjhTYjRpNEpxN0ln?oc=5",
+        "source": "Diário do Minho",
+        "publishedAt": "2026-11-20T20:14:00.000Z",
+        "summary": "Livro de crónicas do professor Eugénio Oliveira ajudam a despertar o pensamento filosófico Diário do Minho",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.56,
         "relevance": 5
       },
       {
@@ -936,7 +951,7 @@
           "filosofia",
           "cinema"
         ],
-        "score": 3.68,
+        "score": 2.98,
         "relevance": 5
       },
       {
@@ -949,7 +964,7 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.63,
+        "score": 2.94,
         "relevance": 4
       },
       {
@@ -962,34 +977,21 @@
         "topics": [
           "filosofia"
         ],
-        "score": 3.45,
+        "score": 2.79,
         "relevance": 5
       },
       {
-        "title": "Dia Mundial da Filosofia",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tOXdKNGpNRmgwc2JOaV9kU2tGRmgyQ1dsZ2NKZEhoNm1JdF9RSjVpTTlNblBlcUJ5aE5ETGRNeHpvM2h4eXJlWERKU2s2SnV6OHh5RjNDMXZDUDNqMFE?oc=5",
-        "source": "Bom Dia SC",
-        "publishedAt": "2026-11-20T14:51:00.000Z",
-        "summary": "Dia Mundial da Filosofia Bom Dia SC",
+        "title": "Arthur Schopenhauer reflete sobre a solidão escolhida e por que aprender a ficar bem na própria companhia reduz o peso da superficialidade",
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPdHZacFBGOWt0ZENvMFF5YVFHeERaZkxaZFRhZGhNX2tvMXM1c3dfSUI2eUdBNGQweFFRelVNRFNMeVpodnJnN3ZFN1FvU3E3eml0cDlOb0xjZ3RLYWF3a3JXSXE4dVpWYUp3N05QRE04ejdDZHpacWoxTnRTMFYtdHg5WUJxZ3lZTEdvVXZKQ1oyemY4ZkFWVE5VbkotSUdSRWtPaHhpSzZWV3BfcEM1ajJjOTFVMmhZcUpzRVB6cWUxVm1wOTZSVzU1NVdZcGZEVTJuQ0NmU01nQm9jS3pBR1BqUlZQZ1BFSVI3Z3dmWnZ0TDJQQ0lYa0loeUdvVlNlN3ZPZ1NBamI4WVYyeVJWeV90cw?oc=5",
+        "source": "Correio Braziliense",
+        "publishedAt": "2026-11-21T01:48:36.000Z",
+        "summary": "Arthur Schopenhauer reflete sobre a solidão escolhida e por que aprender a ficar bem na própria companhia reduz o peso da superficialidade Correio Braziliense",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 2.86,
-        "relevance": 4
-      },
-      {
-        "title": "Ubuntu: conheça a filosofia africana que valoriza a conexão entre as pessoas",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWlp4R0NzTkh4em9ZS2FRUUoyQXBEbGg5a0ZYX1RfcEV2SjlIZU9CajU1anR2R3YzMGVLYU9UMmNCc2dtaDFEVDlQRkFXN0RuZ01kQ2RHWGc2SmFXUURxc2p6dmgyeVkxUTRUa0RIOWFRS243Z3VSQjJqeERXa2tWaks2b3E4NzFZRzZCalZ0bkVaVXh6R0RTRE5ZOWlRX1otVkNYSXdMNXVicUFtVEFFY0VEd1pkTG9aNFNBSXp3TXoxLW5jRGt2UDE1ckpBdThhY1MyNHh0TjllLWlwalhldE5iUDV1ZFpDZW4tQkZTbHIwdjlualNMSVNZSEhoc2oxV2dXdQ?oc=5",
-        "source": "Terra",
-        "publishedAt": "2026-11-20T13:09:00.000Z",
-        "summary": "Ubuntu: conheça a filosofia africana que valoriza a conexão entre as pessoas Terra",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 2.68,
-        "relevance": 4
+        "score": 2.65,
+        "relevance": 3
       }
     ],
     "cinema": [
@@ -1003,7 +1005,7 @@
         "topics": [
           "cinema"
         ],
-        "score": 7.13,
+        "score": 5.77,
         "relevance": 8
       },
       {
@@ -1016,7 +1018,7 @@
         "topics": [
           "cinema"
         ],
-        "score": 6.66,
+        "score": 5.39,
         "relevance": 7
       },
       {
@@ -1029,8 +1031,21 @@
         "topics": [
           "cinema"
         ],
-        "score": 6.58,
+        "score": 5.33,
         "relevance": 8
+      },
+      {
+        "title": "Kleber Mendonça Filho, Tilda Swinton, Mark Ruffalo e diversos nomes do cinema mundial assinam uma carta em defesa ao cinesta Jafar Panahi! - Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPYXoycFp6MFF2NFQ2ZlhVQVljN2NjTUl5aTBFbFhtMmlzYndRcTJadURGeTNYLUg5Tjg3akkxbkFrWjJZNzliMXBMQW5Ddml2OWRvU0NEZEF6dGFMdWhBQmRsaDllTUlPWWNRWEpLbVlwNnF1SE8xU2VfUHdpMVpZM2dzblZvX1BZNDVpM3FqT1pVQk9TbEYyOFdaWlVzNVZUR1M3MU9sN0RsTEZXVllEY3lWUXgzUG16VG5GNnBQMU82U0NKSnY2NGY5Tkt1UnFlbWNUYVU1QmRHNzdmSF82Q3d4QURqRlZOSnF6UGhMeF9SajlnSDNVcElnNF9UV1U0N2FUYldtczhCRlZ5cGVmMHl4Uy1WM3Fzb0NzZXFkWTF4S1BZ?oc=5",
+        "source": "Candidatos, Indicados e Vencedores",
+        "publishedAt": "2026-11-21T03:50:17.000Z",
+        "summary": "Kleber Mendonça Filho, Tilda Swinton, Mark Ruffalo e diversos nomes do cinema mundial assinam uma carta em defesa ao cinesta Jafar Panahi! Cinema é Tudo Isso! - Blog - Termômetro Oscar 2022 - Candidatos, Indicados e Vencedores",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 4.78,
+        "relevance": 5
       },
       {
         "title": "Vingadores: Doutor Destino | Filme pode fazer US$ 424 milhões de bilheteria doméstica na estreia",
@@ -1042,62 +1057,77 @@
         "topics": [
           "cinema"
         ],
-        "score": 5.75,
+        "score": 4.66,
         "relevance": 6
       },
       {
-        "title": "Festival de cinema reúne 70 filmes com sessões gratuitas em Goiânia",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQkkzczkxN1dZcVBiVkxURUF3ZFFoYnBHRW1ZdE1JcG90QnVNUDdQcEZiLUlSWnhDTEQ5bFRpX3YtV3J0SmtSclNBbkN4NmpEU1dMS3RLWTFYWkhkNlZoNWF0eDVxX1ByVFZYQ2N6T2Y2eWlpZUk4MF8xQVJ2alFhQ2lmOV9wdnNGcnRIbnJEdGduanBObVdKR3NfQlROZzg5cGxEb0N3YktWeWlaa1BNbVBNNVNMZ1hiUUlYdkJEUWFwOHh0cXZCSGxmaHl6T01fOFHSAeABQVVfeXFMTlhMQWJ2aTBMRjd3VFd5MXY1aDk2QjQtSkpEcEdTYmg4S0NqSjZGMU9rbVZGbXJmNmdPanlVamlGRGVBaVBqRW1fZldGQk1ZZWdHangwVEp2VUd3dFAzMWh3Nng4eTZqdzZSUmNmNjB3d1ZnRlhPYXRxSk9xVm1mMDNuVGxueGtxREVyS0ZaOU0xSnh3TkxiOXA2TWFlaXlzZV9BRkVLX1NGRWxnazN0ZU94WEdycWpwRkxYVE1KdGRLMnp3TWQwTGtQak83djFHaWZkV3ozZFVPcWZTX015SGk?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-11-20T12:29:03.000Z",
-        "summary": "Festival de cinema reúne 70 filmes com sessões gratuitas em Goiânia G1",
+        "title": "Helen Mirren, atriz vencedora do Oscar por A Rainha, revela sua regra para continuar se exercitando: “Comece com 3 abdominais; na semana seguinte, faça 4”",
+        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNTlhud09TUG5EUTdnRU1UdjZEZVBReTExeWZnak4xVWY0Vy1kNERzZUd5UFd2OGM2NG50TkpTSmtyXzRKWUxSc3ZfQXp2WlFjekhQakEyVU9wdVltek9LeW5aQV9mZVpzNVJ0VUZKSWttV09mMjFzYVhSNHZVWERFejNtbTJ5djRmbjEyTVdSSnJhVVRaQjhPZGd6TWo3TWJHZnJ3OVlrR05rY0R6bVlPZEdmSnR6MkRDdXk5WFhSNG90WW56UXAyOHEzVjdGa2lyVFlGTTRoQUFYQmdVeDlrZnZ3SFNBeXQyc2V3QkZDanBoTWptNTlzMzNObTFRQXloemlYR0RlcjJOOHhPYkNHX3VEejNCbmZxMzczSndrTUk?oc=5",
+        "source": "Revista Oeste",
+        "publishedAt": "2026-11-21T02:19:14.000Z",
+        "summary": "Helen Mirren, atriz vencedora do Oscar por A Rainha, revela sua regra para continuar se exercitando: “Comece com 3 abdominais; na semana seguinte, faça 4” Revista Oeste",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.23,
-        "relevance": 8
-      },
-      {
-        "title": "Festival Recanto do Cinema chega à 5ª edição com filmes de todo o Brasil e intercâmbio com o México",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcng2UzNwOUxGU0I4cnE4UXlmanczREJWb0lvU2NpcHdrUFNEVEZlTWFBMVA3UkVtdDZYSnRKLU5TM1BCbDVBb3luM21kX0N5UmVBY1FnWXBZVk5neFVmUXpta2pRa3BnUTJGV3Y0TWtrTE0yX05kU0lhZGVpUk5hNDdTcHhjX080RTBDYXVOdDc0c0NYM3liOUI4YkNHX1VaV2hIV0FJRjNSeENqZlpuV2ZjZ3FKYjJFMFhTcjg4eTNNVnhWTGRJc2xpbkJtVjIxRXlB?oc=5",
-        "source": "Visite Brasília",
-        "publishedAt": "2026-11-20T19:38:34.000Z",
-        "summary": "Festival Recanto do Cinema chega à 5ª edição com filmes de todo o Brasil e intercâmbio com o México Visite Brasília",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.16,
-        "relevance": 6
+        "score": 4.51,
+        "relevance": 5
       }
     ],
     "medicina": [
       {
-        "title": "Jovem suspeita de tentar matar a mãe com 22 facadas no PI será internada em hospital psiquiátrico; crime pode ter ocorrido durante surto",
-        "link": "https://g1.globo.com/pi/piaui/noticia/2026/11/20/jovem-internada-pi.ghtml",
+        "title": "Novembro Azul: novo protocolo muda orientação para diagnóstico precoce do câncer de próstata",
+        "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/novembro-azul-novo-protocolo-muda-orientacao-para-diagnostico-precoce-do-cancer-de-prostata.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-20T20:58:16.000Z",
-        "summary": "Viaturas do 28º Batalhão da Polícia Militar em diligência Reprodução A jovem de 19 anos presa em flagrante suspeita de tentar matar a própria mãe com 22 golpes de faca na noite de quarta-feira (18), em Rio Grande do Piauí, no Sul do estado,",
-        "image": "https://s2-g1.glbimg.com/JN8AlMmeHm3LvYwKRkFI8ecpWA8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/p/Yh0UtCRE6Qd1kXiWiDHA/edicao-imagens-g1-66-.jpg",
+        "publishedAt": "2026-11-21T01:26:36.000Z",
+        "summary": "Entidades médicas brasileiras lançam o primeiro protocolo padrão para prevenção de câncer de próstata O Novembro Azul é o mês de conscientização para a prevenção de câncer de próstata. A maioria dos homens só procura o médico quando começam",
+        "image": "https://s2-g1.glbimg.com/gN-3UKG8hnsWKv1CFHOdtusFOk0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/W/1IvPEBSliBqsavYAsnLQ/globo-canal-5-20261120-2000-frame-131552.jpeg",
         "topics": [
           "medicina"
         ],
-        "score": 3.8,
-        "relevance": 4.2
+        "score": 6.27,
+        "relevance": 7.2
       },
       {
-        "title": "Ministério da Saúde envia Força Nacional do SUS para o RS após tragédia deixar 3 mortos e ao menos 60 feridos",
-        "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/20/ministerio-da-saude-envia-forca-nacional-do-sus-para-o-rs.ghtml",
+        "title": "Bayer pagará até US$ 7,25 bilhões em acordo judicial com pacientes que alegam ter desenvolvido câncer após uso de herbicida",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/20/bayer-pagara-ate-us-725-bilhoes-em-acordo-judicial-com-pacientes-que-alegam-ter-desenvolvido-cancer-apos-uso-de-herbicida.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-20T21:13:59.000Z",
-        "summary": "Ministério da Saúde envia Força Nacional do SUS para o RS após tragédia deixar 3 mortos A Força Nacional do Sistema Único de Saúde (FN-SUS) está a caminho de Tupanciretã, cidade de 20 mil habitantes devastada por tempestade na Região Centra",
-        "image": "https://s2-g1.glbimg.com/oihS3zmYfyEe7aIRgi4XVXrGEvU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/f/7rKGBHSMe3ff3xsGcRbA/261120-info-mapa-tempestade-destroi-casas-no-rs.jpg",
+        "publishedAt": "2026-11-21T00:38:30.000Z",
+        "summary": "A fabricante de agroquímicos Bayer pagará até US$ 7,25 bilhões (o equivalente a mais de R$ 40 bilhões) ao longo de duas décadas para resolver milhares de processos movidos por pacientes com câncer nos EUA. O acordo foi aprovado nesta sexta-",
+        "image": "https://s2-g1.glbimg.com/BjgIzyXsGg2XoP45IiCC883sVZE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/2/A/HQ58dUTHS5mQUHilXI9Q/reutersmike-blake-monsanto-cos-roundup-is-shown-for-sale-in-encinitas-california.jpg",
+        "topics": [
+          "medicina",
+          "negocios",
+          "geopolitica"
+        ],
+        "score": 4.05,
+        "relevance": 4.8
+      },
+      {
+        "title": "Casal escreveu livro sobre superação após ser diagnosticado com tipos diferentes de câncer no mesmo dia, ao fazer exames para viagem de cruzeiro",
+        "link": "https://g1.globo.com/pr/campos-gerais-sul/noticia/2026/11/21/casal-escreveu-livro-sobre-superacao-apos-ser-diagnosticado-com-tipos-diferentes-de-cancer-no-mesmo-dia-ao-fazer-exames-para-viagem-de-cruzeiro.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-21T03:00:00.000Z",
+        "summary": "Casal adia projeto de mil noites no mar após diagnóstico simultâneo de câncer A médica Luciana Paiva e o publicitário Claudio Gomes transformaram o que seria um documentário sobre os bastidores de viagens de navio em um livro sobre superaçã",
+        "image": "https://s2-g1.glbimg.com/y183A1EehUORoIhzf9G_CcoTZDc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/v/x/PvhFQwTryp3j0oZIBJKQ/g1-3-.png",
         "topics": [
           "medicina"
         ],
-        "score": 3.66,
-        "relevance": 4
+        "score": 3.52,
+        "relevance": 3.8
+      },
+      {
+        "title": "Você viu? Morte de mulher durante tratamento de canal, prisão de gêmeos pagodeiros suspeitos de estupro e cervejaria premiada",
+        "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2026/11/21/voce-viu-morte-de-mulher-durante-tratamento-de-canal-prisao-de-gemeos-pagodeiros-suspeitos-de-estupro-e-cervejaria-premiada.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-21T03:05:01.000Z",
+        "summary": "Você Viu? Cerveja feita em igreja, gêmeos do pagode presos e morte em tratamento de canal Olá! Entre as notícias que mais chamaram a atenção dos leitores do g1 Zona da Mata nesta semana estão a morte de uma mulher durante um tratamento de c",
+        "image": "https://s2-g1.glbimg.com/aZafopTmEaXuxBt-dYbnWC88sEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/d/5/hpcydWRgWho6VDptGpkA/edicao-de-fotos-materias-2-.png",
+        "topics": [
+          "medicina"
+        ],
+        "score": 2.97,
+        "relevance": 3.2
       },
       {
         "title": "Medicina é o curso com menos pretos e pardos no país, segundo o IBGE",
@@ -1109,35 +1139,8 @@
         "topics": [
           "medicina"
         ],
-        "score": 3.58,
+        "score": 2.9,
         "relevance": 4
-      },
-      {
-        "title": "Hospital do Ouvido é alvo de operação por suspeita de vender amplificadores como aparelhos auditivos",
-        "link": "https://g1.globo.com/sp/santos-regiao/noticia/2026/11/20/hospital-do-ouvido-e-alvo-de-operacao-por-suspeita-de-vender-amplificadores-como-aparelhos-auditivos.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-20T23:00:00.000Z",
-        "summary": "Clínica investigada por vender equipamentos sem registro é alvo de operação Uma clínica investigada por vender amplificadores de som como se fossem aparelhos auditivos, por valores entre R$ 10 mil e R$ 40 mil, foi alvo de uma nova fase da O",
-        "image": "https://s2-g1.glbimg.com/fbEkRymxxwEbr9qANEHwj-paZmo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/T/5m1aAyQT2A1ByFlc8CYw/g1-phed-78-.png",
-        "topics": [
-          "medicina"
-        ],
-        "score": 3.53,
-        "relevance": 3.6
-      },
-      {
-        "title": "Brasil reconhece parte das violações contra mulher trans em julgamento internacional e promete ampliar ações no SUS",
-        "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2026/11/20/brasil-reconhece-parte-das-violacoes-contra-mulher-trans-em-julgamento-internacional-e-promete-ampliar-acoes-no-sus.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-20T21:34:03.000Z",
-        "summary": "'O Estado reconhece': Brasil admite à Corte IDH parte das violações contra mulher trans Após dois dias de audiência pública na Corte Interamericana de Direitos Humanos (Corte IDH), o Brasil reconheceu parte das violações apontadas por Luiza",
-        "image": "https://s2-g1.glbimg.com/2TgiD2ScKJ8xErenKCrRTNkWo_w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/8/sqT2gGSMqHMiMNecIBhg/design-sem-nome-2026-11-19t184643.903.jpg",
-        "topics": [
-          "medicina",
-          "negocios"
-        ],
-        "score": 3.52,
-        "relevance": 3.8
       },
       {
         "title": "Festa de fim de ano CBM Segurança e Medicina no Trabalho 2026",
@@ -1149,7 +1152,7 @@
         "topics": [
           "medicina"
         ],
-        "score": 3.35,
+        "score": 2.71,
         "relevance": 4
       }
     ]
