@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T16:35:53.047Z",
+  "generatedAt": "2026-11-26T01:23:51.756Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -30,23 +30,77 @@
   ],
   "highlights": [
     {
-      "title": "Dólar passa a cair, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/dolar-ibovespa.ghtml",
+      "title": "Bolsas dos EUA despencam com novo tarifaço de Trump e temores sobre investimentos em IA",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-tarifas-ia-bolsa-de-ny-wall-street.ghtml",
       "source": "G1 Economia",
+      "publishedAt": "2026-11-25T16:55:37.000Z",
+      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias As bolsas de Nova York despencaram nesta quarta-feira (25), pressionadas por uma nova rodada de tarifas anunciadas pelo governo de Donald Trump e pela forte venda de ações ligadas à int",
+      "image": "https://s2-g1.glbimg.com/R11sQID0hiQcey5cL3FdfY_kHIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/lY5rbeTQKylL3M7z01xQ/2026-11-20t185326z-869618565-rc2uroa3k99q-rtrmadp-3-usa-trump.jpg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 11.55,
+      "relevance": 16
+    },
+    {
+      "title": "Novo tarifaço e incerteza sobre inteligência artificial derrubam índices das bolsas dos EUA",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/25/novo-tarifaco-e-incerteza-sobre-inteligencia-artificial-derrubam-indices-das-bolsas-dos-eua.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-26T00:50:40.000Z",
+      "summary": "Novo tarifaço e incerteza sobre inteligência artificial derrubam índices das bolsas dos EUA A perspectiva do novo tarifaço de Trump e a incerteza sobre o futuro da inteligência artificial derrubaram, nesta quarta-feira (25), os principais í",
+      "image": "https://s2-g1.glbimg.com/9xo2ABjfcI3dNPiZSKCzE_tsE4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/o/ordbqbSLO04yuisAJVNA/globo-canal-4-20261125-2000-frame-86446.jpeg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 10.18,
+      "relevance": 10.4
+    },
+    {
+      "title": "Dólar cai a R$ 5,81, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VSmdsNU51NWlvZS03eDR4U3FpZW4yV0VIMXZ4bWctcFc0N2dmcHJzMDdkN0FET1M2dUM2dFlRaVR5MG5sd3c5SURZcU0xRWkzdkdIVDN2MHVTUGZ3VGo5UXdkVk5kVXJFWUNCcDRWcU9uNjgyT191TdIBhwFBVV95cUxNUW1Qai1CQzE2bHphejdnZjR3MGg5LUE3eEhBVWVsNDluWEtnNnYxeVVPU1dsS1hNYzkyTFgxNUJpblhBZFpkbXZQbVA4dGR4SnZtRDhNVXNfMzM1dVFJdmRycGN1cGFjZkFjMWo2TE1NanZNS1B2aHNCQWw4Z2ZJSDd2MDJtakk?oc=5",
+      "source": "G1",
       "publishedAt": "2026-11-25T12:00:33.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair 9 O dólar inverteu o sinal positivo visto na primeira hora do pregão e passou a operar em queda nesta quarta-feira (25). A moeda caía 0,80% perto das 12h45, cotada a R$ 5,8628. Na máxima da s",
+      "summary": "Dólar cai a R$ 5,81, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe G1",
       "image": "https://s2-g1.glbimg.com/en-e3pXXYmmv5grpZimBQ0X1DaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 12.74,
-      "relevance": 15.2
+      "score": 10.03,
+      "relevance": 16.8
+    },
+    {
+      "title": "Luiz Trabuco, do Bradesco, é sondado por Lula para assumir o Ministério da Fazenda",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdnZYVDltNzZWZXN1SzBUUHhhN1dTN1JwanF4WlFGdUZwazFHX3Uya3lOeElaUWpaWjh4bnRyOUFuWnRyclRTS2hIeU55Y2ZkbjlydTBaYWdGeEdYRnhidzNCNnJHYWUydC1BV0oybnJoUTN5RHR2ZndWbC10aWR3QzZwZmZ1Z0FKOU5jcnBXTlhuMGtBYTFnZTBsSDdFOEIyeldaSUhGODR4MmpDWmZUYVpKMlRKZVhxYmRNOXc1eEpEdDZhWW54MGM0YllNSEVORGRURk530gHkAUFVX3lxTE51TnFyelRpWDBEVHBSaGFsOE5YNW0tbDFPS0ZZLXZBdzJVMzMyRURybDVVbmNhTDNUenczZHlBYVZlQUwwc2FsckJ6bVBfZHlnVy05aHpIM0o0NmZOZjh2OURQTzdsdVVLMVRtRmZvVmMyWWVyeENkMU5XVjJEeUhLUVZtd0U5NENQZnR4NnFzQWFfRGkwWDEtYzlvMDN3ZjFGVVlfWFJKM0JTRjJwTWhvZ2NnMUR6TUl6UUUzb0gybnpmWnRIemZIUFo3eHgzM3pjSXM1V3pzaXozZEFEOEYzdVJpNg?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-11-25T22:51:59.000Z",
+      "summary": "Luiz Trabuco, do Bradesco, é sondado por Lula para assumir o Ministério da Fazenda O GLOBO",
+      "image": "https://s2-g1.glbimg.com/8Hpt5t9j_HROFFUucUfw65_ihXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/l/Q/Xui6KvR8u3a9CnM3VRcQ/2018-03-14t140319z-1282850438-rc18e918e880-rtrmadp-3-brazil-wef.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 9.62,
+      "relevance": 10.6
+    },
+    {
+      "title": "Kim Jong-un diz que status nuclear da Coreia do Norte é 'inviolável' e faz ameaça de guerra",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/kim-jong-un-diz-que-status-nuclear-da-coreia-do-norte-e-inviolavel-e-faz-ameaca-com-guerra.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-25T21:57:00.000Z",
+      "summary": "O líder norte-coreano Kim Jong Un visita a Academia de Ciências da Defesa em Pyongyang, Coreia do Norte, em 2024 KCNA/via REUTERS O líder da Coreia do Norte, Kim Jong-un, afirmou que o país não vai abrir mão do status de potência nuclear. E",
+      "image": "https://s2-g1.glbimg.com/RkEIhbvDU_IY6IlMTyCDUQvwjdg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/3/BuCX48STqLltlblXTMrA/2026-11-19t045108z-1532546279-rc2208a9vrqw-rtrmadp-3-northkorea-ai.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 7.71,
+      "relevance": 8.8
     },
     {
       "title": "EUA deixam de lado proposta de acordos comerciais com Rússia para tentar encerrar guerra na Ucrânia, diz jornal",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/25/eua-deixam-de-lado-proposta-de-acordos-comerciais-com-russia-para-tentar-encerrar-guerra-na-ucrania-diz-jornal.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-25T15:58:02.000Z",
       "summary": "Trump anunciou na semana passada um novo acordo para o fornecimento de diesel com o presidente russo Vladimir Putin Getty Images via BBC O governo dos Estados Unidos deixou de lado, de forma discreta, propostas de acordos comerciais com a R",
       "image": "https://s2-g1.glbimg.com/q8SWw5I8ed8jmld77TUdHRirqu4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/JjH8UPTmqXIDApdYUllg/novo-projeto-7-.jpg",
@@ -54,110 +108,110 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 10.54,
+      "score": 7.51,
       "relevance": 10.8
     },
     {
-      "title": "Líbia diz que ataque de drones da Ucrânia matou militares líbios e promete retaliação",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/libia-diz-que-ataque-de-drones-da-ucrania-matou-militares-do-pais-e-promete-retaliacao.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-25T12:50:39.000Z",
-      "summary": "Drones ucranianos afundam navio da Rússia na Líbia O governo da Líbia anunciou nesta quarta-feira (25) que dois oficiais navais líbios morreram em decorrência de ferimentos sofridos no ataque de drones da Ucrânia contra um navio de guerra r",
-      "image": null,
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 8.83,
-      "relevance": 10.2
-    },
-    {
-      "title": "EUA propõem novas tarifas sobre 14 países para combater 'excesso de capacidade industrial'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-propoem-novas-tarifas-sobre-14-parceiros-comerciais-para-combater-excesso-de-capacidade-industrial.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-25T14:26:17.000Z",
-      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) novas tarifas de importação sobre produtos de 14 economias, entre elas China, União Europeia, Japão e Índia, anunciou Jamieso",
-      "image": "https://s2-g1.glbimg.com/aXyNVVWsq60bPQtSWJG7V6w9CH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/jd0F5xTUOKSVRgim8nnA/2026-11-16t144017z-1345596019-rc22poaux99k-rtrmadp-3-usa-trump.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 8.47,
-      "relevance": 9.2
-    },
-    {
-      "title": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/os-riscos-que-trump-corre-com-a-volta-de-jensen-huang-ao-comando-da-nvidia.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-25T11:11:51.000Z",
-      "summary": "Trump articula retorno de Huang à Nvidia Após a fabricante de chips de inteligência artificial Nvidia anunciar o retorno de Jensen Huang e as ações da empresa dispararem, o presidente dos Estados Unidos, Donald Trump, fez questão de reivind",
-      "image": "https://s2-g1.glbimg.com/tlS9NY2e8LV-41uF_Izxe56Fc_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/Z72AlURD27UEBOS1GKpQ/design-sem-nome-2026-11-25t074948.500.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 8.45,
-      "relevance": 10.4
-    },
-    {
-      "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime, HBO Max e mais",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHJ6NkR6VHZFdEdXc0RILVpxQmt5R0kwNHI0dHBudTA5T3NJUTZRaUZjRlZNdS1FekxoOExxeXlnaTdQclJnZi1uQXpXdmk0YUVrZ3ZpdjdGVXY4WFc2SldxMUJqM1dsaGNYN1ZqWjVXMGdZUFZpZ1VDYjM5MnJQQmhqWF93dlQyME5JWm5uTEc1V3hkSnJmMDBCZVlVTjJ4U3o5b0RTbmtXdC1IYTlLTmhhcHRmdmJWU3VlS1JHSzhTMVhiWW9mdFhqdHlZRHVzdFV2YlJjUEh0eGw1WFZkMQ?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-25T16:26:38.000Z",
-      "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime, HBO Max e mais Estadão",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 7.95,
-      "relevance": 8
-    },
-    {
-      "title": "Ações da Embraer caem mais de 7% após EUA proporem tarifa sobre aviões brasileiros",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtRU5CVll4VExHQnlycHhQRHNnYmdXaE1YLXZ3U29ZbnN0QUN6NGRYV1JDdWlJWDYxVEZjb2Z5R0x0TGZiQzZ6ZzA4QmZPN2RTYnY1d3dYbDd1ak1CSDA5NWFqVzZ6STF1VmFHNkNCTnUzSm1CMHd1bU1pLVfSAYsBQVVfeXFMTnVBaTU4X3ktclliYk1WVE5DdjdQREloMTZzQlNCY3NoQWZBaklQUkpyem93MWtGbG5rQzcwZTNZTEo4VVJIRUVnV0pMLWppdllld3RJRThNVV91UHpRdmFsMmw4SnJYbFBycllSQ0tsb2hIdE9hNEFsekZRUE8tSkN0NTFKUkdDS0p2bw?oc=5",
+      "title": "Por que o PIX está na mira dos EUA em investigação que embasa novas tarifas contra o Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRFZRdWJQR3U2WG80X2dWRGVubnVyb3p1WjNNczZfVEdSZnV4TmRKYWtuTUVCeC1BQ3E1UFdHYVRRYmlmdFg3YmE1aE1TdERkZi0ycVNyaVE2bzRKWnM0Vm1WUFNzMTRRX3VIRW04bWNDbjNYa0tYWVlCV0VCZ05wYXpiWFBCMkZRcFNVY2RQd2ZzZ3RaTXdVeXBmQUYxWVg2ME1JRkZkM2VSRGlGY001Uk1tUkZxNGhQN0VqOG1SUlNZTkFVNEtKZHJYRlNBUTE5S1BB0gHiAUFVX3lxTE9HVldCM045ekgtc2wwZEZGYnpXUW4xUXdISXJUMUNvNktTa1pGLXlma2hBa25qdFdJSi1XcmFZODdkRWZYS2FDUFR0enhyNE0wUldGTzFtMG5VVndYTUdpRmw3ZUN1amt2VFF4V2lnRHM1QkFfRU9DUE1pbkFNQnotRDZSY1BKWFBfaDRYNFN2YU4tdXEtVGc4Y25wRnRSWnBPYUZyZThRYjZhU0hIT2MtWUVoMThCSXpPNi05cXVYWVZjOXI3OURhcE0wRkxENkc0OGJQZHRsWi00ZXFJbU1nWHc?oc=5",
       "source": "G1",
-      "publishedAt": "2026-11-25T14:26:53.000Z",
-      "summary": "Ações da Embraer caem mais de 7% após EUA proporem tarifa sobre aviões brasileiros G1",
-      "image": "https://s2-g1.glbimg.com/ySVczfhSyx8RRcPKkmDhH_wlxy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/i/235pBxTMyrcic5vV4gbQ/webimage-389f10bd-5014-4f20-9ae2f6ec645b0a16.jpg",
+      "publishedAt": "2026-11-25T21:11:50.000Z",
+      "summary": "Por que o PIX está na mira dos EUA em investigação que embasa novas tarifas contra o Brasil G1",
+      "image": "https://s2-g1.glbimg.com/QepxgC4d4575P51mwUrzs5QtBY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/u/xYEEOsRCe41Sv9Zc7Ybg/pix-.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 7.73,
-      "relevance": 8.4
+      "score": 7.49,
+      "relevance": 8.8
     },
     {
-      "title": "Com mais de 1,2 mil filmes de 84 países, Festival de Cinema Escolar de Alvorada realiza premiação nesta quinta-feira",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVnlQNUo0d0JCSmJKeGxNaHo2NTRmUVBiRlVXTU1sb3BzRE9FdXdlRFl6bXVVdzI3d0ExRmRhbFdidTRWeWRQUTlpcm5SWG9ZcEF3a0Jtb2pqcWVnMU4wVzFTQ0JjQTdxekxQS0QzNGNDbUI2cEVkVnlIMnhzS1Z1azNVV1doMWlpeTJ2TTl2RUs4ZXM4R3BuYnl1a1lmNUFfMWdTQ1hwNGJqQmZRc1lNaTlVNUhybG9NYmg0NTZENG8tWjdVTVNaODRhcGhUVlFrTGViSVpEbXhpNURDNmRZ?oc=5",
-      "source": "Prefeitura Municipal Alvorada",
-      "publishedAt": "2026-11-25T15:27:59.000Z",
-      "summary": "Com mais de 1,2 mil filmes de 84 países, Festival de Cinema Escolar de Alvorada realiza premiação nesta quinta-feira Prefeitura Municipal Alvorada",
+      "title": "Confederações empresariais pedem ao STF o adiamento da reforma tributária",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEZNcFl6QWhhcDNHRUkzNkotdmhMWkM1R3puNXNPamR5V1FiVDB3b1l6anVwcWtrUTBrX1Z3eDdQejBRNHFjeFJjaFJ6aExRVE52SWNFLUc5Q3JHSkJTMktaMWtKYzNISEN2ZjBUWS15OTZyaEpHSVgtWkFRek5oQWIzZHhJT0NrNnJMWmREZ0xXQVNmRW53dlZlRDhuSlZlcThaVGFSMkN6UUpQQVBpMmFNUnJPTGFBQkFTODluZ1RwZ1k?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-11-26T01:13:00.000Z",
+      "summary": "Confederações empresariais pedem ao STF o adiamento da reforma tributária Folha de S.Paulo",
       "image": null,
       "topics": [
-        "cinema"
+        "negocios"
       ],
-      "score": 7.66,
-      "relevance": 8
+      "score": 6.95,
+      "relevance": 7
     }
   ],
   "items": [
     {
-      "title": "Dólar passa a cair, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/dolar-ibovespa.ghtml",
+      "title": "Bolsas dos EUA despencam com novo tarifaço de Trump e temores sobre investimentos em IA",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-tarifas-ia-bolsa-de-ny-wall-street.ghtml",
       "source": "G1 Economia",
+      "publishedAt": "2026-11-25T16:55:37.000Z",
+      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias As bolsas de Nova York despencaram nesta quarta-feira (25), pressionadas por uma nova rodada de tarifas anunciadas pelo governo de Donald Trump e pela forte venda de ações ligadas à int",
+      "image": "https://s2-g1.glbimg.com/R11sQID0hiQcey5cL3FdfY_kHIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/lY5rbeTQKylL3M7z01xQ/2026-11-20t185326z-869618565-rc2uroa3k99q-rtrmadp-3-usa-trump.jpg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 11.55,
+      "relevance": 16
+    },
+    {
+      "title": "Novo tarifaço e incerteza sobre inteligência artificial derrubam índices das bolsas dos EUA",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/25/novo-tarifaco-e-incerteza-sobre-inteligencia-artificial-derrubam-indices-das-bolsas-dos-eua.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-26T00:50:40.000Z",
+      "summary": "Novo tarifaço e incerteza sobre inteligência artificial derrubam índices das bolsas dos EUA A perspectiva do novo tarifaço de Trump e a incerteza sobre o futuro da inteligência artificial derrubaram, nesta quarta-feira (25), os principais í",
+      "image": "https://s2-g1.glbimg.com/9xo2ABjfcI3dNPiZSKCzE_tsE4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/o/ordbqbSLO04yuisAJVNA/globo-canal-4-20261125-2000-frame-86446.jpeg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 10.18,
+      "relevance": 10.4
+    },
+    {
+      "title": "Dólar cai a R$ 5,81, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VSmdsNU51NWlvZS03eDR4U3FpZW4yV0VIMXZ4bWctcFc0N2dmcHJzMDdkN0FET1M2dUM2dFlRaVR5MG5sd3c5SURZcU0xRWkzdkdIVDN2MHVTUGZ3VGo5UXdkVk5kVXJFWUNCcDRWcU9uNjgyT191TdIBhwFBVV95cUxNUW1Qai1CQzE2bHphejdnZjR3MGg5LUE3eEhBVWVsNDluWEtnNnYxeVVPU1dsS1hNYzkyTFgxNUJpblhBZFpkbXZQbVA4dGR4SnZtRDhNVXNfMzM1dVFJdmRycGN1cGFjZkFjMWo2TE1NanZNS1B2aHNCQWw4Z2ZJSDd2MDJtakk?oc=5",
+      "source": "G1",
       "publishedAt": "2026-11-25T12:00:33.000Z",
-      "summary": "Entenda o que faz o preço do dólar subir ou cair 9 O dólar inverteu o sinal positivo visto na primeira hora do pregão e passou a operar em queda nesta quarta-feira (25). A moeda caía 0,80% perto das 12h45, cotada a R$ 5,8628. Na máxima da s",
+      "summary": "Dólar cai a R$ 5,81, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe G1",
       "image": "https://s2-g1.glbimg.com/en-e3pXXYmmv5grpZimBQ0X1DaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 12.74,
-      "relevance": 15.2
+      "score": 10.03,
+      "relevance": 16.8
+    },
+    {
+      "title": "Luiz Trabuco, do Bradesco, é sondado por Lula para assumir o Ministério da Fazenda",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdnZYVDltNzZWZXN1SzBUUHhhN1dTN1JwanF4WlFGdUZwazFHX3Uya3lOeElaUWpaWjh4bnRyOUFuWnRyclRTS2hIeU55Y2ZkbjlydTBaYWdGeEdYRnhidzNCNnJHYWUydC1BV0oybnJoUTN5RHR2ZndWbC10aWR3QzZwZmZ1Z0FKOU5jcnBXTlhuMGtBYTFnZTBsSDdFOEIyeldaSUhGODR4MmpDWmZUYVpKMlRKZVhxYmRNOXc1eEpEdDZhWW54MGM0YllNSEVORGRURk530gHkAUFVX3lxTE51TnFyelRpWDBEVHBSaGFsOE5YNW0tbDFPS0ZZLXZBdzJVMzMyRURybDVVbmNhTDNUenczZHlBYVZlQUwwc2FsckJ6bVBfZHlnVy05aHpIM0o0NmZOZjh2OURQTzdsdVVLMVRtRmZvVmMyWWVyeENkMU5XVjJEeUhLUVZtd0U5NENQZnR4NnFzQWFfRGkwWDEtYzlvMDN3ZjFGVVlfWFJKM0JTRjJwTWhvZ2NnMUR6TUl6UUUzb0gybnpmWnRIemZIUFo3eHgzM3pjSXM1V3pzaXozZEFEOEYzdVJpNg?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-11-25T22:51:59.000Z",
+      "summary": "Luiz Trabuco, do Bradesco, é sondado por Lula para assumir o Ministério da Fazenda O GLOBO",
+      "image": "https://s2-g1.glbimg.com/8Hpt5t9j_HROFFUucUfw65_ihXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/l/Q/Xui6KvR8u3a9CnM3VRcQ/2018-03-14t140319z-1282850438-rc18e918e880-rtrmadp-3-brazil-wef.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 9.62,
+      "relevance": 10.6
+    },
+    {
+      "title": "Kim Jong-un diz que status nuclear da Coreia do Norte é 'inviolável' e faz ameaça de guerra",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/kim-jong-un-diz-que-status-nuclear-da-coreia-do-norte-e-inviolavel-e-faz-ameaca-com-guerra.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-25T21:57:00.000Z",
+      "summary": "O líder norte-coreano Kim Jong Un visita a Academia de Ciências da Defesa em Pyongyang, Coreia do Norte, em 2024 KCNA/via REUTERS O líder da Coreia do Norte, Kim Jong-un, afirmou que o país não vai abrir mão do status de potência nuclear. E",
+      "image": "https://s2-g1.glbimg.com/RkEIhbvDU_IY6IlMTyCDUQvwjdg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/3/BuCX48STqLltlblXTMrA/2026-11-19t045108z-1532546279-rc2208a9vrqw-rtrmadp-3-northkorea-ai.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 7.71,
+      "relevance": 8.8
     },
     {
       "title": "EUA deixam de lado proposta de acordos comerciais com Rússia para tentar encerrar guerra na Ucrânia, diz jornal",
       "link": "https://g1.globo.com/mundo/noticia/2026/11/25/eua-deixam-de-lado-proposta-de-acordos-comerciais-com-russia-para-tentar-encerrar-guerra-na-ucrania-diz-jornal.ghtml",
-      "source": "G1",
+      "source": "G1 Economia",
       "publishedAt": "2026-11-25T15:58:02.000Z",
       "summary": "Trump anunciou na semana passada um novo acordo para o fornecimento de diesel com o presidente russo Vladimir Putin Getty Images via BBC O governo dos Estados Unidos deixou de lado, de forma discreta, propostas de acordos comerciais com a R",
       "image": "https://s2-g1.glbimg.com/q8SWw5I8ed8jmld77TUdHRirqu4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/JjH8UPTmqXIDApdYUllg/novo-projeto-7-.jpg",
@@ -165,150 +219,56 @@
         "geopolitica",
         "negocios"
       ],
-      "score": 10.54,
+      "score": 7.51,
       "relevance": 10.8
     },
     {
-      "title": "Líbia diz que ataque de drones da Ucrânia matou militares líbios e promete retaliação",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/libia-diz-que-ataque-de-drones-da-ucrania-matou-militares-do-pais-e-promete-retaliacao.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-25T12:50:39.000Z",
-      "summary": "Drones ucranianos afundam navio da Rússia na Líbia O governo da Líbia anunciou nesta quarta-feira (25) que dois oficiais navais líbios morreram em decorrência de ferimentos sofridos no ataque de drones da Ucrânia contra um navio de guerra r",
-      "image": null,
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 8.83,
-      "relevance": 10.2
-    },
-    {
-      "title": "EUA propõem novas tarifas sobre 14 países para combater 'excesso de capacidade industrial'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-propoem-novas-tarifas-sobre-14-parceiros-comerciais-para-combater-excesso-de-capacidade-industrial.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-25T14:26:17.000Z",
-      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) novas tarifas de importação sobre produtos de 14 economias, entre elas China, União Europeia, Japão e Índia, anunciou Jamieso",
-      "image": "https://s2-g1.glbimg.com/aXyNVVWsq60bPQtSWJG7V6w9CH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/jd0F5xTUOKSVRgim8nnA/2026-11-16t144017z-1345596019-rc22poaux99k-rtrmadp-3-usa-trump.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 8.47,
-      "relevance": 9.2
-    },
-    {
-      "title": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/os-riscos-que-trump-corre-com-a-volta-de-jensen-huang-ao-comando-da-nvidia.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-25T11:11:51.000Z",
-      "summary": "Trump articula retorno de Huang à Nvidia Após a fabricante de chips de inteligência artificial Nvidia anunciar o retorno de Jensen Huang e as ações da empresa dispararem, o presidente dos Estados Unidos, Donald Trump, fez questão de reivind",
-      "image": "https://s2-g1.glbimg.com/tlS9NY2e8LV-41uF_Izxe56Fc_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/Z72AlURD27UEBOS1GKpQ/design-sem-nome-2026-11-25t074948.500.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 8.45,
-      "relevance": 10.4
-    },
-    {
-      "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime, HBO Max e mais",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHJ6NkR6VHZFdEdXc0RILVpxQmt5R0kwNHI0dHBudTA5T3NJUTZRaUZjRlZNdS1FekxoOExxeXlnaTdQclJnZi1uQXpXdmk0YUVrZ3ZpdjdGVXY4WFc2SldxMUJqM1dsaGNYN1ZqWjVXMGdZUFZpZ1VDYjM5MnJQQmhqWF93dlQyME5JWm5uTEc1V3hkSnJmMDBCZVlVTjJ4U3o5b0RTbmtXdC1IYTlLTmhhcHRmdmJWU3VlS1JHSzhTMVhiWW9mdFhqdHlZRHVzdFV2YlJjUEh0eGw1WFZkMQ?oc=5",
-      "source": "Estadão",
-      "publishedAt": "2026-11-25T16:26:38.000Z",
-      "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime, HBO Max e mais Estadão",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 7.95,
-      "relevance": 8
-    },
-    {
-      "title": "Ações da Embraer caem mais de 7% após EUA proporem tarifa sobre aviões brasileiros",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtRU5CVll4VExHQnlycHhQRHNnYmdXaE1YLXZ3U29ZbnN0QUN6NGRYV1JDdWlJWDYxVEZjb2Z5R0x0TGZiQzZ6ZzA4QmZPN2RTYnY1d3dYbDd1ak1CSDA5NWFqVzZ6STF1VmFHNkNCTnUzSm1CMHd1bU1pLVfSAYsBQVVfeXFMTnVBaTU4X3ktclliYk1WVE5DdjdQREloMTZzQlNCY3NoQWZBaklQUkpyem93MWtGbG5rQzcwZTNZTEo4VVJIRUVnV0pMLWppdllld3RJRThNVV91UHpRdmFsMmw4SnJYbFBycllSQ0tsb2hIdE9hNEFsekZRUE8tSkN0NTFKUkdDS0p2bw?oc=5",
+      "title": "Por que o PIX está na mira dos EUA em investigação que embasa novas tarifas contra o Brasil",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRFZRdWJQR3U2WG80X2dWRGVubnVyb3p1WjNNczZfVEdSZnV4TmRKYWtuTUVCeC1BQ3E1UFdHYVRRYmlmdFg3YmE1aE1TdERkZi0ycVNyaVE2bzRKWnM0Vm1WUFNzMTRRX3VIRW04bWNDbjNYa0tYWVlCV0VCZ05wYXpiWFBCMkZRcFNVY2RQd2ZzZ3RaTXdVeXBmQUYxWVg2ME1JRkZkM2VSRGlGY001Uk1tUkZxNGhQN0VqOG1SUlNZTkFVNEtKZHJYRlNBUTE5S1BB0gHiAUFVX3lxTE9HVldCM045ekgtc2wwZEZGYnpXUW4xUXdISXJUMUNvNktTa1pGLXlma2hBa25qdFdJSi1XcmFZODdkRWZYS2FDUFR0enhyNE0wUldGTzFtMG5VVndYTUdpRmw3ZUN1amt2VFF4V2lnRHM1QkFfRU9DUE1pbkFNQnotRDZSY1BKWFBfaDRYNFN2YU4tdXEtVGc4Y25wRnRSWnBPYUZyZThRYjZhU0hIT2MtWUVoMThCSXpPNi05cXVYWVZjOXI3OURhcE0wRkxENkc0OGJQZHRsWi00ZXFJbU1nWHc?oc=5",
       "source": "G1",
-      "publishedAt": "2026-11-25T14:26:53.000Z",
-      "summary": "Ações da Embraer caem mais de 7% após EUA proporem tarifa sobre aviões brasileiros G1",
-      "image": "https://s2-g1.glbimg.com/ySVczfhSyx8RRcPKkmDhH_wlxy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/i/235pBxTMyrcic5vV4gbQ/webimage-389f10bd-5014-4f20-9ae2f6ec645b0a16.jpg",
+      "publishedAt": "2026-11-25T21:11:50.000Z",
+      "summary": "Por que o PIX está na mira dos EUA em investigação que embasa novas tarifas contra o Brasil G1",
+      "image": "https://s2-g1.glbimg.com/QepxgC4d4575P51mwUrzs5QtBY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/u/xYEEOsRCe41Sv9Zc7Ybg/pix-.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 7.73,
-      "relevance": 8.4
+      "score": 7.49,
+      "relevance": 8.8
     },
     {
-      "title": "Com mais de 1,2 mil filmes de 84 países, Festival de Cinema Escolar de Alvorada realiza premiação nesta quinta-feira",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVnlQNUo0d0JCSmJKeGxNaHo2NTRmUVBiRlVXTU1sb3BzRE9FdXdlRFl6bXVVdzI3d0ExRmRhbFdidTRWeWRQUTlpcm5SWG9ZcEF3a0Jtb2pqcWVnMU4wVzFTQ0JjQTdxekxQS0QzNGNDbUI2cEVkVnlIMnhzS1Z1azNVV1doMWlpeTJ2TTl2RUs4ZXM4R3BuYnl1a1lmNUFfMWdTQ1hwNGJqQmZRc1lNaTlVNUhybG9NYmg0NTZENG8tWjdVTVNaODRhcGhUVlFrTGViSVpEbXhpNURDNmRZ?oc=5",
-      "source": "Prefeitura Municipal Alvorada",
-      "publishedAt": "2026-11-25T15:27:59.000Z",
-      "summary": "Com mais de 1,2 mil filmes de 84 países, Festival de Cinema Escolar de Alvorada realiza premiação nesta quinta-feira Prefeitura Municipal Alvorada",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 7.66,
-      "relevance": 8
-    },
-    {
-      "title": "Reforma tributária e fim da escala 6x1 podem pressionar inflação em 2027; BC e equipe econômica monitoram impactos",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcm1sbW9WblN0RzlWZDc3SElhZXNCc29UZWZQZG1kYUZfT0txbUQ2Uk1ycWVWdjRKczN2S3R5NUNqenhXa0ZVYjlQUk13d2QwTWkwTHdSYm5fbVU1VFBoUUZub3VIQm1heWJwQW5DXzNWUlF0a1FqdmVMRXRJYjEyb3lWcGlWS3REaERKUDJpemtnb2VZYU0teGg1cjVhVGd6N0RrZlNmQ1NQQkR3NTBaLVFkc3dReGo1ZGVhdzVYQWJ1WXctQlhpLUVVRjhjWFVLamU4aWxMQ3JkUUppOUZvakhkNi1ESll0MmMtZDlvc0V6ZjByWktrNW9ySlfSAYsCQVVfeXFMUHdWSl9mcXY3WjJZQzZlRVJrNE1QT3V1bWVDVDlnVDdaMF9iR3dGcjBWbHhpbmx6NURtUUpyeHVOdm42WnFfWXI5bUZqeFRSQWY3WUxNNURXWXNWWTB2UXZRSTl4dEZtVzZHSmwxMUNSd2lCWF9NbU1PTm9FNmpUa2t3VXdEWk9XaGhleDVTZlNPaXdVVXBOcXJibnlhc3VKNXZZNDdOWUlqOGkzaGpNUlVsMXhYMllkaEp3TmNJRHdFRTVjVWRzVURUcGJFNm5TdllGMzFBdl9ITHI5QVkwWU1TVmdBblY4aUN6R2VTWUdwU1JWa0phYlpHSU9FZHZUdUxNd1FpU2l3MUxR?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-25T03:00:00.000Z",
-      "summary": "Reforma tributária e fim da escala 6x1 podem pressionar inflação em 2027; BC e equipe econômica monitoram impactos G1",
+      "title": "Confederações empresariais pedem ao STF o adiamento da reforma tributária",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEZNcFl6QWhhcDNHRUkzNkotdmhMWkM1R3puNXNPamR5V1FiVDB3b1l6anVwcWtrUTBrX1Z3eDdQejBRNHFjeFJjaFJ6aExRVE52SWNFLUc5Q3JHSkJTMktaMWtKYzNISEN2ZjBUWS15OTZyaEpHSVgtWkFRek5oQWIzZHhJT0NrNnJMWmREZ0xXQVNmRW53dlZlRDhuSlZlcThaVGFSMkN6UUpQQVBpMmFNUnJPTGFBQkFTODluZ1RwZ1k?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-11-26T01:13:00.000Z",
+      "summary": "Confederações empresariais pedem ao STF o adiamento da reforma tributária Folha de S.Paulo",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 7.46,
-      "relevance": 12.6
+      "score": 6.95,
+      "relevance": 7
     },
     {
-      "title": "Trump amplia ofensiva comercial e propõe novas tarifas contra Brasil, China e outros parceiros",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-amplia-ofensiva-comercial.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-25T15:19:52.000Z",
-      "summary": "Donald Trump, presidente dos EUA, é recebido em Shenzen, China, pelo presidente chinês Xi Jinping. REUTERS / Carlos Barria O governo de Donald Trump propôs nesta quarta-feira (25) cobrar uma tarifa adicional de 10% sobre aviões brasileiros ",
-      "image": "https://s2-g1.glbimg.com/YrJaUQx8ZkkF7FVUVtKvoE2ec5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/D/NSusYgQFaDics1vLTLQQ/reuters-carlos-barria.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 7.43,
-      "relevance": 7.8
-    },
-    {
-      "title": "Banco Central autoriza Binance Brasil a operar no mercado de câmbio",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0k5UXJrVGROTVN2SmY0dGxRb0RwRWVvMXlhR2xWbFlIRWxRMXhxd0JxZUtQbmQzaXJOb3Mzc3d0Yzgtb1YzTWxSUzlQdlhVZVpSWTBzRTUtM0xiRGxoYXJJcDZsMVA0Tkp5cmhHS3EyUExjYWZ6aVliUWtITkhUM3otMzltQkhnU1NjVWw1UW9BaGU3Y3lIWV9pWW9wUDg?oc=5",
-      "source": "Brasil Inovador",
-      "publishedAt": "2026-11-25T13:50:05.000Z",
-      "summary": "Banco Central autoriza Binance Brasil a operar no mercado de câmbio Brasil Inovador",
+      "title": "Três Corações é a ‘campeã das campeãs’ do Melhores do Agronegócio, da Globo Rural. Veja outros premiados",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNM1Fxdm9vOV9qcmk5dnhjX2NKZEFrb0dLNGhSeGwyV1NYdGV3SmlwY054eElwRmdlS3hScW96MGZUQVB4cW81NTB2dTRONEJjVUNZeVlIYnhhTkZZOTJPUGZLUS0yZ0gwREJHc20yX3VvMUNYYm5pelZxWTVmb2kzS0R0b1FWQWFlNWVKZ0VKNU5qWk8yck1QRDNYLXBBREZ6LUE3cDlBRm1HOVdGU2VUaVNqeUJNUUFnNUl2UjdGQ3g1WkhGVFRwVXF1R0tOTmFmOTc4dW5SRGdqd3dZeUp0cVRDVHVJTEQyVzhhUDJJeXDSAf8BQVVfeXFMTTZ1RWc3MXVONjJMUzlRWUJMQmVybmRUWW1JSkFpVllpSEhrSnR3d0dEQWRubTF1M3VYNDN5b2R2d1Y5MU5RZ296SGEwRHFsUGt6bzFSd2tBQmRPRWVBUmgtOTJyYThRemJvcC1zbEZ5TDBha09OVWI1RmVPSXBfNnZhN0dxaFNsaWgxMTRNaE5ENUh3Y1BGY090cHRYUTlRY1A3MDhMN1QyNU5OTkYzalg4bVZqaXptM3NQS3FmVGdrbm5GdW10WEE4NWJXakdhT3hLaHVINHprNHR0LWlxblVOdGgzbE1EOTJTNEFWVDJYbTNMQlpHMldTOW1ZX3lz?oc=5",
+      "source": "O GLOBO",
+      "publishedAt": "2026-11-26T01:04:09.000Z",
+      "summary": "Três Corações é a ‘campeã das campeãs’ do Melhores do Agronegócio, da Globo Rural. Veja outros premiados O GLOBO",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 7.19,
-      "relevance": 8
+      "score": 6.91,
+      "relevance": 7
     },
     {
-      "title": "IBM Unlock Brasil debate aplicações práticas da inteligência artificial nas empresas",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSTZmSlEyLUtzM205Mi1DbkRDT2ZlYmdjMlcxMHNYcTR1ZndicHZOcVZqQXVPZEMzdmZ0cnVzR09VWkNZTFdrSjlST3lHTFhZczg0TDhmUk1IN3ZnbU1nV2U3Mk1za0FxalJDQ3VUNTNrSnhzMGdpd21iVkE0RC00aTlLSk1NdDNiVllQWlhYQ3p6ckpoaDkxQlNQd3lRdlQzcnR2VWR3YXp1TDl1b0lNWFV5UTlpalRGQ1lDYTZIcUhIeGJSYnQ5MTd4MmE?oc=5",
-      "source": "Times Brasil | CNBC",
-      "publishedAt": "2026-11-25T13:41:00.000Z",
-      "summary": "IBM Unlock Brasil debate aplicações práticas da inteligência artificial nas empresas Times Brasil | CNBC",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.15,
-      "relevance": 8
-    },
-    {
-      "title": "Embraer reage a possível tarifa de 10% dos EUA e defende isenção para aviões: 'vigente desde a década de 1980'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-embraer-tarifa.ghtml",
+      "title": "Economia da Argentina perde força e país deve entrar em recessão técnica",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeHg0SVR5aFg4OUhOS0h0cVl3WV84UlZ5eXdNQkZmVWpVMjNhLWZJbjdFTHVIb3NraHJHQ0xfelpRRWZTSGpkdm1RckI0UjNiM0dhdVZUaklZWVB5Y1hkN21uWVZkdnhteExUY0w3SHI4LWRMWFJvbjhkc0FsaFRYUDVsdVZaTUpLLXRKanZYSkRHOWV4aGFHYmdFZEhUMXRJenhjVDJONHR6X1ZfQ2haN3BKelgwZDBOY2RHeFZSUllqWW14bnRLd0pLcEcwSTDSAd4BQVVfeXFMT0RxRDVDX2VOR0E0cFZqbUpya1RLeUlpTmJCUFlMcDR0NmpqYlhfX1VsTE5GV0hJenllaV9hVDlrQ0E4NTJYckUxUXA1SVZVRVQxSzBNWkd4cmMzTy00NWs4eTgzX3ZkU0FNT0ZtQWtWZTFuYm0xdVhrQzBqVWNHUVNISTVBZXpKUkxzM0ExbmxEYlVSLS05VG9DdjkyY0lIZzJSTDlxdzZteVp6OUJ2QlVMakhnMDdrSm1PZzhCcUxFdnRLZHE1NnRqYjUzdzE3NnVTektWUGdBOFR1TXl3?oc=5",
       "source": "G1",
-      "publishedAt": "2026-11-25T16:10:59.000Z",
-      "summary": "Conheça a aeronave da Americanas que será vendida para ajudar na recuperação da empresa Divulgação/Embraer A Embraer defendeu a manutenção da isenção de tarifas para a indústria aeroespacial global após o governo dos Estados Unidos propor u",
-      "image": "https://s2-g1.glbimg.com/5F-9kNchMdBeo89lEwSqZ0oCBa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/F/z/902GTpTEiPdJrtePLq5w/2p0a1624-1-.jpg",
+      "publishedAt": "2026-11-26T00:59:41.000Z",
+      "summary": "Economia da Argentina perde força e país deve entrar em recessão técnica G1",
+      "image": "https://s2-g1.glbimg.com/dLL6jnueltmTkceHFSzciwyVoV0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/Q/OHQPgYTYqrmEJnWVwVYQ/globo-canal-4-20261125-2000-frame-93485.jpeg",
       "topics": [
         "negocios"
       ],
@@ -316,453 +276,503 @@
       "relevance": 7
     },
     {
-      "title": "Cibersegurança: como proteger empresas dos riscos da inteligência artificial?",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWGdPdGZUV3ZESEdnUW1mVVVEdE10eVJpaGdqQ1JYNjJfLTduMnFOQkxXNy1hdmhCVjFyaU1vTkpkZUdCOUUwOW1FeVdDbEN2dVJqb2lwRFJMbW9lcV9udmc3endBdlJFazZ4MHV6ek8xWktTZGRQRC1KOVo2dTc1MHAxdGdQRGxGQS1oa19GSUs3WEw5Tld1aWk0LXRZb3RwY3d4bjBPMWxwREpFRUg2WWpiZGYxc0ExVFVuRTJ5dkx6Rnhoem0w?oc=5",
-      "source": "BM&C",
-      "publishedAt": "2026-11-25T15:47:06.000Z",
-      "summary": "Cibersegurança: como proteger empresas dos riscos da inteligência artificial? BM&C",
+      "title": "Um Trabuco na economia? Dólar cai e Bolsa sobe com possível ida de banqueiro à Fazenda",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdXB0RFRVSU04ckpyb3l5YkJiODBMZlpGWHh2NTRlRkdjdFUzVXdiR3JsdHN2MWhWamNiVUQ1Q0pqN2Z2aE1UeWVHeE52dWswMEx3QUplZ3pvdGZ1SnVRZENoOXZhNUMwcXhnNFJfQlRaMDdXenM1Q2hsbWVXOVBGekN1Q0R0Y2cwaXM1Z0VVS0FReUhGSjdlTUxfX1p3aHZXa1ppc0t4UjBFYTZYSVRacmRweVBDOG1VZTZ4b1lzTXNqeVlFeUZGVUNsYTQ?oc=5",
+      "source": "brazileconomy.com.br",
+      "publishedAt": "2026-11-25T23:45:34.000Z",
+      "summary": "Um Trabuco na economia? Dólar cai e Bolsa sobe com possível ida de banqueiro à Fazenda brazileconomy.com.br",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.78,
+      "score": 6.57,
       "relevance": 7
     },
     {
-      "title": "Prêmio Médias de Valor 2026 reconhece 20 empresas que se destacam em gestão e resultados",
-      "link": "https://g1.globo.com/empreendedorismo/noticia/2026/11/25/premio-medias-de-valor-2026-reconhece-20-empresas-que-se-destacam-em-gestao-e-resultados.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-25T12:15:22.000Z",
-      "summary": "Segunda edição do Prêmio Médias de Valor reconheceu 20 empresas de médio porte em cerimônia realizada em São Paulo Flávio Santana O jornal \"Valor Econômico\" e a revista \"Pequenas Empresas & Grandes Negócios\" anunciaram nesta terça-feira (24",
-      "image": "https://s2-g1.glbimg.com/6UulkKwXKnc70tIjZy5rWqPhib8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/U/2/CdIBykSBqviF1V2JpDDg/geral.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.6,
-      "relevance": 7.8
-    },
-    {
-      "title": "Banco Central amplia acesso de cooperativas ao mercado aberto",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR0FLNk1xRHQ3YWhBR3Q5WDRtYnBGem00MkpSSWF2OTBfb1JweU1xc0lfZ01Xb3hsVm5jZjExM08tX2pEX1RaYS1GWXZIREVBVDFyQTliWDVrWEVucUs1UnJmOFljQ2F1YUhaZXZJd0x5QmFjS0NJMmNHNzJUYjZCXzY4bHdoR1RvUXU4Q2RhTmp3YXZHR29Ha3lLMlNzamJtcmNZSk43X04xRlk?oc=5",
-      "source": "Sindicato dos Bancários de Cascavel",
-      "publishedAt": "2026-11-25T11:16:34.000Z",
-      "summary": "Banco Central amplia acesso de cooperativas ao mercado aberto Sindicato dos Bancários de Cascavel",
+      "title": "Encontro debate impacto econômico e produtivo da economia de dados nas empresas",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX3BpNzk0czFVUWN1NmdNZWtfcEkzRFZZeDdRQW9BZDk0dW1GYjBTZ0p2eDl2NE0wNV9hOHMya0g3SmtDeXFic1lwTGp3b2xraTI0ZWp1NHBDTEJNWERwdlpzRHJVX0g3T3owTmRqQzVfZk1PY3VreWk3TXA2Y0FuQ2VXdjI3Y1ZKb3NrYWRyX1Vra1JnaXN6VmFVNnliTlBqb0hQbjEtUlRkYU5GZWNvLUZlVnVNSXVLd2FyZWlFMUJ3SnBkMWVEdWZZc2FFOG1JNTVnLWtJUUw?oc=5",
+      "source": "Governo Federal",
+      "publishedAt": "2026-11-25T22:10:41.000Z",
+      "summary": "Encontro debate impacto econômico e produtivo da economia de dados nas empresas Governo Federal",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.52,
-      "relevance": 8
+      "score": 6.54,
+      "relevance": 7.4
     },
     {
-      "title": "Tarifaço de Trump: EUA propõem tarifa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-propoem-tarifas-mais-altas-sobre-importacoes-do-brasil.ghtml",
+      "title": "Dólar cai e Ibovespa sobe em dia de alívio no mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVFJveFNMa19ZRE1jSXI0a1Q2MV84N0lBV1RqSE90Rkh6MzE2QTkyRmtjS1JSSkZNNWtKNnluUk9NTUxjQlVjRXdNaVZqa0YtNzNiTWpaQTY4TjRPVjJmTTJlMUYteGl4Vm5zdHhyWGE1S04wV3JYUG1yR1VMeG5RM2pqczVzY1JsQnQ0aFlnc0huQ1BWOTA4?oc=5",
+      "source": "Metrô News Jornal",
+      "publishedAt": "2026-11-25T23:07:00.000Z",
+      "summary": "Dólar cai e Ibovespa sobe em dia de alívio no mercado financeiro Metrô News Jornal",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.41,
+      "relevance": 7
+    },
+    {
+      "title": "Secretária de Agricultura de Trump defende novas tarifas e acusa Brasil de 'práticas desleais' contra agricultores dos EUA",
+      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/secretaria-de-agricultura-de-trump-defende-novas-tarifas-e-acusa-brasil-de-praticas-desleais-contra-agricultores-dos-eua.ghtml",
       "source": "G1 Economia",
-      "publishedAt": "2026-11-25T13:16:30.000Z",
-      "summary": "Trump durante coletiva de imprensa na Casa Branca em 20 de novembro de 2026. Reuters O governo dos Estados Unidos propôs nesta quarta-feira (25) a cobrança de uma tarifa adicional de 10% sobre aeronaves brasileiras e o aumento da tributação",
-      "image": "https://s2-g1.glbimg.com/R11sQID0hiQcey5cL3FdfY_kHIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/lY5rbeTQKylL3M7z01xQ/2026-11-20t185326z-869618565-rc2uroa3k99q-rtrmadp-3-usa-trump.jpg",
+      "publishedAt": "2026-11-25T21:35:55.000Z",
+      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias A secretária de Agricultura dos Estados Unidos, Brooke Rollins, afirmou nesta quarta-feira (25) que as tarifas adicionais que o governo de Donald Trump avalia aplicar ao Brasil buscam \"",
+      "image": "https://s2-g1.glbimg.com/u-VvmRGwQuf6Usydi8nf-qR8VUA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/R/NgEvYWT7SRXpxzveRiaw/2026-11-24t164008z-353424949-rc2jcnanr8ak-rtrmadp-3-usa-farm-religion.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 6.51,
+      "score": 6.39,
       "relevance": 7.4
     },
     {
-      "title": "Estreias da semana nos cinemas: 26/11 com 11 filmes",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmc0Si0yUnNSYVRLdjk4UkN6TE9rOEJOekdqcGQwSnpUZlZucHplcnluSDdjelg2QWJOeUlhUHdvSGJTb1dHS3ZUTGo4b2tsOHB3TnRQVVExVEgtTmx4b3ROT01sNWE5VnNYa01YdUNrUkFibEswYnNxSDI5emZxODc0UGFrbTR4blVpa2taWEoxQ0N5YW43djdkMGNBbGh5VlE?oc=5",
-      "source": "Paranashop",
-      "publishedAt": "2026-11-25T13:53:36.000Z",
-      "summary": "Estreias da semana nos cinemas: 26/11 com 11 filmes Paranashop",
+      "title": "Empresas buscam crédito além dos bancos com apoio da tecnologia - Times Brasil | CNBC",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcm5WbENSQkF6MnU3TENxVVdFZ1kwMFZPc1BDX0dfeDhNT2xkZ01uazRSazc3RE9jN1cwZVNyZ3dOR1l6a0cxSkUtXzN1SUN6blNsMXdTZFNob0k2X2NHc19jeDA0TFVWQzlkcVFVZEktZWRVQmx4elF4cjg0ZmlSYnF4aE1kWU9SSHVOOEoxSUlRVk9QLTlVbXpWVHJoeVhFbUhiV2tnSnFrd3Z3bjcxUVlEYWNOUnlfOGRkU0ZTc3pwbm5jMFlXbTBackZOOWh5MjhVX2ZvNlpFQy13UTItc1NOSHFqbHdNUEJ3UTIwUld4UEtU?oc=5",
+      "source": "Times Brasil | CNBC",
+      "publishedAt": "2026-11-25T22:51:00.000Z",
+      "summary": "Empresas buscam crédito além dos bancos com apoio da tecnologia - Times Brasil | CNBC Times Brasil | CNBC",
       "image": null,
       "topics": [
-        "cinema"
+        "negocios"
       ],
-      "score": 6.31,
+      "score": 6.35,
       "relevance": 7
     },
     {
-      "title": "Após propor novas tarifas para aviões e açúcar do Brasil, EUA marcam audiência para janeiro",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-discutir-tarifas-2027.ghtml",
+      "title": "Golpes com inteligência artificial acendem alerta em Florianópolis e colocam empresas em risco",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLTBkVzZwX3hVTzVpODFtUHQ4eGttZEVDNjU4SlVCNGZfVGk2SU5wdFJMcVFlRlZ2dlpFSlhvcDZqYUtFZndjTmItekpRME9qUWN2VkdGeTJidGRQYzZBN1NqZWVmeVlZb3hkczFNWmFPN29zeU9Rdi01T3dCdUw5dWQ0eDB0NFhfcUFVQ2g4WWdNdE1wQm0ybTNHckFUSUozNVJCUExxV1JKWEZQYXR1UXd6MF9rWHdfMmFVSDhCb3Q?oc=5",
+      "source": "Agora Floripa",
+      "publishedAt": "2026-11-25T22:49:01.000Z",
+      "summary": "Golpes com inteligência artificial acendem alerta em Florianópolis e colocam empresas em risco Agora Floripa",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.34,
+      "relevance": 7
+    },
+    {
+      "title": "Governo Lula diz estar indignado com nova proposta de tarifa dos EUA contra o Brasil e que não 'cederá a esse tipo de ameaça'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/25/governo-lula-diz-estar-indignado-com-nova-proposta-de-tarifa-dos-eua-contra-o-brasil-e-que-nao-cedera-a-esse-tipo-de-ameaca.ghtml",
       "source": "G1 Economia",
-      "publishedAt": "2026-11-25T13:27:46.000Z",
-      "summary": "Sem acordo com Brasil, EUA impuseram tarifas de 25% contra alguns produtos Joao Oliveira/Zoonar/picture alliance O governo dos Estados Unidos marcou para 14 de janeiro de 2027 uma audiência pública para discutir mudanças nas tarifas aplicad",
+      "publishedAt": "2026-11-25T21:10:49.000Z",
+      "summary": "Brasil expressa 'indignação' por 'ameaça' de tarifa dos EUA O governo brasileiro divulgou uma nota nesta quarta-feira (25) na qual manifestou \"indignação\" com a proposta do Escritório do Representante Comercial dos EUA (USTR, na sigla em in",
       "image": "https://s2-g1.glbimg.com/Y5OUBctDA60pvQ47Y6qiCNV63BI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/e/C/yRvQeGSj6mhcurnHfH7g/78090845-1004.webp",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 6.2,
+      "score": 6.29,
+      "relevance": 7.4
+    },
+    {
+      "title": "Líbia diz que ataque de drones da Ucrânia matou militares líbios e promete retaliação",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/libia-diz-que-ataque-de-drones-da-ucrania-matou-militares-do-pais-e-promete-retaliacao.ghtml",
+      "source": "G1 Mundo",
+      "publishedAt": "2026-11-25T12:50:39.000Z",
+      "summary": "Drones ucranianos afundam navio da Rússia na Líbia O governo da Líbia anunciou nesta quarta-feira (25) que dois oficiais navais líbios morreram em decorrência de ferimentos sofridos no ataque de drones da Ucrânia contra um navio de guerra r",
+      "image": null,
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 6.29,
+      "relevance": 10.2
+    },
+    {
+      "title": "Vai ao cinema? Confira 5 filmes que estreiam nesta quinta-feira",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWU93QlJCRzd3ekdXOTE0TG8tOWVrODIyeFo2REJ3QTNRLThPZmFMVGttb19CTzQ4Z0NsdjJKbllYekgxcm9JZzR5SzRnUGZtQzJ5a0ZhTVdJSDhiZlRyM3NSUVk1S0hLc3dRLXA2N09CaFRaOG0tNFFpclJJVFN1U2dtMURyT1ZTWGl2b1cxcWxTTDdBa3ppUmdSRHB3RVhfVjRiSldDaDVQMVBfaXdYczNqMHhTb044cFRTalZIeHo2ZEh3NkFhOTJpcEEzRndtZ2xWcXlic3FBMXVxQ01YTjA0TktTeVk0bnc?oc=5",
+      "source": "Terra",
+      "publishedAt": "2026-11-25T22:31:00.000Z",
+      "summary": "Vai ao cinema? Confira 5 filmes que estreiam nesta quinta-feira Terra",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.26,
       "relevance": 7
     },
     {
-      "title": "Lula ouve empresários e mercado em busca de solução para juros altos, diz CNN",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeGdQSE12QThqQ3p2UUh3ZmdNcmdfc1B5ZFdzdWlfZkhJNndXNjZBaVFmME5PT09ER3NUVHk1S2Fya3NIQmtOeFJERzZWVm42dzZuZW9XbENNUlptMlZmTDM4YTl0eks1eGFuU1ZsRkZsOVlNTlN0dnhKYmZzMkZiRWdHRGdJazJKTGdZVl9sX1BHN0pJNjFtTFpTZlRwN1FpaVdLV3l2bm4ya3pibW9Ob09VX2lvWEFfUGNNT0RoRi1WR0Fkbll6WHExSFo?oc=5",
-      "source": "Goiás 246",
-      "publishedAt": "2026-11-25T15:22:00.000Z",
-      "summary": "Lula ouve empresários e mercado em busca de solução para juros altos, diz CNN Goiás 246",
+      "title": "Queda das ações de IA pode ameaçar crescimento da economia dos EUA",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iczQtRGtITGZHa0tlTWkyZzN4M3JFUkNpSEltX2VoSjZKV2FhZUlSVVdDT2ZZWVE1UzR3TkF4R3lfVlFWWUl5ODVzT2d1NGR4aUR0aFJ2SjBRYWw0SkhPOFBoODV2b2dCdWthbjlfSExDeUZ0S0pyNw?oc=5",
+      "source": "Jornal GGN",
+      "publishedAt": "2026-11-25T22:28:00.000Z",
+      "summary": "Queda das ações de IA pode ameaçar crescimento da economia dos EUA Jornal GGN",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.1,
-      "relevance": 6.4
+      "score": 6.25,
+      "relevance": 7
     },
     {
-      "title": "Inteligência artificial reduz gargalos na rotina de empresas",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02TkVrcDc3UmJpUXQ3WF9qaHBDaWt0aUJrclhXY0VMZEU2NHdJNks4bkdFc2RnU00zaHBmU0p6ekdkbWl2TEExalp1SjVVcnBaLWtKMWl1cFVOcjVyeFhMeU5scFBBaWg5TkhCSDRyZFNGM2VLNmc?oc=5",
-      "source": "ES Brasil",
-      "publishedAt": "2026-11-25T13:00:53.000Z",
-      "summary": "Inteligência artificial reduz gargalos na rotina de empresas ES Brasil",
+      "title": "Escavações em sítio arqueológico na Rua Riachuelo poderão ser visitadas na Noite dos Museus",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQY1lpU1BOV2tfLXJCNE1hUWZqUVhDX1VOX3RJUUFYWjktcUtyTW04NmhvRjlGRmt1OGJBV0xFcDE0UmdrX0hmYnhoR2VDNUw0emZ5T2F5TmZjUERZV0duUXk4eXoyY0VaUV9vcC1sSWZLOXRCenFXWTdJUGJjQnNTTER0NlFaVmxOOE9TSUUwQnpieTRTZGtQWTdlT0pPaUg2U0p5bjU5NFd4ZFg1dW1Zc0RyOFQ3WlZKTlI2OFJCekpydFFjWUs1Qncxck9nakVOdVNHVk5IWVlIZ3VaeWowb3NuV1N6RlV1dDJTZXpBSlZ1MzBQR0lnRXFZM0JDNXU4LXFzSzU2c2YzMTZpWEc3dA?oc=5",
+      "source": "GZH",
+      "publishedAt": "2026-11-25T22:23:21.000Z",
+      "summary": "Escavações em sítio arqueológico na Rua Riachuelo poderão ser visitadas na Noite dos Museus GZH",
+      "image": null,
+      "topics": [
+        "historia",
+        "negocios"
+      ],
+      "score": 6.23,
+      "relevance": 7
+    },
+    {
+      "title": "Ibovespa dispara com especulações sobre Trabuco na Fazenda, avanço de bancos e queda do dólar",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcWctY0NUcGdEMldQVUJhN1dhWjE1T2hCV1dyRnB4V0JHdElkZFExSGo0dEs2dzQ1S2NlLTJ1Rmt1MVMzMWNZV21nVEd1ZzBPUldOVTdIUVVheUwycGdzbG8zNUVrdnduQUZEWkc5VXhKQzFKMXRNaTNxYnBaUFVWZXp0cnhLQ1M1ZU56bS1SLVdSOXdFR1lVazdKdXpxQmxhbWtacDJobGgzc2JqNm5fLVNocl9JU25UN293Rnd6WUFtNUhpenRJ?oc=5",
+      "source": "ADVFN",
+      "publishedAt": "2026-11-25T21:51:53.000Z",
+      "summary": "Ibovespa dispara com especulações sobre Trabuco na Fazenda, avanço de bancos e queda do dólar ADVFN",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.1,
+      "score": 6.11,
       "relevance": 7
     },
     {
-      "title": "Dólar cai e Bolsa avança com inflação dos EUA, expectativa por sinais fiscais e elevação de tarifas de Trump",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXA2VWlkZ2t2Mjc2TXhCRklvS2xnZUZkck5LVFV4S3B2VXF4NVQzaC1RNEJ2ZjFVbm5UQ1MwZG1TWjVORkxsVjFCaUZwcTdfNVpvY0hhNl9QeEgyQ1QwTlVkNFZqNXBJUXZ0ZHpyOFBXTXNqTzRoWF9jNmdhZmpsV1RvZEpmY3FhRWgwVGZ4S2hPREw3X1dVT1JLaVcwcXRmVHljM2RFeG1fZVl4RmRBSFd0VFU2cjZJSS13N2ZWVVY0OVZNY3VBQmY3V29JbEF5VDBGSjktY05FT3lNcFF3?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-11-25T12:56:00.000Z",
-      "summary": "Dólar cai e Bolsa avança com inflação dos EUA, expectativa por sinais fiscais e elevação de tarifas de Trump Folha de S.Paulo",
-      "image": null,
+      "title": "Pesquisadoras recebem prêmio por inovações e valorizam trajetória",
+      "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/pesquisadoras-recebem-premio-por-inovacoes-e-valorizam-percurso",
+      "source": "Luiz Claudio Ferreira - Repórter da Agência Brasil",
+      "publishedAt": "2026-11-26T00:03:00.000Z",
+      "summary": "Atuar pela população da Amazônia foi um sonho de infância para a pesquisadora mineira Fabiane Almeida, de 43 anos. A bióloga foi uma das 10 vencedoras do Prêmio Mulheres Inovadoras, promovido pelo governo federal, que foram reconhecidas nes",
+      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
       "topics": [
         "negocios"
       ],
       "score": 6.08,
-      "relevance": 7
-    },
-    {
-      "title": "EUA fazem explosão controlada de material tóxico que gerou polêmica e virou batalha judicial",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/eua-fazem-explosao-controlada-de-material-toxico-que-gerou-polemica-e-virou-batalha-judicial.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-25T15:07:16.000Z",
-      "summary": "EUA fazem explosão controlada de material tóxico em Iowa O Exército dos Estados Unidos realizou nesta quarta-feira (25) a polêmica explosão controlada de 68 barris de azida de chumbo, substância usada na fabricação de munições. A detonação ",
-      "image": "https://s2-g1.glbimg.com/gC6giin3dHYdtrTRi5W1xn6U1kw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/R/tOh7bARAmU9nDeSYm7Hw/2026-11-25t152000z-1113860993-rc23voa25d25-rtrmadp-3-iowa-army-detonation.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 6.05,
       "relevance": 6.4
     },
     {
-      "title": "Cinema do Dragão recebe pré-estreia de longa cearense, animação francesa e sessões gratuitas do FOR RAINBOW",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ2FORmc1TXJzd253NjdwQ0g5QVFxNldPMGNKS2hGVElkclN1UDREamd6TDFVV0FOc1NOeWtYVjBJUjZsakNHQlBtOE1SLWpfcUF1ajFPdks5dzVXQjQ0cktCX0VoSng1ZFVpQ183R05YUmVrNDBKeFFZWXN1N3lWLWg1OEEyNURoTktsTEtWWVAyNVlMckxfUDl5MXB4d0E4VnFCNl8zZWRSVldhVHoyUUN6TmtLNUFCTHVxcTZ4ZjhHZWJUdDVENGI5WENSY1dLT2xsbmxKNUlsbUhKUkdSbQ?oc=5",
-      "source": "Governo do Estado do Ceará",
-      "publishedAt": "2026-11-25T16:15:41.000Z",
-      "summary": "Cinema do Dragão recebe pré-estreia de longa cearense, animação francesa e sessões gratuitas do FOR RAINBOW Governo do Estado do Ceará",
-      "image": null,
+      "title": "Embraer reage a possível tarifa de 10% dos EUA e defende isenção: 'vigente desde a década de 1980'",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-embraer-tarifa.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-25T16:10:59.000Z",
+      "summary": "Tarifaço de Trump: EUA propõem elevar tarifas sobre aeronaves e açúcar brasileiros A Embraer informou nesta quarta-feira (25) que está analisando um relatório do governo dos Estados Unidos que prevê a possibilidade de aplicação de uma tarif",
+      "image": "https://s2-g1.glbimg.com/5F-9kNchMdBeo89lEwSqZ0oCBa4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/F/z/902GTpTEiPdJrtePLq5w/2p0a1624-1-.jpg",
       "topics": [
-        "cinema"
+        "negocios",
+        "geopolitica"
       ],
-      "score": 5.92,
-      "relevance": 6
+      "score": 6.03,
+      "relevance": 8.6
     },
     {
-      "title": "Lula articula diálogo com empresários e mercado financeiro para reduzir juros",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzBnd1JiMkdBWHI4TjJKOE5nSXI3ajJJcUVuY3A0NWdHZ1E0MkpTVnpiMUZrcVo2aUh4b2lMQndoTGRGVkhvU0djTjA3TEctb2VCZW1UcmVIdm5TOGdicVVSLU5vSFNJRW1oSWctN1ZZcktvRTNFMWdETm1xSXRDdnhMNzlicnRKZk9RY1FfbVZUV0lzMWNBZHdGR2d4UWdZQllBcEIxTk54N19hMWo5ZGVtOA?oc=5",
-      "source": "Brasil 247",
-      "publishedAt": "2026-11-25T12:14:56.000Z",
-      "summary": "Lula articula diálogo com empresários e mercado financeiro para reduzir juros Brasil 247",
-      "image": null,
+      "title": "Ações da Embraer caem 4% após EUA proporem tarifa sobre aviões brasileiros",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtRU5CVll4VExHQnlycHhQRHNnYmdXaE1YLXZ3U29ZbnN0QUN6NGRYV1JDdWlJWDYxVEZjb2Z5R0x0TGZiQzZ6ZzA4QmZPN2RTYnY1d3dYbDd1ak1CSDA5NWFqVzZ6STF1VmFHNkNCTnUzSm1CMHd1bU1pLVfSAYsBQVVfeXFMTnVBaTU4X3ktclliYk1WVE5DdjdQREloMTZzQlNCY3NoQWZBaklQUkpyem93MWtGbG5rQzcwZTNZTEo4VVJIRUVnV0pMLWppdllld3RJRThNVV91UHpRdmFsMmw4SnJYbFBycllSQ0tsb2hIdE9hNEFsekZRUE8tSkN0NTFKUkdDS0p2bw?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-25T14:26:53.000Z",
+      "summary": "Ações da Embraer caem 4% após EUA proporem tarifa sobre aviões brasileiros G1",
+      "image": "https://s2-g1.glbimg.com/WwyjspZu-5R4PE8I-3pVuCxHXRg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2019/r/R/8DfAE2QzOaOnxieFyCQw/57407314-1890924987679656-8097408448532054016-o.jpg",
       "topics": [
-        "negocios"
+        "negocios",
+        "geopolitica"
       ],
-      "score": 5.92,
-      "relevance": 7
+      "score": 6.03,
+      "relevance": 9.2
     },
     {
-      "title": "Recanto das Emas recebe festival de cinema com programação gratuita",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPek9EdkpEcDNwS24tcEE5eVFlMEo1MEUtYkU5Uzl5eGVQT0hPS1ExYmptRnZTc1ZkYmVzSmpHd093Ui1kQ1pvTzAyZFNOT0UzTlB1WlMzeGR6M0ZpMkdHTHcwa0FZSnJQYmNjSkVxWFkzRl9XTmhQOEJHVXg3Y1dURmUtWUVKVG92ZDZyYWFKa1NsbjNSamVXdW92NHJHdHV1SG92dVdzZ0QtX0dNd3c?oc=5",
-      "source": "Metrópoles",
-      "publishedAt": "2026-11-25T15:45:00.000Z",
-      "summary": "Recanto das Emas recebe festival de cinema com programação gratuita Metrópoles",
-      "image": null,
+      "title": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
+      "link": "https://g1.globo.com/mundo/noticia/2026/11/25/os-riscos-que-trump-corre-com-a-volta-de-jensen-huang-ao-comando-da-nvidia.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-25T11:11:51.000Z",
+      "summary": "Trump articula retorno de Huang à Nvidia Após a fabricante de chips de inteligência artificial Nvidia anunciar o retorno de Jensen Huang e as ações da empresa dispararem, o presidente dos Estados Unidos, Donald Trump, fez questão de reivind",
+      "image": "https://s2-g1.glbimg.com/tlS9NY2e8LV-41uF_Izxe56Fc_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/Z72AlURD27UEBOS1GKpQ/design-sem-nome-2026-11-25t074948.500.jpg",
       "topics": [
-        "cinema"
+        "negocios",
+        "geopolitica"
       ],
-      "score": 5.81,
-      "relevance": 6
+      "score": 6.02,
+      "relevance": 10.4
     },
     {
-      "title": "Filme \"Fogaréu\", com participação do ator Eucir de Souza, estreia amanhã no Cine 14 Bis",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQ0NCOWhmQWswODZ2NzRQV1FaS0VKNXhoVHNBamxtUW00Y0ZlTEV0eUhNREFiT3BJdEg0U1pSQXZSNGJyeVhsMmhSQUFYR2tHYUpES3V6cmFqWUdibzhyRHVkWlBaMlN3X0ViMTRyWjRndWU5WW4wcFBfQkcteUlfM3lSNW52X1pEcUZIXzJTc21nMTJ6N2xJSXd0RXhxcEZkLXctay16WlJEQk9qOUxpNnMyOVE1LXVQckVCb2I3a1JJQ3hOTGdHS2Z2djlVWmM2ZGsyNkhjaGYtdzE4X1NSZ2l4WGpVQTdSSWZva1N3QV8tYk9YNmJoalVQOEdwZ21IeU52QXllbDBUUUYxaWZSV3REblV0Zw?oc=5",
-      "source": "Jornal Jogo Sério",
-      "publishedAt": "2026-11-25T15:41:05.000Z",
-      "summary": "Filme \"Fogaréu\", com participação do ator Eucir de Souza, estreia amanhã no Cine 14 Bis Jornal Jogo Sério",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.79,
-      "relevance": 6
-    },
-    {
-      "title": "ARTIGO | Quem responde pelos dados da empresa quando cada departamento escolhe sua própria Inteligência Artificial?",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQUVRQ3FVeEY2UWRVaGRPOTc2U2g1SlczRURRUkF1NDB5UW5QOGI5b0tUNG1IRHpIc2dtSzZEYXBOdldQVEdtVVFyclI2YjNJYklveE8yNnpmMUpxbk9tV1MyWmx5YjFRb0FUUE9SQmFfa1NpVGZJaVBRRzF3c1EteHNzdlJSUmFjOVFYcVBjODdZZUVSaTFUa3J3TFV4NDJwNjFoVElkQnB6bVdNWHlPOE1VajFuSWNtd2Z2cDNOWGJBWFFXNTdZWWx6WS0xUjhyc2xZOF9YWW8xTm9zcEdIaHJUYw?oc=5",
-      "source": "Acontecendo Aqui",
-      "publishedAt": "2026-11-25T11:35:52.000Z",
-      "summary": "ARTIGO | Quem responde pelos dados da empresa quando cada departamento escolhe sua própria Inteligência Artificial? Acontecendo Aqui",
+      "title": "Empreendedorismo feminino e economia criativa pautam palestra na Feira Pará Negócios",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSTdMSEt1ZDgzbXNCQ3NXQjduUi1BZ1JQd0pFUmZwaU1ncU9mU0FvT0tKdnA4QV9DajR0TkNIU1VTNUFhQ2NMdVhCOTl1U3F1VVNmNkFidWRNSHRzVVFmeDRwUXhWZHJ4ZWlZOWpock1CV2xzSXI2OE1PdXVzZVRVVnRkSUcyclpVOHc3TW1RTkVLSlBnZEc2TldQVnREU2JhRTN6V0VMNlpsdlNwWDZXc3R6dEpvT3dqYW93OFB4eEtQSllyN3MweQ?oc=5",
+      "source": "Portal Guarany Júnior",
+      "publishedAt": "2026-11-26T01:12:48.000Z",
+      "summary": "Empreendedorismo feminino e economia criativa pautam palestra na Feira Pará Negócios Portal Guarany Júnior",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.77,
+      "score": 5.96,
+      "relevance": 6
+    },
+    {
+      "title": "Inteligência Artificial: a nova fronteira dos negócios e do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNWN6elRERDlMWkxsUEhUVEVHb2tVdkxDNGVyNUdXWWVVVTRuN0FjRVdZUEM1MG1aQjVydkVyTXlRUFh5M3YtQkMtRnhsR1ZnUmItSlRPeGRuR1c1VHphakFwVDJWNHR4bW9Gd1Z5YXRxLWhUTC1RcmVjQzgxVFg3aEhBamhOTW8tMldCdXBmX2IybXBNcnpCTVBod29TV1UxaFE2cWp5WnNjcVVvZVdPbFpiRzhuM1g1?oc=5",
+      "source": "FOLHAMAX",
+      "publishedAt": "2026-11-25T17:42:00.000Z",
+      "summary": "Inteligência Artificial: a nova fronteira dos negócios e do mercado financeiro FOLHAMAX",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.95,
+      "relevance": 8
+    },
+    {
+      "title": "Tendências 26/11/2026 | das principais ações da Bolsa",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQVlsTXlDRVAxLWVSc2Zqdmt5ckh4WXFQYTNrUGxNUy04SFE5UGwzRWNtNzVtSTJXbE1FVnUzYWprZFRHUWtfNXlaY1QxWUJYcER4YXZab1VVenNaeERpNWx6dmhHbm5Cb2k4Vzl2T1FpNkEydUFKYkJob2NaWldMbml2WTZBNUxQNm1NUGhaN0ZyUGQzX0FUbTBocUlFTi0wY3JTTUZiSHBha2t2?oc=5",
+      "source": "XP",
+      "publishedAt": "2026-11-26T01:06:20.000Z",
+      "summary": "Tendências 26/11/2026 | das principais ações da Bolsa XP",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.93,
+      "relevance": 6
+    },
+    {
+      "title": "Cine UEM exibe filmes do Festival de Cinema Francês do Brasil a partir desta quarta (25)",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHE3UDFRVWZ0LXB5Ym9fTEVDRVMtSFNEazdUSXNXMWh5VmlHN3hfcG11V2R2ajBHTS1YMEw3NEdsQTNLSGYzQUVUZF9lc0ZsOHJQSUJWS0NBZTlFeUlDTE9nS2syQ1BwVTVnLWlINXM0YTE5ZjBMa1FyWjdSQ0U4a3AyWmhTeEN2NlQ5aDVrLU92Z2gzNkRqYzZpTFhHclVRT0VjSkNzUlR6cmRHNDVBMll2ZVFYSEN1NUJPeHRn?oc=5",
+      "source": "Maringa.Com",
+      "publishedAt": "2026-11-25T17:31:25.000Z",
+      "summary": "Cine UEM exibe filmes do Festival de Cinema Francês do Brasil a partir desta quarta (25) Maringa.Com",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.91,
+      "relevance": 8
+    },
+    {
+      "title": "‘A Fabulosa Máquina do Tempo’ estreia no streaming do Canal Brasil | Filmes e Séries - Por Mattheus Goto",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcC1HYlJ5YlBuWjRfeElmMFN1SXkxQ2xLVEdQM3dhNzAtY1A0b3hPeUtxNGZrRHY0Qmpjbm5TUUxLS2hpV05UeDJfenFmWFJCSFRpY19Ra2dMRVF0UGhDREs2eFFaRzVQM1c3bFdFaDFVbk93OXRXWno2XzJ3ZUtQYzZOUTJvUjRHUjNqLXZQQTItbnJqaHdsNkhNOWNwN3V3ZVFMa0JmRk01dWdXLTVLMHdYQnoxWmZrdDU3V04yVGo?oc=5",
+      "source": "VEJA SÃO PAULO",
+      "publishedAt": "2026-11-25T17:28:34.000Z",
+      "summary": "‘A Fabulosa Máquina do Tempo’ estreia no streaming do Canal Brasil | Filmes e Séries - Por Mattheus Goto VEJA SÃO PAULO",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.9,
+      "relevance": 8
+    },
+    {
+      "title": "Tarifaço: EUA propõem taxas sobre 14 países para combater 'excesso de capacidade industrial'",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmczNDkwb2l4bzlfUUE1QjVTZDJGRmNnVF9mTXlXNEhsMnFobE50c0gza3lVbk1IVHZQczRQRWs5b2ZVbHRsOXlWcElNZ1NIS05ZQ0NZQ2JsYnlISDhHb2NjVkFjWDY0LUpNUUZEVWRwVG5qakRNMnJkUzFQWjFQRHBhM2ZzU29LeGZpX01IekQyUWJRUEhpa1pqSUpRSXBUb3h2NnEtSnNJRG92SUliNFFfS2l0QjFZX24wT2x6dzVaLVV1T0J3MEd5RjZWUEVtMkg0Qkcwb0ZNYlEwU3RSc3QxNnF0enRBTDRXUjdR0gH8AUFVX3lxTE9BVFBaT3cyUWVYTnFNVi1vSDFMVkFoOXJFeTFsMXBLOUNOeGVWbm11Q0w0ZnBfd0Vqam83X1NLT2RvZnFKR0sycWhMRjJYLU9BYkNFaWdUcGRqeXJhMXBLeU1adWoza2t3WjF1TjJfT001SjVXMWlteE1GaWhKTWJ1WHl5NDJyUm1PaGxZcmF2Y3k5TGlDNjB4RzkwT2hzdGkzTGFNLU83QWJCQ0xqT05tbXp4cnA3UkZ2SzFKeDJkUHhNT0FYRWVYcUplNjVSSG92WFVKLVE1VldNbjB0LU9RVV83dmdZeUpwalJaUm5rRWUtb2g0SXJzUEpsTw?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-25T14:26:17.000Z",
+      "summary": "Tarifaço: EUA propõem taxas sobre 14 países para combater 'excesso de capacidade industrial' G1",
+      "image": "https://s2-g1.glbimg.com/aXyNVVWsq60bPQtSWJG7V6w9CH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/jd0F5xTUOKSVRgim8nnA/2026-11-16t144017z-1345596019-rc22poaux99k-rtrmadp-3-usa-trump.jpg",
+      "topics": [
+        "negocios",
+        "geopolitica"
+      ],
+      "score": 5.9,
+      "relevance": 9
+    },
+    {
+      "title": "'Recessão é definição arbitrária', diz ministro de Milei após queda na economia da Argentina",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdEJFdHVIMGtNN0dLeVRNQkY4U3lIQXEtRHU2VFBYUWhUWDZwSnJHNnpXbG5TcWMtNkNnb3dKU3Q0a19jcmNidnl4T0FpT0I2dTBmM2FITVptMnZmYWxDb1pkWmpjRHg4SDhtR1o5THhuTVR0cnRIUzRpb09YV1BvN1k0Z3l5WnU4dTZidkVjSkUwakRuYmRLSlVENEdhaFdUZUQ0ajdRNjkzU2pVNDBEdVduOWdLaG1TUHNaSXZtb1VjSHQ4RF9sQ2RMZWQ2M3E0UElnNG5qT2o?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-11-26T00:55:00.000Z",
+      "summary": "'Recessão é definição arbitrária', diz ministro de Milei após queda na economia da Argentina Folha de S.Paulo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.89,
+      "relevance": 6
+    },
+    {
+      "title": "Filme “Retratos da Várzea” estreia nos cinemas com sessão comentada – 26/11",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTnJVeWJ6VXdnUi1wd3JZNUdOZFFWR3p0X29SdWY5Vlg3NFFjbFlIOERudWhmcWVrYXAtRTByVnpTZVFTMnB1MXFJU3ktdVFMdlVnbFpsTWxZVVZ2YnhZbjRvVHlUU09ZTVRoeW03YlNGNUtKQ1F6WFNCV1hVZnhHcTFYT25SS0tNYmJXSVQyRzYyZ2FtMUxITWp0NDFLb0hjbzJwRzhn?oc=5",
+      "source": "Agenda BH",
+      "publishedAt": "2026-11-26T00:43:04.000Z",
+      "summary": "Filme “Retratos da Várzea” estreia nos cinemas com sessão comentada – 26/11 Agenda BH",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.84,
+      "relevance": 6
+    },
+    {
+      "title": "Economia dos EUA acelera, mas inflação desafia o Fed",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGg4QXlpRlhvZmtrUDlqX0lMQVh1SlRXZFI0SjBraFp1NUphUmwtUl9FYngzVG9qSHZ6dWZ5WWhsVHVIYml2aTlnTW01VVBLaFRNcjdWNW82c1NHd2xLU1EwV0c0b3pJMzZzbHpCSFZoWlpWN1Z5SG13MUFOQmh5d2dYenpqN003U3RZ?oc=5",
+      "source": "Jornal GGN",
+      "publishedAt": "2026-11-25T20:42:00.000Z",
+      "summary": "Economia dos EUA acelera, mas inflação desafia o Fed Jornal GGN",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.84,
       "relevance": 7
     },
     {
-      "title": "Trump propõe novas tarifas de até 20% contra China, UE e outras 12 economias",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbTl0UzBNakhWLWdCMnBXTFRVblZoSGRXRW9UZWtYSy1FRlcydy0zNUlIMS1vSXdnRHpBenZYMXNPam1sdTR2YVJrQlhEQWtMTFI4LXFHaW43Z3ZNNjNoRkx4T0V0MDl0UGhjaUZWNm5EbGs2R2I1RzV4b2EwbE4wcDI5VGkzMzNtc3d0elQ1YVhkQ1Vob3NFWm1HQm9IM1psM2w2bGN6Q2xFMlZEcUlr?oc=5",
-      "source": "VEJA",
-      "publishedAt": "2026-11-25T15:21:50.000Z",
-      "summary": "Trump propõe novas tarifas de até 20% contra China, UE e outras 12 economias VEJA",
+      "title": "O mercado financeiro brasileiro encerrou esta quarta-feira (25) em alta na Bolsa e com forte queda do dólar. 💵 DÓLAR A moeda americana recuou cerca de 1,6% e fechou próxima de R$ 5,82, depois de atingir R$ 5,97 durante o pregão. 📈 IBOVESPA O princ",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UcmtvVFdnZ2tIS3A5S2RSUjRqRXhqRWU4WlF1NkkteG9uMGNwNkhfSGJzczZReG12N1RIQ3ZhSlBOMXhsVGpLZEJ0X1drM0FsdTRPaVNB?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-11-25T20:31:51.000Z",
+      "summary": "O mercado financeiro brasileiro encerrou esta quarta-feira (25) em alta na Bolsa e com forte queda do dólar. 💵 DÓLAR A moeda americana recuou cerca de 1,6% e fechou próxima de R$ 5,82, depois de atingir R$ 5,97 durante o pregão. 📈 IBOVESP",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.8,
+      "relevance": 7
+    },
+    {
+      "title": "Real Tech: inteligência artificial muda o comércio eletrônico e desafia empresas a vender para robôs, afirma Igor Lopes",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTDc5dGI1X044RmR4eGJESkh5QWJHOUFRQ1BUNmhyRlY4Nm1adHVnZFRyTXlhQzlfeXZWM0dENG0wUEd3YVhjYmpNWUozZzJRSWFBeHhMbHczRGpKRzdwb0h3YVZCMGFWNzU1VGVUdmlHVC1Kdlp2V3Q1VVBGSFB0emJfaVh1TFJ1dTk5Y215czd6UmVYS0U2OTFEdXNEdmZyVzN6VF9aVkdsdjJ1WGd4V0FGaTVmNXF1NXpBdHBaSWdxS2F3ZDNyZVhpbVJlVFEwY1lLaGdkVWlCbW5xbWZIbmFhSXE3UDZaM29EQnJMeWJEa2RBTmc?oc=5",
+      "source": "Times Brasil | CNBC",
+      "publishedAt": "2026-11-25T17:02:00.000Z",
+      "summary": "Real Tech: inteligência artificial muda o comércio eletrônico e desafia empresas a vender para robôs, afirma Igor Lopes Times Brasil | CNBC",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.8,
+      "relevance": 8
+    },
+    {
+      "title": "Bolsa sobe e o dólar cai com expectativa por novas medidas de controle das contas públicas",
+      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/25/bolsa-sobe-e-o-dolar-cai-com-expectativa-por-novas-medidas-de-controle-das-contas-publicas.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-26T00:26:13.000Z",
+      "summary": "Bolsa sobe e o dólar caiu com expectativa por novas medidas de controle das contas públicas No mercado financeiro, a bolsa subiu e o dólar caiu com a expectativa dos investidores por novas medidas de controle das contas públicas. Mais um di",
+      "image": "https://s2-g1.glbimg.com/hvutAGLewE4Ric9W68tc-UYbuRI=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/0/lHxMdmS5u78lKKCF4Rgw/globo-canal-4-20261125-2000-frame-78557.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.78,
+      "relevance": 6
+    },
+    {
+      "title": "Sítio arqueológico com gravuras rupestres é identificado no Piauí",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXF5WjBIVThYZlpaX2dITjFZZWhDQTVLT3QxYWE1aFlWdmYxMWFNa21OMThUbHRpZGhHZzFNaTFvQkFMVnl4dmpxbXVJZjZLS002bTVsZUlPZ1laVmZVRXhERm1SbFdvYXJyemdrZno0ZE5Jd3diX21JeUNsSDI4cjVwUW9BSXdDZkJ0aERDZldFOXZtRWZaRGtqR1lvMU5udkNZTXU5QVNRaXpCSFBYdG5VcmlZSzIxckJyRFZIVzlQQzN6NVE?oc=5",
+      "source": "Aventuras na História",
+      "publishedAt": "2026-11-25T22:30:12.000Z",
+      "summary": "Sítio arqueológico com gravuras rupestres é identificado no Piauí Aventuras na História",
+      "image": null,
+      "topics": [
+        "historia"
+      ],
+      "score": 5.73,
+      "relevance": 6.4
+    },
+    {
+      "title": "CONTEÚDO PATROCINADO por @totvs | Líder em sistemas e plataformas corporativas, a TOTVS disponibiliza tecnologia feita sob medida para apoiar a gestão das empresas do setor de educação, incluindo os ajustes decorrentes das novas regras. 🔗 Leia",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xeDJnaGlMbV9OWGVrMnZpTnc1dGtzaGFCMFFyTEVTcm8xVWlVblVnX0Jjak92T2FaWXpreXN2Wm1MV1V0RndFd2pBRTNBOGo0bEE?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-11-26T00:10:02.000Z",
+      "summary": "CONTEÚDO PATROCINADO por @totvs | Líder em sistemas e plataformas corporativas, a TOTVS disponibiliza tecnologia feita sob medida para apoiar a gestão das empresas do setor de educação, incluindo os ajustes decorrentes das novas regras. 🔗 ",
       "image": null,
       "topics": [
         "negocios"
       ],
       "score": 5.72,
       "relevance": 6
-    },
-    {
-      "title": "V Festival de Cinema de Arapiraca movimenta Arapiraca com cinema, formação e intercâmbio audiovisual",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOXV4NXR3Wi1nU25qdjZGRjU3MExCS0Y5T09vNFZzVzBOckRBeWh0eFhXV1ZDcDBpQUg2S1R3TTJwbU16NmcxTF80VF82VHJjSGVmV3lMem9SU3JlVDhfTy1NQnZ6WktIZVZxWEZpZFh4Z3hEWnNOMUZhbGpEUHRvbmdYSUxtcXNGb3pRSzBxdHItdlJBRGlsZWFsREVId2FTN01ocUdIYWE0SjFPSVdZSnNxNTU4X0w0YXZPX214R05OSWQ1OUxHaVhOVWFOdlV1RUU3eUdiVWlYUUdta1J0d0c5eGZxUTF2ekI1LTRmSTNDTXc?oc=5",
-      "source": "Tribuna do Sertão",
-      "publishedAt": "2026-11-25T15:12:00.000Z",
-      "summary": "V Festival de Cinema de Arapiraca movimenta Arapiraca com cinema, formação e intercâmbio audiovisual Tribuna do Sertão",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.69,
-      "relevance": 6
-    },
-    {
-      "title": "Festival de Cinema Francês terá sessões gratuitas no fim de semana; veja onde",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2RZSjBYRTJpVDlxSTVVV0lISzRhdFdiZWVRcEkzMy1sc2xTTHBsSS02Q24wenk5Ym9naXdNYklyYWFMSXBmSjdUbzVDVVNvTHpmZFBIVFVSUUVYT3c4M3RSUHQ4YVNEYnExLXVJMlo5X05PSUlacVViNUN5YldMWDRsbVZWekc1MEZTVXpvR0o5b3NVSE01Ri1oRnRHcEJjLWtWS0VXQ3pvM3hRQmE5a2RrMkRmUGc0V2JRbERnRW1COTlIM0pN0gHMAUFVX3lxTE9tR3FjLW1EaTU4UEZHaVZEbTJLcDFVQkNhT1RMN2lxcTFxUG5rSE9ZdmVNblljd18xN0JBRzl2bFZMakROZ1RxMTdaelhPVkxKbUxsMjRHYXRMZURyeEQ0dGt3VGI0aHc5SGdLQkt3cWpUYVdGVERQQjc3NTFWemtBWjNiOHVRU05ySUNmbnNtbkFOYUthWUtDNEJheWd0WVdTVGNna2k0ZDJQR1IwNk1nQmdpVGhmQnZoaGtZZmVrRHFaaF9FdF80dzh1Tw?oc=5",
-      "source": "ACidade ON",
-      "publishedAt": "2026-11-25T15:11:49.000Z",
-      "summary": "Festival de Cinema Francês terá sessões gratuitas no fim de semana; veja onde ACidade ON",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.68,
-      "relevance": 6
-    },
-    {
-      "title": "TV Aparecida exibe filmes premiados no Oscar em sua programação de Fim de Ano",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcVBoU18xQV9HNmZ6WURHZWpGYUZ0VVp6WWxFSnlwY2hsSkh6MjlpUTNrMk8tbGxWZ1dlbC01SEtTVmNhUVNKM0pvdC1qb2xKWUFfNVV3OEtsdEgzaFZxVzRDRUQxVkFEZzU0bmVQMFRhUk9ORjRSZHFSY21IdWZCdEZIWXVDVDZLTDVSTjY1WFFMbnpkNFNvd21SUlE2dXpqVHREaTZDZ190VEFJbWJTM1d3V1BVSUVDaUpqSTEzaHFOZGVvMmtVM0lHeUJra0UwelcwWg?oc=5",
-      "source": "O Tempo",
-      "publishedAt": "2026-11-25T14:58:48.000Z",
-      "summary": "TV Aparecida exibe filmes premiados no Oscar em sua programação de Fim de Ano O Tempo",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.64,
-      "relevance": 6
-    },
-    {
-      "title": "Brasil terá recessão se Lula 4 não fizer ajuste fiscal mais robusto até março de 2027, sentencia Eduardo Giannetti",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZaG9TR1Z4ZVREVkM4Y3hGQXJoTVdLM0Y4ZzJCc1BKSWxieWZaeDdOV0VpSWtVWkFaVWpfRzBxZVl3T1h2QUVUc2FSRER3N2FpYXZEVzNjVzBxVG5PVmQ2ZXR2RdIBaEFVX3lxTE4tdG81TXJicC1TU21MbFJqdTJlb1BBOUFrT2ZCbzU3ekhSaEIwczZvZEF0VGVLcHBfaXZJS3pjS1hITzVHQXY5UURvTUpJQnVmeDIxOVQybElPbm1vY2M3THBmTm85dFZS?oc=5",
-      "source": "BBC",
-      "publishedAt": "2026-11-24T18:05:49.000Z",
-      "summary": "Brasil terá recessão se Lula 4 não fizer ajuste fiscal mais robusto até março de 2027, sentencia Eduardo Giannetti BBC",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8419/live/7cc6ab90-e818-11f1-ab42-55d8d8278025.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica",
-        "filosofia"
-      ],
-      "score": 5.63,
-      "relevance": 13.4
-    },
-    {
-      "title": "'Manipulação política': China critica plano de Trump de impor novo tarifaço",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/25/china-trump-novo-tarifaco.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-25T11:32:44.000Z",
-      "summary": "EUA barram pedido do Brasil para analisar tarifaço americano na OMC O presidente dos Estados Unidos, Donald Trump, prepara novas tarifas contra 16 parceiros comerciais, incluindo China e União Europeia, sob a justificativa de que esses país",
-      "image": "https://s2-g1.glbimg.com/x5mY8hfaecLMk5Rsb_QFOnVLEHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/K/RVgPAdR0Oy3cMAodXRdQ/2026-11-25t104210z-1395619294-rc2aqoall05m-rtrmadp-3-usa-trump-tariffs.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 5.6,
-      "relevance": 6.8
-    },
-    {
-      "title": "5 filmes sobre Jesus Cristo que marcaram a história do cinema",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONk1yYTBFSFBHd0JBX3pQcjh0TmxZczFjSFpQbUtmU3c2aGIzaUtYTGp3SmxaUmdxdFRJdEtndVNmMW1jQVJvNjlhM241b2FUS0FGbm5abi0xaWRYQ0MxZmJ6MzJtRkhzSzZwd0tqcnBqMzBRMmFwVWsyTkFQMTRCMi1maUpZQVJMYXFZR0Zkb2s2Nkk?oc=5",
-      "source": "GeekPop News",
-      "publishedAt": "2026-11-25T14:29:20.000Z",
-      "summary": "5 filmes sobre Jesus Cristo que marcaram a história do cinema GeekPop News",
-      "image": null,
-      "topics": [
-        "historia",
-        "cinema"
-      ],
-      "score": 5.53,
-      "relevance": 6
-    },
-    {
-      "title": "Inflação nos EUA sobe ainda mais em outubro - 25/11/2026 - Economia",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVkozZ1pUUi1jRHpQSjZnZXJwRnZrNmlvcW5mUFFNVmt0NWFSUHpWQTI1c3c3NXZOMVRMOXkxWU9kN2E2Ymh1dk1USUhoa1Ftak5HMFBCNHhseDVpTzhDOWlsd1luSWdGS0tYdlpYYmZlbUxDaGw1cHFGcmJzN0toR3hjanJCNzhwb3JsRlJ6TGlyMFFyNDZhQ0NWWQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-11-25T14:26:00.000Z",
-      "summary": "Inflação nos EUA sobe ainda mais em outubro - 25/11/2026 - Economia Folha de S.Paulo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.52,
-      "relevance": 6
-    },
-    {
-      "title": "Austrália aprova lei que prevê multas bilionárias para big techs por conteúdo prejudicial",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/25/australia-aprova-lei-que-preve-multas-bilionarias-para-big-techs-por-conteudo-prejudicial.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-25T12:38:28.000Z",
-      "summary": "Nova legislação prevê multas de até 5% do faturamento global das plataformas que não removerem conteúdos prejudiciais. Jornal Nacional/ Reprodução A Austrália aprovou uma lei que obriga as empresas de internet a identificar e remover proati",
-      "image": "https://s2-g1.glbimg.com/1Wd1JFIZUL1eOca95FgI2ub9gXQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/Z/o/W6twVSQjGJXCVB86gA4A/globo-canal-4-20260818-2000-frame-65998.jpeg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 5.5,
-      "relevance": 6.4
-    },
-    {
-      "title": "Selton Mello estreia no cinema argentino em filme de Benjamín Naishtat",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejJEY1BaUVNXTzgyaG5ZT2JkTGcwRlVaZ3lubE1ULWxzcUNSUnpQQWJzMU1iTUZyTDQ1dlViUTljUERxSzFBQXlvQmJyMkRNNklFNnVPcFpZRHlqZFR3bksxRjVuN3Z6a3lpMmg5WmJJNUpyMVkzLXh2cGpwYnBaZmRXWXNnbEdUajQwZXFQRTRYX1pkdzNhdUJMVy1Pdw?oc=5",
-      "source": "Caderno Pop",
-      "publishedAt": "2026-11-25T14:16:12.000Z",
-      "summary": "Selton Mello estreia no cinema argentino em filme de Benjamín Naishtat Caderno Pop",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.49,
-      "relevance": 6
-    },
-    {
-      "title": "Cinema: Dona Onete, Yellow Cake e mais 3 filmes brasileiros estreiam na quinta",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FZGZsNHI0Z0NHb21vSHp5YjlpTXBiN1VUN08zS3NyNE1NRHhDSHJweXRnSkEwdU1DSjUwNUptenc1ZFY0WFY5Y25VYmQwSnBlSVdtZUZXbnQ0dmRkTmFpa1MxQ3BfMW1wbF9oZ2phdEpocnBnLXV5RGhfaVk?oc=5",
-      "source": "Espaço do Povo",
-      "publishedAt": "2026-11-25T10:17:11.000Z",
-      "summary": "Cinema: Dona Onete, Yellow Cake e mais 3 filmes brasileiros estreiam na quinta Espaço do Povo",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.49,
-      "relevance": 7
-    },
-    {
-      "title": "DXC e Cisco unem IA para otimizar operações de TI em empresas",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKcVYyX192U3NVOG1TcjRTQkk1bnNsZGxCaWNkVmhWRFhSd09uQXVfUE90SC1QdmpmN0hjUlJxYXp1NzdDYU1wYUQydk0tUFhJWk03VW5YeHpfUdIBX0FVX3lxTE96b0tUTzUxSGNPeUI5X0pMc0pYTFpPVV9qWUI2NVNqNEJWSzYyWmJMSks1UGRqaVpJZWV0Z19WME1peExOU25PRVBncWFMOVN1WDJ6MG0zTXRzeW0ya3Qw?oc=5",
-      "source": "IT Forum",
-      "publishedAt": "2026-11-25T14:13:12.000Z",
-      "summary": "DXC e Cisco unem IA para otimizar operações de TI em empresas IT Forum",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.48,
-      "relevance": 6
     }
   ],
   "byTopic": {
     "historia": [
       {
-        "title": "Evento ressalta patrimônio histórico do TRT-2 e celebra 85 anos da Justiça do Trabalho",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOblNiWng4Zl90RXhqZEZVQnhzd3pTLTQ5UHhlNUNpU1hvbXdEZFR2YndIamsxVGRXUGVxblBDUHJGN3dDdDFBWUlBNUZ4aDhheU5BNXFvakZKZ2ZDV0lubHp5MDJnVVpHa2tqbFRSRV93Nzc2VTdnbW1mMURENV9YbnNEY0xHNEE3NVgwR0hDS1NaNEtKbm5FMmFZUHpaREY1bWZ4cUdpZFlXWHlqVlE0NGJUOVZDbGg5MDlXQTBtT19IWTB4LUlEZ0JMVW5mUnI2dFE?oc=5",
-        "source": "TRT2",
-        "publishedAt": "2026-11-25T16:00:19.000Z",
-        "summary": "Evento ressalta patrimônio histórico do TRT-2 e celebra 85 anos da Justiça do Trabalho TRT2",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.89,
-        "relevance": 5
-      },
-      {
-        "title": "Programa de inovação e reportagem sobre arqueologia em Roraima recebem reconhecimento nacional",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYV9CNF9SWk9nNGJlS0hoaU5TWjhPQUNzZ3ZuVUhJSnNCNzNpb0ZOSGJUenZyUkdDNXZIZlBCTlUwZzlHaDB6Tkk0Z2xrZ2FJT25laHdBckdXUjBJd2hGazRYTUFwa0hESHhoeHRRTjRYdU9LaGlHWkZ3LU9mS3J1WUotQURBSUxnT192S01VZkY5M2Z0OVR3LXlMYi04WmlIT2xDSlppWW1lRVMzUzdNQ051eU91QmFJNXZPeUpoR3VIeG5uaVRhejVkNWRQdEY0b0M5WFQ5a3BoaW5EdG1DZW9UVnpMam4zRTJZ?oc=5",
-        "source": "Roraima na Rede",
-        "publishedAt": "2026-11-25T14:01:00.000Z",
-        "summary": "Programa de inovação e reportagem sobre arqueologia em Roraima recebem reconhecimento nacional Roraima na Rede",
-        "image": null,
-        "topics": [
-          "historia"
-        ],
-        "score": 4.53,
-        "relevance": 5
-      },
-      {
-        "title": "Em meio à guerra, ataques russos atingem patrimônio histórico da Ucrânia - Notícias",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORU9wNlZjVDQ0REdzT0Q3bVprVF9IOWxHTXhyXzRHY0gyYWlDY09NbjZHcm1iUlRqMGhhYU1oSFhhaE5naVJqUHlhOGVvRXF1N1M2SjZlTnF4MFNuLU5qZkEwMFltTWVlSkZPem9IN0F6Sk14ZlhFTndfUU5ONTlvZUsyaFB0dHpkdG9HRkszRWtfdmdUc1BvTGRFVEk2c2tod0RqUFN5Y04xRWgyT0Q4?oc=5",
-        "source": "Canção Nova",
-        "publishedAt": "2026-11-25T13:12:01.000Z",
-        "summary": "Em meio à guerra, ataques russos atingem patrimônio histórico da Ucrânia Notícias - Canção Nova",
+        "title": "Escavações em sítio arqueológico na Rua Riachuelo poderão ser visitadas na Noite dos Museus",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQY1lpU1BOV2tfLXJCNE1hUWZqUVhDX1VOX3RJUUFYWjktcUtyTW04NmhvRjlGRmt1OGJBV0xFcDE0UmdrX0hmYnhoR2VDNUw0emZ5T2F5TmZjUERZV0duUXk4eXoyY0VaUV9vcC1sSWZLOXRCenFXWTdJUGJjQnNTTER0NlFaVmxOOE9TSUUwQnpieTRTZGtQWTdlT0pPaUg2U0p5bjU5NFd4ZFg1dW1Zc0RyOFQ3WlZKTlI2OFJCekpydFFjWUs1Qncxck9nakVOdVNHVk5IWVlIZ3VaeWowb3NuV1N6RlV1dDJTZXpBSlZ1MzBQR0lnRXFZM0JDNXU4LXFzSzU2c2YzMTZpWEc3dA?oc=5",
+        "source": "GZH",
+        "publishedAt": "2026-11-25T22:23:21.000Z",
+        "summary": "Escavações em sítio arqueológico na Rua Riachuelo poderão ser visitadas na Noite dos Museus GZH",
         "image": null,
         "topics": [
           "historia",
-          "geopolitica"
+          "negocios"
         ],
-        "score": 4.39,
-        "relevance": 5
+        "score": 6.23,
+        "relevance": 7
       },
       {
-        "title": "Eles dominaram a Anatólia com 6.000 carros de guerra e peitaram os faraós: o império esquecido que a história apagou",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbmJUQUI5MGZ2dzUxb1Z1bTlsaEJKN3N2U3VhSVlxWFU2eGFsdWxhTzRyQ3JNZ0JTLVRQdjhqekphNjhlSVhxNko4aDRGck80NWp3NHVvZUJFckxWbkJxUGdURUNxMDNTSG9BUXRkclVOcmNtVHctNHpPWXliTlZFNWdZdDJ6UXAxQ2U4V2lPMDREY0xSeVhhVV91OVFNazYtN3Qwb0lYbnRMem1XLU5pTmRxRTZjZXI3NWY3bnNkZ3puaHdIRUhiS2lnLVZKMHVJRm1DSnduV0RETGtxbE5IOTlOQ2o4Vm02d2JaX0N6bw?oc=5",
-        "source": "CNN Brasil",
-        "publishedAt": "2026-11-25T13:05:06.000Z",
-        "summary": "Eles dominaram a Anatólia com 6.000 carros de guerra e peitaram os faraós: o império esquecido que a história apagou CNN Brasil",
-        "image": null,
-        "topics": [
-          "historia",
-          "geopolitica"
-        ],
-        "score": 4.37,
-        "relevance": 5
-      },
-      {
-        "title": "Ruínas monumentais em Alexandria podem esconder antigo túmulo real",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOTQ1emg5ZmVDYVZQVUJLTl9yRmMycGRuQWtMVzBfQXJ5SzcwUy11TzFiSUZUMjdWTnAwclhkRTdRM2J5WnVUVFM1d0hiemdsY0dwLWVzZnBOZUJSOXZlZWxhSFY5NzlweFE1cjJfUDFPZW50a19GTjlaWXd5MUJybFRmS0prWnlmOTRVaERMMVZzdDZkZ0FueDlSQThsOXFneHRRaUV4Y254R1ltdmd4THJpS2RBQU5CLXpTREdFVUMxMmZWVDBJ?oc=5",
+        "title": "Sítio arqueológico com gravuras rupestres é identificado no Piauí",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXF5WjBIVThYZlpaX2dITjFZZWhDQTVLT3QxYWE1aFlWdmYxMWFNa21OMThUbHRpZGhHZzFNaTFvQkFMVnl4dmpxbXVJZjZLS002bTVsZUlPZ1laVmZVRXhERm1SbFdvYXJyemdrZno0ZE5Jd3diX21JeUNsSDI4cjVwUW9BSXdDZkJ0aERDZldFOXZtRWZaRGtqR1lvMU5udkNZTXU5QVNRaXpCSFBYdG5VcmlZSzIxckJyRFZIVzlQQzN6NVE?oc=5",
         "source": "Aventuras na História",
-        "publishedAt": "2026-11-25T15:30:17.000Z",
-        "summary": "Ruínas monumentais em Alexandria podem esconder antigo túmulo real Aventuras na História",
+        "publishedAt": "2026-11-25T22:30:12.000Z",
+        "summary": "Sítio arqueológico com gravuras rupestres é identificado no Piauí Aventuras na História",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.22,
-        "relevance": 4.4
+        "score": 5.73,
+        "relevance": 6.4
       },
       {
-        "title": "Jovens aprendizes do Senac visitam a Fototeca Municipal e ampliam conhecimentos sobre a história do Rio Grande",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNUjF6angxOWd0SEtfQ0hEVmZRYUNsRXpYazB4UXE5WU1QVC0yMlhzVGpWSDFyOWZMNXRoRGJlZDEyQTRNeU1ZcjJDV0xoRjRHOEhIdTRWTEVhMENhZHBmTHdLdlpNMHBMZXFTdG5saTRnYXBERURLclBwX3UtQVBIUDNFOGUxRXI2UDhOOFZNemMyM3JoWmtDS21VZUJpazVUNkdYS3gwdk5GalJRV1NNdGlKMHpkUDNPblNIdUM4MV91ZXIyVHd5cElLcTBGWnlqOF9YZ2Q5ZGt5OFJKMmNueC00WnFTYmJacDZsTDV0OVRXMzRJdUFNSzhNNFowMlNQLTlIYQ?oc=5",
-        "source": "Prefeitura Municipal de Rio Grande/RS",
-        "publishedAt": "2026-11-25T16:16:36.000Z",
-        "summary": "Jovens aprendizes do Senac visitam a Fototeca Municipal e ampliam conhecimentos sobre a história do Rio Grande Prefeitura Municipal de Rio Grande/RS",
+        "title": "Local de massacre de soldados negros no RS durante Revolução Farroupilha é tombado como patrimônio histórico",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVThDTGRfSGRSQVBWM1dnYnZqMzhfXzh0d2JzYURsV3k4dTBRY09iNDdsUk92QlFxUC16NGFNVmZUeHlKRU9ERjBoZDRLNU1sTG1EeEtORGJ4MHlkNWNPYlNFek9pS2hYbW9ONnh5VllsWkRubUZoN0hIeDA2bWpNdXRoZFhVcUlWaEt2UlowcTZVWTRPdV9JamY5by14Y0JwQ0lQX1c1QlbSAbcBQVVfeXFMT3NLelRYZHBXUEpfUW5OU2puQnBuTndvTy1qdUlTU09jdml4UHVrSEZDUjBwZjVGcHI4R0RXdTN3Rmh6SkJBUGRrZTRIYjFGZ3pRT3dCb05CWFI0RXJrX1hzT3puTzJfdHlvRlVKNmVFVEVsQThDSXNLSEVnenhhWFN3LW5VQ1VQZXRMODlsNk8yVEh1Sm0tc1RxOHp3d1JiamxJZmFvVG5kazl6NUtJN3c4aHFjUldJ?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-11-25T21:57:17.000Z",
+        "summary": "Local de massacre de soldados negros no RS durante Revolução Farroupilha é tombado como patrimônio histórico G1",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.95,
+        "score": 5.26,
+        "relevance": 6
+      },
+      {
+        "title": "TCE/SC realiza manejo arbóreo autorizado para preservar patrimônio histórico da antiga Escola Lauro Müller e garantir segurança | O Tribunal da Governança Pública Catarinense",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSE9DR2NKaDR6TnMteWxjcDVUcjlMejFMdXdheGZ1MWw2STkyN2pUVm1LZW52d1dRaEF0amc1ekRBUVNUN3VlOUJZN0VScTdIaV9HRWl1UFVydHB1aTRKdjNQS3lhcHdEbUdkekpUYzdzQnNTMXpCejR2R0RCQ194ZmVwb2RGT25mdzBTVXk4SzRuZFppRjJLLWZQNXlaM0dkVjE4TkVDRFZ0WTFtZ0JfZjhuckJGTk5saG1rNmhCNA?oc=5",
+        "source": "TCE/SC",
+        "publishedAt": "2026-11-25T19:26:00.000Z",
+        "summary": "TCE/SC realiza manejo arbóreo autorizado para preservar patrimônio histórico da antiga Escola Lauro Müller e garantir segurança | O Tribunal da Governança Pública Catarinense TCE/SC",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.97,
+        "relevance": 5
+      },
+      {
+        "title": "Exposição coloca em diálogo arte, história e justiça sob a ótica da Constituição Cidadã - Pressenza",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmxycjAzcW1BeU00aVhpWDhhU2NTanR3UENpaFJMdGF2NEI5dW53aUNfbmFzdkJFTVR5ZmdhMXh0QkdtZFR6MGZuQ1ZKWGU2TlE2SVNPdENDejEwVkxHT1N1UER2dGZpVW12S2VmVWxWQWVXTGFlVE1ULUF3VmxBazYzOHc3b1NyZ2haZkJESHd3YzNkX3gwUEF4cU85NjNabFhfUGhsS2p5UTkyR0RmQjB6anJYNV8zNnMyZVlMVXZNakRJNEE?oc=5",
+        "source": "International Press Agency",
+        "publishedAt": "2026-11-26T00:27:23.000Z",
+        "summary": "Exposição coloca em diálogo arte, história e justiça sob a ótica da Constituição Cidadã Pressenza - International Press Agency",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.86,
+        "relevance": 4
+      },
+      {
+        "title": "G7News. Trout Recording · Phoenix. Uma história de talento, persistência e determinação! Renato Nicacio, conhecido nas redes sociais como Nego Nato, é um jovem com paralisia cerebral, diagnosticada quando tinha apenas um mês de vida, em decorrênc",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQWlRYM1lJWnBzNmNjQjV4ZFphQnh1TUdsUDVBeVV0M1ViOVBzTjJuVEhRZE90eUtkMFhEbHc5SEk5V09KV2lxZE9fWE5wS2g5Z3NIckxLcTZMYk1ZbFJnc3VJTzBudHE1TS1MSUpzZkx1VU1XMWU5TXhtSnUzb1pjdk1NT1BOOWJsZkY2a1dVZHhFelFQTXo1S192WGptWlpITjJER1M3ejR6QWhDVXdhc2dTel9LX0ZVaC1qYlFnYk9WN0xlVWh4cHdRUVUtcmdmQzJSY1hEdWc2ZnJ3dmZmLTdYbjlTUXU3SmE4UUVHSzJRUQ?oc=5",
+        "source": "Facebook",
+        "publishedAt": "2026-11-26T00:00:09.000Z",
+        "summary": "G7News. Trout Recording · Phoenix. Uma história de talento, persistência e determinação! Renato Nicacio, conhecido nas redes sociais como Nego Nato, é um jovem com paralisia cerebral, diagnosticada quando tinha apenas um mês de vida, em dec",
+        "image": null,
+        "topics": [
+          "historia"
+        ],
+        "score": 3.79,
         "relevance": 4
       }
     ],
     "geopolitica": [
       {
+        "title": "Kim Jong-un diz que status nuclear da Coreia do Norte é 'inviolável' e faz ameaça de guerra",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/25/kim-jong-un-diz-que-status-nuclear-da-coreia-do-norte-e-inviolavel-e-faz-ameaca-com-guerra.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-25T21:57:00.000Z",
+        "summary": "O líder norte-coreano Kim Jong Un visita a Academia de Ciências da Defesa em Pyongyang, Coreia do Norte, em 2024 KCNA/via REUTERS O líder da Coreia do Norte, Kim Jong-un, afirmou que o país não vai abrir mão do status de potência nuclear. E",
+        "image": "https://s2-g1.glbimg.com/RkEIhbvDU_IY6IlMTyCDUQvwjdg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/3/BuCX48STqLltlblXTMrA/2026-11-19t045108z-1532546279-rc2208a9vrqw-rtrmadp-3-northkorea-ai.jpg",
+        "topics": [
+          "geopolitica"
+        ],
+        "score": 7.71,
+        "relevance": 8.8
+      },
+      {
         "title": "EUA deixam de lado proposta de acordos comerciais com Rússia para tentar encerrar guerra na Ucrânia, diz jornal",
         "link": "https://g1.globo.com/mundo/noticia/2026/11/25/eua-deixam-de-lado-proposta-de-acordos-comerciais-com-russia-para-tentar-encerrar-guerra-na-ucrania-diz-jornal.ghtml",
-        "source": "G1",
+        "source": "G1 Economia",
         "publishedAt": "2026-11-25T15:58:02.000Z",
         "summary": "Trump anunciou na semana passada um novo acordo para o fornecimento de diesel com o presidente russo Vladimir Putin Getty Images via BBC O governo dos Estados Unidos deixou de lado, de forma discreta, propostas de acordos comerciais com a R",
         "image": "https://s2-g1.glbimg.com/q8SWw5I8ed8jmld77TUdHRirqu4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/2/JjH8UPTmqXIDApdYUllg/novo-projeto-7-.jpg",
@@ -770,7 +780,7 @@
           "geopolitica",
           "negocios"
         ],
-        "score": 10.54,
+        "score": 7.51,
         "relevance": 10.8
       },
       {
@@ -783,152 +793,163 @@
         "topics": [
           "geopolitica"
         ],
-        "score": 8.83,
+        "score": 6.29,
         "relevance": 10.2
       },
       {
-        "title": "EUA fazem explosão controlada de material tóxico que gerou polêmica e virou batalha judicial",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/25/eua-fazem-explosao-controlada-de-material-toxico-que-gerou-polemica-e-virou-batalha-judicial.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-25T15:07:16.000Z",
-        "summary": "EUA fazem explosão controlada de material tóxico em Iowa O Exército dos Estados Unidos realizou nesta quarta-feira (25) a polêmica explosão controlada de 68 barris de azida de chumbo, substância usada na fabricação de munições. A detonação ",
-        "image": "https://s2-g1.glbimg.com/gC6giin3dHYdtrTRi5W1xn6U1kw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/H/R/tOh7bARAmU9nDeSYm7Hw/2026-11-25t152000z-1113860993-rc23voa25d25-rtrmadp-3-iowa-army-detonation.jpg",
-        "topics": [
-          "geopolitica",
-          "negocios"
-        ],
-        "score": 6.05,
-        "relevance": 6.4
-      },
-      {
-        "title": "Tarifaço de Trump: EUA propõem tarifa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar",
-        "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-propoem-tarifas-mais-altas-sobre-importacoes-do-brasil.ghtml",
+        "title": "Secretária de Agricultura de Trump defende novas tarifas e acusa Brasil de 'práticas desleais' contra agricultores dos EUA",
+        "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/secretaria-de-agricultura-de-trump-defende-novas-tarifas-e-acusa-brasil-de-praticas-desleais-contra-agricultores-dos-eua.ghtml",
         "source": "G1 Economia",
-        "publishedAt": "2026-11-25T13:16:30.000Z",
-        "summary": "Trump durante coletiva de imprensa na Casa Branca em 20 de novembro de 2026. Reuters O governo dos Estados Unidos propôs nesta quarta-feira (25) a cobrança de uma tarifa adicional de 10% sobre aeronaves brasileiras e o aumento da tributação",
-        "image": "https://s2-g1.glbimg.com/R11sQID0hiQcey5cL3FdfY_kHIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/lY5rbeTQKylL3M7z01xQ/2026-11-20t185326z-869618565-rc2uroa3k99q-rtrmadp-3-usa-trump.jpg",
+        "publishedAt": "2026-11-25T21:35:55.000Z",
+        "summary": "EUA propõem novas tarifas contra Brasil e 14 economias A secretária de Agricultura dos Estados Unidos, Brooke Rollins, afirmou nesta quarta-feira (25) que as tarifas adicionais que o governo de Donald Trump avalia aplicar ao Brasil buscam \"",
+        "image": "https://s2-g1.glbimg.com/u-VvmRGwQuf6Usydi8nf-qR8VUA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/8/R/NgEvYWT7SRXpxzveRiaw/2026-11-24t164008z-353424949-rc2jcnanr8ak-rtrmadp-3-usa-farm-religion.jpg",
         "topics": [
           "negocios",
           "geopolitica"
         ],
-        "score": 6.51,
+        "score": 6.39,
         "relevance": 7.4
       },
       {
-        "title": "'Manipulação política': China critica plano de Trump de impor novo tarifaço",
-        "link": "https://g1.globo.com/economia/noticia/2026/11/25/china-trump-novo-tarifaco.ghtml",
-        "source": "G1 Economia",
-        "publishedAt": "2026-11-25T11:32:44.000Z",
-        "summary": "EUA barram pedido do Brasil para analisar tarifaço americano na OMC O presidente dos Estados Unidos, Donald Trump, prepara novas tarifas contra 16 parceiros comerciais, incluindo China e União Europeia, sob a justificativa de que esses país",
-        "image": "https://s2-g1.glbimg.com/x5mY8hfaecLMk5Rsb_QFOnVLEHg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/K/RVgPAdR0Oy3cMAodXRdQ/2026-11-25t104210z-1395619294-rc2aqoall05m-rtrmadp-3-usa-trump-tariffs.jpg",
-        "topics": [
-          "negocios",
-          "geopolitica"
-        ],
-        "score": 5.6,
-        "relevance": 6.8
-      },
-      {
-        "title": "Trump discutirá Ucrânia e investimentos em defesa com chefe da Otan",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQkFkeHhucUo0OFhlVnE5QU1TUERzTnF0YXBSMldNN2h0WXh0Rk9SZzJxU21YYS1uZ1dibm82X3dRRUw4N0hnZUlLQXBUNEg5bUpNRkRTZXhxT0VWUXFDVTY2SDg3YWR5aHBfSmZfU0IzM1F0SWZnSjlsY0FCX1JmZXFVR1VRMVJQSlhQQUxhUmFPYm1GM3FXcWprWWY3NTNGRWZSYWVVTnlocTAtTVh2Tg?oc=5",
-        "source": "CNN Brasil",
-        "publishedAt": "2026-11-25T14:04:11.000Z",
-        "summary": "Trump discutirá Ucrânia e investimentos em defesa com chefe da Otan CNN Brasil",
+        "title": "Brasil deve priorizar políticas de Estado para aumentar sua influência geopolítica, afirma relatório do Centro Brasileiro de Relações Internacionais. Lançamento ocorre hoje no Rio.",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOUWt6ZHZFczgzNWI5X2t1a3dwOHlpZnAxZndLOHkwREtHbWJLVTF1aTFFNTgzU0tLQTlyMF9CaVc1SDNQOTgyczQwa2xyOVlCSnFsb1d5S2lHbFFNcngzRU0zaUphY0dxdndQd2plWEFzTUFvMXdXM0VjOC1wQVNXcjBjRjdlV1pIZnNPbjQwamFuSXpEaFRSVFQ3bXgzakNUbkprZnZ4S2pBUkdaZXEzSVl1VmlzbFEtZlg1MGE4TzBlT1Z6YnNqeGFyN0YtemhTNGx4MW5haVlsX0xtY2xqQzRZOFZSZ253dHliM0JBcG1TckFhME82cjN0Uk5QOWROVm1qc0VXbWdocHlRMWYydG9SUkRyMGx4SDVTbF9hclI5OGFSdkhsTmc3NHZ1U3ZOTHc?oc=5",
+        "source": "Repórter Maceió",
+        "publishedAt": "2026-11-25T23:03:00.000Z",
+        "summary": "Brasil deve priorizar políticas de Estado para aumentar sua influência geopolítica, afirma relatório do Centro Brasileiro de Relações Internacionais. Lançamento ocorre hoje no Rio. Repórter Maceió",
         "image": null,
         "topics": [
           "geopolitica",
           "negocios"
         ],
-        "score": 5.44,
+        "score": 5.48,
         "relevance": 6
-      }
-    ],
-    "negocios": [
-      {
-        "title": "Dólar passa a cair, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe",
-        "link": "https://g1.globo.com/economia/noticia/2026/11/25/dolar-ibovespa.ghtml",
-        "source": "G1 Economia",
-        "publishedAt": "2026-11-25T12:00:33.000Z",
-        "summary": "Entenda o que faz o preço do dólar subir ou cair 9 O dólar inverteu o sinal positivo visto na primeira hora do pregão e passou a operar em queda nesta quarta-feira (25). A moeda caía 0,80% perto das 12h45, cotada a R$ 5,8628. Na máxima da s",
-        "image": "https://s2-g1.glbimg.com/en-e3pXXYmmv5grpZimBQ0X1DaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg",
-        "topics": [
-          "negocios",
-          "geopolitica"
-        ],
-        "score": 12.74,
-        "relevance": 15.2
       },
       {
-        "title": "EUA propõem novas tarifas sobre 14 países para combater 'excesso de capacidade industrial'",
-        "link": "https://g1.globo.com/economia/noticia/2026/11/25/eua-propoem-novas-tarifas-sobre-14-parceiros-comerciais-para-combater-excesso-de-capacidade-industrial.ghtml",
-        "source": "G1 Economia",
+        "title": "Tarifaço: EUA propõem taxas sobre 14 países para combater 'excesso de capacidade industrial'",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQmczNDkwb2l4bzlfUUE1QjVTZDJGRmNnVF9mTXlXNEhsMnFobE50c0gza3lVbk1IVHZQczRQRWs5b2ZVbHRsOXlWcElNZ1NIS05ZQ0NZQ2JsYnlISDhHb2NjVkFjWDY0LUpNUUZEVWRwVG5qakRNMnJkUzFQWjFQRHBhM2ZzU29LeGZpX01IekQyUWJRUEhpa1pqSUpRSXBUb3h2NnEtSnNJRG92SUliNFFfS2l0QjFZX24wT2x6dzVaLVV1T0J3MEd5RjZWUEVtMkg0Qkcwb0ZNYlEwU3RSc3QxNnF0enRBTDRXUjdR0gH8AUFVX3lxTE9BVFBaT3cyUWVYTnFNVi1vSDFMVkFoOXJFeTFsMXBLOUNOeGVWbm11Q0w0ZnBfd0Vqam83X1NLT2RvZnFKR0sycWhMRjJYLU9BYkNFaWdUcGRqeXJhMXBLeU1adWoza2t3WjF1TjJfT001SjVXMWlteE1GaWhKTWJ1WHl5NDJyUm1PaGxZcmF2Y3k5TGlDNjB4RzkwT2hzdGkzTGFNLU83QWJCQ0xqT05tbXp4cnA3UkZ2SzFKeDJkUHhNT0FYRWVYcUplNjVSSG92WFVKLVE1VldNbjB0LU9RVV83dmdZeUpwalJaUm5rRWUtb2g0SXJzUEpsTw?oc=5",
+        "source": "G1",
         "publishedAt": "2026-11-25T14:26:17.000Z",
-        "summary": "EUA propõem novas tarifas contra Brasil e 14 economias O governo dos Estados Unidos propôs nesta quarta-feira (25) novas tarifas de importação sobre produtos de 14 economias, entre elas China, União Europeia, Japão e Índia, anunciou Jamieso",
+        "summary": "Tarifaço: EUA propõem taxas sobre 14 países para combater 'excesso de capacidade industrial' G1",
         "image": "https://s2-g1.glbimg.com/aXyNVVWsq60bPQtSWJG7V6w9CH0=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/9/jd0F5xTUOKSVRgim8nnA/2026-11-16t144017z-1345596019-rc22poaux99k-rtrmadp-3-usa-trump.jpg",
         "topics": [
           "negocios",
           "geopolitica"
         ],
-        "score": 8.47,
-        "relevance": 9.2
-      },
+        "score": 5.9,
+        "relevance": 9
+      }
+    ],
+    "negocios": [
       {
-        "title": "Os riscos que Trump corre com a volta de Jensen Huang ao comando da Nvidia",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/25/os-riscos-que-trump-corre-com-a-volta-de-jensen-huang-ao-comando-da-nvidia.ghtml",
+        "title": "Bolsas dos EUA despencam com novo tarifaço de Trump e temores sobre investimentos em IA",
+        "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-tarifas-ia-bolsa-de-ny-wall-street.ghtml",
         "source": "G1 Economia",
-        "publishedAt": "2026-11-25T11:11:51.000Z",
-        "summary": "Trump articula retorno de Huang à Nvidia Após a fabricante de chips de inteligência artificial Nvidia anunciar o retorno de Jensen Huang e as ações da empresa dispararem, o presidente dos Estados Unidos, Donald Trump, fez questão de reivind",
-        "image": "https://s2-g1.glbimg.com/tlS9NY2e8LV-41uF_Izxe56Fc_g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/l/n/Z72AlURD27UEBOS1GKpQ/design-sem-nome-2026-11-25t074948.500.jpg",
+        "publishedAt": "2026-11-25T16:55:37.000Z",
+        "summary": "EUA propõem novas tarifas contra Brasil e 14 economias As bolsas de Nova York despencaram nesta quarta-feira (25), pressionadas por uma nova rodada de tarifas anunciadas pelo governo de Donald Trump e pela forte venda de ações ligadas à int",
+        "image": "https://s2-g1.glbimg.com/R11sQID0hiQcey5cL3FdfY_kHIY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/q/W/lY5rbeTQKylL3M7z01xQ/2026-11-20t185326z-869618565-rc2uroa3k99q-rtrmadp-3-usa-trump.jpg",
         "topics": [
           "negocios",
           "geopolitica"
         ],
-        "score": 8.45,
+        "score": 11.55,
+        "relevance": 16
+      },
+      {
+        "title": "Novo tarifaço e incerteza sobre inteligência artificial derrubam índices das bolsas dos EUA",
+        "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/25/novo-tarifaco-e-incerteza-sobre-inteligencia-artificial-derrubam-indices-das-bolsas-dos-eua.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-26T00:50:40.000Z",
+        "summary": "Novo tarifaço e incerteza sobre inteligência artificial derrubam índices das bolsas dos EUA A perspectiva do novo tarifaço de Trump e a incerteza sobre o futuro da inteligência artificial derrubaram, nesta quarta-feira (25), os principais í",
+        "image": "https://s2-g1.glbimg.com/9xo2ABjfcI3dNPiZSKCzE_tsE4k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/A/o/ordbqbSLO04yuisAJVNA/globo-canal-4-20261125-2000-frame-86446.jpeg",
+        "topics": [
+          "negocios",
+          "geopolitica"
+        ],
+        "score": 10.18,
         "relevance": 10.4
       },
       {
-        "title": "Ações da Embraer caem mais de 7% após EUA proporem tarifa sobre aviões brasileiros",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtRU5CVll4VExHQnlycHhQRHNnYmdXaE1YLXZ3U29ZbnN0QUN6NGRYV1JDdWlJWDYxVEZjb2Z5R0x0TGZiQzZ6ZzA4QmZPN2RTYnY1d3dYbDd1ak1CSDA5NWFqVzZ6STF1VmFHNkNCTnUzSm1CMHd1bU1pLVfSAYsBQVVfeXFMTnVBaTU4X3ktclliYk1WVE5DdjdQREloMTZzQlNCY3NoQWZBaklQUkpyem93MWtGbG5rQzcwZTNZTEo4VVJIRUVnV0pMLWppdllld3RJRThNVV91UHpRdmFsMmw4SnJYbFBycllSQ0tsb2hIdE9hNEFsekZRUE8tSkN0NTFKUkdDS0p2bw?oc=5",
+        "title": "Dólar cai a R$ 5,81, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VSmdsNU51NWlvZS03eDR4U3FpZW4yV0VIMXZ4bWctcFc0N2dmcHJzMDdkN0FET1M2dUM2dFlRaVR5MG5sd3c5SURZcU0xRWkzdkdIVDN2MHVTUGZ3VGo5UXdkVk5kVXJFWUNCcDRWcU9uNjgyT191TdIBhwFBVV95cUxNUW1Qai1CQzE2bHphejdnZjR3MGg5LUE3eEhBVWVsNDluWEtnNnYxeVVPU1dsS1hNYzkyTFgxNUJpblhBZFpkbXZQbVA4dGR4SnZtRDhNVXNfMzM1dVFJdmRycGN1cGFjZkFjMWo2TE1NanZNS1B2aHNCQWw4Z2ZJSDd2MDJtakk?oc=5",
         "source": "G1",
-        "publishedAt": "2026-11-25T14:26:53.000Z",
-        "summary": "Ações da Embraer caem mais de 7% após EUA proporem tarifa sobre aviões brasileiros G1",
-        "image": "https://s2-g1.glbimg.com/ySVczfhSyx8RRcPKkmDhH_wlxy8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/u/i/235pBxTMyrcic5vV4gbQ/webimage-389f10bd-5014-4f20-9ae2f6ec645b0a16.jpg",
+        "publishedAt": "2026-11-25T12:00:33.000Z",
+        "summary": "Dólar cai a R$ 5,81, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe G1",
+        "image": "https://s2-g1.glbimg.com/en-e3pXXYmmv5grpZimBQ0X1DaM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/R/L/9pGXOhQjWMbLFeAbXt6w/2025-01-22t173936z-1-lynxnpel0l0qj-rtroptp-4-fluxo-cambial-semanal.jpg",
         "topics": [
           "negocios",
           "geopolitica"
         ],
-        "score": 7.73,
-        "relevance": 8.4
+        "score": 10.03,
+        "relevance": 16.8
       },
       {
-        "title": "Reforma tributária e fim da escala 6x1 podem pressionar inflação em 2027; BC e equipe econômica monitoram impactos",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcm1sbW9WblN0RzlWZDc3SElhZXNCc29UZWZQZG1kYUZfT0txbUQ2Uk1ycWVWdjRKczN2S3R5NUNqenhXa0ZVYjlQUk13d2QwTWkwTHdSYm5fbVU1VFBoUUZub3VIQm1heWJwQW5DXzNWUlF0a1FqdmVMRXRJYjEyb3lWcGlWS3REaERKUDJpemtnb2VZYU0teGg1cjVhVGd6N0RrZlNmQ1NQQkR3NTBaLVFkc3dReGo1ZGVhdzVYQWJ1WXctQlhpLUVVRjhjWFVLamU4aWxMQ3JkUUppOUZvakhkNi1ESll0MmMtZDlvc0V6ZjByWktrNW9ySlfSAYsCQVVfeXFMUHdWSl9mcXY3WjJZQzZlRVJrNE1QT3V1bWVDVDlnVDdaMF9iR3dGcjBWbHhpbmx6NURtUUpyeHVOdm42WnFfWXI5bUZqeFRSQWY3WUxNNURXWXNWWTB2UXZRSTl4dEZtVzZHSmwxMUNSd2lCWF9NbU1PTm9FNmpUa2t3VXdEWk9XaGhleDVTZlNPaXdVVXBOcXJibnlhc3VKNXZZNDdOWUlqOGkzaGpNUlVsMXhYMllkaEp3TmNJRHdFRTVjVWRzVURUcGJFNm5TdllGMzFBdl9ITHI5QVkwWU1TVmdBblY4aUN6R2VTWUdwU1JWa0phYlpHSU9FZHZUdUxNd1FpU2l3MUxR?oc=5",
+        "title": "Luiz Trabuco, do Bradesco, é sondado por Lula para assumir o Ministério da Fazenda",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdnZYVDltNzZWZXN1SzBUUHhhN1dTN1JwanF4WlFGdUZwazFHX3Uya3lOeElaUWpaWjh4bnRyOUFuWnRyclRTS2hIeU55Y2ZkbjlydTBaYWdGeEdYRnhidzNCNnJHYWUydC1BV0oybnJoUTN5RHR2ZndWbC10aWR3QzZwZmZ1Z0FKOU5jcnBXTlhuMGtBYTFnZTBsSDdFOEIyeldaSUhGODR4MmpDWmZUYVpKMlRKZVhxYmRNOXc1eEpEdDZhWW54MGM0YllNSEVORGRURk530gHkAUFVX3lxTE51TnFyelRpWDBEVHBSaGFsOE5YNW0tbDFPS0ZZLXZBdzJVMzMyRURybDVVbmNhTDNUenczZHlBYVZlQUwwc2FsckJ6bVBfZHlnVy05aHpIM0o0NmZOZjh2OURQTzdsdVVLMVRtRmZvVmMyWWVyeENkMU5XVjJEeUhLUVZtd0U5NENQZnR4NnFzQWFfRGkwWDEtYzlvMDN3ZjFGVVlfWFJKM0JTRjJwTWhvZ2NnMUR6TUl6UUUzb0gybnpmWnRIemZIUFo3eHgzM3pjSXM1V3pzaXozZEFEOEYzdVJpNg?oc=5",
+        "source": "O GLOBO",
+        "publishedAt": "2026-11-25T22:51:59.000Z",
+        "summary": "Luiz Trabuco, do Bradesco, é sondado por Lula para assumir o Ministério da Fazenda O GLOBO",
+        "image": "https://s2-g1.glbimg.com/8Hpt5t9j_HROFFUucUfw65_ihXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/l/Q/Xui6KvR8u3a9CnM3VRcQ/2018-03-14t140319z-1282850438-rc18e918e880-rtrmadp-3-brazil-wef.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 9.62,
+        "relevance": 10.6
+      },
+      {
+        "title": "Por que o PIX está na mira dos EUA em investigação que embasa novas tarifas contra o Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRFZRdWJQR3U2WG80X2dWRGVubnVyb3p1WjNNczZfVEdSZnV4TmRKYWtuTUVCeC1BQ3E1UFdHYVRRYmlmdFg3YmE1aE1TdERkZi0ycVNyaVE2bzRKWnM0Vm1WUFNzMTRRX3VIRW04bWNDbjNYa0tYWVlCV0VCZ05wYXpiWFBCMkZRcFNVY2RQd2ZzZ3RaTXdVeXBmQUYxWVg2ME1JRkZkM2VSRGlGY001Uk1tUkZxNGhQN0VqOG1SUlNZTkFVNEtKZHJYRlNBUTE5S1BB0gHiAUFVX3lxTE9HVldCM045ekgtc2wwZEZGYnpXUW4xUXdISXJUMUNvNktTa1pGLXlma2hBa25qdFdJSi1XcmFZODdkRWZYS2FDUFR0enhyNE0wUldGTzFtMG5VVndYTUdpRmw3ZUN1amt2VFF4V2lnRHM1QkFfRU9DUE1pbkFNQnotRDZSY1BKWFBfaDRYNFN2YU4tdXEtVGc4Y25wRnRSWnBPYUZyZThRYjZhU0hIT2MtWUVoMThCSXpPNi05cXVYWVZjOXI3OURhcE0wRkxENkc0OGJQZHRsWi00ZXFJbU1nWHc?oc=5",
         "source": "G1",
-        "publishedAt": "2026-11-25T03:00:00.000Z",
-        "summary": "Reforma tributária e fim da escala 6x1 podem pressionar inflação em 2027; BC e equipe econômica monitoram impactos G1",
+        "publishedAt": "2026-11-25T21:11:50.000Z",
+        "summary": "Por que o PIX está na mira dos EUA em investigação que embasa novas tarifas contra o Brasil G1",
+        "image": "https://s2-g1.glbimg.com/QepxgC4d4575P51mwUrzs5QtBY4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/u/xYEEOsRCe41Sv9Zc7Ybg/pix-.jpg",
+        "topics": [
+          "negocios",
+          "geopolitica"
+        ],
+        "score": 7.49,
+        "relevance": 8.8
+      },
+      {
+        "title": "Confederações empresariais pedem ao STF o adiamento da reforma tributária",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdEZNcFl6QWhhcDNHRUkzNkotdmhMWkM1R3puNXNPamR5V1FiVDB3b1l6anVwcWtrUTBrX1Z3eDdQejBRNHFjeFJjaFJ6aExRVE52SWNFLUc5Q3JHSkJTMktaMWtKYzNISEN2ZjBUWS15OTZyaEpHSVgtWkFRek5oQWIzZHhJT0NrNnJMWmREZ0xXQVNmRW53dlZlRDhuSlZlcThaVGFSMkN6UUpQQVBpMmFNUnJPTGFBQkFTODluZ1RwZ1k?oc=5",
+        "source": "Folha de S.Paulo",
+        "publishedAt": "2026-11-26T01:13:00.000Z",
+        "summary": "Confederações empresariais pedem ao STF o adiamento da reforma tributária Folha de S.Paulo",
         "image": null,
         "topics": [
           "negocios"
         ],
-        "score": 7.46,
-        "relevance": 12.6
-      },
-      {
-        "title": "Trump amplia ofensiva comercial e propõe novas tarifas contra Brasil, China e outros parceiros",
-        "link": "https://g1.globo.com/economia/noticia/2026/11/25/trump-amplia-ofensiva-comercial.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-25T15:19:52.000Z",
-        "summary": "Donald Trump, presidente dos EUA, é recebido em Shenzen, China, pelo presidente chinês Xi Jinping. REUTERS / Carlos Barria O governo de Donald Trump propôs nesta quarta-feira (25) cobrar uma tarifa adicional de 10% sobre aviões brasileiros ",
-        "image": "https://s2-g1.glbimg.com/YrJaUQx8ZkkF7FVUVtKvoE2ec5w=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/h/D/NSusYgQFaDics1vLTLQQ/reuters-carlos-barria.jpg",
-        "topics": [
-          "negocios",
-          "geopolitica"
-        ],
-        "score": 7.43,
-        "relevance": 7.8
+        "score": 6.95,
+        "relevance": 7
       }
     ],
     "filosofia": [
+      {
+        "title": "Comissão da Câmara aprova projeto que torna Sociologia e Filosofia obrigatórias",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOemprNFpmS1JkTXRKSkdmeXdiblNJRmh5eXM3NDlIZjc0eWtyZU1CQ1g5bHZsbGRVa1UyT0pEbTdpeHR5dk4xdGdDOHpISHdvMzVPZVVCV09qRlhnc0NPbWRBRHpSTHlYa1NlSDgycVBjbWlZZFRmeXBITGdoekdBWjYwcUtMajdFNzlKQXkydXZpdUREclNiYTFvUGQ4dm9BYzJUQVNJTnZFdlBJTzFaWmZLcVlGcmJz?oc=5",
+        "source": "Revista Fórum",
+        "publishedAt": "2026-11-25T23:15:51.000Z",
+        "summary": "Comissão da Câmara aprova projeto que torna Sociologia e Filosofia obrigatórias Revista Fórum",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.68,
+        "relevance": 4
+      },
+      {
+        "title": "Comissão de Educação aprova obrigatoriedade da Filosofia e Sociologia no currículo",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQME9QNFFuWFhYMl9oTjdBNU1JRl9EallJMTRLa1ktNkFjbGdMTGwwaXYxX0ZYSTgwTFRhOURYM2lwQl9TUW9KUXRxcWFZTVBlVWE0ZmhVX2lSQlF6d0pmN3dFUV9BaHdmX3Jkb0NxMk5BakE3LW10ZC1mZ1dlcnNfWlZyN3o1MTFYY2Z3SlJ0cHpJWDhQdmJJVnctdlR0V3lnV2M3eWVrbTNQX25GYXN3UVo1M1BmWjF3eUNUUVMybUpiX2s?oc=5",
+        "source": "SINTE PIAUI",
+        "publishedAt": "2026-11-25T22:38:00.000Z",
+        "summary": "Comissão de Educação aprova obrigatoriedade da Filosofia e Sociologia no currículo SINTE PIAUI",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.6,
+        "relevance": 4
+      },
       {
         "title": "A filosofia como experiência ética no ensino médio: diálogo, humanização e construção da cidadania",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZHo4NzlabTVJcGFjUFNNdkNkN0Q0TG92NGs3YUJmU2hwdWdEZG9hN3JjYnpiemtwWGU4UWcyQ1poOEVZRF9WTjJleEpkY0Z3TV9oYVBtazRNejlOMjN2QjF3dGxmM2FnV28wM3NXQ1BDRlUxNXNmc2lQNnRCSEJ5WWM3aDFZdzZtd1d4NHVqWnA5VTZwc1ZwT0VJNDRqUUJjU0xUZVlybTN0RHNGbW1fX1hITFFqUGkzLXljNWVZR0wyVmdBY0lGckhEMVJhbVY5dndSZ21B?oc=5",
@@ -939,236 +960,207 @@
         "topics": [
           "filosofia"
         ],
-        "score": 4.87,
-        "relevance": 5
-      },
-      {
-        "title": "Sócrates, filósofo grego, disse: \"Uma vida sem exame não vale a pena ser vivida\"",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPR1p6QTc3dXI5Nzc3UjBQMzRZMllWOHdsVHFJRlhtd2owT3JzZHNlNWtRdUpkV2dueWdrZjJjX3pZM0VYNFF2Y2ljZ1FSdkpyNUUxYUNiXzgtejVyTGZWN1hvWHVhTlVQZnM1aG9RbGd6SDg2WVpTSF9OUmhsZThLNWFRc0hmS2pXaWM5NnJTX09JMVlMQUYxdFNZWll3aFdXcEhmcjA3QmdzREEwU1ZISGJiQWtJeWZN?oc=5",
-        "source": "NSC Total",
-        "publishedAt": "2026-11-25T12:37:22.000Z",
-        "summary": "Sócrates, filósofo grego, disse: \"Uma vida sem exame não vale a pena ser vivida\" NSC Total",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
-        "score": 4.29,
-        "relevance": 5
-      },
-      {
-        "title": "Curso de Licenciatura em Filosofia da UFG divulga para a comunidade acadêmica Seminário de Estágio",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeGFFVExzSkFWb0UwQmNkMTRTamd5cmhLdUdCQnBmWHpxaUFET3BDT1RIeVNhVkxMS2t2SnFBeDVMS3EwTHVjaHBxUWRFRGFDaXJhcjZyRXRxWlhpVkFMSGdMNHlfenlMOHhJMTR4TmJMazBwUXBhQkFZSDBkMWRHUW83NUxVZlZlaEx5VWVEbnQxRjAxc3lCWHNSaTd6ZEtPY3c2bVFrYVVyWE1ZRUhiUnF0UFV3Ti1MTHBKOGFwSF9uTENmMmpZ?oc=5",
-        "source": "Câmpus Goiás",
-        "publishedAt": "2026-11-25T12:55:00.000Z",
-        "summary": "Curso de Licenciatura em Filosofia da UFG divulga para a comunidade acadêmica Seminário de Estágio Câmpus Goiás",
-        "image": null,
-        "topics": [
-          "filosofia"
-        ],
         "score": 3.47,
-        "relevance": 4
+        "relevance": 5
       },
       {
-        "title": "Ufac abre 5 bolsas de R$ 500 para estudantes de Filosofia",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN01VNnk5ZHRNamNCLVpWUmFzcHBSTlJFNURBaFF2SUotcWJ2ZTd5aEdtRGNtNzJyRV9UcE1aWXd0XzVleHVGV2Z5dUZWRU9SQUxIbFhNbnotS3ZTZGJZTVRGM3pyazFNV0VSc0hObllpeGFfUGI4Q1VYS21oRkIzdU1WNkdzSzBGMFY0ZFAzaWRwQnZC0gGUAUFVX3lxTE03TVU2eTlkdE1qY0ItWlZSYXNwcFJOUkU1REFoUXZJSi1xYnZlN3loR21EY203MnJFX1RwTVpZd3RfNWV4dUZXZnl1RlZFT1JBTEhsWE1uei1LdlNkYllNVEYzenJrMU1XRVJzSE5uWWl4YV9QYjhDVVhLbWhGQjN1TVY2R3NLMEYwVjRkUDNpZHBCdkI?oc=5",
-        "source": "Acre Agora",
-        "publishedAt": "2026-11-25T12:12:02.000Z",
-        "summary": "Ufac abre 5 bolsas de R$ 500 para estudantes de Filosofia Acre Agora",
-        "image": null,
-        "topics": [
-          "filosofia",
-          "negocios"
-        ],
-        "score": 3.38,
-        "relevance": 4
-      },
-      {
-        "title": "Demócrito explica por que uma vida feliz não depende necessariamente de riqueza ou conforto material: a relação entre equilíbrio interior, moderação e contentamento na filosofia antiga",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXRwd2pHTTJUZVBRTHRCNkhEbzJMX2l2T0pOU0pyVjRTYkM1SERRQjN5djljWEtCQ3NuUVozUV9vUk5kRU9MWFFHem1pZmhwS2tCYlotbTNCSkFFWm9Ed1FwZlZ3dlY4bUJxLTgwdVRLdWlHaXBUd1Ezd29DaFFONlNSd3c0S2RYRURJYXUyN0lfZHF5UXY3d0ZSV3BweFk?oc=5",
-        "source": "Correio Braziliense",
-        "publishedAt": "2026-11-25T11:30:35.000Z",
-        "summary": "Demócrito explica por que uma vida feliz não depende necessariamente de riqueza ou conforto material: a relação entre equilíbrio interior, moderação e contentamento na filosofia antiga Correio Braziliense",
+        "title": "Vereador critica resistência de colegas à proposta de inclusão da filosofia no ensino fundamental",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYjhCVm9WOVh0bU9May1pY0dyY3BhWEphSlpoMERTVUZiZ1A1UklFVHRoV3hpOWxNUk14cFBSVTl4YlRqZHlLRkRCR3BHM0Q1WnRhdTdwckFsSnV0Z0JIQktZcGtBRzVXcWJSQ3FSTXQ5NFotMExoMDloX3RrQ1NUTVkxY2FkUm8zSmp5OWZzeXJiRWtiNUZqUlpHRDFIR3ZkS3hTcXM1M095aGc2OGNqMVNaYU9UNVAzY2k1UEZvN0hUY2p5TWkwNlJIalYyX0RjNXhoS3pPNGhQRnM?oc=5",
+        "source": "Folha do Estado da Bahia",
+        "publishedAt": "2026-11-25T21:33:25.000Z",
+        "summary": "Vereador critica resistência de colegas à proposta de inclusão da filosofia no ensino fundamental Folha do Estado da Bahia",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.29,
+        "score": 3.45,
         "relevance": 4
       },
       {
-        "title": "Câmara analisa nesta quarta volta de filosofia e sociologia em todo o ensino médio",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmNSZDg0aFh6R2VuN1BOdkRXMDlael9IVXFNYzk5WVV5WFJtZ1FsUmZTdm1YVjRHZDhVQnNoVVk2NlBlaF9yTnhXWldPSTRuQW1Uak1YeFJ5Zk9SazVXMmxSY2hTQkVpeXlha2xfUEtlSEl5UjlsaU1pS1ZvckRlVGcxRFI5X1FJeF9BMlU5aHpFMXFyaC1kbU9YOEs4T1BnR1htTWwxZ19YN043Rm1QZ3BiMnd1aDQ?oc=5",
-        "source": "Brasil 247",
-        "publishedAt": "2026-11-25T09:56:15.000Z",
-        "summary": "Câmara analisa nesta quarta volta de filosofia e sociologia em todo o ensino médio Brasil 247",
+        "title": "“O Julgamento de Sócrates” tem sessões gratuitas no CCSP em dezembro",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSG9PbGhWaXJ1bGx6SURoQ2ZacTd0VGItMHg3aXhxTHl2NDFyV3RSLUJHWGl2eG1IRTRMQnB1OFR4Y2dyMGxWYnlyUGdMUFotMm5oX24zSmVpVXc3WW83b2QxNmR2TXFQd2tBNHBSeE91M3RRb2Q5Tkl4MHpJWEVKalBIU2I5UUoxMUt3SzhpUFg?oc=5",
+        "source": "Canal Tadeu Ramos",
+        "publishedAt": "2026-11-25T21:29:00.000Z",
+        "summary": "“O Julgamento de Sócrates” tem sessões gratuitas no CCSP em dezembro Canal Tadeu Ramos",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.1,
+        "score": 3.44,
+        "relevance": 4
+      },
+      {
+        "title": "PL que inclui Filosofia e Sociologia no Ensino Médio é aprovado na Comissão de Educação da Câmara - Sinpro-DF",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55X2dCTTJOT0lDajZScjlQOXh5cVQ1ZjItNlJVVjVINmJWaW9PcTV2YW1sVU9FTUNrZFU0SmZHbkxqU1JUZmdWcXpFLW5zZU16X2lpM2c4TnJ1Tl9GQjRmZ1FR?oc=5",
+        "source": "Google Notícias",
+        "publishedAt": "2026-11-25T21:16:23.000Z",
+        "summary": "PL que inclui Filosofia e Sociologia no Ensino Médio é aprovado na Comissão de Educação da Câmara Sinpro-DF",
+        "image": null,
+        "topics": [
+          "filosofia"
+        ],
+        "score": 3.41,
         "relevance": 4
       }
     ],
     "cinema": [
       {
-        "title": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime, HBO Max e mais",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVHJ6NkR6VHZFdEdXc0RILVpxQmt5R0kwNHI0dHBudTA5T3NJUTZRaUZjRlZNdS1FekxoOExxeXlnaTdQclJnZi1uQXpXdmk0YUVrZ3ZpdjdGVXY4WFc2SldxMUJqM1dsaGNYN1ZqWjVXMGdZUFZpZ1VDYjM5MnJQQmhqWF93dlQyME5JWm5uTEc1V3hkSnJmMDBCZVlVTjJ4U3o5b0RTbmtXdC1IYTlLTmhhcHRmdmJWU3VlS1JHSzhTMVhiWW9mdFhqdHlZRHVzdFV2YlJjUEh0eGw1WFZkMQ?oc=5",
-        "source": "Estadão",
-        "publishedAt": "2026-11-25T16:26:38.000Z",
-        "summary": "O que assistir no streaming? Confira 7 dicas de séries e filmes na Netflix, Prime, HBO Max e mais Estadão",
+        "title": "Vai ao cinema? Confira 5 filmes que estreiam nesta quinta-feira",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWU93QlJCRzd3ekdXOTE0TG8tOWVrODIyeFo2REJ3QTNRLThPZmFMVGttb19CTzQ4Z0NsdjJKbllYekgxcm9JZzR5SzRnUGZtQzJ5a0ZhTVdJSDhiZlRyM3NSUVk1S0hLc3dRLXA2N09CaFRaOG0tNFFpclJJVFN1U2dtMURyT1ZTWGl2b1cxcWxTTDdBa3ppUmdSRHB3RVhfVjRiSldDaDVQMVBfaXdYczNqMHhTb044cFRTalZIeHo2ZEh3NkFhOTJpcEEzRndtZ2xWcXlic3FBMXVxQ01YTjA0TktTeVk0bnc?oc=5",
+        "source": "Terra",
+        "publishedAt": "2026-11-25T22:31:00.000Z",
+        "summary": "Vai ao cinema? Confira 5 filmes que estreiam nesta quinta-feira Terra",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 7.95,
-        "relevance": 8
-      },
-      {
-        "title": "Com mais de 1,2 mil filmes de 84 países, Festival de Cinema Escolar de Alvorada realiza premiação nesta quinta-feira",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVnlQNUo0d0JCSmJKeGxNaHo2NTRmUVBiRlVXTU1sb3BzRE9FdXdlRFl6bXVVdzI3d0ExRmRhbFdidTRWeWRQUTlpcm5SWG9ZcEF3a0Jtb2pqcWVnMU4wVzFTQ0JjQTdxekxQS0QzNGNDbUI2cEVkVnlIMnhzS1Z1azNVV1doMWlpeTJ2TTl2RUs4ZXM4R3BuYnl1a1lmNUFfMWdTQ1hwNGJqQmZRc1lNaTlVNUhybG9NYmg0NTZENG8tWjdVTVNaODRhcGhUVlFrTGViSVpEbXhpNURDNmRZ?oc=5",
-        "source": "Prefeitura Municipal Alvorada",
-        "publishedAt": "2026-11-25T15:27:59.000Z",
-        "summary": "Com mais de 1,2 mil filmes de 84 países, Festival de Cinema Escolar de Alvorada realiza premiação nesta quinta-feira Prefeitura Municipal Alvorada",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 7.66,
-        "relevance": 8
-      },
-      {
-        "title": "Estreias da semana nos cinemas: 26/11 com 11 filmes",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmc0Si0yUnNSYVRLdjk4UkN6TE9rOEJOekdqcGQwSnpUZlZucHplcnluSDdjelg2QWJOeUlhUHdvSGJTb1dHS3ZUTGo4b2tsOHB3TnRQVVExVEgtTmx4b3ROT01sNWE5VnNYa01YdUNrUkFibEswYnNxSDI5emZxODc0UGFrbTR4blVpa2taWEoxQ0N5YW43djdkMGNBbGh5VlE?oc=5",
-        "source": "Paranashop",
-        "publishedAt": "2026-11-25T13:53:36.000Z",
-        "summary": "Estreias da semana nos cinemas: 26/11 com 11 filmes Paranashop",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 6.31,
+        "score": 6.26,
         "relevance": 7
       },
       {
-        "title": "Cinema do Dragão recebe pré-estreia de longa cearense, animação francesa e sessões gratuitas do FOR RAINBOW",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQ2FORmc1TXJzd253NjdwQ0g5QVFxNldPMGNKS2hGVElkclN1UDREamd6TDFVV0FOc1NOeWtYVjBJUjZsakNHQlBtOE1SLWpfcUF1ajFPdks5dzVXQjQ0cktCX0VoSng1ZFVpQ183R05YUmVrNDBKeFFZWXN1N3lWLWg1OEEyNURoTktsTEtWWVAyNVlMckxfUDl5MXB4d0E4VnFCNl8zZWRSVldhVHoyUUN6TmtLNUFCTHVxcTZ4ZjhHZWJUdDVENGI5WENSY1dLT2xsbmxKNUlsbUhKUkdSbQ?oc=5",
-        "source": "Governo do Estado do Ceará",
-        "publishedAt": "2026-11-25T16:15:41.000Z",
-        "summary": "Cinema do Dragão recebe pré-estreia de longa cearense, animação francesa e sessões gratuitas do FOR RAINBOW Governo do Estado do Ceará",
+        "title": "Cine UEM exibe filmes do Festival de Cinema Francês do Brasil a partir desta quarta (25)",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbHE3UDFRVWZ0LXB5Ym9fTEVDRVMtSFNEazdUSXNXMWh5VmlHN3hfcG11V2R2ajBHTS1YMEw3NEdsQTNLSGYzQUVUZF9lc0ZsOHJQSUJWS0NBZTlFeUlDTE9nS2syQ1BwVTVnLWlINXM0YTE5ZjBMa1FyWjdSQ0U4a3AyWmhTeEN2NlQ5aDVrLU92Z2gzNkRqYzZpTFhHclVRT0VjSkNzUlR6cmRHNDVBMll2ZVFYSEN1NUJPeHRn?oc=5",
+        "source": "Maringa.Com",
+        "publishedAt": "2026-11-25T17:31:25.000Z",
+        "summary": "Cine UEM exibe filmes do Festival de Cinema Francês do Brasil a partir desta quarta (25) Maringa.Com",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.92,
+        "score": 5.91,
+        "relevance": 8
+      },
+      {
+        "title": "‘A Fabulosa Máquina do Tempo’ estreia no streaming do Canal Brasil | Filmes e Séries - Por Mattheus Goto",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcC1HYlJ5YlBuWjRfeElmMFN1SXkxQ2xLVEdQM3dhNzAtY1A0b3hPeUtxNGZrRHY0Qmpjbm5TUUxLS2hpV05UeDJfenFmWFJCSFRpY19Ra2dMRVF0UGhDREs2eFFaRzVQM1c3bFdFaDFVbk93OXRXWno2XzJ3ZUtQYzZOUTJvUjRHUjNqLXZQQTItbnJqaHdsNkhNOWNwN3V3ZVFMa0JmRk01dWdXLTVLMHdYQnoxWmZrdDU3V04yVGo?oc=5",
+        "source": "VEJA SÃO PAULO",
+        "publishedAt": "2026-11-25T17:28:34.000Z",
+        "summary": "‘A Fabulosa Máquina do Tempo’ estreia no streaming do Canal Brasil | Filmes e Séries - Por Mattheus Goto VEJA SÃO PAULO",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.9,
+        "relevance": 8
+      },
+      {
+        "title": "Filme “Retratos da Várzea” estreia nos cinemas com sessão comentada – 26/11",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTnJVeWJ6VXdnUi1wd3JZNUdOZFFWR3p0X29SdWY5Vlg3NFFjbFlIOERudWhmcWVrYXAtRTByVnpTZVFTMnB1MXFJU3ktdVFMdlVnbFpsTWxZVVZ2YnhZbjRvVHlUU09ZTVRoeW03YlNGNUtKQ1F6WFNCV1hVZnhHcTFYT25SS0tNYmJXSVQyRzYyZ2FtMUxITWp0NDFLb0hjbzJwRzhn?oc=5",
+        "source": "Agenda BH",
+        "publishedAt": "2026-11-26T00:43:04.000Z",
+        "summary": "Filme “Retratos da Várzea” estreia nos cinemas com sessão comentada – 26/11 Agenda BH",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 5.84,
         "relevance": 6
       },
       {
-        "title": "Recanto das Emas recebe festival de cinema com programação gratuita",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPek9EdkpEcDNwS24tcEE5eVFlMEo1MEUtYkU5Uzl5eGVQT0hPS1ExYmptRnZTc1ZkYmVzSmpHd093Ui1kQ1pvTzAyZFNOT0UzTlB1WlMzeGR6M0ZpMkdHTHcwa0FZSnJQYmNjSkVxWFkzRl9XTmhQOEJHVXg3Y1dURmUtWUVKVG92ZDZyYWFKa1NsbjNSamVXdW92NHJHdHV1SG92dVdzZ0QtX0dNd3c?oc=5",
-        "source": "Metrópoles",
-        "publishedAt": "2026-11-25T15:45:00.000Z",
-        "summary": "Recanto das Emas recebe festival de cinema com programação gratuita Metrópoles",
+        "title": "Selton Mello estreia no cinema argentino em novo filme de Benjamín Naishtat | Filmes e Séries - Por Mattheus Goto",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeHRLRS02N082U1k4WmpucGFYY182Rl9zWEtHMjRQSUJKNlR6NGtPME9jYkt0VnhRVnhUTE1kS010bTRYSTZ5QlN2MDVNdlJ0QlNySnQxMUF0VEp3aEpoWEFlMnRXX0VjQTIyNHBhUTltbmNQVXRBRFdGWC1VVEQ4cnZqVFVtYjAyWWhTWi04ZU5EMUlWZ0ZaekxxNFI2YmJxMmd4aTIySnM3SGY0MkVpUlV1WmFyTmhuX1lSMA?oc=5",
+        "source": "VEJA SÃO PAULO",
+        "publishedAt": "2026-11-25T16:40:09.000Z",
+        "summary": "Selton Mello estreia no cinema argentino em novo filme de Benjamín Naishtat | Filmes e Séries - Por Mattheus Goto VEJA SÃO PAULO",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.81,
-        "relevance": 6
+        "score": 5.72,
+        "relevance": 8
       },
       {
-        "title": "Filme \"Fogaréu\", com participação do ator Eucir de Souza, estreia amanhã no Cine 14 Bis",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQ0NCOWhmQWswODZ2NzRQV1FaS0VKNXhoVHNBamxtUW00Y0ZlTEV0eUhNREFiT3BJdEg0U1pSQXZSNGJyeVhsMmhSQUFYR2tHYUpES3V6cmFqWUdibzhyRHVkWlBaMlN3X0ViMTRyWjRndWU5WW4wcFBfQkcteUlfM3lSNW52X1pEcUZIXzJTc21nMTJ6N2xJSXd0RXhxcEZkLXctay16WlJEQk9qOUxpNnMyOVE1LXVQckVCb2I3a1JJQ3hOTGdHS2Z2djlVWmM2ZGsyNkhjaGYtdzE4X1NSZ2l4WGpVQTdSSWZva1N3QV8tYk9YNmJoalVQOEdwZ21IeU52QXllbDBUUUYxaWZSV3REblV0Zw?oc=5",
-        "source": "Jornal Jogo Sério",
-        "publishedAt": "2026-11-25T15:41:05.000Z",
-        "summary": "Filme \"Fogaréu\", com participação do ator Eucir de Souza, estreia amanhã no Cine 14 Bis Jornal Jogo Sério",
+        "title": "Festival de Cinema Close exibe 27 produções em Manaus até sexta-feira",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdWlPbW5ic01jdHBRT0xTYjRTZHltbHJtM1J0ZlQ0SW1fWkVpeHlPVHFVc3hneUdiVTRyTURIX3R2RFdHUy1ibFpSYUdzbE1WWWItZk9MMnZWdHB3T3p4YXpVVW9TTElDbnVfT3doLXl1c1RHNnlfRmJxZFBsU2QxYlV3RFVwVTBjREJuNF9jQmE1VFdIMWJOQVVEazVQRkpXSmhHTXVZbFFONjRET09pcXVraF9mZVpMemNsNHZVWFZPaF92WjF1Y21CaEdEUjJuZFRWQ3hjd0NhVXfSAeoBQVVfeXFMTi1rM0lPd3dUTndjR1BaX19Eb1lURGZZLWoybGZEQ25XN3JhWFhiQ0RYSkdHV2FRWi0wSHlNb1JudGFoZDlGejA1VWpVQnh3dWdqV0l3eFI2ZVAwX1BtaTExZjViU0VmX1RzT2pPdjh5LS1qS0ZwQW5uemdXOGtDT3Rhd2t0Nzl6b09LUXk5N3JnYkZQRzZiaUxJbDBpdWwtWG9xaGY1RDJrNFJldWNRbFdpcjJXVEotUVpUaUtKYi1Hc3VFS0UwOERYRlFmNHVQbjZZa3JTRzJBdHRFMEIyM0gtYk83Vm00TUVn?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-11-25T23:54:32.000Z",
+        "summary": "Festival de Cinema Close exibe 27 produções em Manaus até sexta-feira G1",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.79,
+        "score": 5.67,
         "relevance": 6
       }
     ],
     "medicina": [
       {
-        "title": "Saúde cardiovascular: atenção primária ou tecnologia hospitalar?",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YRlMxWnNKQlNtT283ZjdVR1FZUmMzVW5yamZXS09zUkdVaGNrTDVaTWVLZkNiNXgzakhGcWlFNTd6NldaU0otTEcwSm51Q1NqNGYzcGdOdi1Kb2ZVVHc?oc=5",
-        "source": "Medicina S/A",
-        "publishedAt": "2026-11-25T13:06:47.000Z",
-        "summary": "Saúde cardiovascular: atenção primária ou tecnologia hospitalar? Medicina S/A",
-        "image": null,
-        "topics": [
-          "medicina",
-          "negocios"
-        ],
-        "score": 4.72,
-        "relevance": 5.4
-      },
-      {
-        "title": "Dia do Doador de Sangue: Campanha para atrair doadores tem sorteio de brindes e café da manhã no Acre",
-        "link": "https://g1.globo.com/ac/acre/noticia/2026/11/25/dia-do-doador-de-sangue-campanha-para-atrair-doadores-tem-sorteio-de-brindes-e-cafe-da-manha-no-acre.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-25T16:02:44.000Z",
-        "summary": "Hemoacre faz campanha para atrair doadores no Acre O Centro de Hematologia e Hemoterapia do Acre (Hemoacre) promove, nesta quarta-feira (26), uma ação de doação de sangue para atrair doadores em Rio Branco e em Brasiléia e Cruzeiro do Sul, ",
-        "image": "https://s2-g1.glbimg.com/WZDxpTeO2TBFU7orQFLbVniLprc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/n/s/mWRkO3TwqJIUmKTFHipg/sangue.jpg",
-        "topics": [
-          "medicina"
-        ],
-        "score": 4.7,
-        "relevance": 4.8
-      },
-      {
-        "title": "Fiocruz debate pesquisa clínica e saúde pública de precisão no SUS",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelJBaTRZYXFpYXRQdnpnb3JNZ2tQWF90ZmZkMFNwcVplc280QWM3OVJtRHk2Z0hzVHlOWTZlZWNXMGwwUjNXTUd5cGFDWXBiaHNlWG9ic200V09rMzJkTG5SbHBCUFNOeUZYQWp5SDhDazc5Mndfa25iaXV6ZmdnbDVsckZ2WDBlOG90R2NsZGo3QkMtME03SQ?oc=5",
-        "source": "Agência Fiocruz de Notícias",
-        "publishedAt": "2026-11-25T14:33:00.000Z",
-        "summary": "Fiocruz debate pesquisa clínica e saúde pública de precisão no SUS Agência Fiocruz de Notícias",
+        "title": "Como a pesquisa clínica contribui para o avanço do tratamento do câncer no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSGVEdThaaWEwa3JQSEFPRmVac0dsV0g2OFdqWFdxRjN5ckVINzN2V1BQekhHX18tUjZReENLdUhzMDZqTTVCTThoS0JiRXJmQVl4M2FXZUp2anRGT09icm5FSzUxNzR1R1ZtMnJMQWhrSU93M0RpSEluVU9ZUXJQelFBMExrYWpUVTUwcEdvV2RhcHVKNXJMV3BzSHBkbTVUY3ZIQ1VReTNpaWVaU1lsUjNEdXdiN0t4bWtibF9hZXFGbkdwN25GREJJbi04U3dmc1Vv0gHYAUFVX3lxTE1FWVpJQ2h2WE9VeUhHN2hqZ0UzMnZOM2prRHliUTZ0QWpZdzZtcXJ3RDVLWnl1clB2UVJDbm1hOUhIMmNZQTRWdlNzbEJhZ05MY0E1dDVTblVSZzhHUERLQlJpUkhBS2ZiYVFFX0l3RzRmYjBpM3B0eG5hUUctZkJiZHZBNTNtcnFPTEZuN2llT0Zsc3RfWWZaVHJ3bW14U0hhYXF3N2dFQXJ6MWlhVFdpbHBudmwtenVmUjAzYmVTbkM3NWpyRXZOVVF2bDZtaUQ2dGNvMlZaaQ?oc=5",
+        "source": "Estadão",
+        "publishedAt": "2026-11-25T23:00:00.000Z",
+        "summary": "Como a pesquisa clínica contribui para o avanço do tratamento do câncer no Brasil Estadão",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.62,
+        "score": 4.56,
         "relevance": 5
       },
       {
-        "title": "Quem era o estudante de medicina que foi morto ao prestar socorro no MA",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONlR1dWJtR0xPZEpYckxyRVc1b0tMRXUxSWVIdGcxa0t3eDFnQmI4RDBtTXdwaEdtYlItVUtnWkJZZHBhbmk0RDYybVdYT1lpY1FvRlhCQU5MUl9CcVFqSEtMbUl1ckJ2cGpPRjVoTVpEQWptZDVGb1JMUjVQWFJBR0d5UzdST0RXY3RNb29sXzZCdHFKVHM2ZjBhWVl2ajhVMHRsREhMa0pfT3FYS09oSFdmc1Atd2hCbVQ5cjd3T1c0M0lhcWdmUnQ1d0tVVjhyRWJXblVR?oc=5",
-        "source": "UOL Notícias",
-        "publishedAt": "2026-11-25T14:27:41.000Z",
-        "summary": "Quem era o estudante de medicina que foi morto ao prestar socorro no MA UOL Notícias",
+        "title": "Médico brasileiro ganha capa de revista científica mundial com avanço no diagnóstico de infertilidade",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLWlQcnFFWHhVb1BsdzIwTHlvMHNIbHZGNGxQWGptQ3JGMDRIekphRXFuOE9sRlZ1RmJ4SklURlFDY2NFVWotRVYtVm1ubEU4b05KNU5TREZzcWxmS0xJcDRNaHpMUDNPN25KdUpDYnJRejJUb3k0TFdsNnVfUW1LYUpxd2lDc1JUMWY0WkJ1VG9sYzZvYU1kZFktSkJRNjkzTVczdWJaNWdES2FwUVlUNUVnNGdCUGJaSmNKMi16dG05dmgzUm5oY1FWYlBuZXVFclhSTTZzS1I?oc=5",
+        "source": "bra1.com.br",
+        "publishedAt": "2026-11-25T22:34:00.000Z",
+        "summary": "Médico brasileiro ganha capa de revista científica mundial com avanço no diagnóstico de infertilidade bra1.com.br",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.61,
+        "score": 4.48,
         "relevance": 5
       },
       {
-        "title": "Brasil avança na busca por uma vacina terapêutica contra o câncer",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1LZTZnaW9ibENLeXZCRGZ4YkdqenU4YUQyaEJ2ZHZMRlBqdmF6bV9CYTNDT2lVYW93bG1QdXZ3RDNPWjY3cV9WcS1mczgwbDVTNTZrR3BsdFhPYkljY0U5Mlp3?oc=5",
-        "source": "Medicina S/A",
-        "publishedAt": "2026-11-25T12:00:00.000Z",
-        "summary": "Brasil avança na busca por uma vacina terapêutica contra o câncer Medicina S/A",
+        "title": "Conselho Deliberativo da AMB reúne lideranças médicas em Maceió para debater desafios da medicina e perspectivas para a gestão 2027–2029 – AMB",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMFNJNlNkcmdtbFVyMWFpSEs0aTMwa2FjMC1GNm45dXEySGRuX1I4cHFhcVFYX3oxWDdQb04wb0lkenlBWi0wVWk4MzZubDllZXgzaDhhUkNBSWFldWxSNGZrUnVDOWY1VndDZFZIUkRKSjB5dHY1ZjhrdmJPMEltT2ExTFZzbVpCTnRTWFVYVXh5cWZ1d2pZZ1FDdWFCUk1fbXlvemhGaEhPUjFYSTNrUjE1cURKRS04R3JzeDhMaXZkcTdBYWY5UmtBREl4bVdweGFWTm0wUXBncUNYUzltaDFydUI5bzh5VXQ2Yw?oc=5",
+        "source": "Associação Médica Brasileira (AMB)",
+        "publishedAt": "2026-11-25T20:10:08.000Z",
+        "summary": "Conselho Deliberativo da AMB reúne lideranças médicas em Maceió para debater desafios da medicina e perspectivas para a gestão 2027–2029 – AMB Associação Médica Brasileira (AMB)",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.52,
-        "relevance": 5.4
+        "score": 4.09,
+        "relevance": 5
       },
       {
-        "title": "De simulador cerebral em 3D a dispositivo que identifica complicações em acessos venosos: estudantes de Medicina da Unisa criam soluções para desafios da saúde",
-        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPV1RjMUdyY1ozRF8zYVN6blJsWEpUT1MxUmp1aWxnYk8zbUZhZW5tRXlFMkFvaTZxREo4ZGxRTUZvOC11N005WVFZWEd2bF9DNkxvbmpDSEx6MkItRjEtQ1B6WF9MOEJaNEhoazYwd0RwNzNpREwyWHpJelRYMmU1Y3JZanNuYkMtVko3dGdVZnlvenlnOTcxVW0zMDRNMXZwZ1ZzNm9NM3FpTGVYLXd3ZGFrTE1MQUFaRzhLU044ZzNxV1ZBbUpoWjBneDFJcF9jRkJFd0ZXaHJfdlVsUVFIVXlBWnFleTAxc0hwRFpuQUtYcWFfb3BlZmhqZ1ljNXBTUFJxdHZPakJwaEtIdTNMalpsOG1JMktfcFFueEFFODNvSUkxZ2FXMG1B?oc=5",
-        "source": "Saúde Digital News",
-        "publishedAt": "2026-11-25T13:31:21.000Z",
-        "summary": "De simulador cerebral em 3D a dispositivo que identifica complicações em acessos venosos: estudantes de Medicina da Unisa criam soluções para desafios da saúde Saúde Digital News",
+        "title": "Operação Canudo: MPF denuncia cinco pessoas por esquema de diplomas e históricos falsos de medicina",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQ1JyS1FJM1ptYThPWmhMZlRqWkNQVklSVjRrYzhKWTFLUkxvT1lzLTlUMmxfSE5GSDRrWTZQNkRsTFg4X0txdmYzeEIxSGVJMmprVnJtOGt1TFA2VGs1NW01d2VRRjM5V29pZnFrbzF0WVZLTndkOGJ5ZFl0clhkMGNEMkhSXzhCcW96OE1YT3EwS1ZaY3d4WFhjalNaYjNpMk5MYVdkUmZ0YlJUejRWODVsZF9EUlhMaF8tU3pOcmVPZkxxVThxUkdpYlBzcGRiT1VaeGl2N3paVEdaSVE5QjVYeWZ0cmVkbGxV0gH6AUFVX3lxTE4waDBUaWRQV1lpRW5URHhaUHY5RUFqNVFPWVV5VWk3SHpZY0dTczhaRHRMam11Y0NtNDlkaExBU3FMVHNnTFBORGlGSkFCaHBTNWxWbzFhODN2aUM4d0tteWZuYkdPbFFsSVE3TUtsV3JDNUREQm5EWjFsX0FFX1N2LVpPLXhQZjgzb2NtWkp3NDhhY01RcUdTRVpJQzJMXzdmb2NjU0FyQjgweFJsbDA1ZmFnRi1ZSnRWUWozcUxWdGNDa1RqaHRvQ1ZKdGE0a3JBSHhmcTZWcERlUWx6X0Etbjlzb2FxVVNBbndpbGd6RU9SMTFrUnNsVXc?oc=5",
+        "source": "O GLOBO",
+        "publishedAt": "2026-11-25T23:40:20.000Z",
+        "summary": "Operação Canudo: MPF denuncia cinco pessoas por esquema de diplomas e históricos falsos de medicina O GLOBO",
         "image": null,
         "topics": [
-          "medicina",
-          "negocios"
+          "medicina"
         ],
-        "score": 4.44,
-        "relevance": 5
+        "score": 3.74,
+        "relevance": 4
+      },
+      {
+        "title": "5 erros comuns ao pesquisar sintomas na internet e como evitá-los",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHR6a1N5RTlBc0x3Y2pwWUNzd0lUN0ZQUThlR1AyVVlfdWdOU2tDOHdwOE4yUHZUdUlFc093V0pLS3N1N1hwcjRrU2RhbkpxSUlJZVVXbF9aU1lwbVk5aU1uZk1GZWM4eThCaFV0WDdMa2ZwNVJ4TDNxR3dWV2llMW5UaTNwdkhVNV9Jd2ViX3d1R2hZbDJHZkZULU1rWi1BU016WWt1dkxHT0Y4?oc=5",
+        "source": "CartaCapital",
+        "publishedAt": "2026-11-25T22:03:00.000Z",
+        "summary": "5 erros comuns ao pesquisar sintomas na internet e como evitá-los CartaCapital",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.52,
+        "relevance": 4
+      },
+      {
+        "title": "\"Conduta escandalosa\": Ex-professor da UnB teve registro médico cassado",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcnh1cUg4VEZFSFhRRFdDVk5KU0pfcGdmbGJEb2pBbXhCM05KNVcwMWFFcS1XTWcyc1RrWTRfdmJuZFhjaVJfdm40UW1aUEgzTF83VlhreVQyZHB3OXN1NGhYclI0NVFWaUdjM3lYcXJJSTYzZUZ0UUp2ZmRsV2JoRjdleEpja0pLN1VsQW9qRlpERDhxOXlPeEUzOEpCQ0lWNDMtWU5RNTFUb3FuWnBUb1BB?oc=5",
+        "source": "Metrópoles",
+        "publishedAt": "2026-11-25T22:02:00.000Z",
+        "summary": "\"Conduta escandalosa\": Ex-professor da UnB teve registro médico cassado Metrópoles",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 3.51,
+        "relevance": 4
       }
     ]
   }
