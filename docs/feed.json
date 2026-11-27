@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T01:21:49.408Z",
+  "generatedAt": "2026-11-27T15:55:26.372Z",
   "site": "TSP.MMIII — tspmmiii.com",
   "count": 40,
   "topics": [
@@ -30,421 +30,608 @@
   ],
   "highlights": [
     {
-      "title": "Governo confirma Luiz Trabuco como ministro da Fazenda a partir de 2027",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORm5XVXV5aW5rNkhDTi11ZjVxaFowVUVDTHdHTkgwc0F2cDJ0Z2Z4SUJ2ZUo1SWh3Z0tKd3JTd1gwTGxiX18tOEZYaUxfcXJfcWlSTm9BSERNY1psalZKczFMOXU2ekgtbk9jT1FMcUNkTHhtSEk0bUxFVVduMUZtc01tS05UVE8zTGs1UDBuMS1VTENneGhONW0yOEQ4SDhRR2FkZkhobWhHUVhVOThQR0tIY9IBwgFBVV95cUxPeUh6MmpZdnhRQ2N0bnFaallhRjZFTnkwUUpna1R4eWExQXdzSmRINjV3UlJqUVMyLWlpMHJna0tkSDJlUUkwakFuU3ZIRE5SbVJwc3l1SFRMSjRSWVZQTTRzbWlmU2YxWXJuTWJGNmZtVnpXRHp0WU9OWHZVX1V1ajM2Ukk2a3ZVNWFsZWlTTkI4TWZ1d2ZpVnVubHgtdk1NN2otTTJvU2dzZDFBSG91cjJpc2dTcjJyTFNYeHBCamZSdw?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-11-26T23:09:42.000Z",
-      "summary": "Governo confirma Luiz Trabuco como ministro da Fazenda a partir de 2027 O GLOBO",
-      "image": "https://s2-g1.glbimg.com/8Hpt5t9j_HROFFUucUfw65_ihXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/l/Q/Xui6KvR8u3a9CnM3VRcQ/2018-03-14t140319z-1282850438-rc18e918e880-rtrmadp-3-brazil-wef.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 9.37,
-      "relevance": 10.2
-    },
-    {
-      "title": "Luiz Carlos Trabuco, do Bradesco, aceita convite de Lula para assumir Ministério da Fazenda",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONUJtR2I2MVVOYXVEYW12dUpuMGxuSXQxbDIzTUMwNGNGZDBjbVBxeFRLRnNCUW1fc1c5Mmt5QzdwWmRPUy03LUwwZF8wMUtaTzYycHVPbGViOTltLTdTUml0VWNrZnBjc0hBOFRLZWRmT1BsMUxCTFVEaC0zQm5pVmFtcFk2cVJ4VHZZbjlRbHo1ZjkzQTF4Y0p0aHJBZmVscFdGeUpiRnEwbGNwcFQ0UTg5ZjQxaGJpZzQ3d1J6M0NFVlRUeTlqVEhaT2tTTXU5NW9sY1dGVUY?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-11-26T21:58:00.000Z",
-      "summary": "Luiz Carlos Trabuco, do Bradesco, aceita convite de Lula para assumir Ministério da Fazenda Folha de S.Paulo",
-      "image": "https://s2-g1.glbimg.com/jxvFfTBS04ak4MWwXo8lXtScyJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/8a5bP8QGAajgsBvdbmSA/2026-11-26t122730z-363785437-rc2rhbaxbsib-rtrmadp-3-brazil-politics-finance-ministry.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 9.3,
-      "relevance": 10.6
-    },
-    {
-      "title": "Resumão diário do JN: Governo Lula anuncia Luiz Trabuco para Ministério da Fazenda; apagão de energia atinge cidades de Roraima, Pará e Amazonas",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/26/resumao-diario-do-jn-governo-lula-anuncia-luiz-trabuco-para-ministerio-da-fazenda-apagao-de-energia-atinge-cidades-de-roraima-para-e-amazonas.ghtml",
+      "title": "Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWR6bjJRT2ZYMEVTRUNNVFhaVElHdmNCTEFwVEtHM2FRVzZNX1kwRzNnMDRTcWF0R2RZS3JfRkJaNE1mTmFYMWNLTGF2OW5aOTZtSjl3Y1B1bzBmQWxVdDZyV3FVSE40bWZ4R0poWlU1SUE5SmR1Q3EtbkFTTHR2OS1iQWxvNGx2eWFyaHJURmxLVV85WlVMaUNCRlR1VHJjUnVNYU8yZ1Bmc05ZamFyTldWa3lnLTdnVGt5Q0k1emRaMTk3dko2YlhiT3lrSjZRS1NONjRCclhfdW50eVM3NzJtZ21vYVNIeS1nZEUtQzdHVnlUZGxfUkladzhCRWVpOUdNQlNR0gGUAkFVX3lxTE9VU1dSZWZpeGctUVI1eUgyZmxGZlFHMHI2aURGMDU2Sm9EVWZCSTZjel9QUFY1NVdRY2dVdTlzVE04eUhVRjEwVUZOVHB0aG5GTzZzQ3UxTDM2QTROSVJ4MUczQTJiMFVwMVZPWmJyWC03S2RCYjQzelpkYVdGSF96Mmp6YVZ0VGIzLW1DLW0zZXhPaFFaNXNXTC1YMFhFc01TQXNwRVhzZmpvcjZ5Nm1ocUhwZHFvdlpfbGVwOG9RZ1lOWnNadlRxNWlyQzRoNk9QNWMyU0R5Y3I1Qk5tV08wQWdEQlU0WFk3bG1EajN6MjRaSEZUbG5rQ2RqOXZscmpOdTJ0ejB0Yks1V3JpRGJYbHU5ag?oc=5",
       "source": "G1",
-      "publishedAt": "2026-11-27T00:33:49.000Z",
-      "summary": "O presidente Lula convidou e Luiz Carlos Trabuco aceitou ser ministro da Fazenda. É o primeiro nome confirmado para o quarto mandato. Atualmente, Trabuco comanda o Conselho de Administração do Banco Bradesco. Em um dia de expectativa no mer",
-      "image": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png",
+      "publishedAt": "2026-11-27T11:52:31.000Z",
+      "summary": "Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda G1",
+      "image": "https://s2-g1.glbimg.com/ejEJhlAFFtHVomA6t588fsCCEuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/2/QAYVOsS6qXeGSfW1z9iA/globo-canal-4-20261126-2000-frame-65304.jpeg",
       "topics": [
-        "negocios"
+        "negocios",
+        "geopolitica"
       ],
-      "score": 7.76,
-      "relevance": 8
+      "score": 12.66,
+      "relevance": 14.8
     },
     {
-      "title": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEtyMHQwcHZZWWR4RUhXVHE3R3BsVGFvOWVBX19BbXVuTUlJWG5SZFZmbHJHejZnWmdVX2tKZjNXQ25HZmlnOEpsaFZUUC1nMHNUdkZXOS10N2RQVXpJemFscGoxQ0NLOFp5ZW92VFBSemtGc2xkcE9GTWtVaVJYUVdSU1Z6X1BvQ0FOamdn0gGcAUFVX3lxTFBKd3NpX3h6Sk5icjFYMjUwQlpfMnQxSi1ZcnBkU2tTbk9pMDRPZ2lpclZiUzN6XzJBcUtRM2tTdldQSGE4OElWSlM5SFotMkRCSWd2TUFyZEdZT1h6Sy1fRWtDU2NFSVhNREVmZ0oycThpdDlWdGNLaXhpcTFpalhSSW5jeHhWQjNPQ0diTUo5Y2xkUXp4aVBvYjZQTQ?oc=5",
+      "title": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-na-fazenda-veja-outros-banqueiros-que-estiveram-a-frente-do-ministerio-da-fazenda.ghtml",
       "source": "G1",
-      "publishedAt": "2026-11-26T21:48:09.000Z",
-      "summary": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021 G1",
-      "image": "https://s2-g1.glbimg.com/jxvFfTBS04ak4MWwXo8lXtScyJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/8a5bP8QGAajgsBvdbmSA/2026-11-26t122730z-363785437-rc2rhbaxbsib-rtrmadp-3-brazil-politics-finance-ministry.jpg",
+      "publishedAt": "2026-11-27T14:48:59.000Z",
+      "summary": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda Reprodução O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou na quinta-feira (26) que Luiz Carlos Trabuco, presidente do Conselho de Ad",
+      "image": "https://s2-g1.glbimg.com/WNw3fsBIsAGPyw8Gz7p0mkWj1Yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/y/XTJzMzTcO1tSyCwqigHw/montagem-horizontal-1280x720px-4-.jpg",
       "topics": [
-        "negocios"
+        "negocios",
+        "geopolitica"
       ],
-      "score": 7.67,
-      "relevance": 8.8
+      "score": 11.69,
+      "relevance": 12.2
     },
     {
-      "title": "Indicação de Luiz Carlos Trabuco para o Ministério da Fazenda é bem recebida por representantes de diferentes setores da economia",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZ2lHY2VmNElqMmVKckVBRktScEI4Vy1abkkxSDRjTFNMMEVnalFpdEZqaG94aUtqVWZnRkliRjNCam5DSTgzOUlCLTZuNW56aWlBOEY1NHhkUDdOc2k0N0FwZzd2eWh5Qk8taGc5REx4SGpSR1NXUWl1RFNwQTNXdDljQlFrLWU0dDQtWnREdUJLeFJHM0h5d3hNVS1QWFE5OXFaOFcxVGd0NG5wRDJCYURKQWdrNU02R2JJZDFjX2FQUzRnNWl6QkpMRGUtSVJjam5XWHptbFRaY0Z2dUI4aDYzOG14bW5NRFRTMGVKSkRFcE5qNElGbFVZWHdNd1VhZFM5SWo1dG5JbTNpMFJYOFdlZ2lITDhDYi000gGqAkFVX3lxTFBEV0ZaTXJxNWlpMHdyUS11QVJQTjhsSjJkRzN1SS1MY1IxMHNacjNMeWUwVC1QX0psVDJNVEVXOVZwbnl0X3N0V0FhRnktaGxQRkJrMzBrVkZad1IzU2t1WkthRGxMbVA5Xy00cUYydmRuY2JPaHBzYkZKMmZjbjZhcG13WDJ3MC1pZVRJRi1PcUxGMC13ZHBTRmJjV2ZaZGVsNndMSVY1SmVIWVp6aWRwMDI0NUV5UmNMekFTQXhiVXZmM040ZHdlQXk3ZUlnZkU0bmQzNlp3RkctSXNkQ0xoSUNUMUJQeVhaSDJxa0pzTXl5U3h6OGZ5MU1OY1VEaVBCZ2lrMUtIa290ejQxdXJFSmR1QjlhVFU1LUhRYkhzc0JmOEJHdzV2ZlE?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-27T00:10:41.000Z",
-      "summary": "Indicação de Luiz Carlos Trabuco para o Ministério da Fazenda é bem recebida por representantes de diferentes setores da economia G1",
-      "image": "https://s2-g1.glbimg.com/JjG0tRRVfabbv2qnOqHyoLxOt8g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/U/1sGOqPQ0CHv3hCQrGsPQ/globo-canal-4-20261126-2000-frame-70614.jpeg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.64,
-      "relevance": 8
-    },
-    {
-      "title": "Ibovespa dispara 6% e dólar cai a R$ 5,74, com expectativa de Trabuco como ministro da Fazenda",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zLVZXc0pudEp4bXg4MTR0d1h3VzREcktYSVVWVE9OSk9GQlVuQ1poNjVOLXR6UWotMk9WMkJrTzM2WXA5U29NOU5oTVpSc1NwMTViamNsaEZobmRQSEh4ODk4dEpMTTNCM0pKVGNlMDdJb3NVSE5tWdIBhwFBVV95cUxNTl9YZDMwWjdXbVJ0OFoxLTVNR3ZsU1NMdWZ1Zi1Zb0tkbk0wMUsyOGZQRkg2cDFXUzJHZE9rUVVhRjZKYWg0WDY3Q1hLdEJWSzd5ak1zcWVqc2hueWgtdW0yOEpYTXZWVHBPblBvNTZuYng5U3ltRjVDV29jZUlldTNVMndyeFE?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-26T12:00:00.000Z",
-      "summary": "Ibovespa dispara 6% e dólar cai a R$ 5,74, com expectativa de Trabuco como ministro da Fazenda G1",
+      "title": "Dólar cai mais de 4% e chega a R$ 5,48 após confirmação de Trabuco na Fazenda; Bolsa dispara",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUVg1U0o1ai1SekMwUzdKV0RKeXFFOHktUzhLNzU3aUtTakJENkFCN2psRGZtTEVwSGJyWXJMRnRrWnlRZUVZNXlkbDlWRENnVktJUVNvbFdfamljTmdyb3V4UzNUejBwQ24ycF9TT3owbE9uVGNFS1JiakJvUTZhd3lNVy1JY3FHSmlfeHhfdzRqNEE5LXJQaWJwWlZ3SXpKQnJFWXlyd2p2YmxHdm5zZ2dqMm1SWXA0WDlEWkdmY29vdmJnLWRud1E5bGg5QW5vWmp0cmFsM2U1cWt0SEpFNWpHYjM1OG8?oc=5",
+      "source": "Jornal do Comércio",
+      "publishedAt": "2026-11-27T14:36:57.000Z",
+      "summary": "Dólar cai mais de 4% e chega a R$ 5,48 após confirmação de Trabuco na Fazenda; Bolsa dispara Jornal do Comércio",
       "image": "https://s2-g1.glbimg.com/uwNmoSBOb59X1nQknEt3Zeenv64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/v/5lgfbyQ6yzm69F02kHgQ/2025-02-07t180249z-1-lynxmpel160po-rtroptp-4-dolar-abre.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 7.29,
+      "score": 11.6,
       "relevance": 12.2
     },
     {
-      "title": "Investimento estrangeiro atinge marca US$ 1,4 trilhão em 2025, quase metade do PIB, diz BC",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/investimento-estrangeiro-atinge-marca-us-14-trilhao-em-2025-quase-metade-do-pib-aplicacoes-no-exterior-superam-reservas.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-26T11:57:30.000Z",
-      "summary": "O Banco Central informou nesta quinta-feira (26) que o investimento direto no país, ou seja, o valor acumulado dos investimentos de estrangeiros em empresas e negócios no Brasil, atingiu a marca de R$ 1,41 trilhão no fim de 2025. O montante",
-      "image": "https://s2-g1.glbimg.com/iSsWYojSR0goQjQInTT2GsC9iPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/a/AjTtVaTmujQdIedNCmqw/captura-de-tela-2026-11-26-092030.png",
+      "title": "Dólar despenca 3% e opera a R$ 5,57 com escolha de Trabuco para a Fazenda; Ibovespa sobe",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdE5zdDBPbHB0eXpjTmEtVWVOM28yQjdpVjZOSVBSUTBmZ1Z5dGdNNnZ0NWFUT3hWSmN1Wi1KbnVmaVd3OU1CTkR2N1h4Sl9pVEppejAyejd4dDBxcUVTNnNLQnl5enNXNkxrQVFvelNZRkszV2NXRdIBhwFBVV95cUxPdUhPazRUUjlWbHhCUHU4RDg1TTAyeERRUEhCRG5nVXVaYmdLWDNQa0wzUTRzOUJUeTBLU0xBelZWSE9zcnc4YzB6Y0RSdjFTdVhiUV9IbGtTeUstd2V2T0VOS1BEbjhVckJRcHhubUVxS2l3RDJsenBSRU42OWZhN2VMZjlZc00?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-27T12:00:00.000Z",
+      "summary": "Dólar despenca 3% e opera a R$ 5,57 com escolha de Trabuco para a Fazenda; Ibovespa sobe G1",
+      "image": "https://s2-g1.glbimg.com/1pBkYcOPEXGAHZxvui52hFQ9dKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/B/zoUVsNQY6zDG8O79cckQ/b3-1.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 7.04,
-      "relevance": 11.8
+      "score": 8.77,
+      "relevance": 10.2
     },
     {
-      "title": "Ibovespa dispara 6,07% e dólar recua a R$ 5,74 com expectativa sobre Fazenda e prévia da inflação em 2026",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnp6dmwxbWgwNTZZQzZ2bzFQUk5KRk5hazRvZnNJaDhXVU9WNHliVTBNSnEwMTFsRDQ2TVJXaWljd1Awc2JkQ3lVS09nQ3pTRVNFazg5bnk0XzlvcGYxSXRmYW9weWRnZUs1aVdRQkdxY0xrdFBGWW03Rkl3R09JTGRYdk8tVnhwQnRyeXM0dlJ0aWtacFhwY19ZcXpDS044eWxuTkZCSjMwLWFNaXpUYkdhTi1HUnZlTXBteXJyRVFqLXJtSWVkMkVINXQ?oc=5",
-      "source": "Brasil Inovador",
-      "publishedAt": "2026-11-27T00:46:27.000Z",
-      "summary": "Ibovespa dispara 6,07% e dólar recua a R$ 5,74 com expectativa sobre Fazenda e prévia da inflação em 2026 Brasil Inovador",
-      "image": null,
+      "title": "Nome de confiança da Faria Lima, Luiz Trabuco cultivou amizade com Lula à frente do Bradesco",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/nome-de-confianca-da-faria-lima-luiz-trabuco-cultivou-amizade-com-lula-a-frente-do-bradesco.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-27T06:00:00.000Z",
+      "summary": "Trabuco é o primeiro nome confirmado da nova composição ministerial de Lula World Economic Forum/Benedikt von Loebell via BBC Natural de Marília, no interior de São Paulo, Luiz Carlos Trabuco começou a trabalhar ainda adolescente. Aos 12 an",
+      "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 6.84,
-      "relevance": 7
+      "score": 8.46,
+      "relevance": 12.4
+    },
+    {
+      "title": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ0hqOHYwSzZjYXlXM210b0JjVnRJRW40OTRlNGF4b285cEd5MXZGc1NDN0xKS0dNNW5NYVQxVUstVHRIMXRseXJWUGwxRnFPb1Q3cWJRdXJLSVYxTC1uOHNjUmxqMndMaEZkdEs5R0t6OTN3eDhwUWkwOW5pYThqb20yN2liMWJRemx5ZlI1NG5KdUNpVHZSUzNyTUkyaWo4RHJZUllCd0lfSW00SFllNlhJTXc2X2JrclZWaTdrVG1EczFCcV9DYTdEVWdWQ3RPeFFhM1pZdndGUdIB6AFBVV95cUxNMEtRMjFBaXhCZjJEdXVKbi1xMzVWUWx1R3o3djN1MUZYamwzdEZkY21nYlYzMldacTlicmUzYUVpa3luMDZsYzhRc1QzRGg2U082bl90Nk5WOXdVazRkSGlkT2NnT0ZibzJFNDRkV2JleDh6bS1LUHZZSFU0RWZ5SV9HTFF3eDdnZWVPaEppbWk4Y05UUnozSzlwb3NySXZsUm1kclBVRENGYUhFS2RrXzhzMzR3cVNVWnViYlA0MXM0RWotY2NuVjBXcE92SDNHOWxLcmFxNW9zd0Jhc1Y5VU01WFZTSWc2?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-27T03:00:01.000Z",
+      "summary": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda G1",
+      "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.39,
+      "relevance": 13.8
+    },
+    {
+      "title": "A reação da imprensa internacional à indicação de Trabuco para o Ministério da Fazenda",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnNHRWo5OVctNzBxd1J3MDVkOHUxancweXNyU0lBWFR3aUZVaDlfcTQxd1FJTXh2S1JNMGFvOG1kTkJCQUE0U3gycmpBN2VOWE5SVzd3dTJ0ZWRhR1F0WC1XYUc0QjVDbDRsd3FtbXZhVzNWTTJ0ZFZJMnRDYkhWcjVuSmbSAZMBQVVfeXFMT0hSRGVZajRjUkRkY1VUQWltTEFjN04xeEk4Z0FjaU9HRno1dDZTUHZtejFYVW9xVGUwbHlOSFVubm5IV3VKVldVQlgwOXVqUEJ3MW1ONzZsdXpvb2pFRmdXUldudGNCajE1a01XN3BkN0RUVzcxMi13bF9XR3VTcnJrNEtuUUpGVmhvMzBxSUFmRDlN?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-27T13:58:36.000Z",
+      "summary": "A reação da imprensa internacional à indicação de Trabuco para o Ministério da Fazenda G1",
+      "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.35,
+      "relevance": 9
+    },
+    {
+      "title": "Por que Trabuco provocou euforia no mercado? Entenda o que esperar para dólar, bolsa e juros",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUmpTTl9xcERkWEJlVE1yWjNaNGh5T0NjUXlrWlp0OUxTSTVubzg1YjZPUXl5YnhsTlB5akd3U1R0M0tTMGIydlYxYVJCb0pfb09Mc1RvSmR1WDNkZ2hTVTQzUV9VS0k4OWliTDJuVGRucW53S0N5RU5tSHBQdVVpV24tREtGVGh6XzNRbEV5amNZbkswWXNGMVdOcU1EUGphdll4Zy0zZkZBVnhfUjVqd1Fncm9jMGxhU2dLd3FRWWN0QndhWnRYYWhNS1QwdzA1QzBYeXlaUTV4bktua3fSAewBQVVfeXFMT2hudmRWVU1FWTZOc3pMNWI4ZEpXUU95cnFCbVNGMnFwSEdfQU85cHB0RnlXVVNJUW1aT3hrdjEwYXc1anBtTkw1REJCUVRiRVdCcjhpT2l6dXpCY0phYzUyRk40TnVBM2MyVWotQTdUamVUbkN3NG9oRGpuNE5sQ3NSZzVsejhlMHlxNkc2U2drNnJKTHpLa0JGUm5CUmJ6Ulh2UzE4WkhVUnVqNWZBQWgzQXo4NXh5eWdZX1pfN1NrUXN6aEZlLVNsZGEzUEVaTTJuMFE4Q1huQWl3eW9qbU9CbG5kaW9TUzJJYko?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "Por que Trabuco provocou euforia no mercado? Entenda o que esperar para dólar, bolsa e juros G1",
+      "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.27,
+      "relevance": 13.6
     }
   ],
   "items": [
     {
-      "title": "Governo confirma Luiz Trabuco como ministro da Fazenda a partir de 2027",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORm5XVXV5aW5rNkhDTi11ZjVxaFowVUVDTHdHTkgwc0F2cDJ0Z2Z4SUJ2ZUo1SWh3Z0tKd3JTd1gwTGxiX18tOEZYaUxfcXJfcWlSTm9BSERNY1psalZKczFMOXU2ekgtbk9jT1FMcUNkTHhtSEk0bUxFVVduMUZtc01tS05UVE8zTGs1UDBuMS1VTENneGhONW0yOEQ4SDhRR2FkZkhobWhHUVhVOThQR0tIY9IBwgFBVV95cUxPeUh6MmpZdnhRQ2N0bnFaallhRjZFTnkwUUpna1R4eWExQXdzSmRINjV3UlJqUVMyLWlpMHJna0tkSDJlUUkwakFuU3ZIRE5SbVJwc3l1SFRMSjRSWVZQTTRzbWlmU2YxWXJuTWJGNmZtVnpXRHp0WU9OWHZVX1V1ajM2Ukk2a3ZVNWFsZWlTTkI4TWZ1d2ZpVnVubHgtdk1NN2otTTJvU2dzZDFBSG91cjJpc2dTcjJyTFNYeHBCamZSdw?oc=5",
-      "source": "O GLOBO",
-      "publishedAt": "2026-11-26T23:09:42.000Z",
-      "summary": "Governo confirma Luiz Trabuco como ministro da Fazenda a partir de 2027 O GLOBO",
-      "image": "https://s2-g1.glbimg.com/8Hpt5t9j_HROFFUucUfw65_ihXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/l/Q/Xui6KvR8u3a9CnM3VRcQ/2018-03-14t140319z-1282850438-rc18e918e880-rtrmadp-3-brazil-wef.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 9.37,
-      "relevance": 10.2
-    },
-    {
-      "title": "Luiz Carlos Trabuco, do Bradesco, aceita convite de Lula para assumir Ministério da Fazenda",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONUJtR2I2MVVOYXVEYW12dUpuMGxuSXQxbDIzTUMwNGNGZDBjbVBxeFRLRnNCUW1fc1c5Mmt5QzdwWmRPUy03LUwwZF8wMUtaTzYycHVPbGViOTltLTdTUml0VWNrZnBjc0hBOFRLZWRmT1BsMUxCTFVEaC0zQm5pVmFtcFk2cVJ4VHZZbjlRbHo1ZjkzQTF4Y0p0aHJBZmVscFdGeUpiRnEwbGNwcFQ0UTg5ZjQxaGJpZzQ3d1J6M0NFVlRUeTlqVEhaT2tTTXU5NW9sY1dGVUY?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-11-26T21:58:00.000Z",
-      "summary": "Luiz Carlos Trabuco, do Bradesco, aceita convite de Lula para assumir Ministério da Fazenda Folha de S.Paulo",
-      "image": "https://s2-g1.glbimg.com/jxvFfTBS04ak4MWwXo8lXtScyJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/8a5bP8QGAajgsBvdbmSA/2026-11-26t122730z-363785437-rc2rhbaxbsib-rtrmadp-3-brazil-politics-finance-ministry.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 9.3,
-      "relevance": 10.6
-    },
-    {
-      "title": "Resumão diário do JN: Governo Lula anuncia Luiz Trabuco para Ministério da Fazenda; apagão de energia atinge cidades de Roraima, Pará e Amazonas",
-      "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/26/resumao-diario-do-jn-governo-lula-anuncia-luiz-trabuco-para-ministerio-da-fazenda-apagao-de-energia-atinge-cidades-de-roraima-para-e-amazonas.ghtml",
+      "title": "Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWR6bjJRT2ZYMEVTRUNNVFhaVElHdmNCTEFwVEtHM2FRVzZNX1kwRzNnMDRTcWF0R2RZS3JfRkJaNE1mTmFYMWNLTGF2OW5aOTZtSjl3Y1B1bzBmQWxVdDZyV3FVSE40bWZ4R0poWlU1SUE5SmR1Q3EtbkFTTHR2OS1iQWxvNGx2eWFyaHJURmxLVV85WlVMaUNCRlR1VHJjUnVNYU8yZ1Bmc05ZamFyTldWa3lnLTdnVGt5Q0k1emRaMTk3dko2YlhiT3lrSjZRS1NONjRCclhfdW50eVM3NzJtZ21vYVNIeS1nZEUtQzdHVnlUZGxfUkladzhCRWVpOUdNQlNR0gGUAkFVX3lxTE9VU1dSZWZpeGctUVI1eUgyZmxGZlFHMHI2aURGMDU2Sm9EVWZCSTZjel9QUFY1NVdRY2dVdTlzVE04eUhVRjEwVUZOVHB0aG5GTzZzQ3UxTDM2QTROSVJ4MUczQTJiMFVwMVZPWmJyWC03S2RCYjQzelpkYVdGSF96Mmp6YVZ0VGIzLW1DLW0zZXhPaFFaNXNXTC1YMFhFc01TQXNwRVhzZmpvcjZ5Nm1ocUhwZHFvdlpfbGVwOG9RZ1lOWnNadlRxNWlyQzRoNk9QNWMyU0R5Y3I1Qk5tV08wQWdEQlU0WFk3bG1EajN6MjRaSEZUbG5rQ2RqOXZscmpOdTJ0ejB0Yks1V3JpRGJYbHU5ag?oc=5",
       "source": "G1",
-      "publishedAt": "2026-11-27T00:33:49.000Z",
-      "summary": "O presidente Lula convidou e Luiz Carlos Trabuco aceitou ser ministro da Fazenda. É o primeiro nome confirmado para o quarto mandato. Atualmente, Trabuco comanda o Conselho de Administração do Banco Bradesco. Em um dia de expectativa no mer",
-      "image": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png",
+      "publishedAt": "2026-11-27T11:52:31.000Z",
+      "summary": "Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda G1",
+      "image": "https://s2-g1.glbimg.com/ejEJhlAFFtHVomA6t588fsCCEuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/2/QAYVOsS6qXeGSfW1z9iA/globo-canal-4-20261126-2000-frame-65304.jpeg",
       "topics": [
-        "negocios"
+        "negocios",
+        "geopolitica"
       ],
-      "score": 7.76,
-      "relevance": 8
+      "score": 12.66,
+      "relevance": 14.8
     },
     {
-      "title": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEtyMHQwcHZZWWR4RUhXVHE3R3BsVGFvOWVBX19BbXVuTUlJWG5SZFZmbHJHejZnWmdVX2tKZjNXQ25HZmlnOEpsaFZUUC1nMHNUdkZXOS10N2RQVXpJemFscGoxQ0NLOFp5ZW92VFBSemtGc2xkcE9GTWtVaVJYUVdSU1Z6X1BvQ0FOamdn0gGcAUFVX3lxTFBKd3NpX3h6Sk5icjFYMjUwQlpfMnQxSi1ZcnBkU2tTbk9pMDRPZ2lpclZiUzN6XzJBcUtRM2tTdldQSGE4OElWSlM5SFotMkRCSWd2TUFyZEdZT1h6Sy1fRWtDU2NFSVhNREVmZ0oycThpdDlWdGNLaXhpcTFpalhSSW5jeHhWQjNPQ0diTUo5Y2xkUXp4aVBvYjZQTQ?oc=5",
+      "title": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-na-fazenda-veja-outros-banqueiros-que-estiveram-a-frente-do-ministerio-da-fazenda.ghtml",
       "source": "G1",
-      "publishedAt": "2026-11-26T21:48:09.000Z",
-      "summary": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021 G1",
-      "image": "https://s2-g1.glbimg.com/jxvFfTBS04ak4MWwXo8lXtScyJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/8a5bP8QGAajgsBvdbmSA/2026-11-26t122730z-363785437-rc2rhbaxbsib-rtrmadp-3-brazil-politics-finance-ministry.jpg",
+      "publishedAt": "2026-11-27T14:48:59.000Z",
+      "summary": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda Reprodução O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou na quinta-feira (26) que Luiz Carlos Trabuco, presidente do Conselho de Ad",
+      "image": "https://s2-g1.glbimg.com/WNw3fsBIsAGPyw8Gz7p0mkWj1Yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/y/XTJzMzTcO1tSyCwqigHw/montagem-horizontal-1280x720px-4-.jpg",
       "topics": [
-        "negocios"
+        "negocios",
+        "geopolitica"
       ],
-      "score": 7.67,
-      "relevance": 8.8
+      "score": 11.69,
+      "relevance": 12.2
     },
     {
-      "title": "Indicação de Luiz Carlos Trabuco para o Ministério da Fazenda é bem recebida por representantes de diferentes setores da economia",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZ2lHY2VmNElqMmVKckVBRktScEI4Vy1abkkxSDRjTFNMMEVnalFpdEZqaG94aUtqVWZnRkliRjNCam5DSTgzOUlCLTZuNW56aWlBOEY1NHhkUDdOc2k0N0FwZzd2eWh5Qk8taGc5REx4SGpSR1NXUWl1RFNwQTNXdDljQlFrLWU0dDQtWnREdUJLeFJHM0h5d3hNVS1QWFE5OXFaOFcxVGd0NG5wRDJCYURKQWdrNU02R2JJZDFjX2FQUzRnNWl6QkpMRGUtSVJjam5XWHptbFRaY0Z2dUI4aDYzOG14bW5NRFRTMGVKSkRFcE5qNElGbFVZWHdNd1VhZFM5SWo1dG5JbTNpMFJYOFdlZ2lITDhDYi000gGqAkFVX3lxTFBEV0ZaTXJxNWlpMHdyUS11QVJQTjhsSjJkRzN1SS1MY1IxMHNacjNMeWUwVC1QX0psVDJNVEVXOVZwbnl0X3N0V0FhRnktaGxQRkJrMzBrVkZad1IzU2t1WkthRGxMbVA5Xy00cUYydmRuY2JPaHBzYkZKMmZjbjZhcG13WDJ3MC1pZVRJRi1PcUxGMC13ZHBTRmJjV2ZaZGVsNndMSVY1SmVIWVp6aWRwMDI0NUV5UmNMekFTQXhiVXZmM040ZHdlQXk3ZUlnZkU0bmQzNlp3RkctSXNkQ0xoSUNUMUJQeVhaSDJxa0pzTXl5U3h6OGZ5MU1OY1VEaVBCZ2lrMUtIa290ejQxdXJFSmR1QjlhVFU1LUhRYkhzc0JmOEJHdzV2ZlE?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-27T00:10:41.000Z",
-      "summary": "Indicação de Luiz Carlos Trabuco para o Ministério da Fazenda é bem recebida por representantes de diferentes setores da economia G1",
-      "image": "https://s2-g1.glbimg.com/JjG0tRRVfabbv2qnOqHyoLxOt8g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/U/1sGOqPQ0CHv3hCQrGsPQ/globo-canal-4-20261126-2000-frame-70614.jpeg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 7.64,
-      "relevance": 8
-    },
-    {
-      "title": "Ibovespa dispara 6% e dólar cai a R$ 5,74, com expectativa de Trabuco como ministro da Fazenda",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zLVZXc0pudEp4bXg4MTR0d1h3VzREcktYSVVWVE9OSk9GQlVuQ1poNjVOLXR6UWotMk9WMkJrTzM2WXA5U29NOU5oTVpSc1NwMTViamNsaEZobmRQSEh4ODk4dEpMTTNCM0pKVGNlMDdJb3NVSE5tWdIBhwFBVV95cUxNTl9YZDMwWjdXbVJ0OFoxLTVNR3ZsU1NMdWZ1Zi1Zb0tkbk0wMUsyOGZQRkg2cDFXUzJHZE9rUVVhRjZKYWg0WDY3Q1hLdEJWSzd5ak1zcWVqc2hueWgtdW0yOEpYTXZWVHBPblBvNTZuYng5U3ltRjVDV29jZUlldTNVMndyeFE?oc=5",
-      "source": "G1",
-      "publishedAt": "2026-11-26T12:00:00.000Z",
-      "summary": "Ibovespa dispara 6% e dólar cai a R$ 5,74, com expectativa de Trabuco como ministro da Fazenda G1",
+      "title": "Dólar cai mais de 4% e chega a R$ 5,48 após confirmação de Trabuco na Fazenda; Bolsa dispara",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUVg1U0o1ai1SekMwUzdKV0RKeXFFOHktUzhLNzU3aUtTakJENkFCN2psRGZtTEVwSGJyWXJMRnRrWnlRZUVZNXlkbDlWRENnVktJUVNvbFdfamljTmdyb3V4UzNUejBwQ24ycF9TT3owbE9uVGNFS1JiakJvUTZhd3lNVy1JY3FHSmlfeHhfdzRqNEE5LXJQaWJwWlZ3SXpKQnJFWXlyd2p2YmxHdm5zZ2dqMm1SWXA0WDlEWkdmY29vdmJnLWRud1E5bGg5QW5vWmp0cmFsM2U1cWt0SEpFNWpHYjM1OG8?oc=5",
+      "source": "Jornal do Comércio",
+      "publishedAt": "2026-11-27T14:36:57.000Z",
+      "summary": "Dólar cai mais de 4% e chega a R$ 5,48 após confirmação de Trabuco na Fazenda; Bolsa dispara Jornal do Comércio",
       "image": "https://s2-g1.glbimg.com/uwNmoSBOb59X1nQknEt3Zeenv64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/v/5lgfbyQ6yzm69F02kHgQ/2025-02-07t180249z-1-lynxmpel160po-rtroptp-4-dolar-abre.jpg",
       "topics": [
         "negocios",
         "geopolitica"
       ],
-      "score": 7.29,
+      "score": 11.6,
       "relevance": 12.2
     },
     {
-      "title": "Investimento estrangeiro atinge marca US$ 1,4 trilhão em 2025, quase metade do PIB, diz BC",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/investimento-estrangeiro-atinge-marca-us-14-trilhao-em-2025-quase-metade-do-pib-aplicacoes-no-exterior-superam-reservas.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-26T11:57:30.000Z",
-      "summary": "O Banco Central informou nesta quinta-feira (26) que o investimento direto no país, ou seja, o valor acumulado dos investimentos de estrangeiros em empresas e negócios no Brasil, atingiu a marca de R$ 1,41 trilhão no fim de 2025. O montante",
-      "image": "https://s2-g1.glbimg.com/iSsWYojSR0goQjQInTT2GsC9iPM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/7/a/AjTtVaTmujQdIedNCmqw/captura-de-tela-2026-11-26-092030.png",
+      "title": "Dólar despenca 3% e opera a R$ 5,57 com escolha de Trabuco para a Fazenda; Ibovespa sobe",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdE5zdDBPbHB0eXpjTmEtVWVOM28yQjdpVjZOSVBSUTBmZ1Z5dGdNNnZ0NWFUT3hWSmN1Wi1KbnVmaVd3OU1CTkR2N1h4Sl9pVEppejAyejd4dDBxcUVTNnNLQnl5enNXNkxrQVFvelNZRkszV2NXRdIBhwFBVV95cUxPdUhPazRUUjlWbHhCUHU4RDg1TTAyeERRUEhCRG5nVXVaYmdLWDNQa0wzUTRzOUJUeTBLU0xBelZWSE9zcnc4YzB6Y0RSdjFTdVhiUV9IbGtTeUstd2V2T0VOS1BEbjhVckJRcHhubUVxS2l3RDJsenBSRU42OWZhN2VMZjlZc00?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-27T12:00:00.000Z",
+      "summary": "Dólar despenca 3% e opera a R$ 5,57 com escolha de Trabuco para a Fazenda; Ibovespa sobe G1",
+      "image": "https://s2-g1.glbimg.com/1pBkYcOPEXGAHZxvui52hFQ9dKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/B/zoUVsNQY6zDG8O79cckQ/b3-1.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 7.04,
-      "relevance": 11.8
+      "score": 8.77,
+      "relevance": 10.2
     },
     {
-      "title": "Ibovespa dispara 6,07% e dólar recua a R$ 5,74 com expectativa sobre Fazenda e prévia da inflação em 2026",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnp6dmwxbWgwNTZZQzZ2bzFQUk5KRk5hazRvZnNJaDhXVU9WNHliVTBNSnEwMTFsRDQ2TVJXaWljd1Awc2JkQ3lVS09nQ3pTRVNFazg5bnk0XzlvcGYxSXRmYW9weWRnZUs1aVdRQkdxY0xrdFBGWW03Rkl3R09JTGRYdk8tVnhwQnRyeXM0dlJ0aWtacFhwY19ZcXpDS044eWxuTkZCSjMwLWFNaXpUYkdhTi1HUnZlTXBteXJyRVFqLXJtSWVkMkVINXQ?oc=5",
-      "source": "Brasil Inovador",
-      "publishedAt": "2026-11-27T00:46:27.000Z",
-      "summary": "Ibovespa dispara 6,07% e dólar recua a R$ 5,74 com expectativa sobre Fazenda e prévia da inflação em 2026 Brasil Inovador",
+      "title": "Nome de confiança da Faria Lima, Luiz Trabuco cultivou amizade com Lula à frente do Bradesco",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/nome-de-confianca-da-faria-lima-luiz-trabuco-cultivou-amizade-com-lula-a-frente-do-bradesco.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-27T06:00:00.000Z",
+      "summary": "Trabuco é o primeiro nome confirmado da nova composição ministerial de Lula World Economic Forum/Benedikt von Loebell via BBC Natural de Marília, no interior de São Paulo, Luiz Carlos Trabuco começou a trabalhar ainda adolescente. Aos 12 an",
+      "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.46,
+      "relevance": 12.4
+    },
+    {
+      "title": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ0hqOHYwSzZjYXlXM210b0JjVnRJRW40OTRlNGF4b285cEd5MXZGc1NDN0xKS0dNNW5NYVQxVUstVHRIMXRseXJWUGwxRnFPb1Q3cWJRdXJLSVYxTC1uOHNjUmxqMndMaEZkdEs5R0t6OTN3eDhwUWkwOW5pYThqb20yN2liMWJRemx5ZlI1NG5KdUNpVHZSUzNyTUkyaWo4RHJZUllCd0lfSW00SFllNlhJTXc2X2JrclZWaTdrVG1EczFCcV9DYTdEVWdWQ3RPeFFhM1pZdndGUdIB6AFBVV95cUxNMEtRMjFBaXhCZjJEdXVKbi1xMzVWUWx1R3o3djN1MUZYamwzdEZkY21nYlYzMldacTlicmUzYUVpa3luMDZsYzhRc1QzRGg2U082bl90Nk5WOXdVazRkSGlkT2NnT0ZibzJFNDRkV2JleDh6bS1LUHZZSFU0RWZ5SV9HTFF3eDdnZWVPaEppbWk4Y05UUnozSzlwb3NySXZsUm1kclBVRENGYUhFS2RrXzhzMzR3cVNVWnViYlA0MXM0RWotY2NuVjBXcE92SDNHOWxLcmFxNW9zd0Jhc1Y5VU01WFZTSWc2?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-27T03:00:01.000Z",
+      "summary": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda G1",
+      "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.39,
+      "relevance": 13.8
+    },
+    {
+      "title": "A reação da imprensa internacional à indicação de Trabuco para o Ministério da Fazenda",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnNHRWo5OVctNzBxd1J3MDVkOHUxancweXNyU0lBWFR3aUZVaDlfcTQxd1FJTXh2S1JNMGFvOG1kTkJCQUE0U3gycmpBN2VOWE5SVzd3dTJ0ZWRhR1F0WC1XYUc0QjVDbDRsd3FtbXZhVzNWTTJ0ZFZJMnRDYkhWcjVuSmbSAZMBQVVfeXFMT0hSRGVZajRjUkRkY1VUQWltTEFjN04xeEk4Z0FjaU9HRno1dDZTUHZtejFYVW9xVGUwbHlOSFVubm5IV3VKVldVQlgwOXVqUEJ3MW1ONzZsdXpvb2pFRmdXUldudGNCajE1a01XN3BkN0RUVzcxMi13bF9XR3VTcnJrNEtuUUpGVmhvMzBxSUFmRDlN?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-27T13:58:36.000Z",
+      "summary": "A reação da imprensa internacional à indicação de Trabuco para o Ministério da Fazenda G1",
+      "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.35,
+      "relevance": 9
+    },
+    {
+      "title": "Por que Trabuco provocou euforia no mercado? Entenda o que esperar para dólar, bolsa e juros",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUmpTTl9xcERkWEJlVE1yWjNaNGh5T0NjUXlrWlp0OUxTSTVubzg1YjZPUXl5YnhsTlB5akd3U1R0M0tTMGIydlYxYVJCb0pfb09Mc1RvSmR1WDNkZ2hTVTQzUV9VS0k4OWliTDJuVGRucW53S0N5RU5tSHBQdVVpV24tREtGVGh6XzNRbEV5amNZbkswWXNGMVdOcU1EUGphdll4Zy0zZkZBVnhfUjVqd1Fncm9jMGxhU2dLd3FRWWN0QndhWnRYYWhNS1QwdzA1QzBYeXlaUTV4bktua3fSAewBQVVfeXFMT2hudmRWVU1FWTZOc3pMNWI4ZEpXUU95cnFCbVNGMnFwSEdfQU85cHB0RnlXVVNJUW1aT3hrdjEwYXc1anBtTkw1REJCUVRiRVdCcjhpT2l6dXpCY0phYzUyRk40TnVBM2MyVWotQTdUamVUbkN3NG9oRGpuNE5sQ3NSZzVsejhlMHlxNkc2U2drNnJKTHpLa0JGUm5CUmJ6Ulh2UzE4WkhVUnVqNWZBQWgzQXo4NXh5eWdZX1pfN1NrUXN6aEZlLVNsZGEzUEVaTTJuMFE4Q1huQWl3eW9qbU9CbG5kaW9TUzJJYko?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "Por que Trabuco provocou euforia no mercado? Entenda o que esperar para dólar, bolsa e juros G1",
+      "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 8.27,
+      "relevance": 13.6
+    },
+    {
+      "title": "Alta do dólar eleva perdas do Banco Central com swaps cambiais a R$ 38,96 bilhões em novembro",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZDV4bDRoNW1qSV9OTUU5Z0ptTGJXcTJ6aFdCcmdrMi1xTE8zUzg2a2NGaUYybnlvZ1VUOGRoeVI1YlhIMkI0ZnVRbHhXQzlwZHNpU1l5OXpIbC0ya0VrNHNOMERVVTZPckFQSW40aHZlaGd1NU44QTNUSHB5ZG8zQnhrbHkwSDFfc1lkNW44dnlqNFoyd3BSRGdPNXFHRV9IMHlVTmZDV3FPS3JJUU94dlhpN2hMYnNfeFhSNk1XaWFqTHJKZy16OW9UQU1VQU11bHZHNmNad3NzTllOdkhmTm5Eb2xsdnFBUWxsdkhHTHRSUkszNzhqaFdZTlk?oc=5",
+      "source": "Portal do Agronegócio",
+      "publishedAt": "2026-11-27T13:40:00.000Z",
+      "summary": "Alta do dólar eleva perdas do Banco Central com swaps cambiais a R$ 38,96 bilhões em novembro Portal do Agronegócio",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 6.84,
-      "relevance": 7
-    },
-    {
-      "title": "Espanhol Pablo Hernández de Cos é escolhido para presidir o Banco Central Europeu",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/espanhol-pablo-hernandez-de-cos-e-escolhido-para-presidir-o-banco-central-europeu.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-26T18:42:40.000Z",
-      "summary": "O governador do Banco da Espanha, Pablo Hernandez de Cos, participa do início da sessão plenária do Comitê Monetário e Financeiro Internacional (IMFC) durante a reunião anual do Fundo Monetário Internacional e do Banco Mundial — realizada a",
-      "image": "https://s2-g1.glbimg.com/eAvD6gazCeWLWPBaPhH9A-7fL5M=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/O/x/4ogNw4TBCbXjvuQaAGIg/2026-11-26t143956z-1133132354-rc27s3ayu5cn-rtrmadp-3-ecb-president.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 6.81,
+      "score": 8.07,
       "relevance": 8.8
     },
     {
-      "title": "7 séries e filmes apimentados da Netflix",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VV01JSUlRWHRRVUFHS3otWlctbmhCZ1hwcXhtZzZhNGpWNDFDc09ja2wwR1N4Ui1qakJCYUppODlPUE9DQ1ZlSHFIOERTc0prdktZNENyMVBlNVJqcUJPc0JjRm5KSUgteVYzU2gtSTl2NE1lMzZ3SWZncw?oc=5",
-      "source": "Netflix",
-      "publishedAt": "2026-11-27T00:21:17.000Z",
-      "summary": "7 séries e filmes apimentados da Netflix Netflix",
+      "title": "Zelensky critica 'estranha amizade' entre Trump e Putin em entrevista à BBC: 'Putin é um agressor e assassino'",
+      "link": "https://www.bbc.com/portuguese/articles/cm5y1pwkr0wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Brasil",
+      "publishedAt": "2026-11-27T12:14:12.000Z",
+      "summary": "Zelensky afirma que os Estados Unidos estão priorizando o Oriente Médio e não pressionam suficientemente a Rússia",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+      "topics": [
+        "geopolitica"
+      ],
+      "score": 7.81,
+      "relevance": 9
+    },
+    {
+      "title": "Setores financeiro e produtivo elogiam experiência de Trabuco e veem 'sinal positivo' na escolha para a Fazenda; veja repercussão",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTF8tdzZRRUhoeUpaNk5rY01La0FjSDA5eGdIanhLT0FlYmZGSHFsa2ZvdlB0cE82ZTFBY2ZYeUVBMnFrRlQ3VUJoUGoxS204V3dnYkdVaS1FN0pGMG1sdVZiRklpazlpTnF3RDVUYkx3QnlnWEQ4alJSczk5SmwySjJ3TlBPbmw30gGXAUFVX3lxTE9OZC05dkoxV3pFSVgyWVc1a1pndlVUQ1hhNjVFcmxGcnl2aWVqLU9ldklmbDByWWM2ekdJdUNDb2ltNzk2bHlwVnUyQURLelF5R2taZm5jT0FTeGJERG9odGhEcFB4QTB0cFFvOEFYU09pYWx4ZU5nQi1GZnc4cGRvbXd6UFAtVk5qVWFUSHdwZkg3aTN1d3c?oc=5",
+      "source": "G1",
+      "publishedAt": "2026-11-27T11:33:20.000Z",
+      "summary": "Setores financeiro e produtivo elogiam experiência de Trabuco e veem 'sinal positivo' na escolha para a Fazenda; veja repercussão G1",
+      "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.78,
+      "relevance": 9.2
+    },
+    {
+      "title": "PIX: Banco Central vai desenvolver regras para coibir envio de mensagens intimidatórias",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/pix-bc-vai-desenvolver-regras-para-coibir-envio-de-mensagens-intimidatorias.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-27T13:38:29.000Z",
+      "summary": "O Banco Central vai desenvolver regras para coibir o envio de mensagens intimidatórias, violentas ou ofensivas por meio do PIX. A medida, anunciada nesta sexta-feira (27), integra o conjunto de iniciativas sobre a ferramenta prevista para o",
+      "image": "https://s2-g1.glbimg.com/V7uKJ7K0ogi3tOM0sEJIlBujADo=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/T/Z/uUFBmGQYOkiUHnBgSATg/73cc1fd0-8430-11f1-bee8-53ce494e1abc.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.51,
+      "relevance": 8.2
+    },
+    {
+      "title": "Os caminhoneiros que se arriscam e ganham pouco para entregar suas compras na Black Friday: 'Querem que a gente trabalhe sem parar'",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRzM5TWNNbE9FQVRuTHE3YWVFc2h3RVZ1eUhhUGxxVjBkRTZVU0JnMk1lZmM0YmVnYnRqQzBObXVqdkx5OWtSRjRKSlJvZkpsdFNfUXRBX3J0aDV1dEgxUFdWQldZankwazFOOVl3ZU9KLWttT2VzWWlaU21WTTJrVC0zZUV6bXVpTG1OalVoYWpKWjVBOXBQWEN3c0hDNFR1WDI5THBxLWhsb3Z0MjJXODFsN2JGWTA4NE1IY0I1NGFmWjYwdXFTWUI2b1lPWU5VVkZPNjJReGNBU1hRRGNFeXlTZUxtUWpub3BWaTlLdkFLeDFhZ2VObEZKcFEwRWtjTlFLanJ3S2RrU3ZN?oc=5",
+      "source": "Folha de S.Paulo",
+      "publishedAt": "2026-11-27T14:35:00.000Z",
+      "summary": "Os caminhoneiros que se arriscam e ganham pouco para entregar suas compras na Black Friday: 'Querem que a gente trabalhe sem parar' Folha de S.Paulo",
+      "image": "https://s2-g1.glbimg.com/JTadISHYF4ZwiujcuCVmbru8rEk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/o/z/Ep0s14QYSWm2cUWTNEwg/2022-11-01t120247z-656575328-rc2vcx9781ra-rtrmadp-3-brazil-election-protests.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 7.41,
+      "relevance": 7.8
+    },
+    {
+      "title": "Mostra de Gostoso | Como são escolhidos os filmes do maior festival de cinema do RN?",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZk5XR3ZTd0Q2eXJfTzZtdWRqQUw2VDBRTGY1dnBadEtLbjVxLVQxRDNSeVo3V3lodHJ3ZWFRQXAwS1hicklveWhuUXBfSUFUTHlNRDBpaEJBR093dDJ6SmgxdVE0d1Z6N1RaR056MUZNRHpBVTdCUEdlZG9GZl81REd3VUtSSVduMHlCQ1p5YVZmaVoybEFsaF94S2FlT2VrYVZsVmtPeGQ?oc=5",
+      "source": "Meio Amargo",
+      "publishedAt": "2026-11-27T13:40:39.000Z",
+      "summary": "Mostra de Gostoso | Como são escolhidos os filmes do maior festival de cinema do RN? Meio Amargo",
       "image": null,
       "topics": [
         "cinema"
       ],
-      "score": 6.73,
-      "relevance": 7
-    },
-    {
-      "title": "Da inteligência artificial às empresas milionárias: as lições de negócios em expansão do Recife",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSUVCUzJYTUYwLVBLSVY5QTVjeGJqZFZtYnhHbDJ1VFF5RVRDNVpGZFNWbkRSMzh4VVRtbmNob1V6TnNUdkF6djJ1c1JaVWRBclVwa0hGUUE0Tk9Hb3NxLWxadk5tZXRkM2JNQmVSVG1Ua2RZTkZxbEtlSjlrY2dOM08zYkhQUDJ5c1ZGLUZQZmZCZEFxdzJtbWJKZ3V0eFNmVm5fajg0cWRPakNGR2RUNHVkYk9GVDl4SUl3VlYwWQ?oc=5",
-      "source": "Exame",
-      "publishedAt": "2026-11-26T20:09:47.000Z",
-      "summary": "Da inteligência artificial às empresas milionárias: as lições de negócios em expansão do Recife Exame",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.55,
+      "score": 7.34,
       "relevance": 8
     },
     {
-      "title": "Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
-      "link": "https://g1.globo.com/tecnologia/noticia/2026/11/26/por-que-trump-pressionou-pela-volta-de-jensen-huang-a-chefia-da-nvidia.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-26T06:00:00.000Z",
-      "summary": "CEO da Nvidia, Jensen Huang, tem no presidente dos EUA, Donald Trump, um aliado decisivo Evan Vucci/REUTERS Pelos padrões de qualquer empresa americana comum, o antigo e agora novo diretor-presidente da Nvidia, Jensen Huang, já teria feito ",
-      "image": "https://s2-g1.glbimg.com/kOO4wX-6YPHgD4SqSGMi55K7eBk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/z/R/1BrFuJSVecJpVfPbZrxg/80029338-1004.jpg",
+      "title": "Filmes e séries para assistir no streaming e no cinema neste fim de semana",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUw0NDJDOV90NVI5Um45S0d0T0pMSWpvUm56WDBwNzdCZU54NlF1dGo4ZFMtRHJHejgtdkUxTGZiYTB1dnZGNllfYWsyeEUtZzF4N1hmNk85eklPYnhHSG50YjVpUlEza2dqcHBib01RUTdpalJ0UVBJYUFuZ210NjQ1NWI5MXFRVTdOQWpFRVVQMTF4YVlYaUVXSQ?oc=5",
+      "source": "AJN1",
+      "publishedAt": "2026-11-27T13:17:29.000Z",
+      "summary": "Filmes e séries para assistir no streaming e no cinema neste fim de semana AJN1",
+      "image": null,
       "topics": [
-        "negocios",
-        "geopolitica"
+        "cinema"
+      ],
+      "score": 7.23,
+      "relevance": 8
+    },
+    {
+      "title": "Trabuco na Fazenda: Bolsa sobe, dólar e juros caem, mas mercado vê ameaças ao rali; veja as análises",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSk1sTXk5bzlieDVpVmhhOVE1VE9CalYwaURVOGdhX2RwckNQeW9FX0N6S1VJaUlRenp6ZENJNXZLZGpzU1hZUDgwUGFrY3dvMFFsNDU2c3o4andOY3kyOVBXbmJYMDMyMGI5NTZlX0l6MUl6TkpoVW92dzJ5Qm93VWlCUzhRY0FmYmc3XzktcDdYX2VkelE1bU5WWnMxMmhuREhjcDlpUmxuekhua1ZHZ25vYU5FSG5ZYjV6ZEhFdEg5T1N2cV96U1RkTW8yaE9rX1pELXBYeVF2Vy0zNmtqTUl30gHnAUFVX3lxTFAzRlFYZzB6VFplb2hPdkxzci14a2JuOUxYcnBzZEZsVk5CbUVOX2VzOEZucVhyYmxyTldEb0pYbm5JZVlzYXhsRW9KTzdXZUlOVklKVDhwUmpqaHUtM0FyQzlaUTlTc2diRTB4TFYwdmdnc2VEY2pEckVCYWtCWE1qa2lFS203Q3gzSWlsdUxxZ1gwTlowR3NSZWRBTE1IaWMxWGxYSllpRU1MeEctbk5rYmhCXzJ1Yk9zS0RzblBQT1dKOHpGWTJnSXZoYjlWdXk4ZDVnT2wwZkd1MzZzYnVOek1QYTZIZw?oc=5",
+      "source": "Estadão",
+      "publishedAt": "2026-11-27T15:31:05.000Z",
+      "summary": "Trabuco na Fazenda: Bolsa sobe, dólar e juros caem, mas mercado vê ameaças ao rali; veja as análises Estadão",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.89,
+      "relevance": 7
+    },
+    {
+      "title": "Salvador recebe festival de cinema saudita com filmes inéditos no Brasil; veja programação",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWEhpTkotV2Y2d0U1THFGUkEyakFRcXNoNXBpN0xjS3V2anZaSzhmVzRjVmcyeG82SGJMOUFDRjU3dHNJZDVSMFozUnpBc0Fwc2gwTDd1TXZXX2FuOThLOVR5T2dsZzBLNVdjMEpjVnVtLTkwT21WR0tpQTR2Y3BDal9JNlI0MHNOM19YYTMyUnc1STVYOEp5cUF6QlNXQnZCTllaeno4ZHhCSFFnNDlXdTktRDNjaWhyNUR5T1NsTU1UVEVmZ1l1ZlFRWTYxYnNMQll0a19B?oc=5",
+      "source": "Rádio Metrópole",
+      "publishedAt": "2026-11-27T11:53:00.000Z",
+      "summary": "Salvador recebe festival de cinema saudita com filmes inéditos no Brasil; veja programação Rádio Metrópole",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 6.85,
+      "relevance": 8
+    },
+    {
+      "title": "‘ENFEITIÇADAS’ | Nova animação da Disney, coroa fase em que bruxas deixam o posto de vilãs no cinema; trama aborda relação entre mãe e filha e marca representações mais complexas de personagens femininas em filmes infantis. ‘Queríamos virar tudo",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaUjh1RHVBQTN5VXQ3SDdDcUVndDRTVV9DbV8wdXVtS3g1M2taM19xOHlCam9pT0x1WFhXMkgtZ0FLNzl2ZTdCalJFOTZ2bS1tSHFoWWFn?oc=5",
+      "source": "Instagram",
+      "publishedAt": "2026-11-27T15:09:19.000Z",
+      "summary": "‘ENFEITIÇADAS’ | Nova animação da Disney, coroa fase em que bruxas deixam o posto de vilãs no cinema; trama aborda relação entre mãe e filha e marca representações mais complexas de personagens femininas em filmes infantis. ‘Queríamos virar",
+      "image": null,
+      "topics": [
+        "cinema",
+        "negocios"
+      ],
+      "score": 6.8,
+      "relevance": 7
+    },
+    {
+      "title": "Wall Street abre em alta em sessão mais curta, impulsionada pelo setor de tecnologia",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcy1MUTJtYWdkd2tQQjhHMGxsR1pfVlRhZko1SkJIYmhUcTlDWjlLcE53bXZfTW5zOGZOdFkyVno1RllRaTlHYUpMWWVYSUoxbHExeGc2dHprLUlYdDN6ZlJPU1k0T2xaLUtQcUFKd0ZULWRSU0hMcUZCY3k2T1ZteHUteGFnS0tjQTJ5NXlvZjh2QnBkWS1UYU1nbkJDWGRfU19NQi1oZlhnWXVWMlBIVA?oc=5",
+      "source": "Money Times",
+      "publishedAt": "2026-11-27T15:09:00.000Z",
+      "summary": "Wall Street abre em alta em sessão mais curta, impulsionada pelo setor de tecnologia Money Times",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.79,
+      "relevance": 7
+    },
+    {
+      "title": "Inteligência Artificial: a nova fronteira dos negócios e do mercado financeiro",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDZIRFp1alhyVkNMVnpwWlVXMmcyRmdSRVp6SW1DZWhyRE5fMlJlSzVJQmp5czNWT1hYSlhjYUVMMTN1OHE4WkE3cXgtSkVOZTNJRjVha3J0OGpPNzNneHpFQzBQbGhEbzk2MS1CMm9tb1VyLXNPMFBqTDRCdkl4Zm5CN3pLZk5qTTQ4bE5JNldXNGJWRnlsay1wbkQzQ0pZWk8zWWFZeGlIbkJOWU5oNjRjRm1SSVN5QWl5VFhaQTNFc0puc1JzOA?oc=5",
+      "source": "Estadão MT",
+      "publishedAt": "2026-11-27T10:33:00.000Z",
+      "summary": "Inteligência Artificial: a nova fronteira dos negócios e do mercado financeiro Estadão MT",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.5,
+      "relevance": 8
+    },
+    {
+      "title": "Forças Armadas da Polónia utilizarão inteligência artificial da empresa Palantir",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0ZQcnp3MDlIRkdFS3MtYWxNbkZxTXBHaUc5VjFHMnFwbXpjeVRuaFBqRXdBUzBoMXk2eW43Wi1XSjM1dUpZeFo3V0FSRThvTzR3S0FHTERodXJfVkFzRVdkenRhZEVPWGR1Yi12TUtKMjN3WFFSR21IbW5ScFVRU0NKMmpDYm1PdWJkM0plcnNhZDlxczduUTZqWjZscmMyNEk2Y0xnVDlwQW5WcHZkalZUWQ?oc=5",
+      "source": "Executive Digest",
+      "publishedAt": "2026-11-27T13:54:00.000Z",
+      "summary": "Forças Armadas da Polónia utilizarão inteligência artificial da empresa Palantir Executive Digest",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.48,
+      "relevance": 7
+    },
+    {
+      "title": "Sua empresa sabe quais decisões pode delegar à inteligência artificial?",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkFqMmpmOUEzY1drdTlaN1RIYkdhU0hIVW0xOVVmaEQ4LXdpdzdZODRLQm9SSjVITlMxd0tIUGUwZ1F5ZlZOSXFndWgzempEVHV1SWE0MzhHUjR0a2FGUG5ZbVhuRFJCZzNhdkxjNkkzSWk0ZmV4TFNTeFZ1N3Myb1REWi1wX2lSVnJLM1VtbkVnMnVwVzgwWnZmM1hCbExVbWh3azVRUUtxUQ?oc=5",
+      "source": "TI INSIDE Online",
+      "publishedAt": "2026-11-27T13:46:55.000Z",
+      "summary": "Sua empresa sabe quais decisões pode delegar à inteligência artificial? TI INSIDE Online",
+      "image": null,
+      "topics": [
+        "negocios"
       ],
       "score": 6.45,
-      "relevance": 13.6
+      "relevance": 7
     },
     {
-      "title": "Metade das pequenas empresas já usa inteligência artificial para impulsionar vendas",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNc1UyTG83QkJnczNNcGZhSzZVSFVqUTdNV0dBVE1SSWg5ZFBfSnYxZ0xwRldTQVF1S1l6QnZvanlkSXVXQkRuc1JuWVdmdDhMN2hnaF96OUstSW9qYTlDU2pMMV9paUNETDdYeHhuNW4zODlkWExjcW0yOU9zemNmc2RuaDZZam50WTRmLVF0UDhYR1hya0JCeVBYanNmazFsM3JsR2FPbUI1MG1vR2Y5ZUhRSkxENkZESEFvdjFxckItc3d1czZDZ1k3VWM3ZmFpOGZBUHE3WGtxM3hIdEE0YTZab3RZVTVYenhVMVZmcHZvaWlGRm1oRFBCbzVqQnlnNlVfeHA0UGFDLVpFT1QxejBXOGdzemFB0gGnAkFVX3lxTE9VaWFTUHd6RllEb0NEZEM5QUpiQTRZcDRuMFVKcmo4ek9tZHkzMmJ4aHg5dXVpbjRibXlQa0JMSGZpSjNOekd4b1RMUHRlazRNS184QkZuT0F2OHA0V3dSeTFNWDd4NWJZaVBlRHJsN05heUN6TlJoc09yVThZQmc5cE1tV1otN3ZfV19naGpVbWpqYTBEb2FtcWhraTM4ZjVZMEVvSk5JVmJPd1c0c0JtTG1QRkRmSnBoakhSOVF4M29NS1ZTNHEtUGlNY3BEMEhjZVhVeS1vZml5dnJsY3hqU2RmRGhQRFQ1QzR1bmNCY0pYVnBYYmlmbjdmQ3RhenpCdkJwbDFLdkYyemJTZWZJRWY0R24xNFJvWUhxZG8tUkl4TFI3QzQ?oc=5",
+      "title": "IBGE: moradia, alimentação e transporte concentram 66% dos gastos de consumo das famílias",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/ibge-moradia-alimentacao-e-transporte-concentram-66percent-dos-gastos-de-consumo-das-familias.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-27T13:00:00.000Z",
+      "summary": "Inflação e preço dos alimentos: na foto, consumidores em feira livre no bairro do KM18 em Osasco na Grande São Paulo, nesta quinta-feira (06)c ALOISIO MAURICIO/FOTOARENA/FOTOARENA/ESTADÃO CONTEÚDO Moradia, alimentação e transporte concentra",
+      "image": "https://s2-g1.glbimg.com/O3RHraS9_2oTyoi9bvH9mgR9YiE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/U/J/KElA3LQxAWIGs7zU1elw/fta20250306023.jpg",
+      "topics": [
+        "negocios",
+        "medicina"
+      ],
+      "score": 6.43,
+      "relevance": 7.2
+    },
+    {
+      "title": "O crescimento econômico da França encolheu 0,2% no terceiro trimestre e aumenta preocupação com a economia europeia",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYmw2SnZGNWQtdTVoeFUzS1JhSFpPQXEyeGc2dHdVdXlWNG9Bblc0WkNORDBfZnlCNk1MMmRrbE5ZVS1SVXoyOTJpa29ueGhUT2hBRDBMcnRrV1RRUUU0OHdQMkFJVG5RTDR5bjhUZ3ZMVlJ0MFo2Nlpqam9YSGdUOWtvQWstN1A2N3h5d1VzUHpyQktQTS1ZMkU0S21yZmtDYnREd3pDX1dVMHQ2TkhicGhxU0NEWkF2SWxRSks4MnpuZFVEam5nVm5jeW81M25CUjNfTzYybklTeEV2TFRoLUFEaEI?oc=5",
+      "source": "ADVFN",
+      "publishedAt": "2026-11-27T13:18:45.000Z",
+      "summary": "O crescimento econômico da França encolheu 0,2% no terceiro trimestre e aumenta preocupação com a economia europeia ADVFN",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.33,
+      "relevance": 7
+    },
+    {
+      "title": "Desemprego fica em 5,1% em outubro apesar da desaceleração da economia",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUzJja0lOS2kydmhIdmZjZm40Y2lVYm54SEI1bXY1YUlvOGtKWl83dUprRmdvTXlhdTVnOGluY0VLb2NnWWp1X1k0RVFOZWpxeTZiN25vVjBpRW9vUzBiVjdVQmNBVlBjUU5kRUNwb2k1YUJ5QVJWZzlsUnkzYjBZckNRZUxrYm02bWJpSW9wSjRJX2FLcG9pTzZkT0ktcGJObi1PdFdtb253eUl2RHVR?oc=5",
+      "source": "Gazeta do Povo",
+      "publishedAt": "2026-11-27T13:02:00.000Z",
+      "summary": "Desemprego fica em 5,1% em outubro apesar da desaceleração da economia Gazeta do Povo",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.26,
+      "relevance": 7
+    },
+    {
+      "title": "Contas do governo têm superávit de R$ 52 bilhões em outubro, melhor saldo para o mês em dez anos",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/contas-do-governo-tem-superavit-de-r-52-bilhoes-em-outubro-melhor-saldo-para-o-mes-em-dez-anos.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-27T13:39:24.000Z",
+      "summary": "As contas do governo registraram um superávit primário de R$ 52,3 bilhões em outubro, informou Tesouro Nacional nesta sexta-feira (27). 🔎 O superávit primário ocorre quando as receitas com tributos e impostos ficam acima das despesas do go",
+      "image": "https://s2-g1.glbimg.com/2tP3RB-Bpgsev-El2Cys8f9q3Os=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2017/R/4/xsxmbuQGmKif4eqPfkow/whatsapp-image-2017-09-04-at-09.31.38.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 6.05,
+      "relevance": 6.6
+    },
+    {
+      "title": "Desemprego fica em 5,1% e iguala mínima histórica; rendimento bate recorde",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWmpuRGQxblFlbTdpQmVyYl9zWFlVdFhZR0FFQ3Z6QTNoZzZDNVRFd2JkT3U2SE5xYjBXMUZKeUpXR3BBbmpxZXFwcjJXOW9KOXFhRk9aZC1DMV9TSHBkWWJOQTg2dUV0aGo4UnA1LXhJV3ZrWjVoTHVMMzRGcm9lSlhDWXnSAZMBQVVfeXFMTkczUW51RVVRYlZGbWZiNWJSMDdtRE82RF9wYVZBZXZuQjRWOUt4MnctbUlTQUxWem1ONkVLVGM0dVc2Q2pxMk1hc2Z6YklSc2prLXpMWFczUlVrTG80TnRvMVlYN3Q1c2JpQzZtUlRPbTV4U1ljU2sxWUlTaG5VNUdMRWtrbnRWLVh6WlFBMEhEQVU0?oc=5",
       "source": "G1",
-      "publishedAt": "2026-11-26T23:02:17.000Z",
-      "summary": "Metade das pequenas empresas já usa inteligência artificial para impulsionar vendas G1",
-      "image": null,
+      "publishedAt": "2026-11-27T12:00:28.000Z",
+      "summary": "Desemprego fica em 5,1% e iguala mínima histórica; rendimento bate recorde G1",
+      "image": "https://s2-g1.glbimg.com/DplCEzRSDhbzOEWiqdBXeovG060=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/g/q/SsGRCZS1uhKwwMJbUezQ/20231030172318654002a6abd0c.jpg",
       "topics": [
         "negocios"
       ],
-      "score": 6.4,
+      "score": 6.02,
       "relevance": 7
     },
     {
-      "title": "Congresso argentino aprova reforma de Milei que impede Banco Central de financiar setor público",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaFJ1dG5IbDM2eUU5SW5sWDFaUTgwRUlCaG1uMGQtNnZjR2FRVVlCaXBUZmxYOG4wektBUHRDa3ZnUUZoT0xCeXMycGgwcjd4Wm1EaWJqeUwyUHAtaW5YNVZLWW1PbVNpbjZvNzVVSUQ0WHVVUGFTb3BKcVIxUVRTSUV1X1dMX1VGaGE5R0drdm85Zl9UQzkxNVllZ05lLW01WmN4S1VlZzlQTG45OWZ1MEhrbVlBbU52b1JxcXIxVXdMeVFncllSVDN1SW1feUJsWmhkVkVhRkRwM2paRnpHUA?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-11-26T22:50:00.000Z",
-      "summary": "Congresso argentino aprova reforma de Milei que impede Banco Central de financiar setor público Folha de S.Paulo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 6.35,
-      "relevance": 7
-    },
-    {
-      "title": "Ministro de Israel ameaça deslocar 1 milhão de palestinos em Gaza caso Hamas não entregue armas",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/26/ministro-de-israel-ameaca-deslocar-1-milhao-de-palestinos-em-gaza-caso-hamas-nao-entregue-armas.ghtml",
+      "title": "Operação Vivaldi: como a Ucrânia frustrou os planos da Rússia para cercar o Donbass",
+      "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/27/operacao-vivaldi-como-ucrania-frustrou-planos-russia-donbass.ghtml",
       "source": "G1 Mundo",
-      "publishedAt": "2026-11-26T12:28:02.000Z",
-      "summary": "Relatórios recentes do UNFPA apontam forte aumento da violência contra mulheres e meninas na Faixa de Gaza REUTERS O ministro da Defesa de Israel, Israel Katz, ameaçou nesta quinta-feira (26) deslocar forçosamente mais um milhão de palestin",
-      "image": "https://s2-g1.glbimg.com/WL7CdMiOQ5DlRwnUX1mCdg2_qZ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/k/saK2iVQviYUBKMN1DgjQ/ee622546-90dd-4994-be78-ee73e8d790ec-1-.png",
+      "publishedAt": "2026-11-27T09:04:35.000Z",
+      "summary": "Operação Vivaldi, feita entre maio e outubro deste ano pela Ucrânia, frustrou os planos da Rússia para cercar o Donbass, região que inclui Donetsk e Luhansk e que Putin quer anexar. Diego Herrera Carcedo/Anadolu/picture alliance via DW Sem ",
+      "image": "https://s2-g1.glbimg.com/_2NofVwGeZ060DQuB2kKlT2wiME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/g/B9BrCuQQOf5Bph5UFZVw/design-sem-nome-2026-11-26t102833.253.jpg",
       "topics": [
-        "geopolitica"
+        "geopolitica",
+        "negocios"
+      ],
+      "score": 5.99,
+      "relevance": 7.8
+    },
+    {
+      "title": "Enfim Sós, a nova e divertida série da Netflix com Andrea Beltrão, Fabio Assunção, Cláudia Abreu e Marco Ricca, ganha data de estreia, pôster e primeiras imagens",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlk4REVRTVdEQnNCTjNrUTRiTFAyazgyaThiQnlmN05oUlNfX1VfeDdDNnp2a1puNjJENmJwOUx0YngzTDloRHZ0UnlKZl9GMlBCQlZxNElEWDZMaVpzNndoMm9ZaU1ER3ZWUGw3VmdjRURXQ3FleDdEUXZ2LXczT1VuRl9TdkFiQ1c3UVNB?oc=5",
+      "source": "Portal TV e Streaming",
+      "publishedAt": "2026-11-27T14:05:00.000Z",
+      "summary": "Enfim Sós, a nova e divertida série da Netflix com Andrea Beltrão, Fabio Assunção, Cláudia Abreu e Marco Ricca, ganha data de estreia, pôster e primeiras imagens Portal TV e Streaming",
+      "image": null,
+      "topics": [
+        "cinema"
       ],
       "score": 5.96,
-      "relevance": 9.8
+      "relevance": 6.4
     },
     {
-      "title": "O que é o Grupo Fictor, alvo de suspeita de fraude bilionária e que tentou comprar o Banco Master",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/fictor-master-fraude.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-26T12:05:46.000Z",
-      "summary": "Polícia Civil de SP faz operação contra o Grupo Fictor A Polícia Civil e o Ministério Público de São Paulo realizam, nesta quinta-feira (26), uma operação contra o Grupo Fictor, conglomerado empresarial que anunciou, em novembro de 2025, a ",
-      "image": "https://s2-g1.glbimg.com/f51ofkxl7j13-lP4YyjA-AQQu_k=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/g/e/Ad9wuVThi1k5phU6aKFg/design-sem-nome-5-.png",
+      "title": "SAP Planeja Cortar 10 Mil Empregos na Era da Inteligência Artificial",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZTFnX2Q5SU5CYlFMbjhmU0RlQjRwNk8xTHRfVnl2UE5Ma1RZRmZ3Y3BKOUgyRjlkX3ZoWmI1YURQSDZ0Z3NDM05Wd2o4ZEFIaEltaUVuZEticmVQRkFweEpZcURad1dzRUtWaEFUWDhqVnd2SGZ5aThYWWNtRVc0cFd0YkJoTHB4RGwtVDRlcE1UaVRKWHY4Q093Yw?oc=5",
+      "source": "Jornal Brasília Capital",
+      "publishedAt": "2026-11-27T11:30:00.000Z",
+      "summary": "SAP Planeja Cortar 10 Mil Empregos na Era da Inteligência Artificial Jornal Brasília Capital",
+      "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.88,
-      "relevance": 9.8
+      "score": 5.9,
+      "relevance": 7
     },
     {
-      "title": "Filho de Luciano Huck e Angélica vira empresário do mercado financeiro",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQXA5blNLUDByU0VfOW9YNnRERzBwMm1KaGVBdHhuQllOTWVWUVczWUtmV0RDUEdocmsyOHpmRjV6c2NlQnRQQmlVemtHT1pXa3NOamVsRDRzT0xxR2RlaUpnRHFMQWpuUjBubDU3TnFoazFhR3N3QVJiR0NxaU1vbVlNa0F6NFg3UjNuY0dXbU5ZN1FCU3ZhX2FjUE5TME5MWGR3Tzl5SEN4UE15cmpqeEktOEtxM1MyYmh2d0tIUjZBajQ?oc=5",
-      "source": "UOL",
-      "publishedAt": "2026-11-27T00:44:57.000Z",
-      "summary": "Filho de Luciano Huck e Angélica vira empresário do mercado financeiro UOL",
+      "title": "Críticos da economia de Lula, indústria e mercado celebram Trabuco na Fazenda",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjZ6b1pHaXlmVm5IM2pZcVc1ZW9kR3F0TzRIanpLZlFJLTB6RXhtM2ZpQ3RaSTdXRTk1LVpTOTUyQkxZMm8xbFhuRTVQYnRjSWw5Rkg0ZHJpY3ZIV3Z3ekh5aDlkYjRBSWt6WGd0Tk96YXVCS295NkZvLVB1WFNoVjJYZHFpX2QzS1NnRXNwZ25oQ0duZXlHQ0lpNC00eXc1aVNPbFN0ZDRVaWFTT1VQVk0zZk1uUdIBuwFBVV95cUxNXy1wMjRNRUZ4aWZOVWIxNFhDTkRFUzBHOFczN3RYQU1aUjlJTmxpcDNkeE5FcEJEVjJOMThxbExQZzJxVTZoS2NPbVFNRU9KNUk2bkhZeGRLOVVMRlcycUN6N1Z5Ulc2dTlTamFQVm8yTHY3cVN1NHFpckw1UXJIRWVPZ0p3aHI4V2xWWmppU2xmVmowX1l0V0FwYkNMN1dlbnZELWMtdEVIQi0xMS1JdDlDUUhZRENiWEE0?oc=5",
+      "source": "InfoMoney",
+      "publishedAt": "2026-11-27T11:19:46.000Z",
+      "summary": "Críticos da economia de Lula, indústria e mercado celebram Trabuco na Fazenda InfoMoney",
       "image": null,
       "topics": [
         "negocios"
       ],
       "score": 5.86,
-      "relevance": 6
-    },
-    {
-      "title": "O que pensa o novo ministro da Fazenda sobre economia, juros e contas públicas",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcEVDN1hic0F6Qk9jUHMta0hLaUI1R0NXZXVIa2JVZXI1UUl3NVlWbUNHNkdQV1lveDR0R2EwX2pmV0ZNUlNQWWxIaVkxd2w2YnU5ZWtUREw2eEp4b254RWlGM3k3SlpuRDh1SnFuU0ZoeF9yWWJFTlp5MGFneFItS2lpSzFVNWZ5Yy1hVWJ0ekdHbUlCcThZd2g3Z1dYa0ZDcHBwUE5FdnBRSWVxOW42Z2FOUHRaYlU0VUV3?oc=5",
-      "source": "Gazeta do Povo",
-      "publishedAt": "2026-11-27T00:41:00.000Z",
-      "summary": "O que pensa o novo ministro da Fazenda sobre economia, juros e contas públicas Gazeta do Povo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.84,
-      "relevance": 6
-    },
-    {
-      "title": "Durigan diz que discutirá novas medidas fiscais com Lula: 'Mostrar claramente o caminho para 2027'",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/durigan-diz-que-discutira-novas-medidas-fiscais-com-lula-mostrar-claramente-o-caminho-para-2027.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-26T19:08:44.000Z",
-      "summary": "Durigan fala em rever gastos e mirar supersalários O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira (26) que o governo discute novas medidas para conter o crescimento das despesas públicas e melhorar as contas do país. Segun",
-      "image": "https://s2-g1.glbimg.com/ykOUL4MmnmehYJjIw6MzyyaLdKc=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/c/e/pjWGOxRged6BOGV4TxiA/captura-de-tela-2026-11-26-154334.png",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.82,
-      "relevance": 7.4
-    },
-    {
-      "title": "Essa empresa de tecnologia atrai talentos de todas as idades com home office e terapia gratuita",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNREkzb1ZxT3YyazlyT1AyOFlYenRkQjNjVEdYWGVsQ3d2bTlRSS1sRVF2Y0RiVlFQNXpTOVpfSmxlbU1EREhEN21Oc0pfbXFtNmNPcDJmVUQ4UmwyYURKRWg3akVqUlhGZ015RWNLVkdvSGx1ZzZYYVA4NXBLWUw0VC1BWjhqWFYyeGRGYjRKQ3dKTm5ZMWNwQms1eDBoYzlhVUtlTmZleWxWSnFIeW9rUUQ3cktoMDh2T210WVg1Qko?oc=5",
-      "source": "Exame",
-      "publishedAt": "2026-11-27T00:02:06.000Z",
-      "summary": "Essa empresa de tecnologia atrai talentos de todas as idades com home office e terapia gratuita Exame",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.7,
-      "relevance": 6
-    },
-    {
-      "title": "IA pode criar uma nova economia na indústria brasileira - Times Brasil | CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZjE3YVZUUXlwcHpuYVlFYzhEZkxKbDZVSVBGcXJkTnV3V0NDWkhNR1V4ZmM0M01KMFdsc0FrdFNPRVdJWUZjS2Y3RE5xQXpRLXdVbV9HUDFiUldLV05IcWFXRGh1bjlZOXhoZjBMZHZtRVZZUno4S2NTaFFPLWNMOTlUWkdONERqeklSeTQyOUs4bzBrZ1BnNEw1UGhWbExQa1hEcUp5bzJRQ0FIVTN3Mk5qcXptVjk1QjFjNzZKY0tTVGM?oc=5",
-      "source": "Times Brasil | CNBC",
-      "publishedAt": "2026-11-26T23:48:00.000Z",
-      "summary": "IA pode criar uma nova economia na indústria brasileira - Times Brasil | CNBC Times Brasil | CNBC",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.65,
-      "relevance": 6
-    },
-    {
-      "title": "Alcolumbre e Motta elogiam Trabuco na Fazenda e destacam busca por crescimento econômico",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTF9tR1cxNEZDRGJ2bElsTm9tVm5UVjB3S3JXRFpwZjFyYkFyQXZZcGJXVTJwUWhHdG5TTHhpOVdEU0l2VXdET1VzdW42RmFESnRzS3hwUUhWdU5aeUxEaW9NUVdFY1JTNmluSzdtTFJ0bGJXN1dicmJKamM5enp3Y1NMbU05dGQ1TWRUOWFSelkxems3YnVuVjVhUmhqYUhNZWF0Nkk3a3JodlJFU0M3RGpqbUtuOUFlS3RHTmZkMmdVSVotTDJKbDVGYmtqcC1kTXJHczZHSTR4SnBxNUxYZ1BoUQ?oc=5",
-      "source": "Folha de S.Paulo",
-      "publishedAt": "2026-11-26T23:45:00.000Z",
-      "summary": "Alcolumbre e Motta elogiam Trabuco na Fazenda e destacam busca por crescimento econômico Folha de S.Paulo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.64,
-      "relevance": 6
-    },
-    {
-      "title": "Empresas brasileiras aceleram capacitação de líderes em inteligência artificial",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSG0yMkVqc184QTRKVlRxWkdzTm8xU0R4ZDNoTHkzRGppeVJGSkE1T3BTS2ZGTzVscjN3djJBczN4Z3JwRG1pMy1UdVBLbEhycjZ2RWd5NDEzMmtRZ19qcWhYckI3WUdKeHd6TXFERnl6bGZVMlhCcF9Gd1VvTDBRbWF1OHBVUGl5cGVBRkNWSEhVc3g2WlBHN0VMdjZxZ3o4MHZlMVZVNFNvbmtsWlpRRjB3?oc=5",
-      "source": "Propmark",
-      "publishedAt": "2026-11-26T19:46:00.000Z",
-      "summary": "Empresas brasileiras aceleram capacitação de líderes em inteligência artificial Propmark",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.64,
       "relevance": 7
     },
     {
-      "title": "Trabuco aceita convite e será o novo ministro da Fazenda de Lula 4",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSm1YVUhIQzhDUjJhUmVYQlJSbDgyNDJGUE53WkNtTVVld0dqMUxxeHdaWWtyazE3bFhTS2VxTVdqcVgtQk9ZZGxtbnJldFl6eW83U2R3QUd1TVZsc1owMk12bDRqb3BtOG5Cb0syaGh5SDktZDJYcVdjTFdRNUppV2QzVl9KaWs0Tkt1QVo4bUVaemYtZEl6LVUtY0s4SkdBMmFHMml3SkJUQ3ZLeGR6WkZBWkRSWVBuMkljN1JoanBXTmhyMWc?oc=5",
+      "title": "Black Friday: uso do PIX cresce 29% nas primeiras horas do dia em relação a 2025, aponta levantamento",
+      "link": "https://g1.globo.com/guia/guia-de-compras/black-friday-uso-do-pix-cresce-29percent-nas-primeiras-horas-do-dia-em-relacao-a-2025-aponta-levantamento.ghtml",
+      "source": "G1",
+      "publishedAt": "2026-11-27T14:57:26.000Z",
+      "summary": "É Black Friday ou Black Fraude? Os pagamentos realizados via PIX nas primeiras horas da Black Friday cresceram 29% em relação ao mesmo período do ano passado. O dado é de um levantamento divulgado pelo Itaú Unibanco. A pesquisa considerou a",
+      "image": "https://s2-g1.glbimg.com/lANilD_BAG0gEfXdruqFMuWIgAE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/N/FJfY8DRdAflDnlYjueaA/globo-canal-4-20261125-2000-frame-97229.jpeg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.78,
+      "relevance": 6
+    },
+    {
+      "title": "Alvo do governo e do BC, uso do cartão de crédito rotativo se aproxima de R$ 400 bilhões em 2026 e bate recorde",
+      "link": "https://g1.globo.com/economia/noticia/2026/11/27/alvo-do-governo-e-do-banco-central-uso-do-cartao-de-credito-rotativo-se-aproxima-de-r-400-bilhoes-em-2026-e-bate-recorde.ghtml",
+      "source": "G1 Economia",
+      "publishedAt": "2026-11-27T12:26:49.000Z",
+      "summary": "Divulgação Alvo de medidas do governo federal, o uso da linha do rotativo do cartão de crédito, o juro mais alto do mercado financeiro, bateu recorde de uso neste ano. Segundo dados do Banco Central, as contratações somaram R$ 387 bilhões n",
+      "image": "https://s2-g1.glbimg.com/G0EqJDJ808PrZi27DzQa_10lKgQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/l/o/W3UYdLT2iiXLoNMcJpsA/maquininhas.jpg",
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.77,
+      "relevance": 6.6
+    },
+    {
+      "title": "Jack of Spades | Filme gótico dos irmãos Coen ganha previsão de estreia na Netflix",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUJobGRTYjdjcDZGSTFTNVgxc09HbWhRcmhOdjNWcWlETld0Ykh4MFhQQm9VNEJYMUZDZFRQN3YxNkFpdHFwX3ZOb2pjdkFQVWZkczNZb0VuNHk1X2RxNEpzY0ZvakFNc255QnRxUzlvbDZwVUhlV2x3ZEdaeEFkR2ZlenktYk11UHlzWERBY2JRdw?oc=5",
+      "source": "Omelete",
+      "publishedAt": "2026-11-27T14:38:00.000Z",
+      "summary": "Jack of Spades | Filme gótico dos irmãos Coen ganha previsão de estreia na Netflix Omelete",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.71,
+      "relevance": 6
+    },
+    {
+      "title": "Trabuco como Ministro da Fazenda de Lula: dólar despenca, Bolsa dispara e mercado financeiro festeja",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQckduUUdUVXVaYUdoOXFWWTM1Nkw5d1o2MGd5aEU4QlRzVXNoZWJnSWpVYzhlSVNFalNsdUtkaEtGU2QtYWZqazZzNTA1eXVpYS1ObkZZdE1rYi1xOXZNNHpvblRjeklwZnhONWgyOURfb3VrdlZ4ZnpKVW5CQUJDcmVHREVSWFpTMVVFR3lpQlo?oc=5",
+      "source": "Só Notícia Boa",
+      "publishedAt": "2026-11-27T12:57:00.000Z",
+      "summary": "Trabuco como Ministro da Fazenda de Lula: dólar despenca, Bolsa dispara e mercado financeiro festeja Só Notícia Boa",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.71,
+      "relevance": 6.4
+    },
+    {
+      "title": "Cinema Queer no Brasil: Caixa Cultural Belém exibe filmes sobre diversidade",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdC0zZVExekxfYlA2N1NfVFlIRTlwdDJTa1pwVlFVQ2F5XzZ0TU5pSnRuYWNtVDFxUFM5Q3ZuOU12LWhhU1JjMXdBVFQ5YUctLUFwZTBLcEU0LUhEVG1JVWxtZWpyZGswcFIzZUQ4T0c3Y3RIZEZFQ1ZsTjJrd3BwdlV1SWJhNENPczdyU3loVXg2bkNvZjNfYTRwVUNmQ3Z1b2dHUk9uUDdfRk1wVDNsOER2SlJibExK?oc=5",
+      "source": "O Liberal",
+      "publishedAt": "2026-11-27T14:32:52.000Z",
+      "summary": "Cinema Queer no Brasil: Caixa Cultural Belém exibe filmes sobre diversidade O Liberal",
+      "image": null,
+      "topics": [
+        "cinema"
+      ],
+      "score": 5.69,
+      "relevance": 6
+    },
+    {
+      "title": "França entra em recessão técnica e projeta PIB de 0,1% em 2026",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS1h4VkZaVHVBaUtVZFY5Tm5ZQVhncGxROXJWalluYkpFN0JPM2w5WlBxMWNULVQ1TXk4ZnhVZXQ2X1FKcVl6U1VkekVDTlhPbnRSX2hOMThCNHV2LW12ZnFldkFMcmhZX1M2ZVhLbm4zSGUtRmdZVFpEN19YNVIwR0s5UHhYam1DUzVIblZHZlBmN3VoV1M2SXZLS2EzWlFQWE15VFlySFpPY1oycGhaZ25YQlZFWnhyOVpQNmJB?oc=5",
       "source": "UOL Economia",
-      "publishedAt": "2026-11-26T23:30:23.000Z",
-      "summary": "Trabuco aceita convite e será o novo ministro da Fazenda de Lula 4 UOL Economia",
-      "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
+      "publishedAt": "2026-11-27T15:21:12.000Z",
+      "summary": "França entra em recessão técnica e projeta PIB de 0,1% em 2026 UOL Economia",
+      "image": null,
+      "topics": [
+        "negocios"
+      ],
+      "score": 5.67,
+      "relevance": 5.8
+    },
+    {
+      "title": "Indústria fica mais pessimista e reduz planos de investimento (Ep. #230)",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUVWWUQ1YkxhcWl6N1FyWmpYQ2V0R21ZLTNBUjlRbk9Oa3ZoNHp4bWM4c3kyY2VCRkxNNnliUTc0SHk1UkE3UTRZWXdCdlhuQWRzLXFMZ2Ryc0tSM0lhMkE1TnNuNml3TS1ydVRlOUhNUHNKY1lfcE92dmw1SnNlYkFLZDlLZzhJODlwcFZfVnVmWE0zbzNUSWFWalNHMkNKUWpmdzUyaXQxdTRQUUpHOE1ldkh0a2JuclNaRGtmdVV0RlpkNlBHdQ?oc=5",
+      "source": "Agência de Notícias da Indústria",
+      "publishedAt": "2026-11-27T14:05:24.000Z",
+      "summary": "Indústria fica mais pessimista e reduz planos de investimento (Ep. #230) Agência de Notícias da Indústria",
+      "image": null,
       "topics": [
         "negocios"
       ],
@@ -452,89 +639,11 @@
       "relevance": 6
     },
     {
-      "title": "Ajuste fiscal, crescimento e programas sociais: o que pensa Trabuco sobre a economia",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc0NrNVkxaHhDVmF5cTRqS0txVVVxLWZhdzdBa3ZQb0FqZW5Ta1F5emxGbW1iZmh3cnhLeVpVQ0pUUlZiMkc0YTF3SlBMWnRPcHBxWVJET0hTU0tzYUNtQ3JOa3c5ZHptdlVjZmtseXo1T3EyZmVQNmFKeE9GMEZWLU03Rkg2MWUwaXkwaGZrV0pHdkRYXzZiMWxBZkxseVpHQ2k4YUpkaDBYZVI2?oc=5",
-      "source": "Exame",
-      "publishedAt": "2026-11-26T23:24:42.000Z",
-      "summary": "Ajuste fiscal, crescimento e programas sociais: o que pensa Trabuco sobre a economia Exame",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.57,
-      "relevance": 6
-    },
-    {
-      "title": "Trump pede a Putin que interrompa ataques 'por toda a Europa': 'É um banho de sangue'",
-      "link": "https://g1.globo.com/mundo/noticia/2026/11/26/trump-pede-a-putin-que-pare-banho-de-sangue-com-ataques-pela-europa.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-26T15:15:39.000Z",
-      "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS O presidente dos Estados Unidos, Donald Trump, pedi",
-      "image": "https://s2-g1.glbimg.com/hYpsBEoB_mnrTJT1wXkJtEsKQbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/G/lvY87ISn2eBadSuXOVBA/2026-10-17t012836z-455791147-rc2r7gacnkd8-rtrmadp-3-usa-trump-sanctions.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.56,
-      "relevance": 8.2
-    },
-    {
-      "title": "Brasil rebate Macron após fala sobre carne 'dopada' e acusa França de protecionismo",
-      "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/26/governo-lula-acusa-franca-de-disseminar-desinformacao.ghtml",
-      "source": "G1",
-      "publishedAt": "2026-11-26T22:20:46.000Z",
-      "summary": "Presidente da França, Emmanuel Macron, em coletiva de imprensa no Catar em 21 de outubro de 2026. REUTERS/Benoit Tessier/Pool O governo brasileiro criticou, nesta quinta-feira (26), as declarações do presidente da França, Emmanuel Macron, q",
-      "image": "https://s2-g1.glbimg.com/3ryF_vUiP_WJ7bV9vYwIGb848s8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/i/q/YOy60LQYuiO977ZVNrCQ/2026-10-21t094440z-987252174-rc2l7oam9sgm-rtrmadp-3-gulf-france-qatar.jpg",
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.52,
-      "relevance": 6.2
-    },
-    {
-      "title": "Goiás aprova incentivo fiscal para atrair investimentos em energia renovável – Secretaria da Economia",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmtpR0tvdUZvMk1HeHVvaDlQNVlEU2tVY0lXVEx6bTNNVUJBX2piS19STGZ1ZGt1VmhwaEl2U3U5OW1IZlBMaG0yRG1hVVBxY3kwMzZYLTZXT3lhaE9LemxNMFdWLWZUc2YzR3EzQm5JVkxMbF82eWlxWXRjZmFkYUZPYVF2VUVUUXB0VDZjMm1iQjhsVlJZaEY5UWlIVFRBdzJyQjAyZkZqZXM?oc=5",
-      "source": "Goias.GOV",
-      "publishedAt": "2026-11-26T23:07:54.000Z",
-      "summary": "Goiás aprova incentivo fiscal para atrair investimentos em energia renovável – Secretaria da Economia Goias.GOV",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.51,
-      "relevance": 6
-    },
-    {
-      "title": "Juízo inicia operação de plataforma com inteligência artificial para conectar pequenas empresas a advogados",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb3djN2xLTm1kMHRrSmRpN2c4NlJ6QnVyVGR0SVlzRVZsZDRPSFdub25nYVdxYWlUMmtqVXJkMjI5N0d2QjYyazhyQU03MWFQVFJxczRFcUJwR0JvV3QtMFhiUHJMOFBIVG5LU1JheGNTNWFEWWZuNC1vMktRYjhfSXZWMzBIR1lmNHdManEwX0U2N21LUVdBeGx0SHRVMzVzeHByVFB6SjhlYjdndUtyVElIb0M2cl9XLXhva1VTWHhiVFZncHFES1ROUHF2Qi0xU19Kaw?oc=5",
-      "source": "Brasil Inovador",
-      "publishedAt": "2026-11-26T19:10:06.000Z",
-      "summary": "Juízo inicia operação de plataforma com inteligência artificial para conectar pequenas empresas a advogados Brasil Inovador",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.51,
-      "relevance": 7
-    },
-    {
-      "title": "Após ter navio de guerra atingido na costa da África, Rússia acusa Ucrânia de tentar expandir conflito",
-      "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/26/russia-acusa-ucrania-tentar-expandir-guerra-ataques-africa-mar-baltico.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-26T10:18:51.000Z",
-      "summary": "Drones ucranianos afundam navio da Rússia na Líbia A Rússia acusou nesta quinta-feira (26) a Ucrânia de tentar expandir a guerra contra a Rússia para os mares Mediterrâneo e Báltico, uma iniciativa que classificou como \"muito perigosa\". \"Ni",
-      "image": "https://s2-g1.glbimg.com/99zFOb8jCCOygoS6HrRYBd1oj_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/kTR8rBRAuC4xOaMHuHJg/2026-11-23t090233z-26004991-rc2ysoavk78q-rtrmadp-3-ukraine-crisis-ships-1-.jpg",
-      "topics": [
-        "geopolitica"
-      ],
-      "score": 5.49,
-      "relevance": 9.8
-    },
-    {
-      "title": "“É um filme que merece ser visto”, é o que comenta Marden Machado sobre a estreia de Tudo Pode Ser Visto nos cinemas do Brasil",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTnQ3YXJqTDBTZk13Yi1aZEpIV3lhUmVKajhBWjJSUTNrcEdUWXYtelo2dFo4RnRPcWUtd0dSQ3lDQjN2Slh6eDRvRy1RUjZmUUlsTTQ5bEczNnUzRHV0THdmcWtGYWxWNnNGME5HSWU5OFpuNHhXTXdMV1hhN1NZNGV1MEQxbHM3VTFPcG9zRHR0ZmxESG96ekpjOWpwNkdJSlJrdW9zU0FzRDRmaFNzTDdqbzRTdHdTak5pS1BJWWRoWkJFODFLMy1nUllmZjhPLUJHeVZBcFVsalFtQVVBUXo2ZWpncFo2YWZJbTdWTThnQQ?oc=5",
-      "source": "CBN Curitiba",
-      "publishedAt": "2026-11-26T23:01:19.000Z",
-      "summary": "“É um filme que merece ser visto”, é o que comenta Marden Machado sobre a estreia de Tudo Pode Ser Visto nos cinemas do Brasil CBN Curitiba",
+      "title": "TV Aparecida exibe filmes premiados no Oscar em sua programação de Fim de Ano",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWJrY0NXSGp5aG1FSV9abjRWNmt5VGxCYTg0MXJuTG5hSDVXejM3ajg0QnVoU2RSaHJNRTFCQUdaamhwdEs1dVFKT19XNmtjOGRTZXNHajIyUkpkU25GYmNGN0tMRWZaMEJScEZTNFg0Q215eVpBVVdJSG9xRFI4UVBCZ2MyaFMxeDVvN3dFOTdjdEtPa2kyQWlZTm9vOXMwQUE?oc=5",
+      "source": "Portal A12",
+      "publishedAt": "2026-11-27T13:34:34.000Z",
+      "summary": "TV Aparecida exibe filmes premiados no Oscar em sua programação de Fim de Ano Portal A12",
       "image": null,
       "topics": [
         "cinema"
@@ -543,609 +652,509 @@
       "relevance": 6
     },
     {
-      "title": "Black Friday: cinema terá ingressos a R$ 11 nesta sexta-feira em Rio Branco; veja filmes em cartaz",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZWNONkNwcjBmUVFIX2xINjdtU0VvdzQxZ1RGNUpTejMyYVBvV0x3TnEwY2ZjNWFOSnNLeEgzS0ZDRkd2WU9ZVDdTVEZUWGF5NkFGS0pUZnpKZVFiSUI3YlozeFhWVVhhVDV1cXRLeEoxVmJaREd1MEdtWGVweE9vY1dHbC00WVF4Q09pZ3ZLeVg1TGMzQ0xWdndtT1ZMZEZZUTZrTlRRYVNxdVBDRkR1ZUpqbXdZcVZKMGNZNFk4OC00bHhubmRTUzNzY0xRMDdSV19LVi14MA?oc=5",
-      "source": "A Gazeta do Acre",
-      "publishedAt": "2026-11-26T23:00:46.000Z",
-      "summary": "Black Friday: cinema terá ingressos a R$ 11 nesta sexta-feira em Rio Branco; veja filmes em cartaz A Gazeta do Acre",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.48,
-      "relevance": 6
-    },
-    {
-      "title": "Tarifaço: China, Brasil e União Europeia criticam nova rodada de tarifas proposta pelos EUA",
-      "link": "https://g1.globo.com/economia/noticia/2026/11/26/china-brasil-e-uniao-europeia-reagem-a-novas-tarifas-anunciadas-por-trump.ghtml",
-      "source": "G1 Economia",
-      "publishedAt": "2026-11-26T11:16:08.000Z",
-      "summary": "EUA propõem novas tarifas contra Brasil e 14 economias China, Brasil, Japão e União Europeia criticaram a nova rodada de tarifas de importação anunciada pelo governo do presidente dos Estados Unidos, Donald Trump. As medidas, apresentadas n",
-      "image": "https://s2-g1.glbimg.com/zGumoDj3GZJBgnG8DQTJ9qo-7lg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/R/O/YZbzlUSbOPl7umPMCR0w/2026-11-25t153053z-1-lynxnpemao1es-rtroptp-4-usa-trump-tariffs.jpg",
-      "topics": [
-        "negocios",
-        "geopolitica"
-      ],
-      "score": 5.46,
-      "relevance": 9.4
-    },
-    {
-      "title": "Trabuco na Fazenda: cinco opiniões do novo ministro sobre economia e por que melhora o humor do mercado",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOSzE4TGVQdWF6RGpHYWZBOXZTVWlCQ2NVaU1LQ2NQZ0FDelVZc05CTEp1NHM5anpNNDdGMDJ6STVFdG9JUVVReUo5OGF4SUs0TVJjTG5aZmt3WllzMzc4eF9Wa3ZGTHZqbVlUSF82LTgxaThzaXh4OWZEUzd6WWdoWlJJcXFiQUlrbUE1bE1FZUFkd1E4dmhvajNINmx3ZzlnOXF1STh2Sk9OdU85V2lnS2Vtc3Z6V3lHZW9KSmJMNTBoTjduMU9qbTRDMVRIcEU2ZDgybHl3cVZFV3VSSkNDOGEzRE5fRkZZTjlwLUVRa2pJYU9YR2d2LWFZUzhwd096MjV0R05HVXVvMF9PWk4wX1FFZlVsTXhvUzJ0WFlYWUVoODFwY0hTMm9yQ2ZOQQ?oc=5",
-      "source": "GZH",
-      "publishedAt": "2026-11-26T22:41:20.000Z",
-      "summary": "Trabuco na Fazenda: cinco opiniões do novo ministro sobre economia e por que melhora o humor do mercado GZH",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.41,
-      "relevance": 6
-    },
-    {
-      "title": "Festival de cinema saudita chega a Salvador com sessões no Cine Glauber Rocha nesta sexta (27)",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOHNUM2VlR0otRjRQc1lpWEhldGdJSmhYYTRBTE01Tjl0cTRlMTI0b2dyTWtGX3k1ZVZFMEVZcm56SUtKbjNLYW9aZ1VOWG5UeHlqeFlCNy1XWjMyNTdzQ3A4aWYtem5heEY4TWtKVTZNbDJJTDZneEhxV1YyRHlqZXlyT21TV1hMY1FuV0owWm8wNDlWUS1KeUFhOEVfcjhZYkpRWTM4Xzh4NFc3RzctSHM4VVhlMmRKSlh5M1JlN3A1SE9sckE4OVJ3ZHhwaF8zRW5N?oc=5",
-      "source": "Alô Alô Bahia",
-      "publishedAt": "2026-11-26T22:41:15.000Z",
-      "summary": "Festival de cinema saudita chega a Salvador com sessões no Cine Glauber Rocha nesta sexta (27) Alô Alô Bahia",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.41,
-      "relevance": 6
-    },
-    {
-      "title": "Mostra de Cinema de Gostoso premia filmes e reúne 9 mil pessoas",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01QWJUZ3hyYk83dDRYMTlxeUYyX00xLVN0MlBwcUphdlVBVWV2SU03bC1ZMFk1MXE0MDR2TGljVC05OEpreXVrQ1BkTWNmSTNrOFJUYklkTnFkVjlaSGVYaml4VzFJeC1zOUFUTVNkMGdVSEQ2ZFc2VWZDbm9xQQ?oc=5",
-      "source": "Agora RN",
-      "publishedAt": "2026-11-26T22:29:00.000Z",
-      "summary": "Mostra de Cinema de Gostoso premia filmes e reúne 9 mil pessoas Agora RN",
-      "image": null,
-      "topics": [
-        "cinema"
-      ],
-      "score": 5.37,
-      "relevance": 6
-    },
-    {
-      "title": "Banco Central projeta novos mecanismos de segurança para o Pix em 2027",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUEg0dlQxQW80V0pZbmJmTGxnaXpaV2JsR3FRRUtsS1NCTmFZNHQwanppNGZ5alFJQnRlWXl5WFVKRnBKbUEzY3BCbTZIaVhFRWRkenhCUGl1WUhXTzFIa3dEdVVsSlU2bDRZMVZNV2QtTi1SdU5PcTdxbTBrc3c1Q1VCTXZxSFRX?oc=5",
-      "source": "Agência Gov",
-      "publishedAt": "2026-11-26T20:45:00.000Z",
-      "summary": "Banco Central projeta novos mecanismos de segurança para o Pix em 2027 Agência Gov",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.36,
-      "relevance": 6.4
-    },
-    {
-      "title": "Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVBXSzJ2cW5OSGp4ZG1YN2h3aW55SUsxcjhSQTN5b0x4RjdYTFF4eEJ2T19aTUhETDhhM050aWlBWVM2dFNvMHluNWVsTWV3U1k2Ym5WdTdJTmgzTlBGNWNQY3FDQlBvTGxOVmF5VnpadmJSTzZ3NHROVk1BTUNzT21uNDRVTmxicUhNQjVzX0JMMjVWYlBXa2dzYXV5RURCN3ZQRE9ZOU1rUi1FNDZBMlVjMGVOQdIBuwFBVV95cUxOdVZKNmRsM0paNXo2M2Z0dmdQdkVHa0FFZDRIZmFGWjJKTV84WGpTVzh3cC1nNVhlaUVJSGhtcklnVERJcVlmaUMxajhWZElCOEtSbnY3NFpfbjhGMUUzQUFTcGJIVGQ2MmZrZ1F2VVZKTHRiZm80TFZ1ZXRKWVhJbUV4cGtrLXRwLXMwQWVCejc2WmIzaUp4MEFOZGREUFBxeWtkMHVLZHpMUzNpRV9OU01pNkF3azV0dllF?oc=5",
+      "title": "Ibovespa Hoje Ao Vivo: Bolsa salta 3% com Trabuco na Fazenda; dólar cai 4%",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbUszWEN5N2RtZFRqMDJPcllPOXB3bFdHRGZTaEk5Vkd6YlNtZGt4N1loRGJ5UUl0Uy1sNXBsSThOcnZ4NTE3bWFyY1RqaHFBVG5naUtNODF1Vk5kSkxDc08yaHBERXBtNmE1dUpBRVVaaThWSEdKYnd2eE50U1BaUzV4M2FBWmdfa1M3TlpIZw?oc=5",
       "source": "InfoMoney",
-      "publishedAt": "2026-11-26T22:08:24.000Z",
-      "summary": "Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês InfoMoney",
+      "publishedAt": "2026-11-27T13:16:48.000Z",
+      "summary": "Ibovespa Hoje Ao Vivo: Bolsa salta 3% com Trabuco na Fazenda; dólar cai 4% InfoMoney",
       "image": null,
       "topics": [
         "negocios"
       ],
-      "score": 5.3,
+      "score": 5.42,
       "relevance": 6
-    },
-    {
-      "title": "720 mil militares mortos: custo humano da guerra de Putin na Ucrânia ameaça o futuro da Rússia",
-      "link": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/11/26/720-mil-mortos-o-custo-humano-da-guerra-de-putin-na-ucrania-ameaca-o-futuro-da-russia.ghtml",
-      "source": "G1 Mundo",
-      "publishedAt": "2026-11-26T11:31:00.000Z",
-      "summary": "Tropas participam de um ensaio para o desfile militar do Dia da Vitória em São Petersburgo, na Rússia, em 28 de abril de 2026. AP Photo/Dmitri Lovetsky A cifra é aterradora. Pelo menos 720 mil militares russos morreram na guerra empreendida",
-      "image": "https://s2-g1.glbimg.com/7A0XqkoPGR--0X1b0uxP3Uk0eME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/l/7nLRgkRKKKGyo3KeBwoQ/ap26118609512829-2-.jpg",
-      "topics": [
-        "geopolitica",
-        "negocios"
-      ],
-      "score": 5.28,
-      "relevance": 9
-    },
-    {
-      "title": "Empresas de uma pessoa só: como a inteligência artificial está transformando o empreendedorismo",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMlVJN0FOcFMtM05IT2Mta09yVUN2MnVGcDV3QmtEOGs0UTUteDI2WElFTnZVZHk0TFdUMnV1NGxHZ2h1NmNES3JnNnlXbnRlTHYzbmlpSkJUMWlGNlFkdTR2UGlzZzk4UDNia2c5WEdJWXI2MloyaHJkT1JaQXVXZk40Ul9RS09JdFZOV0pNZHZJOU1XS0djQzBNa3hWdF8ySFdxRUM3QXdLVUp5MGdzdU50dV8tZ0RTdUxsNWlmbDcydjBCUm1sVzAzSHh4VDJPZjdxZjl4M3ItQk5BQU5RUUdJVkxIZ1BRZVg0SDZKczVTaVlhQWNROVUzRWY4VzZzRHNhYmd2ZHZpSFNET2dj0gGeAkFVX3lxTE1tNFktZ0ViZDFHaVRFbm9lLS1rcHM4YWZFR3Bta2Z0ZUZ1R0piUmpWcXRWc1lyMEVCX1hGNTlLcjFHMmhpaUhyVGJzVlBxdlZUQ0JONXAtRXV3bjFTZktQS0t6SlRhTGhnWU5GZ1pmbHN4NElZTzRNUVEweFp0N0VuMWxMZDhUWjJISkRoX0FZdkl3ZV9oVlJTVEZmZ0JDT1dadjZVR09QSUwwNW5zbHVva29DaTJwdDNrbGVhYjZ2S09KSG53MmhnRnBDaWJjZ0pNa3JPVEtDTElra0QwaF9reW9FZGhIOEV4alJOSkh1MDFNc1h4b1VMdy1mSEhXc3hFSFNTOVRySnd5bzRUb0RTOHVkRWpIaWM5X01JaVE?oc=5",
-      "source": "Globo",
-      "publishedAt": "2026-11-26T17:55:22.000Z",
-      "summary": "Empresas de uma pessoa só: como a inteligência artificial está transformando o empreendedorismo Globo",
-      "image": null,
-      "topics": [
-        "negocios"
-      ],
-      "score": 5.26,
-      "relevance": 7
     }
   ],
   "byTopic": {
     "historia": [
       {
-        "title": "Visita ao Museu da História de Guarujá dá direito a concorrer a pizza da La Felicitá",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ1hkajM4SU9sU1FkcUI5Unl0RHd1eUUxWTBVVnRBdFFIQ2trRjJMZXo2QktOUmh2dktRdmJidUsxVUZ4d0FzcXRmLWtseEFTeGhncU0zeFVZSnlXOXk4NmdzTDdFR0lwTFktTG5fZW5lbjdjR3U4dWxTZG1nM2poMWJBZlN5b19mVmR0MlFnd0pxLWhQamowU2V2eWFJX3kyal9xcXhZNWg4NnVDY2h4cEUyTmlKblhKM3c?oc=5",
-        "source": "Jornal A Estância de Guarujá",
-        "publishedAt": "2026-11-27T00:26:49.000Z",
-        "summary": "Visita ao Museu da História de Guarujá dá direito a concorrer a pizza da La Felicitá Jornal A Estância de Guarujá",
+        "title": "Exposição no Pantanal reforça valorização do patrimônio histórico e natural",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPczNqcjRzeGxLSjVKbTFrLXVVYUJZdWVXRkNsU3JBdDNDZ3BlWnNhNkhrRnRQcnlONmJMMC1mb1RrNVZyVVlKY1daZ2hYd3VjdGtzc2kwb2ZKSGhsM1RUcTU5UlJkN24wRTNiWC1RRjhPT2dMRUpWRjNvcnUyOEdKYnczZkpBYW54bnNMdVBYY3Uxc0ZsdkNLTl8zNHJUQVZ1SzZnMTEzeHRPcjJJQ0dB?oc=5",
+        "source": "Folha MS",
+        "publishedAt": "2026-11-27T15:05:07.000Z",
+        "summary": "Exposição no Pantanal reforça valorização do patrimônio histórico e natural Folha MS",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.83,
+        "score": 4.84,
         "relevance": 5
       },
       {
-        "title": "Alunos de uma escola de arqueologia descobrem em Mérida, na Espanha, pinturas romanas com pavões e cenas mitológicas na casa onde já havia surgido um mosaico da Medusa",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1ZodlVHZ1U4eXBUX09tUXJqTUh3Unl6TExkajBQbVZEZHRmRlJoSW9oYkRuZzVhZFpqRF9GeWRhNmtpM3Y2OXkxWG13SW1FLXRQa0p3Z1A3VDhaTEFVRGtVR2MwdElvS0hMYnJ4blkwLXZHU0JNakVYMGpIbVg5UzFXWnJXY1lVWTlIbzd0bnFvU2cydkdsTg?oc=5",
-        "source": "Correio Braziliense",
-        "publishedAt": "2026-11-26T23:38:21.000Z",
-        "summary": "Alunos de uma escola de arqueologia descobrem em Mérida, na Espanha, pinturas romanas com pavões e cenas mitológicas na casa onde já havia surgido um mosaico da Medusa Correio Braziliense",
+        "title": "Licitação define empresa para restauração do Museu de História do Pantanal",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96WHhzMDZVQVQ2RVhyaVo3cWE5b2l5dk1SNmxmUUpINHBrcUZhTk5lREw0LVNBcENxRzBPM3EtOW1qMzJSakVXUGtjUm1scVNTMHhPeW43TEJmbElzRnRkZA?oc=5",
+        "source": "Diário Corumbaense",
+        "publishedAt": "2026-11-27T14:52:19.000Z",
+        "summary": "Licitação define empresa para restauração do Museu de História do Pantanal Diário Corumbaense",
         "image": null,
         "topics": [
-          "historia"
+          "historia",
+          "negocios"
         ],
-        "score": 4.68,
+        "score": 4.8,
         "relevance": 5
       },
       {
-        "title": "Museu da Gente Sergipana celebra 15 anos de história",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWpWZWUxRFhrd2FXb002Z0JBUFNqOXhrakJpSVR3aFNJSTFlcFAtQnc5bUIyVVppNFNPS2RIZG84NXZhLTNQeWVMNXQwVUtad0xlUGpoRnotb2EtWEdKdlJyT3Vrd214UzEwaDhkTlNQTlQ3M3RuU3JUWnJTNzEtYjJMSGdPY09yRnhUaFNZZTRIcmpYdXpQTnZmd3dKZUR6dnBfcWZkR19UZXVSNVpQMndDOW5jMVZod3ZuMzZVLVd2aDV30gHTAUFVX3lxTE1ONk1JRVRGbHQxZTNDQUNQN09USHNPZWJYUmlDMUI5VzRWVjEzc0s3VEJUV0JSekpGUnpSeGRWUTNfWG51UGlzOGdYcS1nUWFlRVNkZ0NqMm5HSVFhQ21wMGpOTW5CQ0E1SmN6RkZBcjFpVlQ0SVpNbW1fUlROQlh1Tm5KZm41SUVzZmE1NGUwUkRuVEp6bVhMYy1yQU5ZOXVwMF85MXZIZWx0WWg4WGxrQW80Mkl0ZWNqY2NBQS01aXp5UEZGQjlLLVB3a1l5Y3dtYVk?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-11-26T23:18:55.000Z",
-        "summary": "Museu da Gente Sergipana celebra 15 anos de história G1",
+        "title": "Mostra fotográfica valoriza patrimônio histórico e natureza do Pantanal no Porto Geral",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RaRnZtVDhpeFREY2ozR25aTHJoZDJpdFo0ZkowY2lYYWo4NXBzX1lfNnFZU0t0bFZwVFppM01tTWtsZjhCUmRsMl9UYmJ4Tm1aVG9oVGxmblMwcG13X3BWempKYWRJLTBCVE9nU2hsRlpTdEhTSm9yN0gweUduTTF6b0V6LXhSaGNXbUkxQ0tCWHJnbkV2WFJYRk9SaklvMEI5dWFWTlhhRk5sY1NaZWZfMkthcHpJNXpuYnBn?oc=5",
+        "source": "Município de Corumbá",
+        "publishedAt": "2026-11-27T13:41:00.000Z",
+        "summary": "Mostra fotográfica valoriza patrimônio histórico e natureza do Pantanal no Porto Geral Município de Corumbá",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.62,
+        "score": 4.59,
         "relevance": 5
       },
       {
-        "title": "Antigo centro de tortura da ditadura, na Tijuca, tem tombamento definitivo pelo Iphan",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeDUybktUV2s0R1ViV3dpRjVZUklEZlJRS1ljTVhSVFN3RTlNcjQ3NlhtSTNZbl9FRElkTVFYOVNUTlJISXhlODZGU0ltWWF1YnhBbUJPREtRWnVWbDZWTkV6eV85U2U3NzNOc0tPS2hzTGZ1MnFjSl9PZFYzeTQyZDViYURTLVVZeWM4aWFkdElFdmFFYUZVb2NLTEI5YTFkZkZMZURwSVdFbXNZeHltMXRVMG11djUzc3MwdldnaXBJVGlCR0RycDZxUnB5ZjZmRVJKbjIyMnFRUQ?oc=5",
-        "source": "Diário do Rio",
-        "publishedAt": "2026-11-26T22:10:27.000Z",
-        "summary": "Antigo centro de tortura da ditadura, na Tijuca, tem tombamento definitivo pelo Iphan Diário do Rio",
+        "title": "Vila Velha de Ródão reúne séculos de história em exposição arqueológica",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDRpcG1tZTVUZ2g1S01NaWpMMlhmdk1JR1h1dGZKRl9RV2hzbjhCQVFVM1UzWDFFWjJKQjlma2lUREg1ZDZna19ELUNtbTNpSVhlWncyQWNvZzhHbWZ1ajRtdWRwa2hpWDc3MWd3NWVqTUx6ODF1bTdNcmd5THhJWmVkZjQwSEtOUFhNZjVJOW51QlBKRjEzaHpPRVFmSFRtOTZ0NWpUOEtwVTBvOEdYdXBwNXMyWXBzbVNR?oc=5",
+        "source": "SAPO",
+        "publishedAt": "2026-11-27T13:07:00.000Z",
+        "summary": "Vila Velha de Ródão reúne séculos de história em exposição arqueológica SAPO",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.42,
+        "score": 4.49,
         "relevance": 5
       },
       {
-        "title": "Correio do Povo é reconhecido como patrimônio de interesse cultural e histórico do RS",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVUdNTWVlOGs3SWVITjJ5TGgtMWl3WXY2b09veDktUmw1aW11eE9HTTd3VXIwUlpoMVVObFR4RzJDRGNMc1VPaXVLaDNzN1g4N0lnaGpWWG5vdDhLTElwTi1pNVNtbnl0cnpEa1FfVEM0dGwwMFEwSFJuYnVDb0t5R2ZSdkNSMVpxZmdRcVVhOEx1Y2JEWTZvZl9uVURtalV5NUV3aEpqWFRvWVRWQkpjTXVJZFhxaUZ2UWVMVW1tbDlmUWt4bTlPUXBvWUcxdFNfamk5NVFDYm5zblJDZl9tdWVSQkNqLWVhSUE?oc=5",
-        "source": "R7",
-        "publishedAt": "2026-11-26T21:19:10.000Z",
-        "summary": "Correio do Povo é reconhecido como patrimônio de interesse cultural e histórico do RS R7",
+        "title": "Cerro de Porongos é tombado como patrimônio histórico nacional",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTy16U19RakRHblBSZVV0UjRpNnppbnlXY21FS1p2UXlqcXRhLTNna2QzcXRxQ2hPOHJJRUJ4SEJMdmdLeDFXZENCQ3VDVW9IZnRWRkhjTkJUNXM0Tk1jNV9WWVNrWG1td2tRQzBzRGFxNlFnRFVFaFZTblZXY0JVaUc3dlFwOVFxM01YUlphWQ?oc=5",
+        "source": "GAZ",
+        "publishedAt": "2026-11-27T11:01:00.000Z",
+        "summary": "Cerro de Porongos é tombado como patrimônio histórico nacional GAZ",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 4.28,
+        "score": 4.14,
         "relevance": 5
       },
       {
-        "title": "Prefeita de Cachoeira se nega a explicar paralisia de projetos para recuperar patrimônio histórico",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRmtONlB2bEQwLVpnQS1JWTJNdlRVVjNadGwza2d5MGl4UG1NZThfWnFYZDBCNnQwZ2swb0tfeDFya3BJZUktYmxUVzZ4b2t2a3RVVHRydTJkX2lEQ3VZSzNHeUZIc3lGUGlvcEVFdzdYOXJpNkRMNUxCWDV2emJCVzNIckNFLURYdTJZdXItT2twSERPNmU4aGd0eFBPUlpjY3FDSkVBajAwMkc0QWhGRWtER3lnQUpwblpOdjNGLXdTSG5YVUUzVzc4WWROTjhxQTZ1dFUwX05IN3AtTmtvSG9mTQ?oc=5",
-        "source": "Rádio Metrópole",
-        "publishedAt": "2026-11-26T19:26:00.000Z",
-        "summary": "Prefeita de Cachoeira se nega a explicar paralisia de projetos para recuperar patrimônio histórico Rádio Metrópole",
+        "title": "Arqueólogos encontram joias de prata de 400 anos na Moldávia",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVW9DZlV4MVJKUDZBQlJBYmFGMU11Y1RFYnFJbmhOSEJpNXcwRXBISExheHhhcnl4dHhWMGdidWpULTFKOUN0dzR1OTNuS1NJSHo5d3VuNHY2UElXQjdNeHQ2RnhHZlVhcnRFQTU0X2duUk9xbkFIRm15empuMEFDOW1MVzcyQnJ6V3BWb0dyRFNNVktORGs3djB2RHhsVjViazNiRThMb083VVhDVGkya0poTDBtU2tlS2NwY0o5QQ?oc=5",
+        "source": "Aventuras na História",
+        "publishedAt": "2026-11-27T14:07:00.000Z",
+        "summary": "Arqueólogos encontram joias de prata de 400 anos na Moldávia Aventuras na História",
         "image": null,
         "topics": [
           "historia"
         ],
-        "score": 3.98,
-        "relevance": 5
+        "score": 4.1,
+        "relevance": 4.4
       }
     ],
     "geopolitica": [
       {
-        "title": "Ministro de Israel ameaça deslocar 1 milhão de palestinos em Gaza caso Hamas não entregue armas",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/26/ministro-de-israel-ameaca-deslocar-1-milhao-de-palestinos-em-gaza-caso-hamas-nao-entregue-armas.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-26T12:28:02.000Z",
-        "summary": "Relatórios recentes do UNFPA apontam forte aumento da violência contra mulheres e meninas na Faixa de Gaza REUTERS O ministro da Defesa de Israel, Israel Katz, ameaçou nesta quinta-feira (26) deslocar forçosamente mais um milhão de palestin",
-        "image": "https://s2-g1.glbimg.com/WL7CdMiOQ5DlRwnUX1mCdg2_qZ4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/1/k/saK2iVQviYUBKMN1DgjQ/ee622546-90dd-4994-be78-ee73e8d790ec-1-.png",
+        "title": "Zelensky critica 'estranha amizade' entre Trump e Putin em entrevista à BBC: 'Putin é um agressor e assassino'",
+        "link": "https://www.bbc.com/portuguese/articles/cm5y1pwkr0wwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Brasil",
+        "publishedAt": "2026-11-27T12:14:12.000Z",
+        "summary": "Zelensky afirma que os Estados Unidos estão priorizando o Oriente Médio e não pressionam suficientemente a Rússia",
+        "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
         "topics": [
           "geopolitica"
         ],
-        "score": 5.96,
-        "relevance": 9.8
+        "score": 7.81,
+        "relevance": 9
       },
       {
-        "title": "Trump pede a Putin que interrompa ataques 'por toda a Europa': 'É um banho de sangue'",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/26/trump-pede-a-putin-que-pare-banho-de-sangue-com-ataques-pela-europa.ghtml",
+        "title": "Operação Vivaldi: como a Ucrânia frustrou os planos da Rússia para cercar o Donbass",
+        "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/27/operacao-vivaldi-como-ucrania-frustrou-planos-russia-donbass.ghtml",
         "source": "G1 Mundo",
-        "publishedAt": "2026-11-26T15:15:39.000Z",
-        "summary": "Presidente dos Estados Unidos, Donald Trump, dá coletiva de imprensa com o secretário-geral da Otan, Mark Rutte, em Ancara, na Turquia, em 8 de julho de 2026. FILIP SINGER/Pool via REUTERS O presidente dos Estados Unidos, Donald Trump, pedi",
-        "image": "https://s2-g1.glbimg.com/hYpsBEoB_mnrTJT1wXkJtEsKQbk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/G/lvY87ISn2eBadSuXOVBA/2026-10-17t012836z-455791147-rc2r7gacnkd8-rtrmadp-3-usa-trump-sanctions.jpg",
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 5.56,
-        "relevance": 8.2
-      },
-      {
-        "title": "Após ter navio de guerra atingido na costa da África, Rússia acusa Ucrânia de tentar expandir conflito",
-        "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2026/11/26/russia-acusa-ucrania-tentar-expandir-guerra-ataques-africa-mar-baltico.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-26T10:18:51.000Z",
-        "summary": "Drones ucranianos afundam navio da Rússia na Líbia A Rússia acusou nesta quinta-feira (26) a Ucrânia de tentar expandir a guerra contra a Rússia para os mares Mediterrâneo e Báltico, uma iniciativa que classificou como \"muito perigosa\". \"Ni",
-        "image": "https://s2-g1.glbimg.com/99zFOb8jCCOygoS6HrRYBd1oj_s=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/B/t/kTR8rBRAuC4xOaMHuHJg/2026-11-23t090233z-26004991-rc2ysoavk78q-rtrmadp-3-ukraine-crisis-ships-1-.jpg",
-        "topics": [
-          "geopolitica"
-        ],
-        "score": 5.49,
-        "relevance": 9.8
-      },
-      {
-        "title": "720 mil militares mortos: custo humano da guerra de Putin na Ucrânia ameaça o futuro da Rússia",
-        "link": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2026/11/26/720-mil-mortos-o-custo-humano-da-guerra-de-putin-na-ucrania-ameaca-o-futuro-da-russia.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-26T11:31:00.000Z",
-        "summary": "Tropas participam de um ensaio para o desfile militar do Dia da Vitória em São Petersburgo, na Rússia, em 28 de abril de 2026. AP Photo/Dmitri Lovetsky A cifra é aterradora. Pelo menos 720 mil militares russos morreram na guerra empreendida",
-        "image": "https://s2-g1.glbimg.com/7A0XqkoPGR--0X1b0uxP3Uk0eME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/j/l/7nLRgkRKKKGyo3KeBwoQ/ap26118609512829-2-.jpg",
+        "publishedAt": "2026-11-27T09:04:35.000Z",
+        "summary": "Operação Vivaldi, feita entre maio e outubro deste ano pela Ucrânia, frustrou os planos da Rússia para cercar o Donbass, região que inclui Donetsk e Luhansk e que Putin quer anexar. Diego Herrera Carcedo/Anadolu/picture alliance via DW Sem ",
+        "image": "https://s2-g1.glbimg.com/_2NofVwGeZ060DQuB2kKlT2wiME=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/x/g/B9BrCuQQOf5Bph5UFZVw/design-sem-nome-2026-11-26t102833.253.jpg",
         "topics": [
           "geopolitica",
           "negocios"
         ],
-        "score": 5.28,
-        "relevance": 9
+        "score": 5.99,
+        "relevance": 7.8
       },
       {
-        "title": "Dois italianos morrem em ataque de drones iraniano no Kuwait",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/26/dois-italianos-morrem-ataque-ira-kuwait-diz-agencia.ghtml",
-        "source": "G1 Mundo",
-        "publishedAt": "2026-11-26T13:53:40.000Z",
-        "summary": "Agora no g1 Dois cidadãos italianos morreram durante um ataque de drones do Irã contra o Kuwait nesta quinta-feira (26). A informação foi confirmada pelos governos da Itália e do Kuwait, além das agência de notícias Ansa e Reuters. ✅ Siga o",
-        "image": null,
+        "title": "Brasileira presa na Rússia: leia na íntegra a carta de Letícia Villar ao presidente Lula",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/27/brasileira-presa-na-russia-leia-na-integra-a-carta-de-leticia-villar-ao-presidente-lula.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-27T15:38:03.000Z",
+        "summary": "Letícia Villar, jogadora brasileira está presa na Rússia Reprodução/Instagram Presa na Rússia há 1 ano e 4 meses, a jogadora brasileira de futebol de areia Letícia Villar Pais, conhecida como \"Lelê\" Villar, enviou uma carta ao presidente Lu",
+        "image": "https://s2-g1.glbimg.com/z00KsgR8VljEPKCMG8wqfw2ZlGM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/L/D/42oGsXR7Kql7PX9gsPAQ/fotojet-2026-11-27t123642.877.jpg",
         "topics": [
           "geopolitica"
         ],
         "score": 5.14,
-        "relevance": 8
+        "relevance": 5.2
       },
       {
-        "title": "Passageiro tenta abrir porta de avião e voo é desviado nos EUA; veja VÍDEO",
-        "link": "https://g1.globo.com/mundo/noticia/2026/11/26/passageiro-tenta-abrir-porta-de-aviao-e-voo-e-desviado-nos-eua-veja-video.ghtml",
+        "title": "Trump declara apoio à decisão do Iraque de enviar de tropas para fora do país",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/27/trump-declara-apoio-a-decisao-do-iraque-de-enviar-de-tropas-para-fora-do-pais.ghtml",
         "source": "G1 Mundo",
-        "publishedAt": "2026-11-26T19:21:38.000Z",
-        "summary": "Voo nos EUA é desviado após passageiro tentar abrir porta de avião Um passageiro precisou ser contido por funcionários da American Airlines e por outras pessoas a bordo de um avião na quarta-feira (25), depois de tentar mexer em uma das por",
-        "image": "https://s2-g1.glbimg.com/rOGbW54AJw-vKP7b21THX7oM7DA=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/K/5/ATw8IPRtWMgXSyIA5Y2w/mixcollage-26-nov-2026-04-20-pm-999.jpg",
+        "publishedAt": "2026-11-27T10:56:50.000Z",
+        "summary": "Imagem de arquivo mostra campos de petróleo em Kirkuk, no Curdistão. Alaa Al-Marjani/ Reuters O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (27) que apoia a decisão do Iraque de enviar tropas para fora do país em ",
+        "image": "https://s2-g1.glbimg.com/CwDcYpE1ifNQeiV0sC_EqF1r4C4=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/D/q/xUQHgbQfuCqyLmu9SwEQ/2026-11-24t152749z-1374156123-rc2fuoaukepm-rtrmadp-3-iraq-oil-smuggling-explainer.jpg",
         "topics": [
-          "geopolitica"
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 5.12,
+        "relevance": 6.2
+      },
+      {
+        "title": "Hackers invadem plataforma de dados da Força Aérea dos EUA, diz agência",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/27/hackers-invadem-plataforma-de-dados-da-forca-aerea-dos-eua-diz-agencia.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-27T11:36:21.000Z",
+        "summary": "Pentágono, a sede do Departamento de Defesa dos EUA, em Washington D.C. AP Photo/Pablo Martinez Monsivais Hackers invadiram a principal plataforma de computação em nuvem da Força Aérea dos EUA, a Cloud One, segundo afirmou nesta sexta-feira",
+        "image": "https://s2-g1.glbimg.com/lUmSkBGAXNaDZJZX8viRqA4EApY=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/Z/I/zBnsf1QB6T9P95ViQRzw/ap24319753708791.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios"
         ],
         "score": 5.08,
-        "relevance": 6.4
+        "relevance": 6
+      },
+      {
+        "title": "Tempestade no feriado de Ação de Graças deixa quase 1 milhão sem luz na costa leste dos EUA e cancela voos",
+        "link": "https://g1.globo.com/mundo/noticia/2026/11/27/tempestade-feriado-dia-de-acao-de-gracas-eua-1-milhao-sem-luz-cancela-voos.ghtml",
+        "source": "G1 Mundo",
+        "publishedAt": "2026-11-27T13:15:07.000Z",
+        "summary": "Enchente em região costeira da cidade de Asbury Park, em Nova Jérsei, nos Estados Unidos, após tempestade em 27 de novembro de 2026. Peter Ackerman/Asbury Park Press/USA TODAY NETWORK Uma forte tempestade prejudicou o feriado do Dia de Ação",
+        "image": "https://s2-g1.glbimg.com/j7xR9OzBptj18Vhq-ByXJ2nLX-Q=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/V/P/CWnTuTRgilCuzzwZzgdQ/2026-11-27t135817z-337389670-rc2dwoam6k0a-rtrmadp-3-usa-weather.jpg",
+        "topics": [
+          "geopolitica",
+          "negocios"
+        ],
+        "score": 4.69,
+        "relevance": 5.2
       }
     ],
     "negocios": [
       {
-        "title": "Governo confirma Luiz Trabuco como ministro da Fazenda a partir de 2027",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORm5XVXV5aW5rNkhDTi11ZjVxaFowVUVDTHdHTkgwc0F2cDJ0Z2Z4SUJ2ZUo1SWh3Z0tKd3JTd1gwTGxiX18tOEZYaUxfcXJfcWlSTm9BSERNY1psalZKczFMOXU2ekgtbk9jT1FMcUNkTHhtSEk0bUxFVVduMUZtc01tS05UVE8zTGs1UDBuMS1VTENneGhONW0yOEQ4SDhRR2FkZkhobWhHUVhVOThQR0tIY9IBwgFBVV95cUxPeUh6MmpZdnhRQ2N0bnFaallhRjZFTnkwUUpna1R4eWExQXdzSmRINjV3UlJqUVMyLWlpMHJna0tkSDJlUUkwakFuU3ZIRE5SbVJwc3l1SFRMSjRSWVZQTTRzbWlmU2YxWXJuTWJGNmZtVnpXRHp0WU9OWHZVX1V1ajM2Ukk2a3ZVNWFsZWlTTkI4TWZ1d2ZpVnVubHgtdk1NN2otTTJvU2dzZDFBSG91cjJpc2dTcjJyTFNYeHBCamZSdw?oc=5",
-        "source": "O GLOBO",
-        "publishedAt": "2026-11-26T23:09:42.000Z",
-        "summary": "Governo confirma Luiz Trabuco como ministro da Fazenda a partir de 2027 O GLOBO",
-        "image": "https://s2-g1.glbimg.com/8Hpt5t9j_HROFFUucUfw65_ihXM=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/l/Q/Xui6KvR8u3a9CnM3VRcQ/2018-03-14t140319z-1282850438-rc18e918e880-rtrmadp-3-brazil-wef.jpg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 9.37,
-        "relevance": 10.2
-      },
-      {
-        "title": "Luiz Carlos Trabuco, do Bradesco, aceita convite de Lula para assumir Ministério da Fazenda",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONUJtR2I2MVVOYXVEYW12dUpuMGxuSXQxbDIzTUMwNGNGZDBjbVBxeFRLRnNCUW1fc1c5Mmt5QzdwWmRPUy03LUwwZF8wMUtaTzYycHVPbGViOTltLTdTUml0VWNrZnBjc0hBOFRLZWRmT1BsMUxCTFVEaC0zQm5pVmFtcFk2cVJ4VHZZbjlRbHo1ZjkzQTF4Y0p0aHJBZmVscFdGeUpiRnEwbGNwcFQ0UTg5ZjQxaGJpZzQ3d1J6M0NFVlRUeTlqVEhaT2tTTXU5NW9sY1dGVUY?oc=5",
-        "source": "Folha de S.Paulo",
-        "publishedAt": "2026-11-26T21:58:00.000Z",
-        "summary": "Luiz Carlos Trabuco, do Bradesco, aceita convite de Lula para assumir Ministério da Fazenda Folha de S.Paulo",
-        "image": "https://s2-g1.glbimg.com/jxvFfTBS04ak4MWwXo8lXtScyJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/8a5bP8QGAajgsBvdbmSA/2026-11-26t122730z-363785437-rc2rhbaxbsib-rtrmadp-3-brazil-politics-finance-ministry.jpg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 9.3,
-        "relevance": 10.6
-      },
-      {
-        "title": "Resumão diário do JN: Governo Lula anuncia Luiz Trabuco para Ministério da Fazenda; apagão de energia atinge cidades de Roraima, Pará e Amazonas",
-        "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/26/resumao-diario-do-jn-governo-lula-anuncia-luiz-trabuco-para-ministerio-da-fazenda-apagao-de-energia-atinge-cidades-de-roraima-para-e-amazonas.ghtml",
+        "title": "Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWR6bjJRT2ZYMEVTRUNNVFhaVElHdmNCTEFwVEtHM2FRVzZNX1kwRzNnMDRTcWF0R2RZS3JfRkJaNE1mTmFYMWNLTGF2OW5aOTZtSjl3Y1B1bzBmQWxVdDZyV3FVSE40bWZ4R0poWlU1SUE5SmR1Q3EtbkFTTHR2OS1iQWxvNGx2eWFyaHJURmxLVV85WlVMaUNCRlR1VHJjUnVNYU8yZ1Bmc05ZamFyTldWa3lnLTdnVGt5Q0k1emRaMTk3dko2YlhiT3lrSjZRS1NONjRCclhfdW50eVM3NzJtZ21vYVNIeS1nZEUtQzdHVnlUZGxfUkladzhCRWVpOUdNQlNR0gGUAkFVX3lxTE9VU1dSZWZpeGctUVI1eUgyZmxGZlFHMHI2aURGMDU2Sm9EVWZCSTZjel9QUFY1NVdRY2dVdTlzVE04eUhVRjEwVUZOVHB0aG5GTzZzQ3UxTDM2QTROSVJ4MUczQTJiMFVwMVZPWmJyWC03S2RCYjQzelpkYVdGSF96Mmp6YVZ0VGIzLW1DLW0zZXhPaFFaNXNXTC1YMFhFc01TQXNwRVhzZmpvcjZ5Nm1ocUhwZHFvdlpfbGVwOG9RZ1lOWnNadlRxNWlyQzRoNk9QNWMyU0R5Y3I1Qk5tV08wQWdEQlU0WFk3bG1EajN6MjRaSEZUbG5rQ2RqOXZscmpOdTJ0ejB0Yks1V3JpRGJYbHU5ag?oc=5",
         "source": "G1",
-        "publishedAt": "2026-11-27T00:33:49.000Z",
-        "summary": "O presidente Lula convidou e Luiz Carlos Trabuco aceitou ser ministro da Fazenda. É o primeiro nome confirmado para o quarto mandato. Atualmente, Trabuco comanda o Conselho de Administração do Banco Bradesco. Em um dia de expectativa no mer",
-        "image": "https://s2-g1.glbimg.com/TdgdJdEM3JRrBbaV1hw7IRhavzk=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/g/K/veduPgSMS9lmE0MbwC1Q/resumao-jn-capa.png",
+        "publishedAt": "2026-11-27T11:52:31.000Z",
+        "summary": "Nova reforma da Previdência e ajuste fiscal 'cívico': conheça as posições de Luiz Carlos Trabuco, futuro ministro da Fazenda G1",
+        "image": "https://s2-g1.glbimg.com/ejEJhlAFFtHVomA6t588fsCCEuU=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/s/2/QAYVOsS6qXeGSfW1z9iA/globo-canal-4-20261126-2000-frame-65304.jpeg",
         "topics": [
-          "negocios"
+          "negocios",
+          "geopolitica"
         ],
-        "score": 7.76,
-        "relevance": 8
+        "score": 12.66,
+        "relevance": 14.8
       },
       {
-        "title": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNEtyMHQwcHZZWWR4RUhXVHE3R3BsVGFvOWVBX19BbXVuTUlJWG5SZFZmbHJHejZnWmdVX2tKZjNXQ25HZmlnOEpsaFZUUC1nMHNUdkZXOS10N2RQVXpJemFscGoxQ0NLOFp5ZW92VFBSemtGc2xkcE9GTWtVaVJYUVdSU1Z6X1BvQ0FOamdn0gGcAUFVX3lxTFBKd3NpX3h6Sk5icjFYMjUwQlpfMnQxSi1ZcnBkU2tTbk9pMDRPZ2lpclZiUzN6XzJBcUtRM2tTdldQSGE4OElWSlM5SFotMkRCSWd2TUFyZEdZT1h6Sy1fRWtDU2NFSVhNREVmZ0oycThpdDlWdGNLaXhpcTFpalhSSW5jeHhWQjNPQ0diTUo5Y2xkUXp4aVBvYjZQTQ?oc=5",
+        "title": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda",
+        "link": "https://g1.globo.com/economia/noticia/2026/11/27/trabuco-na-fazenda-veja-outros-banqueiros-que-estiveram-a-frente-do-ministerio-da-fazenda.ghtml",
         "source": "G1",
-        "publishedAt": "2026-11-26T21:48:09.000Z",
-        "summary": "Ibovespa dispara 6% com convite a Trabuco para a Fazenda e tem segunda maior alta desde 2021 G1",
-        "image": "https://s2-g1.glbimg.com/jxvFfTBS04ak4MWwXo8lXtScyJ8=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/W/e/8a5bP8QGAajgsBvdbmSA/2026-11-26t122730z-363785437-rc2rhbaxbsib-rtrmadp-3-brazil-politics-finance-ministry.jpg",
+        "publishedAt": "2026-11-27T14:48:59.000Z",
+        "summary": "Trabuco na Fazenda: veja outros banqueiros que estiveram à frente do Ministério da Fazenda Reprodução O governo do presidente Luiz Inácio Lula da Silva (PT) anunciou na quinta-feira (26) que Luiz Carlos Trabuco, presidente do Conselho de Ad",
+        "image": "https://s2-g1.glbimg.com/WNw3fsBIsAGPyw8Gz7p0mkWj1Yw=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/w/y/XTJzMzTcO1tSyCwqigHw/montagem-horizontal-1280x720px-4-.jpg",
         "topics": [
-          "negocios"
+          "negocios",
+          "geopolitica"
         ],
-        "score": 7.67,
-        "relevance": 8.8
+        "score": 11.69,
+        "relevance": 12.2
       },
       {
-        "title": "Indicação de Luiz Carlos Trabuco para o Ministério da Fazenda é bem recebida por representantes de diferentes setores da economia",
-        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOZ2lHY2VmNElqMmVKckVBRktScEI4Vy1abkkxSDRjTFNMMEVnalFpdEZqaG94aUtqVWZnRkliRjNCam5DSTgzOUlCLTZuNW56aWlBOEY1NHhkUDdOc2k0N0FwZzd2eWh5Qk8taGc5REx4SGpSR1NXUWl1RFNwQTNXdDljQlFrLWU0dDQtWnREdUJLeFJHM0h5d3hNVS1QWFE5OXFaOFcxVGd0NG5wRDJCYURKQWdrNU02R2JJZDFjX2FQUzRnNWl6QkpMRGUtSVJjam5XWHptbFRaY0Z2dUI4aDYzOG14bW5NRFRTMGVKSkRFcE5qNElGbFVZWHdNd1VhZFM5SWo1dG5JbTNpMFJYOFdlZ2lITDhDYi000gGqAkFVX3lxTFBEV0ZaTXJxNWlpMHdyUS11QVJQTjhsSjJkRzN1SS1MY1IxMHNacjNMeWUwVC1QX0psVDJNVEVXOVZwbnl0X3N0V0FhRnktaGxQRkJrMzBrVkZad1IzU2t1WkthRGxMbVA5Xy00cUYydmRuY2JPaHBzYkZKMmZjbjZhcG13WDJ3MC1pZVRJRi1PcUxGMC13ZHBTRmJjV2ZaZGVsNndMSVY1SmVIWVp6aWRwMDI0NUV5UmNMekFTQXhiVXZmM040ZHdlQXk3ZUlnZkU0bmQzNlp3RkctSXNkQ0xoSUNUMUJQeVhaSDJxa0pzTXl5U3h6OGZ5MU1OY1VEaVBCZ2lrMUtIa290ejQxdXJFSmR1QjlhVFU1LUhRYkhzc0JmOEJHdzV2ZlE?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-11-27T00:10:41.000Z",
-        "summary": "Indicação de Luiz Carlos Trabuco para o Ministério da Fazenda é bem recebida por representantes de diferentes setores da economia G1",
-        "image": "https://s2-g1.glbimg.com/JjG0tRRVfabbv2qnOqHyoLxOt8g=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/M/U/1sGOqPQ0CHv3hCQrGsPQ/globo-canal-4-20261126-2000-frame-70614.jpeg",
-        "topics": [
-          "negocios"
-        ],
-        "score": 7.64,
-        "relevance": 8
-      },
-      {
-        "title": "Ibovespa dispara 6% e dólar cai a R$ 5,74, com expectativa de Trabuco como ministro da Fazenda",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zLVZXc0pudEp4bXg4MTR0d1h3VzREcktYSVVWVE9OSk9GQlVuQ1poNjVOLXR6UWotMk9WMkJrTzM2WXA5U29NOU5oTVpSc1NwMTViamNsaEZobmRQSEh4ODk4dEpMTTNCM0pKVGNlMDdJb3NVSE5tWdIBhwFBVV95cUxNTl9YZDMwWjdXbVJ0OFoxLTVNR3ZsU1NMdWZ1Zi1Zb0tkbk0wMUsyOGZQRkg2cDFXUzJHZE9rUVVhRjZKYWg0WDY3Q1hLdEJWSzd5ak1zcWVqc2hueWgtdW0yOEpYTXZWVHBPblBvNTZuYng5U3ltRjVDV29jZUlldTNVMndyeFE?oc=5",
-        "source": "G1",
-        "publishedAt": "2026-11-26T12:00:00.000Z",
-        "summary": "Ibovespa dispara 6% e dólar cai a R$ 5,74, com expectativa de Trabuco como ministro da Fazenda G1",
+        "title": "Dólar cai mais de 4% e chega a R$ 5,48 após confirmação de Trabuco na Fazenda; Bolsa dispara",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUVg1U0o1ai1SekMwUzdKV0RKeXFFOHktUzhLNzU3aUtTakJENkFCN2psRGZtTEVwSGJyWXJMRnRrWnlRZUVZNXlkbDlWRENnVktJUVNvbFdfamljTmdyb3V4UzNUejBwQ24ycF9TT3owbE9uVGNFS1JiakJvUTZhd3lNVy1JY3FHSmlfeHhfdzRqNEE5LXJQaWJwWlZ3SXpKQnJFWXlyd2p2YmxHdm5zZ2dqMm1SWXA0WDlEWkdmY29vdmJnLWRud1E5bGg5QW5vWmp0cmFsM2U1cWt0SEpFNWpHYjM1OG8?oc=5",
+        "source": "Jornal do Comércio",
+        "publishedAt": "2026-11-27T14:36:57.000Z",
+        "summary": "Dólar cai mais de 4% e chega a R$ 5,48 após confirmação de Trabuco na Fazenda; Bolsa dispara Jornal do Comércio",
         "image": "https://s2-g1.glbimg.com/uwNmoSBOb59X1nQknEt3Zeenv64=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/3/v/5lgfbyQ6yzm69F02kHgQ/2025-02-07t180249z-1-lynxmpel160po-rtroptp-4-dolar-abre.jpg",
         "topics": [
           "negocios",
           "geopolitica"
         ],
-        "score": 7.29,
+        "score": 11.6,
         "relevance": 12.2
+      },
+      {
+        "title": "Dólar despenca 3% e opera a R$ 5,57 com escolha de Trabuco para a Fazenda; Ibovespa sobe",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdE5zdDBPbHB0eXpjTmEtVWVOM28yQjdpVjZOSVBSUTBmZ1Z5dGdNNnZ0NWFUT3hWSmN1Wi1KbnVmaVd3OU1CTkR2N1h4Sl9pVEppejAyejd4dDBxcUVTNnNLQnl5enNXNkxrQVFvelNZRkszV2NXRdIBhwFBVV95cUxPdUhPazRUUjlWbHhCUHU4RDg1TTAyeERRUEhCRG5nVXVaYmdLWDNQa0wzUTRzOUJUeTBLU0xBelZWSE9zcnc4YzB6Y0RSdjFTdVhiUV9IbGtTeUstd2V2T0VOS1BEbjhVckJRcHhubUVxS2l3RDJsenBSRU42OWZhN2VMZjlZc00?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-11-27T12:00:00.000Z",
+        "summary": "Dólar despenca 3% e opera a R$ 5,57 com escolha de Trabuco para a Fazenda; Ibovespa sobe G1",
+        "image": "https://s2-g1.glbimg.com/1pBkYcOPEXGAHZxvui52hFQ9dKQ=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2025/1/B/zoUVsNQY6zDG8O79cckQ/b3-1.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 8.77,
+        "relevance": 10.2
+      },
+      {
+        "title": "Nome de confiança da Faria Lima, Luiz Trabuco cultivou amizade com Lula à frente do Bradesco",
+        "link": "https://g1.globo.com/economia/noticia/2026/11/27/nome-de-confianca-da-faria-lima-luiz-trabuco-cultivou-amizade-com-lula-a-frente-do-bradesco.ghtml",
+        "source": "G1 Economia",
+        "publishedAt": "2026-11-27T06:00:00.000Z",
+        "summary": "Trabuco é o primeiro nome confirmado da nova composição ministerial de Lula World Economic Forum/Benedikt von Loebell via BBC Natural de Marília, no interior de São Paulo, Luiz Carlos Trabuco começou a trabalhar ainda adolescente. Aos 12 an",
+        "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 8.46,
+        "relevance": 12.4
+      },
+      {
+        "title": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ0hqOHYwSzZjYXlXM210b0JjVnRJRW40OTRlNGF4b285cEd5MXZGc1NDN0xKS0dNNW5NYVQxVUstVHRIMXRseXJWUGwxRnFPb1Q3cWJRdXJLSVYxTC1uOHNjUmxqMndMaEZkdEs5R0t6OTN3eDhwUWkwOW5pYThqb20yN2liMWJRemx5ZlI1NG5KdUNpVHZSUzNyTUkyaWo4RHJZUllCd0lfSW00SFllNlhJTXc2X2JrclZWaTdrVG1EczFCcV9DYTdEVWdWQ3RPeFFhM1pZdndGUdIB6AFBVV95cUxNMEtRMjFBaXhCZjJEdXVKbi1xMzVWUWx1R3o3djN1MUZYamwzdEZkY21nYlYzMldacTlicmUzYUVpa3luMDZsYzhRc1QzRGg2U082bl90Nk5WOXdVazRkSGlkT2NnT0ZibzJFNDRkV2JleDh6bS1LUHZZSFU0RWZ5SV9HTFF3eDdnZWVPaEppbWk4Y05UUnozSzlwb3NySXZsUm1kclBVRENGYUhFS2RrXzhzMzR3cVNVWnViYlA0MXM0RWotY2NuVjBXcE92SDNHOWxLcmFxNW9zd0Jhc1Y5VU01WFZTSWc2?oc=5",
+        "source": "G1",
+        "publishedAt": "2026-11-27T03:00:01.000Z",
+        "summary": "Trabuco terá ajuste fiscal, juros e resistência no PT entre desafios à frente da Fazenda G1",
+        "image": "https://s2-g1.glbimg.com/6_JOFNTaoi9PoCWBd-c3FqDnfXg=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/b/w/DxUIE4Ss2SFaF3CNAGEg/25955686427-a866fcdcb2-k.jpg",
+        "topics": [
+          "negocios"
+        ],
+        "score": 8.39,
+        "relevance": 13.8
       }
     ],
     "filosofia": [
       {
-        "title": "A trajetória de Luiz Carlos Trabuco: da Faria Lima para o Ministério da Fazenda — passando pela Filosofia",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPazVqWGs4NUVpNExWNTZIWVVLT0w0MkpYR3ViMTc3WFM0aVhEeTBmYmJ0Q20wMjRQWWpPQ2V4ZE5KUDZsekVmTG5NcWxYdEVHZnZjN1libVphZ0R0Uldwc1g5aUptZ25TTGhHN0RBMXdndVJuWEREV2taSmxtTHR3eFBWWmk4NG5rQUZxcjZCMlMzZE9LUTUtaTA4ZThGMW81RC1COFhXMG9DMU5GbmFYV2tUVlA5R1BnUWFDc3RQOW9lRW9yYlE?oc=5",
-        "source": "Seu Dinheiro",
-        "publishedAt": "2026-11-26T22:49:16.000Z",
-        "summary": "A trajetória de Luiz Carlos Trabuco: da Faria Lima para o Ministério da Fazenda — passando pela Filosofia Seu Dinheiro",
+        "title": "Professor da Uece lança livro sobre a filosofia política do abolicionismo negro",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlpQN0ZvNV9IdVoyQVk0M0stMHF3MXJrdXRvTXpBTV84RkthTmZQTWpfZ3cwMW51TVZPN1E0eTc4WGFvaVlTOWVTb3pWa2JuWURsRDY3djM3V1RvLVhRWDJKUkV2UDhSWmJleUhxN3hpbm1WTnVYMS1KelZKOFpmNnAzRFhSTEJKWXk2S0dmREN3TXlaZExpQ2lnVl9LUE1XZXlfRVZBakJ2WExSNGc?oc=5",
+        "source": "Universidade Estadual do Ceará",
+        "publishedAt": "2026-11-27T13:45:00.000Z",
+        "summary": "Professor da Uece lança livro sobre a filosofia política do abolicionismo negro Universidade Estadual do Ceará",
         "image": null,
         "topics": [
-          "negocios",
           "filosofia"
         ],
-        "score": 3.63,
+        "score": 3.68,
         "relevance": 4
       },
       {
-        "title": "Formado em filosofia e amigo de Lula, Trabuco trabalha no Bradesco desde os 17 anos; conheça o novo ministro da Fazenda",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc0tEQS1DdEhmNWZuY3VWc2RDdWVVYjU2ZWJRUi1DdkUtcHRfVWJQM2gzQmc2SlhzYnI4QWJYcG9ONTF3TWRucGFabU1MTVI1Y1FqbW11UmtLT2JWaFdlR2RDZWsydGVkQUpod0FQMlJPUmlxdFZ5b1NwTjBTR1llanNIRU9VN25WM1RrejRtOTc4REkwNlRwc0FaNkVoa21OWFprNUl2WkhvVjJCYUZJWTduOWV2OHlXQUJyZFA5M2prY196MzR1bnp6bXV6dW4xMGVvOUlKY1h0NndNeVM1RTNJeHhZTFRyUFk4VVhR?oc=5",
-        "source": "Folha de S.Paulo",
-        "publishedAt": "2026-11-26T22:04:00.000Z",
-        "summary": "Formado em filosofia e amigo de Lula, Trabuco trabalha no Bradesco desde os 17 anos; conheça o novo ministro da Fazenda Folha de S.Paulo",
+        "title": "Formado em filosofia, amigo de Lula e admirador de Paulo Freire: conheça Luiz Trabuco",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkt3R3J0bVBkRGh5eFY0RUJCb293MnllMkpTdE90UVE1UHFzaVBqdnJrN0gzeFNSSVJjYmF2cl80MmRPSXhURWRRVlVhLUt0cDFpMl9kRjNMaVRBZnlUai1iNmJJOGtFWHpFeDc0SEpnY0JwZUkzUU45cGZpeDllNUoxbEZmRzVyNldCOWhHNktveGtkWWNkSWFFcGcyaEIxWS1SaWdYTWhHeWRFaVVXSGxJYlZNWDQ?oc=5",
+        "source": "MundoBA",
+        "publishedAt": "2026-11-27T11:30:00.000Z",
+        "summary": "Formado em filosofia, amigo de Lula e admirador de Paulo Freire: conheça Luiz Trabuco MundoBA",
         "image": null,
         "topics": [
-          "negocios",
           "filosofia"
         ],
-        "score": 3.52,
+        "score": 3.37,
         "relevance": 4
       },
       {
-        "title": "O que é filosofia das ciências? Livro explica o tema",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNclMwUWd6Rm5TTkVvejFneS1DLUFSM1JFX3pIWmhKTkUycVJsQXNMRk5uaUpqbkkzWktLM2ZkZmJSbURvVWl3X1BiZGZOWFJPQmpxSGxJVURDeTNXOTNZb0wtVVh1bzNXRGhIY05uVXRnR1RHcXRHMUVqZXIzR2xiZ0FlRXZJVlA3RTBBUGdnM05FU2s?oc=5",
-        "source": "Portal A12",
-        "publishedAt": "2026-11-26T20:03:16.000Z",
-        "summary": "O que é filosofia das ciências? Livro explica o tema Portal A12",
+        "title": "Comissão de Educação aprova obrigatoriedade da Filosofia e Sociologia no currículo",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVd0eHd1WGVBUlVSdm50QWxiS2RGYzRpd2t2TlVJR3RyMVEwcGFELWNWUTI3OXk0emxMNG11Q2lROEZrSklrWVVDcWVDNmpFTHAxSU01SUxUTmZ5bmhSLWM1WnkwR2p4NG40UGQybElTRnVTSGdCSG5GMVh6WVdpZGN3bmw1aW1ES3VpUmZKZWF6WWZNZUtSQkE2ZW1Ud1l0T3d3ZDg0dFNwTHk4VHgwOXQzam4yZ2hpNEE?oc=5",
+        "source": "Sinteal",
+        "publishedAt": "2026-11-27T10:33:41.000Z",
+        "summary": "Comissão de Educação aprova obrigatoriedade da Filosofia e Sociologia no currículo Sinteal",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.26,
+        "score": 3.25,
         "relevance": 4
       },
       {
-        "title": "Sophia Loren, atriz italiana de 92 anos: 'Minha filosofia é que é melhor explorar a vida e cometer erros do que jogar pelo seguro e não explorar nada'",
-        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPeVVCTko0VTBWUWhUZlBDb1U3eGpNZ3JFVkFteGQwZ2d1SDgwU3JlbmM5bFhJQkNiV1FvbTUxeVgwRVBGVE85cjVTN2wtYXUxNGhFckRwSF9nZDhrbkRfenVqTHc5NEpDVXhHZ2tFU0pBMFJ0SkRoaTloU0FObDI3dXpIYUJHZHlDRGZ3aVpUOFkzVXE0d1RmTzJiRnMxaWdxLVZwRFRrbmw1TU5GQ1BBZ1BDSDFxREhBS3FfSy1kRWVYdXFybDVPemNsMlpIaFZYNGQ1WkF1UWFxQXN6VkdoOGk5alY2U2J1MkZxYzF1aGhpSFRJSzVyOERzVzNTZUthcjBDYjVvVWVHZURiVUJtM0ZZLVlNRGk5Z0JwTXFOU2tQeVhBdy1Jbl92WnhZczJEaHRyTWxSVk1POFQ3ZHZaMHhzdTZtSkZlLWpidG4yRG55UQ?oc=5",
-        "source": "Terra",
-        "publishedAt": "2026-11-26T19:45:00.000Z",
-        "summary": "Sophia Loren, atriz italiana de 92 anos: 'Minha filosofia é que é melhor explorar a vida e cometer erros do que jogar pelo seguro e não explorar nada' Terra",
-        "image": null,
+        "title": "Linguagens e Ciências Humanas no PISM: construindo um repertório sociocultural",
+        "link": "https://g1.globo.com/mg/zona-da-mata/especial-publicitario/colegio-cave/cave-mandando-bem-no-pism/noticia/2026/11/27/linguagens-e-ciencias-humanas-no-pism-construindo-um-repertorio-sociocultural.ghtml",
+        "source": "G1",
+        "publishedAt": "2026-11-27T15:01:09.000Z",
+        "summary": "O PISM, vestibular seriado da UFJF, é conhecido por cobrar dos candidatos uma forte capacidade de interpretação de texto, conexão com atualidades e um repertório sociocultural sólido. Para mandar bem nas provas de Linguagens e Ciências Huma",
+        "image": "https://s2-g1.glbimg.com/KsOy9qOJze-vvRWj26Lhw-fhybE=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/m/8/IVVho9Ste3NqIzrFBIcw/imagem-1.png",
         "topics": [
-          "filosofia"
+          "historia",
+          "filosofia",
+          "negocios"
         ],
-        "score": 3.22,
+        "score": 3.86,
         "relevance": 4
       },
       {
-        "title": "Ufes defende volta da obrigatoriedade de Filosofia e Sociologia no ensino médio; entenda o PL 1.466/2026",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVl94ZVBPaFcxdFJZSWZrZ21LVk4xVVlsVjJmWWJ3OVJzMV9STnprSnF1V3FvZzhjQVVtSVZ3b3l6RmozU0ZRM2tyeHp0YUpMaEp4YTZkMG1YOWVqbXlnSnV6XzVDamRBY3NDN0RLSVl1dTFRWGJhUnIyRmN3bnBZZmF0ejdjR3lzYTlVV0dfbGpGSnRTTlc4LXAzd1BIWkdRdmFqTUNITzExSlZQRzVKYU9xcVFjNzVOWnN6b1F6Q3VTc3RDS1FxZ0J2YTBPUHpDbWpEUzBCdmJhVWVhZ1J1SzNxQQ?oc=5",
-        "source": "ES Hoje",
-        "publishedAt": "2026-11-26T19:02:27.000Z",
-        "summary": "Ufes defende volta da obrigatoriedade de Filosofia e Sociologia no ensino médio; entenda o PL 1.466/2026 ES Hoje",
+        "title": "SERNANCELHE: Casa do Benfica de Sernancelhe promove sessão de reflexão sobre ética no desporto",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ0prQVNSV3lnSkd5aENEMzYyVWZubDdfY0x2M2V0RVF0TzFzaUZVMmo1T1J5Y01iUFRuRS10OV9mZUxNMlBqejlaVi1QU2lBaEZwOURKTUdyTERmV0lfdkV4eXF4b0dZSVdXenRfN2x0QnlycTc3THJyQWkyTzlXVjNwOXZIMDB2aW1oUkhTV2JyczN3TWhhbHFMODJBalRnbHAzTHRjbGRCSEhONVZIWGZ3TUk1a3dabTVSTTRpTy1JUmhRUWF2aGoycG0yTUFjcmJDQmV3YWM?oc=5",
+        "source": "SAPO",
+        "publishedAt": "2026-11-27T09:04:00.000Z",
+        "summary": "SERNANCELHE: Casa do Benfica de Sernancelhe promove sessão de reflexão sobre ética no desporto SAPO",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 3.14,
+        "score": 3.07,
         "relevance": 4
       },
       {
-        "title": "Em seu livro Caminhos do Pensamento, o Padre Eldinei Carneiro analisa o diálogo entre fé e razão",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWTctaFdwYUJ2ZkNza0VVOWwtbFgtTnZoZ1YxaWRLeWRBbzJvdXRqOW4ydzZaZ1ZLYWtXbjZEQ2s5WVdlNkYyWC14MEtKNEVpbm5RcGdOTU1hTEVNZTFLck8wN05ESHhpWnMwc0pNMXllX0tIbTZaT1BRV3JtYmIyd245dXVwNW1wQURYdjM2SnpOM2JIaVUwZmhwZ3kzM3RPOWw5ekxOODJkR0E0clFpdk43LXFteFBTcEQySjIxMjJjbGo0?oc=5",
-        "source": "Portal do Amaral",
-        "publishedAt": "2026-11-26T11:33:00.000Z",
-        "summary": "Em seu livro Caminhos do Pensamento, o Padre Eldinei Carneiro analisa o diálogo entre fé e razão Portal do Amaral",
+        "title": "Frase do dia da Filosofia: 'Pare de insistir em lugares onde você só é conveniente. Estar sempre disponível pode se transformar em uma fonte de sofrimento' - reflexão inspirada em Epicteto",
+        "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPd19HY25HV25IbTZLX3BoMTctYVJaLUFscndkMUloWThDbl9xUDdQaGliYl81cHgxUzIycURFWDZIRE5RejNTMXJLZ194aUtWU0RZNDVjS3hwUG5XTnk1b1VzSjd4dVROR3daMS1aWkVCblJleENlSGIwSUpLcjZ0WUl6c2V5UHl6eTJNZjZiQXZVMUdhWkU3OC1ib2RLaVNnMVNpSnVKeGRiNUJtNEdNVXowdDlSMU9seV9UWXhqOVBxTEZkb2cwQXItTVZkSVZIN2pZSmprMWFMYjZ4NXhuOFM3SXE2Z19aby1acFUtVHVueXFPTER5Wno3WlFiNWJUcDRrU1pMVGNaTzdabjFMaWg2U285Mkh6RHRic0x4QnZFVFRacEplWGNSSHVHV1VvUTZValc0ZHlpUEpfelVmMzhSZU5rVmdhVXlXdTJtdVY?oc=5",
+        "source": "Jornal Correio",
+        "publishedAt": "2026-11-27T03:30:00.000Z",
+        "summary": "Frase do dia da Filosofia: 'Pare de insistir em lugares onde você só é conveniente. Estar sempre disponível pode se transformar em uma fonte de sofrimento' - reflexão inspirada em Epicteto Jornal Correio",
         "image": null,
         "topics": [
           "filosofia"
         ],
-        "score": 2.94,
-        "relevance": 5
+        "score": 2.48,
+        "relevance": 4
       }
     ],
     "cinema": [
       {
-        "title": "7 séries e filmes apimentados da Netflix",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VV01JSUlRWHRRVUFHS3otWlctbmhCZ1hwcXhtZzZhNGpWNDFDc09ja2wwR1N4Ui1qakJCYUppODlPUE9DQ1ZlSHFIOERTc0prdktZNENyMVBlNVJqcUJPc0JjRm5KSUgteVYzU2gtSTl2NE1lMzZ3SWZncw?oc=5",
-        "source": "Netflix",
-        "publishedAt": "2026-11-27T00:21:17.000Z",
-        "summary": "7 séries e filmes apimentados da Netflix Netflix",
+        "title": "Mostra de Gostoso | Como são escolhidos os filmes do maior festival de cinema do RN?",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZk5XR3ZTd0Q2eXJfTzZtdWRqQUw2VDBRTGY1dnBadEtLbjVxLVQxRDNSeVo3V3lodHJ3ZWFRQXAwS1hicklveWhuUXBfSUFUTHlNRDBpaEJBR093dDJ6SmgxdVE0d1Z6N1RaR056MUZNRHpBVTdCUEdlZG9GZl81REd3VUtSSVduMHlCQ1p5YVZmaVoybEFsaF94S2FlT2VrYVZsVmtPeGQ?oc=5",
+        "source": "Meio Amargo",
+        "publishedAt": "2026-11-27T13:40:39.000Z",
+        "summary": "Mostra de Gostoso | Como são escolhidos os filmes do maior festival de cinema do RN? Meio Amargo",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 6.73,
+        "score": 7.34,
+        "relevance": 8
+      },
+      {
+        "title": "Filmes e séries para assistir no streaming e no cinema neste fim de semana",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUw0NDJDOV90NVI5Um45S0d0T0pMSWpvUm56WDBwNzdCZU54NlF1dGo4ZFMtRHJHejgtdkUxTGZiYTB1dnZGNllfYWsyeEUtZzF4N1hmNk85eklPYnhHSG50YjVpUlEza2dqcHBib01RUTdpalJ0UVBJYUFuZ210NjQ1NWI5MXFRVTdOQWpFRVVQMTF4YVlYaUVXSQ?oc=5",
+        "source": "AJN1",
+        "publishedAt": "2026-11-27T13:17:29.000Z",
+        "summary": "Filmes e séries para assistir no streaming e no cinema neste fim de semana AJN1",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 7.23,
+        "relevance": 8
+      },
+      {
+        "title": "Salvador recebe festival de cinema saudita com filmes inéditos no Brasil; veja programação",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWEhpTkotV2Y2d0U1THFGUkEyakFRcXNoNXBpN0xjS3V2anZaSzhmVzRjVmcyeG82SGJMOUFDRjU3dHNJZDVSMFozUnpBc0Fwc2gwTDd1TXZXX2FuOThLOVR5T2dsZzBLNVdjMEpjVnVtLTkwT21WR0tpQTR2Y3BDal9JNlI0MHNOM19YYTMyUnc1STVYOEp5cUF6QlNXQnZCTllaeno4ZHhCSFFnNDlXdTktRDNjaWhyNUR5T1NsTU1UVEVmZ1l1ZlFRWTYxYnNMQll0a19B?oc=5",
+        "source": "Rádio Metrópole",
+        "publishedAt": "2026-11-27T11:53:00.000Z",
+        "summary": "Salvador recebe festival de cinema saudita com filmes inéditos no Brasil; veja programação Rádio Metrópole",
+        "image": null,
+        "topics": [
+          "cinema"
+        ],
+        "score": 6.85,
+        "relevance": 8
+      },
+      {
+        "title": "‘ENFEITIÇADAS’ | Nova animação da Disney, coroa fase em que bruxas deixam o posto de vilãs no cinema; trama aborda relação entre mãe e filha e marca representações mais complexas de personagens femininas em filmes infantis. ‘Queríamos virar tudo",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaUjh1RHVBQTN5VXQ3SDdDcUVndDRTVV9DbV8wdXVtS3g1M2taM19xOHlCam9pT0x1WFhXMkgtZ0FLNzl2ZTdCalJFOTZ2bS1tSHFoWWFn?oc=5",
+        "source": "Instagram",
+        "publishedAt": "2026-11-27T15:09:19.000Z",
+        "summary": "‘ENFEITIÇADAS’ | Nova animação da Disney, coroa fase em que bruxas deixam o posto de vilãs no cinema; trama aborda relação entre mãe e filha e marca representações mais complexas de personagens femininas em filmes infantis. ‘Queríamos virar",
+        "image": null,
+        "topics": [
+          "cinema",
+          "negocios"
+        ],
+        "score": 6.8,
         "relevance": 7
       },
       {
-        "title": "“É um filme que merece ser visto”, é o que comenta Marden Machado sobre a estreia de Tudo Pode Ser Visto nos cinemas do Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTnQ3YXJqTDBTZk13Yi1aZEpIV3lhUmVKajhBWjJSUTNrcEdUWXYtelo2dFo4RnRPcWUtd0dSQ3lDQjN2Slh6eDRvRy1RUjZmUUlsTTQ5bEczNnUzRHV0THdmcWtGYWxWNnNGME5HSWU5OFpuNHhXTXdMV1hhN1NZNGV1MEQxbHM3VTFPcG9zRHR0ZmxESG96ekpjOWpwNkdJSlJrdW9zU0FzRDRmaFNzTDdqbzRTdHdTak5pS1BJWWRoWkJFODFLMy1nUllmZjhPLUJHeVZBcFVsalFtQVVBUXo2ZWpncFo2YWZJbTdWTThnQQ?oc=5",
-        "source": "CBN Curitiba",
-        "publishedAt": "2026-11-26T23:01:19.000Z",
-        "summary": "“É um filme que merece ser visto”, é o que comenta Marden Machado sobre a estreia de Tudo Pode Ser Visto nos cinemas do Brasil CBN Curitiba",
+        "title": "Enfim Sós, a nova e divertida série da Netflix com Andrea Beltrão, Fabio Assunção, Cláudia Abreu e Marco Ricca, ganha data de estreia, pôster e primeiras imagens",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRlk4REVRTVdEQnNCTjNrUTRiTFAyazgyaThiQnlmN05oUlNfX1VfeDdDNnp2a1puNjJENmJwOUx0YngzTDloRHZ0UnlKZl9GMlBCQlZxNElEWDZMaVpzNndoMm9ZaU1ER3ZWUGw3VmdjRURXQ3FleDdEUXZ2LXczT1VuRl9TdkFiQ1c3UVNB?oc=5",
+        "source": "Portal TV e Streaming",
+        "publishedAt": "2026-11-27T14:05:00.000Z",
+        "summary": "Enfim Sós, a nova e divertida série da Netflix com Andrea Beltrão, Fabio Assunção, Cláudia Abreu e Marco Ricca, ganha data de estreia, pôster e primeiras imagens Portal TV e Streaming",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.48,
-        "relevance": 6
+        "score": 5.96,
+        "relevance": 6.4
       },
       {
-        "title": "Black Friday: cinema terá ingressos a R$ 11 nesta sexta-feira em Rio Branco; veja filmes em cartaz",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZWNONkNwcjBmUVFIX2xINjdtU0VvdzQxZ1RGNUpTejMyYVBvV0x3TnEwY2ZjNWFOSnNLeEgzS0ZDRkd2WU9ZVDdTVEZUWGF5NkFGS0pUZnpKZVFiSUI3YlozeFhWVVhhVDV1cXRLeEoxVmJaREd1MEdtWGVweE9vY1dHbC00WVF4Q09pZ3ZLeVg1TGMzQ0xWdndtT1ZMZEZZUTZrTlRRYVNxdVBDRkR1ZUpqbXdZcVZKMGNZNFk4OC00bHhubmRTUzNzY0xRMDdSV19LVi14MA?oc=5",
-        "source": "A Gazeta do Acre",
-        "publishedAt": "2026-11-26T23:00:46.000Z",
-        "summary": "Black Friday: cinema terá ingressos a R$ 11 nesta sexta-feira em Rio Branco; veja filmes em cartaz A Gazeta do Acre",
+        "title": "Jack of Spades | Filme gótico dos irmãos Coen ganha previsão de estreia na Netflix",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdUJobGRTYjdjcDZGSTFTNVgxc09HbWhRcmhOdjNWcWlETld0Ykh4MFhQQm9VNEJYMUZDZFRQN3YxNkFpdHFwX3ZOb2pjdkFQVWZkczNZb0VuNHk1X2RxNEpzY0ZvakFNc255QnRxUzlvbDZwVUhlV2x3ZEdaeEFkR2ZlenktYk11UHlzWERBY2JRdw?oc=5",
+        "source": "Omelete",
+        "publishedAt": "2026-11-27T14:38:00.000Z",
+        "summary": "Jack of Spades | Filme gótico dos irmãos Coen ganha previsão de estreia na Netflix Omelete",
         "image": null,
         "topics": [
           "cinema"
         ],
-        "score": 5.48,
-        "relevance": 6
-      },
-      {
-        "title": "Festival de cinema saudita chega a Salvador com sessões no Cine Glauber Rocha nesta sexta (27)",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOHNUM2VlR0otRjRQc1lpWEhldGdJSmhYYTRBTE01Tjl0cTRlMTI0b2dyTWtGX3k1ZVZFMEVZcm56SUtKbjNLYW9aZ1VOWG5UeHlqeFlCNy1XWjMyNTdzQ3A4aWYtem5heEY4TWtKVTZNbDJJTDZneEhxV1YyRHlqZXlyT21TV1hMY1FuV0owWm8wNDlWUS1KeUFhOEVfcjhZYkpRWTM4Xzh4NFc3RzctSHM4VVhlMmRKSlh5M1JlN3A1SE9sckE4OVJ3ZHhwaF8zRW5N?oc=5",
-        "source": "Alô Alô Bahia",
-        "publishedAt": "2026-11-26T22:41:15.000Z",
-        "summary": "Festival de cinema saudita chega a Salvador com sessões no Cine Glauber Rocha nesta sexta (27) Alô Alô Bahia",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.41,
-        "relevance": 6
-      },
-      {
-        "title": "Mostra de Cinema de Gostoso premia filmes e reúne 9 mil pessoas",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01QWJUZ3hyYk83dDRYMTlxeUYyX00xLVN0MlBwcUphdlVBVWV2SU03bC1ZMFk1MXE0MDR2TGljVC05OEpreXVrQ1BkTWNmSTNrOFJUYklkTnFkVjlaSGVYaml4VzFJeC1zOUFUTVNkMGdVSEQ2ZFc2VWZDbm9xQQ?oc=5",
-        "source": "Agora RN",
-        "publishedAt": "2026-11-26T22:29:00.000Z",
-        "summary": "Mostra de Cinema de Gostoso premia filmes e reúne 9 mil pessoas Agora RN",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.37,
-        "relevance": 6
-      },
-      {
-        "title": "HBO Max: confira 5 filmes e séries que chegam ao catálogo em dezembro",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOTFOTEdIYVI4V2NxUVdKaXltRlB6ZTU1Vk9wemxBLTc2cTN1dEZjbDFsZWVBQjgxOHlES0x0ckw3QjFGTW9aYWdmTmJWREpEcmxzb1NGSGFqbHN0RXhuOGdlUUdfWmUtS3F2VktaYk83UTg3dDhRcWNwOVJjRGJFU0p0al9JeEJYR0JFZjZQd014VkxILW5ybzhFY3hRdmdhUGVCaFlaZDRiZmRQWDZvWWVCaktfTWJJaWNCOG0yZHlQMDQ?oc=5",
-        "source": "O POVO",
-        "publishedAt": "2026-11-26T20:52:23.000Z",
-        "summary": "HBO Max: confira 5 filmes e séries que chegam ao catálogo em dezembro O POVO",
-        "image": null,
-        "topics": [
-          "cinema"
-        ],
-        "score": 5.05,
+        "score": 5.71,
         "relevance": 6
       }
     ],
     "medicina": [
       {
-        "title": "Faculdade de Medicina de Olinda celebra 11 anos com mais de mil médicos formados e missão acadêmica em Oxford",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORWJUWUZUOHFsVDNnR3pwN1BNMmFjZko1SEZpYmRQc2tPbWVia3dfUV9kdUdkM3dPSW9TQklycjYxYVRTVVprdDJ0cGFPQUNrLWRCa19ZZVppOGMzT3Rkd3kwRlVZSUFORkVDbmJ4djVxMUFOTU9CbGIwUU9lOUZ6Y0hRVmdoRmVQay1DaE81M0thWGx3Y3p3eG5qS19rSkVJSGQ3TmhMV3Q1S21Udko0a2FnSlhNQnBHY0tKZU9UMWtuTk9LM2txaEZkbmg3N2FhTEow?oc=5",
-        "source": "Blog do Magno",
-        "publishedAt": "2026-11-27T01:15:47.000Z",
-        "summary": "Faculdade de Medicina de Olinda celebra 11 anos com mais de mil médicos formados e missão acadêmica em Oxford Blog do Magno",
+        "title": "Tratamento de doenças graves avança no Brasil com novas terapias genéticas, mas encontra barreiras",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUmY0RXJqMzBpeTlMdEJ5X04tTlRiYnFOcUxqYlB3SDdFQzJMaVc5M3ZVc3pjY0NMZzQ2UmN3czd4aGtfeFRxQXAyUkJtai01ak5DV1A0S21uNlJ5d3RjXzlIeE1TYkNwSzVFZFpMUE5kZUNxUllJY3RMWGRPcGdGWU1CM0RoY1o4emNrR0MyZ05ya0xJbi1VU1JwSHVMWUpjMl9IV1A3cGo2UEkwejVFUFdCb3VaOXJzdDVUekhOWV9BTDVkTTFKaEkwZFdlcTdTNmxIVXUtclBFcXBUak1wamVKTVJ6Z9IB9AFBVV95cUxNVkdseHNMakp3dUYtckxEOVVwTzBidU9NcVRsRU01Y2JwVGNTdDVaWFRrMzRXS1pTZTQ3MEdDQnVNNXpYOXBzYkNWcUY0aVdHdTlIN2lHZEs2cXlSY0Y1dkpYdlBuY3d2VHBzWFIwZkdkWUJ5ZjB5WWxVeG44ZEJORHZrdFJRWTl3QjdTRGRFY29XekJpdEViUGtmaGlJZy1RRUxuVHZZbzlGUko0RHFSYnVpNFN2OHprN2o0bGVsQ21QeXZQMUU2TXcxU1hqR1RRb21pZE5IZ1BuWkF1Y2ttQ2U5RGVtcEoyNWpfTDB5cUtyYk9a?oc=5",
+        "source": "Valor Econômico",
+        "publishedAt": "2026-11-27T08:00:02.000Z",
+        "summary": "Tratamento de doenças graves avança no Brasil com novas terapias genéticas, mas encontra barreiras Valor Econômico",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.98,
-        "relevance": 5
+        "score": 5.16,
+        "relevance": 7
       },
       {
-        "title": "Inca lança 1º atlas genético do câncer para impulsionar medicina oncológica de precisão no Bras",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjVaVy0tT0c1akFWVHd6bHUxOEhSVkpJMGp5MVNDTnlGYTF0b2lZRHBodTBNNklQMGQ0am5Vdkc4OEp3WXpYX052dFJmSHdzY1k2Zjd4Rzk4aHNuM2lkdUVnRXFwVGR6TkNGMVJNV1NZUzkzaEFTb2p6elV3QW5KeWxwZGdiQUZydTY3QW9yWWRaTnAwRGxPdVV2ZkdIc1laYVBQQnFsQ1BiSDUx0gGwAUFVX3lxTE01WWt2MXdFWW5PVU5pZVRGVERTa3ZWQ0RsSHAzenZzcWxQQ1pKSUl0U2ptMGhPZlJENlF6NlFKdU14My1zWEc0ZVgtWkFTZ0lEVEpmam9vUk9NVE9fdHhYeDB5Qjdzci14LUwyZ3hBOS1SNXJBTVpUOWdpVkRkTEZiV0JMbFlSZ3ZIbVBscUk2TW5OZ1BHb0NOdDdvTUx4QjAyRGE3YVB3YUpKR1lfUjQ4?oc=5",
-        "source": "Folha PE",
-        "publishedAt": "2026-11-26T18:20:00.000Z",
-        "summary": "Inca lança 1º atlas genético do câncer para impulsionar medicina oncológica de precisão no Bras Folha PE",
+        "title": "Cuidado e pesquisa em equipe fortalecem tratamento do câncer",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWGpzOUFrOGtfQ1ctVlRJQjVFUGVQUi1STk1oLW02NGRVa1phdmRzenBQWVFLTkU5Zk5uS2dCUlh0RTRTY3FIVWwwMndKdHpHMklrVlYxVHJhVFcwSzFwblcxTWxuZzZUdGw5ekJESkVrQU5NT0JGOUJDRTJobGFpc3N2Y055dEFzd0xYVGRBQ29pSE1rUkU2ZWtrdEZkTTdaVUxwQmdZbTVDdzlXcFo1Q1BIdi1Jc1hYeFhXUlpGY0RYMDRaWTMzZmF5aHp2eW9DR2tUX3lIdmloelBF?oc=5",
+        "source": "Grupo A Hora",
+        "publishedAt": "2026-11-27T15:45:00.000Z",
+        "summary": "Cuidado e pesquisa em equipe fortalecem tratamento do câncer Grupo A Hora",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.58,
-        "relevance": 6
-      },
-      {
-        "title": "Inca lança atlas sobre características do câncer em brasileiros",
-        "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/inca-lanca-atlas-sobre-caracteristicas-do-cancer-em-brasileiros",
-        "source": "Isabela Vieira – Repórter da Agência Brasil",
-        "publishedAt": "2026-11-26T22:44:00.000Z",
-        "summary": "Tomar chimarrão bem quente é um hábito de muita gente que vive no Sul do Brasil. Pesquisas sobre saúde, no entanto, têm demonstrado que tomar a bebida acima de 65°C com frequência pode causar câncer de esôfago. O desenvolvimento dos vários ",
-        "image": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/abr/assets/images/logo-agenciabrasil.svg",
-        "topics": [
-          "medicina",
-          "negocios"
-        ],
-        "score": 4.52,
+        "score": 4.97,
         "relevance": 5
       },
       {
-        "title": "Faculdade IDOR inaugura novo curso de Medicina no Rio com foco em pesquisa e parcerias com o SUS, abrindo 100 vagas anuais para estudantes.",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNeXJVMldkaWNaWVBha0RrV1hkcHJCR0JCSjdVdk52V2p4dHBXMlNBb1A1VlBWWUxUTkdkeHlibUhrN0Fzemd3OXB0T1Y2dzhmOTJKUHJSU1QxWElvaU9XcXNlbHVhNHhranhfcmpQc3FMQ1lFUXBRVmw3U3JfVU1STk9jZ09IdXFqeUpaSHkyYW1FRlcxbWhhUkNlVk9YbmI1WGNrTUJnWm9oQktZemFWOUhIdmJGMlItS1JLcWRfaDVNSVlXVVdPdGFvaGl5Z1lhczNDalE5UmRldlU2Skc1cnBXaEY5M3ZyUXkxMDJMTE85UkRrMm56U0Q4WTE?oc=5",
-        "source": "Repórter Maceió",
-        "publishedAt": "2026-11-26T21:32:00.000Z",
-        "summary": "Faculdade IDOR inaugura novo curso de Medicina no Rio com foco em pesquisa e parcerias com o SUS, abrindo 100 vagas anuais para estudantes. Repórter Maceió",
+        "title": "O câncer do brasileiro é diferente? Novo atlas genético quer descobrir",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVWQ2b0VTYkhvT2pBTk83XzZoVkQ4MEtrQmktVHhHbUdwMWVHdDR1YnJrcDF6V0R2RkNpcjF2ZTJuRmpkRWM0TFBwYVMwWUpvaHlZeHFCaWlrUHNaWEVJRFh6TC1ZRWRuX0JpT05kSXRBZHBwSk9EQWNrSWdVYjIzRE9qMVRRd1RMT0RZVU1xMjY4bHVKOXA2T1d3S3Y0aVJBN0JqRnlodmNNUQ?oc=5",
+        "source": "Assine Abril",
+        "publishedAt": "2026-11-27T15:30:51.000Z",
+        "summary": "O câncer do brasileiro é diferente? Novo atlas genético quer descobrir Assine Abril",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.31,
+        "score": 4.92,
         "relevance": 5
       },
       {
-        "title": "Aprova na MED ajuda médicos formados no exterior a exercer a medicina no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb0xvRU9XOVg4STJrTEFJZnNENTBYbUpKc05rQTZTcklIQ1hydVpDN2ItQ1lnYzh1c0hNODZkdHRoRWxxX0xXYWYxcHNzVzFvclpmU2wzd2F5Y01qM1hnYXROd09kZklBS3RHUmQ0bnBUUWFYYU5WbmRmSVBrdUxYLVhQODFRcmprLS1LNFNURGVGVGJJaXhTaXo2ZXRzOFhCVGlUYUJpS3Rydw?oc=5",
-        "source": "OCP News",
-        "publishedAt": "2026-11-26T21:15:39.000Z",
-        "summary": "Aprova na MED ajuda médicos formados no exterior a exercer a medicina no Brasil OCP News",
+        "title": "Conselho de Médico: podcast do Cremeb estreia com debate sobre Enamed e os rumos da formação médica",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYWhScmtIdFhpeW9lNHBZR0dWazhzSE9vb1JGVHJHdmF0bUVHX1Z6WVczd01aaWdLLU9oSjdGSW40V014bEQybTFidFRWbDQ3T2FGVXRzYkpWd1VyX2hYU1NGSXZEYVBndXczbWFDTUlWMmpTT1psX1A3RHNSRUhXSkJfeTdJRUZyMFRZeVdtTDdPZzhGOWlDdjRfdFFURWFxRmVyUU1VVFFBZVZPSExaY01CbUlUSkV3emF0YjFadnlkRmhSRWtpcGxJdHRnbmY1ak9idGRIU0JjckZO?oc=5",
+        "source": "CREMEB",
+        "publishedAt": "2026-11-27T14:34:40.000Z",
+        "summary": "Conselho de Médico: podcast do Cremeb estreia com debate sobre Enamed e os rumos da formação médica CREMEB",
         "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.27,
+        "score": 4.75,
         "relevance": 5
       },
       {
-        "title": "Atendimentos por síndromes respiratórias caem até 36% no Hospital de Oiapoque",
-        "link": "https://g1.globo.com/ap/amapa/noticia/2026/11/26/atendimentos-por-sindromes-respiratorias-caem-ate-36percent-no-hospital-de-oiapoque.ghtml",
-        "source": "G1",
-        "publishedAt": "2026-11-26T22:24:09.000Z",
-        "summary": "Hospital Estadual de Oiapoque Gea/Divulgação Após enfrentar uma crise na saúde em maio deste ano, com aumento de 40% na procura por síndromes respiratórias, o Hospital Estadual de Oiapoque, no Norte do Amapá, registra desaceleração na deman",
-        "image": "https://s2-g1.glbimg.com/t1vtwRwmWuWUL8ayHzl3P1lYr_U=/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2026/y/R/ahSWTOSB67H3MGvyDsCg/aleixo-g1-4-.jpg",
+        "title": "Especial Novembro Azul aborda câncer de próstata, avanços da medicina e qualidade de vida",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX295dDlFbG0yQVR4ZUpHMHoyeDdRSE9iZGNlR3FiSGNaR2RRSXZsVlhSRURNUTZvZS1nVmxDMDlfLXRWOEowUFlzeWhfWDc3bmZMTTV1UGhjYjhoX1hlakRFbmx5UlBEdEhOSXdvcXVsMnlTQVkxZnBMZE41UXlvcjBNZzk2NkQ4a05ybkRSTldWN3FrclF2Q0ZfaXFjN1k1cTgyTGMyQ1VNdw?oc=5",
+        "source": "Tribunal de Contas do Estado de São Paulo",
+        "publishedAt": "2026-11-27T13:32:27.000Z",
+        "summary": "Especial Novembro Azul aborda câncer de próstata, avanços da medicina e qualidade de vida Tribunal de Contas do Estado de São Paulo",
+        "image": null,
         "topics": [
           "medicina"
         ],
-        "score": 4.1,
-        "relevance": 4.6
+        "score": 4.56,
+        "relevance": 5
+      },
+      {
+        "title": "O que a Medicina Ensinou Sobre Liderança e Gestão em Saúde | Leonardo Vedolin",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2ZlNBZkh3Mk1PMGdnMko1dU9yY3k2MEUyOGV6TGg2VG9GLTg1dk9GWXd3NGJzcWpfWGhMYk5BYVlZc2xsVkRhOURPcEd5SVE3LVdxWjFVQWFHM2JnbVJ5ZTRzT1pTa1o1LWpCMXMzNGNmVWN3MmV5b1d4dEFDQQ?oc=5",
+        "source": "Dasa",
+        "publishedAt": "2026-11-27T11:52:00.000Z",
+        "summary": "O que a Medicina Ensinou Sobre Liderança e Gestão em Saúde | Leonardo Vedolin Dasa",
+        "image": null,
+        "topics": [
+          "medicina"
+        ],
+        "score": 4.28,
+        "relevance": 5
       }
     ]
   }
